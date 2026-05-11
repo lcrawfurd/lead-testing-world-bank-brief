@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Lead testing in World Bank water supply projects: code and data"
+authors:
+  - family-names: Crawfurd
+    given-names: Lee
+    affiliation: Center for Global Development
+type: software
+license: MIT
+abstract: >-
+  An automated audit of the World Bank's active water supply and
+  sanitation portfolio for drinking-water lead testing commitments.
+  Pipeline pulls project metadata and safeguards documents from the
+  WB Projects + Documents APIs, runs context-aware regex search and
+  parameter-table extraction across ~850 PDFs, and classifies each
+  project's verdict against a fixed taxonomy. Companion code to a CGD
+  blog post.
+keywords:
+  - lead exposure
+  - drinking water
+  - World Bank
+  - safeguards
+  - LMIC
+  - environmental health
+date-released: 2026-05-07

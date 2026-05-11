@@ -1,0 +1,16 @@
+# Python dependencies for the lead-testing-world-bank-brief pipeline.
+#
+# Tested with Python 3.10+ (uses `dict | dict` union syntax in some
+# scripts). Versions below are what the working environment used at
+# the time of writing — anything reasonably recent should work.
+#
+# Install:
+#     python3 -m pip install -r requirements.txt
+#
+# Also requires the system binary `pdftotext` (poppler):
+#     brew install poppler          # macOS
+#     apt-get install poppler-utils # Debian/Ubuntu
+
+requests>=2.31,<3
+matplotlib>=3.7,<4
+python-docx>=1.0,<2

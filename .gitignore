@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Microsoft Office lock files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Quarto build artefacts
+*_files/
+*.html
+
+# Large downloaded PDFs — regenerate via `make download`
+docs-expanded/*.pdf
+
+# Verbose download log — session-specific, not useful to share
+docs-expanded/_download.log
+
+# Reference papers — copyrighted, not redistributable
+lit/
+
+# Author drafts (use Google Docs link instead)
+archive/
+
+# Local working copies
+*.docx
+!archive/*.docx
+
+# NOTE: outputs/audit/_api_cache.json is COMMITTED on purpose.
+# It lets CI run `make enrich` without hitting the WB API for each project.
+# Delete it locally + rerun `make enrich` to refresh against current WB metadata.
+
+# Per-project log files
+outputs/*/*.log

@@ -1,0 +1,13 @@
+parameter,value,docstring
+cost_per_sample_usd,20.0,
+samples_per_system_per_year,4,
+remediation_cost_per_affected_hh_usd,200.0,
+remediation_horizon_years,10,
+households_per_water_system,100,
+water_pb_affected_ugL,30.0,
+bll_slope_per_water_pb,0.04,
+dalys_per_bll_per_person_year,0.00075,
+cost_effectiveness_threshold_usd,1500.0,
+beneficiaries_per_system,500,
+horizon_years,20,
+discount_rate,0.03,

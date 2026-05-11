@@ -1,0 +1,1106 @@
+PARAMETER-TABLE EXTRACTION — per-project audit
+======================================================================
+
+P163782  (39 candidate page(s))
+  P163782_Uganda_EA_2013-11-01_SFG3693_612051.pdf  p.31  [baseline, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Conductivity', 'TDS', 'Temperature', 'pH']
+  P163782_Uganda_EA_2013-11-01_SFG3693_612051.pdf  p.32  [groundwater, surface]  score=12  params=12  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Cadmium', 'Coliform', 'Color', 'Conductivity', 'Iron', 'Lead', 'Manganese', 'Nickel', 'Turbidity', 'Zinc']
+  P163782_Uganda_EA_2013-11-01_SFG3693_612051.pdf  p.37  [drinking, effluent]  score=19  params=12
+      pH                 6.94           |  pH                    6.94          7.39          6.79          7.25       7.49       6-8     6.5-8.5   6-9
+      Temperature          21 °C        |  Temperature, °C       21            21            21            21         21         20-35   ns        ns
+      Turbidity            20 NTU       |  Turbidity, NTU        20            22            70            35         20         ns      5         ns
+      Color               174           |  Apparent colour,      174           195           449           285        229        100     15        ns
+      BOD                  31 mg/l      |  BOD5, mg/l            31            28            43            24         23         30      ns        50
+      COD                  45 mg/l      |  COD, mg/l             45            43            62            35         34         100     ns        ns
+      Iron                1.0 mg/l      |  Iron, mg/l            1.0           1.0           1.3           1.7        1.0        5       0.3       3.5
+      Manganese          0.04 mg/l      |  Manganese, mg/l       0.04          0.05          0.08          0.06       0.03       1       0.2       ns
+      BOD                   5           |  with regard to all the measured parameters except for apparent colour, BOD 5 and TTCs.
+  P163782_Uganda_EA_2013-11-01_SFG3693_612051.pdf  p.38  [drinking, effluent, groundwater, surface]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'Chloride', 'Coliform', 'Color', 'Iron', 'Turbidity']
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.114  [effluent]  score=18  params=9
+      BOD                  50           |  BOD5 (mg/l)                                                                                   50
+      Coliform             10           |  Faecal coliforms (counts/ 100ml)                                                            10,000
+      pH                  6-8           |  pH                                                                                           6-8
+      Phenol              0.2           |  Phenols (mg/l)                                                                                0.2
+      Oil_grease           10           |  Oil and grease (mg/l)                                                                         10
+      Temperature       20-35           |  Temperature (oC)                                                                            20-35
+      pH                  6–9 mg/l      |  pH                                                          mg/l                                           6–9
+      BOD                  30 mg/l      |  BOD                                                         mg/l                                            30
+      COD                 125 mg/l      |  COD                                                         mg/l                                           125
+      Oil_grease           10 mg/l      |  Oil and grease                                              mg/l                                            10
+      TSS                  50 mg/l      |  Total suspended solids                                      mg/l                                            50
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.132  [drinking, surface]  score=14  params=7
+      (parameters mentioned but no parsable rows) ['Chloride', 'Color', 'Iron', 'Sulfate', 'TDS', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.157  [drinking, effluent, surface]  score=15  params=10
+      (parameters mentioned but no parsable rows) ['Chloride', 'Color', 'Iron', 'Nitrate', 'Salinity', 'Sulfate', 'TDS', 'Temperature', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.158  [effluent, surface]  score=19  params=11
+      pH                 6.75           |  pH                                        6.75         8.08      8.08       7.64      6.5      6.75       6.75         6.75       6.75       6.70       6.5 – 8.5
+      Turbidity          5.49 NTU       |  Turbidity                 NTU             5.49         4.62       4.8       4.97     7.87      8.35       7.69         7.97       11.2       8.62           5
+      TDS                29.8 mg/l      |  Total Dissolved Solids    mg/l            29.8         30.3      30.7      30.27     40.4      40.5       40.2         40.2       42.3      40.72         1500
+      TSS                   9 mg/l      |  Total Suspended Solids    mg/l               9            2         9        6.7        5         7         11           12          8        8.6           0
+      Iron              0.054 mg/l      |  Total iron                mg/l           0.054        0.052     0.055       0.05     0.13      0.09       0.12         0.18       1.73       0.45          0.3
+      Manganese         0.119 mg/l      |  Manganese                 mg/l           0.119         0.11     0.113       0.11    0.062     0.061      0.071        0.053       0.08       0.07           1
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.159  [unclassified]  score=13  params=6
+      (parameters mentioned but no parsable rows) ['Coliform', 'Color', 'Iron', 'TSS', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.160  [effluent]  score=13  params=8
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Coliform', 'Color', 'Conductivity', 'Iron', 'TSS', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2016-12-01_SFG3693_924311.pdf  p.161  [effluent]  score=12  params=5
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'TSS', 'pH']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.9  [effluent]  score=7  params=4
+      (parameters mentioned but no parsable rows) ['Cobalt', 'Coliform', 'TSS', 'Turbidity']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.35  [effluent, surface]  score=6  params=4
+      BOD                   5           |  nitrites and phosphates; organic matter high in BOD 5 and COD; and pathogens. These will degrade
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.58  [drinking, baseline, surface]  score=14  params=7
+      (parameters mentioned but no parsable rows) ['BOD', 'Coliform', 'Color', 'Conductivity', 'TSS', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.72  [drinking, effluent, surface]  score=13  params=8
+      (parameters mentioned but no parsable rows) ['Coliform', 'Color', 'Conductivity', 'E.coli', 'Nitrate', 'TSS', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.83  [drinking, effluent, groundwater, surface]  score=10  params=8
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Chloride', 'Coliform', 'Color', 'Sulfate', 'TSS', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.84  [drinking]  score=6  params=2
+      (parameters mentioned but no parsable rows) ['Coliform', 'Turbidity']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.92  [drinking, effluent]  score=9  params=6
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Ammonia', 'Chlorine', 'Sulfate', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.93  [effluent, surface]  score=10  params=6
+      BOD                   5           |  pH value ranges between 5 and 7 (Reh, 1978). The BOD 5 of alum sludge ranges from 30 to 150 mg/L.
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.97  [effluent]  score=10  params=8
+      COD                  49           |  for both materials the removal of suspended solids (SS) 64% and 62%, COD 49% and 40%, NH 4+-N
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.118  [effluent, surface]  score=6  params=6  ← LEAD IN TABLE
+      pH                    6           |  solubility at pH 6 (Tchobanoglous, et al., 2003). Thus, adjusting of pH (i.e. above 6) to keep optimal
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.159  [unclassified]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Ammonia', 'Chlorine', 'Oil_grease', 'Sulfate']
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.247  [effluent]  score=25  params=21  ← LEAD IN TABLE
+      Aluminum            0.5 mg/l      |  6    Aluminum                                mg/l                0.5
+      Arsenic             0.2 mg/l      |  8    Arsenic                                 mg/l                0.2
+      Barium               10 mg/l      |  9    Barium                                  mg/l                10
+      BOD                  50 mg/l      |  11   BOD5                                    mg/l                50                                        30
+      Boron                 5 mg/l      |  12   Boron                                   mg/l                 5
+      Cadmium             0.1 mg/l      |  13   Cadmium                                 mg/l                0.1
+      Chloride            500 mg/l      |  15   Chloride                                mg/l                500
+      Chlorine              1 mg/l      |  16   Chlorine                                mg/l                 1
+      Chromium              1 mg/l      |  17   Chromium (total)                        mg/l                 1
+      Chromium           0.05 mg/l      |  18   Chromium (VI)                           mg/l               0.05
+      COD                 100           |  21   COD                                                         100                                      125
+      Color               300 TCU       |  23   Color                                   TCU                 300
+      Copper                1 mg/l      |  24   Copper                                  mg/l                 1
+      Cyanide             0.1 mg/l      |  25   Cyanide                                 mg/l                0.1
+      Iron                 10 mg/l      |  28   Iron                                    mg/l                 10
+      Lead                0.1 mg/l      |  29   Lead                                    mg/l                0.1
+      Manganese             1 mg/l      |  31   Manganese                               mg/l                 1
+      Mercury            0.01 mg/l      |  32   Mercury                                 mg/l                0.01
+      Nickel                1 mg/l      |  33   Nickel                                  mg/l                 1
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.248  [unclassified]  score=18  params=13
+      Oil_grease           10 mg/l      |  36   Oil and grease                         mg/l                    10                                   10
+      pH              6.0-8.0           |  37   pH                                                           6.0-8.0                                6-9
+      Phenol              0.2 mg/l      |  38   Phenols                                mg/l                    0.2
+      Phosphate            10 mg/l      |  39   Phosphate (total)                      mg/l                    10                                       2
+      Phosphate             5 mg/l      |  40   Phosphate (soluble)                    mg/l                     5
+      Selenium              1 mg/l      |  41   Selenium                               mg/l                     1
+      Silver              0.5 mg/l      |  42   Silver                                 mg/l                    0.5
+      Sulfate             500 mg/l      |  43   Sulfate                                mg/l                    500
+      Sulfide               1 mg/l      |  44   Sulfide                                mg/l                     1
+      TDS                1200 mg/l      |  45   TDS                                    mg/l                   1200                                   50
+      Temperature       20-35 °C        |  46   Temperature                            °C                    20-35
+      TSS                 100 mg/l      |  50   Total Suspended solids                 mg/l                    100
+      Turbidity           300 NTU       |  52   Turbidity                              NTU                     300
+      Zinc                  5 mg/l      |  53   Zinc                                   mg/l                     5
+  P163782_Uganda_EA_2018-04-01_SFG3693_477671.pdf  p.249  [effluent, baseline]  score=13  params=6
+      pH                  6–9           |  pH                                            pH                                6–9
+      BOD                  30 mg/l      |  BOD                                          mg/l                                 30
+      COD                 125 mg/l      |  COD                                          mg/l                                125
+      TSS                  50 mg/l      |  Total suspended solids                       mg/l                                 50
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.68  [groundwater]  score=9  params=4
+      (parameters mentioned but no parsable rows) ['Conductivity', 'Salinity', 'Temperature', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.69  [surface]  score=7  params=4
+      (parameters mentioned but no parsable rows) ['Conductivity', 'Salinity', 'Temperature', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.83  [effluent, surface]  score=9  params=6
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Chloride', 'Chlorine', 'Iron', 'Sulfate', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.86  [drinking]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Color', 'Turbidity']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.136  [effluent, surface]  score=14  params=7
+      BOD                  50           |  BOD5 (mg/l)                                                                                         50
+      Coliform             10           |  Faecal coliforms (counts/ 100ml)                                                                 10,000
+      pH                  6-8           |  pH                                                                                                 6-8
+      Phenol              0.2           |  Phenols (mg/l)                                                                                     0.2
+      Oil_grease           10           |  Oil and grease (mg/l)                                                                               10
+      Temperature       20-35           |  Temperature (oC)                                                                                  20-35
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.137  [effluent, surface]  score=13  params=6
+      pH                  6–9 mg/l      |  pH                                                      mg/l                                     6–9
+      BOD                  30 mg/l      |  BOD                                                     mg/l                                     30
+      COD                 125 mg/l      |  COD                                                     mg/l                                     125
+      Oil_grease           10 mg/l      |  Oil and grease                                          mg/l                                     10
+      TSS                  50 mg/l      |  Total suspended solids                                  mg/l                                     50
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.169  [drinking, baseline, surface]  score=9  params=9
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Conductivity', 'Nitrate', 'Nitrite', 'Salinity', 'TDS', 'Temperature', 'Turbidity', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.560  [unclassified]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['Barium', 'Chloride', 'Nitrate', 'Silver', 'Sulfate', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.587  [unclassified]  score=7  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Chromium', 'Cobalt', 'Copper', 'Iron', 'Lead', 'Nickel', 'Zinc']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.760  [unclassified]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Color', 'TDS', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.762  [unclassified]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Color', 'TDS', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.785  [unclassified]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['Barium', 'Chloride', 'Nitrate', 'Silver', 'Sulfate', 'pH']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.807  [unclassified]  score=7  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Chromium', 'Cobalt', 'Copper', 'Iron', 'Lead', 'Nickel', 'Zinc']
+  P163782_Uganda_EA_2020-06-01_SFG3693_929471.pdf  p.867  [unclassified]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Color', 'TDS', 'pH']
+
+P171422  (2 candidate page(s))
+  P171422_Pakistan_ESMP_2024-11-22_099112.pdf  p.71  [drinking, effluent]  score=24  params=25  ← LEAD IN TABLE
+      Turbidity           < 5 NTU       |  Turbidity                 NTU                                    < 5 NTU                  < 5 NTU
+      TDS              < 1000 mg/l      |  TDS                       mg/l                                   < 1000                   < 1000
+      pH              6.5-8.5           |  pH                                                               6.5-8.5                  -
+      Barium              0.7 mg/l      |  Barium                    mg/l                                   0.7                      0.7
+      Boron               0.3 mg/l      |  Boron                     mg/l                                   0.3                      0.3
+      Cadmium            0.01 mg/l      |  Cadmium                   mg/l                                   0.01                     0.003
+      Chloride           <250 mg/l      |  Chloride                  mg/l                                   <250                     250
+      Copper                2 mg/l      |  Copper                    mg/l                                   2                        2
+      Fluoride           <1.5 mg/l      |  Fluoride                  mg/l                                   <1.5                     1.5
+      Selenium           0.01 mg/l      |  Selenium                  mg/l                                   0.01                     0.01
+      Chlorine        0.2-0.5 mg/l      |  Residual Chlorine         mg/l                                   0.2-0.5 at consumer      -
+      Zinc                5.0 mg/l      |  Zinc                      mg/l                                   5.0                      3
+  P171422_Pakistan_ESMP_2024-11-22_099112.pdf  p.98  [effluent]  score=21  params=25  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Antimony', 'Arsenic', 'Barium', 'Boron', 'Cadmium', 'Chloride', 'Chlorine', 'Chromium', 'Coliform', 'Copper', 'Cyanide', 'E.coli', 'Fluoride', 'Lead', 'Manganese', 'Mercury', 'Nickel', 'Nitrate', 'Nitrite', 'Selenium', 'TDS', 'Turbidity', 'Zinc', 'pH']
+
+P176429  (1 candidate page(s))
+  P176429_Bangladesh_PAD_2024-11-25_PAD5172_099120.pdf  p.45  [drinking]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Coliform', 'E.coli', 'Fluoride']
+
+P176619  (3 candidate page(s))
+  P176619_Jordan_EA_2023-05-22_099052.pdf  p.94  [drinking, effluent, groundwater, surface]  score=9  params=4  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'Phosphate', 'Salinity', 'Temperature']
+  P176619_Jordan_ESMP_2023-05-16_099051.pdf  p.90  [drinking, effluent, groundwater, surface]  score=9  params=4  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'Phosphate', 'Salinity', 'Temperature']
+  P176619_Jordan_ESMP_2023-09-25_099092.pdf  p.94  [drinking, effluent, groundwater, surface]  score=9  params=4  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'Phosphate', 'Salinity', 'Temperature']
+
+P178954  (2 candidate page(s))
+  P178954_Malawi_ESMP_2023-02-03_099135.pdf  p.41  [effluent, surface]  score=11  params=5
+      TSS                  30 mg/l      |  Total suspended Solids, mg/l, max                    30         27
+      Chlorine            0.1 mg/l      |  Toal Residual Chlorine (as free chlorine), mg/l, max 0.1        NA
+      pH           6.5 to 9.0           |  pH                                                   6.5 to 9.0 6-9
+  P178954_Malawi_ESMP_2023-02-03_099135.pdf  p.42  [unclassified]  score=24  params=12  ← LEAD IN TABLE
+      Color                25 TCU       |  Colour, TCU, max                                     25
+      Turbidity            25 NTU       |  Turbidity, NTU, max                                  25
+      Cadmium            0.01 mg/l      |  Cadmium (as Cd), mg/l, max                           0.01
+      Chromium           0.05 mg/l      |  Hexavalent Chromium (as Cr), mg/l, max               0.05
+      Chromium           0.05 mg/l      |  Total Chromium, mg/l, max                            0.05        0.46
+      Copper                2 mg/l      |  Copper (as Cu), mg/l, max                            2
+      Lead               0.05 mg/l      |  Lead (as Pb), mg/l, max                              0.05
+      Mercury            Nill mg/l      |  Mercury (as Hg), mg/l, max                           Nill
+      Nickel             0.01 mg/l      |  Nickel (as Ni), mg/l, max                            0.01
+      Selenium           Nill mg/l      |  Selenium (as Se), mg/l, max                          Nill
+      Zinc                  5 mg/l      |  Zinc (as Zn), mg/l, max                              5           0.11
+      Coliform          <1000           |  Faecal Coliforms (CCFU/100ml)   <1000
+
+P179017  (4 candidate page(s))
+  P179017_Guinea_EA_2025-03-31_099033.pdf  p.61  [drinking, effluent]  score=12  params=4
+      pH                    6           |  pH                                                                  6,5 - 8,5              6,5 - 8,5               6,5 - 8,5
+  P179017_Guinea_EA_2025-03-31_099033.pdf  p.62  [unclassified]  score=6  params=2
+      pH                    6           |  pH                             6,5 - 8,5   6,5 - 8,5   6,5 - 8,5    5,96            4,90         6,90       7,92          9,08
+  P179017_Guinea_EA_2025-03-31_099033.pdf  p.63  [unclassified]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Aluminum', 'E.coli', 'pH']
+  P179017_Guinea_EA_2025-03-31_099033.pdf  p.103  [drinking]  score=7  params=2
+      pH              6.5-8.5           |  pH                                                                                         6.5-8.5
+
+P179039  (11 candidate page(s))
+  P179039_India_ESSA_2022-12-11_099810.pdf  p.21  [drinking, effluent, baseline, groundwater, surface]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['BOD', 'Iron', 'TDS']
+  P179039_India_ESSA_2022-12-11_099810.pdf  p.87  [groundwater]  score=14  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Conductivity', 'Fluoride', 'Iron', 'Lead', 'Nitrate', 'Salinity']
+  P179039_India_ESSA_2022-12-17_099412.pdf  p.21  [drinking, effluent, baseline, groundwater, surface]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['BOD', 'Iron', 'TDS']
+  P179039_India_ESSA_2022-12-17_099412.pdf  p.87  [groundwater]  score=14  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Conductivity', 'Fluoride', 'Iron', 'Lead', 'Nitrate', 'Salinity']
+  P179039_India_ESSA_2023-01-25_099082.pdf  p.24  [drinking, effluent, baseline, groundwater, surface]  score=8  params=5
+      (parameters mentioned but no parsable rows) ['Arsenic', 'BOD', 'Fluoride', 'Iron', 'TDS']
+  P179039_India_ESSA_2023-01-25_099082.pdf  p.109  [groundwater]  score=14  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Conductivity', 'Fluoride', 'Iron', 'Lead', 'Nitrate', 'Salinity']
+  P179039_India_ESSA_2023-01-25_099082.pdf  p.110  [unclassified]  score=14  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Conductivity', 'Fluoride', 'Iron', 'Lead', 'Nitrate', 'Salinity']
+  P179039_India_ESSA_2023-03-03_099181.pdf  p.24  [drinking, effluent, baseline, groundwater, surface]  score=8  params=5
+      (parameters mentioned but no parsable rows) ['Arsenic', 'BOD', 'Fluoride', 'Iron', 'TDS']
+  P179039_India_ESSA_2023-03-03_099181.pdf  p.109  [groundwater]  score=14  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Conductivity', 'Fluoride', 'Iron', 'Lead', 'Nitrate', 'Salinity']
+  P179039_India_ESSA_2023-03-03_099181.pdf  p.110  [unclassified]  score=14  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Conductivity', 'Fluoride', 'Iron', 'Lead', 'Nitrate', 'Salinity']
+  P179039_India_PID_2022-09-26_PIDC265101_099615.pdf  p.5  [drinking, groundwater, surface]  score=7  params=5  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Coliform', 'E.coli', 'Fluoride', 'Lead', 'Nitrate']
+
+P179684  (3 candidate page(s))
+  P179684_Nigeria_ESMP_2024-08-01_099080.pdf  p.58  [groundwater, surface]  score=7  params=4
+      (parameters mentioned but no parsable rows) ['Color', 'Conductivity', 'TDS', 'pH']
+  P179684_Nigeria_ESMP_2024-08-01_099080.pdf  p.76  [groundwater, surface]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['Conductivity', 'TDS', 'pH']
+  P179684_Nigeria_ESMP_2024-08-01_099080.pdf  p.178  [effluent]  score=6  params=6
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Conductivity', 'TDS', 'TSS', 'Turbidity', 'pH']
+
+P181029  (13 candidate page(s))
+  P181029_Tajikistan_EA_2023-12-22_099122.pdf  p.211  [baseline]  score=13  params=2  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'Temperature']
+  P181029_Tajikistan_EA_2023-12-22_099122.pdf  p.219  [surface]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['COD', 'Chloride', 'Nitrate', 'Sulfate', 'Temperature', 'pH']
+  P181029_Tajikistan_EA_2025-10-08_099100.pdf  p.466  [baseline, surface]  score=16  params=8
+      BOD          -            0.8 mg/l      |  BOD          mg/l          -            0.8           1.4               -        3.0
+      COD                 0.6 mg/l      |  COD          mg/l         0.6           4.5           15.1              -
+      TDS               551.4 mg/l      |  TDS          mg/l                     551.4         1170.0       132.4 – 606.4
+      pH                  7.6           |  pH                        7.6           7.6           7.6           7.0 – 8.1
+  P181029_Tajikistan_EA_2025-10-08_099100.pdf  p.482  [effluent, surface]  score=10  params=5
+      (parameters mentioned but no parsable rows) ['Coliform', 'Oil_grease', 'TDS', 'Temperature', 'pH']
+  P181029_Tajikistan_EA_2025-10-09_099100.pdf  p.79  [unclassified]  score=6  params=1
+      (parameters mentioned but no parsable rows) ['Temperature']
+  P181029_Tajikistan_EA_2025-10-09_099100.pdf  p.150  [drinking, surface]  score=14  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Chloride', 'Chromium', 'Lead', 'Nitrate', 'Sulfate', 'Temperature', 'pH']
+  P181029_Tajikistan_EA_2025-10-09_099100.pdf  p.151  [surface]  score=21  params=12
+      Nitrite        -    0.5 mg/L      |  Nitrite (NO2) mg/L   -    0.5       0.02         -       -       -      0.01     0.05        0.01        0.02      0.002          -             -           -           -           -           -           -           -           -           -
+  P181029_Tajikistan_EA_2025-10-09_099100.pdf  p.152  [drinking, surface]  score=13  params=5  ← LEAD IN TABLE
+      Copper       2      -    0.001 mg/L      |  Copper (Cu) mg/L       2      -    0.001         -           -       -          0.04           0.01          0.07          0.1           -              -               -            -            -            -            -            -            -            -            -
+      Chromium            0.0           |  Chromium                   0.0
+      Chromium              6           |  Chromium 6
+      Chromium              6           |  Chromium 6
+      Iron          -     0.2 mg/L      |  Iron (Fe)      mg/L    -     0.2     -           -           -       -          0.02           0.01          0.11          0.03        0.01             -               -            -            -            -            -            -            -            -            -
+  P181029_Tajikistan_EA_2025-10-09_099100.pdf  p.153  [effluent, surface]  score=12  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Chloride', 'Iron', 'Lead', 'Phosphate', 'Salinity', 'Sulfate', 'Sulfide', 'Temperature', 'pH']
+  P181029_Tajikistan_EA_2025-10-09_099100.pdf  p.163  [drinking, effluent, surface]  score=9  params=5
+      (parameters mentioned but no parsable rows) ['Conductivity', 'TDS', 'TSS', 'Temperature', 'pH']
+  P181029_Tajikistan_ESMP_2025-12-22_099122.pdf  p.98  [effluent, baseline]  score=17  params=9
+      pH            6.5 - 8.5           |  pH                                             pH                 6.5 - 8.5
+      TSS                1000 mg/L      |  Total Suspended Solids (TSS)                  mg/L                 1000
+      TDS                1000 mg/L      |  Total Dissolved Solids (TDS)                  mg/L                 1000
+      Ammonia            0.39 mg/L      |  Total ammonia (as N)                          mg/L                  0.39
+      Chloride            300 mg/L      |  Chloride (as Cl)                              mg/L                  300
+  P181029_Tajikistan_ESMP_2025-12-22_099122.pdf  p.99  [effluent, baseline]  score=12  params=5
+      Temperature          40           |  Temperature (0С)                                  40
+      pH              6.5-8.5           |  pH (s.u.)                                       6.5-8.5
+      Turbidity          1000           |  Turbidity (FAU)                                  1000
+      Coliform             10           |  Total coliforms                                   10
+  P181029_Tajikistan_ESMP_2025-12-22_099122.pdf  p.100  [effluent, baseline, surface]  score=18  params=9
+      Oil_grease           10 mg/L      |  Oil and Grease                                          mg/L                 10
+      TSS                  50 mg/L      |  Total Suspended Solids                                  mg/L                 50
+      Temperature          40           |  Temperature (0С)                                     40
+      pH              6.5-8.5           |  pH (s.u.)                                          6.5-8.5             6-9
+      Turbidity          1000           |  Turbidity (FAU)                                     1000
+      Coliform             10           |  Total coliforms                                      10                400
+
+P181064  (1 candidate page(s))
+  P181064_Belize_PAD_2025-01-09_PADHI00255_099011.pdf  p.36  [unclassified]  score=10  params=6
+      TSS                  30           |  Total Suspended Solids                        30 mg/l
+      pH                 5-10           |  PH                                            5-10 pH units
+      Oil_grease           15           |  Fats, Oil and Grease                          15 mg/l
+      Coliform            200           |  Fecal Coliforms                              200 mpn/100 ml; or
+      E.coli              126           |  (a) E.coli: 126 organisms/100 ml
+
+P181702  (10 candidate page(s))
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.53  [unclassified]  score=19  params=14
+      Turbidity            75 NTU       |  Turbidity                                              NTU                           75
+      TDS                   1 mg/l      |  Total Dissolved Solids (TDS)                           mg/l                         1,000
+      TSS                  50 mg/l      |  Total Suspended Solids (TSS)                           mg/l                          50
+      BOD                  50 mg/l      |  BOD                                                    mg/l                          50
+      COD                 250 mg/l      |  COD                                                    mg/l                          250
+      Nitrate              50 mg/l      |  Nitrate (NO3-N)                                        mg/l                          50
+      Chloride            250 mg/l      |  Chloride                                               mg/l                          250
+      Sulfide             1.5 mg/l      |  Sulphide                                               mg/l                          1.5
+      Chromium              6           |  Chromium 6+                                            mg/l                          0.1
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.105  [drinking, groundwater, surface]  score=23  params=23  ← LEAD IN TABLE
+      pH           -           7.4           |  pH                                           -           7.4               6.5-8.5
+      TDS                  66 mg/l      |  Total Dissolved Solids (TDS)                 mg/l        66                 1,000
+      TSS                 4.8 mg/l      |  Total Suspended Solids (TSS)                 mg/l        4.8                  -
+      Turbidity           9.4 NTU       |  Turbidity                                    NTU         9.4                 5
+      Sulfide           0.001 mg/l      |  Sulfide                                      mg/l      0.001                  -
+      Iron               0.39 mg/l      |  Iron (Fe)                                    mg/l       0.39                0.3
+      Manganese         0.098 mg/l      |  Manganese (Mn)                               mg/l      0.098                  -
+      Copper            0.002 mg/l      |  Copper (Cu)                                  mg/l      0.002                  -
+      Nickel            0.026 mg/l      |  Nickel (Ni)                                  mg/l      0.026                  -
+      Lead              0.052 mg/l      |  Lead (Pb)                                    mg/l      0.052                0.05
+      Mercury          0.0002 mg/l      |  Mercury (Hg)                                 mg/l      0.0002                 -
+      Arsenic          0.0003 mg/l      |  Arsenic (As)                                 mg/l      0.0003               0.05
+      Silver             0.01 mg/l      |  Silver (Ag)                                  mg/l       0.01                  -
+      Chromium          0.001 mg/l      |  Chromium (Cr3+)                              mg/l      0.001                  -
+      Chromium          0.003 mg/l      |  Chromium (Cr )                               mg/l      0.003                  -
+      Cadmium           0.043 mg/l      |  Cadmium (Cd)                                 mg/l      0.043                0.01
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.106  [drinking, effluent, surface]  score=9  params=9  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Cadmium', 'Coliform', 'Lead', 'Nitrate', 'TDS', 'Turbidity', 'pH']
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.109  [effluent, surface]  score=19  params=13
+      pH           -                7.7           |  pH                                       -                7.7            6.3             7.9          8.3              6-9                6-9
+      TDS                 259 mg/l      |  Total Dissolved Solids (TDS)             mg/l             259            694                 841      578             0-450                  -
+      TSS                56.2 Mg/l      |  Total Suspended Solids (TSS)             Mg/l             56.2           89.6            161.1        88.2              -                   50
+      Turbidity          88.8 NTU       |  Turbidity                                NTU              88.8          99.6            184.5        83.9              0-1                  -
+      Sulfide           0.006 mg/l      |  Sulfide                                  mg/l            0.006          0.037           0.098        0.051              -                   -
+      Iron              4.006 mg/l      |  Iron (Fe)                                mg/l            4.006          8.59             2.88        2.786           0 – 0.1                -
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.110  [effluent, surface]  score=18  params=9  ← LEAD IN TABLE
+      Manganese         0.162 mg/l      |  Manganese (Mn)                           mg/l      0.162       0.278        0.158          0.136              -                    -
+      Copper            0.001 mg/l      |  Copper (Cu)                              mg/l      0.001       0.002        0.003          0.001              -                    -
+      Lead              0.009 mg/l      |  Lead (Pb)                                mg/l      0.009       0.025        0.023         <0.001           0 - 10                  -
+      Mercury          0.0031 mg/l      |  Mercury (Hg)                             mg/l     0.0031       0.016        0.004         0.0022              -                    -
+      Arsenic          0.0004 mg/l      |  Arsenic (As)                             mg/l     0.0004       0.0017       0.0045        0.0026              -                    -
+      Silver             0.01 mg/l      |  Silver (Ag)                              mg/l       0.01        0.12         0.30          0.17               -                    -
+      Chromium              3           |  Chromium 3+ (Cr )                        mg/l       0.01       0.013        0.011          0.014              -                    -
+      Chromium              6           |  Chromium 6+ (Cr6+)                       mg/l      0.001       0.093        0.208          0.168              -                    -
+      Cadmium           0.025 mg/l      |  Cadmium (Cd)                             mg/l      0.025       0.001        0.043          0.079              -                    -
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.113  [effluent]  score=20  params=15
+      pH           -                           7.2           |  pH                                   -                           7.2                 7.4                9.1                9.1          6-9                  6-9
+      TDS                 202 mg/l      |  Total Dissolved Solids (TDS)         mg/l                       202                 240                 223               601           1,000                   -
+      TSS                29.1 Mg/l      |  Total Suspended Solids (TSS)         Mg/l                       29.1                18.2               35.2               89.7           50                    50
+      Turbidity          36.6 NTU       |  Turbidity                            NTU                        36.6                24.2               50.6               90.4          75                     -
+      Sulfide           0.014 mg/l      |  Sulfide                              mg/l                    0.014                 0.005              0.015            0.057            1.5                    -
+      Iron              1.687 mg/l      |  Iron (Fe)                            mg/l                    1.687                 2.206              2.572               1.56           -                     -
+      Manganese         0.068 mg/l      |  Manganese (Mn)                       mg/l                    0.068                 0.113              0.054            0.197             -                     -
+      Copper            0.001 mg/l      |  Copper (Cu)                          mg/l                    0.001                 0.001              0.001            0.005             -                     -
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.114  [effluent, surface]  score=15  params=7  ← LEAD IN TABLE
+      Lead             <0.001 mg/l      |  Lead (Pb)                            mg/l              <0.001                  0.015              0.056              0.123                           -
+      Mercury          0.0006 mg/l      |  Mercury (Hg)                         mg/l              0.0006                 0.0004             0.0008            0.0023         -                  -
+      Arsenic          0.0006 mg/l      |  Arsenic (As)                         mg/l              0.0006                 0.0005             0.0008            0.0028                            -
+      Silver             0.02 mg/l      |  Silver (Ag)                          mg/l                  0.02                 0.03               0.05               0.17        -                  -
+      Chromium              3           |  Chromium 3+ (Cr3+)                   mg/l               0.009                  0.002              0.004              0.032        -                  -
+      Chromium              6           |  Chromium 6+ (Cr6+)                   mg/l               0.103                  0.001              0.006              0.103       0.1                 -
+      Cadmium           0.016 mg/l      |  Cadmium (Cd)                         mg/l               0.016                  0.017              0.098              0.001        -                  -
+  P181702_Ghana_EA_2024-05-01_192740_099054.pdf  p.115  [effluent, surface]  score=12  params=11  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Arsenic', 'BOD', 'COD', 'Cadmium', 'Chromium', 'Coliform', 'Lead', 'Mercury', 'TSS', 'Zinc']
+  P181702_Ghana_EA_2024-05-01_192740_099101.pdf  p.51  [drinking]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Conductivity', 'TDS', 'Temperature', 'pH']
+  P181702_Ghana_EA_2024-05-01_192740_099101.pdf  p.53  [effluent, groundwater, surface]  score=12  params=6
+      (parameters mentioned but no parsable rows) ['Conductivity', 'Salinity', 'TDS', 'Temperature', 'Turbidity', 'pH']
+
+P505813  (1 candidate page(s))
+  P505813_SouthAfrica_PAD_2025-10-17_PADHP00141_099102.pdf  p.75  [effluent]  score=6  params=6
+      (parameters mentioned but no parsable rows) ['Ammonia', 'COD', 'Coliform', 'E.coli', 'Turbidity', 'pH']
+
+P507504  (3 candidate page(s))
+  P507504_Philippines_ESSA_2025-02-18_099021.pdf  p.46  [drinking, effluent]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Chloride', 'Chlorine', 'Lead', 'Phenol', 'Sulfide']
+  P507504_Philippines_ESSA_2026-03-06_099030.pdf  p.45  [drinking, effluent]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Chloride', 'Chlorine', 'Lead', 'Phenol', 'Sulfide']
+  P507504_Philippines_SA_2025-02-17_197456_099906.pdf  p.46  [drinking, effluent]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Chloride', 'Chlorine', 'Lead', 'Phenol', 'Sulfide']
+
+P507588  (2 candidate page(s))
+  P507588_SierraLeone_ESMP_2025-05-09_099050.pdf  p.137  [effluent, surface]  score=7  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Cadmium', 'Color', 'Copper', 'Lead', 'Nickel', 'Zinc']
+  P507588_SierraLeone_ESMP_2025-05-09_099050.pdf  p.148  [effluent, baseline]  score=17  params=16  ← LEAD IN TABLE
+      Arsenic            0.01           |  50 (Interim target-2)                  Arsenic                        0.01
+      Cadmium           0.003           |  500 (guideline)                        Cadmium                        0.003
+      Chlorine              5           |  1 hour                    200 (guideline)                        Chlorine                       5
+      Copper                2           |  70 (Interim target-1)                  Copper                         2
+      Fluoride            1.5           |  50 (Interim target-2)                  Fluoride                       1.5
+      Lead               0.01           |  1 year                    30 (Interim target-3)                  Lead                           0.01
+      Mercury          0.0006           |  20 (guideline)                         Mercury                        0.0006
+      Nickel             0.07           |  150 (Interim target-1)                 Nickel                         0.07
+      Nitrate              50           |  Nitrate                        50
+      Nitrite               3           |  Nitrite                        3
+      pH                  6-9           |  25 (guideline)                    pH                          pH               6-9
+      BOD                  30 mg/l      |  8-hour         daily      160 (Interim target-1)            BOD                         mg/l             30
+      COD                 125 mg/l      |  maximum                   100 (guideline)                   COD                         mg/l             125
+      Oil_grease           10 mg/l      |  Oil and grease              mg/l             10
+      TSS                  50 mg/l      |  Total Suspended solids      mg/l             50
+
+P507658  (19 candidate page(s))
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.101  [effluent, surface]  score=6  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Oil_grease', 'TSS', 'Temperature', 'pH']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.121  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Nitrite', 'Salinity']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.127  [effluent, groundwater, surface]  score=15  params=9
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Chloride', 'Coliform', 'Oil_grease', 'Phosphate', 'TSS', 'Temperature', 'pH']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.128  [effluent, groundwater]  score=13  params=8  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Iron', 'Lead', 'Manganese', 'Zinc']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.129  [effluent, surface]  score=6  params=6
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'Oil_grease', 'TSS', 'Temperature', 'pH']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.193  [effluent, surface]  score=12  params=4
+      TSS              70–145           |  Science and Technology, 2006): BOD₅: 45–54 g/person/day; TSS: 70–145 g/person/day; Oil &
+      Coliform             10           |  Coliform: 10⁶–10⁹ MPN/100 mL
+      TSS                   1           |  TSS            1,265            60 mg/L                            Exceeds standard ~21
+      Coliform             10           |  Coliform       10⁸–10⁹          5,000 MPN/100 mL                   Exceeds        standard
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.196  [effluent, surface]  score=6  params=6
+      (parameters mentioned but no parsable rows) ['Iron', 'Manganese', 'Oil_grease', 'TSS', 'Turbidity', 'pH']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.231  [baseline, surface]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['Silver', 'TSS', 'Turbidity']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.238  [baseline, surface]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['COD', 'TSS', 'Turbidity']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.240  [effluent, baseline, surface]  score=7  params=3
+      (parameters mentioned but no parsable rows) ['COD', 'TSS', 'Turbidity']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.250  [baseline, surface]  score=7  params=3
+      COD             7.8–9.4           |  08-MT:2023/BTNMT (Column B), specifically BOD₅ 4.2–5.4 mg/L, COD 7.8–9.4 mg/L, DO 5.0
+      TSS           10.2–10.4           |  mg/L, and TSS 10.2–10.4 mg/L.
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.268  [drinking, effluent, baseline, surface]  score=6  params=2
+      COD                = 50           |  (Column A, K = 1), with typical maximum concentrations of BOD₅ = 20 mg/L, COD = 50 mg/L,
+      TSS                = 50           |  NH₄⁺–N = 5 mg/L, and TSS = 50 mg/L. Given the high river discharge, initial dilution ratios range
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.269  [drinking, effluent, baseline, surface]  score=9  params=3
+      COD           = 250–400           |  from BOD₅ = 150–250 mg/L, COD = 250–400 mg/L, NH₄⁺–N = 20–40 mg/L, and TSS = 150–
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.388  [effluent, surface]  score=8  params=6
+      (parameters mentioned but no parsable rows) ['COD', 'Oil_grease', 'Salinity', 'TSS', 'Temperature', 'pH']
+  P507658_VietNam_EA_2026-02-03_099020.pdf  p.389  [effluent]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['Coliform', 'Nitrate', 'Oil_grease', 'Phosphate', 'Sulfide', 'TDS']
+  P507658_VietNam_RP_2026-02-06_099020.pdf  p.200  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'TSS', 'pH']
+  P507658_VietNam_RP_2026-02-06_099020.pdf  p.208  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'TSS', 'pH']
+  P507658_VietNam_SA_2026-02-06_099020.pdf  p.99  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'TSS', 'pH']
+  P507658_VietNam_SA_2026-02-06_099020.pdf  p.115  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'TSS', 'pH']
+
+P508034  (1 candidate page(s))
+  P508034_Pakistan_ESRS_2025-05-29_ESRSC04949_099052.pdf  p.3  [drinking, effluent, groundwater]  score=9  params=5  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Lead', 'Salinity']
+
+P508094  (8 candidate page(s))
+  P508094_Pakistan_ESSA_2025-06-25_099062.pdf  p.45  [effluent]  score=9  params=4
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'TSS', 'pH']
+  P508094_Pakistan_ESSA_2025-06-25_099062.pdf  p.46  [effluent]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'TDS', 'TSS', 'pH']
+  P508094_Pakistan_ESSA_2025-06-25_099062.pdf  p.51  [unclassified]  score=12  params=9
+      BOD                   2           |  BOD5                                       2,000-30,000               10,000              100-200
+      COD                   3           |  COD (chemical oxygen demand)               3,000-60,000               18,000              100-500
+      TSS               200-2           |  TSS (total suspended solids)                  200-2,000                  500              100-400
+      Nitrate            5-40           |  Nitrate                                            5-40                   25                 5-10
+      pH              4.5-7.5           |  pH                                               4.5-7.5                  6                6.6-7.5
+      Chloride          200-3           |  Chloride                                      200-3,000                  500              100-400
+      Sulfate            50-1           |  Sulphate                                       50-1,000                  300                20-50
+      Iron               50-1           |  Total iron                                     50-1,200                   60               20-200
+  P508094_Pakistan_ESSA_2025-06-27_099062.pdf  p.45  [effluent]  score=9  params=4
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'TSS', 'pH']
+  P508094_Pakistan_ESSA_2025-06-27_099062.pdf  p.46  [effluent]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'TDS', 'TSS', 'pH']
+  P508094_Pakistan_ESSA_2025-06-27_099062.pdf  p.51  [groundwater]  score=9  params=6
+      BOD                   2           |  BOD5                                       2,000-30,000             10,000                100-200
+      COD                   3           |  COD (chemical oxygen demand)               3,000-60,000             18,000                100-500
+      TSS               200-2           |  TSS (total suspended solids)                  200-2,000                  500              100-400
+      Nitrate            5-40           |  Nitrate                                            5-40                   25                 5-10
+      pH              4.5-7.5           |  pH                                               4.5-7.5                  6                6.6-7.5
+  P508094_Pakistan_ESSA_2025-11-17_099111.pdf  p.46  [effluent]  score=10  params=5
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'TDS', 'TSS', 'pH']
+  P508094_Pakistan_ESSA_2025-11-17_099111.pdf  p.53  [effluent]  score=12  params=9
+      BOD                   2           |  BOD5                                                   2,000-30,000                    10,000                      100-200
+      COD                   3           |  COD (chemical oxygen demand)                           3,000-60,000                    18,000                      100-500
+      TSS               200-2           |  TSS (total suspended solids)                              200-2,000                        500                     100-400
+      Nitrate            5-40           |  Nitrate                                                          5-40                       25                         5-10
+      pH              4.5-7.5           |  pH                                                            4.5-7.5                        6                      6.6-7.5
+      Chloride          200-3           |  Chloride                                                  200-3,000                        500                     100-400
+      Sulfate            50-1           |  Sulphate                                                    50-1,000                       300                        20-50
+      Iron               50-1           |  Total iron                                                  50-1,200                        60                      20-200
+
+P508221  (1 candidate page(s))
+  P508221_Brazil_EA_2026-02-19_099021.pdf  p.91  [unclassified]  score=7  params=1
+      pH           -            7           |  pH                                  -            7,6        7,6        7,5        7,7        7,2           7,3       7,4        7,4         7,5        7,9        6,0 a 9,0
+
+P509251  (6 candidate page(s))
+  P509251_CentralAsia_EA_2025-08-15_099081.pdf  p.40  [drinking, baseline, groundwater, surface]  score=13  params=8  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'BOD', 'Iron', 'Lead', 'Mercury', 'TSS', 'Turbidity', 'pH']
+  P509251_CentralAsia_EA_2025-08-15_099081.pdf  p.57  [baseline]  score=9  params=9  ← LEAD IN TABLE
+      Sulfate      102.5 to 426           |  -     Sulphate: 102.5 to 426±59.6 mg/kg
+      Chloride            115           |  -     Chloride: 115±24.2 to 142±21.3 mg/kg
+      Iron         115.2 to 387           |  •      Total Iron: 115.2 to 387±77.4 mg/kg
+      Lead         2.46 to 19.95           |  -     Lead (Pb): 2.46 to 19.95 mg/kg
+      Cadmium             > 2           |  -     Cadmium (Cd): > 2 mg/kg
+      Arsenic             > 2           |  -     Arsenic (As): > 2 mg/kg
+      Mercury      0.23 to 1.32           |  -     Mercury (Hg): 0.23 to 1.32 mg/kg
+  P509251_CentralAsia_ESMP_2025-08-15_099081.pdf  p.54  [drinking, effluent, surface]  score=12  params=6  ← LEAD IN TABLE
+      pH            6.5 – 8.5           |  pH                                                                                   6.5 – 8.5                                       6.5 – 8.5
+  P509251_CentralAsia_ESMP_2025-08-15_099081.pdf  p.55  [drinking, effluent, baseline, surface]  score=14  params=7
+      pH                  6-9           |  pH                                                                                                            6-9
+      BOD                  30           |  BOD (mg/l)                                                                                                     30
+      COD                 125           |  COD (mg/l)                                                                                                    125
+      Oil_grease           10           |  Oil and Grease (mg/l)                                                                                          10
+      TSS                  50           |  Total Suspended Solids (mg/l)                                                                                  50
+  P509251_CentralAsia_ESMP_2025-08-15_099081.pdf  p.56  [baseline, groundwater, surface]  score=12  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'BOD', 'Iron', 'Lead', 'Mercury', 'Turbidity', 'pH']
+  P509251_CentralAsia_ESMP_2025-08-15_099081.pdf  p.70  [drinking, effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'TSS', 'Turbidity', 'pH']
+
+P510359  (2 candidate page(s))
+  P510359_Philippines_ESMP_2026-03-04_099030.pdf  p.70  [drinking, effluent, baseline, surface]  score=7  params=5  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Chromium', 'Coliform', 'E.coli', 'Lead']
+  P510359_Philippines_ESMP_2026-03-04_099030.pdf  p.259  [effluent]  score=8  params=4
+      (parameters mentioned but no parsable rows) ['BOD', 'Color', 'TSS', 'pH']
+
+P512407  (163 candidate page(s))
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.18  [effluent, surface]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['COD', 'Iron', 'pH']
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.113  [groundwater]  score=13  params=10
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Chloride', 'Coliform', 'Iron', 'Nitrate', 'Nitrite', 'Sulfate', 'TDS', 'Temperature', 'pH']
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.114  [groundwater, surface]  score=9  params=9
+      BOD                   5           |  The analytical parameters for surface water were temperature, pH, DO, TDS, TSS, BOD 5,
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.115  [effluent, surface]  score=13  params=10
+      BOD                   5           |  analytical parameters for domesticwater were temperature, pH, DO, TDS, TSS, BOD 5, COD,
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.189  [effluent]  score=7  params=5
+      BOD             45 - 54           |  1     BOD5                                               45 - 54
+      COD            72 - 102           |  2     COD                                               72 - 102
+      TSS            70 - 145           |  3     Total suspended solids                            70 - 145
+      Oil_grease      10 - 30           |  4     Oil and grease                                     10 - 30
+      Ammonia       2.4 - 4.8           |  6     Ammonia                                           2.4 - 4.8
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.190  [effluent, groundwater, surface]  score=14  params=7  ← LEAD IN TABLE
+      BOD          0.225-0.27           |  1       BOD5                                   0.225-0.27                            0.675-0.81
+      COD          0.375-0.51           |  2       COD                                    0.375-0.51                             1.13-1.53
+      TSS          0.35-0.725           |  3       Total suspended solids                 0.35-0.725                             1.05-2.18
+      Oil_grease    0.05-0.15           |  4       Oil and grease                         0.05-0.15                              0.15-0.45
+      Ammonia      0.012-0.024           |  6       Ammonia                              0.012-0.024                              0.04-0.07
+      BOD           563 - 675 mg/L      |  1    BOD5                           mg/L                563 - 675                      60
+      COD             900 - 1 mg/L      |  2    COD                            mg/L                900 - 1,275                     -
+      TSS             875 - 1 mg/L      |  3    Total suspended solids         mg/L                875 - 1,813                    120
+      Oil_grease    125 - 375 mg/L      |  4    Oil and grease                 mg/L                125 - 375                      24
+      Ammonia         30 - 60 mg/L      |  6    Ammonia                        mg/L                  30 - 60                      12
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.191  [effluent, surface]  score=10  params=4
+      COD               10–20           |  pollutants in rainwater are N: 0.5–1.5 mg/L; P: 0.004–0.03 mg/L; COD: 10–20 mg/L; and TSS:
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.195  [effluent]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['COD', 'Oil_grease', 'Sulfate']
+  P512407_VietNam_EA_2025-10-03_099100.pdf  p.307  [effluent, surface]  score=8  params=8
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'Oil_grease', 'TDS', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.14  [effluent, baseline, groundwater, surface]  score=9  params=7
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'E.coli', 'Salinity', 'Sulfate', 'TSS', 'Temperature']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.65  [effluent, groundwater, surface]  score=10  params=17
+      (parameters mentioned but no parsable rows) ['Ammonia', 'Arsenic', 'BOD', 'COD', 'Chloride', 'Coliform', 'E.coli', 'Iron', 'Manganese', 'Mercury', 'Nitrate', 'Sulfate', 'TDS', 'TSS', 'Temperature', 'Turbidity', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.66  [effluent, groundwater, surface]  score=17  params=12
+      (parameters mentioned but no parsable rows) ['Arsenic', 'BOD', 'COD', 'Chloride', 'Coliform', 'E.coli', 'Nitrate', 'Salinity', 'Sulfate', 'TDS', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.67  [drinking, effluent]  score=15  params=8  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Cadmium', 'Coliform', 'Copper', 'Lead', 'Nickel', 'Phosphate', 'Sulfide', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.107  [effluent]  score=7  params=5
+      BOD             45 - 54           |  1     BOD5                                          45 - 54
+      COD            72 - 102           |  2     COD                                          72 - 102
+      TSS            70 - 145           |  3     Total suspended solids                       70 - 145
+      Oil_grease      10 - 30           |  4     Oil and grease                                10 - 30
+      Ammonia       2.4 - 4.8           |  6     Ammonia                                      2.4 - 4.8
+      BOD            0.9-1.08           |  1       BOD5                            0.9-1.08                0.36-0.432               0.27-0.324
+      COD           1.44-2.04           |  2       COD                             1.44-2.04               0.576-0.816              0.432-0.612
+      TSS             1.4-2.9           |  3       Total suspended solids           1.4-2.9                 0.56-1.16                0.42-0.87
+      Oil_grease      0.2-0.6           |  4       Oil and grease                   0.2-0.6                 0.08-0.24                0.06-0.18
+      Ammonia      0.048-0.096           |  6       Ammonia                       0.048-0.096             0.0192-0.0384            0.0144-0.0288
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.108  [effluent, surface]  score=14  params=7
+      BOD           563 - 675 mg/L      |  1     BOD5                           mg/L           563 - 675                 60
+      COD             900 - 1 mg/L      |  2     COD                            mg/L          900 - 1,275                 -
+      TSS             875 - 1 mg/L      |  3     Total suspended solids         mg/L          875 - 1,813               120
+      Oil_grease    125 - 375 mg/L      |  4     Oil and grease                 mg/L           125 - 375                 24
+      Ammonia         30 - 60 mg/L      |  6     Ammonia                        mg/L            30 - 60                  12
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.109  [effluent, surface]  score=14  params=8
+      COD               10–20           |  0.004–0.03 mg/L; COD: 10–20 mg/L; and TSS: 10–20 mg/L. Runoff passing construction sites
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.110  [effluent, surface]  score=7  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'Oil_grease', 'Sulfate', 'Turbidity']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.114  [effluent, baseline, surface]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['TSS', 'Turbidity', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.115  [baseline, surface]  score=7  params=2
+      (parameters mentioned but no parsable rows) ['TSS', 'Turbidity']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.128  [effluent, surface]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['TSS', 'Turbidity', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.129  [baseline, surface]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['Oil_grease', 'TSS', 'Turbidity']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.137  [effluent, baseline]  score=10  params=3  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'TSS', 'Turbidity']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.144  [effluent, surface]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.232  [effluent, surface]  score=7  params=7
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'Salinity', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.266  [unclassified]  score=6  params=4  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Cadmium', 'Lead', 'Nickel', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.278  [surface]  score=6  params=4
+      pH                < 3.5           |  sulfate soil (pH < 3.5), lime powder will be used to
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.282  [surface]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.283  [unclassified]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.284  [unclassified]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.285  [unclassified]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.286  [groundwater]  score=10  params=3
+      (parameters mentioned but no parsable rows) ['Coliform', 'TDS', 'pH']
+  P512407_VietNam_EA_2025-12-16_099121.pdf  p.287  [effluent]  score=12  params=6
+      (parameters mentioned but no parsable rows) ['BOD', 'Coliform', 'Oil_grease', 'TDS', 'TSS', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.108  [effluent, baseline, groundwater, surface]  score=12  params=14
+      Chloride             08           |  samples)         Chloride        (C1-),    08:2023/BTNMT, except for
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.110  [effluent, groundwater, surface]  score=12  params=18  ← LEAD IN TABLE
+      Lead                 03           |  Subproject,       Copper (Cu), Lead          03:2023/BTNMT (Category 2).
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.111  [baseline]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.170  [effluent, surface]  score=9  params=4
+      BOD             22.5-27           |  BOD5                     22.5-27         4.5     5.4      900      1080               ≤40
+      COD               36-51           |  COD                       36-51           7.2      10.2    1440       2040            ≤100
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.172  [effluent, surface]  score=9  params=5
+      (parameters mentioned but no parsable rows) ['COD', 'Oil_grease', 'TSS', 'Turbidity', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.176  [effluent, surface]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['COD', 'Iron', 'Oil_grease', 'TSS', 'Turbidity']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.225  [effluent]  score=11  params=4
+      COD                 608 mg/l      |  1    COD                       mg/l           608        61-152                -
+      BOD                 329 mg/l      |  2    BOD5                      mg/l           329         49-99               30
+      TSS                 713 mg/l      |  3    TSS                       mg/l           713        36-178               50
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.362  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      Lead                 43           |  Lead (Pb),         43:2017/BTNMT). Therefore, the volume of sediment
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.381  [effluent]  score=19  params=11
+      pH           -           7.07           |  1.    pH                                     -           7.07             TCVN 6492:2011        5.5-9
+      TDS                 373 mg/L      |  2.    TDS                                  mg/L          373              KGZ.SOP.QT.N.07         -
+      COD                  24 mg/L      |  4.    COD                                  mg/L           24             SMEWW 5220C:2017        150
+      BOD                   8 mg/L      |  5.    BOD5                                 mg/L            8             TCVN 6001-1:2008        50
+      Nitrite            0.08 mg/L      |  6.    Nitrite (NO2- as N)                  mg/L          0.08             TCVN 6178:1996          -
+      Phosphate          0.02 mg/L      |  7.    Phosphate (PO43- as P)               mg/L          0.02             TCVN 6202:2008          -
+      Chloride            923 mg/L      |  8.    Chloride (Cl-)                       mg/L          923              TCVN 6194:1996        1,000
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.382  [effluent, groundwater]  score=16  params=8
+      pH           -           6.55           |  1.   pH                                    -           6.55               TCVN 6492:2011        5.5-8.5
+      Sulfate              82 mg/L      |  4.   Sulfate (SO42-)                      mg/L          82        SMEWW 4500-SO42-.E:2017         400
+      Chloride            152 mg/L      |  5.   Chloride (Cl-)                       mg/L         152                TCVN 6194:1996          250
+      Nitrite          <0.003 mg/L      |  6.   Nitrite (NO2- as N)                  mg/L       <0.003               TCVN 6178:1996           1
+      Nitrate            4.99 mg/L      |  7.   Nitrate (NO3- as N)                  mg/L         4.99        SMEWW 4500.NO3.B:2017          15
+      Iron              <0.02 mg/L      |  9.   Iron (Fe)                            mg/L        <0.02               TCVN 6177:1996           5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.383  [surface]  score=18  params=11
+      pH           -        6.83           |  1.    pH                                    -        6.83       6.83         TCVN 6492:2011        6 ÷ 8.5(2)
+      Turbidity            46 NTU       |  2.    Turbidity                           NTU         46            29     SMEWW 2130B:2017            -
+      TSS                  32 mg/L      |  5.    Total suspended solids (TSS)        mg/L        32            34       TCVN 6625:2000        ≤ 100(2)
+      COD                  22 mg/L      |  6.    COD                                 mg/L        22            14     SMEWW 5220C:2017         ≤ 15(2)
+      BOD                   8 mg/L      |  7.    BOD5                                mg/L        8             6       TCVN 6001-1:2008         ≤ 6(2)
+      Chloride            149 mg/L      |  8.    Chloride (Cl-)                      mg/L       149        174          TCVN 6194:1996         250(1)
+      Nitrite            0.04 mg/L      |  10. Nitrite (NO2- as N)                   mg/L       0.04       0.03         TCVN 6178:1996        0.05(1)
+      Nitrate            0.45 mg/L      |  Nitrate (NO3- as N)                 mg/L       0.45       0.36         TCVN 6180:1996            -
+      Phosphate          0.03 mg/L      |  12. Phosphate (PO43- as P)                mg/L       0.03      <0.02         TCVN 6202:2008            -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.384  [surface]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Coliform', 'Iron', 'Oil_grease']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.386  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.387  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.389  [effluent]  score=19  params=11
+      pH           -           7.09           |  1. pH                                     -           7.09            TCVN 6492:2011             5.5-9
+      TDS                 360 mg/L      |  2. TDS                                   mg/L         360             KGZ.SOP.QT.N.07              -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.391  [groundwater]  score=16  params=8
+      pH           -          6.56           |  1.   pH                                      -          6.56               TCVN 6492:2011          5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.392  [surface]  score=19  params=12
+      pH           -       6.84           |  1.    pH                                    -       6.84       6.86          TCVN 6492:2011     6 ÷ 8.5(2)
+      Turbidity            31 NTU       |  2.    Turbidity                           NTU        31            17      SMEWW 2130B:2017         -
+      TDS                 286 mg/L      |  4.    Total Dissolved Solids (TDS)        mg/L      286            282       KGZ.SOP.QT.N.07        -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.395  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.396  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.398  [effluent]  score=19  params=11
+      pH           -         7.03           |  1.    pH                                     -         7.03             TCVN 6492:2011           5.5-9
+      TDS                 367 mg/L      |  2.    TDS                                  mg/L         367             KGZ.SOP.QT.N.07            -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.399  [effluent, groundwater]  score=16  params=8
+      pH           -          6.56           |  1.   pH                                  -          6.56               TCVN 6492:2011           5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.400  [groundwater, surface]  score=18  params=11
+      pH           -      6.86           |  1. pH                                      -      6.86       6.85         TCVN 6492:2011           6 ÷ 8.5(2)
+      Turbidity            40 NTU       |  2. Turbidity                             NTU       40            21      SMEWW 2130B:2017              -
+      TDS                 279 mg/L      |  4. Total Dissolved Solids (TDS)          mg/L     279        273          KGZ.SOP.QT.N.07              -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.401  [surface]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Coliform', 'Iron', 'Oil_grease']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.403  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.404  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.406  [effluent]  score=19  params=11
+      pH           -           7.04           |  1. pH                                       -           7.04            TCVN 6492:2011             5.5-9
+      TDS                 364 mg/L      |  2. TDS                                    mg/L          364             KGZ.SOP.QT.N.07              -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.408  [groundwater]  score=16  params=8
+      pH           -           6.54           |  1.   pH                                  -           6.54              TCVN 6492:2011              5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.409  [surface]  score=19  params=12
+      pH           -       6.85           |  1.    pH                                    -       6.85        6.86          TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            40 NTU       |  2.    Turbidity                           NTU        40             28      SMEWW 2130B:2017          -
+      TDS                 265 mg/L      |  4.    Total Dissolved Solids (TDS)        mg/L       265            269       KGZ.SOP.QT.N.07         -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.412  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.413  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.415  [effluent]  score=19  params=11
+      pH           -         7.07           |  1. pH                                   -         7.07             TCVN 6492:2011      5.5-9
+      TDS                 368 mg/L      |  2. TDS                                mg/L        368          KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.417  [groundwater]  score=16  params=8
+      pH           -          6.53           |  1. pH                               -          6.53          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.418  [surface]  score=19  params=12
+      pH           -       6.85           |  1. pH                                      -       6.85       6.86        TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            42 NTU       |  2. Turbidity                              NTU       42            22                              -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.421  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.422  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.424  [effluent]  score=18  params=10
+      pH           -          7.06           |  1. pH                                -          7.06         TCVN 6492:2011         5.5-9
+      TDS                 372 mg/L      |  2. TDS                             mg/L         372         KGZ.SOP.QT.N.07           -
+      COD                  18 mg/L      |  4. COD                             mg/L          18        SMEWW 5220C:2017         150
+      BOD                   8 mg/L      |  5. BOD5                            mg/L          8          TCVN 6001-1:2008         50
+      Nitrite            0.07 mg/L      |  6. Nitrite (NO2- as N)             mg/L         0.07         TCVN 6178:1996           -
+      Phosphate         <0.02 mg/L      |  7. Phosphate (PO43- as P)          mg/L        <0.02         TCVN 6202:2008           -
+      Chloride            369 mg/L      |  8. Chloride (Cl-)                  mg/L         369          TCVN 6194:1996         1,000
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.426  [groundwater]  score=16  params=8
+      pH           -         6.55           |  1.   pH                             -         6.55           TCVN 6492:2011            5.5-8.5
+      Sulfate             143 mg/L      |  4.   Sulfate (SO42-)              mg/L        143                                       400
+      Chloride            124 mg/L      |  5.   Chloride (Cl-)               mg/L        124            TCVN 6194:1996             250
+      Nitrite            0.33 mg/L      |  6.   Nitrite (NO2- as N)          mg/L        0.33           TCVN 6178:1996               1
+      Nitrate            0.83 mg/L      |  7.   Nitrate (NO3- as N)          mg/L        0.83                                       15
+      Iron               0.07 mg/L      |  9.   Iron (Fe)                    mg/L        0.07           TCVN 6177:1996               5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.427  [surface]  score=19  params=12
+      pH           -       6.83           |  1. pH                                -       6.83      6.86       TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            39 NTU       |  2. Turbidity                       NTU        39       23      SMEWW 2130B:2017           -
+      COD                  14 mg/L      |  6. COD                             mg/L       14       12      SMEWW 5220C:2017        ≤ 15(2)
+      BOD                   6 mg/L      |  7. BOD5                            mg/L       6            4    TCVN 6001-1:2008        ≤ 6(2)
+      Chloride            128 mg/L      |  8. Chloride (Cl-)                  mg/L      128       134        TCVN 6194:1996       250(1)
+      Nitrite            0.12 mg/L      |  10. Nitrite (NO2- as N)            mg/L      0.12      0.11       TCVN 6178:1996       0.05(1)
+      Nitrate            0.66 mg/L      |  Nitrate (NO3- as N)          mg/L      0.66      0.58       TCVN 6180:1996          -
+      Phosphate         <0.02 mg/L      |  12. Phosphate (PO43- as P)         mg/L     <0.02     <0.02       TCVN 6202:2008          -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.430  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.431  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.433  [effluent]  score=18  params=10
+      pH           -          7.05           |  1. pH                                 -          7.05        TCVN 6492:2011         5.5-9
+      TDS                 369 mg/L      |  2. TDS                              mg/L         369        KGZ.SOP.QT.N.07           -
+      COD                  46 mg/L      |  4. COD                              mg/L          46       SMEWW 5220C:2017         150
+      BOD                  18 mg/L      |  5. BOD5                             mg/L          18        TCVN 6001-1:2008         50
+      Nitrite            0.07 mg/L      |  6. Nitrite (NO2- as N)              mg/L         0.07        TCVN 6178:1996           -
+      Phosphate          0.05 mg/L      |  7. Phosphate (PO43- as P)           mg/L         0.05        TCVN 6202:2008           -
+      Chloride            404 mg/L      |  8. Chloride (Cl-)                   mg/L         404         TCVN 6194:1996         1,000
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.435  [groundwater]  score=16  params=8
+      pH           -           6.54           |  1. pH                              -           6.54          TCVN 6492:2011            5.5-8.5
+      Sulfate               2 mg/L      |  4. Sulfate (SO42-)                mg/L          2                                        400
+      Chloride            235 mg/L      |  5. Chloride (Cl-)                 mg/L         235           TCVN 6194:1996              250
+      Nitrite          <0.003 mg/L      |  6. Nitrite (NO2- as N)            mg/L        <0.003         TCVN 6178:1996               1
+      Nitrate            1.82 mg/L      |  7. Nitrate (NO3- as N)            mg/L         1.82                                       15
+      Iron              <0.02 mg/L      |  9. Iron (Fe)                      mg/L        <0.02          TCVN 6177:1996               5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.436  [surface]  score=19  params=12
+      pH           -         6.83           |  1. pH                                  -         6.83       6.85       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            34 NTU       |  2. Turbidity                         NTU          34            20                              -
+      COD                   6 mg/L      |  6. COD                               mg/L         6             8                            ≤ 15(2)
+      BOD                   2 mg/L      |  7. BOD5                              mg/L         2             2     TCVN 6001-1:2008       ≤ 6(2)
+      Chloride            186 mg/L      |  8. Chloride (Cl-)                    mg/L        186        104        TCVN 6194:1996        250(1)
+      Nitrite            0.05 mg/L      |  10. Nitrite (NO2- as N)              mg/L        0.05       0.04       TCVN 6178:1996        0.05(1)
+      Nitrate            0.21 mg/L      |  Nitrate (NO3- as N)            mg/L        0.21       0.16       TCVN 6180:1996           -
+      Phosphate          0.04 mg/L      |  12. Phosphate (PO43- as P)           mg/L        0.04       0.05       TCVN 6202:2008           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.439  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.440  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.442  [effluent]  score=18  params=10
+      pH           -         7.09           |  1. pH                                   -         7.09         TCVN 6492:2011         5.5-9
+      TDS                 360 mg/L      |  2. TDS                                mg/L         360        KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.444  [groundwater]  score=16  params=8
+      pH           -           6.55           |  1. pH                              -           6.55          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.445  [surface]  score=19  params=12
+      pH           -       6.85           |  1. pH                                      -       6.85      6.84       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            32 NTU       |  2. Turbidity                              NTU       32           21   SMEWW 2130B:2017           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.448  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.449  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.451  [effluent]  score=18  params=10
+      pH           -         7.04           |  1. pH                                   -         7.04         TCVN 6492:2011         5.5-9
+      TDS                 380 mg/L      |  2. TDS                                mg/L         380        KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.453  [groundwater]  score=16  params=8
+      pH           -           6.53           |  1. pH                              -           6.53          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.454  [surface]  score=19  params=12
+      pH           -       6.83           |  1. pH                                      -       6.83      6.86       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            31 NTU       |  2. Turbidity                              NTU       31           20   SMEWW 2130B:2017           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.457  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.458  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.460  [effluent]  score=18  params=10
+      pH           -         7.02           |  1.   pH                                 -         7.02         TCVN 6492:2011          5.5-9
+      TDS                 379 mg/L      |  2.   TDS                              mg/L        379          KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.462  [groundwater]  score=16  params=8
+      pH           -          6.52           |  1. pH                               -          6.52          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.463  [surface]  score=19  params=12
+      pH           -      6.85           |  1. pH                                      -      6.85       6.88       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            31 NTU       |  2. Turbidity                             NTU       31            16                              -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.466  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.467  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.469  [effluent]  score=18  params=10
+      pH           -         7.05           |  1.   pH                                 -         7.05         TCVN 6492:2011         5.5-9
+      TDS                 358 mg/L      |  2.   TDS                              mg/L         358        KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.471  [groundwater]  score=16  params=8
+      pH           -          6.57           |  1. pH                               -          6.57          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.472  [surface]  score=19  params=12
+      pH           -       6.83           |  1. pH                                      -       6.83       6.85        TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            37 NTU       |  2. Turbidity                              NTU       37            24                              -
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.475  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2025-12-18_099121.pdf  p.476  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.108  [effluent, baseline, groundwater, surface]  score=12  params=14
+      Chloride             08           |  samples)         Chloride        (C1-),    08:2023/BTNMT, except for
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.110  [effluent, groundwater, surface]  score=12  params=18  ← LEAD IN TABLE
+      Lead                 03           |  Subproject,       Copper (Cu), Lead          03:2023/BTNMT (Category 2).
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.111  [baseline]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.173  [effluent, surface]  score=9  params=4
+      BOD             22.5-27           |  BOD5                     22.5-27         4.5     5.4      900      1080               ≤40
+      COD               36-51           |  COD                       36-51           7.2      10.2    1440       2040            ≤100
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.175  [effluent, surface]  score=9  params=5
+      (parameters mentioned but no parsable rows) ['COD', 'Oil_grease', 'TSS', 'Turbidity', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.179  [effluent, surface]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['COD', 'Iron', 'Oil_grease', 'TSS', 'Turbidity']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.232  [effluent]  score=11  params=4
+      COD                 608 mg/l      |  1    COD                       mg/l           608        61-152                -
+      BOD                 329 mg/l      |  2    BOD5                      mg/l           329         49-99               30
+      TSS                 713 mg/l      |  3    TSS                       mg/l           713        36-178               50
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.373  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      Lead                 43           |  Lead (Pb),         43:2017/BTNMT). Therefore, the volume of sediment
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.392  [effluent]  score=19  params=11
+      pH           -           7.07           |  1.    pH                                     -           7.07             TCVN 6492:2011        5.5-9
+      TDS                 373 mg/L      |  2.    TDS                                  mg/L          373              KGZ.SOP.QT.N.07          -
+      COD                  24 mg/L      |  4.    COD                                  mg/L           24             SMEWW 5220C:2017        150
+      BOD                   8 mg/L      |  5.    BOD5                                 mg/L            8             TCVN 6001-1:2008         50
+      Nitrite            0.08 mg/L      |  6.    Nitrite (NO2- as N)                  mg/L          0.08             TCVN 6178:1996           -
+      Phosphate          0.02 mg/L      |  7.    Phosphate (PO43- as P)               mg/L          0.02             TCVN 6202:2008           -
+      Chloride            923 mg/L      |  8.    Chloride (Cl-)                       mg/L          923              TCVN 6194:1996        1,000
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.393  [effluent, groundwater]  score=16  params=8
+      pH           -           6.55           |  1.   pH                                    -           6.55               TCVN 6492:2011        5.5-8.5
+      Sulfate              82 mg/L      |  4.   Sulfate (SO42-)                      mg/L          82        SMEWW 4500-SO42-.E:2017         400
+      Chloride            152 mg/L      |  5.   Chloride (Cl-)                       mg/L         152                TCVN 6194:1996          250
+      Nitrite          <0.003 mg/L      |  6.   Nitrite (NO2- as N)                  mg/L       <0.003               TCVN 6178:1996           1
+      Nitrate            4.99 mg/L      |  7.   Nitrate (NO3- as N)                  mg/L         4.99        SMEWW 4500.NO3.B:2017          15
+      Iron              <0.02 mg/L      |  9.   Iron (Fe)                            mg/L        <0.02               TCVN 6177:1996           5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.394  [surface]  score=18  params=11
+      pH           -        6.83           |  1.    pH                                    -        6.83       6.83         TCVN 6492:2011        6 ÷ 8.5(2)
+      Turbidity            46 NTU       |  2.    Turbidity                           NTU         46            29     SMEWW 2130B:2017            -
+      TSS                  32 mg/L      |  5.    Total suspended solids (TSS)        mg/L        32            34       TCVN 6625:2000         ≤ 100(2)
+      COD                  22 mg/L      |  6.    COD                                 mg/L        22            14     SMEWW 5220C:2017         ≤ 15(2)
+      BOD                   8 mg/L      |  7.    BOD5                                mg/L        8             6       TCVN 6001-1:2008         ≤ 6(2)
+      Chloride            149 mg/L      |  8.    Chloride (Cl-)                      mg/L       149        174          TCVN 6194:1996         250(1)
+      Nitrite            0.04 mg/L      |  10. Nitrite (NO2- as N)                   mg/L       0.04       0.03         TCVN 6178:1996         0.05(1)
+      Nitrate            0.45 mg/L      |  Nitrate (NO3- as N)                 mg/L       0.45       0.36         TCVN 6180:1996            -
+      Phosphate          0.03 mg/L      |  12. Phosphate (PO43- as P)                mg/L       0.03      <0.02         TCVN 6202:2008            -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.395  [surface]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Coliform', 'Iron', 'Oil_grease']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.397  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.398  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.400  [effluent]  score=19  params=11
+      pH           -           7.09           |  1. pH                                     -           7.09            TCVN 6492:2011             5.5-9
+      TDS                 360 mg/L      |  2. TDS                                   mg/L         360             KGZ.SOP.QT.N.07              -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.402  [groundwater]  score=16  params=8
+      pH           -          6.56           |  1.   pH                                      -          6.56               TCVN 6492:2011           5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.403  [surface]  score=19  params=12
+      pH           -       6.84           |  1.    pH                                    -       6.84       6.86          TCVN 6492:2011     6 ÷ 8.5(2)
+      Turbidity            31 NTU       |  2.    Turbidity                           NTU        31            17      SMEWW 2130B:2017         -
+      TDS                 286 mg/L      |  4.    Total Dissolved Solids (TDS)        mg/L      286            282       KGZ.SOP.QT.N.07        -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.406  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.407  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.409  [effluent]  score=19  params=11
+      pH           -         7.03           |  1.    pH                                     -         7.03             TCVN 6492:2011           5.5-9
+      TDS                 367 mg/L      |  2.    TDS                                  mg/L         367             KGZ.SOP.QT.N.07            -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.410  [effluent, groundwater]  score=16  params=8
+      pH           -          6.56           |  1.   pH                                  -          6.56               TCVN 6492:2011           5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.411  [groundwater, surface]  score=18  params=11
+      pH           -      6.86           |  1. pH                                      -      6.86       6.85         TCVN 6492:2011           6 ÷ 8.5(2)
+      Turbidity            40 NTU       |  2. Turbidity                             NTU       40            21      SMEWW 2130B:2017              -
+      TDS                 279 mg/L      |  4. Total Dissolved Solids (TDS)          mg/L     279        273          KGZ.SOP.QT.N.07              -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.412  [surface]  score=9  params=3
+      (parameters mentioned but no parsable rows) ['Coliform', 'Iron', 'Oil_grease']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.414  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.415  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.417  [effluent]  score=19  params=11
+      pH           -           7.04           |  1. pH                                       -           7.04            TCVN 6492:2011             5.5-9
+      TDS                 364 mg/L      |  2. TDS                                    mg/L          364             KGZ.SOP.QT.N.07              -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.419  [groundwater]  score=16  params=8
+      pH           -           6.54           |  1.   pH                                  -           6.54              TCVN 6492:2011               5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.420  [surface]  score=19  params=12
+      pH           -       6.85           |  1.    pH                                    -       6.85        6.86          TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            40 NTU       |  2.    Turbidity                           NTU        40             28      SMEWW 2130B:2017          -
+      TDS                 265 mg/L      |  4.    Total Dissolved Solids (TDS)        mg/L       265            269       KGZ.SOP.QT.N.07         -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.423  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.424  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.426  [effluent]  score=19  params=11
+      pH           -         7.07           |  1. pH                                   -         7.07             TCVN 6492:2011      5.5-9
+      TDS                 368 mg/L      |  2. TDS                                mg/L        368          KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.428  [groundwater]  score=16  params=8
+      pH           -          6.53           |  1. pH                               -          6.53          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.429  [surface]  score=19  params=12
+      pH           -       6.85           |  1. pH                                      -       6.85       6.86        TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            42 NTU       |  2. Turbidity                              NTU       42            22                              -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.432  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.433  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.435  [effluent]  score=18  params=10
+      pH           -          7.06           |  1. pH                                -          7.06         TCVN 6492:2011          5.5-9
+      TDS                 372 mg/L      |  2. TDS                             mg/L         372         KGZ.SOP.QT.N.07            -
+      COD                  18 mg/L      |  4. COD                             mg/L          18        SMEWW 5220C:2017          150
+      BOD                   8 mg/L      |  5. BOD5                            mg/L          8          TCVN 6001-1:2008          50
+      Nitrite            0.07 mg/L      |  6. Nitrite (NO2- as N)             mg/L         0.07         TCVN 6178:1996            -
+      Phosphate         <0.02 mg/L      |  7. Phosphate (PO43- as P)          mg/L        <0.02         TCVN 6202:2008            -
+      Chloride            369 mg/L      |  8. Chloride (Cl-)                  mg/L         369          TCVN 6194:1996          1,000
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.437  [groundwater]  score=16  params=8
+      pH           -         6.55           |  1.   pH                             -         6.55           TCVN 6492:2011            5.5-8.5
+      Sulfate             143 mg/L      |  4.   Sulfate (SO42-)              mg/L        143                                       400
+      Chloride            124 mg/L      |  5.   Chloride (Cl-)               mg/L        124            TCVN 6194:1996             250
+      Nitrite            0.33 mg/L      |  6.   Nitrite (NO2- as N)          mg/L        0.33           TCVN 6178:1996               1
+      Nitrate            0.83 mg/L      |  7.   Nitrate (NO3- as N)          mg/L        0.83                                       15
+      Iron               0.07 mg/L      |  9.   Iron (Fe)                    mg/L        0.07           TCVN 6177:1996               5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.438  [surface]  score=19  params=12
+      pH           -       6.83           |  1. pH                                -       6.83      6.86       TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            39 NTU       |  2. Turbidity                       NTU        39       23      SMEWW 2130B:2017           -
+      COD                  14 mg/L      |  6. COD                             mg/L       14       12      SMEWW 5220C:2017        ≤ 15(2)
+      BOD                   6 mg/L      |  7. BOD5                            mg/L       6            4    TCVN 6001-1:2008        ≤ 6(2)
+      Chloride            128 mg/L      |  8. Chloride (Cl-)                  mg/L      128       134        TCVN 6194:1996       250(1)
+      Nitrite            0.12 mg/L      |  10. Nitrite (NO2- as N)            mg/L      0.12      0.11       TCVN 6178:1996       0.05(1)
+      Nitrate            0.66 mg/L      |  Nitrate (NO3- as N)          mg/L      0.66      0.58       TCVN 6180:1996          -
+      Phosphate         <0.02 mg/L      |  12. Phosphate (PO43- as P)         mg/L     <0.02     <0.02       TCVN 6202:2008          -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.441  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.442  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.444  [effluent]  score=18  params=10
+      pH           -          7.05           |  1. pH                                 -          7.05        TCVN 6492:2011         5.5-9
+      TDS                 369 mg/L      |  2. TDS                              mg/L         369        KGZ.SOP.QT.N.07           -
+      COD                  46 mg/L      |  4. COD                              mg/L          46       SMEWW 5220C:2017         150
+      BOD                  18 mg/L      |  5. BOD5                             mg/L          18        TCVN 6001-1:2008         50
+      Nitrite            0.07 mg/L      |  6. Nitrite (NO2- as N)              mg/L         0.07        TCVN 6178:1996           -
+      Phosphate          0.05 mg/L      |  7. Phosphate (PO43- as P)           mg/L         0.05        TCVN 6202:2008           -
+      Chloride            404 mg/L      |  8. Chloride (Cl-)                   mg/L         404         TCVN 6194:1996         1,000
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.446  [groundwater]  score=16  params=8
+      pH           -           6.54           |  1. pH                              -           6.54          TCVN 6492:2011            5.5-8.5
+      Sulfate               2 mg/L      |  4. Sulfate (SO42-)                mg/L          2                                        400
+      Chloride            235 mg/L      |  5. Chloride (Cl-)                 mg/L         235           TCVN 6194:1996              250
+      Nitrite          <0.003 mg/L      |  6. Nitrite (NO2- as N)            mg/L        <0.003         TCVN 6178:1996               1
+      Nitrate            1.82 mg/L      |  7. Nitrate (NO3- as N)            mg/L         1.82                                       15
+      Iron              <0.02 mg/L      |  9. Iron (Fe)                      mg/L        <0.02          TCVN 6177:1996               5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.447  [surface]  score=19  params=12
+      pH           -         6.83           |  1. pH                                  -         6.83       6.85       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            34 NTU       |  2. Turbidity                         NTU          34            20                              -
+      COD                   6 mg/L      |  6. COD                               mg/L         6             8                            ≤ 15(2)
+      BOD                   2 mg/L      |  7. BOD5                              mg/L         2             2     TCVN 6001-1:2008       ≤ 6(2)
+      Chloride            186 mg/L      |  8. Chloride (Cl-)                    mg/L        186        104        TCVN 6194:1996        250(1)
+      Nitrite            0.05 mg/L      |  10. Nitrite (NO2- as N)              mg/L        0.05       0.04       TCVN 6178:1996        0.05(1)
+      Nitrate            0.21 mg/L      |  Nitrate (NO3- as N)            mg/L        0.21       0.16       TCVN 6180:1996           -
+      Phosphate          0.04 mg/L      |  12. Phosphate (PO43- as P)           mg/L        0.04       0.05       TCVN 6202:2008           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.450  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.451  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.453  [effluent]  score=18  params=10
+      pH           -         7.09           |  1. pH                                   -         7.09         TCVN 6492:2011         5.5-9
+      TDS                 360 mg/L      |  2. TDS                                mg/L         360        KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.455  [groundwater]  score=16  params=8
+      pH           -           6.55           |  1. pH                              -           6.55          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.456  [surface]  score=19  params=12
+      pH           -       6.85           |  1. pH                                      -       6.85      6.84       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            32 NTU       |  2. Turbidity                              NTU       32           21   SMEWW 2130B:2017           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.459  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.460  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.462  [effluent]  score=18  params=10
+      pH           -         7.04           |  1. pH                                   -         7.04         TCVN 6492:2011         5.5-9
+      TDS                 380 mg/L      |  2. TDS                                mg/L         380        KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.464  [groundwater]  score=16  params=8
+      pH           -           6.53           |  1. pH                              -           6.53          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.465  [surface]  score=19  params=12
+      pH           -       6.83           |  1. pH                                      -       6.83      6.86       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            31 NTU       |  2. Turbidity                              NTU       31           20   SMEWW 2130B:2017           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.468  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.469  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.471  [effluent]  score=18  params=10
+      pH           -         7.02           |  1.   pH                                 -         7.02         TCVN 6492:2011          5.5-9
+      TDS                 379 mg/L      |  2.   TDS                              mg/L        379          KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.473  [groundwater]  score=16  params=8
+      pH           -          6.52           |  1. pH                               -          6.52          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.474  [surface]  score=19  params=12
+      pH           -      6.85           |  1. pH                                      -      6.85       6.88       TCVN 6492:2011       6 ÷ 8.5(2)
+      Turbidity            31 NTU       |  2. Turbidity                             NTU       31            16                              -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.477  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.478  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.480  [effluent]  score=18  params=10
+      pH           -         7.05           |  1.   pH                                 -         7.05         TCVN 6492:2011         5.5-9
+      TDS                 358 mg/L      |  2.   TDS                              mg/L         358        KGZ.SOP.QT.N.07           -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.482  [groundwater]  score=16  params=8
+      pH           -          6.57           |  1. pH                               -          6.57          TCVN 6492:2011            5.5-8.5
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.483  [surface]  score=19  params=12
+      pH           -       6.83           |  1. pH                                      -       6.83       6.85        TCVN 6492:2011      6 ÷ 8.5(2)
+      Turbidity            37 NTU       |  2. Turbidity                              NTU       37            24                              -
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.486  [unclassified]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Copper', 'Lead', 'Zinc']
+  P512407_VietNam_EA_2026-04-09_099040.pdf  p.487  [unclassified]  score=9  params=7  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Copper', 'Lead', 'Mercury', 'Zinc', 'pH']
+  P512407_VietNam_ESRS_2025-10-15_ESRSA04511_099101.pdf  p.11  [effluent]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Salinity', 'Sulfate', 'Turbidity', 'pH']
+
+P512898  (6 candidate page(s))
+  P512898_India_ESSA_2026-03-08_099030.pdf  p.37  [effluent, groundwater]  score=6  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Lead', 'Salinity', 'TSS']
+  P512898_India_ESSA_2026-03-08_099030.pdf  p.57  [drinking, effluent, baseline, surface]  score=10  params=8
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'Salinity', 'TDS', 'TSS', 'pH']
+  P512898_India_ESSA_2026-03-09_099030.pdf  p.37  [effluent, groundwater]  score=6  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Lead', 'Salinity', 'TSS']
+  P512898_India_ESSA_2026-03-09_099030.pdf  p.57  [drinking, effluent, baseline, surface]  score=10  params=8
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'Salinity', 'TDS', 'TSS', 'pH']
+  P512898_India_ESSA_2026-04-13_099041.pdf  p.37  [effluent, groundwater]  score=6  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Arsenic', 'Cadmium', 'Chromium', 'Lead', 'Salinity', 'TSS']
+  P512898_India_ESSA_2026-04-13_099041.pdf  p.57  [drinking, effluent, baseline, surface]  score=10  params=8
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Coliform', 'E.coli', 'Salinity', 'TDS', 'TSS', 'pH']
+
+P513113  (1 candidate page(s))
+  P513113_GambiaThe_PID_2025-12-01_PIDDC01429_099120.pdf  p.6  [drinking, effluent, groundwater]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['E.coli', 'Nitrate', 'TSS']
+
+P513708  (1 candidate page(s))
+  P513708_Ghana_ESMP_2026-04-25_099042.pdf  p.26  [effluent]  score=19  params=12  ← LEAD IN TABLE
+      Color               200 TCU       |  Colour (TCU)                    TCU                        200
+      TSS                  50 mg/l      |  Total Suspended Solids (TSS)    mg/l                        50                             50
+      TDS                1000 mg/l      |  Total Dissolved Solids (TDS)    mg/l                      1000                            500
+      COD                 250 mg/l      |  COD                             mg/l                       250                            125
+      BOD          -                             30           |  BOD                                                          -                             30
+      Oil_grease            5 mg/l      |  Oil and grease                  mg/l                         5                             10
+      Aluminum            1.0 mg/l      |  Aluminium                       mg/l                       1.0
+      Copper                5 mg/l      |  Copper                          mg/l                         5
+      Lead                0.1 mg/l      |  Lead                            mg/l                       0.1
+
+P515255  (25 candidate page(s))
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.65  [baseline, groundwater, surface]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['Coliform', 'Salinity', 'Sulfate', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.73  [effluent, baseline, surface]  score=13  params=5
+      (parameters mentioned but no parsable rows) ['BOD', 'COD', 'Iron', 'TSS', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.80  [drinking, effluent, baseline, surface]  score=10  params=4
+      (parameters mentioned but no parsable rows) ['COD', 'Sulfate', 'Temperature', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.85  [baseline, surface]  score=13  params=7
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'Iron', 'Salinity', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.116  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Iron', 'Sulfate', 'TSS', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.118  [effluent, baseline]  score=10  params=5
+      (parameters mentioned but no parsable rows) ['BOD', 'Iron', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.132  [drinking, baseline, groundwater]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['Salinity', 'TSS', 'Turbidity']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.137  [effluent, baseline]  score=9  params=4
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Iron', 'Sulfate', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.139  [effluent, baseline]  score=8  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Iron', 'Lead', 'Sulfate', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.142  [effluent, baseline, surface]  score=6  params=2
+      (parameters mentioned but no parsable rows) ['TSS', 'Turbidity']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.143  [baseline, surface]  score=6  params=2
+      (parameters mentioned but no parsable rows) ['TSS', 'Turbidity']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.145  [unclassified]  score=9  params=6  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'Sulfate', 'Sulfide', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.146  [unclassified]  score=11  params=5  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'TSS', 'Temperature', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.154  [effluent, baseline, surface]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['COD', 'Sulfate', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.159  [effluent, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Salinity', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.185  [baseline, surface]  score=10  params=5
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Iron', 'Sulfate', 'TSS', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.199  [effluent, baseline, surface]  score=11  params=6
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Iron', 'Sulfate', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.207  [effluent, surface]  score=6  params=3  ← LEAD IN TABLE
+      (parameters mentioned but no parsable rows) ['Lead', 'Salinity', 'Sulfate']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.264  [drinking, effluent]  score=8  params=6
+      (parameters mentioned but no parsable rows) ['Aluminum', 'Iron', 'Sulfate', 'Sulfide', 'TSS', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.271  [drinking, surface]  score=6  params=3
+      (parameters mentioned but no parsable rows) ['TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.283  [effluent, surface]  score=7  params=5
+      (parameters mentioned but no parsable rows) ['Coliform', 'E.coli', 'Salinity', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.296  [unclassified]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Coliform', 'Oil_grease', 'TSS', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.297  [effluent, surface]  score=10  params=8
+      (parameters mentioned but no parsable rows) ['COD', 'Coliform', 'Oil_grease', 'Salinity', 'Sulfate', 'TSS', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.300  [surface]  score=8  params=3
+      (parameters mentioned but no parsable rows) ['Salinity', 'Turbidity', 'pH']
+  P515255_VietNam_EA_2026-04-27_099042.pdf  p.330  [baseline, surface]  score=6  params=4
+      (parameters mentioned but no parsable rows) ['Salinity', 'Sulfate', 'Turbidity', 'pH']
+
