@@ -4,8 +4,12 @@ authors:
   - family-names: Crawfurd
     given-names: Lee
     affiliation: Center for Global Development
+  - family-names: Mallory
+    given-names: Caroline
+    affiliation: Center for Global Development
 type: software
 license: MIT
+repository-code: "https://github.com/Center-for-Global-Development/lead-testing-world-bank-brief"
 abstract: >-
   An automated audit of the World Bank's active water supply and
   sanitation portfolio for drinking-water lead testing commitments.
