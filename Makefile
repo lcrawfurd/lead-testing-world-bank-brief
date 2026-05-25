@@ -51,7 +51,7 @@ help:
 
 universe: $(UNIVERSE)
 $(UNIVERSE):
-	$(PY) $(SCRIPTS)/fetch_wb_projects.py --broad --include-ids $(LEGACY_IDS)
+	$(PY) $(SCRIPTS)/fetch_wb_projects.py --include-ids $(LEGACY_IDS)
 
 download: $(MANIFEST)
 $(MANIFEST): $(UNIVERSE)

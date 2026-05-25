@@ -26,14 +26,25 @@ ROOT = Path(__file__).resolve().parent.parent
 # Loose ranges around the headline numbers as of May 2026.
 # Update these when the underlying portfolio shifts materially.
 EXPECTED = {
-    "min_projects":             130,
-    "max_projects":             170,
-    "min_commitment_usd":     28_000_000_000,
-    "max_commitment_usd":     35_000_000_000,
+    # Default universe = WWC + WWA = projects with a water-supply or
+    # sanitation sector code. This produces ~95 projects / ~$20B.
+    #
+    # NOTE: the WB's internal "water supply portfolio" figure is smaller
+    # (~$8.7B / 105 projects) because they weight commitments by
+    # sector_percent (the share of each project's funding allocated to
+    # water vs other sectors). The API returns sector_percent = 0 for
+    # every sector in every project we've sampled, so we can't replicate
+    # that weighting from public data — we sum full commitments instead.
+    # Headline findings (zero confirmed drinking-water lead testing)
+    # hold under either denominator.
+    "min_projects":              80,
+    "max_projects":             120,
+    "min_commitment_usd":     15_000_000_000,
+    "max_commitment_usd":     25_000_000_000,
     "max_confirmed_drinking_lead": 0,    # the headline claim — zero confirmed
     "min_baseline_drinking":    1,       # Ghana GAMA at minimum
-    "min_countries":           60,
-    "max_countries":           90,
+    "min_countries":           50,
+    "max_countries":           85,
     "expected_verdicts": {
         "confirmed",
         "baseline-drinking",

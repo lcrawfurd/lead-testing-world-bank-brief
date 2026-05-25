@@ -4,12 +4,24 @@ Code, data, and analysis behind a [Center for Global Development blog
 post](https://www.cgdev.org/) auditing how the World Bank's active
 water supply and sanitation portfolio handles lead in drinking water.
 
-**Headline finding:** across **144 active projects worth ~\$30 billion**,
-not one commits to ongoing lead testing in the drinking water it
-delivers. A single \$30 million sanitation project in Ghana ran a
-baseline groundwater test against WHO guidelines, found lead above
-threshold, and committed to no follow-up monitoring. That is the full
-extent of drinking-water lead testing across the portfolio.
+**Headline finding:** across the Bank's active water supply
+portfolio (94 projects tagged with WWC or WWA sector codes), not one
+commits to ongoing lead testing in the drinking water it delivers. A
+single \$30 million sanitation project in Ghana ran a baseline
+groundwater test against WHO guidelines, found lead above threshold,
+and committed to no follow-up monitoring.
+
+**A note on portfolio figures.** The WB's own internal definition of
+the water supply portfolio is **\$8.7 billion across 105 projects**,
+using sector-percent weighting to allocate each project's commitment
+across its multiple sectors. The API returns sector_percent = 0 for
+every project sampled, so this pipeline can't replicate that
+weighting — it sums full commitments for any project tagged with WWC
+or WWA, producing a higher dollar total (\$19.9B vs the Bank's
+\$8.7B). The headline finding (zero confirmed drinking-water lead
+testing) holds under either denominator. The blog uses the Bank's
+own figure for the headline. See `scripts/verify_pipeline.py` for the
+methodological note.
 
 ## Quick start
 
