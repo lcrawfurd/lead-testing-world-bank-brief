@@ -41,6 +41,19 @@ jobs:
           done
           echo "All scripts compile."
 
+      - name: Bypass Makefile regeneration of upstream artefacts
+        run: |
+          # git checkout reorders mtimes, so make sees upstream targets
+          # (universe, manifest, search, tables) as newer than downstream
+          # ones (audit) and tries to regenerate the upstream — which
+          # requires the ~1 GB PDF corpus that isn't committed.
+          # Touch the committed intermediates in topological order so
+          # make treats them as up-to-date.
+          touch docs-expanded/_manifest.csv
+          touch outputs/universe/*.csv
+          touch outputs/search/*.csv outputs/search/*.txt
+          touch outputs/tables/*.csv outputs/tables/*.txt
+
       - name: Run downstream pipeline (audit + enrich + chart + verify)
         run: |
           make audit
