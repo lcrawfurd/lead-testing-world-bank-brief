@@ -41,25 +41,17 @@ jobs:
           done
           echo "All scripts compile."
 
-      - name: Bypass Makefile regeneration of upstream artefacts
-        run: |
-          # git checkout reorders mtimes, so make sees upstream targets
-          # (universe, manifest, search, tables) as newer than downstream
-          # ones (audit) and tries to regenerate the upstream — which
-          # requires the ~1 GB PDF corpus that isn't committed.
-          # Touch the committed intermediates in topological order so
-          # make treats them as up-to-date.
-          touch docs-expanded/_manifest.csv
-          touch outputs/universe/*.csv
-          touch outputs/search/*.csv outputs/search/*.txt
-          touch outputs/tables/*.csv outputs/tables/*.txt
-
       - name: Run downstream pipeline (audit + enrich + chart + verify)
+        # Invoke scripts directly rather than via `make`. The Makefile
+        # would re-trigger upstream targets (search, tables, download)
+        # because git checkout doesn't preserve mtimes — but those steps
+        # need the ~1 GB PDF corpus that isn't committed. CI exercises
+        # only the downstream analysis, which reads committed CSVs.
         run: |
-          make audit
-          make enrich
-          make chart
-          make verify
+          python3 scripts/summarize_portfolio.py
+          python3 scripts/enrich_audit.py
+          python3 scripts/plot_by_region.py
+          python3 scripts/verify_pipeline.py
 
       - name: Upload chart artefact
         uses: actions/upload-artifact@v4
