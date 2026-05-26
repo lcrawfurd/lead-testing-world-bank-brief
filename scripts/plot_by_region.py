@@ -55,22 +55,27 @@ def safe_float(x: str) -> float:
 def main() -> int:
     rows = [r for r in csv.DictReader(SRC.open()) if r["region"] != "Unknown"]
 
-    # The chart sums IBRD + IDA + grant amounts as reported by the WB
-    # Projects API. These don't always equal the headline
-    # commitment_usd (the API's totalcommamt field) because some
-    # projects have trust-fund grants on top of the main commitment.
-    # The audit's headline number ($30.06B) uses commitment_usd;
-    # this chart's total is closer to $32B because of those overlays.
-    # We display both in the subtitle to make the discrepancy clear.
+    # The chart shows the WATER-ATTRIBUTABLE share of each project's
+    # financing mix, not the full project value. Multi-sector projects
+    # have water as one component of a larger budget — only the water
+    # share is relevant for a piece about lead in drinking water.
+    #
+    # For each project we scale the IBRD / IDA / grant amounts by the
+    # ratio of weighted_commitment_usd (water-attributable) to
+    # commitment_usd (full). The bars then sum to the same total as
+    # the audit's weighted headline figure.
     by_region = defaultdict(lambda: {"IBRD": 0.0, "IDA": 0.0, "Grant": 0.0,
                                      "n": 0, "audit_total": 0.0})
     for r in rows:
         reg = r["region"]
-        by_region[reg]["IBRD"]  += safe_float(r.get("ibrd_amount"))
-        by_region[reg]["IDA"]   += safe_float(r.get("ida_amount"))
-        by_region[reg]["Grant"] += safe_float(r.get("grant_amount"))
+        full = safe_float(r.get("commitment_usd"))
+        weighted = safe_float(r.get("weighted_commitment_usd"))
+        share = (weighted / full) if full > 0 else 0.0
+        by_region[reg]["IBRD"]  += safe_float(r.get("ibrd_amount"))  * share
+        by_region[reg]["IDA"]   += safe_float(r.get("ida_amount"))   * share
+        by_region[reg]["Grant"] += safe_float(r.get("grant_amount")) * share
         by_region[reg]["n"]     += 1
-        by_region[reg]["audit_total"] += safe_float(r.get("commitment_usd"))
+        by_region[reg]["audit_total"] += weighted
 
     # Sort regions by total commitment (sum of stacks), descending
     regions = sorted(by_region,
@@ -90,7 +95,7 @@ def main() -> int:
         bottoms = [b + h for b, h in zip(bottoms, heights)]
 
     ax.invert_yaxis()
-    ax.set_xlabel("Total active commitment, $ billion",
+    ax.set_xlabel("Water-attributable commitment, $ billion",
                   color=TEAL, fontsize=11)
     ax.xaxis.set_major_formatter(mtick.FormatStrFormatter("$%.1fB"))
     ax.tick_params(colors=TEAL_BLACK)
@@ -117,17 +122,18 @@ def main() -> int:
     leg.get_title().set_color(TEAL)
 
     # Title aligned top-left per CGD guide
-    ax.set_title("WB Active Water-Supply / Sanitation Portfolio "
-                 "by Region and Financing Type",
+    ax.set_title("WB Active Water-Supply Portfolio: water-attributable "
+                 "share by region and financing type",
                  loc="left", fontsize=13, fontweight="bold", color=TEAL,
                  pad=14)
     n_total = sum(by_region[r]["n"] for r in regions)
     audit_total = sum(by_region[r]["audit_total"] for r in regions) / 1e9
     fig.text(0.5, 0.01,
-             f"{n_total} active projects, ${audit_total:.1f}B in headline "
-             f"commitments. "
-             "IBRD = market-rate loan (middle-income); "
-             "IDA = concessional credit (low-income); "
+             f"{n_total} active projects (WWC sector code). Bars show the "
+             f"water-attributable share of each project's commitment, "
+             f"summing to ${audit_total:.1f}B. "
+             "IBRD = market-rate loan; "
+             "IDA = concessional credit; "
              "Grant = no repayment.",
              ha="center", fontsize=8.5, style="italic", color=TEAL_BLACK)
     fig.tight_layout(rect=(0, 0.03, 1, 0.96))

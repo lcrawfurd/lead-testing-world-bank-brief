@@ -42,20 +42,6 @@ Resulting totals for the WWC-only universe of 81 projects:
 | Unweighted (full commitment per project) | \$17.0B |
 | Hybrid-weighted (audit headline) | **\$3.4B** |
 
-For reference, the WB's internal "water supply portfolio" figure is
-\$8.7B across 105 projects, using a slightly broader universe
-(WWC + WWA) and the Bank's internal sector-percent weighting that
-covers projects where the public API doesn't populate the field.
-Headline findings (zero confirmed drinking-water lead testing) hold
-at any denominator.
-
-To reproduce the broader universes:
-
-```bash
-python3 scripts/fetch_wb_projects.py --include-sanitation         # +WWA
-python3 scripts/fetch_wb_projects.py --include-water-resources    # +WWA+WWW
-```
-
 ## Quick start
 
 ```bash
@@ -183,9 +169,13 @@ The most-cited outputs:
    projects from the original blog review). The included-IDs list is
    in the Makefile (`LEGACY_IDS`). Other legacy-coded water projects
    are not captured.
-2. **Language coverage.** Some safeguards documents are in French,
-   Portuguese, Spanish, or Arabic. The keyword search is English-only;
-   non-English docs may under-count lead mentions.
+2. **Language coverage.** 67 of 556 safeguards documents in the
+   WWC universe (12%) are in French, Portuguese, Spanish, or Arabic
+   — mostly annexes for francophone Africa, Morocco, Peru, Argentina,
+   Angola, and Brazil. The keyword search is English-only, so lead
+   mentions inside those annexes are missed. Every project with any
+   documents has at least one English-language document (typically
+   the PAD), so no project is entirely blind to the search.
 3. **Classifier ambiguity.** The parameter-table classifier's
    *drinking / effluent / baseline* tags are inferred from page
    context. Ambiguous pages get multiple tags. Any `confirmed`-verdict
