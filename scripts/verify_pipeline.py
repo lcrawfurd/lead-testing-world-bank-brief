@@ -26,25 +26,27 @@ ROOT = Path(__file__).resolve().parent.parent
 # Loose ranges around the headline numbers as of May 2026.
 # Update these when the underlying portfolio shifts materially.
 EXPECTED = {
-    # Default universe = WWC + WWA = projects with a water-supply or
-    # sanitation sector code. This produces ~95 projects / ~$20B.
+    # Default universe = WWC only = projects with a Water Supply sector
+    # code. This is the strictest defensible filter for drinking-water
+    # work. Produces ~65 projects via the WW* query, +12 legacy-coded
+    # additions = ~77 total.
     #
-    # NOTE: the WB's internal "water supply portfolio" figure is smaller
-    # (~$8.7B / 105 projects) because they weight commitments by
-    # sector_percent (the share of each project's funding allocated to
-    # water vs other sectors). The API returns sector_percent = 0 for
-    # every sector in every project we've sampled, so we can't replicate
-    # that weighting from public data — we sum full commitments instead.
-    # Headline findings (zero confirmed drinking-water lead testing)
-    # hold under either denominator.
-    "min_projects":              80,
-    "max_projects":             120,
-    "min_commitment_usd":     15_000_000_000,
-    "max_commitment_usd":     25_000_000_000,
+    # NOTE: the WB's internal "water supply portfolio" figure of
+    # $8.7B / 105 projects uses sector_percent weighting (and includes
+    # sanitation alongside water supply). The API returns
+    # sector_percent = 0 for every project we've sampled, so we can't
+    # replicate that weighting from public data — we sum full
+    # commitments instead, producing a larger dollar total even at the
+    # narrower WWC-only filter. Headline findings (zero confirmed
+    # drinking-water lead testing) hold under any of these denominators.
+    "min_projects":              55,
+    "max_projects":              95,
+    "min_commitment_usd":     10_000_000_000,
+    "max_commitment_usd":     18_000_000_000,
     "max_confirmed_drinking_lead": 0,    # the headline claim — zero confirmed
     "min_baseline_drinking":    1,       # Ghana GAMA at minimum
-    "min_countries":           50,
-    "max_countries":           85,
+    "min_countries":           40,
+    "max_countries":           70,
     "expected_verdicts": {
         "confirmed",
         "baseline-drinking",

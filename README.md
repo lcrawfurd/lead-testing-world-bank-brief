@@ -4,24 +4,32 @@ Code, data, and analysis behind a [Center for Global Development blog
 post](https://www.cgdev.org/) auditing how the World Bank's active
 water supply and sanitation portfolio handles lead in drinking water.
 
-**Headline finding:** across the Bank's active water supply
-portfolio (94 projects tagged with WWC or WWA sector codes), not one
+**Headline finding:** across the Bank's active drinking-water-supply
+portfolio (81 projects tagged with the WWC sector code), not one
 commits to ongoing lead testing in the drinking water it delivers. A
 single \$30 million sanitation project in Ghana ran a baseline
 groundwater test against WHO guidelines, found lead above threshold,
 and committed to no follow-up monitoring.
 
-**A note on portfolio figures.** The WB's own internal definition of
-the water supply portfolio is **\$8.7 billion across 105 projects**,
-using sector-percent weighting to allocate each project's commitment
-across its multiple sectors. The API returns sector_percent = 0 for
-every project sampled, so this pipeline can't replicate that
-weighting — it sums full commitments for any project tagged with WWC
-or WWA, producing a higher dollar total (\$19.9B vs the Bank's
-\$8.7B). The headline finding (zero confirmed drinking-water lead
-testing) holds under either denominator. The blog uses the Bank's
-own figure for the headline. See `scripts/verify_pipeline.py` for the
-methodological note.
+**A note on portfolio figures.** This pipeline defaults to the
+strictest defensible filter — WWC (Water Supply) only — to capture
+the drinking-water-relevant universe. The WB's own internal "water
+supply portfolio" figure is **\$8.7 billion across 105 projects**,
+combining WWC + WWA (sanitation) and weighting commitments by
+`sector_percent`. The API returns `sector_percent = 0` for every
+project sampled, so the pipeline sums full commitments and produces
+a larger dollar total (\$17.0B at WWC-only) than the Bank's
+weighted figure. The headline finding (zero confirmed drinking-water
+lead testing) holds at any of these denominators. The blog uses
+the Bank's own figure where the rhetorical context calls for it,
+and the pipeline's own figure where the data lineage matters.
+
+To reproduce the broader universes:
+
+```bash
+python3 scripts/fetch_wb_projects.py --include-sanitation         # +WWA
+python3 scripts/fetch_wb_projects.py --include-water-resources    # +WWA+WWW
+```
 
 ## Quick start
 
@@ -58,7 +66,7 @@ re-runs only redo what's stale.
 ├── requirements.txt            Python dependencies
 ├── .gitignore
 │
-├── docs-expanded/              PDFs for all 144 projects (auto-downloaded)
+├── docs-expanded/              PDFs for the broader project set (auto-downloaded)
 │   └── _manifest.csv           One row per downloaded doc with metadata
 │
 ├── scripts/                    Analysis pipeline
@@ -81,7 +89,7 @@ re-runs only redo what's stale.
 
 ## How the pipeline works
 
-The pipeline is **uniform across all 144 projects** — there is no
+The pipeline is **uniform across all projects in the universe** — there is no
 separate manual review of "the top 12" and automated review of "the
 rest". Every project is fetched from the WB API, every safeguards
 document is downloaded from the WB Documents API, every PDF is run

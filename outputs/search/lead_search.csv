@@ -33,7 +33,7 @@ P181263,?,?,3,0,No,30,copper
 P181344,?,?,2,0,No,20,
 P181389,?,?,3,0,No,40,
 P181501,?,?,3,0,No,25,
-P181538,?,?,9,0,No,31,turbidity
+P181538,?,?,10,1,No,31,turbidity
 P181603,?,?,3,0,No,30,
 P181702,?,?,3,10,Yes,69,"BOD, COD, arsenic, cadmium, chlorine, coliform, copper, iron, manganese, mercury, nitrate, salinity, turbidity, zinc"
 P500620,?,?,9,4,Yes,76,"arsenic, chlorine, coliform, copper, fluoride, iron, microbial, nitrate, turbidity, zinc"
@@ -61,10 +61,11 @@ P507504,?,?,6,3,Yes,187,"chlorine, microbial, nitrate"
 P507588,?,?,12,4,Yes,118,"BOD, COD, E. coli, arsenic, cadmium, chlorine, coliform, copper, fluoride, iron, mercury, nitrate, zinc"
 P507658,?,?,9,15,Yes,107,"BOD, COD, E. coli, arsenic, cadmium, chlorine, coliform, copper, iron, manganese, microbial, nitrate, salinity, turbidity, zinc"
 P507749,?,?,8,0,No,24,
-P507888,?,?,9,0,No,48,
+P507888,?,?,10,0,No,58,
 P507912,?,?,3,0,No,32,salinity
-P507944,?,?,1,0,No,3,
-P507957,?,?,2,0,No,9,
+P507944,?,?,7,0,No,24,"arsenic, cadmium, nitrate, turbidity, zinc"
+P507957,?,?,6,0,No,29,
+P507962,?,?,3,0,No,13,"copper, manganese"
 P508001,?,?,2,0,No,4,
 P508034,?,?,2,3,Yes,10,"E. coli, arsenic, cadmium, nitrate, salinity"
 P508094,?,?,11,6,Yes,108,"BOD, COD, arsenic, chlorine, iron, nitrate, salinity"
@@ -82,7 +83,7 @@ P508698,?,?,9,0,No,79,chlorine
 P508792,?,?,2,0,No,10,
 P508930,?,?,8,0,No,38,iron
 P509041,?,?,9,0,No,54,
-P509225,?,?,3,0,No,18,
+P509225,?,?,10,0,No,44,"iron, zinc"
 P509251,?,?,8,44,Yes,382,"BOD, COD, arsenic, cadmium, coliform, iron, mercury, microbial, nitrate, turbidity, zinc"
 P509293,?,?,7,0,No,13,
 P509357,?,?,2,0,No,11,
@@ -96,6 +97,7 @@ P510227,?,?,6,0,No,20,"chlorine, turbidity"
 P510359,?,?,9,1,Yes,68,"BOD, E. coli, arsenic, chlorine, coliform, iron, microbial, salinity, turbidity"
 P510383,?,?,2,0,No,17,
 P510631,?,?,2,0,No,8,
+P510638,?,?,1,0,No,7,
 P510667,?,?,2,0,No,10,coliform
 P510690,?,?,9,0,No,111,turbidity
 P510691,?,?,2,0,No,8,
@@ -118,6 +120,7 @@ P512663,?,?,4,4,Yes,68,"COD, turbidity"
 P512709,?,?,1,0,No,2,
 P512715,?,?,6,0,No,30,
 P512898,?,?,5,27,Yes,81,"BOD, COD, E. coli, arsenic, cadmium, coliform, microbial, nitrate, salinity, turbidity"
+P512939,?,?,1,0,No,2,
 P512975,?,?,6,0,No,21,
 P513113,?,?,2,0,No,14,"E. coli, fluoride, iron, nitrate, salinity"
 P513248,?,?,7,1,Yes,79,"BOD, COD, turbidity"
@@ -126,11 +129,12 @@ P513341,?,?,2,0,No,9,
 P513349,?,?,9,0,No,31,
 P513389,?,?,7,3,Yes,71,"chlorine, copper, mercury, microbial, turbidity"
 P513580,?,?,2,0,No,10,
-P513708,?,?,11,1,No,91,"BOD, COD, coliform, copper, manganese, turbidity"
+P513708,?,?,12,1,No,101,"BOD, COD, coliform, copper, manganese, turbidity"
 P513815,?,?,5,0,No,17,
+P514166,?,?,7,0,No,30,
 P514199,?,?,9,0,No,68,turbidity
 P514272,?,?,2,0,No,7,
 P514340,?,?,8,0,No,39,"iron, nitrate, salinity, turbidity"
-P514502,?,?,6,0,No,21,zinc
+P514502,?,?,8,0,No,28,zinc
 P515014,?,?,2,0,No,11,mercury
 P515255,?,?,8,35,Yes,103,"BOD, COD, E. coli, coliform, iron, salinity, turbidity"

@@ -615,12 +615,14 @@ P181501  ? — ?
     - P181501_Brazil_PID_2024-05-22_PIDDA00062_099052.pdf: 0 lead-metal hit(s)
 
 P181538  ? — ?
-  Documents scanned: 9
-  Lead-as-metal matches: 0
+  Documents scanned: 10
+  Lead-as-metal matches: 1
   Generic 'lead/leads/leading' tokens: 31  (≈ verb or 'leadership' uses)
   Water-quality params named: turbidity
     - P181538_Mali_ESCP_2024-10-19_099101.pdf: 0 lead-metal hit(s)
     - P181538_Mali_ESMP_2024-10-14_099101.pdf: 0 lead-metal hit(s)
+    - P181538_Mali_ESMP_2026-05-14_099051.pdf: 1 lead-metal hit(s)
+        • 'PB' … isation Non Gouvernementale PAP : Personne Affectée par le Projet PAR : Plan d’Action de Réinstallation PB : Procédure de la Banque PM : Pour Mémoire PNA : Politique Nationale d’Assainissement PNAT …
     - P181538_Mali_ESRS_2024-09-11_ESRSC04447_099091.pdf: 0 lead-metal hit(s)
     - P181538_Mali_ESRS_2024-10-19_ESRSA03679_099101.pdf: 0 lead-metal hit(s)
     - P181538_Mali_PAD_2024-12-23_PADHI00697_099010.pdf: 0 lead-metal hit(s)
@@ -1080,15 +1082,16 @@ P507749  ? — ?
     - P507749_Samoa_SEP_2025-06-30_099063.pdf: 0 lead-metal hit(s)
 
 P507888  ? — ?
-  Documents scanned: 9
+  Documents scanned: 10
   Lead-as-metal matches: 0
-  Generic 'lead/leads/leading' tokens: 48  (≈ verb or 'leadership' uses)
+  Generic 'lead/leads/leading' tokens: 58  (≈ verb or 'leadership' uses)
   Water-quality params named: (none)
     - P507888_CotedIvoire_EA_2026-05-06_099050.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_ESCP_2026-03-12_099031.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_ESCP_2026-04-17_099041.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_ESRS_2025-10-08_ESRSC05224_099100.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_ESRS_2026-03-12_ESRSA04827_099031.pdf: 0 lead-metal hit(s)
+    - P507888_CotedIvoire_PAD_2026-04-28_PADHI01165_099043.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_PID_2025-10-08_PIDDC01135_099100.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_PID_2026-03-12_PIDIA01375_099031.pdf: 0 lead-metal hit(s)
     - P507888_CotedIvoire_SEP_2026-02-17_099021.pdf: 0 lead-metal hit(s)
@@ -1104,19 +1107,38 @@ P507912  ? — ?
     - P507912_Tanzania_PID_2025-03-13_PIDDA00146_099031.pdf: 0 lead-metal hit(s)
 
 P507944  ? — ?
-  Documents scanned: 1
+  Documents scanned: 7
   Lead-as-metal matches: 0
-  Generic 'lead/leads/leading' tokens: 3  (≈ verb or 'leadership' uses)
-  Water-quality params named: (none)
+  Generic 'lead/leads/leading' tokens: 24  (≈ verb or 'leadership' uses)
+  Water-quality params named: arsenic, cadmium, nitrate, turbidity, zinc
+    - P507944_Madagascar_ESCP_2026-05-22_099052.pdf: 0 lead-metal hit(s)
+    - P507944_Madagascar_ESMF_2026-05-18_099051.pdf: 0 lead-metal hit(s)
+    - P507944_Madagascar_ESMP_2026-05-18_099051.pdf: 0 lead-metal hit(s)
+    - P507944_Madagascar_ESRS_2026-05-22_ESRSA05045_099052.pdf: 0 lead-metal hit(s)
     - P507944_Madagascar_PID_2025-07-25_PIDDC01300_099072.pdf: 0 lead-metal hit(s)
+    - P507944_Madagascar_PID_2026-05-22_PIDIA01519_099052.pdf: 0 lead-metal hit(s)
+    - P507944_Madagascar_SEP_2026-05-22_099052.pdf: 0 lead-metal hit(s)
 
 P507957  ? — ?
-  Documents scanned: 2
+  Documents scanned: 6
   Lead-as-metal matches: 0
-  Generic 'lead/leads/leading' tokens: 9  (≈ verb or 'leadership' uses)
+  Generic 'lead/leads/leading' tokens: 29  (≈ verb or 'leadership' uses)
   Water-quality params named: (none)
+    - P507957_Chad_ESCP_2026-05-13_099051.pdf: 0 lead-metal hit(s)
     - P507957_Chad_ESRS_2025-06-18_ESRSC05016_099061.pdf: 0 lead-metal hit(s)
+    - P507957_Chad_ESRS_2026-05-13_ESRSA05007_099051.pdf: 0 lead-metal hit(s)
     - P507957_Chad_PID_2025-06-30_PIDDC01344_099063.pdf: 0 lead-metal hit(s)
+    - P507957_Chad_PID_2026-05-13_PIDIA01494_099051.pdf: 0 lead-metal hit(s)
+    - P507957_Chad_SEP_2026-05-13_099051.pdf: 0 lead-metal hit(s)
+
+P507962  ? — ?
+  Documents scanned: 3
+  Lead-as-metal matches: 0
+  Generic 'lead/leads/leading' tokens: 13  (≈ verb or 'leadership' uses)
+  Water-quality params named: copper, manganese
+    - P507962_Zambia_PAD_2026-02-13_PD000222_099022.pdf: 0 lead-metal hit(s)
+    - P507962_Zambia_PID_2025-09-01_PIDIC00241_099090.pdf: 0 lead-metal hit(s)
+    - P507962_Zambia_PID_2026-01-20_PIDDA00198_099012.pdf: 0 lead-metal hit(s)
 
 P508001  ? — ?
   Documents scanned: 2
@@ -1340,13 +1362,20 @@ P509041  ? — ?
     - P509041_Brazil_SEP_2025-08-20_099082.pdf: 0 lead-metal hit(s)
 
 P509225  ? — ?
-  Documents scanned: 3
+  Documents scanned: 10
   Lead-as-metal matches: 0
-  Generic 'lead/leads/leading' tokens: 18  (≈ verb or 'leadership' uses)
-  Water-quality params named: (none)
+  Generic 'lead/leads/leading' tokens: 44  (≈ verb or 'leadership' uses)
+  Water-quality params named: iron, zinc
+    - P509225_Benin_ESCP_2026-05-12_099051.pdf: 0 lead-metal hit(s)
+    - P509225_Benin_ESCP_2026-05-21_099052.pdf: 0 lead-metal hit(s)
     - P509225_Benin_ESRS_2026-03-31_ESRSC05540_099033.pdf: 0 lead-metal hit(s)
+    - P509225_Benin_ESRS_2026-05-12_ESRSA05010_099051.pdf: 0 lead-metal hit(s)
     - P509225_Benin_ESSA_2026-04-29_099042.pdf: 0 lead-metal hit(s)
+    - P509225_Benin_ESSA_2026-05-18_099051.pdf: 0 lead-metal hit(s)
+    - P509225_Benin_PAD_2026-05-18_PADHP00216_099051.pdf: 0 lead-metal hit(s)
     - P509225_Benin_PID_2026-03-05_PIDPC00207_099030.pdf: 0 lead-metal hit(s)
+    - P509225_Benin_PID_2026-05-12_PIDPA00252_099051.pdf: 0 lead-metal hit(s)
+    - P509225_Benin_SEP_2026-05-12_099051.pdf: 0 lead-metal hit(s)
 
 P509251  ? — ?
   Documents scanned: 8
@@ -1536,6 +1565,13 @@ P510631  ? — ?
   Water-quality params named: (none)
     - P510631_Thailand_ESRS_2026-04-06_ESRSC05578_099040.pdf: 0 lead-metal hit(s)
     - P510631_Thailand_PID_2026-04-08_PIDDC01656_099040.pdf: 0 lead-metal hit(s)
+
+P510638  ? — ?
+  Documents scanned: 1
+  Lead-as-metal matches: 0
+  Generic 'lead/leads/leading' tokens: 7  (≈ verb or 'leadership' uses)
+  Water-quality params named: (none)
+    - P510638_Benin_PID_2026-01-26_PIDDA00200_099012.pdf: 0 lead-metal hit(s)
 
 P510667  ? — ?
   Documents scanned: 2
@@ -2059,6 +2095,13 @@ P512898  ? — ?
     - P512898_India_PID_2025-10-02_PIDPC00201_099100.pdf: 0 lead-metal hit(s)
     - P512898_India_PID_2026-03-31_PIDPA00234_099033.pdf: 0 lead-metal hit(s)
 
+P512939  ? — ?
+  Documents scanned: 1
+  Lead-as-metal matches: 0
+  Generic 'lead/leads/leading' tokens: 2  (≈ verb or 'leadership' uses)
+  Water-quality params named: (none)
+    - P512939_Brazil_PID_2026-03-27_PIDIC00245_099032.pdf: 0 lead-metal hit(s)
+
 P512975  ? — ?
   Documents scanned: 6
   Lead-as-metal matches: 0
@@ -2149,9 +2192,9 @@ P513580  ? — ?
     - P513580_SouthAfrica_PID_2026-05-04_PIDDA00227_099050.pdf: 0 lead-metal hit(s)
 
 P513708  ? — ?
-  Documents scanned: 11
+  Documents scanned: 12
   Lead-as-metal matches: 1
-  Generic 'lead/leads/leading' tokens: 91  (≈ verb or 'leadership' uses)
+  Generic 'lead/leads/leading' tokens: 101  (≈ verb or 'leadership' uses)
   Water-quality params named: BOD, COD, coliform, copper, manganese, turbidity
     - P513708_Ghana_ESCP_2026-04-14_099041.pdf: 0 lead-metal hit(s)
     - P513708_Ghana_ESCP_2026-04-25_099042.pdf: 0 lead-metal hit(s)
@@ -2161,6 +2204,7 @@ P513708  ? — ?
         • 'Lead                            mg/l' … mg/l 1.0 Copper mg/l 5 Lead mg/l 0.1 Total Coliform Bacteria MPN/100ml - …
     - P513708_Ghana_ESRS_2025-11-28_ESRSC05313_099112.pdf: 0 lead-metal hit(s)
     - P513708_Ghana_ESRS_2026-04-14_ESRSA04905_099041.pdf: 0 lead-metal hit(s)
+    - P513708_Ghana_PAD_2026-05-06_PADHI01399_099050.pdf: 0 lead-metal hit(s)
     - P513708_Ghana_PID_2025-12-05_PIDDC01497_099120.pdf: 0 lead-metal hit(s)
     - P513708_Ghana_PID_2026-04-15_PIDIA01628_099041.pdf: 0 lead-metal hit(s)
     - P513708_Ghana_SEP_2026-04-14_099041.pdf: 0 lead-metal hit(s)
@@ -2176,6 +2220,19 @@ P513815  ? — ?
     - P513815_India_PAD_2026-01-27_PADHI01322_099013.pdf: 0 lead-metal hit(s)
     - P513815_India_PID_2025-11-10_PIDIA01551_099111.pdf: 0 lead-metal hit(s)
     - P513815_India_SEP_2025-11-10_099110.pdf: 0 lead-metal hit(s)
+
+P514166  ? — ?
+  Documents scanned: 7
+  Lead-as-metal matches: 0
+  Generic 'lead/leads/leading' tokens: 30  (≈ verb or 'leadership' uses)
+  Water-quality params named: (none)
+    - P514166_Comoros_ESCP_2026-03-06_099030.pdf: 0 lead-metal hit(s)
+    - P514166_Comoros_ESCP_2026-03-13_099031.pdf: 0 lead-metal hit(s)
+    - P514166_Comoros_ESRS_2026-03-06_ESRSA04815_099030.pdf: 0 lead-metal hit(s)
+    - P514166_Comoros_PAD_2026-03-24_PADHI01406_099032.pdf: 0 lead-metal hit(s)
+    - P514166_Comoros_PID_2026-03-09_PIDIA01635_099030.pdf: 0 lead-metal hit(s)
+    - P514166_Comoros_SEP_2026-03-06_099030.pdf: 0 lead-metal hit(s)
+    - P514166_Comoros_SEP_2026-03-20_099032.pdf: 0 lead-metal hit(s)
 
 P514199  ? — ?
   Documents scanned: 9
@@ -2215,15 +2272,17 @@ P514340  ? — ?
     - P514340_Tunisia_SEP_2026-02-04_099020.pdf: 0 lead-metal hit(s)
 
 P514502  ? — ?
-  Documents scanned: 6
+  Documents scanned: 8
   Lead-as-metal matches: 0
-  Generic 'lead/leads/leading' tokens: 21  (≈ verb or 'leadership' uses)
+  Generic 'lead/leads/leading' tokens: 28  (≈ verb or 'leadership' uses)
   Water-quality params named: zinc
     - P514502_YemenRepublicof_ESCP_2026-04-23_099042.pdf: 0 lead-metal hit(s)
     - P514502_YemenRepublicof_ESRS_2025-12-15_ESRSC05362_099121.pdf: 0 lead-metal hit(s)
     - P514502_YemenRepublicof_ESRS_2026-04-23_ESRSA04928_099042.pdf: 0 lead-metal hit(s)
     - P514502_YemenRepublicof_PID_2025-12-18_PIDDC01521_099121.pdf: 0 lead-metal hit(s)
     - P514502_YemenRepublicof_PID_2026-04-20_PIDIA01658_099042.pdf: 0 lead-metal hit(s)
+    - P514502_YemenRepublicof_PID_2026-04-20_PIDIA01658_099538.pdf: 0 lead-metal hit(s)
+    - P514502_YemenRepublicof_PID_2026-05-19_PIDIA01805_099051.pdf: 0 lead-metal hit(s)
     - P514502_YemenRepublicof_SEP_2026-04-23_099042.pdf: 0 lead-metal hit(s)
 
 P515014  ? — ?

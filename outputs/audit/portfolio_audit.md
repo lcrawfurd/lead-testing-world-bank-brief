@@ -1,6 +1,6 @@
 # Portfolio Audit — Lead Testing in WB Water Projects
 
-Total projects: **94**   |   Total commitment: **$19.9 B**
+Total projects: **81**   |   Total commitment: **$17.0 B**
 
 ## Verdict distribution
 
@@ -9,8 +9,8 @@ Total projects: **94**   |   Total commitment: **$19.9 B**
 | baseline-drinking | 1 | 0.03 |
 | effluent-only | 2 | 0.78 |
 | table-unclassified | 1 | 0.14 |
-| mentioned | 26 | 6.23 |
-| absent | 56 | 12.41 |
+| mentioned | 23 | 5.35 |
+| absent | 46 | 10.46 |
 | no-docs | 8 | 0.28 |
 
 ## Per-project details (sorted by commitment)
@@ -24,29 +24,23 @@ Total projects: **94**   |   Total commitment: **$19.9 B**
 | P511300 | Uganda | 540 | 13 | 0 | 0 | — | **absent** |
 | P513708 | Ghana | 500 | 13 | 1 | 1 | effluent | **effluent-only** |
 | P181263 | Peru | 500 | 3 | 0 | 0 | — | **absent** |
-| P512898 | India | 500 | 5 | 27 | 3 | — | **mentioned** |
 | P506272 | India | 426 | 7 | 17 | 0 | — | **mentioned** |
 | P170734 | Nigeria | 410 | 17 | 0 | 0 | — | **absent** |
 | P513389 | India | 402 | 7 | 3 | 0 | — | **mentioned** |
 | P510901 | Cote d'Ivoire | 400 | 2 | 0 | 0 | — | **absent** |
 | P508094 | Pakistan | 400 | 11 | 6 | 0 | — | **mentioned** |
-| P179770 | Niger | 400 | 12 | 0 | 0 | — | **absent** |
 | P178389 | Congo, Democratic Republic of | 400 | 26 | 2 | 0 | — | **mentioned** |
-| P509756 | Brazil | 377 | 3 | 0 | 0 | — | **absent** |
-| P506770 | Bangladesh | 370 | 10 | 14 | 0 | — | **mentioned** |
 | P179039 | India | 363 | 7 | 8 | 7 | — | **mentioned** |
 | P515014 | Philippines | 350 | 2 | 0 | 0 | — | **absent** |
 | P179192 | Morocco | 350 | 6 | 0 | 0 | — | **absent** |
 | P508930 | South Africa | 339 | 8 | 0 | 0 | — | **absent** |
 | P508034 | Pakistan | 300 | 2 | 3 | 1 | — | **mentioned** |
-| P512645 | Bangladesh | 300 | 2 | 0 | 0 | — | **absent** |
 | P164345 | Burkina Faso | 300 | 7 | 0 | 0 | — | **absent** |
 | P176429 | Bangladesh | 280 | 10 | 1 | 0 | — | **mentioned** |
 | P163782 | Uganda | 280 | 11 | 9 | 4 | effluent | **effluent-only** |
 | P504170 | Lebanon | 258 | 11 | 0 | 0 | — | **absent** |
 | P510359 | Philippines | 251 | 9 | 1 | 1 | — | **mentioned** |
 | P171422 | Pakistan | 240 | 21 | 9 | 1 | — | **mentioned** |
-| P507944 | Madagascar | 225 | 7 | 0 | 0 | — | **absent** |
 | P164186 | Benin | 220 | 6 | 0 | 0 | — | **absent** |
 | P509293 | Turkiye | 219 | 7 | 0 | 0 | — | **absent** |
 | P514340 | Tunisia | 208 | 9 | 0 | 0 | — | **absent** |
@@ -62,26 +56,21 @@ Total projects: **94**   |   Total commitment: **$19.9 B**
 | P176619 | Jordan | 200 | 19 | 6 | 3 | — | **mentioned** |
 | P512939 | Brazil | 195 | 1 | 0 | 0 | — | **absent** |
 | P510227 | Brazil | 186 | 6 | 0 | 0 | — | **absent** |
-| P507957 | Chad | 156 | 6 | 0 | 0 | — | **absent** |
 | P509225 | Benin | 150 | 12 | 0 | 0 | — | **absent** |
 | P179643 | Gabon | 150 | 12 | 0 | 0 | — | **absent** |
-| P505562 | Yemen, Republic of | 150 | 12 | 0 | 0 | — | **absent** |
 | P178954 | Malawi | 145 | 14 | 7 | 1 | unclassified | **table-unclassified** |
 | P509890 | Mozambique | 143 | 9 | 1 | 0 | — | **mentioned** |
 | P181633 | Yemen, Republic of | 142 | 0 | 0 | 0 | — | **no-docs** |
-| P181603 | Rwanda | 141 | 3 | 0 | 0 | — | **absent** |
 | P511719 | Tunisia | 124 | 7 | 0 | 0 | — | **absent** |
 | P500620 | Kyrgyz Republic | 121 | 9 | 4 | 0 | — | **mentioned** |
 | P177146 | Burundi | 113 | 17 | 0 | 0 | — | **absent** |
 | P181501 | Brazil | 110 | 3 | 0 | 0 | — | **absent** |
 | P510696 | Argentina | 100 | 7 | 0 | 0 | — | **absent** |
 | P514199 | Mozambique | 100 | 9 | 0 | 0 | — | **absent** |
-| P181538 | Mali | 100 | 14 | 0 | 0 | — | **absent** |
+| P181538 | Mali | 100 | 14 | 1 | 0 | — | **mentioned** |
 | P507116 | Zambia | 100 | 3 | 0 | 0 | — | **absent** |
 | P178687 | Nepal | 100 | 3 | 0 | 0 | — | **absent** |
 | P180429 | Brazil | 100 | 9 | 4 | 0 | — | **mentioned** |
-| P507888 | Cote d'Ivoire | 100 | 10 | 0 | 0 | — | **absent** |
-| P511605 | Sri Lanka | 100 | 14 | 2 | 0 | — | **mentioned** |
 | P514502 | Yemen, Republic of | 94 | 8 | 0 | 0 | — | **absent** |
 | P179227 | Pakistan | 94 | 9 | 0 | 0 | — | **absent** |
 | P507207 | Burundi | 80 | 9 | 0 | 0 | — | **absent** |
@@ -105,9 +94,7 @@ Total projects: **94**   |   Total commitment: **$19.9 B**
 | P508033 | Tanzania | 14 | 0 | 0 | 0 | — | **no-docs** |
 | P507148 | Lesotho | 12 | 0 | 0 | 0 | — | **no-docs** |
 | P506439 | Eastern and Southern Africa | 10 | 13 | 0 | 0 | — | **absent** |
-| P179067 | St Maarten | 10 | 15 | 2 | 0 | — | **mentioned** |
 | P511194 | Eswatini | 8 | 0 | 0 | 0 | — | **no-docs** |
 | P509144 | Comoros | 5 | 0 | 0 | 0 | — | **no-docs** |
 | P509563 | Kyrgyz Republic | 5 | 2 | 0 | 0 | — | **absent** |
-| P508001 | Yemen, Republic of | 5 | 2 | 0 | 0 | — | **absent** |
 | P509605 | Mali | 4 | 2 | 0 | 0 | — | **absent** |

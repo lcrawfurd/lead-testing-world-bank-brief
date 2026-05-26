@@ -6,29 +6,23 @@ P163732,Tanzania,Sustainable Rural Water Supply and Sanitation Program,650000000
 P511300,Uganda,Uganda Cities and Municipalities Infrastructure Development (UCMID),540000000,13,0,0,0,,absent
 P513708,Ghana,Ghana Market Access and Connectivity Project,500000000,13,1,1,1,effluent,effluent-only
 P181263,Peru,Green and Resilient Development for a Decarbonized Economy in Peru,500000000,3,0,0,0,,absent
-P512898,India,Water Secure Haryana Program,500000000,5,27,3,0,,mentioned
 P506272,India,Karnataka Water Security and Resilience Program,426000000,7,17,0,0,,mentioned
 P170734,Nigeria,"Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results",410000000,17,0,0,0,,absent
 P513389,India,Jammu and Kashmir Sustainable Local Economic and Tourism Development Project,402000000,7,3,0,0,,mentioned
 P510901,Cote d'Ivoire,Cote d'Ivoire Private Investment and Productive Jobs DPF1,400000000,2,0,0,0,,absent
 P508094,Pakistan,Punjab Inclusive Cities Program,400000000,11,6,0,0,,mentioned
-P179770,Niger,Southern Niger Connectivity and Integration Project,400000000,12,0,0,0,,absent
 P178389,"Congo, Democratic Republic of",Water Supply and Sanitation Access Program (PASEA) Project,400000000,26,2,0,0,,mentioned
-P509756,Brazil,BR State of Piauí Strengthening Fiscal Sustainability and Fostering Sustainable Economic Development,376623392,3,0,0,0,,absent
-P506770,Bangladesh,Metro Dhaka Water Security and Resilience Program,370000000,10,14,0,0,,mentioned
 P179039,India,Karnataka Sustainable Rural Water Supply Program,363000000,7,8,7,0,,mentioned
 P515014,Philippines,Clean Metro Manila,350000000,2,0,0,0,,absent
 P179192,Morocco,Morocco Water Security and Resilience Program,350000000,6,0,0,0,,absent
 P508930,South Africa,Blended Finance Platform for Resilient Infrastructure,338820000,8,0,0,0,,absent
 P508034,Pakistan,"Sindh Transformational Accelerated Rural Water Supply, Sanitation and Hygiene Services Project",300000000,2,3,1,0,,mentioned
-P512645,Bangladesh,Learning Enhancement and Acceleration in Primary Education in Bangladesh,300000000,2,0,0,0,,absent
 P164345,Burkina Faso,Burkina Faso Water Supply and Sanitation Program,300000000,7,0,0,0,,absent
 P176429,Bangladesh,Chattogram Water Supply Improvement Project,280000000,10,1,0,0,,mentioned
 P163782,Uganda,Integrated Water Management and Development Project,280000000,11,9,4,1,effluent,effluent-only
 P504170,Lebanon,Second Greater Beirut Water Supply Project,257800000,11,0,0,0,,absent
 P510359,Philippines,Philippines Accelerated Water and Sanitation Project in Selected Areas (AWSPSA),250886416,9,1,1,0,,mentioned
 P171422,Pakistan,Second Karachi Water and Sewerage Services Improvement Project (KWSSIP-2),240000000,21,9,1,0,,mentioned
-P507944,Madagascar,Integrated Urban Development and Resilience Project for Jobs,225000000,7,0,0,0,,absent
 P164186,Benin,Benin Rural Water Supply Universal Access Program,220000000,6,0,0,0,,absent
 P509293,Turkiye,Green and Future Cities Project,219400000,7,0,0,0,,absent
 P514340,Tunisia,Potable Water Security and Resilience Project,208500000,9,0,0,0,,absent
@@ -44,26 +38,21 @@ P151224,Angola,Second Water Sector Institutional Development Project,200000000,9
 P176619,Jordan,Jordan Water Sector Efficiency Project,200000000,19,6,3,0,,mentioned
 P512939,Brazil,Manaus Fiscal and Environmental Sustainability Program,195000000,1,0,0,0,,absent
 P510227,Brazil,Parana Water Security Project,186000000,6,0,0,0,,absent
-P507957,Chad,Chad Water Security and Resilience Project - PASER,155500000,6,0,0,0,,absent
 P509225,Benin,ALAFIA I- Nourishing Benin's Future Program,150000000,12,0,0,0,,absent
 P179643,Gabon,Access to Basic Services and Performance Improvement Project (PASBAP),150000000,12,0,0,0,,absent
-P505562,"Yemen, Republic of",Yemen Improved Water Management and Irrigation for Sustainability and Efficiency Project,150000000,12,0,0,0,,absent
 P178954,Malawi,Water and Sanitation Project - I,145000000,14,7,1,1,unclassified,table-unclassified
 P509890,Mozambique,Urban Water Security Project,143000000,9,1,0,0,,mentioned
 P181633,"Yemen, Republic of",Third Additional Financing Yemen Emergency Human Capital Project,142000000,0,0,0,0,,no-docs
-P181603,Rwanda,Rwanda Disaster Risk Management Development Policy Credit with a Catastrophe Deferred Drawdown Option,141000000,3,0,0,0,,absent
 P511719,Tunisia,"Irrigation Water Security, Resilience and Value-Addition Project",124000000,7,0,0,0,,absent
 P500620,Kyrgyz Republic,Kyrgyz Republic: Water Supply and Sanitation Universal Access Program-1 Project,121000000,9,4,0,0,,mentioned
 P177146,Burundi,Urban Resilience Emergency Project,113000000,17,0,0,0,,absent
 P181501,Brazil,BR Enhancing Prosperity and Sustainability in the State of Sergipe Development Policy Financing,110000000,3,0,0,0,,absent
 P510696,Argentina,Resilient Infrastructure for Regional Economic Development and Job Creation - Salta Project,100000000,7,0,0,0,,absent
 P514199,Mozambique,"Jobs, Social Cohesion and Community Resilience in Northern Mozambique - Phase I",100000000,9,0,0,0,,absent
-P181538,Mali,Mali Water Security Project,100000000,14,0,0,0,,absent
+P181538,Mali,Mali Water Security Project,100000000,14,1,0,0,,mentioned
 P507116,Zambia,First Zambia Climate and Economic Resilience Programmatic DPF with Cat-DDO,100000000,3,0,0,0,,absent
 P178687,Nepal,"NEPAL SECOND GREEN, RESILIENT, AND INCLUSIVE PROGRAMMATIC DEVELOPMENT POLICY CREDIT",100000000,3,0,0,0,,absent
 P180429,Brazil,Bahia Sustainable Rural Development Project,100000000,9,4,0,0,,mentioned
-P507888,Cote d'Ivoire,Community and Local Development in Western Côte d'Ivoire Project,100000000,10,0,0,0,,absent
-P511605,Sri Lanka,"Sri Lanka Regional Empowerment through Vibrant, Inclusive, and Viable Economies",100000000,14,2,0,0,,mentioned
 P514502,"Yemen, Republic of",Yemen Health Nutrition and WASH Project,94000000,8,0,0,0,,absent
 P179227,Pakistan,Balochistan Water Security and Productivity Improvement Project,94000000,9,0,0,0,,absent
 P507207,Burundi,Burundi Water Supply and Sanitation Access Project,80000000,9,0,0,0,,absent
@@ -87,9 +76,7 @@ P512157,Lesotho,Lesotho Lowlands Water Development Project - Phase II,17800000,0
 P508033,Tanzania,Second Tanzania Water Sector Support Project,13900000,0,0,0,0,,no-docs
 P507148,Lesotho,Lesotho Lowlands Water Development Project - Phase II,12200000,0,0,0,0,,no-docs
 P506439,Eastern and Southern Africa,"Accelerating Access to Water, Sanitation and Hygiene in the Eastern and Southern Africa Region",10000000,13,0,0,0,,absent
-P179067,St Maarten,SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT,10000000,15,2,0,0,,mentioned
 P511194,Eswatini,Kingdom of Eswatini: Water Supply and Sanitation Access Project,8000000,0,0,0,0,,no-docs
 P509144,Comoros,Comoros National Water Resilience Project,5000000,0,0,0,0,,no-docs
 P509563,Kyrgyz Republic,Kyrgyz Republic: Rural Sanitation and Fecal Sludge Management Project,4730000,2,0,0,0,,absent
-P508001,"Yemen, Republic of",Strengthening Climate and Water Information Management Systems,4550000,2,0,0,0,,absent
 P509605,Mali,Community Action for Resilient Education,4100000,2,0,0,0,,absent

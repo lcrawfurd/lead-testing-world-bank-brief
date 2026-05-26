@@ -13,29 +13,30 @@ Filter field notes (discovered by probing the API):
   sectorcode                  -- accepts a single code per call (WWC, WWA, ...)
 
 Sector codes:
-  WWC = Water Supply
-  WWA = Sanitation
+  WWC = Water Supply (drinking water — the canonical code for our work)
+  WWA = Sanitation (sewerage, wastewater — adjacent but distinct)
   WWW = Water Resources (dams, flood/drought, irrigation — NOT drinking water)
   WWF = Public Administration - Water / Sanitation / Solid Waste
 
 Modes:
-  default                     -> Active + (WWC OR WWA)
-                                 = the water supply portfolio per WB's own
-                                   internal definition (~105 projects / $8.7B)
-  --include-water-resources   -> also add WWW (broader water portfolio, ~140
-                                 projects / $30B). NOT recommended for
-                                 drinking-water work — WWW is dams, flood,
-                                 irrigation.
-  --water-supply-only         -> WWC only (~65 active projects)
-  --widest                    -> also add WWF (largest universe)
+  default                     -> Active + WWC only (~65 projects)
+                                 The drinking-water-supply universe — strictest
+                                 defensible filter for a piece about lead in
+                                 drinking water.
+  --include-sanitation        -> WWC + WWA. Adds sanitation projects, matching
+                                 the WB's own "water supply portfolio"
+                                 definition (~95 projects).
+  --include-water-resources   -> WWC + WWA + WWW. Adds dams, flood, irrigation
+                                 (~140 projects). NOT recommended for
+                                 drinking-water work.
+  --widest                    -> also adds WWF (public admin).
 
 `--broad` is retained as an alias of `--include-water-resources` for
-backward compatibility with earlier blog drafts that ran with the
-broader universe.
+backward compatibility with earlier blog drafts.
 
 Usage:
-  python3 fetch_wb_projects.py                          # WWC + WWA (default)
-  python3 fetch_wb_projects.py --include-water-resources --out water_broad.csv
+  python3 fetch_wb_projects.py                          # WWC only (default)
+  python3 fetch_wb_projects.py --include-sanitation     # WWC + WWA
 """
 
 from __future__ import annotations
@@ -152,16 +153,17 @@ def main() -> int:
     )
     ap.add_argument("--out",
                     default=str(OUT_DIR / "world_bank_water_projects.csv"))
-    ap.add_argument("--water-supply-only", action="store_true",
-                    help="WWC only (~65 active projects). Stricter than default.")
+    ap.add_argument("--include-sanitation", action="store_true",
+                    help="Add WWA (Sanitation) to the universe. Matches the "
+                         "WB's own 'water supply portfolio' definition.")
     ap.add_argument("--include-water-resources", action="store_true",
-                    help="Add WWW (Water Resources — dams, flood, irrigation). "
-                         "NOT recommended for drinking-water work.")
+                    help="Add WWA and WWW (Water Resources — dams, flood, "
+                         "irrigation). NOT recommended for drinking-water work.")
     ap.add_argument("--broad", action="store_true",
-                    help="DEPRECATED alias for --include-water-resources, kept "
-                         "for backward compatibility.")
+                    help="DEPRECATED alias for --include-water-resources, "
+                         "kept for backward compatibility.")
     ap.add_argument("--widest", action="store_true",
-                    help="Also include public-admin water sector (WWF)")
+                    help="WWC + WWA + WWW + WWF (largest universe).")
     ap.add_argument("--all-status", action="store_true",
                     help="Include projects of any status (Closed / Pipeline / Dropped)")
     ap.add_argument("--include-ids",
@@ -173,19 +175,21 @@ def main() -> int:
     ap.add_argument("--top", type=int, default=12)
     args = ap.parse_args()
 
-    # Default = WWC + WWA, matching the WB's own "water supply portfolio"
-    # definition (~105 projects / $8.7B). This is the drinking-water-relevant
-    # universe. WWW (Water Resources) is added opt-in via
-    # --include-water-resources, since it covers dams / flood / irrigation
-    # work that's irrelevant for lead testing.
+    # Default = WWC only = strict drinking-water-supply universe.
+    # This is the tightest defensible filter for a piece about lead in
+    # drinking water — only projects whose primary work is delivering
+    # water supply. Sanitation projects (WWA) are adjacent and can be
+    # added via --include-sanitation. Water Resources (WWW) covers dams,
+    # flood, irrigation and is irrelevant for drinking water — opt-in via
+    # --include-water-resources.
     if args.widest:
         target_sectors = [WATER_SUPPLY, SANITATION, WATER_RES, WATER_PUBADM]
     elif args.include_water_resources or args.broad:
         target_sectors = [WATER_SUPPLY, SANITATION, WATER_RES]
-    elif args.water_supply_only:
-        target_sectors = [WATER_SUPPLY]
-    else:
+    elif args.include_sanitation:
         target_sectors = [WATER_SUPPLY, SANITATION]
+    else:
+        target_sectors = [WATER_SUPPLY]
 
     active_only = not args.all_status
     print(f"Sectors: {target_sectors}   active_only={active_only}",
