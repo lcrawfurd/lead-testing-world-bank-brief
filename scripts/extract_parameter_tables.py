@@ -294,9 +294,17 @@ def main() -> int:
     args = ap.parse_args()
 
     docs_dir = Path(args.docs)
-    pdfs = sorted(docs_dir.glob("*.pdf"))
+    # Prefer PDFs; fall back to synthesising paths from docs-extracted/
+    # when PDFs aren't present (CI path — docs-expanded/ is gitignored).
+    pdfs = sorted(docs_dir.glob("*.pdf")) if docs_dir.is_dir() else []
+    if not pdfs and EXTRACTED_DIR.is_dir():
+        pdfs = sorted(docs_dir / (t.stem + ".pdf")
+                      for t in EXTRACTED_DIR.glob("*.txt"))
+        print(f"No PDFs found in {docs_dir}; using {len(pdfs)} extracted "
+              f"text files from {EXTRACTED_DIR}", file=sys.stderr)
     if not pdfs:
-        print(f"No PDFs in {docs_dir}", file=sys.stderr)
+        print(f"No PDFs or extracted text found "
+              f"(checked {docs_dir} and {EXTRACTED_DIR})", file=sys.stderr)
         return 2
 
     # Structure:  per_project[pid] = list of candidate dicts

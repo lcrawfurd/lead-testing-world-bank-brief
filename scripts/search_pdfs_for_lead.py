@@ -175,13 +175,21 @@ def main() -> int:
     args = ap.parse_args()
 
     docs_dir = Path(args.docs)
-    if not docs_dir.is_dir():
-        print(f"No such folder: {docs_dir}", file=sys.stderr)
-        return 2
 
-    pdfs = sorted(docs_dir.glob("*.pdf"))
+    # Prefer the PDF list (works whether or not extracted text exists);
+    # fall back to the extracted text list when PDFs aren't present
+    # (e.g. on CI, where docs-expanded/ is gitignored). In the fallback
+    # path we synthesise PDF paths from the .txt filenames — extract_text
+    # routes back to the .txt files anyway.
+    pdfs = sorted(docs_dir.glob("*.pdf")) if docs_dir.is_dir() else []
+    if not pdfs and EXTRACTED_DIR.is_dir():
+        pdfs = sorted(docs_dir / (t.stem + ".pdf")
+                      for t in EXTRACTED_DIR.glob("*.txt"))
+        print(f"No PDFs found in {docs_dir}; using {len(pdfs)} extracted "
+              f"text files from {EXTRACTED_DIR}", file=sys.stderr)
     if not pdfs:
-        print(f"No PDFs found in {docs_dir}", file=sys.stderr)
+        print(f"No PDFs or extracted text found "
+              f"(checked {docs_dir} and {EXTRACTED_DIR})", file=sys.stderr)
         return 2
 
     # project_id -> list of (filename, analysis_result)
