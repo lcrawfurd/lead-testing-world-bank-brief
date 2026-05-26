@@ -84,7 +84,7 @@ def main() -> int:
                      reverse=True)
     labels = [SHORT.get(r, r) for r in regions]
 
-    fig, ax = plt.subplots(figsize=(9.5, 5.0))
+    fig, ax = plt.subplots(figsize=(7.5, 4.6))
 
     bottoms = [0.0] * len(regions)
     for kind in ["IBRD", "IDA", "Grant"]:
@@ -115,7 +115,7 @@ def main() -> int:
                 va="center", ha="left", fontsize=9)
 
     # Extend x-axis a bit so labels fit
-    ax.set_xlim(0, max_total * 1.22)
+    ax.set_xlim(0, max_total * 1.13)
 
     leg = ax.legend(title="Financing Type", loc="lower right",
                     frameon=False, fontsize=9)
