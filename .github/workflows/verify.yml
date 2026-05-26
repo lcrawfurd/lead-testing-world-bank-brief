@@ -1,0 +1,56 @@
+name: verify
+
+# Runs the fast (cached) part of the pipeline on every push or PR.
+# The slow targets (download, search, tables) are not run here — those
+# need the ~1 GB PDF corpus that isn't committed. CI verifies the
+# downstream analysis is wired correctly and that the headline numbers
+# fall in expected ranges, given the cached intermediate outputs that
+# ARE committed.
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+          cache: pip
+
+      - name: Install poppler (for pdftotext)
+        run: sudo apt-get install -y poppler-utils
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Smoke-test scripts (import only — no external API hits)
+        run: |
+          for f in scripts/*.py; do
+            python -m py_compile "$f"
+          done
+          echo "All scripts compile."
+
+      - name: Run downstream pipeline (audit + enrich + chart + verify)
+        run: |
+          make audit
+          make enrich
+          make chart
+          make verify
+
+      - name: Upload chart artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: projects_by_region
+          path: outputs/audit/projects_by_region.*
+          if-no-files-found: error

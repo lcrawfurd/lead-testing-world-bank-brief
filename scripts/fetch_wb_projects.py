@@ -18,16 +18,21 @@ Sector codes:
   WWW = Water Resources (dams, flood/drought, irrigation — NOT drinking water)
   WWF = Public Administration - Water / Sanitation / Solid Waste
 
-Modes:
-  default                     -> Active + WWC only (~65 projects)
+Modes (project counts include the 12 legacy-coded manual additions
+in `LEGACY_IDS`, set in the Makefile):
+
+  default                     -> Active + WWC only (~65 from API + 12
+                                 manual = ~77-81 projects)
                                  The drinking-water-supply universe — strictest
                                  defensible filter for a piece about lead in
                                  drinking water.
-  --include-sanitation        -> WWC + WWA. Adds sanitation projects, matching
-                                 the WB's own "water supply portfolio"
-                                 definition (~95 projects).
-  --include-water-resources   -> WWC + WWA + WWW. Adds dams, flood, irrigation
-                                 (~140 projects). NOT recommended for
+  --include-sanitation        -> WWC + WWA (~80 from API + 12 manual
+                                 = ~92-95 projects). Adds sanitation,
+                                 matching the WB's own "water supply
+                                 portfolio" definition.
+  --include-water-resources   -> WWC + WWA + WWW (~130 from API + 12
+                                 manual = ~140-145 projects). Adds dams,
+                                 flood, irrigation. NOT recommended for
                                  drinking-water work.
   --widest                    -> also adds WWF (public admin).
 

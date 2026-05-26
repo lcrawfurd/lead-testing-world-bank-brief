@@ -27,9 +27,10 @@ lit/
 # Author drafts (use Google Docs link instead)
 archive/
 
-# Local working copies
+# Local working copies (Word docs of the blog drafts)
 *.docx
 !archive/*.docx
+drafts/
 
 # NOTE: outputs/audit/_api_cache.json is COMMITTED on purpose.
 # It lets CI run `make enrich` without hitting the WB API for each project.

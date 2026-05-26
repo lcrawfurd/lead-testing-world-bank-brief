@@ -79,12 +79,15 @@ re-runs only redo what's stale.
 │   ├── plot_by_region.py           Render the by-region chart
 │   └── cea_botec.py                Cost-effectiveness BOTEC
 │
-└── outputs/
-    ├── universe/               Project list from the WB Projects API
-    ├── search/                 Keyword-search results (lead / Pb / heavy metals)
-    ├── tables/                 Parsed water-quality parameter tables
-    ├── audit/                  Per-project verdicts + region/financing chart
-    └── cea/                    Back-of-envelope cost-effectiveness analysis
+├── outputs/
+│   ├── universe/               Project list from the WB Projects API
+│   ├── search/                 Keyword-search results (lead / Pb / heavy metals)
+│   ├── tables/                 Parsed water-quality parameter tables
+│   ├── audit/                  Per-project verdicts + region/financing chart
+│   └── cea/                    Back-of-envelope cost-effectiveness analysis
+│
+└── Reviews/                    Code-quality review reports from each
+                                methodological tightening
 ```
 
 ## How the pipeline works
