@@ -1,0 +1,730 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 21-Oct-2025 | Report No: PIDDC01403
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+Colombia                       P508450                     Plan PAZcifico Continuity: Water, Sanitation and
+                                                           Waterway Connectivity Project
+Region                         Estimated Appraisal Date    Estimated Approval Date       Practice Area (Lead)
+LATIN AMERICA AND              21-Jan-2026                 04-May-2026                   Water
+CARIBBEAN
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Fiduprevisora               Ministerio de Igualdad y
+Financing (IPF)                                            Equidad
+
+Proposed Development Objective(s)
+The Project Development Objectives is to improve access to safe and reliable water supply, sanitation and waterway
+transport and strengthen institutional and community capacity for infrastructure maintenance in Colombia’s Pacific
+region.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+Is this project Private Capital Enabling (PCE)?            No
+
+SUMMARY
+  Total Operation Cost                                                                                          205.60
+
+  Total Financing                                                                                               205.60
+             of which IBRD/IDA                                                                                205.60
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                               205.60
+
+
+
+                                                                                                                   Page 1
+
+
+
+                                                                                                          Official Use Only
+         The World Bank
+         Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                        Concept Review Decision
+Substantial                                                         The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+    1. Colombia is among the most inequitable countries globally, with persistent regional disparities that are
+       particularly pronounced in the Pacific region, but with an incredibly rich cultural heritage and tourism potential.
+       Income inequality in Colombia is the highest among fifteen countries in the Latin America region and is also high by
+       OECD and world standards. The COVID-19 crisis led to a rise in the country’s inequality, yet the subsequent
+       economic recovery lowered this indicator down to its pre-pandemic level with a still high Gini coefficient of 0.539
+       in 2023.1 Yet, people in the Pacific region, comprised of four departments: Chocó and Valle del Cauca in the north
+       and Cauca and Nariño in the south, face monetary poverty at rates nearly three times higher than people in the
+       capital, Bogotá.2 This uneven territorial development has been exacerbated by a history of internal conflict, lack of
+       trust between the regions and the Government of Colombia (GoC), underinvestment in basic infrastructure, and
+       weak local governance. Illegal activities that drive the economy in some areas, along with associated security risks,
+       further contribute to instability. Additionally, inadequate rural-urban linkages continue to widen socioeconomic
+       gaps. At the same time, Colombia’s Pacific region also stands out for its rich Afro-Colombian and Indigenous cultures
+       and impressive natural assets, including rainforests, mangroves and beaches, offering significant opportunities for
+       sustainable development and ecotourism.
+
+    2. Colombia’s Pacific region faces persistent challenges in basic service provision, with limited and unreliable access
+       to water, sanitation, transport, energy, and digital connectivity. Water and sanitation coverage is particularly low,
+       with urban rates below 40 percent in Chocó and Nariño, and rural coverage ranging from 50 percent in Cauca to
+       just 6 percent in Nariño.3,4 Transport infrastructure is also underdeveloped due to difficult geography, resulting in
+       a road density far below national benchmarks (0.285km/km2 compared to 0.765km/km2 nationally) and making
+       waterway transport essential for many communities. However, investment in waterway infrastructure is minimal.
+       Roads account for 80 percent of public investment in infrastructure,5 while waterways have received only 1 percent,
+
+1
+  The World Bank. (2024). Gini Coefficient - Colombia. Available here
+2
+  The World Bank. (2024). Trajectories: Prosperity and Poverty Reduction in the Colombian Territory. Available here
+3
+  Superintendencia de Servicios Públicos Domiciliarios. (2024). Informe Nacional de Cobertura de los Servicios Públicos de
+Acueducto, Alcantarillado y Aseo 2023. Available here.
+4
+  Flechas, J.M. (2024). Mapa de Actores del Sector de Agua Potable y Saneamiento Básico en la Región del Pacífico Colombiano.
+5
+  RAP Pacífico (2022). Transportando vida a través del agua. Available here
+
+                                                                                                                                Page 2
+
+
+
+                                                                                                                      Official Use Only
+          The World Bank
+          Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+        leaving ports and docks under-resourced and often unsafe. These deficiencies in services and infrastructure hinder
+        economic development and social inclusion, highlighting the urgent need for targeted investments to improve
+        connectivity, access to services, and market opportunities in the region.
+
+    3. Colombia’s labor market is marked by persistent challenges of high informality, unemployment, and significant
+       regional and gender disparities, with these issues particularly acute in the Pacific region. Nationally, labor force
+       participation is 75.7 percent for men and 51.4 percent for women,6 with an even wider gender gap in poorer
+       regions; in Pacific departments like Chocó, only 27 percent of women and 55 percent of men are active in the labor
+       market.7 Informality is pervasive, affecting nearly two-thirds of all jobs in the Pacific and Atlantic regions. In the
+       water sector, Colombian women represent only 18 percent of utility workers,8 a figure shaped by the limited
+       pipeline of female STEM graduates—just 15 percent of women in tertiary education choose STEM fields, compared
+       to 35 percent of men.9 These gaps are compounded by challenges in the school-to-work transition: 30 percent of
+       young Colombian women are not in education, employment, or training (NEET), nearly double the rate for young
+       men.10 The prevalence of violence against women is also alarmingly high, with 71 percent of women in the Pacific
+       reporting physical violence and 12 percent reporting sexual assault, the highest rates in Colombia.
+
+    4. Climate change is worsening water, sanitation, and transport challenges in Colombia’s Pacific region by reducing
+       water availability, increasing extreme weather events, and intensifying natural hazards. Over the past two
+       decades, Colombia’s water resources in several macro basins have declined due to climate change and population
+       growth, increasing the risk of shortages despite high annual rainfall (2,500–10,000 mm). The Pacific region is
+       particularly vulnerable, facing periods of drought—especially during El Niño events—now intensified by climate
+       change, with 2024 seeing historically low water levels in the Telembí and Patía rivers in Nariño. These water
+       anomalies have a pronounced economic impact, with effects on GDP estimated to be twice the global average.
+       Compounding these challenges, Colombia is highly exposed to climate-related hazards such as flooding, landslides,
+       and sea level rise, which are especially problematic in rapidly growing, poorly planned urban and coastal areas.
+       Towns like El Charco, situated less than five meters above sea level, frequently suffer disruptions from tides, floods,
+       and landslides, isolating communities and impeding economic activity, particularly where water supply, sanitation,
+       and connectivity are already lacking and isolation is longstanding. 11 Existing waterway docks are informal and highly
+       susceptible to flooding and erosion, limiting their usability and raising safety concerns, while the region has also
+       suffered from tsunamis and earthquakes, causing significant material damage and loss of life. These interconnected
+       challenges highlight the urgent need for improved water level monitoring, navigation aids, and resilient
+       infrastructure to support vulnerable communities.12
+
+6
+  World Bank (2024). Poverty and Equity Assessment: Trajectories – Prosperity and Poverty Reduction in the Colombian Territory.
+Available here
+7
+  Ibid
+8
+  World Bank (2021). Water Matters: Resilient, Inclusive and Green Growth through Water Security in Latin America, World Bank.
+Available here
+9
+  World Bank (2025.) Colombia Gender Scorecard 2025. Available here.
+10
+   Idem.
+11
+   The World Bank. (2020). Colombia Turning the Tide: Water Security and Sustainable Growth. Available here.
+12
+   Tumaco and El Charco were particularly affected by a joint tsunami-earthquake event in 1979. While some protection measures
+have been implemented in Tumaco, such as early warning systems, little change has been implemented in El Charco. Notably, homes
+built on stilts over water do not comply with earthquake-resistant standards.
+
+
+                                                                                                                           Page 3
+
+
+
+                                                                                                                   Official Use Only
+         The World Bank
+         Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+
+ Sectoral and Institutional Context
+5. Colombia’s decentralized water and sanitation system faces major challenges in rural and in the Pacific region,
+   resulting in poor service, water quality, and untreated wastewater due to weak capacity, infrastructure gaps, and
+   climate risks. Colombia’s decentralized institutional framework for water and sanitation assigns national policy to the
+   Ministry of Housing, City, and Territory (MVCT), regulatory oversight to the Regulatory Commission for Water and
+   Sanitation (CRA), and performance monitoring to the Superintendence of Public Services (SSPD). Municipal mayors
+   are responsible for service delivery, which is carried out by public or private utilities ranging from large companies like
+   Bogotá’s EAAB to small, community-based providers, particularly in rural areas. Many rural systems operate outside
+   the regulatory framework, complicating enforcement of standards and coordination of investments and subsidies.
+   These challenges are especially acute in the Pacific region, where municipal utilities often lack technical and financial
+   capacity, resulting in gaps in coverage, continuity, and water quality as shown in Table 1. Sewerage infrastructure is
+   limited and deteriorating, with poorly maintained pipelines and inadequate solid waste management, while many
+   households rely on substandard septic tanks and latrines. This leads to overflows and significant discharge of
+   untreated wastewater into local water bodies, harming public health and ecosystems. Climate change further
+   exacerbates vulnerabilities, with increased flooding and extreme rainfall events raising health risks and the potential
+   for water source contamination.
+
+                            Table 1. Service level indicators in San Andrés de Tumaco, Guapi, Timbiquí and Francisco Pizarro
+
+                                                                           Municipality
+         Service level indicators      San Andrés de Tumaco         Guapi               Timbiquí                                  Francisco Pizarro
+ Service provider                     Aguas de Tumaco SA ESP EMGUAPI SAS ESP          Municipality                                  Municipality
+ Management model                       Municipal Enterprise Municipal Enterprise Municipal unit                                   Municipal unit
+ Number of subscribers (SSPD, 2024)           19,788                 2,328                881                                            986
+ Water coverage (DANE, 2018)                    54%                   19%                 23%                                           47%
+ Water continuity (SSPD, 2024)                   8%                   10%                  4%                                      No information
+ Sewerage coverage (Census, 2018)                9%                   17%                 19%                                            2%
+ Wastewater treatment systems (SSPD,
+                                                 No                    No                  No                                            No
+ 2024)
+                                                             Does not have macro
+ Non-revenue water (SSPD, 2024)               41.61%                                No information                                 No information
+                                                              and micro metering
+                                                             Does not have macro
+ Micro-metering (SSPD, 2024)                   0.18%                                No information                                 No information
+                                                              and micro metering
+ Revenue collection (SSPD, 2024)               0.74%            No information      No information                                 No information
+ Water quality risk level (INS, 2024)        Medium                  High           No information                                       High
+                                                                                                                                  Francisco Pizarro
+ Adequate solid waste disposal (SSPD,              Bucheli Sanitary Landfill
+                                                                                       Does not have             Does not have    Sanitary Landfill
+ 2021)                                               Useful life: 0 years
+                                                                                                                                 Useful life: 17 years
+ Solid waste generation (tons/year)
+                                                              28,506                        2,605                     711                738
+ (SSPD, 2021)
+(*) The information from the SSPD is reported by the service providers and therefore may contain a margin of error.
+
+
+6. The Ministry of Transport oversees transport policy and major infrastructure, while local governments in the Pacific
+   region manage smaller projects but struggle with limited resources. The Ministry of Transport leads policy
+   formulation for all transport modes, coordinating with planning, implementing, and regulatory agencies. While
+
+
+                                                                                                                                                    Page 4
+
+
+
+                                                                                                                                           Official Use Only
+        The World Bank
+        Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+     national authorities manage major infrastructure, local governments, especially in the Pacific region, handle small-
+     scale interventions but face significant technical and financial constraints. Limited coordination between national and
+     subnational entities, along with private sector hesitancy due to perceived risks and logistical challenges, contributes
+     to persistent connectivity gaps, particularly in rural and underserved Pacific areas. Notably, 69 percent of rural Pacific
+     communities are over three hours from departmental capitals, and 32 percent are more than ten hours away,
+     highlighting the urgent need for improved connectivity.13 Transport options are largely informal, relying on costly,
+     polluting, and unsafe fossil fuel-powered boats. Poor visibility, lack of signaling, and frequent accidents further hinder
+     navigation. In the north Pacific region, the Atrato River is a vital transport corridor, carrying nearly 40 percent of
+     maritime and river passenger traffic, but its six ports suffer from poor infrastructure and limited accessibility.14 In the
+     south Pacific, transport services and docks are predominantly informal and lack climate-resilient features, impeding
+     economic development and social inclusion. Most passengers travel by motorboat (74 percent), followed by cargo
+     boats (16 percent) and motorized canoes (10 percent), with work being the primary reason for commuting.15 Dock
+     infrastructure is particularly insufficient, with Cauca and Nariño having fewer than two docks per 100,000 km of river
+     coastline. Cauca currently has 1.60 docks per 100,000 km of river coastline, and Nariño has 1.68 docks per 100,000
+     km. Targeted investments are needed to expand dock distribution, improve safety, and enhance connectivity to
+     services and markets and support year-round waterway operations, especially given fluctuating water levels and
+     challenging terrain.
+
+7. In the wake of Colombia’s peace process and in recognition of the persistent social and economic disparities in the
+   Pacific region, the Government launched the “Plan Todos Somos PAZcífico” (PTSP) in 2015. It was conceived as a
+   flagship initiative to foster development, inclusion, and improved living conditions across the historically neglected
+   departments of Cauca, Chocó, Nariño, and Valle del Cauca. The Plan sought to improve access to basic services,
+   infrastructure, and economic opportunities, and promote alternatives to illegal activities, in line with national
+   development and territorial equity goals. To ensure effective implementation and financial sustainability, the
+   Government established the Fondo para el Desarrollo del Plan Todos Somos PAZcífico (FTSP) in 2015 under Law 1753
+   and Decree 2121. The FTSP is an extra-budgetary, autonomous trust fund that pools resources from various
+   government levels and international donors, and can contract debt, providing a stable funding base for large-scale
+   multi-sectoral16 interventions without affecting Colombia’s fiscal accounts.
+
+8. In 2023, a major legislative reform significantly broadened the geographic and operational scope of FTSP, paving
+   the way for greater development impact in Colombia’s Pacific region. Law 2294, enacted as part of the National
+   Development Plan 2022–2026 ¨Colombia Potencia Mundial de la Vida¨, expanded FTSP’s coverage to an additional 11
+   municipalities in Chocó, Valle del Cauca, Cauca, and Nariño,17 and introduced a new digital connectivity component to
+   complement existing investments in water, sanitation, energy, and transport connectivity. The law also mandated the
+
+
+
+13
+   RAP Pacífico. Infraestructura y gestión del conocimiento. Available here
+14
+   RAP Pacífico (2022). Transportando vida a través del agua. Available here
+15
+   RAP Pacífico. Infraestructura y gestión del conocimiento. Available here
+16
+   The FTSP was organized across five cross-cutting strategic pillars: public services and urban development; connectivity and
+competitiveness; environment, culture, and sustainable production; education, employability, and social mobility; and institutional
+capacity, transparency, and accountability.
+17
+   Originally, Law 1753 of 2015 defined the FTSP’s coverage as 50 municipalities within the same four departments.
+
+                                                                                                                                Page 5
+
+
+
+                                                                                                                        Official Use Only
+          The World Bank
+          Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+       Ministry of Finance (MHCP) to mobilize additional resources—defined in coordination with territorial stakeholders
+       and aligned with project preparation progress—including potential new or complementary multilateral loans.
+
+9. Since 2016, the World Bank, along with other development banks, have been a strategic partner of the GoC in
+    supporting the FTSP with two large operations under the Plan PAZcífico umbrella. The Water Supply and Basic
+    Sanitation Infrastructure and Service Delivery Project (Project ID P156239; Loan IBRD 8649-CO), approved in 2016,
+    aims to expand and improve WSS services in the municipalities of Tumaco and Guapi. The second operation: Enhancing
+    Waterway Connectivity and Water Service Provision Project (Project ID P156880; Loan IBRD 8798-CO), approved in
+    2017, has the objective of improving river connectivity and access to WSS services in several municipalities of Cauca
+    and Nariño.
+10. Ongoing implementation challenges have prevented Bank-financed Plan PAZcífico projects from meeting their
+    goals, but the proposed Project will focus on consolidating progress, completing priority investments, and
+    supporting the government’s renewed strategy for the Pacific region. While recent months have seen an acceleration
+    in works, with several activities completed or underway, these efforts have come too late to offset the impending
+    closure of the transport and water loans, scheduled for April and May, 2026, respectively. As a result, significant
+    unused resources will be canceled. Nevertheless, the government remains steadfast in its commitment to delivering
+    these essential investments to communities in the region and is seeking the Bank's and other financiers support for a
+    renewed approach for the Pacific region. The Bank’s proposed operation aims to consolidate and capitalize on the
+    limited progress made so far, serving as a bridge to complete priority water, sanitation, and transport investments
+    and ensure vital services reach targeted communities. At the same time it is designed to draw upon lessons learned,
+    and features strengthened institutional arrangements and implementation capacity, the availability of technical
+    designs, as well as robust community engagement and a refined procurement strategy.
+
+ Relationship to CPF
+11. The proposed Plan PAZcífico operation is fully aligned with the strategic priorities (HLO) outlined in the World
+    Bank’s Country Partnership Framework (CPF) 2024-2027 for Colombia. The Project contributes to HLO1 -promoting
+    equitable territorial development and social inclusion by expanding access to quality water and sanitation services and
+    transport connectivity infrastructure in historically underserved, conflict-affected municipalities. The operation also
+    supports HLO2 -advancing sustainable and inclusive economic transformation through the completion of strategic
+    infrastructure expected to unlock broader economic opportunities in remote areas. Finally, the project contributes to
+    HLO3 –strengthening resilience to climate change and promoting a low-carbon transition, by incorporating climate-
+    resilient infrastructure and sustainable service delivery models tailored to the region’s vulnerabilities which includes
+    floods, droughts, landslides and sea level rise.
+
+12. The proposed operation, aligned with the World Bank’s jobs agenda, is expected to generate significant
+    employment opportunities in the Pacific region, both directly through infrastructure works and indirectly through
+    the activation of local productive chains. By improving transport and WSS infrastructure, the project will facilitate
+    access to broader markets and services, enabling the development of sectors such as logistics, agroindustry, tourism,
+    and maintenance. This is particularly relevant given the region’s labor market and informality challenges: Chocó
+    currently registers one of the highest unemployment rates in the country at 15.9 percent, while Valle del Cauca, Cauca
+    and Nariño report rates of 12.1, 8.2 and 6.5 percent, respectively.18 Moreover, labor informality remains a structural
+    barrier to inclusive growth. Nationally, 55 percent of employed individuals work informally, but in rural and dispersed
+
+18
+     DANE. (2025). Mercado laboral por departamentos Año 2024. Available here
+
+                                                                                                                        Page 6
+
+
+
+                                                                                                                Official Use Only
+          The World Bank
+          Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+       areas, such as those predominant in the Pacific region, this figure rises to 83.1 percent. 19 Informal workers often lack
+       access to social protection, stable income, and legal labor rights, which perpetuates cycles of poverty and vulnerability.
+
+13. The Project is fully consistent with the Government’s 2022–2026 National Development Plan (PND) “Colombia,
+    Potencia Mundial de la Vida” which promotes integrated, cross-sectoral in geographically prioritized areas, focusing
+    on those that are remote, underserved, conflict-affected, and home to historically marginalized populations. As a
+    legally binding policy roadmap, the PND focuses on regional convergence and productivity transformation to reduce
+    territorial inequalities and foster inclusive growth. The Pacific region is specifically prioritized through the Política para
+    el Desarrollo Integral del Pacífico, mandating comprehensive public policy and strategic project funding. Additional
+    cabinet documents (CONPES) support coordinated national and subnational efforts in infrastructure, service delivery,
+    and economic development, emphasizing context-sensitive, technically sound, and financially viable interventions.
+    These policies also call for strengthening local institutional capacity and mobilizing public and private resources to
+    accelerate strategic project implementation.20
+
+14. The Project is fully aligned with Colombia’s climate commitments and the goals of the Paris Agreement, supporting
+    both mitigation and adaptation objectives. Colombia’s updated NDC aims for a 51 percent reduction in greenhouse
+    gas emissions by 2030 and carbon neutrality by 2050, with legally binding targets under the Climate Action Law (Law
+    2169 of 2021). Waterway transport is the least carbon-intensive mode and investments in docks are considered Paris
+    aligned. The NDC and National Adaptation Plan (PNACC) emphasize strengthening water resource management,
+    resilient infrastructure, and climate adaptation in water supply, sanitation, and transport. The project directly supports
+    these priorities by investing in climate-resilient water and transport infrastructure, improving water security in regions
+    prone to droughts and floods, and enhancing public health during climate emergencies. Investments in docks and
+    navigation aids boost community resilience and ensure reliable connectivity despite changing river levels and extreme
+    weather. Electric mobility initiatives lay the groundwork for future electrification of waterway transport, providing
+    cleaner and more sustainable alternatives. Project activities are designed to avoid significant increases in GHG
+    emissions and pollution in sensitive areas, and do not impede Colombia’s low-carbon development. The project aligns
+    with the Country Climate and Development Report’s recommendations for resilient water investments to address
+    climate variability and support sustainable development.
+
+ C. Proposed Development Objective(s)
+ The Project Development Objectives is to improve access to safe and reliable water supply, sanitation and waterway
+ transport and strengthen institutional and community capacity for infrastructure maintenance in Colombia’s Pacific
+ region.
+
+
+     Key Results (From PCN)
+
+ 15. The Project’s direct beneficiaries are estimated at 300,000 people who will benefit from a substantial improvement
+     in water supply and sanitation services and transport connectivity. The achievement of the project development
+     objectives will be monitored and measured by the following proposed results indicators:
+
+19
+     DANE. (2025). Ocupación informal Trimestre móvil mayo – julio 2025. Available here
+20
+     Departamento Nacional de Planeación (2025). Consejo Nacional de Política Económica y Social (CONPES). Available here
+
+                                                                                                                               Page 7
+
+
+
+                                                                                                                       Official Use Only
+       The World Bank
+       Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+
+                                                        Table 2. PDO indicators
+
+ To improve access to safe and    People provided with water, sanitation, and hygiene, of which (%) is safely managed
+ reliable water supply and        (number, of which female, of which youth) (CRI)
+ sanitation                       Water service continuity improved in targeted systems (average hours/day)
+                                  Direct users that benefit from improved access to sustainable transport
+                                  infrastructure and services (Number of people) (CRI)
+ To improve access to safe and
+                                  People benefiting from climate resilient transport infrastructure (Number of people)
+ reliable waterway transport
+                                  (CRI)
+                                  Satisfaction rate of waterway transport users regarding safety
+ To strengthen institutional and Revenue collection rate of water operators
+ community capacity for           Percentage of infrastructure assets with maintenance plans developed and
+ infrastructure maintenance       implemented.
+ 16. Other relevant process indicators will be included to capture the anticipated progress made in the institutional
+     aspects, jobs, climate change mitigation and adaptation, citizen engagement and gender. These indicators will be
+     defined during the project preparation.
+
+
+ D. Concept Description
+
+17. The proposed Project extends the Bank’s continued support to the provision of potable water, sanitation and
+    transport connectivity services in the Pacific region of Colombia. It will complete and operationalize the
+    infrastructure originally envisioned under the Water Supply and Basic Sanitation Infrastructure and Service Delivery
+    Project, and the Enhancing Waterway Connectivity and Water Service Provision in Colombia’s Plan PAZcífico Project,
+    while also strengthening the institutions in charge of delivering services from this infrastructure. By carrying forward
+    and finalizing these investments, the proposed Project aims to convert partial progress into sustained service delivery
+    outcomes for water, sanitation and waterway connectivity in one of Colombia’s most underserved regions, while
+    addressing the bottlenecks that have slowed execution to date.
+
+18. The proposed project’s design directly addresses the multiple challenges and lessons learned from ongoing
+    operations, aiming to foster more effective delivery and sustainable outcomes. Persistent implementation issues,
+    such as repeated procurement delays and bid failures, high turnover of consultants and public officers in the Project
+    Implementing Unit (PIU), weaknesses in the readiness of design studies, cumbersome technical clearances, contractor
+    cash-flow constraints, and misaligned institutional arrangements, have hindered progress. These challenges are
+    compounded by the region’s remoteness, vulnerability, and complex regulatory, administrative, and financial
+    processes managed from Bogotá, as well as limited capacity and participation of local authorities and stakeholders.
+    To overcome these obstacles, the FTSP has identified and will implement targeted actions: (i) simplifying internal
+    procedures to reduce response times; (ii) developing a digital strategy to promote the adoption of digital tools and
+    enhance interoperability with internal and external systems; (iii) retaining a core team of consultants for cross-cutting
+    and supervisory tasks, supported by a management contract to alleviate administrative burdens and introduce
+    performance-based incentives; and (iv) decentralizing operations by establishing regional management offices,
+    strengthening collaboration with municipalities and local operators, and centering community engagement.
+
+
+                                                                                                                         Page 8
+
+
+
+                                                                                                                 Official Use Only
+        The World Bank
+        Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+19. As a key lesson learned, the proposed project has a high level of readiness, only financing infrastructure that will
+    be fully designed by the closing of the current water and transport operations. The Project features a highly ready
+    and diverse portfolio of water, sanitation, and transport projects, ensuring speedy implementation. Of the 20 water
+    and sanitation investment projects, about half are already under construction, awarded, or have received technical
+    approval, while the remainder will have detailed designs completed by project approval. Contracts from the first
+    project will be transferred, with retroactive financing available for those bridging the gap between the two projects,
+    and updated technical approvals will be secured as needed. The portfolio also includes three pre-investment
+    sanitation projects, with additional municipalities to be identified during preparation and implementation. On the
+    transport side, all designs and technical approvals for connectivity infrastructure have been finalized, and the
+    structuring of docks across seven municipalities, including construction and operational permits, will enable a smooth
+    and timely rollout. Electromobility and signaling strategies, such as the procurement of electric boats and navigation
+    buoys, are fully prepared, and the introduction of floating docks provides a modular, strategic solution to complement
+    the main infrastructure and further accelerate effective loan implementation.
+
+20. Project cost, duration and scope. The Project’s preliminary cost is estimated at US$205.6 million. Given the complexity
+    of interventions in the Pacific Region, implementation is planned over five years to ensure successful achievement of
+    the PDO and allow the consolidation of service provision. The Project will achieve its PDO by: (i) implementing water
+    supply and sanitation infrastructure not covered by current loans in Tumaco, Guapi, Timbiquí, and Francisco Pizarro,
+    as well as transport connectivity infrastructure in La Tola, Santa Bárbara de Iscuandé, Mosquera, Olaya Herrera, El
+    Charco, Timbiquí, and López de Micay; (ii) strengthening service providers’ institutional and operational capacities to
+    sustain investments and establishing community-based micro enterprises for routine dock maintenance; and (iii)
+    preparing technical designs for future water supply, sanitation, and transport connectivity projects in selected
+    municipalities.
+
+21. Project Components. Considering the PDO and the Project scope described above, the Project will finance the
+    following five components:
+
+    •   Component 1: Improving water supply and sanitation services in participating municipalities (US$ 134.6 million,
+        all IBRD). This component finances end-to-end water and wastewater infrastructure to deliver sustainable, safe
+        services in prioritized municipalities, accounting for climate, demographic, and environmental stressors. Priority
+        is given to underserved urban areas to expand coverage, reduce health risks, and protect water resources. Eligible
+        activities include technical studies and designs; rehabilitation and construction of water intakes, treatment,
+        storage, and distribution systems; metering and monitoring; sewerage networks and wastewater treatment; and
+        targeted solid-waste measures (e.g., disposal cells for residues from WASH works) to mitigate environmental
+        impacts and build community acceptance. The component also supports WASH in schools and health centers—
+        reliable water supply, gender-segregated and accessible toilets, menstrual-hygiene facilities and materials,
+        handwashing stations, and, in health centers, safe healthcare-waste management. Land acquisition,
+        compensation, and supervision are eligible across activities. The component includes retroactive financing for
+        ongoing water contracts in Tumaco, Guapi, and Timbiquí.
+    •   Component 2: Improving waterway transport in participating municipalities (US$ 53.3 million, all IBRD). This
+        component will enhance resilient, safe, and accessible waterway transport infrastructure and support zero-
+        emission mobility in seven municipalities. Eligible activities include the construction of the already prioritized river
+        and maritime docks, and their access paths, with retroactive financing for works in La Tola and Santa Barbara.
+
+                                                                                                                           Page 9
+
+
+
+                                                                                                                   Official Use Only
+       The World Bank
+       Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+       Other flexible, climate-resilient, and locally adapted solutions will include the design and implementation of
+       floating docks in selected municipalities, aimed at increasing local passenger mobility options. Waterway
+       navigation aids will complement the proposed infrastructure, and include the design, procurement, installation,
+       supervision, and maintenance of the necessary signaling equipment along key river routes. The component also
+       supports low emission, and climate-friendly mobility options, including the design, acquisition, and
+       implementation of electric boats and the adjacent infrastructure, for passenger or cargo transport. Land
+       acquisition compensation and supervision are eligible across activities.
+   •   Component 3: Capacity building and institutional strengthening (US$ 6 million, all IBRD). This component will
+       enhance the sustainable operation and management of water, sanitation, and transport infrastructure in
+       participating municipalities. It will strengthen service providers and local institutions through targeted capacity
+       building, using the Utility of the Future methodology to identify and address gaps in utility management, introduce
+       performance-based approaches, and foster utility partnerships, with a pilot starting in Tumaco. Support will
+       extend to smaller utilities with community-focused strategies. An internship program will be developed for young
+       professionals (with emphasis on women), and initiatives to boost municipal ownership and accountability. Citizen
+       engagement will be promoted via communication campaigns and feedback mechanisms, ensuring inclusivity for
+       women, youth, and vulnerable groups. For waterway transport, the component will establish community-based
+       micro enterprises (ensuring also opportunities for women) for dock maintenance, will provide participatory
+                                                            ens uring
+
+
+
+
+       training in maintenance, resilience, and business skills, and offer initial financial support. Training for transport
+       providers will cover safety, first aid, mechanics, and GBV prevention, with satisfaction surveys to gather
+       community feedback.
+   •   Component 4: Project management and environmental and social management (US$ 11.7 million, all IBRD).
+       Supply of goods, audits, technical assistance, and training to the PIU for project implementation, including
+       financial management, procurement, disbursement, environmental and social management, and coverage of
+       operating costs. Also includes designing and implementing environmental and social instruments.
+   •   Component 5: Contingent Emergency Response (CERC) (US$0 million). This component is a contingent financing
+       mechanism available to the Government of Colombia to have immediate access to Bank financing to respond to
+       an eligible crisis or emergency. If triggered, Project funds would be reallocated to support emergency response
+       activities.
+
+22. Gender and Jobs: The Project is designed to address jobs and employment through a multi-faceted approach that
+    integrates infrastructure development, capacity building, and gender inclusion. It will create direct jobs during
+    construction and operation, formalize roles for waterway operators, and expand the water supply and sanitation
+    workforce. Building on previous experience, the Project will train male and female operators in safety, dock
+    management, and gender-based violence prevention. The water utility internship program, developed with academic
+    partners, will offer technical training, mentorship, and gender-responsive recruitment to address the sector’s gender
+    gap. The micro-enterprises created to manage routine maintenance of the new docks will generate local jobs and
+    actively promote the inclusion of women in the workforce. The Project will also support the “Mujeres Cuidando
+    Territorio” initiative, empowering women as community leaders to address social risks and strengthen protection for
+    vulnerable groups.
+
+23. Citizen engagement: The Project will engage citizens through a comprehensive, inclusive approach that ensures
+    meaningful participation from all segments of the community. Regular consultations, workshops, and meetings will
+    be tailored to the needs of vulnerable groups such as women, youth, people with disabilities, indigenous peoples,
+
+                                                                                                                       Page 10
+
+
+
+                                                                                                                Official Use Only
+       The World Bank
+       Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+     and Afro-Colombian communities. Information will be shared transparently using accessible formats and channels,
+     while citizens will be empowered to contribute to decision-making, monitoring, and feedback through structured
+     engagement plans, grievance mechanisms, and satisfaction surveys.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                    Triggered?
+ Projects on International Waterways OP 7.50                                         TBD
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+24. Environmental Risk Rating Substantial: The environmental risk of the project is rated as Substantial, given the nature
+    and scale of the proposed interventions. The project is expected to deliver positive environmental benefits, including
+    improved drinking water quality, sanitation services, and connectivity. A key benefit is the anticipated reduction in
+    pollution of natural water bodies through the construction of wastewater treatment plants (WWTPs) in selected
+    municipalities. The project scope includes: i) completion of the water supply infrastructure of the current project of
+    the Todos Somos Pazcífico Plan; ii) construction of new water supply systems with existing designs and Environmental
+    and Social Management Plans (ESMPs) previously not objected to by the World Bank; and iii) implementation of new
+    sanitation infrastructure, including WWTPs, for which designs and environmental instruments are yet to be
+    developed. However, the construction phase may generate adverse impacts in urban areas. Activities include
+    trenching along roads, installing water and sewer pipelines, transporting and disposing of materials and excavation
+    waste, upgrading existing water treatment plants, and building new WWTPs. Potential risks include: i) traffic
+    disruptions; ii) increased accident risks due to diversions; iii) disturbances from noise, vibration, and dust; iv)
+    occupational health and safety risks; v) runoff potentially affecting water bodies; and vi) possible alteration of
+    riverbanks during dock construction. An Environmental and Social Management Framework (ESMF) will be prepared
+    to assess risks and define mitigation measures aligned with the Environmental and Social Standards (ESS). It will also
+    include provisions to complement existing ESMPs developed under the Bank’s Safeguard Policies and develop new
+    ESMPs for new projects, ensuring full compliance with the Environmental and Social Framework (ESF).
+
+
+25. Social Risk Rating Substantial: The recommended social risk rating at concept stage is substantial. The project will
+    improve well-being by completing water and sanitation works to expand access in homes and in health and education
+    facilities, reducing the region’s high burden of water-related disease. Similarly, activities aimed at improving
+    infrastructure and river connectivity management will facilitate trade and improve access to social services, such as
+    healthcare, education and protection, which are unevenly scattered throughout the territory. Despite the benefits,
+    the following social risks and impacts have been identified at this stage: (i) low community trust stemming from past
+    failures by national/departmental entities (poor contractor performance, prolonged delays) in the execution of
+    activities under current operations which has led to prolonged negative impacts to citizens, particularly to businesses
+
+
+                                                                                                                      Page 11
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+  and youth; (ii) designs that overlook user needs, expectations, or cultural characteristics; (iii) the inadequate use of
+  improved infrastructure due to a lack of awareness and a reluctance to pay for the necessary resources to ensure its
+  provision and sustainability; (iv) mobility restrictions and work disruptions caused by conflict, confinement, or
+  displacement from illegal armed groups; and (v) works that may generate land acquisition or temporary relocations
+  during scheduled activities. The client must evaluate, prepare and update instruments of the current operations, such
+  as the ESMF, SEP, PF and IPPF, and conduct due consultations with stakeholders to define relevant and proportionate
+  measures in compliance with the ESF. Special attention will be paid to strengthen stakeholder engagement to ensure
+  effective consultations with broad citizenship as well as specific engagement with those groups affected by specific
+  impacts to improve trust in the project and mitigate reputational risks. Citizen engagement activities will be
+  strengthened to support monitoring and empowerment.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Elvira Cusiqoyllor Broeks Motta
+ Senior Water Resources Management Specialist
+
+ Liljana Sekerinska
+ Senior Transport Specialist
+
+Borrower/Client/Recipient
+ Fiduprevisora
+
+Implementing Agencies
+ Ministerio de Igualdad y Equidad
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                      Elvira Cusiqoyllor Broeks Motta, Liljana Sekerinska
+
+
+
+                                                                                                                     Page 12
+
+
+
+                                                                                                              Official Use Only
+     The World Bank
+     Water, Sanitation and Transport Connectivity Plan Pazcifico Phase 2(P508450)
+
+
+Approved By
+
+Practice Manager/Manager:               David Michaud                           02-Oct-2025
+
+Country Director:                       Mark Roland Thomas                      21-Oct-2025
+
+
+
+
+                                                                                                     Page 13
+
+
+
+                                                                                              Official Use Only
+

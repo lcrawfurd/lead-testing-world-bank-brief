@@ -41,13 +41,14 @@ jobs:
           done
           echo "All scripts compile."
 
-      - name: Run downstream pipeline (audit + enrich + chart + verify)
-        # Invoke scripts directly rather than via `make`. The Makefile
-        # would re-trigger upstream targets (search, tables, download)
-        # because git checkout doesn't preserve mtimes — but those steps
-        # need the ~1 GB PDF corpus that isn't committed. CI exercises
-        # only the downstream analysis, which reads committed CSVs.
+      - name: Run downstream pipeline (search + tables + audit + enrich + chart + verify)
+        # Invoke scripts directly rather than via `make`. The 1 GB PDF
+        # corpus isn't committed, but the extracted plain-text corpus
+        # in docs-extracted/ is — so search and tables can run on CI
+        # against the same text the local pipeline saw.
         run: |
+          python3 scripts/search_pdfs_for_lead.py
+          python3 scripts/extract_parameter_tables.py
           python3 scripts/summarize_portfolio.py
           python3 scripts/enrich_audit.py
           python3 scripts/plot_by_region.py

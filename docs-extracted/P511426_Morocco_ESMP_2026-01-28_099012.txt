@@ -1,0 +1,1867 @@
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                               ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA STEP
+                                            IFAHSA ET SES LIGNES D’EVACUATION
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                   PLAN DE GESTION DU TRAFIC
+                                                      COMPOSANTE STEP
+
+
+                                                         Janvier 2026
+
+
+
+
+                                                                                            Page 1
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA                                                        Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                                                                          Plan de Gestion du trafic
+
+
+
+                                                                   SOMMAIRE
+I           INTRODUCTION ......................................................................................................... 4
+      I.1         CONTEXTE PERIMETRE DU PLAN ................................................................................................ 4
+      I.2         OBJECTIFS DU PLAN ....................................................................................................................... 5
+II          ZONE D’ETUDE .......................................................................................................... 6
+      II.1        ZONE D’INFLUENCE .............................................................................................................................. 6
+      II.2        ZONE D’IMPACT .................................................................................................................................... 7
+III         NORMES APPLICCABLES ............................................................................................ 8
+      III.1       NORMES NATIONALES MAROCAINES ..................................................................................................... 8
+      III.2       NORMES INTERNATIONALES ET CONVENTIONS RATIFIEES PAR LE MAROC ............................................ 8
+      III.3       CADRE ENVIRONNEMENTAL ET SOCIAL DE LA BANQUE MONDIALE ...................................................... 9
+IV          CONDITIONS DE BASE DU TRAFIC ET DES TRANSPORTS .............................................. 9
+      IV.1        METHODES DE COLLECTE DES DONNEES DE BASE ................................................................................. 9
+      IV.1.1      COLLECTE DE DONNEES SECONDAIRES ET REVUE ................................................................................10
+      IV.1.2      PRINCIPAUX ACTEURS CLES .................................................................................................................10
+      IV.2        CONDITIONS DE BASE ..........................................................................................................................11
+      IV.2.1      ROUTES POTENTIELLEMENT AFFECTEES ..............................................................................................11
+      IV.2.2      CARACTERISTIQUES GENERALES DU TRAFIC EXISTANT ........................................................................12
+      IV.2.3      BESOINS EN OUVERTURE DE NOUVELLES PISTES OU ELARGISSEMENT DES PISTES EXISTANTES ............14
+      IV.3        ANALYSE DES RECEPTEURS SENSIBLES ................................................................................................15
+      IV.3.1      TYPOLOGIE DES RECEPTEURS SENSIBLES IDENTIFIES ...........................................................................15
+      IV.3.2      ENJEUX ASSOCIES AUX RECEPTEURS SENSIBLES ..................................................................................17
+      IV.3.3      IMPLICATIONS POUR LA GESTION DU TRAFIC........................................................................................17
+V           ÉVALUATION DE L'IMPACT DU TRAFIC ET MESURES D'ATTENUATION .......................17
+      V.1         PHASE DE CONSTRUCTION ...................................................................................................................17
+      V.1.1       SOURCES D'IMPACTS PENDANT LA PHASE DE CONSTRUCTION ..............................................................18
+      V.1.2       ÉVALUATION DES IMPACTS ..................................................................................................................18
+      V.1.3       MESURES D’ATTENUATION ET DE GESTION DU TRAFIC – PHASE DE CONSTRUCTION ............................19
+      V.2         DESCRIPTION DES IMPACTS PENDANT LA PHASE D’EXPLOITATION .......................................................22
+      V.2.1       SOURCES D'IMPACTS PENDANT LA D’EXPLOITATION ............................................................................22
+      V.2.2       ÉVALUATION DES IMPACTS DU TRAFIC PENDANT LA PHASE D’EXPLOITATION .....................................22
+      V.2.3       MESURES DE GESTION DU TRAFIC EN PHASE D’EXPLOITATION .............................................................23
+VI          IMPACTS CUMULATIFS .............................................................................................23
+      VI.1        SOURCES POTENTIELLES D’IMPACTS CUMULATIFS ...............................................................................24
+      VI.2        ANALYSE DES IMPACTS CUMULATIFS PAR TYPE D’ENJEU .....................................................................24
+      VI.2.1      CUMUL DES IMPACTS SUR LA FLUIDITE DU TRAFIC ..............................................................................24
+      VI.2.2      CUMUL DES IMPACTS SUR LA SECURITE ROUTIERE...............................................................................24
+      VI.2.3      CUMUL DES IMPACTS SUR LES INFRASTRUCTURES ROUTIERES .............................................................25
+
+
+                                                                                                                                                          Page 2
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA                                                    Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                                                                      Plan de Gestion du trafic
+
+
+     VI.2.4   CUMUL DES IMPACTS SUR LES RIVERAINS ET RECEPTEURS SENSIBLES .................................................25
+     VI.3     MESURES DE MAITRISE DES IMPACTS CUMULATIFS ..............................................................................25
+VII PLAN DE SURVEILLANCE ET DE REPORTING ...............................................................26
+     VII.1    SUIVI DE LA CONGESTION ET DE LA FLUIDITE DU TRAFIC .....................................................................26
+     VII.2    SUIVI DE LA DETERIORATION DES INFRASTRUCTURES LOCALES...........................................................26
+     VII.3    SUIVI DE LA SANTE ET DE LA SECURITE COMMUNAUTAIRE ..................................................................27
+     VII.4    SUIVI DE L’OCCUPATION TEMPORAIRE DE L’ESPACE PUBLIC ................................................................27
+VIII PLAN DE COMMUNICATION ET SENSIBILISATION ......................................................29
+     VIII.1   PRINCIPES GENERAUX DE COMMUNICATION ........................................................................................30
+     VIII.2   PUBLICS CIBLES ...................................................................................................................................30
+     VIII.3   OUTILS ET CANAUX DE COMMUNICATION ............................................................................................30
+     VIII.4   ACTIONS DE SENSIBILISATION SPECIFIQUES .........................................................................................31
+     VIII.5   COORDINATION ET GESTION DES RETOURS ..........................................................................................31
+IX     LACUNES, HYPOTHESES ET LIMITATIONS DE L’ETUDE ................................................32
+     IX.1     HYPOTHESES RETENUES ......................................................................................................................32
+     IX.2     LACUNES IDENTIFIEES .........................................................................................................................33
+     IX.3     LIMITATIONS DE L’ETUDE ....................................................................................................................33
+     IX.4     PRINCIPE DE MISE A JOUR ET D’ADAPTABILITE.....................................................................................34
+X      CONCLUSIONS ..........................................................................................................34
+
+
+
+                                                   LISTE DES TABLEAUX
+                                  Aucune entrée de table d'illustration n'a été trouvée.
+
+
+
+
+                                                    LISTE DES ANNEXES
+Annexe 1 :            Matrice des trajets empruntes par les équipements et les matériaux du projet.
+Annexe 2 :     Carte des itinéraires potentiels de transport entre le port de Tanger Med et le
+site du projet
+
+
+
+
+                                                                                                                                                      Page 3
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA           Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                             Plan de Gestion du trafic
+
+
+I      INTRODUCTION
+
+I.1      CONTEXTE PERIMETRE DU PLAN
+
+Le présent Plan de Gestion du Trafic (PGT) est élaboré dans le cadre du projet de Station de
+Transfert d’Énergie par Pompage (STEP) d’Ifahsa. Il vise à organiser, encadrer et sécuriser les
+flux de circulation générés par le projet, en particulier durant la phase de construction, afin de
+prévenir et de maîtriser les impacts sur la circulation, les infrastructures routières, la sécurité
+des usagers et la santé et sécurité des communautés riveraines.
+
+À ce stade, le projet se situe encore en phase APS, l’Avant-Projet Détaillé (APD) étant en cours
+d’élaboration. En conséquence, plusieurs paramètres structurants liés au projet
+(implantations définitives des ouvrages, accès finaux aux chantiers, organisation précise des
+bases-vie, phasage détaillé des travaux, volumes exacts de matériaux et d’équipements,
+itinéraires définitifs de transport, etc.) ne sont pas encore entièrement arrêtés.
+
+Dans ce contexte, le présent PGT est établi sur la base :
+
+      • D’une implantation et d’un schéma d’accès indicatifs, susceptibles d’évoluer à l’issue de
+        la phase APD ;
+
+      • D’hypothèses techniques et logistiques raisonnables, fondées sur les données
+        actuellement disponibles ;
+
+      • Et d’un principe de mise à jour et d’adaptation progressive du plan, en fonction de
+        l’affinement du projet et des décisions ultérieures du Maître d’Ouvrage.
+
+Par ailleurs, le PGT est élaboré selon l’hypothèse que les équipements principaux du projet
+(équipements électromécaniques, matériels lourds et spécifiques) transiteront par le port de
+Tanger Med, qui constitue le principal point d’entrée logistique pour les équipements
+importés. Les itinéraires de transport terrestre sont donc analysés à partir de cette hypothèse
+de provenance, depuis le port jusqu’au site du projet, via le réseau routier existant.
+
+Le périmètre du PGT couvre :
+
+      • Les axes routiers et pistes susceptibles d’être empruntés par les engins, poids lourds et
+        convois liés au projet, depuis le port de Tanger Med jusqu’aux différentes zones du
+        chantier ;
+
+      • Les voies locales et pistes d’accès aux ouvrages de la STEP (ouvrages principaux et
+        annexes) ;
+
+      • Les zones habitées, infrastructures et récepteurs sensibles situés à proximité des
+        itinéraires de circulation projetés.
+
+
+
+
+                                                                                               Page 4
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+Le présent plan s’applique principalement à la phase de construction. Les dispositions relatives
+à la phase d’exploitation seront précisées, le cas échéant, ultérieurement, lorsque les besoins
+de trafic récurrents seront clairement définis.
+
+Ce PGT couvre uniquement la composante STEP (hors lignes).
+
+I.2    OBJECTIFS DU PLAN
+
+Le Plan de Gestion du Trafic a pour objectifs principaux de :
+
+       1. Assurer la sécurité routière des usagers, des riverains et des travailleurs du chantier,
+          en identifiant les risques liés au trafic et en définissant des mesures de prévention
+          adaptées (signalisation, limitation de vitesse, gestion des croisements, organisation
+          des convois, etc.).
+
+       2. Limiter les nuisances et perturbations induites par le trafic du projet, notamment en
+          matière de :
+
+                     o Congestion locale ;
+
+                     o Bruit, poussières et vibrations ;
+
+                     o Entrave temporaire à l’accès aux habitations, activités économiques et
+                       équipements publics.
+
+       3. Préserver les infrastructures routières existantes, en encadrant l’utilisation des
+          routes et pistes (tonnage, fréquence des passages, entretien, remise en état).
+
+       4. Organiser et rationaliser les flux de circulation liés au projet, en définissant des
+          itinéraires préférentiels, des horaires de circulation adaptés et des règles claires à
+          respecter par l’ensemble des entreprises et sous-traitants intervenant sur le projet.
+
+       5. Assurer la conformité réglementaire et institutionnelle, en intégrant les exigences
+          de la réglementation nationale marocaine et du Cadre Environnemental et Social de
+          la Banque mondiale, notamment celles relatives à la santé et sécurité
+          communautaire.
+
+       6. Mettre en place un cadre de suivi et de mise à jour du plan, tenant compte du
+          caractère évolutif du projet en phase APS/APD, et permettant d’actualiser le PGT à
+           mesure que les données techniques, logistiques et opérationnelles seront
+           consolidées.
+
+
+
+
+                                                                                              Page 5
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+II     ZONE D’ETUDE
+
+II.1    ZONE D’INFLUENCE
+La zone d’influence du Plan de Gestion du Trafic (PGT) correspond à l’ensemble des axes
+routiers et des espaces susceptibles d’être mobilisés ou affectés par les flux de circulation
+générés par le projet de Station de Transfert d’Énergie par Pompage (STEP) d’Ifahsa, en
+particulier durant la phase de construction.
+Compte tenu du stade actuel du projet, encore en phase APS, l’Avant-Projet Détaillé (APD)
+étant en cours d’élaboration, plusieurs paramètres structurants liés à l’organisation du trafic
+(implantations définitives des ouvrages, accès finaux aux chantiers, phasage précis des
+travaux, volumes exacts de matériaux et d’équipements, itinéraires définitifs de transport) ne
+sont pas encore entièrement arrêtés. En conséquence, la zone d’influence est définie sur la
+base d’une approche prudente et évolutive, fondée sur les données actuellement disponibles
+et des hypothèses techniques raisonnables.
+Dans le cadre du présent PGT, il est fait l’hypothèse que les équipements principaux du projet
+(notamment les équipements électromécaniques et matériels lourds) transiteront par le Port
+de Tanger Med, qui constitue le principal point d’entrée logistique pour les équipements
+importés. Les itinéraires de transport sont ainsi analysés depuis ce point d’entrée jusqu’au site
+du projet, en s’appuyant sur le réseau routier existant.
+La zone d’influence est structurée selon les différents niveaux du réseau routier, susceptibles
+d’être mobilisés pour le transport des équipements, matériaux et engins du projet, à savoir :
+
+     • Le réseau routier national, assurant la liaison longue distance entre le port de Tanger
+        Med et la région d’implantation du projet, et supportant le trafic de poids lourds et, le
+        cas échéant, de convois exceptionnels ;
+
+     • Le réseau routier régional, jouant un rôle de redistribution du trafic depuis les axes
+       nationaux vers les zones d’accès au site du projet ;
+
+     • Le réseau routier provincial et communal, permettant l’accès aux secteurs plus proches
+       du chantier et présentant généralement des contraintes accrues en termes de gabarit,
+       d’état de la chaussée et de coactivité avec le trafic local ;
+
+     • Les pistes rurales et voies d’accès locales, utilisées en approche finale des ouvrages de
+       la STEP, particulièrement sensibles du point de vue de la sécurité routière, des nuisances
+        et de la dégradation des infrastructures.
+La délimitation précise de la zone d’influence sera affinée et mise à jour à l’issue de la phase
+APD, lorsque les tracés définitifs, les accès au chantier et l’organisation logistique du projet
+seront arrêtés.
+
+
+
+
+                                                                                              Page 6
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA        Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                          Plan de Gestion du trafic
+
+
+II.2   ZONE D’IMPACT
+La zone d’impact du trafic correspond aux secteurs situés à l’intérieur de la zone d’influence
+où les effets liés à la circulation générée par le projet sont susceptibles d’être directement
+perceptibles par les usagers de la route et les populations riveraines.
+Sur la base des hypothèses retenues à ce stade, la zone d’impact concerne prioritairement :
+
+   • Les sections du réseau routier provincial, communal et des pistes rurales, caractérisées
+     par une capacité limitée, une forte coactivité entre le trafic de chantier et les usages
+     locaux (piétons, deux-roues, engins agricoles), et une proximité immédiate avec les
+     habitations et activités locales ;
+
+   • Les traversées de douars ou d’agglomérations, où les risques liés à la sécurité routière,
+       aux nuisances sonores et aux émissions de poussières sont plus élevés ;
+
+   • Les abords des récepteurs sensibles, tels que les établissements scolaires, les centres de
+     santé, les lieux de culte, les marchés, les commerces, ainsi que les arrêts de transport
+       collectif.
+La zone d’impact inclut également les secteurs où une occupation temporaire de l’espace
+public pourrait être nécessaire (manœuvres d’engins, stationnement ponctuel, chargement
+et déchargement), ainsi que les points où des mesures spécifiques de gestion du trafic devront
+être mises en œuvre, notamment en matière de signalisation, de limitation de vitesse,
+d’organisation des circulations et de sécurisation des usagers vulnérables.
+Certaines sections du réseau routier national ou régional peuvent également être concernées
+de manière ponctuelle, notamment lors du transport d’équipements de grande dimension ou
+de phases spécifiques du chantier générant des pics de circulation.
+Compte tenu du caractère évolutif du projet à ce stade APS, la zone d’impact est définie de
+manière volontairement large et conservatrice, afin d’anticiper les situations potentiellement
+sensibles. Elle sera précisée et ajustée lors des phases ultérieures du projet, sur la base des
+données techniques définitives, des reconnaissances de terrain complémentaires et des
+modalités finales d’organisation des travaux.
+
+
+
+
+                                                                                            Page 7
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA           Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                             Plan de Gestion du trafic
+
+
+III NORMES APPLICCABLES
+Le présent Plan de Gestion du Trafic (PGT) est élaboré conformément au cadre réglementaire
+national en vigueur au Maroc, aux engagements internationaux ratifiés par le Royaume, ainsi
+qu’aux exigences des bailleurs de fonds, notamment celles du Cadre Environnemental et
+Social (CES) de la Banque mondiale.
+Ces références constituent le socle normatif justifiant l’identification, l’évaluation et la gestion
+des risques et impacts liés au trafic généré par le projet de la STEP Ifahsa.
+
+III.1 NORMES NATIONALES MAROCAINES
+Le PGT s’inscrit dans le respect des textes législatifs et réglementaires marocains applicables
+en matière de circulation, de sécurité routière, de protection de l’environnement et de
+sécurité des populations, notamment :
+
+   • La réglementation relative à la circulation routière, incluant les dispositions encadrant
+     le transport de marchandises, le trafic des poids lourds, les convois exceptionnels et
+     l’occupation temporaire du domaine public ;
+
+   • Les textes relatifs à la sécurité et à la santé des travailleurs, applicables aux chantiers de
+     travaux publics, et imposant la prévention des risques liés aux déplacements et aux
+     manœuvres d’engins ;
+
+   • La réglementation environnementale nationale encadrant les projets soumis à
+     évaluation environnementale, qui impose l’identification et la gestion des nuisances et
+       risques pour les populations riveraines, y compris ceux liés au trafic (bruit, poussières,
+       sécurité).
+Le présent PGT constitue ainsi un outil opérationnel de mise en conformité avec ces exigences
+nationales, en particulier en ce qui concerne la prévention des accidents, la protection des
+infrastructures routières et la limitation des nuisances pour les usagers et riverains.
+
+III.2 NORMES INTERNATIONALES ET CONVENTIONS RATIFIEES PAR LE MAROC
+Le Maroc est signataire de plusieurs conventions et accords internationaux relatifs à la
+protection de l’environnement, à la sécurité des personnes et au développement durable. À
+ce titre, le PGT s’inscrit dans une logique de :
+
+   • Prévention des risques pour les populations, en particulier les groupes vulnérables
+     exposés aux impacts du trafic ;
+
+   • Réduction des nuisances environnementales, notamment le bruit, les émissions
+     atmosphériques et les dégradations des milieux traversés ;
+
+   • Promotion de pratiques de chantier responsables, compatibles avec les standards
+     internationaux en matière de sécurité et de gestion des impacts indirects des projets
+     d’infrastructure.
+
+
+                                                                                               Page 8
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+Ces principes sont intégrés dans l’approche méthodologique du PGT, sans préjudice de
+l’application stricte des exigences nationales.
+
+III.3 CADRE ENVIRONNEMENTAL ET SOCIAL DE LA BANQUE MONDIALE
+Le projet de la STEP Ifahsa étant financé avec l’appui de la Banque mondiale, le Plan de Gestion
+du Trafic est élaboré en conformité avec les exigences du Cadre Environnemental et Social
+(CES) de cette institution.
+À ce titre, le PGT contribue directement à la mise en œuvre des normes environnementales
+et sociales pertinentes, notamment :
+
+   • ESS1 – Évaluation et gestion des risques et impacts environnementaux et sociaux, en
+     identifiant les risques liés au trafic et en définissant des mesures de prévention,
+       d’atténuation et de suivi adaptées ;
+
+   • ESS4 – Santé et sécurité des communautés, en traitant spécifiquement les risques pour
+     les populations riveraines associés à l’augmentation du trafic, aux convois lourds, à la
+     coactivité entre engins de chantier et usagers locaux, et à l’occupation temporaire de la
+     voirie.
+Le caractère évolutif du PGT, établi à ce stade sur la base d’hypothèses APS et destiné à être
+actualisé à l’issue de la phase APD, est conforme à l’approche du CES de la Banque mondiale,
+qui privilégie une gestion adaptative des risques tout au long du cycle du projet.
+
+IV CONDITIONS DE BASE DU TRAFIC ET DES TRANSPORTS
+
+IV.1 METHODES DE COLLECTE DES DONNEES DE BASE
+L’établissement des conditions de base du trafic et des transports dans le cadre du projet de
+la STEP Ifahsa repose sur une approche méthodologique combinant l’exploitation de données
+secondaires existantes et une analyse qualitative ciblée du contexte local.
+Cette approche est adaptée au stade actuel du projet (APS), l’Avant-Projet Détaillé (APD) étant
+toujours en cours, et vise à fournir une compréhension suffisante et prudente du
+fonctionnement du trafic avant travaux, tout en permettant une mise à jour ultérieure lorsque
+les données définitives seront disponibles.
+Les méthodes de collecte retenues ont pour objectifs :
+
+   • De caractériser le trafic existant sur les principaux axes susceptibles d’être affectés par
+       le projet ;
+
+   • D’identifier les périodes sensibles (heures de pointe, jours particuliers, saisons à forte
+     fréquentation) ;
+
+   • D’anticiper les contraintes potentielles liées à l’introduction du trafic de chantier ;
+   • Et de servir de base à la définition des mesures opérationnelles de gestion du trafic.
+
+
+
+                                                                                              Page 9
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA         Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                           Plan de Gestion du trafic
+
+
+IV.1.1 COLLECTE DE DONNEES SECONDAIRES ET REVUE
+La collecte des données de base s’appuie principalement sur l’exploitation de sources
+documentaires et institutionnelles disponibles, jugées pertinentes pour l’analyse du trafic à
+l’échelle régionale et locale.
+Les principales sources mobilisées incluent notamment :
+
+   • Le Recueil de trafic routier (2023), qui constitue une référence essentielle pour l’analyse
+     des volumes de circulation, de la typologie du trafic (véhicules légers, poids lourds) et
+     de l’évolution des flux sur le réseau routier national, régional et provincial. Ces données
+     permettent d’établir une situation de référence du trafic avant projet et d’identifier les
+     axes présentant déjà des niveaux de circulation élevés ou des situations de congestion
+       récurrentes ;
+
+   • Les données et informations disponibles auprès des services compétents (Directions
+     provinciales et régionales, autorités locales), relatives à la classification des routes ; à
+     l’état général des infrastructures et aux contraintes connues en matière de circulation
+       ou de sécurité routière ;
+
+   • Les documents techniques et études disponibles relatifs au projet de la STEP Ifahsa,
+     notamment les documents APS, permettant d’identifier les accès potentiels au site, les
+     zones de chantier et les besoins logistiques prévisionnels ;
+
+   • Les informations issues des plateformes numériques de navigation et de trafic (telles
+       que les applications de suivi du trafic), utilisées à titre indicatif pour apprécier les
+       tendances générales de congestion, les itinéraires fréquemment empruntés et les
+       périodes de circulation dense.
+L’exploitation de ces données secondaires est réalisée avec prudence, en tenant compte du
+fait que :
+
+   • Les itinéraires définitifs ne sont pas encore arrêtés ;
+
+   • Les volumes précis de trafic de chantier seront affinés à l’issue de la phase APD.
+IV.1.2 PRINCIPAUX ACTEURS CLES
+La compréhension des conditions de base du trafic et l’efficacité du Plan de Gestion du Trafic
+reposent également sur l’identification et l’implication des acteurs clés intervenant dans la
+gestion, la régulation et l’usage du réseau routier concerné.
+À ce stade, les principaux acteurs identifiés comprennent notamment :
+
+   • Les autorités locales et territoriales (communes, provinces concernées), en charge de la
+     gestion du domaine public et de la coordination locale des actions liées à la circulation ;
+
+
+
+
+                                                                                             Page 10
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA         Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                           Plan de Gestion du trafic
+
+
+   • Les services en charge de la sécurité routière et de la circulation (police, gendarmerie),
+       impliqués dans la régulation du trafic, la mise en place des déviations et le contrôle du
+       respect des mesures de sécurité ;
+
+   • Les gestionnaires du réseau routier aux différents niveaux (national, régional,
+     provincial), responsables de l’entretien des infrastructures et de l’autorisation des
+     occupations temporaires ;
+
+   • Les riverains, usagers et acteurs socio-économiques locaux, particulièrement dans les
+     zones traversées par le trafic de chantier, dont les habitudes de déplacement et les
+     contraintes doivent être prises en compte ;
+
+   • Les entreprises de travaux et de transport, responsables de la mise en œuvre
+       opérationnelle des mesures de gestion du trafic définies dans le présent plan.
+L’identification de ces acteurs constitue une étape clé pour :
+
+   • La collecte d’informations complémentaires sur les conditions locales de circulation ;
+
+   • La coordination des mesures de gestion du trafic ;
+
+   • Et la mise en œuvre ultérieure du plan de communication et de sensibilisation.
+IV.2 CONDITIONS DE BASE
+Les conditions de base du trafic et des transports dans la zone d’étude du projet de la STEP
+Ifahsa sont analysées à partir des données disponibles avant le démarrage des travaux, afin
+d’établir une situation de référence permettant d’identifier les contraintes existantes et
+d’anticiper les effets du trafic généré par le projet.
+Cette analyse s’appuie principalement sur les données issues du Recueil du trafic routier 2023,
+qui constitue la source institutionnelle de référence pour la caractérisation des flux de
+circulation sur le réseau routier national, régional et provincial.
+
+IV.2.1 ROUTES POTENTIELLEMENT AFFECTEES
+Sur la base de l’hypothèse logistique retenue à ce stade, selon laquelle l’ensemble des
+équipements, matériels et matériaux du projet transiteront par le port de Tanger Med,
+plusieurs itinéraires routiers sont susceptibles d’être empruntés pour relier le port au site du
+projet de la STEP Ifahsa.
+Compte tenu du stade actuel du projet (APS) et de l’absence de choix définitif d’un itinéraire
+unique, l’analyse est menée en considérant l’ensemble des trajets techniquement possibles,
+tels qu’identifiés à partir de l’analyse cartographique et des images satellitaires. Cette
+approche permet d’anticiper les impacts potentiels sur l’ensemble du réseau concerné et de
+garantir la robustesse du Plan de Gestion du Trafic.
+Les routes potentiellement affectées comprennent notamment :
+
+
+
+
+                                                                                             Page 11
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • La Route Nationale RN16, qui constitue un axe structurant du réseau routier du nord du
+       pays et peut être empruntée sur une partie significative du trajet depuis le port de
+       Tanger Med ;
+
+   • L’Autoroute A7, susceptible d’être utilisée comme itinéraire alternatif ou
+     complémentaire à la RN16 pour certaines liaisons longues distances, en fonction des
+     conditions de circulation, des contraintes logistiques et du type de convoi ;
+
+   • L’Autoroute A5, pouvant également être mobilisée dans certains scénarios de trajet,
+     notamment pour optimiser la fluidité du trafic et réduire les traversées de zones
+     urbaines ;
+
+   • La Route Nationale RN2, assurant la continuité du réseau vers l’intérieur de la région et
+       jouant un rôle clé dans l’acheminement des équipements vers les zones proches du site
+       du projet ;
+
+   • La Route Régionale RR406, utilisée comme axe de transition entre le réseau national et
+     le réseau routier de proximité, et présentant des contraintes accrues en termes de
+     gabarit et de coactivité avec le trafic local ;
+
+   • La Route Provinciale RP4100, permettant l’accès aux secteurs les plus proches du site de
+     la STEP, et caractérisée par une capacité limitée et une sensibilité élevée aux
+     augmentations du trafic poids lourds ;
+
+   • Enfin, plusieurs pistes rurales et voies locales, utilisées en approche finale du site du
+       projet et des différents ouvrages de la STEP, particulièrement vulnérables aux impacts
+       liés au passage répété d’engins et de véhicules lourds.
+L’ensemble de ces routes est considéré comme potentiellement affecté par le trafic de
+chantier, soit de manière continue, soit de manière ponctuelle, en fonction des itinéraires
+effectivement retenus, des phases de travaux et des contraintes opérationnelles.
+La sélection des itinéraires définitifs, les volumes de trafic associés et les modalités précises
+de circulation feront l’objet d’un affinement ultérieur à l’issue de la phase APD, sur la base des
+études techniques détaillées, des reconnaissances de terrain et de la concertation avec les
+autorités compétentes.
+
+IV.2.2 CARACTERISTIQUES GENERALES DU TRAFIC EXISTANT
+Les caractéristiques générales du trafic sur les axes susceptibles d’être empruntés par le projet
+de la STEP Ifahsa ont été analysées à partir des données disponibles dans le Recueil du trafic
+routier 2023, qui constitue la référence institutionnelle pour la description des flux de
+circulation sur le réseau routier national, régional et provincial.
+De manière générale, les axes identifiés entre le port de Tanger Med et la zone du projet
+(RN16, RN2, autoroutes A7 et A5, RR406, RP4100 et voies locales) présentent des profils de
+
+
+
+                                                                                              Page 12
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+trafic contrastés, en fonction de leur rôle fonctionnel dans le réseau et de leur localisation
+territoriale.
+
+IV.2.2.1         Typologie du trafic
+Selon le Recueil du trafic routier 2023, le trafic observé sur les axes structurants du nord du
+pays se caractérise par :
+
+   • Une prédominance du trafic de véhicules légers sur l’ensemble du réseau, notamment
+     sur les routes nationales et régionales, liée aux déplacements quotidiens, aux échanges
+     interurbains et aux activités économiques locales ;
+
+   • Une présence significative de poids lourds sur les axes nationaux et autoroutiers, en lien
+     avec les flux logistiques, portuaires et industriels, notamment à proximité du port de
+       Tanger Med et sur les axes assurant la continuité vers l’intérieur de la région ;
+
+   • Un trafic local et de proximité dominant sur les routes provinciales, communales et
+     pistes rurales, incluant des véhicules légers, des deux-roues, des engins agricoles et des
+       transports collectifs informels.
+Cette diversité de trafic implique une cohabitation de plusieurs catégories d’usagers, ce qui
+constitue un enjeu majeur en matière de sécurité routière lors de l’introduction du trafic de
+chantier.
+
+IV.2.2.2 Niveaux et variations du trafic
+Les données du recueil mettent en évidence :
+
+   • Des niveaux de trafic élevés et relativement stables sur les autoroutes (A7, A5) et
+     certaines routes nationales structurantes (RN16, RN2), avec des capacités généralement
+     adaptées au passage de poids lourds ;
+
+   • Des variations plus marquées sur les routes régionales et provinciales, où les volumes
+     de trafic peuvent fluctuer fortement selon les jours, les heures et les périodes de l’année
+     ;
+
+   • Une sensibilité saisonnière du trafic sur certains axes, notamment dans les zones à
+     vocation touristique (région de Chefchaouen), avec une augmentation des flux durant
+     les périodes de forte fréquentation.
+Les heures de pointe quotidiennes et les périodes de forte activité locale constituent des
+moments particulièrement sensibles pour l’organisation du trafic de chantier.
+
+IV.2.2.3 Contraintes générales liées au trafic existant
+Les caractéristiques générales du trafic existant font apparaître plusieurs contraintes à
+considérer pour le projet :
+
+
+
+
+                                                                                              Page 13
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA         Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                           Plan de Gestion du trafic
+
+
+   • Une capacité limitée d’absorption du trafic lourd sur les routes régionales, provinciales
+       et voies locales ;
+
+   • Une vulnérabilité accrue des usagers locaux, en particulier les piétons, cyclistes et deux-
+     roues, sur les axes secondaires ;
+
+   • Des risques de congestion ponctuelle, notamment lors de la traversée de zones
+     urbanisées ou à forte activité.
+Ces éléments justifient une planification rigoureuse des flux de circulation du projet, tant en
+termes d’itinéraires que d’horaires.
+
+IV.2.3 BESOINS EN OUVERTURE DE NOUVELLES PISTES OU ELARGISSEMENT DES PISTES EXISTANTES
+L’analyse des caractéristiques du trafic existant, combinée aux hypothèses logistiques du
+projet et à la nature des équipements à acheminer, permet d’identifier des besoins potentiels
+en aménagements complémentaires, en particulier sur les sections les plus proches du site de
+la STEP Ifahsa.
+À ce stade APS, ces besoins sont identifiés de manière préliminaire et indicative, et devront
+être confirmés et précisés lors de la phase APD.
+
+IV.2.3.1 Pistes rurales et voies d’accès locales
+Les pistes rurales et voies locales utilisées en approche finale du site du projet présentent
+généralement :
+
+   • Un gabarit réduit ;
+
+   • Une structure non dimensionnée pour un trafic lourd répété ;
+
+   • Une sensibilité élevée aux dégradations (orniérage, poussières, érosion).
+Dans ce contexte, des interventions ponctuelles pourraient être nécessaires, telles que :
+
+   • L’élargissement localisé de certaines sections pour permettre le croisement sécurisé des
+     véhicules ;
+
+   • Le renforcement ou la stabilisation des surfaces de roulement ;
+   • L’aménagement de zones de croisement ou de retournement pour les engins et poids
+     lourds.
+
+IV.2.3.2 Routes provinciales et régionales
+Sur les routes provinciales et régionales identifiées (notamment la RP4100 et la RR406), les
+besoins potentiels concernent principalement :
+
+   • L’amélioration ponctuelle de la visibilité dans les zones de virage ou de déclivité ;
+
+   • L’adaptation des accotements pour sécuriser les manœuvres ;
+
+
+
+                                                                                             Page 14
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • La mise en place de zones temporaires de régulation du trafic lors des phases de
+       transport les plus contraignantes.
+
+IV.2.3.3 Principe de limitation des interventions
+Conformément aux bonnes pratiques environnementales et sociales, et aux exigences de la
+Banque mondiale, le projet privilégiera :
+
+   • La limitation de l’ouverture de nouvelles pistes au strict nécessaire ;
+
+   • L’utilisation prioritaire des infrastructures existantes ;
+   • La remise en état des voies et pistes après la fin des travaux, lorsque des interventions
+     temporaires auront été réalisées.
+
+IV.3 ANALYSE DES RECEPTEURS SENSIBLES
+L’analyse des récepteurs sensibles vise à identifier les populations, infrastructures et usages
+susceptibles d’être affectés par le trafic généré par le projet de la STEP Ifahsa, en particulier
+durant la phase de construction. Elle constitue une étape essentielle pour adapter les mesures
+de gestion du trafic aux enjeux locaux de sécurité routière, de santé et sécurité
+communautaire et de réduction des nuisances.
+Compte tenu du stade actuel du projet (APS), l’identification des récepteurs sensibles repose
+sur une approche qualitative et prudente, fondée sur :
+
+   • L’analyse cartographique et des images satellitaires ;
+
+   • La connaissance du contexte territorial des zones traversées ;
+   • Les caractéristiques générales du trafic existant mises en évidence par le recueil du trafic
+     routier 2023 ;
+
+   • Les itinéraires potentiels reliant le port de tanger med au site du projet.
+IV.3.1 TYPOLOGIE DES RECEPTEURS SENSIBLES IDENTIFIES
+
+Sur la base des itinéraires potentiellement affectés, plusieurs catégories de récepteurs
+sensibles sont identifiées.
+
+IV.3.1.1 Populations riveraines et zones habitées
+
+Les zones habitées, notamment les douars et agglomérations situés le long des routes
+régionales, provinciales et voies locales, constituent des récepteurs sensibles majeurs.
+Ces secteurs sont caractérisés par :
+
+   • Une proximité immédiate entre la voirie et les habitations ;
+
+   • Une forte présence de piétons et d’usagers vulnérables ;
+
+   • Des usages quotidiens de la route à des fins domestiques, agricoles ou commerciales.
+
+
+
+                                                                                              Page 15
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA       Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                         Plan de Gestion du trafic
+
+
+Les traversées de zones habitées le long de la RN2, de la RR406, de la RP4100 et des pistes
+locales présentent ainsi des enjeux élevés en matière de sécurité et de nuisances.
+
+IV.3.1.2 Infrastructures sociales et équipements collectifs
+
+Les infrastructures et équipements collectifs situés à proximité des axes de circulation
+constituent également des récepteurs sensibles, notamment :
+
+   • Les établissements scolaires ;
+
+   • Les centres de santé et dispensaires ;
+
+   • Les lieux de culte ;
+
+   • Les marchés locaux et petits commerces.
+La présence de ces équipements implique des flux piétonniers importants à certaines heures
+de la journée, renforçant les risques liés à l’augmentation du trafic de chantier.
+
+IV.3.1.3 Usagers vulnérables de la route
+
+Les axes secondaires et voies locales sont fréquentés par divers usagers vulnérables,
+notamment :
+
+   • piétons ;
+
+   • cyclistes ;
+
+   • deux-roues motorisés ;
+
+   • engins agricoles.
+La région, en particulier autour de Chefchaouen, est par ailleurs connue pour ses circuits
+touristiques, incluant des déplacements à pied et à vélo, ce qui accentue la sensibilité de
+certains tronçons routiers.
+
+IV.3.1.4 Activités économiques et touristiques
+
+Les activités économiques locales (agriculture, petits commerces, services) et les activités
+touristiques constituent des récepteurs sensibles indirects.
+
+Toute perturbation du trafic (ralentissements, déviations, nuisances sonores ou poussières)
+est susceptible d’avoir des répercussions sur :
+
+   • L’accessibilité aux activités ;
+
+   • La fréquentation touristique ;
+   • Le fonctionnement normal des échanges locaux, notamment dans les zones à vocation
+     touristique autour de Tétouan et de Chefchaouen.
+
+
+
+
+                                                                                           Page 16
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+IV.3.2 ENJEUX ASSOCIES AUX RECEPTEURS SENSIBLES
+
+L’analyse des récepteurs sensibles met en évidence plusieurs enjeux majeurs à prendre en
+compte dans le Plan de Gestion du Trafic :
+
+    • Enjeux de sécurité routière, liés à la coactivité entre le trafic de chantier et les usagers
+      locaux, en particulier les usagers vulnérables ;
+
+    • Enjeux de santé et de sécurité communautaire, associés au risque d’accident, au bruit,
+      aux émissions de poussières et aux vibrations ;
+
+    • Enjeux d’acceptabilité sociale, liés à la perception des nuisances et à la continuité des
+      accès aux habitations, équipements et activités ;
+
+    • Enjeux spécifiques aux zones touristiques, où la qualité du cadre de vie et la sécurité des
+      déplacements constituent des facteurs sensibles.
+
+IV.3.3 IMPLICATIONS POUR LA GESTION DU TRAFIC
+
+L’identification de ces récepteurs sensibles justifie la mise en œuvre, dans les chapitres
+suivants, de mesures spécifiques et adaptées, notamment :
+
+    • la séparation des flux de circulation ;
+
+    • la sécurisation des traversées piétonnes ;
+
+    • l’adaptation des horaires de circulation du trafic de chantier ;
+
+    • le renforcement de la signalisation et de l’information des usagers ;
+    • la mise en place de dispositifs de communication et de concertation avec les populations
+      locales.
+
+Ces mesures seront détaillées dans les chapitres consacrés à l’évaluation des impacts du trafic
+et aux mesures d’atténuation.
+
+
+
+V     ÉVALUATION DE L'IMPACT DU TRAFIC ET MESURES D'ATTENUATION
+
+V.1    PHASE DE CONSTRUCTION
+
+La phase de construction de la STEP Ifahsa est celle durant laquelle les impacts liés au trafic
+sont susceptibles d’être les plus significatifs. Elle implique en effet des flux importants de
+véhicules et d’engins liés :
+
+    • A l’acheminement des équipements et matériels depuis le port de Tanger Med ;
+
+    • Au transport des matériaux de construction ;
+
+    • Aux déplacements quotidiens du personnel et des sous-traitants ;
+
+
+
+                                                                                              Page 17
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • Aux opérations de terrassement, de génie civil et de montage des ouvrages.
+L’évaluation des impacts du trafic durant cette phase est réalisée sur la base :
+
+   • Des conditions de base du trafic décrites au chapitre IV ;
+
+   • Des caractéristiques des routes et pistes identifiées ;
+
+   • Des récepteurs sensibles exposés ;
+   • Et du contexte APS, impliquant une analyse fondée sur des hypothèses prudentes et
+     évolutives.
+
+V.1.1 SOURCES D'IMPACTS PENDANT LA PHASE DE CONSTRUCTION
+
+Les principales sources d’impacts liés au trafic durant la phase de construction sont les
+suivantes :
+
+   • Augmentation du trafic poids lourds sur les axes nationaux, régionaux, provinciaux et
+     voies locales, liée à l’acheminement des équipements, matériaux et engins ;
+
+   • Circulation d’engins de chantier à l’intérieur et aux abords des zones de travaux,
+     générant des manœuvres fréquentes et des points de conflit avec le trafic local ;
+
+   • Transports exceptionnels ponctuels, liés à certains équipements de grande dimension,
+     nécessitant des conditions particulières de circulation ;
+
+   • Occupation temporaire de la voirie, lors des opérations de chargement, déchargement,
+       stockage ou régulation du trafic ;
+
+   • Modification temporaire des conditions de circulation, incluant des ralentissements, des
+     déviations ou des restrictions ponctuelles ;
+
+   • Coactivité accrue entre le trafic de chantier et les usages locaux (piétons, cyclistes,
+     engins agricoles, transports collectifs).
+
+Ces sources d’impact sont susceptibles de varier selon les phases du chantier, les volumes de
+travaux et les itinéraires effectivement mobilisés.
+
+V.1.2 ÉVALUATION DES IMPACTS
+
+Sur la base des sources identifiées, les principaux impacts potentiels du trafic durant la phase
+de construction sont évalués comme suit :
+
+V.1.2.1 Impacts sur la fluidité du trafic
+
+L’augmentation du trafic poids lourds et la présence ponctuelle de convois spécifiques
+peuvent entraîner :
+
+   • Des ralentissements temporaires sur les axes structurants ;
+
+
+
+                                                                                              Page 18
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • Des congestions ponctuelles, notamment aux heures de pointe ou lors des traversées
+       de zones habitées ;
+
+   • Une perturbation des itinéraires habituels des usagers locaux.
+Ces impacts sont jugés modérés à localement significatifs, en particulier sur les routes
+régionales, provinciales et voies locales.
+
+V.1.2.2 Impacts sur la sécurité routière
+
+La coactivité entre le trafic de chantier et les usagers locaux génère :
+
+   • Un risque accru d’accidents, notamment pour les usagers vulnérables ;
+   • Des situations à risque lors des manœuvres d’engins, des entrées/sorties de chantier et
+       des traversées piétonnes ;
+
+   • Une augmentation du risque en cas de circulation nocturne ou de visibilité réduite.
+Ces impacts constituent un enjeu majeur, nécessitant des mesures strictes de prévention.
+
+V.1.2.3 Impacts sur les infrastructures routières
+
+Le passage répété de véhicules lourds est susceptible d’entraîner :
+
+   • Une dégradation accélérée des chaussées, en particulier sur les routes provinciales et
+     pistes rurales ;
+
+   • Des dommages aux accotements et aux ouvrages annexes.
+Ces impacts sont jugés significatifs à l’échelle locale, en l’absence de mesures adaptées.
+
+V.1.2.4 Impacts sur les riverains et les récepteurs sensibles
+
+Les riverains et activités situés le long des axes concernés peuvent subir :
+
+   • Des nuisances sonores ;
+
+   • Des envols de poussières ;
+
+   • Une gêne temporaire d’accès aux habitations, équipements et activités économiques.
+Ces impacts sont temporaires, mais nécessitent une gestion proactive pour préserver
+l’acceptabilité sociale du projet.
+
+V.1.3 MESURES D’ATTENUATION ET DE GESTION DU TRAFIC – PHASE DE CONSTRUCTION
+
+Afin de prévenir, réduire et maîtriser les impacts identifiés, les mesures suivantes seront mises
+en œuvre durant la phase de construction.
+
+a) Planification et organisation du trafic
+
+   • Élaboration d’un planning détaillé des flux de circulation, intégrant les périodes de
+     pointe et les périodes sensibles ;
+
+                                                                                              Page 19
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • Échelonnement des livraisons et limitation des circulations aux heures de moindre
+       affluence ;
+
+   • Coordination avec les autorités locales pour la validation des itinéraires et des horaires.
+b) Séparation et sécurisation des flux
+
+   • Mise en place de dispositifs physiques de séparation entre les zones de chantier et les
+     voies ouvertes à la circulation ;
+
+   • Aménagement de chemins piétonniers sécurisés et de passages piétons temporaires,
+     clairement signalés ;
+
+   • Sécurisation des accès chantier par des dispositifs de contrôle et de régulation.
+c) Signalisation et gestion des déviations
+
+   • Installation d’une signalisation temporaire claire et conforme en amont et à proximité
+     des zones de travaux ;
+
+   • Mise en place de limitations temporaires de vitesse adaptées au contexte local ;
+   • Définition et balisage de déviations temporaires, en évitant autant que possible les
+     zones résidentielles sensibles ;
+
+   • Mobilisation de signaleurs (flagmen) lors des phases critiques.
+d) Gestion des transports exceptionnels (convois spéciaux)
+
+Certains équipements du projet (notamment des éléments électromécaniques ou matériels
+de grande dimension) pourraient nécessiter, selon leurs caractéristiques finales, un transport
+exceptionnel sous forme de convoi spécial. À ce stade (APS), ces besoins ne peuvent pas être
+quantifiés, mais le PGT prévoit les dispositions suivantes afin d’encadrer ce type d’opération :
+
+   • Autorisations préalables : tout transport exceptionnel sera soumis à l’obtention des
+     autorisations réglementaires requises auprès des autorités compétentes, et au respect
+     des prescriptions associées (gabarit, tonnage, horaires, conditions de circulation) ;
+
+   • Reconnaissance et validation de l’itinéraire : une reconnaissance préalable de l’itinéraire
+     sera réalisée (points de giration, rayons de courbure, pentes, état des chaussées,
+       ouvrages d’art, traversées de zones habitées) afin d’identifier les contraintes et d’éviter
+       les tronçons inadaptés ; l’itinéraire sera validé en coordination avec les gestionnaires de
+       voirie et les services de sécurité ;
+
+   • Créneaux horaires adaptés : lorsque cela est possible, les convois seront programmés
+     en dehors des heures de pointe et des périodes sensibles (traversées de zones habitées,
+     proximité d’écoles, jours de marché, périodes de forte fréquentation touristique) afin
+     de limiter les perturbations et les risques ;
+
+
+                                                                                              Page 20
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA        Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                          Plan de Gestion du trafic
+
+
+   • Encadrement et sécurisation renforcés : les convois feront l’objet d’une signalisation
+       renforcée (balisage, panneaux temporaires, dispositifs lumineux), de la mobilisation de
+       signaleurs, et, si requis par les autorisations, d’une escorte (gendarmerie/police ou
+       véhicule pilote), ainsi que de mesures temporaires de gestion de la circulation
+       (ralentissement, alternat, interruption ponctuelle, déviation) ;
+
+   • Information préalable : les parties prenantes concernées (autorités locales, riverains,
+     usagers) seront informées en amont lorsque les opérations sont susceptibles d’impacter
+     temporairement la circulation.
+
+Ces dispositions seront précisées et mises à jour à l’issue de la phase APD, lorsque la liste
+définitive des équipements, leurs dimensions et les modalités logistiques seront arrêtées.
+
+e) Gestion du stationnement et des accès
+
+   • Délimitation de zones de stationnement temporaires pour les véhicules du chantier,
+     hors voirie publique ;
+
+   • Organisation stricte des zones de chargement/déchargement à l’intérieur du chantier ;
+
+   • Interdiction du stationnement anarchique à proximité des zones sensibles.
+f) Mesures de sécurité pour le personnel et les usagers
+
+   • Formation et sensibilisation régulières des conducteurs et du personnel aux règles de
+     sécurité routière ;
+
+   • Port obligatoire d’équipements de haute visibilité pour les travailleurs exposés ;
+   • Mise en place de dispositifs d’alerte (feux clignotants, signaux sonores) dans les zones à
+     risque.
+
+g) Réduction des nuisances environnementales
+
+   • Arrosage régulier des pistes et voies non revêtues pour limiter les poussières ;
+
+   • Limitation des vitesses des engins ;
+   • Utilisation d’équipements entretenus et conformes aux normes en matière d’émissions
+     et de bruit ;
+
+   • Planification des travaux les plus bruyants en dehors des périodes sensibles.
+h) Suivi et ajustement en temps réel
+
+   • Suivi continu des conditions de circulation et des incidents ;
+
+   • Réajustement des mesures en fonction des observations terrain ;
+
+   • Enregistrement et traitement des plaintes et réclamations liées au trafic.
+
+
+
+                                                                                            Page 21
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA           Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                             Plan de Gestion du trafic
+
+
+V.2    DESCRIPTION DES IMPACTS PENDANT LA PHASE D’EXPLOITATION
+
+La phase d’exploitation de la STEP Ifahsa se caractérise par un niveau de trafic nettement
+inférieur à celui observé durant la phase de construction. Les flux de circulation sont
+principalement liés aux activités courantes d’exploitation, de maintenance et d’intervention
+ponctuelle sur les ouvrages.
+
+À ce stade du projet (APS), l’organisation détaillée de l’exploitation n’est pas encore
+entièrement définie. L’analyse des impacts du trafic durant cette phase repose donc sur des
+hypothèses prudentes, fondées sur le fonctionnement habituel des installations de type STEP
+et sur les besoins prévisionnels connus.
+
+V.2.1 SOURCES D'IMPACTS PENDANT LA D’EXPLOITATION
+
+Les principales sources d’impacts liés au trafic durant la phase d’exploitation sont les suivantes
+:
+
+   • Déplacements réguliers mais limités du personnel d’exploitation, entre les zones
+     d’habitation et les installations de la STEP ;
+
+   • Circulation ponctuelle de véhicules de maintenance et d’intervention, notamment pour
+     les opérations d’entretien préventif et correctif des équipements ;
+
+   • Transports occasionnels de matériels ou de pièces de rechange, susceptibles
+     d’emprunter les mêmes itinéraires que ceux utilisés durant la phase de construction,
+     mais à une fréquence beaucoup plus faible ;
+
+   • Interventions exceptionnelles, pouvant générer temporairement une augmentation du
+     trafic, notamment en cas de maintenance lourde ou d’incident technique.
+
+Ces flux sont essentiellement constitués de véhicules légers et utilitaires, avec un recours très
+limité aux poids lourds.
+
+
+
+
+V.2.2 ÉVALUATION DES IMPACTS DU TRAFIC PENDANT LA PHASE D’EXPLOITATION
+
+Sur la base des sources identifiées, les impacts potentiels du trafic durant la phase
+d’exploitation sont évalués comme suit :
+
+V.2.2.1 Impacts sur la fluidité du trafic
+
+Les volumes de circulation liés à l’exploitation sont faibles par rapport au trafic existant sur les
+axes nationaux, régionaux et provinciaux concernés.
+
+Les impacts sur la fluidité du trafic sont ainsi considérés comme faibles à négligeables, y
+compris sur les routes secondaires et voies locales.
+
+
+                                                                                               Page 22
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+V.2.2.2 Impacts sur la sécurité routière
+
+Le trafic d’exploitation ne modifie pas de manière significative les conditions de circulation
+existantes. Toutefois, des risques résiduels peuvent subsister :
+
+   • Lors des accès et sorties du site ;
+
+   • En cas d’interventions ponctuelles nécessitant la circulation de véhicules techniques.
+Ces impacts sont jugés faibles, sous réserve du respect des règles de circulation et des mesures
+de sécurité de base.
+
+V.2.2.3 Impacts sur les infrastructures routières
+
+Compte tenu de la faible fréquence et du tonnage limité des véhicules en phase d’exploitation,
+les impacts sur l’état des infrastructures routières sont négligeables.
+
+V.2.2.4 Impacts sur les riverains et les récepteurs sensibles
+
+Les nuisances potentielles (bruit, poussières, gêne d’accès) associées au trafic d’exploitation
+sont très limitées et comparables à celles du trafic local existant.
+
+Aucun impact significatif et durable n’est attendu pour les populations riveraines ou les autres
+récepteurs sensibles identifiés.
+
+V.2.3 MESURES DE GESTION DU TRAFIC EN PHASE D’EXPLOITATION
+
+Bien que les impacts soient jugés faibles, des mesures de gestion préventives seront
+maintenues afin de garantir la sécurité et la continuité des usages locaux :
+
+   • Maintien d’une signalisation adéquate aux accès au site ;
+
+   • Respect strict des limitations de vitesse sur les routes locales et pistes d’accès ;
+   • Organisation des interventions de maintenance en dehors des périodes de forte
+     fréquentation lorsque cela est possible ;
+
+   • Sensibilisation continue du personnel d’exploitation aux règles de sécurité routière et
+     aux spécificités locales ;
+
+   • Coordination avec les autorités locales en cas d’interventions exceptionnelles
+       susceptibles de perturber temporairement la circulation.
+
+Ces mesures pourront être ajustées et précisées à l’issue de la phase APD, en fonction de
+l’organisation définitive de l’exploitation.
+
+VI IMPACTS CUMULATIFS
+
+L’analyse des impacts cumulatifs vise à évaluer les effets résultant de la combinaison du trafic
+généré par le projet de la STEP Ifahsa avec les autres sources de trafic et d’activités existantes
+ou prévisibles dans la zone d’étude.
+
+
+                                                                                              Page 23
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+Elle permet d’apprécier si l’introduction du trafic lié au projet est susceptible d’amplifier des
+contraintes déjà présentes et de générer des impacts plus significatifs que ceux analysés
+individuellement.
+
+Compte tenu du stade actuel du projet (APS), cette analyse est réalisée sur la base d’une
+approche qualitative et prudente, tenant compte des données disponibles, des hypothèses
+logistiques retenues et des caractéristiques générales du trafic existant.
+
+VI.1 SOURCES POTENTIELLES D’IMPACTS CUMULATIFS
+
+Les principales sources d’impacts cumulatifs identifiées dans le cadre du Plan de Gestion du
+Trafic sont les suivantes :
+
+   • Le trafic existant sur les axes nationaux, régionaux, provinciaux et locaux, tel que
+       caractérisé par le Recueil du trafic routier 2023 ;
+
+   • Le trafic généré par le projet durant la phase de construction, incluant les poids lourds,
+     engins et convois exceptionnels ;
+
+   • Les déplacements locaux quotidiens des populations riveraines (activités domestiques,
+     agricoles, commerciales, touristiques) ;
+
+   • Les flux saisonniers, notamment liés au tourisme, en particulier dans les zones à vocation
+     touristique autour de Chefchaouen ;
+
+   • Les autres projets ou activités susceptibles de générer du trafic dans la zone d’étude,
+       lorsqu’ils coïncident temporellement avec la phase de construction de la STEP.
+
+VI.2 ANALYSE DES IMPACTS CUMULATIFS PAR TYPE D’ENJEU
+
+VI.2.1 CUMUL DES IMPACTS SUR LA FLUIDITE DU TRAFIC
+
+La superposition du trafic de chantier avec le trafic existant peut entraîner :
+
+   • Une augmentation ponctuelle de la congestion, notamment sur les routes régionales,
+     provinciales et voies locales ;
+
+   • Une réduction temporaire de la capacité de certaines sections, en particulier lors des
+     phases de transport intensif ou de convois exceptionnels.
+
+Ces effets cumulatifs sont jugés modérés à localement significatifs, en particulier aux heures
+de pointe et durant les périodes de forte fréquentation.
+
+VI.2.2 CUMUL DES IMPACTS SUR LA SECURITE ROUTIERE
+
+Le cumul des flux augmente :
+
+   • Les situations de coactivité à risque entre véhicules lourds, véhicules légers et usagers
+     vulnérables ;
+
+
+
+                                                                                              Page 24
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA             Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                               Plan de Gestion du trafic
+
+
+   • La probabilité d’accidents, notamment dans les traversées de zones habitées et à
+       proximité des accès chantier.
+
+Cet enjeu est considéré comme prioritaire, nécessitant une application rigoureuse des
+mesures de prévention et de séparation des flux prévues dans le PGT.
+
+VI.2.3 CUMUL DES IMPACTS SUR LES INFRASTRUCTURES ROUTIERES
+
+Le passage répété de véhicules lourds, combiné à l’usage quotidien du réseau par le trafic
+existant, peut accélérer :
+
+   • La dégradation des chaussées, en particulier sur les routes provinciales et pistes rurales
+     ;
+
+   • L’usure des accotements et des ouvrages annexes.
+Ces impacts cumulatifs sont jugés localement significatifs en l’absence de mesures d’entretien
+et de remise en état.
+
+VI.2.4 CUMUL DES IMPACTS SUR LES RIVERAINS ET RECEPTEURS SENSIBLES
+
+La combinaison des nuisances existantes (bruit, poussières, trafic) avec celles générées par le
+projet peut entraîner :
+
+   • Une augmentation temporaire des nuisances perçues par les populations riveraines ;
+
+   • Une gêne accrue pour les activités économiques et touristiques locales.
+Ces impacts sont temporaires et réversibles, sous réserve d’une gestion adaptée.
+
+VI.3 MESURES DE MAITRISE DES IMPACTS CUMULATIFS
+
+Afin de limiter les impacts cumulatifs identifiés, le projet mettra en œuvre les mesures
+suivantes :
+
+   • Planification fine des flux de circulation, en évitant autant que possible les périodes de
+     pointe et les périodes de forte activité locale ou touristique ;
+
+   • Coordination avec les autorités locales et les services de gestion du trafic pour anticiper
+     les situations de cumul ;
+
+   • Renforcement des mesures de sécurité routière dans les zones sensibles (signalisation,
+     limitation de vitesse, présence de signaleurs) ;
+
+   • Suivi régulier de l’état des infrastructures routières et mise en œuvre de mesures
+     correctives si nécessaire ;
+
+   • Communication proactive avec les populations riveraines pour informer des phases
+     sensibles et des mesures mises en place.
+
+
+
+
+                                                                                                 Page 25
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA            Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                              Plan de Gestion du trafic
+
+
+VII PLAN DE SURVEILLANCE ET DE REPORTING
+
+Le Plan de surveillance et de reporting vise à assurer le suivi continu, l’évaluation de l’efficacité
+et l’adaptation des mesures de gestion du trafic mises en œuvre dans le cadre du projet de la
+STEP Ifahsa, en particulier durant la phase de construction.
+
+Il constitue un outil essentiel de gestion adaptative, permettant :
+
+   • D’identifier rapidement les dysfonctionnements ou situations à risque ;
+
+   • D’ajuster les mesures opérationnelles en fonction des conditions réelles de circulation ;
+   • Et d’assurer la traçabilité et la transparence vis-à-vis des autorités compétentes et des
+     parties prenantes.
+
+VII.1 SUIVI DE LA CONGESTION ET DE LA FLUIDITE DU TRAFIC
+
+Le suivi de la fluidité du trafic vise à détecter toute situation de congestion ou de perturbation
+excessive liée aux activités du projet.
+
+Les actions de surveillance incluent notamment :
+
+   • L’observation régulière des conditions de circulation sur les axes potentiellement
+     affectés ;
+
+   • L’identification des périodes et sections sensibles, en particulier aux heures de pointe et
+     lors des phases de transport intensif ;
+
+   • L’analyse des incidents de circulation (ralentissements prolongés, blocages ponctuels,
+     accidents).
+
+En cas de congestion récurrente ou inhabituelle, des mesures correctives seront mises en
+œuvre, telles que :
+
+   • Le réajustement des horaires de circulation du trafic de chantier ;
+
+   • La modification temporaire des itinéraires empruntés ;
+
+   • Le renforcement de la signalisation et de la présence de signaleurs.
+VII.2 SUIVI DE LA DETERIORATION DES INFRASTRUCTURES LOCALES
+
+Un suivi spécifique est prévu afin de prévenir et de détecter toute dégradation des
+infrastructures routières susceptible d’être liée au trafic du projet.
+
+Ce suivi repose sur :
+
+   • Des inspections visuelles périodiques des routes et pistes utilisées ;
+   • L’identification des signes de dégradation (fissures, affaissements, dégradation des
+     accotements, envols de matériaux) ;
+
+
+
+                                                                                                Page 26
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA         Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                           Plan de Gestion du trafic
+
+
+   • La consignation des observations dans des fiches de suivi.
+En cas de dégradation avérée imputable au projet, des mesures correctives seront engagées,
+incluant :
+
+   • Des interventions d’entretien ponctuel ;
+   • La remise en état des sections concernées, en concertation avec les autorités
+     compétentes.
+
+VII.3 SUIVI DE LA SANTE ET DE LA SECURITE COMMUNAUTAIRE
+
+Le suivi de la santé et de la sécurité communautaire constitue un volet prioritaire du Plan de
+surveillance du trafic.
+
+Il comprend notamment :
+
+   • Le suivi des incidents et accidents de circulation impliquant le trafic de chantier ;
+   • L’observation des situations à risque pour les usagers vulnérables (piétons, cyclistes,
+     deux-roues, engins agricoles) ;
+
+   • Le contrôle du respect des limitations de vitesse, des règles de circulation et des
+     dispositifs de séparation des flux.
+
+Tout incident significatif fera l’objet :
+
+   • D’un enregistrement systématique ;
+
+   • D’une analyse des causes ;
+   • Et, le cas échéant, de la mise en œuvre de mesures correctives renforcées (signalisation,
+     formation, modification des pratiques).
+
+VII.4 SUIVI DE L’OCCUPATION TEMPORAIRE DE L’ESPACE PUBLIC
+
+Les occupations temporaires de la voirie ou de l’espace public liées aux activités du chantier
+(chargement/déchargement, manœuvres, stockage ponctuel) feront l’objet d’un suivi
+spécifique afin de :
+
+   • Limiter leur durée ;
+
+   • Garantir la sécurité des usagers ;
+
+   • Assurer la remise en état des lieux après usage.
+Toute occupation temporaire sera :
+
+   • Planifiée à l’avance ;
+
+   • Signalée de manière appropriée ;
+   • Encadrée par des dispositifs de sécurité adaptés.
+
+
+                                                                                             Page 27
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA              Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                                Plan de Gestion du trafic
+
+
+VII.5 MATRICE OPERATIONNELLE DE SUIVI : MESURES, RESPONSABILITES, FREQUENCE ET PREUVES
+
+Afin de renforcer le caractère opérationnel du présent Plan de Gestion du Trafic (PGT) et de
+garantir la traçabilité des actions mises en œuvre, une matrice de suivi est établie. Cette
+matrice précise, pour chaque mesure de gestion du trafic et de prévention des risques : (i) le
+responsable de mise en œuvre, (ii) la fréquence d’exécution ou de contrôle, et (iii) les
+éléments de preuve attendus (documents et supports de traçabilité).
+
+La matrice constitue un outil central de pilotage et de reporting. Elle permet :
+
+   • De vérifier l’application effective des mesures sur le terrain ;
+
+   • D’identifier rapidement les écarts et de déclencher des actions correctives ;
+   • De documenter la conformité du projet vis-à-vis des exigences nationales et du cadre
+     environnemental et social de la banque mondiale, notamment en matière de santé et
+     sécurité communautaire.
+
+Cette matrice pourra être mise à jour à l’issue de la phase APD, lorsque le phasage détaillé, les
+accès finaux et l’organisation logistique définitive seront arrêtés.
+
+         Tableau 1. Matrice opérationnelle (Mesures – Responsables – Fréquence – Preuves)
+                                  Responsable de        Fréquence /       Preuves / Traçabilité
+         Mesure / Action
+                                   mise en œuvre          Période               attendues
+                                                                        Note interne / Plan
+ Définir et diffuser les                            Avant démarrage +
+                                 Entreprise (avec                       d’itinéraire, accusé de
+ itinéraires autorisés (Tanger                      mise à jour si
+                                 validation MO)                         diffusion, briefing
+ Med → site) et interdictions                       changement
+                                                                        transporteurs
+                                                    Quotidien /         Planning livraisons,
+ Planifier les livraisons en
+                                 Entreprise         hebdomadaire        registre entrées/sorties,
+ dehors des heures de pointe
+                                                    selon planning      consignes affichées
+                                                                        Affichage, consignes
+ Limitation de vitesse sur
+                                 Entreprise +                           chauffeurs, contrôles
+ routes locales/pistes (ex. 30–                     Permanent
+                                 Chauffeurs                             internes, fiches de
+ 50 km/h selon zones)
+                                                                        sensibilisation
+ Mise en place de signalisation                                         Photos géoréférencées
+ temporaire (travaux,                               Avant travaux +     si possible, check-list
+                                 Entreprise
+ rétrécissement, déviation,                         contrôle quotidien HSE, rapports
+ vitesse)                                                               d’inspection
+ Mobilisation de signaleurs                                             Main courante chantier,
+                                                    Pendant phases
+ (flagmen) aux points critiques Entreprise                              fiches de poste, photos,
+                                                    critiques / convois
+ (manœuvres/accès chantier)                                             registre présence
+ Sécurisation des accès chantier
+                                                        Permanent +        Check-list sécurité,
+ (entrées/sorties, manœuvres, Entreprise
+                                                        contrôle quotidien photos, rapports HSE
+ visibilité)
+ Arrosage des pistes/voies non                                              Fiche d’arrosage,
+                                                        Quotidien (selon
+ revêtues pour limiter la        Entreprise                                 registre camion-citerne,
+                                                        conditions météo)
+ poussière                                                                  photos
+
+
+
+                                                                                                  Page 28
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA                Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                                  Plan de Gestion du trafic
+
+
+                                     Responsable de           Fréquence /   Preuves / Traçabilité
+         Mesure / Action
+                                     mise en œuvre              Période            attendues
+                                                                           Plan de stationnement,
+ Interdiction de stationnement
+                                                        Permanent +        contrôles HSE,
+ hors zones dédiées / maintien      Entreprise
+                                                        contrôle quotidien constats/photo avant-
+ de la voirie libre
+                                                                           après
+ Gestion des                                                               Registre livraisons, bon
+                                                        À chaque
+ chargements/déchargements          Entreprise                             de livraison, photos si
+                                                        opération
+ uniquement en zones prévues                                               nécessaire
+ Contrôle de l’état des                                 Hebdomadaire +        Fiches d’inspection,
+                                    Entreprise + MO
+ routes/pistes utilisées et                             après épisodes        photos, registre
+                                    (suivi)
+ signalement des dégradations                           pluvieux              anomalies
+ Remise en état des                 Entreprise (avec                          PV/constats, photos
+ pistes/sections dégradées          MO/gestionnaires Selon besoin             avant-après, rapports
+ imputables au projet               route)                                    de réparation
+ Formation/sensibilisation                              Avant démarrage + Listes de présence,
+ sécurité routière des              Entreprise          mensuel /         supports de formation,
+ chauffeurs et équipes                                  onboarding        quiz/briefings
+ Gestion des                                                              Fiche incident, analyse
+ incidents/accidents liés au                                              causes, actions
+                                    Entreprise + MO     À chaque incident
+ trafic (enquête et actions                                               correctives, suivi
+ correctives)                                                             clôture
+ Mise en œuvre des                                                        Avis/communiqués,
+                                                        Avant phase
+ communications aux                 MO + Entreprise                       photos d’affichage,
+                                                        critique + selon
+ riverains/usagers lors des         (appui)                               comptes rendus
+                                                        besoin
+ phases sensibles                                                         réunions
+                                                                          Registre plaintes,
+ Traitement des plaintes liées
+                                                                          accusés réception,
+ au trafic via le mécanisme de      MO + Entreprise     Continu
+                                                                          réponses, actions mises
+ gestion des plaintes
+                                                                          en œuvre
+
+
+
+
+VIII PLAN DE COMMUNICATION ET SENSIBILISATION
+
+Le Plan de communication et de sensibilisation a pour objectif d’assurer une information
+claire, régulière et accessible des usagers de la route, des populations riveraines et des parties
+prenantes institutionnelles concernant les impacts potentiels du trafic lié au projet de la STEP
+Ifahsa, ainsi que les mesures mises en œuvre pour les prévenir et les gérer.
+
+Ce plan vise à :
+
+   • Renforcer la sécurité routière ;
+   • Limiter les nuisances et les perturbations liées aux travaux ;
+   • Favoriser l’acceptabilité sociale du projet ;
+
+                                                                                                    Page 29
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • Et permettre une gestion proactive des situations imprévues.
+VIII.1 PRINCIPES GENERAUX DE COMMUNICATION
+
+La stratégie de communication repose sur les principes suivants :
+
+   • Anticipation : informer en amont des phases de travaux susceptibles d’affecter la
+     circulation ;
+
+   • Transparence : communiquer sur la nature, la durée et l’ampleur des perturbations
+     potentielles ;
+
+   • Adaptation : ajuster les messages aux publics concernés (riverains, usagers,
+     transporteurs, autorités) ;
+
+   • Réactivité : mettre à jour rapidement l’information en cas de changement ou d’incident
+     ;
+
+   • Accessibilité : utiliser des supports et canaux de communication variés et
+     compréhensibles.
+
+VIII.2 PUBLICS CIBLES
+
+Les actions de communication et de sensibilisation s’adressent notamment à :
+
+   • Les usagers de la route (véhicules légers, poids lourds, transports collectifs) ;
+
+   • Les populations riveraines et les douars situés le long des axes concernés ;
+
+   • Les usagers vulnérables (piétons, cyclistes, deux-roues) ;
+
+   • Les acteurs économiques locaux et opérateurs touristiques ;
+
+   • Les autorités locales, services techniques et forces de l’ordre ;
+
+   • Les entreprises de travaux et de transport intervenant sur le projet.
+VIII.3 OUTILS ET CANAUX DE COMMUNICATION
+
+Les principaux outils et canaux mobilisés incluent :
+
+   • Signalisation et information sur site :
+                     o Panneaux d’information et de signalisation temporaire ;
+
+                     o Panneaux à messages variables annonçant les déviations, restrictions et
+                       limitations de vitesse ;
+
+                     o Affichage aux points stratégiques (entrées de douars, carrefours
+                       sensibles).
+
+   • Communication institutionnelle et locale :
+
+
+
+                                                                                              Page 30
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+                     o Information des autorités locales et services concernés en amont des
+                         phases sensibles ;
+
+                     o Réunions de coordination avec les communes et services de sécurité
+                       routière ;
+
+                     o Diffusion d’informations via les médias locaux lorsque nécessaire.
+
+   • Canaux numériques et applicatifs :
+                     o Diffusion d’informations via les plateformes numériques et réseaux
+                       sociaux locaux ;
+
+                     o Mise à jour des informations de circulation via les applications de trafic
+                         (ex. Navigation et information en temps réel).
+
+VIII.4 ACTIONS DE SENSIBILISATION SPECIFIQUES
+
+Des actions de sensibilisation ciblées seront mises en œuvre afin de renforcer la sécurité et le
+respect des mesures de gestion du trafic, notamment :
+
+   • sensibilisation des conducteurs et transporteurs intervenant sur le projet :
+                     o Rappel des itinéraires autorisés ;
+
+                     o Respect des limitations de vitesse et des horaires de circulation ;
+
+                     o Consignes spécifiques dans les zones habitées et à forte fréquentation ;
+
+   • sensibilisation des populations riveraines :
+                     o Information sur les périodes de trafic accru ;
+
+                     o Consignes de sécurité pour les déplacements à proximité des zones de
+                       travaux ;
+
+    •    actions spécifiques dans les zones sensibles :
+
+                     o Messages ciblés à proximité des écoles, marchés, lieux de culte et zones
+                       touristiques ;
+
+                     o Renforcement de la présence humaine (signaleurs) lors des phases
+                       critiques.
+
+VIII.5 COORDINATION ET GESTION DES RETOURS
+
+La communication sera étroitement coordonnée avec :
+
+   • Le Maître d’Ouvrage ;
+
+   • Les autorités locales et services de sécurité ;
+
+
+
+                                                                                              Page 31
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA             Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                               Plan de Gestion du trafic
+
+
+   • Les entreprises en charge des travaux.
+Les retours des usagers et des riverains (plaintes, remarques, suggestions) seront :
+
+   • Enregistrés via le mécanisme de gestion des plaintes ;
+
+   • Analysés régulièrement ;
+   • Pris en compte pour ajuster les mesures de gestion du trafic et les actions de
+     communication.
+
+
+
+IX LACUNES, HYPOTHESES ET LIMITATIONS DE L’ETUDE
+
+Le présent Plan de Gestion du Trafic (PGT) a été élaboré dans un contexte où le projet de la
+STEP Ifahsa se situe encore en phase APS, l’Avant-Projet Détaillé (APD) étant en cours
+d’élaboration. À ce titre, certaines hypothèses ont été formulées et certaines limitations
+doivent être explicitement prises en compte dans l’interprétation et l’application du plan.
+
+IX.1 HYPOTHESES RETENUES
+
+L’élaboration du présent Plan de Gestion du Trafic (PGT) repose sur les hypothèses suivantes,
+compte tenu du stade d’avancement du projet de la STEP Ifahsa, actuellement en phase APS,
+l’Avant-Projet Détaillé (APD) étant en cours d’élaboration :
+
+   • Hypothèse logistique principale : l’ensemble des équipements, matériels et matériaux
+     nécessaires au projet transitera par le port de Tanger Med, avant d’être acheminé vers
+       le site du projet via le réseau routier national, régional, provincial et local ;
+
+   • Hypothèse d’itinéraires multiples : en l’absence de validation définitive d’un itinéraire
+     unique à ce stade, plusieurs trajets potentiels ont été considérés (RN16, autoroutes A7
+     et A5, RN2, RR406, RP4100, pistes rurales et voies locales), afin d’anticiper l’ensemble
+     des situations susceptibles d’être rencontrées ;
+
+   • Hypothèse d’analyse qualitative du trafic :
+       Aucune quantification chiffrée des volumes de trafic (nombre de véhicules, fréquences
+       journalières, tonnages) n’a été réalisée à ce stade.
+
+       L’analyse du trafic est volontairement qualitative, fondée sur :
+
+                     o Les caractéristiques générales du trafic existant issues du Recueil du
+                       trafic routier 2023 ;
+
+                     o La typologie des flux attendus (véhicules légers, poids lourds, engins,
+                       convois exceptionnels) ;
+
+                     o Et l’identification des périodes et zones sensibles.
+
+
+
+                                                                                                 Page 32
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA          Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                            Plan de Gestion du trafic
+
+
+   • Hypothèse de quantification ultérieure : la quantification précise des flux de trafic liés
+       au projet sera réalisée ultérieurement, à l’issue de la phase APD, lorsque :
+
+                     o Les tracés définitifs ;
+
+                     o Les accès au chantier ;
+
+                     o Le phasage détaillé des travaux ;
+
+                     o Et les besoins logistiques exacts seront arrêtés.
+
+   • Hypothèse de fonctionnement standard en phase d’exploitation : la phase
+     d’exploitation est supposée générer un trafic limité, principalement constitué de
+     véhicules légers et utilitaires liés aux activités d’exploitation et de maintenance.
+
+IX.2 LACUNES IDENTIFIEES
+
+Certaines lacunes dans les données disponibles à ce stade sont identifiées et reconnues,
+notamment :
+
+   • L’absence de tracés définitifs et d’accès finaux aux différentes composantes du projet ;
+   • L’indisponibilité d’un phasage détaillé des travaux permettant de préciser finement les
+     pics de trafic ;
+
+   • L’absence de quantification précise des flux de trafic de chantier (nombre de véhicules,
+     fréquences journalières, durée des phases critiques) ;
+
+   • L’absence de localisation définitive des bases-vie, zones de stockage et plateformes
+     logistiques ;
+
+   • La non-disponibilité, à ce stade, des plans d’exécution détaillés susceptibles d’influencer
+     l’organisation du trafic.
+
+Ces lacunes sont inhérentes au stade d’avancement du projet et seront progressivement
+levées à mesure de l’avancement vers la phase APD.
+
+IX.3 LIMITATIONS DE L’ETUDE
+
+En raison des hypothèses et lacunes identifiées, le présent PGT présente les limitations
+suivantes :
+
+   • Il ne constitue pas un plan d’exécution définitif, mais un cadre de référence évolutif
+     destiné à être précisé et complété ;
+
+   • Certaines mesures proposées sont formulées à un niveau stratégique et opérationnel
+     général, sans dimensionnement précis à ce stade ;
+
+
+
+
+                                                                                              Page 33
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA            Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                              Plan de Gestion du trafic
+
+
+    • Les impacts et mesures associés à des situations exceptionnelles ou imprévues
+       (accidents majeurs, aléas climatiques, modifications substantielles du projet) ne
+       peuvent être entièrement anticipés.
+
+IX.4 PRINCIPE DE MISE A JOUR ET D’ADAPTABILITE
+
+Conformément aux exigences du Cadre Environnemental et Social de la Banque mondiale, le
+présent Plan de Gestion du Trafic est conçu comme un document vivant, qui devra être :
+
+    • Mis à jour à l’issue de la phase APD, sur la base des données techniques définitives ;
+
+    • Ajusté en fonction des résultats du suivi et du reporting ;
+
+    • Adapté en concertation avec les autorités compétentes et les parties prenantes locales.
+Cette approche garantit que le PGT restera pertinent, opérationnel et proportionné aux
+risques réels du projet tout au long de son cycle de mise en œuvre.
+
+
+
+
+X    CONCLUSIONS
+
+Le présent Plan de Gestion du Trafic (PGT) a été élaboré dans le cadre du projet de la STEP
+d’Ifahsa (composante STEP hors lignes électriques) afin d’anticiper et de maîtriser les impacts
+potentiels liés au trafic généré par le projet, principalement durant la phase de construction.
+
+Compte tenu du stade d’avancement du projet, actuellement en phase APS, l’Avant-Projet
+Détaillé (APD) étant en cours, le PGT repose sur une approche qualitative et prudente, fondée
+sur l’analyse des conditions de base du trafic existant, les hypothèses logistiques retenues
+(provenance des équipements via le port de Tanger Med) et l’identification des itinéraires
+potentiels sans figer de tracé définitif. Aucune quantification chiffrée des volumes de trafic
+n’a été réalisée à ce stade.
+
+L’analyse met en évidence que les principaux enjeux concernent la sécurité routière, la santé
+et sécurité communautaire, la préservation des infrastructures locales et la gestion des
+nuisances dans les zones habitées et sensibles. Des mesures opérationnelles adaptées ont été
+définies afin de limiter les perturbations de la circulation, sécuriser les usagers et assurer
+l’acceptabilité sociale du projet.
+
+La phase d’exploitation est, quant à elle, associée à des impacts faibles à négligeables, sous
+réserve du maintien de mesures de gestion de base.
+
+
+                                                                                                Page 34
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA       Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                         Plan de Gestion du trafic
+
+
+Le PGT est conçu comme un document évolutif, destiné à être actualisé et précisé à l’issue de
+la phase APD, lorsque les données techniques et logistiques définitives seront disponibles,
+conformément aux exigences du Cadre Environnemental et Social de la Banque mondiale.
+
+
+
+
+                                                                                           Page 35
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA             Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                        Plan de Gestion des Situation d’Urgences
+
+
+
+
+                                                                                                     Page 36
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA                 Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                                   Plan de Gestion du trafic
+
+
+
+
+  ANNEXE 1 – MATRICE DES TRAJETS EMPRUNTES PAR LES EQUIPEMENTS ET
+                      LES MATERIAUX DU PROJET
+
+     Point de            Point       Distance     Ordre       Nomenclature         Type de la        Distance
+      départ           d’arrivée       (km)                    de la route           route             (km)
+  Port de Tanger      Site de la     Itinéraire      1            N16                Route             30.3
+       Med             STEP –            1:                                         Nationale
+                       Bassin         135 km         2             A7              Autoroute           29.8
+                      inférieur                      3             N2                Route             55.6
+                                                                                    Nationale
+                                                     4            R406               Route              20
+                                                                                   Régionale
+  Port de Tanger      Site de la     Itinéraire      1            N16                Route             30.3
+       Med             STEP –            2:                                         Nationale
+                       Bassin         138 km         2             A7              Autoroute           29.8
+                      Supérieur                      3             N2                Route             55.6
+                                                                                    Nationale
+                                                     4            R406               Route             12.4
+                                                                                   Régionale
+                                                     5           P4100               Route              6.5
+                                                                                   Provinciale
+                                                     6          Piste non             Piste             3.2
+                                                                 Classée
+  Port de Tanger      Site de la     Itinéraire      1             N16               Route              6.6
+       Med             STEP –            3:                                         Nationale
+                       Bassin         135 km         2             A5              Autoroute            24
+                      inférieur                      3             N2                Route             84.2
+                                                                                    Nationale
+                                                     4            R406               Route              20
+                                                                                   Régionale
+  Port de Tanger      Site de la     Itinéraire      1            N16                Route              6.6
+       Med             STEP –            4:                                         Nationale
+                       Bassin         137 km         2             A5              Autoroute            24
+                      Supérieur                      3             N2                Route             84.2
+                                                                                    Nationale
+                                                     4            R406               Route             12.4
+                                                                                   Régionale
+                                                     5           P4100               Route              6.5
+                                                                                   Provinciale
+                                                     6          Piste non             Piste             3.2
+                                                                 Classée
+
+
+
+
+                                                                                                     Page 37
+ETUDES D'IMPACT ENVIRONNEMENTAL ET SOCIAL DES PROJETS DE LA      Composante STEP -
+STEP IFAHSA ET SES LIGNES D’EVACUATION                        Plan de Gestion du trafic
+
+
+
+
+   ANNEXE 2 – CARTE DES ITINERAIRES POTENTIELS DE TRANSPORT ENTRE LE
+                PORT DE TANGER MED ET LE SITE DU PROJET
+
+
+
+
+                                                                                          Page 38
+

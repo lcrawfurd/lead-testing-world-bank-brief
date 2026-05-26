@@ -1,0 +1,873 @@
+Public Disclosure Authorized
+                                          The World Bank
+                                          Peru: Wastewater Management and Circular Economy (P505093)
+
+
+
+
+                                      @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                       Project Information Document (PID)
+
+
+            _For Official Use Only_
+                                                      Appraisal Stage | Date Prepared/Updated: 07-Jul-2025 | Report No: PIDIA00897
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                                     Official Use Only
+                               The World Bank
+                               Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          @#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+                          BASIC INFORMATION
+
+
+                          A. Basic Project Data
+
+                          Project Beneficiary(ies)       Region                        Operation ID                  Operation Name
+                                                                                                                     Peru: Wastewater
+                                                         LATIN AMERICA AND
+                          Peru, Peru                                                   P505093                       Management and Circular
+                                                         CARIBBEAN
+                                                                                                                     Economy
+                          Financing Instrument           Estimated Appraisal Date      Estimated Approval Date       Practice Area (Lead)
+                          Investment Project
+                                                         22-Jul-2025                   11-Sep-2025                   Water
+                          Financing (IPF)
+                          Borrower(s)                    Implementing Agency
+                                                         Ministry of Housing
+                                                         Construction and
+                                                         Sanitation, Safe Water
+
+
+
+
+_For Official Use Only_
+                          Republic of Peru               Program for Lima and
+                                                         Callao - PASLC, National
+                                                         Urban Sanitation Program -
+                                                         PNSU
+
+                          Proposed Development Objective(s)
+                          Introduce circular economy principles in the WSS sector and increase access to inclusive and climate resilient WSS in
+                          selected basins
+
+                          Components
+                          Infraestructure
+                          Governance and Project Management
+
+                          @#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                          Maximizing Finance for Development
+
+                          Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+                          Is this project Private Capital Enabling (PCE)?              Yes
+
+                          SUMMARY
+                            Total Operation Cost                                                                                            266.40
+
+                            Total Financing                                                                                                 266.40
+
+
+                                                                                                                                               Page 1
+
+
+
+                                                                                                                                      Official Use Only
+                                  The World Bank
+                                  Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                                           of which IBRD/IDA                                                                                      200.00
+                              Financing Gap                                                                                                          0.00
+
+                           DETAILS
+                              World Bank Group Financing
+                                International Bank for Reconstruction and Development (IBRD)                                                      200.00
+                              Non-World Bank Group Financing
+                                Counterpart Funding                                                                                                66.40
+                                   National Government                                                                                             66.40
+
+
+
+
+                           @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+                          Environmental And Social Risk Classification
+
+
+
+
+_For Official Use Only_
+                          Substantial
+
+
+                           Decision
+                           The review did authorize the team to appraise and negotiate
+
+
+
+
+                           B. Introduction and Context
+                           Country Context
+
+                          1.       In 2024 Peru recovered from a decade of relatively low growth, but still almost one in three Peruvians is living
+                          in poverty. Peru has had six presidents in the last six years, a reflection of the volatile political climate in the country. The
+                          weakening of institutions and shocks such as the COVID-19 pandemic and climate events led to a slowdown in growth in
+                          the last decade, resulting in the 2023 recession. In 2024, the economy recovered and grew by 3.3 percent, and it is
+                          projected to grow by 2.9 percent in 2025 and 2.5 percent in 2026, close to its potential. The recovery can be explained by
+                          the return to more stable conditions, greater public investment, and increased business confidence. According to recent
+                          World Bank studies, Peru has the potential to become a high-income country within two decades if bold reforms are
+                          implemented. However, under current conditions, it would take the country 64 years to achieve high-income status.
+                          2.       Water is a key driver of economic development and job creation in Peru. Water-intensive sectors account for
+                          nearly two fifths of the Gross Domestic Product (GDP), with about 13 percent from manufacturing, 12 percent from mining
+                          and hydrocarbons, 7 percent from construction, 6 percent from agriculture, and 2 percent from water and electricity.1
+                          Mining and agriculture sectors account for 63 percent and 16 percent of Peru’s total exports, respectively. The agriculture
+                          sector alone, which productivity depends heavily on irrigation, employs almost a quarter of the total labor force. This is
+                          significant for rural development, given that 46 percent of rural populations remain poor and about 14 percent are mired
+
+                          1 BCRP (Banco Central de Reserva del Perú), 2022. “GDP by Sector” (220 series).
+
+
+
+                                                                                                                                                      Page 2
+
+
+
+                                                                                                                                              Official Use Only
+                                  The World Bank
+                                  Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          in extreme poverty2. Water’s contribution to the economy and overall livelihoods is further highlighted when considering
+                          the impact of electricity— about 57 percent of which is produced through hydropower—on all GDP-contributing sectors.
+                          Water is also essential for sustaining Peru’s diverse ecosystems, which include about 8 million hectares of wetlands and a
+                          vast network of rivers and lakes. These contribute to Peru’s tourism industry, which accounts for 4.5 percent of its GDP in
+                          2020. Therefore, improving water security3 is crucial to Peru’s path to shared prosperity while addressing climate risks.
+
+                           Sectoral and Institutional Context
+
+                          3.       In the Lima metropolitan area, climate change, untreated wastewater, insufficient infrastructure and water
+                          deficit pose critical risks to water security and public health. The Lurín river, located in the coastal region and southern
+                          expansion area of Lima city, is born in the central mountain range of the Andes and flows 111 km into the Pacific Ocean.
+                          By 2041-46 the annual flows of Lurin river are expected to decrease 21 percent due to climate change, resulting in lower
+                          aquifer recharge, water shortfall and higher contaminant concentrations. Of the total water demands in the basin, 86
+                          percent is for irrigation and 14 percent is for municipal, industrial, and mining uses. However, only 20 percent of the
+                          agricultural water demand is met during the dry period (September-November), mainly due to Lurín river’s non perennial
+                          nature and the basin’s unregulated condition. In addition to having an unmet demand, according to the last water balance
+                          for 2023-2024, the Lurín aquifer is being overexploited. This overexploitation, along with sea level rise and lower aquifer
+                          recharge rates derived from climate change, is resulting in saline intrusion and the degradation of groundwater quality.
+
+
+
+
+_For Official Use Only_
+                          The lower, peri-urban segment of the basin falls within SEDAPAL’s (Lima’s WSS utility) service area and covers a population
+                          of 306,485 people in the Lurín, Pachacamac and Cieneguilla districts. In this area, sewage coverage averages just between
+                          46 and 65 percent, and, treated water is discharged into contaminated rivers or directly into the ocean.
+                          4.       Climate change is increasingly destabilizing Lake Titicaca’s delicate hydrological balance, exacerbating existing
+                          environmental and socio-economic challenges. Lake Titicaca is the world’s highest navigable lake and a vital resource for
+                          communities in the altiplano region. The accelerated glacial melt is a key source of inflows for the Lake, yet paradoxically,
+                          prolonged droughts and increased evaporation rates are outpacing replenishment, leading to alarming declines in water
+                          levels. The basin’s primary water demands—agriculture, domestic use, and fisheries—are heavily reliant on the lake, with
+                          agriculture being the largest consumer and essential for local livelihoods. However, municipal wastewater discharges and
+                          fish farming have led to severe pollution, accelerating eutrophication and further deteriorating water quality. Addressing
+                          these issues requires robust and ambitious pollution abatement program to ensure the sustainability and climate
+                          resilience of Lake Titicaca and its surrounding regions. In this context, the Government of Peru is implementing a national
+                          program to enhance the treatment of wastewater discharged into the Titicaca. With an Interamerican Development
+                          Bank’s (IADB) lending operation approved in 2023 to improve wastewater management in Juliaca, the most populous city
+                          in the basin, the Government now seeks support to finance the other five wastewater treatment plants (WWTPs) in the
+                          province of Puno under the proposed MPA. In Puno city, the capital and the largest city of the province and the second
+                          largest in the basin after Juliaca, existing facilities administrated by EMSAPUNO (the local water utility) are non-functional,
+                          resulting in deficient WSS services and poorly treated sewage being discharged into the lake.
+                          5.      The Lurín and Lake Titicaca basins are served by utilities with contrasting capacities. SEDAPAL is a strong and
+                          regionally recognized utility despite ongoing financial constraints and EMSAPUNO is a significantly weaker utility with
+                          limited capacity. On average, EMSAPUNO’s and SEDAPAL’s customers receive water in their taps 10.4 and 21.3 hours per
+                          day, 16 and 10 percent of the connections are not equipped with a water meter, and their NRW level stand at 44.5 and
+                          32 percent, respectively. EMSAPUNO has a liquidity ratio of 0.35 percent, and in 2023 had a negative debt ratio of -4.37
+
+                          2 INEI, 2021. “Evolución de la Pobreza Monetaria 2019–2020: Informe Técnico”
+                          3 Water security is defined as the availability of an acceptable quantity and quality of water for health, livelihoods, ecosystems, and production,
+
+                          coupled with an acceptable level of water-related risks to people, environments, and economies. Grey and Sadoff 2007. “Sink or swim? Water security
+                          for growth and development”, Water Policy, 9, 545–571.
+
+                                                                                                                                                                        Page 3
+
+
+
+                                                                                                                                                               Official Use Only
+                                  The World Bank
+                                  Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          and its return on assets was -5.38 percent4. EMSAPUNO’s debt level is high, and the net worth of the company is negative.
+                          Meanwhile SEDAPAL return on assets in 2023 was 3.56 percent. EMSAPUNO’s difficult situation calls for improving the
+                          governance and technical capacity of the utility, equipping its staff with the required tools, procedures and know-how,
+                          and empowering and giving them the opportunity to excel and contribute to the transformation of the utility.
+
+                           Figure 1. The WICER Framework                                     6. In this challenging context, circular economy offers an
+                                                                                             opportunity to recognize and capture the full value of water
+                                                                                             as a service, an input to processes, a source of energy and a
+                                                                                             carrier of nutrients and other materials. This requires
+                                                                                             shifting towards “reduce-reuse-recycle-recover-restore”
+                                                                                             approaches that regenerate natural systems, reduce water
+                                                                                             use and other external inputs by closing nutrient loops,
+                                                                                             reduce waste and pollution, reuse and recycle water
+                                                                                             effluents, recover energy and nutrients from wastewater to
+                                                                                             minimize land, water, and carbon footprints and regenerate
+                                                                                             natural systems. Reducing pollution is essential to ensure
+                                                                                             appropriate water resources quality for all uses, and
+                                                                                             improving water use efficiency and recycling and reusing
+                                                                                             wastewater effluents is key to increasing water availability
+
+
+
+
+_For Official Use Only_
+                                                                                             for all, as well as improving resilience against climate change
+                                                                                             exacerbated droughts. Additionally, to achieve their full
+                                                                                             benefits, circular water systems need to embrace resilience
+                                                                                             and inclusiveness, preparing for uncertain shocks and
+                                                                                             stressors to avoid the undesired impacts from disruptions or
+                            World Bank, 2021. “Water in Circular Economy and Resilience” failures of water services. Figure 1 captures the Water in
+                                                                                             Circular Economy and Resilience (WICER) framework
+                          developed by the World Bank to guide decision makers to incorporate these principles in policies and strategies, planning,
+                          investment prioritization, and design and operations. This framework structures interventions around three main pillars:
+                          (i) deliver resilient and inclusive services; (ii) design out waste and pollution; and (iii) preserve and restore natural systems.
+                          7.        Peru is building a policy and regulatory framework to pursue a circular economy transition, but the
+                          interinstitutional collaboration required to unlock its full potential for improving water security remains a challenge. In
+                          2024, the Ministry of Housing, Construction and Sanitation (MVCS) issued a circular economy roadmap for drinking WSS
+                          services, but regulatory and financial incentives for its effective application by utilities remain to be developed. Moreover,
+                          the legal framework of the energy and solid waste management sectors create barriers for the technical and economic
+                          viability of projects aimed at cogenerating renewable energy as part of the wastewater treatment process and for the
+                          valorization of the sludge generated as a byproduct of said process. Likewise, the Ministry of Agriculture (MIDAGRI) has
+                          also prepared a circular economy road map, but it does not contemplate specific lines of action for the uptake of reclaimed
+                          wastewater for irrigation, nor for the use of treated sludge as fertilizer. Additionally, while the 2009 Water Resources Law
+                          foresees the establishment of mechanisms to incentivize water use efficiency, these are still to be developed. Also, the
+                          economic regime of water rights and discharge authorizations and the economic regulation of WSS services do not create
+                          the required incentives for the uptake of reuse for productive purposes and hinders the financial viability of reclamation
+                          activities. Similarly, the Water Resources Law does not establish regulations for the use of reclaimed water for MAR. In
+                          this context, it is essential to establish effective platforms for the development of coordinated cross-sectoral action to
+                          overcome governance gaps and unlock the full potential of circular economy to achieve water security.
+
+
+                          4 Sunass 2024 “Acta de Inspección”
+
+
+
+                                                                                                                                                       Page 4
+
+
+
+                                                                                                                                               Official Use Only
+                                  The World Bank
+                                  Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          8.        The heavy investments required to move forward the circular economy agenda and achieve universal access to
+                          safely managed WSS services, combined with low sector execution capacity and weak utility performance, call for
+                          rethinking delivery models. The 2022–26 National Sanitation Plan estimates that additional annual funding of US$2.6
+                          billion per year will be needed to achieve universal access to safely managed WSS services by 2030. However, in the past
+                          five years, Peru allocated about US$1.6 billion per year and budget execution ranged between 50 and 60 percent. As a
+                          result, still only 50 and 43 percent of Peruvians have access to safely managed drinking water and sanitation services,
+                          respectively. Women are particularly burdened by this situation, as they dedicate on average 20.21 hours per week to
+                          cooking and housecleaning whereas men only dedicate 7.31 hours. Moreover, low WSS tariffs weaken utilities’5 financial
+                          sustainability, limiting service quality and efficiency improvements. Combined with aging infrastructure, this leads to high
+                          water losses and poor wastewater treatment, with 77 percent of WWTPs failing to meet standards. Addressing these
+                          governance and management issues requires a shift in WSS delivery models, including clustering treatment facilities to
+                          allow for economies of scale, leveraging public-private partnerships (PPPs), and adopting context-specific technologies,
+                          including nature-based solutions, for sector authorities to achieve inclusive and climate resilient WSS access across Peru.
+                          9.        Faced with these challenges, the Government of Peru has requested the World Bank support to roll out the
+                          national circular economy agenda to increase climate resilience of WSS services and achieve water security, starting in
+                          two different but equally critical basins. This support request entails strengthening the capacity of the MVCS to support
+                          utilities in this journey, creating an enabling policy and regulatory environment, retrofitting priority WSS projects in their
+                          pipeline for the Lurin and the Lake Titicaca basins to adopt and test innovative circular economy approaches, and
+
+
+
+
+_For Official Use Only_
+                          developing a new generation of circular economy interventions for wastewater treatment, resource recovery and water
+                          reuse across the country that contribute to mitigation efforts and reduce vulnerability to climate change exacerbated
+                          droughts, floods and pollution. The Lurin and Lake Titicaca basins have been selected considering that they represent two
+                          very different contexts of the Peruvian reality when it comes to water security, with Lurin and the broader Lima water
+                          basins system (integrated by the Rimac, Chillón and Lurin basins) been one of the most water scarce basins in the country,
+                          representative of the situation faced in urban areas of the Pacific Region; and Lake Titicaca an area where water quality
+                          and the degradation of natural ecosystems is the defining challenge, rather than water scarcity. This, along with the
+                          socioeconomic priority and high level of readiness of WSS infrastructure subprojects, make of these two basins a perfect
+                          laboratory to test circular economy approaches for water security in different contexts, that can subsequently scaled up.
+
+
+                          Multiphase Programmatic Approach
+                          10.      The MPA offers flexibility by enabling a focus on immediate challenges and developing institutional capacity,
+                          case studies and pilots that serve as the foundation for longer-term changes in Phase II, with the learning agenda playing
+                          a crucial role for rollout at scale. Phase I infrastructure subprojects constitute priority sectoral interventions from the
+                          socioeconomic standpoint. Those subprojects have the required engineering designs and therefore present a high level of
+                          readiness. Yet these interventions were not designed consistently considering the principles of circular economy for water
+                          management and lack the multisectoral approach required to tap the full resource recovery potential of wastewater
+                          management activities. Moreover, mainstreaming circular economy and promoting efficient water use and the uptake of
+                          reclaimed water effluents, as well as increasing resilience to climate-induced droughts and floods, requires an appropriate
+                          governance framework that is not there yet. In this context, the MPA approach allows implementing priority infrastructure
+                          interventions, retrofitting their design and complementing them with technical assistance activities for the incorporation
+                          of circular economy principles, while in parallel develop and test innovative approaches for circular economy that can be
+                          applied at scale and adjusted in Phase II, informing required reforms for the application at the national level.
+
+
+
+
+                          5 On average, utilities apply a tariff of US$0.62 per cubic meter, well below the Latin America and Caribbean regional average of US$1.44
+
+
+
+                                                                                                                                                                       Page 5
+
+
+
+                                                                                                                                                               Official Use Only
+                                 The World Bank
+                                 Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          11.     The Program Development Objective (PrDO) is to “Increase access to inclusive and climate resilient water and
+                          sanitation services in selected basins adopting circular economy approaches”.
+                          12.      The achievement of the PrDO will be assessed using six result indicators. PrDO indicators cover aspects related
+                          to the three outcome areas of the WICER framework, i.e., deliver inclusive (PrDO indicators # 1 and 2) and climate resilient
+                          (PrDO indicator # 3 and 4) WSS services; design out waste and pollution (PrDO indicators # 5) and preserve and regenerate
+                          natural ecosystems (PrDO indicator #6):
+                          (a) PrDO indicator # 1: People provided with access to climate resilient drinking water services, disaggregated by gender.
+                          (b) PrDO indicator # 2: People provided with access to climate resilient sanitation services, disaggregated by gender.
+                          (c) PrDO indicator # 3: Reduction of Non-Revenue Water levels.
+                          (d) PrDO indicator # 4: Annual volume of reclaimed water used for industrial, agricultural and environmental applications.
+                          (e) PrDO indicator # 5: Renewable energy cogenerated in water treatment facilities developed under the program.
+                          (f) PrDO indicator # 6: Reduction Biological Oxygen Demand (BOD) discharges into the environment.
+
+                           C. Proposed Development Objective(s)
+                           Development Objective(s) (From PAD)
+                           13.      The Project Development Objective (PDO) of Phase I is to introduce circular economy principles in the WSS
+                           sector and increase access to inclusive and climate resilient WSS in selected basins.
+
+
+
+
+_For Official Use Only_
+                            Key Results
+                           14.    Progress will be measured against the five indicators:
+                          (a) Increase in the percentage of WSS investments adopting circular economy principles in the public investment
+                              system.
+                          (b) People provided with access to climate resilient drinking water services, disaggregated by gender and youth.
+                          (c) People provided with access to climate resilient sanitation services, disaggregated by gender and youth.
+                          (d) NRW levels in drinking water distribution networks intervened under the project.
+                          (e) Volume of reclaimed water used annually for agricultural, industrial or environmental applications in program
+                              intervention areas.
+
+                          D. Project Description
+                          15.      Phase I of the MPA consists of two components: (a) Infrastructure component and (b) Governance and Project
+                          Management component. The scope is described in the following paragraphs.
+                          16.      Component 1 - Infrastructure (US$248.3 million, including US$186.2 million in IBRD financing). This component
+                          will finance engineering services and works for the rehabilitation and expansion of WSS infrastructure in the Lake Titicaca
+                          and Lurín basins. The goals of this component are to design out waste and pollution from WSS services, preserve and
+                          regenerate natural ecosystems and increase access to inclusive and climate resilient services in the project intervention
+                          areas. The component consists of the following subcomponents:
+                            (i) Subcomponent 1.1 – WSS infrastructure in the Lake Titicaca Basin (US$225.0 million, including US$168.8 million in
+                                IBRD financing). This includes the rehabilitation and expansion of the WSS networks of the city of Puno, the
+                                development of the engineering designs of five WWTPs in the Puno region, as well as the consulting services for the
+                                supervision of works and engineering activities. Network works will also be accompanied by gender-sensitive citizen
+                                engagement activities to maximize sewer connectivity rates and ensure responsible use of WSS services. Works will
+                                be procured under three contracts: (a) one for the improvement and reconfiguration of the primary drinking water
+                                supply and main wastewater collection networks; (b) a second contract for the rehabilitation of the secondary
+
+                                                                                                                                                  Page 6
+
+
+
+                                                                                                                                          Official Use Only
+                            The World Bank
+                            Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          drinking water supply distribution and wastewater collection network in areas currently served by the utility; and (c)
+                          a third one for the expansion of the drinking water distribution and wastewater collection networks to currently
+                          unserved areas. All these investments are expected to result in significant emissions reductions, both associated with
+                          drinking water service delivery (46 percent annually relative to the baseline from 94,214 tCO2eq/yr to 51,357
+                          tCO2eq/yr) and with sanitation (26 percent, from 64,421 tCO2eq/yr to 47,481 tCO2eq/yr). These reductions are
+                          mainly due to the lower NRW levels, improved pumping efficiency, reduced reliance on private wells, water tankers
+                          and vacuum trucks, and reduction of fugitive emissions from septic tanks, cesspools and pits. More details on the
+                          activities under the subcomponent scope are included below:
+                          (a) Improvement, reconfiguration and operation of the primary drinking water supply and main wastewater
+                              collection networks (US$102.0 million, US$76.5 million IBRD). This includes the construction of a new
+                              subaquatic intake, raw water pumping station and transmission pipeline; the expansion, rehabilitation,
+                              retrofitting and assisted operation of the Aziruni drinking water treatment plant, the construction of new and
+                              rehabilitation of existing drinking water pumping stations, water mains and reservoirs; as well as the construction
+                              and rehabilitation of principal sewer mains and pumping stations to convey wastewater to El Espinar WWTP. The
+                              engineering designs of this infrastructure are ready and integrate climate-informed principles that enhance
+                              climate resilience of the supply and sewer systems and of the benefiting population. In fact, the subaquatic intake
+                              will be deeper than the existing one, which capacity is reduced during drought periods as the level of the lake
+                              descents. Moreover, its larger capacity, along with the larger capacity of the associated raw water pumping
+
+
+
+
+_For Official Use Only_
+                              stations and transmission pipeline, and of the drinking water treatment facility and drinking water reservoirs,
+                              allows to ensure continuity of service even when other water sources feeding the system lower their mobilization
+                              capacity during drought periods. Greater water distribution capacity will also allow for expanding the network,
+                              contributing to enhance the resilience against droughts of currently unserved families, and to reduce GHG (see
+                              paragraph below for more details). The construction and rehabilitation of sewer mains will result in a reduction
+                              of freshwater infiltration into the sewer system, which in turn will reduce the volumes to be pumped and will
+                              enhance the performance of the treatment facility. This, along with the renewal of pumping equipment, will
+                              enhance energy efficiency of service delivery and contribute to reducing GHG emissions.
+                          (b) Reconfiguration and rehabilitation of the secondary drinking water supply distribution and wastewater
+                              collection network in areas currently served by EMSAPUNO (US$68.0 million, US$51.0 million IBRD). The
+                              reconfiguration of the DMAs and the rehabilitation of the distribution networks will bring down significantly the
+                              NRW levels in the system, contributing both to adaptation (as more water will be available for distribution as
+                              losses decrease) and mitigation (as smaller volumes of water will have to be pumped to satisfy a given level of
+                              demand). On the other hand, and as for the case of principal sewer mains rehabilitation works, the rehabilitation
+                              of the secondary sewer network will increase the resilience against floods of the wastewater management
+                              system, as currently storm and groundwater infiltration represent around 30 percent of the volume conveyed by
+                              the network to the treatment facility, a value that is significantly higher during rainfall events.
+                          (c) Expansion of the drinking water distribution and wastewater collection networks to unserved areas (US$47.0
+                              million, US$35.3 million IBRD). The expansion of the water supply network will allow connecting households that
+                              rely on private wells (11.2 percent of the population) and water tankers (9.4 percent) contributing to enhance
+                              the resilience against droughts of currently unserved families, and to reduce GHG, as private wells (that require
+                              electricity to run) and tankers (that use fuel for service delivery) are displaced by the more energy efficient utility
+                              run water supply service. Similarly, the expansion of the sewer network will increase the climate resilience of
+                              unserved families, which will no longer rely on cesspools and pits that often collapse and overflow during floods.
+                          (d) Procurement strategy, engineering designs adopting CE principles and bidding documents for five WWTPs in
+                              Lake Titicaca basin (US$8.0 million, US$6.0 million IBRD), i.e. the Puno City, Moho, Ilave, Juli, and Ayaviri WWTPs.
+                              The procurement strategy will assess the potential different contractual approaches for leveraging private sector
+
+
+                                                                                                                                                Page 7
+
+
+
+                                                                                                                                        Official Use Only
+                                 The World Bank
+                                 Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                                     technical, managerial and financial capacity. The IFC/MIGA will collaborate with the task team for the
+                                     development of this procurement strategy as part of the one WBG joint implementation plan for Peru. The
+                                     project will also finance the development of the engineering designs for the facilities, which level of detail will be
+                                     determined by the choice of the procurement route. Bidding documents for these facilities will subsequently be
+                                     developed under the project, for procurement under Phase II. The designs will be developed to maximize
+                                     renewable energy cogeneration (contributing to climate change mitigation), recover valuable biosolids and
+                                     incorporate nature-based solutions where feasible. These WWTPs will also contribute to climate change
+                                     adaptation, reducing drought-exacerbated freshwater quality degradation in Lake Titicaca.
+                          (ii) Subcomponent 1.2 – WSS infrastructure in the Lurín Basin (US$23.3 million, US$17.5 million IBRD). This includes:
+                                (a) Procurement strategy, engineering designs adopting circular economy principles and bidding documents for
+                                     the Jose Galvez and Julio C. Tello WWTPs and associated WSS networks ((US$15.2 million, US$10.5 million
+                                     IBRD). Engineering designs will cover water reclamation and MAR facilities and a reuse scheme for land scaping
+                                     irrigation (see subcomponent 1.3). Under this activity the project will also develop the engineering designs for
+                                     the extension and rehabilitation of the drinking water supply and sewer network of the Pachacamac district.
+                                     These plants and the associated MAR and reuse schemes will contribute to increase climate resilience of water
+                                     services, as they will increase water availability and reduce climate change-exacerbated groundwater quality
+                                     degradation and aquifer depletion. Similarly, they will contribute to climate change mitigation, as the two WWTPs
+                                     will incorporate cogeneration facilities to capture methane emissions for renewable energy production.
+
+
+
+
+_For Official Use Only_
+                                (b) MAR pilot in the Lurín Basin (US$8.1 million, US$7.0 million IBRD). Lurin’s aquifer water table is descending, and
+                                     water quality is worsening due to over exploitation and climate change-induced lower river stream (which
+                                     translates into reduced aquifer recharge) and seawater level rise (which translates into greater saline intrusion).
+                                     The pilot will recharge the aquifer using treated wastewater from the existing Cieneguilla WWTP through
+                                     infiltration ponds and riverbed recharge systems, thus helping mitigate the aquifer’s water deficit, enhance
+                                     groundwater reserves, and improve water quality. The MAR pilot will also include hydrogeological assessments,
+                                     stakeholder engagement (focused on developing social acceptability of MAR), and scaling plans to address both
+                                     the immediate challenges of the Lurín Basin and long-term national water security objectives. The results of the
+                                     pilot project will serve to determine how and by how much water availability could be increased in the basin
+                                     using reclaimed water for MAR. This, along with the associated studies developed under component two, is
+                                     expected to inform the definition of regulations for MAR, the decision-making process to grant new groundwater
+                                     use rights associated to MAR initiatives, and the design of the wastewater treatment and reclamation facilities
+                                     of Julio C. Tello and José Galvez, which will be financed under Phase II to increase water availability for indirect
+                                     potable and irrigation reuse. This will allow SEDAPAL to revisit its plans to build a seawater desalination plan to
+                                     satisfy increasing water demand in the area (see technical appraisal section for more details), which would come
+                                     along with a significant increase of energy intensity and GHG emissions of drinking water supply activities.
+                          (iii) Subcomponent 1.3 – Designs for wastewater reuse schemes for the watering of parks and recreational areas in the
+                                Lurin Basin (US$0.5 million, US$0 million IBRD). Lima’s periurban areas located in the Lurin basin are experiencing
+                                rapid and unorganized growth, and local authorities are struggling to keep up with the provision of essential services
+                                for the well-being of local communities. This does not exclusively relate to the WSS, but also others like access to
+                                parks and recreational areas. Villa Maria del Triunfo, where the José Gálvez WWTP is located, is the district of Lima
+                                with the lowest ratio of green areas: 0.54 m2/inhabitant. This value is significantly lower than the target set by WHO
+                                of 9 m2/inhabitant. In this context, the program will finance a reuse scheme for landscaping applications, allowing
+                                for the irrigation of two new parks, also to be developed under the program in the vicinity of the treatment facility.
+                                This subcomponent will finance the required designs, and works will be implemented under Phase II. One of the two
+                                parks, located across the fence of the José Gálvez facility, will host a permanent water and circular economy
+
+
+
+                                                                                                                                                      Page 8
+
+
+
+                                                                                                                                              Official Use Only
+                                  The World Bank
+                                  Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                               education and visitor center, to expose and sensibilize local communities about the importance of preserving water
+                               and associated ecosystems. This center will contribute to building social acceptance of water reclamation and reuse.
+                          17.      Component 2 – Governance and Project Management (US18.1 million, including US$13.6 million in IBRD
+                          financing). This includes: (a) Governance and (b) Project Management subcomponents.
+                          (i) Subcomponent 2.1. – Governance (US$6.8 million, US$5.1 million IBRD). Activities included under this component
+                               will develop the capacity of sector stakeholders to enhance climate adaptation and mitigate the climate impact of
+                               WSS service delivery, creating the required enabling environment for the scaling up of initiatives aimed at reducing
+                               NRW, increasing energy efficiency, reclaiming and reusing water, cogenerating renewable energy and recovering
+                               valuable resources from wastewater effluents. These activities are described below:
+                               (a) Supporting the implementation of the WSS circular economy roadmap (US$0.6 million, US$0.5 million IBRD).
+                                     This subcomponent will focus on informing the creation of policy and regulatory incentives for the adoption of
+                                     circular economy principles for water service delivery. Activities will include: (i) the definition of technical norms
+                                     and guidelines for the development of WSS infrastructure adopting circular economy principles; (ii) the definition
+                                     of WSS circular economy indicators for their inclusion in the national investment system, and the establishment
+                                     of associated baselines and targets, as well as the update of methodological tools for the formulation and
+                                     evaluation of WSS investments in the public investment system; (iii) the identification of policy and regulatory
+                                     barriers and proposal of required reforms to tap the full potential of circular economy to improve water security
+                                     and climate adaptation of WSS services; and (iv) studies and pilots to inform the regulations of MAR initiatives.
+
+
+
+
+_For Official Use Only_
+                               (b) Strengthening the capacity of key MVCS’ institutions and directorates (US$2.3 million, US$1.7 million IBRD).
+                                     This subcomponent will finance goods, consulting and not consulting services aimed at strengthening the
+                                     capacity of: (i) the two PIUs of the project (PASLC and PNSU) to design and implement WSS infrastructure works
+                                     adopting circular economy principles and integrating climate-informed principles in engineering designs to
+                                     enhance climate resilience; (ii) MVCS’ General Directorate for Construction and Sanitation Programs and Projects
+                                     (DGPPCS) to identify, prepare and manage PPP projects incorporating circular economy and climate resilience
+                                     principles, and (iii) MVCS’ General Directorate for Environmental Affairs (DGAA) to monitor the performance of
+                                     wastewater treatment and reclamation facilities. The technical assistance to DGPPCS includes, among others,
+                                     support to perform a screening of wastewater treatment, resource recovery and wastewater reuse projects at
+                                     the national level with potential to leverage private capital and know-how, conceptualizing procurement and
+                                     management models that could be adopted to structure and bid the corresponding transaction in Phase II.
+                               (c) Build institutional capacity of selected water utilities (US$3.9 million, US$2.9 million IBRD). This
+                                     subcomponent will finance: (i) consulting services for the development of circular economy and water security
+                                     master plans for SEDAPAL and EMSAPUNO, aligned with the National WSS Circular Economy Roadmap, which
+                                     will look at required infrastructure investments (both grey infrastructure and nature-based solutions) with
+                                     circular economy, climate resilience and climate change mitigation lenses and will incorporate financing,
+                                     communication, stakeholder engagement and business plans focused on the creation of a market for reclaimed
+                                     water and treatment byproducts, such as biosolids; and (ii) technical assistance and capacity-building activities
+                                     for SEDAPAL and EMSAPUNO to ensure sound management of the infrastructure to be financed through the
+                                     project, thereby ensuring its sustainability. In the case of EMSAPUNO, given its weak financial and management
+                                     capacity, the technical assistance will be comprehensive and will cover all aspects of utility management and will
+                                     be implemented following World Bank’s “Utility Turnaround” and “Utilities of the Future” frameworks6. The
+                                     technical assistance provided to the utilities will also support SEDAPAL and EMSAPUNO to develop and adopt
+                                     emergency preparedness and response plans to manage climate change induced natural disasters, such as floods
+
+                          6
+                           The Utilities of the Future Program supports water and sanitation utilities in adopting innovative, strategic management approaches. By enhancing
+                          operational efficiency, resilience, and adaptability, the program enables utilities to deliver reliable, inclusive, and sustainable services.
+
+                                                                                                                                                                       Page 9
+
+
+
+                                                                                                                                                              Official Use Only
+                                 The World Bank
+                                 Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                                    and droughts. Likewise, the assistance will identify the barriers and root causes of women’s underrepresentation
+                                    in managerial positions and in the definition and implementation of an action plan to tackle identified barriers,
+                                    with the objective to increase the share of women in such positions. This may require attracting and hiring more
+                                    women into the sector or improving working conditions to ensure the retention and professional growth
+                                    opportunities of existing female employees, such as by identifying and offering solutions to help them better
+                                    manage childcare responsibilities, provide access to trainings and mentoring programs.
+                          (ii) Subcomponent 2.2– Project Management (US$11.3 million, including US$8.5 million in IBRD financing). This
+                               subcomponent will finance the procurement of goods, consulting and non-consulting services for the management
+                               of project implementation activities, including monitoring and evaluation (M&E), procurement, financial (FM),
+                               environmental and social (E&S) management.
+
+                           @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+                           Legal Operational Policies                                                               Triggered?
+                           Projects on International Waterways OP 7.50                                              Yes
+                           Projects in Disputed Area OP 7.60                                                        No
+
+
+
+
+_For Official Use Only_
+                          Summary of Screening of Environmental and Social Risks and Impacts
+
+
+                          18.      The environmental and social risks of the project are considered substantial, and trigger the Environmental and
+                          Social Standards (ESS) related to the Assessment and Management of Environmental and Social Risks and Impacts (ESS1),
+                          Labor and Working Conditions (ESS2), Resource Efficiency and Pollution Prevention and Management (ESS3), Community
+                          Health and Safety (ESS4), Land Acquisition, Restrictions on Land Use and Involuntary Resettlement (ESS5), Biodiversity
+                          Conservation and Sustainable Management of Living Natural Resources (ESS6), Indigenous Peoples (ESS7), Cultural
+                          Heritage (ESS8), and Stakeholder Engagement and Information Disclosure (ESS10). The Substantial rating is associated to
+                          potential impacts of the construction and operation of drinking water supply and wastewater collection and treatment
+                          infrastructure in Puno, and to MAR activities in Lurín. No adverse impacts are expected from the development of analytical
+                          activities included in the governance component and the engineering designs for works to be implemented in Phase II of
+                          the MPA. At this stage, the E&S risks of Phase II of the MPA are expected to be in similar magnitude to those of Phase I.
+                          However, these will be assessed as part of the preparation of each Phase, adjusting the corresponding ratings as necessary,
+                          and seeking Regional Safeguards Advisor clearance if the ESF risk for any of the future Phases is determined High.
+                          19.      The rehabilitation and expansion of drinking water supply and sanitation infrastructure in Puno City involves
+                          large-scale construction activities, which may lead to temporary, site-specific, and reversible environmental impacts.
+                          These potential impacts relate to: (i) resource consumption, (ii) disposal of sludge, debris and hazardous material
+                          (asbestos), (iii) traffic disruptions, (iv) dust and noise nuisances, (v) air quality deterioration, and (vi) risks to community
+                          and worker safety. Additional risks include potential pollution of Lake Titicaca or ecosystem impacts during the
+                          construction Phase, due to the proximity of some facilities to the Lake Titicaca National Reserve, i.e., raw water intake and
+                          transmission infrastructure, a reservoir, and five pumping stations.
+                          20.      The risk of environmental impacts on Lake Titicaca during the operational Phase of the Puno WSS infrastructure
+                          is mitigated by the measures described in the technical appraisal section. The new treatment facility to be constructed
+                          on the premises where El Espinar WWTP is located is expected to be operational before the completion of the WSS
+                          network’s rehabilitation and extension works. Nevertheless, to mitigate the risk associated with potential delays in the
+                          construction of this facility, the contract for the expansion of the network will not be bided until the contract for the
+
+                                                                                                                                                    Page 10
+
+
+
+                                                                                                                                             Official Use Only
+                                 The World Bank
+                                 Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          construction of the new treatment facility has been awarded. Similarly, works for the expansion of bulk water supply
+                          capacity and the rehabilitation of the WSS network in served areas will be contingent on the completion of dredging
+                          activities currently under implementation by EMSAPUNO to recover the nominal capacity of El Espinar. This will ensure
+                          that project activities in Puno do not result in any incremental environmental impact. Additional complementary
+                          preventive measures to ensure appropriate O&M of the treatment facility and monitoring of effluent discharges will be
+                          established in the corresponding Environmental and Social Management Plans (ESMPs).
+                          21.       The MAR pilot also poses environmental risks during construction and operation. Main construction phase
+                          environmental risks relate to: (i) water quality, (ii) hydrological changes, and (iii) regulatory and management complexities
+                          which will be mitigated through hydrogeological assessments, and adherence to circular economy principles. During
+                          operation, risks include Cieneguilla WWTP underperformance, which could adversely affect ground water quality. These
+                          risks will be addressed through rigorous planning, and the implementation of best practices for E&S management.
+                          22.       The social risk rating is considered Substantial based on the project scope, the sensitivity of the social context
+                          (mainly in Puno), and the potential need for land acquisition. The main social risks and impacts that contribute to this
+                          rating include: (i) physical and economic displacement associated to easements and land acquisition potentially needed
+                          in Puno and/or Lurín; (ii) potential opposition from local communities to the construction of wastewater treatment plants
+                          in Puno, or to the use of reclaimed water for the aquifer recharge in Lurin; (iii) a high sensitivity of the social and political
+                          context in Puno with high levels of citizen participation and mobilization capacity, recent experiences of social conflicts
+                          with the government, and high urgence/interest for the project; (iv) misinformation from the local media in Puno; (v)
+
+
+
+
+_For Official Use Only_
+                          presence of indigenous peoples in the areas where three WWTPs are to be constructed under Phase II (Ayaviri, Juli and
+                          Moho) for which the Project will finance the engineering designs and social and environmental studies; (vi) typical impacts
+                          associated to the execution of civil works (such as noise, dust, odors and traffic disruptions), which can affect the
+                          relationship with local communities; (vii) risks of non-compliance with labor regulations covered by ESS2, including hiring
+                          modalities and occupational health and safety risks for project workers; (viii) potential exclusion of vulnerable groups from
+                          project benefits; and (ix) low institutional capacity of EMSAPUNO and Puno local government.
+                          23.       While ESS5 is considered relevant, the need for land acquisition and resettlement is expected to be minimal, if
+                          necessary at all. Although the Borrower indicated that all land and areas necessary for the works in Puno City has been
+                          acquired and paid for, changes in the design may arise during project implementation, requiring the acquisition of new
+                          areas. Additionally, it is also possible that some properties already acquired in Puno could be occupied and/or used by
+                          other individuals who do not have legal rights to the land or the property, under national law. Consequently, there could
+                          be a need to evict these individuals. In these situations, the Borrower would have to prepare and implement a
+                          Resettlement Action Plan in accordance with the ESS5, and would need resources to finance these activities. Considering
+                          that: (i) there are gaps between ESS5 and national regulations, which could limits the Borrower’s ability to meet the ESS5
+                          requirements, particularly regarding the “replacement cost” and cash compensations paid before land taking, (ii) there
+                          may be insufficient funds to cover these payments in the Local Governments or the WSS utility, as well as an overlapping
+                          responsabilities between the different institutions involved; and (iii) the impossibility of acquiring the affected areas in a
+                          timely manner, would result in significant delays for project execution. Budgetary provisions for “Land Expenditures” will
+                          be included in the Legal Agreement, for Activity 1.1 and 1.2(b)., to proactively manage these potential risks. If the need
+                          for land acquisition, or restrictions on land use, causing Involuntary Resettlement is confirmed, the PIU will prepare a
+                          Ressettlement Action Plan in accordance with the ESS5, prior to implementing any activities or works in those areas.
+                          24.       Proposed measures for the management and mitigation of E&S risks and impacts. The PIU is preparing the
+                          instruments listed below to manage E&S risks and impacts. The Environmental and Social Commitment Plan (ESCP)
+                          establishes the obligation of the PIUs to finalize E&S management instruments according to the calendar detailed below,
+                          along with the implementation of other agreements related to capacity building:
+                          (a) Already prepared and disclosed instruments:
+                              (i) Environmental and Social Commitment Plan (ESCP).
+
+                                                                                                                                                     Page 11
+
+
+
+                                                                                                                                              Official Use Only
+                                 The World Bank
+                                 Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                             (ii) Stakeholder Engagement Plan (SEP).
+                             (iii) Environmental Impact Assessment of Puno city WSS network rehabilitation and expansion works. These works have
+                                   an Environmental License granted based on a semi detailed Environmental and Social Impact Study (ESIAsd)
+                                   approved by the MVCS in July 2021 and valid until July 2026.
+                             (iv) Environmental and Social Assessment (ESA) of the Puno WSS network rehabilitation and expansion works. The ESA
+                                   included a gap analysis of the EIAsd. This document includes guidelines for the preparation of a Supplementary
+                                   Environmental and Social Impact Assessment (S-ESIA) to fill identified gaps.
+                          (b) Instruments to be prepared during implementation and prior to initiating the bidding process of the different works:
+                             (i) S- ESIA for the Puno city WSS network rehabilitation and expansion works.
+                             (ii) ESMPs for works to be implemented under Phase I (MAR pilot and Puno city WSS network works).
+                             (iii) Resettlement Action Plans, if needed.
+                             (iv) Archeological Management Plan for the Julio C. Tello WWTP. the Julio C. Tello WWTP is adjacent to the
+                                   Archaeological Sanctuary of Pachacamac and is within its buffer zone.
+                             (v) Archeological “chance and find” procedures for works to be performed in the City of Puno. Lake Titicaca is included
+                                   in the indicative list of the World Heritage of the UNESCO Convention of 1972 as a mixed site.
+                             (vi) Environmental Assessments for the 7 WWTPs to be designed under the Project.
+                            E. Implementation
+
+
+
+
+_For Official Use Only_
+                            Institutional and Implementation Arrangements
+                          25.       The Government of Peru will be the Borrower and will be represented by the Ministry of Economy and Finance
+                          (MEF), which will be responsible for the allocation of loan and counterpart resources to MVCS’ annual budget.
+                          26.       Two of the three infrastructure development agencies operating in the WSS sector under the control of MVCS
+                          will play the role of PIUs. These two agencies are PASLC, in charge of the design and development of WSS infrastructure
+                          in the Lima Metropolitan area, and PNSU, with a similar mandate but for all other urban areas of the country. After
+                          commissioning, infrastructure developed by PASLC (the MAR pilot) and PNSU (Puno city WSS network) will be transferred
+                          to the corresponding utility, i.e., SEDAPAL and EMSAPUNO, for operation.
+                          27.       PASLC will oversee all works and engineering designs of infrastructure to be developed in the Lima
+                          metropolitan area and of technical assistance to be provided to SEDAPAL. For Phase I, this includes (i) the
+                          implementation of the MAR pilot; (ii) the preparation of the procurement strategy, engineering designs and bidding
+                          documents of the Julio C. Tello and José Galvez WWTPs; (iii) the design of the WSS network in the Pachacamac district;
+                          (iv) the design of the Villa Maria del Triunfo parks and reuse scheme for land scaping operations; and (v) the development
+                          of SEDAPAL’s circular economy and water security master plan. PASLC will be responsible for all technical, fiduciary,
+                          environmental and social (E&S) management aspects.
+                          28.       Besides the design and implementation of works in the Puno province and of activities included under the
+                          governance component, PNSU will be responsible for consolidating interim financial reports for the project and
+                          preparing the annual financial audit report. The scope of activities included under the responsibility of PNSU includes: (i)
+                          the supervision and implementation of the works for the extension and rehabilitation of the WSS networks of the city of
+                          Puno; (ii) the preparation of the procurement strategy, engineering designs and bidding documents of the Puno, Moho,
+                          Ayaviri, Ilave and Juli WWTPs; (iii) the development of EMSAPUNO’s circular economy and water security master plan,
+                          including the technical assistance to strengthen utility managerial, technical and financial capacity; (v) the technical
+                          assistance to the DGPPCS and DGAA to prepare and manage WSS PPP projects and to monitor the performance of water
+                          treatment and reclamation facilities; and (vi) the technical assistance to the MVCS to identify regulatory barriers and
+                          solutions to incentivize the adoption of circular economy principles for service delivery, the development of technical
+                          norms for circular economy in WSS, the screening of water reclamation, resource recovery and reuse opportunities across
+                          the country, and the conceptualization of sustainable management models for wastewater treatment and reuse. As for
+
+
+                                                                                                                                                 Page 12
+
+
+
+                                                                                                                                          Official Use Only
+                                 The World Bank
+                                 Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                          the case of PASLC, PNSU will be responsible for managing all fiduciary, technical, E&S dimensions of these activities. PNSU
+                          will also consolidate interim financial reports for the project and will prepare an annual audit report.
+                          29.      The DGPPCS will be responsible for overall project coordination and oversight. A dedicated team, led by a project
+                          director and comprising technical and administrative staff, will be set up within the DGPPCS for this. This team will be
+                          responsible for: (i) the overall technical management of the program, (ii) the preparation of the terms of reference (ToR)
+                          for activities to be developed under the governance component; (iii) the coordination between benefiting entities
+                          (DGPRCS, DGPPCS, DGAA, SEDAPAL and EMSAPUNO) and the PIUs, (iv) the monitoring and evaluation of the project,
+                          including the consolidation of technical reports in accordance with the loan agreement requirements.
+                          30.      A Project Advisory Committee (PAC) will be established for each Phase of the program. The PAC will report
+                          hierarchically to the Deputy Minister of Construction and Sanitation (who will chair the PAC), and it will be composed of a
+                          representative of MEF, the directors of DGPPCS, DGAA, and DGPRCS, as well as by the executive directors of PNSU and
+                          PASLC. The PAC will provide overall guidance, oversight and monitoring of the projects. It will approve the original project
+                          operation manual (POM) and will be informed on any subsequent modifications, authorize changes in key project staff to
+                          ensure continuity, and prevent political instability from affecting project performance. The PAC will also help projects’
+                          PIUs to unbundle bottlenecks and barriers affecting project performance and bring them to the attention of relevant
+                          authorities, directly or through the PCC, depending on their nature. Figure 3 illustrates the implementation arrangements.
+                          31.      The ICC is part of the Unidos por el Agua platform, led by the MVCS, with MIDAGRI, ANA, MINAM, and the
+                          private sector as permanent members. Its objective is to offer a permanent space for dialogue between public and private
+
+
+
+
+_For Official Use Only_
+                          actors, academia, and international cooperation, to report on the MPA progress, find mechanisms for public-private
+                          collaboration, and specific spaces for intervention with a contribution from the private sector in the MPA intervention
+                          areas. The ICC will analyze lessons learned through implementation, identifying institutional, policy, and regulatory
+                          barriers that may hinder the program’s success, and formulating reforms needed to scale up water security and circular
+                          economy approaches nationally, based on the analytical work performed as part of the governance component, and
+                          engage with other sector stakeholders to facilitate the required policy dialogue to push for identified governance reforms.
+                          Other non-permanent members that could be invited to ICC sessions, depending on the area of discussion, include the
+                          ministry of energy, the economic regulator of WSS services (SUNASS), Proinversión and industry and professional
+                          associations. A World-Bank funded non-lending technical assistance will support the functioning of the ICC.
+
+                           @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+                           CONTACT POINT
+
+                           World Bank
+                             Malva Baskovich
+                             Senior Water Supply and Sanitation Specialist
+
+                             Zael Sanz Uriarte
+                             Senior Water Supply and Sanitation Specialist
+
+                           Borrower/Client/Recipient
+                            Republic of Peru
+
+                           Implementing Agencies
+
+
+
+                                                                                                                                                 Page 13
+
+
+
+                                                                                                                                          Official Use Only
+                               The World Bank
+                               Peru: Wastewater Management and Circular Economy (P505093)
+
+
+                           Ministry of Housing Construction and Sanitation
+                           Darwin Francisco Pardavé Pinto
+                           General Director of the General Directorate of Programs and Projects in Construction and Sanitation
+                           dpardave@vivienda.gob.pe
+
+                           Safe Water Program for Lima and Callao - PASLC
+                           Giovanna De Lourdes Almeida Ramos
+                           Executive Director of the Safe Water Program for Lima and Callao
+                           galmeida@vivienda.gob.pe
+
+                           National Urban Sanitation Program - PNSU
+                           Eleazar Enrique Lozano García
+                           Executive Director
+                           elozano@vivienda.gob.pe
+
+                          FOR MORE INFORMATION CONTACT
+
+                          The World Bank
+
+
+
+
+_For Official Use Only_
+                          1818 H Street, NW
+                          Washington, D.C. 20433
+                          Telephone: (202) 473-1000
+                          Web: http://www.worldbank.org/projects
+
+                          @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+                          APPROVAL
+
+
+                          Task Team Leader(s):                     Malva Baskovich, Zael Sanz Uriarte
+
+                          Approved By
+
+                          Practice Manager/Manager:                David Michaud                           15-May-2025
+
+                          Country Director:                        Oliver Braedt                           07-Jul-2025
+
+
+
+
+                                                                                                                                        Page 14
+
+
+
+                                                                                                                                 Official Use Only
+

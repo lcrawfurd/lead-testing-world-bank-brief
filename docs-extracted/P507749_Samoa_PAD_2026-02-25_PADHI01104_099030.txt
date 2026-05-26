@@ -1,0 +1,2144 @@
+Public Disclosure Authorized                                               FOR OFFICIAL USE ONLY
+                                                                                                                           Report No: PADHI01104
+
+                                                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+Public Disclosure Authorized
+                                                                 PROJECT APPRAISAL DOCUMENT
+                                                                              ON A
+                                                                        PROPOSED GRANT
+                                                              IN THE AMOUNT OF SDR 14.5 MILLION
+                                                                  (US$20.0 MILLION EQUIVALENT)
+                                                                              AND A
+                                                                        PROPOSED CREDIT
+                                                               IN THE AMOUNT OF SDR 7.3 MILLION
+                                                                  (US$10.0 MILLION EQUIVALENT)
+                                                                              AND A
+                                                  PROPOSED SYSTEMATIC OBSERVATIONS FINANCING FACILITY GRANT
+
+
+
+
+Public Disclosure Authorized
+                                                               IN THE AMOUNT OF US$5.0 MILLION
+
+                                                                                    TO THE
+
+                                                                      INDEPENDENT STATE OF SAMOA
+
+                                                                                     FOR A
+
+                                           PACIFIC REGION PREPAREDNESS, ADAPTATION AND RESILIENCE - SAMOA PROJECT
+                                                                          (P507749)
+
+
+
+
+Public Disclosure Authorized
+                                                                              FEBRUARY 25, 2026
+
+
+
+
+                                Urban, Disaster Risk Management, Resilience and Land
+                                East Asia And Pacific
+
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+                         CURRENCY EQUIVALENTS
+
+                (Exchange Rate Effective January 31, 2026)
+
+                  Currency Unit =      SAMOAN TALA (SAT)
+                     SAT2.68 =                  US$1
+                     US$1.38 =                 SDR 1
+                     SDR 0.72 =                 US$1
+
+                                FISCAL YEAR
+                              JULY 1 – JUNE 30
+
+
+
+
+  Regional Vice President: Carlos Felipe Jaramillo
+Regional Practice Director: Sudeshna Ghosh Banerjee
+        Division Director: Stephen N. Ndegwa
+       Practice Manager: Björn Philipp
+      Task Team Leaders: Jian Vun, Jessica Rachel Schmidt, Vica Rosario Bogaerts
+                              ABBREVIATIONS AND ACRONYMS
+
+ACEO         Assistant Chief Executive Officer
+AM           Accountability mechanism
+ADB          Asian Development Bank
+BSRPII       Building Safety and Resilience in the Pacific II
+Cat DDO      Catastrophe Deferred Drawdown Option
+CEO          Chief executive officer
+CERC         Contingent Emergency Response Component
+CIM          Community Integrated Management
+CRSC         Climate Resilience Steering Committee
+CTSSU        Centralized Technical Services Support Unit
+Das          Designated Accounts
+DRM          Disaster risk management
+E&S          Environmental and social
+EIRR         economic internal rate of return
+ESCP         Environmental and Social Commitment Plan
+ESF          Environmental and Social Framework
+ESMF         Environmental and Social Management Framework
+EP&R         Emergency Preparedness and Response
+ESS          Environmental and Social Standard
+FM           Financial Management
+FGRM         Feedback and Grievance Redress Mechanism
+GBON         Global Basic Observing Network
+GDP          Gross domestic product
+GFDRR        Global Facility for Disaster Reduction and Recovery
+GHG          Greenhouse gas
+GRS          Grievance Redress Service
+IBRD         International Bank for Reconstruction and Development.
+IDA          International Development Association
+IAs          Implementing Agency
+ICT          Information Communications and Technology
+IPF          Investment Project Financing
+MHRA         Multi-Hazard Risk Assessment
+MNRE         Ministry of Natural Resources and Environment
+MoF          Ministry of Finance
+MWTI         Ministry of Works, Transport and Infrastructure
+MWTI-PMD     Ministry of Works, Transport, and Infrastructure Project Management Division
+MHEWS        Multi-Hazard Early Warning Systems
+MTR          Mid-Term Review
+NEOC         National Emergency Operations Center
+NDC          Nationally Determined Contributions
+NPV          net present value
+O&M          Operations and Maintenance
+ORSNET       Oceania Regional Seismic Network
+PDO          Project Development Objective
+PHWP         Pacific Humanitarian Warehousing Program
+PICs         Pacific Island Countries
+POM          Project Operations Manual
+PREP-Samoa   Pacific Resilience Program – Samoa Project
+RF           Results Framework
+SEP          Stakeholder Engagement Plan
+SESA         Strategic Environmental and Social Assessment
+SMP          Sustainable Management Plan
+SOFF         Systematic Observations Financing Facility
+SOC          Seismic Operations Center
+SOP          Standard Operating Procedures
+SORT         Systematic Operations Risk-Rating Tool
+                                                      Official Use Only
+SPC     The Pacific Community
+STEP    Systematic Tracking of Exchanges in Procurement
+ToRs    terms of references
+TWG     Technical Working Group
+UNDRR   United Nations Office for Disaster Risk Reduction
+WASH    Water, Sanitation and Hygiene
+WMO     World Meteorological Organization
+
+
+
+
+                                                  Official Use Only
+The World Bank
+Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                                     PROJECT APPRAISAL DOCUMENT
+(P507749)
+
+
+
+                                                             TABLE OF CONTENTS
+
+ DATASHEET ........................................................................................................................... i
+ I.    STRATEGIC CONTEXT ..................................................................................................... 1
+       A. Project Strategic Context .................................................................................................................1
+       B. Sectoral and Institutional Context ...................................................................................................1
+ II.   PROJECT DESCRIPTION .................................................................................................. 6
+       A. Project Development Objective .......................................................................................................6
+       B. Theory of Change and PDO Indicators .............................................................................................6
+       C. Project Beneficiaries ........................................................................................................................7
+       D. Project Components ........................................................................................................................7
+       E. Role of Partners ..............................................................................................................................11
+       F. Lessons Learned and Reflected in the Project Design....................................................................12
+ III. PROJECT IMPLEMENTATION ........................................................................................ 14
+       A. Institutional and Implementation Arrangements ..........................................................................14
+       B. Results Monitoring, Evaluation, and Verification Arrangements ..................................................15
+       C. Disbursement Arrangements .........................................................................................................16
+ IV. PROJECT APPRAISAL SUMMARY .................................................................................. 16
+       A. Technical, Economic and Financial Analysis (if applicable)............................................................16
+       B. Fiduciary .........................................................................................................................................20
+       C. Environmental, Social and Legal Operational Policies ...................................................................21
+       D. Grievance Redress Services ...........................................................................................................22
+ V. KEY RISKS .................................................................................................................... 22
+ ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 23
+
+
+
+
+                                                                   Official Use Only
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                PROJECT APPRAISAL DOCUMENT
+     (P507749)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Samoa                    Pacific Region Preparedness, Adaptation and Resilience - Samoa Project
+                                                      Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                      Classification
+                         Investment Project
+P507749                                               Substantial
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+Financing & Implementation Modalities
+[ ] Multiphase Programmatic Approach (MPA)                        [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                      [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                           [✓] Small State(s)
+[ ] Financial Intermediaries (FI)                                 [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                       [ ] Conflict
+[ ] Deferred Drawdown                                             [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                    [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                  Expected Closing Date
+19-Mar-2026                             31-Dec-2031
+Bank/IFC Collaboration
+No
+
+
+Proposed Development Objective(s)
+To strengthen disaster preparedness and increase resilience to climate and disaster risks, and in case of an eligible crisis
+or emergency, respond promptly and effectively to it.
+
+Components
+ Component Name                                                                                                Cost (US$)
+
+
+                                                                                                                            i
+                                                     Official Use Only
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa Project           PROJECT APPRAISAL DOCUMENT
+     (P507749)
+
+
+
+ Component 1: Hazard Monitoring and Early Warning Systems                                              10,800,000.00
+ Component 2: Emergency Preparedness and Response                                                       7,200,000.00
+ Component 3: Resilient Infrastructure                                                                 15,000,000.00
+ Component 4: Project Management                                                                        1,500,000.00
+ Component 5: Contingent Emergency Response Component                                                     500,000.00
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+ Borrower:                       Independent State of Samoa
+
+ Implementing Agency:           Ministry of Finance, Ministry of Natural Resources and Environment, Ministry of
+                                Works, Transport and Infrastructure
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+
+  Total Operation Cost                                                                                            35.00
+
+  Total Financing                                                                                                 35.00
+             of which IBRD/IDA                                                                                    30.00
+
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                                    30.00
+
+      IDA Credit                                                                                                  10.00
+
+      IDA Grant                                                                                                   20.00
+
+
+
+                                                                                                                          ii
+                                                   Official Use Only
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                        PROJECT APPRAISAL DOCUMENT
+     (P507749)
+
+
+
+ Non-World Bank Group Financing
+   Trust Funds                                                                                                          5.00
+
+        Global Facility for Disaster Reduction and Recovery                                                             5.00
+
+
+IDA Resources (US$, Millions)
+
+                                                                                                    Guarantee
+                             Credit Amount        Grant Amount             SML Amount                            Total Amount
+                                                                                                      Amount
+
+National
+Performance-Based                      10.00                  20.00                 0.00                 0.00           30.00
+Allocations (PBA)
+
+Total                                  10.00                  20.00                 0.00                 0.00           30.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year                 2026             2027            2028                2029             2030          2031         2032
+
+Annual                0.57            4.50           10.00                7.00             4.00           2.00        1.50
+Cumulative            0.57            5.07           15.07               22.07             26.07         28.07       29.57
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                                  Contributing Practice Areas
+Urban, Resilience and Land
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+
+
+
+                                                                                                                             iii
+                                                       Official Use Only
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa Project             PROJECT APPRAISAL DOCUMENT
+     (P507749)
+
+
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                 ⚫ Moderate
+2. Macroeconomic                                                            ⚫ Moderate
+3. Sector Strategies and Policies                                           ⚫ Low
+4. Technical Design of Project or Program                                   ⚫ Moderate
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Moderate
+6. Fiduciary                                                                ⚫ Moderate
+7. Environment and Social                                                   ⚫ Substantial
+8. Stakeholders                                                             ⚫ Low
+9. Overall                                                                  ⚫ Moderate
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                      Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                     Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                            Relevant
+ESS 2: Labor and Working Conditions                                                  Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                   Relevant
+ESS 4: Community Health and Safety                                                   Relevant
+
+
+                                                                                                               iv
+                                                    Official Use Only
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa Project             PROJECT APPRAISAL DOCUMENT
+     (P507749)
+
+
+
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                            Relevant
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+Schedule 2, Section I.A.2. The Recipient shall maintain, throughout the Project implementation period, a Climate
+Resilience Steering Committee, with a mandate, composition and resources satisfactory to the Association, which shall
+be responsible for providing overall policy guidance and strategic direction for the Project, as well as approving the
+Annual Work Plan and Budget.
+Schedule 2, Section I.A.4. The Recipient shall establish and thereafter maintain, throughout the Project implementation
+period, a Technical Working Group, with a mandate, composition and resources satisfactory to the Association, which
+shall be responsible for supporting the detailed preparation and implementation of the Project, including providing
+technical inputs to the design and implementation of Project activities.
+Schedule 2, Section I.A.5.a. The Recipient shall maintain, throughout the Project implementation period, a Project
+Management Division (PMD) within the Ministry of Works, Transport and Infrastructure (MWTI), with a mandate,
+composition and resources satisfactory to the Association, which shall be responsible for: (i) carrying out the day-to-day
+management and implementation of the Project, and (ii) in collaboration with the Ministry of Finance (MOF) and the
+Ministry of Natural Resources and Environment (MNRE), and with support from the Central Technical Services Support
+Unit (CTSSU) as necessary, preparing and/or consolidating the Annual Work Plans and Budgets, Project Reports for each
+calendar semester, and any other reports to be submitted to the Association under the Project, for submission to MOF.
+Schedule 2, Section I.A.5.b. The Recipient shall, no later than four (4) months after the Effective Date, appoint, with
+terms of reference, qualifications and experience satisfactory to the Association: a procurement officer, financial
+management officer, safeguards officer, and monitoring and evaluation officer; and thereafter maintain all such
+positions throughout the Project implementation period.
+Schedule 2, Section I.A.6. The Recipient shall maintain, throughout the Project implementation period, within MOF, a
+CTSSU, with a mandate, composition and resources satisfactory to the Association, which shall be responsible for
+providing high-level oversight and guidance, training and support on Project implementation, and (B) coordinating and
+collaborating with PMD and MNRE as necessary for Project implementation.
+Schedule 2, Section I.B.1. The Recipient shall prepare and adopt, by no later than one (1) month after the Effective Date,
+a manual, in form and substance acceptable to the Association, setting forth the arrangements and procedures for
+implementation of the Project.
+
+
+                                                                                                                        v
+                                                    Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project               PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+
+Schedule 2, Section I.D.1. The Recipient shall prepare and furnish to the Association, by no later than June 30 of each
+year during Project implementation (or such later date as the Association may agree), for the Association’s review and
+no-objection, an Annual Work Plan and Budget.
+Schedule 2, Section II.1. The Recipient shall furnish to the Association each Project Report not later than forty-five (45)
+days after the end of each calendar semester, covering the calendar semester.
+Schedule 2, Section II.2. The Recipient shall carry out, jointly with the Association, not later than three (3) years after
+the Effective Date, or such other period as may be agreed with the Association, a mid-term review of the Project (the
+“Mid-Term Review”) to assess the status of Project implementation, as measured against the Project indicators
+acceptable to the Association, and compliance with the legal covenants included or referred to in this Agreement.
+Schedule 2, Section II.2. i. The Recipient shall prepare and furnish to the Association, at least one (1) month before the
+date of the Mid-Term Review, a report, in scope and detail satisfactory to the Association.
+Article IV, Section 4.01. The Co-financing Deadline for the effectiveness of the Grant Agreement is six (6) months from
+the Effective Date.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                           Citation                         Description                    Financing Source
+                                                                The Recipient has
+Effectiveness                  Schedule 1, Section 5.01.        established the Technical      IBRD/IDA
+                                                                Working Group.
+
+
+
+
+                                                                                                                          vi
+                                                     Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                          PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+
+ I. STRATEGIC CONTEXT
+
+
+ A. Project Strategic Context
+1. Samoa's high exposure and vulnerability to severe natural hazards, compounded by climate change, have caused
+significant economic damage and threaten key economic sectors, particularly in vulnerable coastal areas. In the decade
+leading up to the COVID-19 pandemic, the economy faced multiple economic shocks resulting mainly from tropical
+cyclones, which led to more volatile and slower growth, around 2.5 percent per year on average. These disasters have
+disrupted livelihoods and threatened employment across key sectors, including tourism, agriculture, and fisheries, which
+together account for the majority of Samoa's labor force. These shocks underscored the economy’s vulnerability to
+external factors, particularly the devastating impact of natural and climate-related hazards. Such hazards have caused
+substantial damage and losses over time, with major disasters occurring at an average rate of one every three years.
+Notably, the 2009 tsunami and Cyclone Evan in 2012 caused damages equivalent to 20 percent and 29 percent of GDP,
+respectively,1 demonstrating the severe economic impact of disasters. Between 1965 and 2025, Samoa experienced 56
+disaster events, resulting in US$543 million in economic losses, i.e., annual losses averaging 5 percent of GDP. Climate
+change is expected to worsen the frequency and intensity of natural and climate-related hazards, further endangering
+infrastructure and livelihoods, while rising sea levels and increasing temperatures threaten agriculture, fisheries, and
+tourism. Over 70 percent of the Samoan population resides in low-lying coastal zones, highly exposed to floods, coastal
+inundation, droughts, tropical cyclones, earthquakes, and tsunami.
+
+2. The Project targets disaster risk management (DRM) and urban resilience investment needs in Samoa to reduce risk
+and prepare for future disasters. Its multi-pronged approach includes improving national-level multi-hazard early warning
+systems (MHEWS) and emergency response capacities, building community preparedness, and investing in resilient
+infrastructure in urban areas of the country. The Project is guided by four overarching principles: (i) enhancing end-to-end
+MHEWS integrated systems, recognizing that effective MHEWS need to integrate hydrometeorological and geophysical
+services through four key areas – disaster risk knowledge, hazard observations and forecasting, dissemination and
+communication, and preparedness and response; (ii) investing in resilient public facilities to reduce the exposure and
+vulnerability of priority assets to climate and natural-related hazards; (iii) advocating for a people-centered approach,
+prioritizing community engagement and participatory design; and (iv) complementing global and regional initiatives,
+including the Early Warnings for All initiative, Weather Ready Pacific initiative, Climate Risk Early Warning Systems
+(CREWS), Systematic Observations Financing Facility (SOFF), Building Safety and Resilience in the Pacific II (BSRPII), and
+the Pacific Humanitarian Warehouse Program (PHWP).
+
+ B. Sectoral and Institutional Context
+Disaster risk management in Samoa
+3. Samoa continues to face considerable challenges as residual risks are exacerbated by climate change and increasing
+urbanization. The evolving risk landscape makes early warning and response systems essential to safeguarding lives and
+economic assets. Strengthening these systems is not just about immediate safety; it also ensures long-term economic
+resilience by avoiding job and productivity losses resulting from disaster impacts. Continued investments in MHEWS and
+in strengthening emergency preparedness and response (EP&R) capabilities will better equip Samoa to protect its
+communities and economy from the growing impacts of natural and climate-related hazards. With every dollar spent on
+these systems, global estimates indicate that countries can save between US$4 and US$10 in disaster response costs,
+making them a critical focus for Samoa’s resilience strategy.2 Additionally, integrating risk considerations into urban
+
+1 United Nations Office for Disaster Risk Reduction (UNDRR), Disaster Risk Reduction in Samoa: Country Update 2022, (Suva: UNDRR, Sub-Regional
+
+Office for the Pacific, 2022).
+2 Stephane Hallegate, Jun Rentschler, and Julie Rozenberg, Lifelines: The Resilient Infrastructure Opportunity, Sustainable Infrastructure
+
+Series (Washington, DC: World Bank, 2019).
+
+                                                                                                                                       Page 1
+                                                                  Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                          PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+planning is aligned with proactive DRM, and helps to avoid the placement of people and critical assets in exposed areas.
+Public buildings also need design solutions that suit Samoa’s climate and risk profile, including energy and water efficiency
+standards that meet the requirements of the National Building Code of Samoa, which were updated in 2017 to align with
+international standards. In addition, enhanced compliance with current resilience and adaptation design measures, in
+consideration of Samoa’s growing climate and disaster risk, will help to minimize long-term operations and maintenance
+costs, as well as over-reliance on main networks.
+
+4. Over the past decade, Samoa’s approach to DRM has evolved, moving from a focus on post-disaster response to a
+more balanced approach that includes proactive interventions. This shift has been led by the Ministry of Natural
+Resources and Environment (MNRE),3 which is responsible for national disaster management, hazard monitoring, and the
+operation of the country’s MHEWS. MNRE has been supported through initiatives such as the World Bank-financed Pacific
+Resilience Program – Samoa Project (PREP-Samoa),4 which improved MHEWS, enhanced the resilience of critical school
+infrastructure, and contributed to financial protection against disasters. The Government of Samoa has also ensured that
+disaster and climate resilience standards are integrated in other sectoral investments to reduce risk proactively, including
+those implemented by the Ministry of Works, Transport and Infrastructure (MWTI), which include transport, urban
+development, and coastal protection projects. Additionally, the Ministry of Finance (MoF) is implementing a Disaster Risk
+Financing Policy to guide the utilization of post-disaster financing instruments, such as contingent financing from the
+World Bank and the Asian Development Bank (ADB), sovereign parametric insurance for tropical cyclones and earthquakes
+provided by the Pacific Catastrophe Risk Insurance Company, and a new Asset Management Policy Framework that aims
+to strengthen the financial resilience of assets to hazards. These tools and policy reforms have provided timely financial
+resources following disasters and have supported a DRM reform agenda, laying the foundation for a more resilient Samoa.
+
+5. The Government of Samoa is actively implementing a series of regulatory changes to improve climate and disaster
+risk management, although operational policies and procedures need to be enhanced. The Government has
+demonstrated a strong commitment to enhancing MHEWS as a critical element of proactive DRM. Since 2021, the
+Government has enacted the Meteorology, Geoscience and Ozone Services Act 2021, approved a National MHEWS Policy,
+and established a Technical Working Group to regulate MHEWS. These reforms support integrated hazard monitoring and
+effective downstream dissemination, as well as the implementation of impact-based forecasting for specific hazard
+impacts and recommendations. In February 2024, the Government approved the Samoa Disaster Risk Management Policy,
+which outlines a coordinated approach to addressing climate, natural, and health-related hazards, with a focus on
+community-based preparedness and awareness of risk.5 Meanwhile, the Disaster and Emergency Management Act 2007
+is under review to incorporate lessons learned from the COVID-19 pandemic and consider more proactive DRM
+approaches. The Pathway for the Development of Samoa 2021–2026,6 Samoa’s national development plan, calls for
+building climate and disaster resilience for all Samoans, including through increased investments in Savai’i, Samoa’s largest
+island and home to the country’s second largest – but growing – population especially in the township of Sālelologa. The
+population in Savai’i grew by 3.7 percent compared to negative 3.8 percent in the Apia urban area. While regulatory
+improvements have clarified legal mandates for DRM, more efforts are needed, especially for day-to-day implementation.
+For instance, operational policies and procedures would strengthen long-term institutional capacities, especially given
+persistent challenges of staff turnover and subsequent loss of institutional knowledge.
+
+
+
+3 The key divisions responsible for Samoa’s MHEWS are the Disaster Management Office, Samoa Meteorological Division, Water Resource Division,
+
+and Information Communications and Technology division.
+4 PREP – Samoa Project (P154839)
+5 The policy reforms are complemented by investments in MHEWS systems, instrumentation, and capacity building, including through the PREP
+
+project. Data management is also being strengthened to support comprehensive risk assessments, including for non-financial assets and
+communities, to increase their resilience to current and future climate and disaster risk.
+6 Ministry of Finance of Samoa, Pathway for the Development of Samoa (Apia: Ministry of Finance, Economic Policy and Planning Division, 2022),
+
+2022. https://www.mof.gov.ws/publications/economic-policy-planning/pathway-for-the-development-of-samoa.
+
+                                                                                                                                       Page 2
+                                                                  Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                               PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+6. Overall, the Government’s DRM program continues to mature, with efforts being made alongside development
+partners to strengthen a proactive policy framework and invest further in risk reduction and preparedness; however,
+there is urgent need for further improvements in implementation, planning, and financing. The effectiveness of DRM
+programs can be assessed through three key pillars: financial resilience, policies and coordination, and investments.
+Samoa has made particularly impressive progress on financial resilience and policies. Together with other development
+partners (see section E – Role of Partners), the World Bank has maintained a long-term DRM engagement in the country,
+supporting these two pillars through the DRM Development Policy Operation with a Catastrophe Deferred Drawdown
+Option (Cat DDO) and the PREP-Samoa project. These efforts have advanced Samoa’s legislative and policy frameworks
+for disaster risk financing, MHEWS, infrastructure asset management, and building code improvements to reduce and
+mitigate risk. For example, initial investments in MHEWS and resilient school infrastructure were financed under
+PREP-Samoa. However, critical gaps remain, especially in the implementation of policy reforms through proactive risk
+reduction and preparedness initiatives. In addition, limited financing is available in the Pacific region for initiatives that
+build resilience to geophysical (as opposed to climate-related) hazards and, importantly, for integrated (geophysical and
+hydrometeorological) hazard monitoring and early warning systems. Also, while investments from the World Bank and
+other development partners support climate-resilient transport, energy, digital, and water, sanitation and hygiene (WASH)
+sectors, there remains a key gap in urban resilience investment planning and implementation.7 Finally, the post-disaster
+financial protection gap also remains large, with limited contingency funds within the Government’s budget and through
+external financing from partners.8 Through this Project, the World Bank’s global technical expertise, tailored project
+design, and funding mechanism such as the CERC, will help Samoa to address these gaps (see Figure 1).
+                                         Figure 1: PREPARE Investments in Disaster Risk Management.
+
+
+
+
+Note: PREPARE will invest in identified gaps in preparedness and risk reduction. The boxes shaded in green indicate the areas to be supported by the
+Project. The boxes shaded in orange indicate areas supported by other engagements with the World Bank. The boxes shaded in grey indicate areas
+                                                     supported broadly by development partners.
+
+End-to-End Multi-Hazard Early Warning Systems
+7. The effective use of early warning systems during past disaster events in Samoa has been instrumental in avoiding
+loss of life and highlights the potential of such systems; however, significant gaps in reliability and effectiveness remain.
+
+7 For example, the World Bank-financed Digitally Connected and Resilient Samoa Project (P180807); Samoa Aviation and Roads Investment Project
+
+(P176272; and Samoa Climate Resilient Transport Project (P507091).
+8 Tropical Cyclones Ofa and Val in 1990 caused an estimated loss of US$300 to 500 million, while losses from the 2009 tsunami were estimated at
+
+US$124 million, and losses from tropical cyclone Evan in 2012 were estimated at over US$210 million. Under its FY24/25 budget estimates, the
+Government of Samoa only has SAT5 million (US$1.8 million) available for emergency response operations. The Government has access to ADB’s
+US$10 million Contingent Disaster Financing instrument.
+
+                                                                                                                                             Page 3
+                                                                    Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                           PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+The Framework for Resilient Development in the Pacific 2017–2030 includes a regional commitment to establish
+“end-to-end” MHEWS9 across the Pacific. In Samoa, however, persistent issues such as data transmission failures, aging
+instrumentation and facilities, poor network coverage across the country, absence of specialized technical expertise, and
+the lack of adequate decision support systems have limited the system’s overall efficiencies. These structural issues lead
+to early warnings that are less accurate and do not reach users and communities in a timely manner. To address these
+gaps, the Government is committed to continue strengthening the foundational elements of the system. This requires
+enhancing real-time data collection and forecasting accuracy to improve warning precision; modernizing communication
+infrastructure to ensure coverage in remote and underserved areas; and developing automated decision support systems
+to streamline responses and reduce human error through enhanced technical capacity across key sectors. It is also critical
+for Samoa to further integrate the monitoring of various types of hazards, such as hydrometeorological, geophysical,
+climate, and health-related hazards, into a seamless system.
+
+8. Samoa has made efforts toward providing actionable information to guide decision making during disasters, yet
+faces challenges in operating, maintaining, and leveraging advanced technologies and systems. The sustainable
+maintenance of observation and monitoring networks for both hydrometeorological and geophysical hazards is a known
+challenge across the Pacific region. The unavailability of funds for spare parts, insufficient capacity to repair and calibrate
+instruments, and obsolescence of equipment all contribute towards lack of sustainability. To address these challenges,
+Samoa needs support to participate in several critical global and regional initiatives. First, the streamlining of data sharing
+with the Oceania Regional Seismic Network (ORSNET), which aims to integrate seismic monitoring across the region, would
+further enhance real-time earthquake and volcanic hazard monitoring and tsunami warning. Second, implementation of
+the regional Weather Ready Pacific Decadal Programme of Investment will strengthen the country’s ability to manage
+high-impact and extreme weather, water, and ocean events. Finally, support from SOFF, a global initiative to improve
+weather data, is needed to address critical data gaps for extreme weather observations through additional land-based
+and upper air monitoring stations.10 Additionally, countries like Samoa can integrate community insights and local
+traditional knowledge into early warning systems to improve their relevance and effectiveness by combining modern
+technology with place-based knowledge of hazards and increasing community trust and acceptance.
+
+Emergency Preparedness and Response (EP&R) Capabilities
+9. The compounding effects of Tropical Cyclone Harold and the COVID-19 pandemic in 2020 highlighted the complexity
+of managing multiple emergencies simultaneously. While the National Emergency Operations Center (NEOC, funded by
+PREP-Samoa) represents a significant improvement in inter-agency coordination during disaster events, there remains a
+critical need for more comprehensive and adaptable EP&R systems that allow for effective interagency response.
+Addressing this need requires substantial enhancements in emergency management infrastructure and equipment,
+particularly in areas such as incident monitoring (to observe and coordinate responses to the impacts of hazards) and
+incident management (including inter-agency emergency response services). For example, Samoa needs a robust digital
+information system, which could leverage information from hazard monitoring and forecasting to connect with emergency
+response systems and directly reach those at risk more quickly and efficiently. These improvements are not only critical
+at the national level but must also extend to the subnational level, where local and rural emergency personnel and
+communities require the necessary infrastructure, equipment, and systems to respond effectively to disasters through a
+more coordinated approach.
+
+
+9 According to the World Meteorological Organization, “end-to-end” MHEWS refers to a comprehensive, integrated approach that covers all stages
+
+of the early warning cycle. This includes hazard monitoring and prediction, disseminating warnings to communities, and ensuring communities are
+prepared to respond to the warnings.
+10 Systematic Observations Financing Facility (SOFF), Samoa Country Hydromet Diagnostics (Canberra, Australia: Bureau of Meteorology, 2023),
+
+https://www.un-soff.org/document/samoa-country-hydromet-diagnostics/
+
+                                                                                                                                        Page 4
+                                                                  Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                 PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+10. There is a strong need to prioritize institutional capacity building and community engagement to ensure Samoa can
+effectively utilize investments in emergency management. As a small island nation with competing demands for scarce
+government resources and personnel, Samoa faces unique challenges in managing emergency situations efficiently. To
+maximize the effectiveness of continued World Bank support and complementary programs financed by other
+development partners, such as the PHWP and the BSRPII, it is essential to ensure that the country’s institutions have the
+necessary capacity to make full use of the investments in infrastructure and equipment. Boosting that capacity calls for
+investing in training programs that develop the skills and competencies of emergency personnel, as government staff
+well-versed in emergency management protocols can respond more effectively during crises. Expanding and
+strengthening community outreach initiatives such as the Government’s Community Disaster and Climate Risk
+Management Programme will also foster greater public awareness and preparedness, allowing citizens to play an active
+role in emergency response efforts and further increasing the effectiveness of DRM investments.
+
+Urban Resilience
+11. Samoa was the first country in the Pacific to adopt a systems-based approach to urban management, focusing on
+holistic urban planning. This approach led to the development of district- and local-level plans that incorporate good
+practices in urban planning, including participatory planning. The country’s Community Integrated Management (CIM)
+Plans links local priorities to national development strategies and highlight essential infrastructure upgrades and disaster
+preparedness. Some urban areas have established additional development controls and regulatory mechanisms. The 2012
+Vaitele Sustainable Management Plan (SMP) and the 2018 Urban Design Standards for the Apia Waterfront provide
+guidelines for the specified urban areas to: (i) guide land use; (ii) promote safe, functional, resilient, and sustainable urban
+spaces; and (iii) ensure that new urban infrastructure enhances safety and livability. The Planning and Urban Management
+Act 2004 mandates development policy controls for the entire country, and the Government is committed to developing
+SMPs and planning policies for additional priority urban areas.
+
+12. Integrating climate and disaster resilience proactively into the development of secondary cities such as Sālelologa
+is critical, given their growing population and exposure to natural and climate-related hazards. In the Pathway for the
+Development of Samoa (2021-2026), the Government emphasizes the need for long-term planning to achieve a more
+spatially balanced distribution of economic opportunities across the country, while promoting overall national economic
+growth. Focusing investments solely in Apia will be insufficient to achieve the Pathway’s goals. Recognizing this, the
+Planning and Urban Management Agency (PUMA) under the MWTI intends to develop a township plan and SMP for
+Sālelologa on the island of Savai’i due to the town’s strong economic potential as the transportation gateway between
+Savai’i and Upolu. The plan would act as a catalyst for development, as there are currently no policies to guide and regulate
+future growth in Samoa’s secondary urban areas, especially to manage urban amenities, address climate and disaster risk,
+and ensure environmental and social safeguards. This is a critical gap, since the population of Savai’i grew by 3.7 percent
+between 2016 and 2021, reaching 45,175 (one-fifth of Samoa’s population), with 34 percent of the island’s population
+residing in Sālelologa’s district of Fa’asaleleaga. However, Sālelologa is in a low-lying area, parts of which are within the
+tsunami evacuation zone, and the town is exposed to flooding, coastal erosion, and landslides. Its key infrastructure—
+including the wharf, ferry terminal, airport, fire stations, market, schools, public library, and electricity substation—are
+crucial for the community’s daily life and economic activity, making it essential to integrate climate and disaster resilience
+into its future development, including public buildings and spaces. Yet these critical public assets are often not designed
+to suit Samoa’s climate and disaster risk profile (e.g., improper design standards and construction practices) and thus
+remain vulnerable to hazards. Environmentally sustainable designs adapted to the changing climate are needed and must
+include mitigation measures, particularly for climate-related hazards such as floods and strong winds. Universal
+accessibility standards are also needed to ensure access to people of all abilities, ages, and genders.
+
+13. However, Samoa is experiencing uneven and often unmanaged urbanization, which poses additional challenges,
+particularly as it intersects with increasing climate and disaster risks. Although Apia’s physical footprint continues to
+
+                                                                                                                          Page 5
+                                                           Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+expand, urbanization is largely occurring outside of urban administrative areas, which has led to urban sprawl and leapfrog
+development along the coastal infrastructure corridors, where disaster risk such as related to flood hazards is higher.11
+This pattern of peri-urban development can be attributed to the topography, the distribution of primary roadways, the
+availability of customary land in the coastal plain, and the subdivision and sale of land. Without strategic planning and
+regulation, urbanization increases the concentration of people and assets in hazard-prone areas. Therefore, it is critical to
+integrate urban infrastructure with national-level DRM and adaptation planning and policy frameworks to reduce the
+exposure and vulnerability of priority assets to natural and climate-related hazards.
+
+14. The project is consistent with the World Bank's strategic engagement in the Pacific. While the Pacific Islands Regional
+Partnership Framework (RPF) FY17-FY23 (Report No. 120479), which covers nine Pacific Island Countries (PICs) (Kiribati,
+Republic of the Marshall Islands, Federated States of Micronesia, Republic of Nauru, Republic of Palau, the Independent
+State of Samoa, the Kingdom of Tonga, Tuvalu, and Vanuatu) has lapsed and a successor framework is under preparation,
+the project remains aligned with the forthcoming PIC9 RPF's target outcome of increased resilience and aligned with the
+Small States Strategy lighthouse on climate resilience and disaster preparedness. In particular, the proposed project
+contributes to the achievement of Objective 3.1: Strengthened resilience to natural disasters and climate change and
+mainstreaming disaster risk and climate change considerations in development planning and investments.
+
+ II. PROJECT DESCRIPTION
+
+
+ A. Project Development Objective
+15. The Project Development Objective (PDO) is to strengthen disaster preparedness and increase resilience to climate
+and disaster risks, and in case of an eligible crisis or emergency, respond promptly and effectively to it.
+
+ B. Theory of Change and PDO Indicators
+16. Achievement of the PDO will be measured by the following PDO-level indicators:
+     a. People with enhanced resilience to climate risks (number, disaggregated by sex and age) corporate scorecard
+         indicator. Measured by two sub-indicators:
+               - People benefiting from climate resilient infrastructure; and
+               - People benefitting from climate resilient planning, preparation, surveillance, and/or response.
+     b. Population with access to an enhanced emergency response system provided by functioning emergency
+         management infrastructure (percentage, disaggregated by sex and age).12
+
+17. The Theory of Change (see Figure 2) outlines how activities under the three technical components are expected to
+contribute to enhanced disaster and climate resilience through targeted investments and institutional strengthening.
+These efforts are designed to address the problem statement: “Samoa is highly exposed and vulnerable to climate-related
+and natural hazards, with significant gaps remaining in disaster preparedness, emergency response capacity, and urban
+resilience”. Key issues include inadequate hazard monitoring, limited early warning systems, insufficient emergency
+response infrastructure, and limited integration of climate resilience into urban planning and public facilities. Without
+addressing these gaps, Samoa will continue facing severe economic and social impacts during disasters, undermining
+sustainable development and disrupting livelihoods.
+
+
+11 Official statistics show rural growth surpassing urban growth, with Apia's population declining by 3.8 percent between 2016 and 2021. In this same
+
+period, the population in the northwest Upolu peri-urban area and the urban corridor to Faleolo International Airport increased by 17.2 percent.
+Urbanization is instead occurring outside of formal urban administrative areas, indicating “rural” growth.
+12 Enhanced emergency response refers to the provision of functional emergency management infrastructure, including operational emergency
+
+operations centers, adequately equipped first responders, and community-level preparedness measures.
+
+                                                                                                                                              Page 6
+                                                                     Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                           PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+
+ C. Project Beneficiaries
+18. The Project is expected to benefit approximately 180,000 people (equivalent to 80 percent Samoa’s total population)
+through investments in national-level MHEWS and emergency preparedness capacities. Of this total, 40,000 people are
+expected to benefit from risk-informed urban planning and resilient infrastructure improvements. At least 300
+government officials, emergency responders, and community members will also benefit from training and capacity
+development activities. The Project will adopt universal access considerations to ensure that the voices and needs of
+people of all ages, abilities, and genders are addressed in the planning, design, and implementation of Project activities.
+
+                                                       Figure 2: Theory of Change
+
+
+
+
+Key Assumptions: (i) no catastrophic event exceeds the capacity of systems being established; (ii) there is continued government
+commitment and institutional mandates remain stable; (iii) logistical and procurement conditions remain functional, (iv) public trust
+supports uptake of early warning messages; and (iv) adequate staffing and retention of trained personnel is maintained. These external
+factors, while beyond direct Project control, are critical to achieving the intended outcomes.
+
+ D. Project Components
+19. The Project is structured under five components. Activities have been determined based on: (i) strategic alignment
+with national development planning and DRM strategies; (ii) recommendations from technical assessments and
+diagnostics;13 (iii) funding availability; and (iv) complementarity with other DRM programs and initiatives. The project
+supports job creation and job protection by financing resilience investments, early warning systems, and preparedness
+activities that generate short-term employment and safeguard livelihoods in infrastructure, agriculture and tourism
+sectors.
+
+
+13 Such as the Concept of Operations, Technical Design, Investment Plan, Procurement Plan, and Capacity Building Plan for MHEWS developed under
+
+PREP-Samoa; the Government’s Emergency Radio Network and Emergency Siren Network Analysis and Diagnosis Report; the World Bank’s Technical
+Inputs for a Design Brief for a Proposed Samoa Meteorological Facility; Emergency Preparedness and Response Diagnostic; and Urban Resilience
+Multi-Hazard Risk Assessment and Investment Options for Sālelologa; and the SOFF Country Hydromet Diagnostic.
+
+                                                                                                                                        Page 7
+                                                                  Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                               PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+Component 1: Hazard Monitoring and Early Warning Systems (IDA Grant: US$5.8 million, SOFF Grant: US$5 million)
+20. Component 1 will be implemented by MNRE and will invest in global and country-level decision support systems,
+instrumentation, and capacity and institutional strengthening for MHEWS, supporting both climate-related and
+geophysical hazards. This involves strengthening the “upstream” end of effective MHEWS through investments in
+observations and forecasting for natural and climate-related hazards (especially extreme weather, tropical cyclones,
+flooding, volcanic activity, earthquakes, and tsunami), including for the World Meteorological Organization (WMO) Global
+Basic Observing Network (GBON).14 Component 1 investments build on the Concept of Operations, Technical Design,
+Investment Plan, and Capacity Building Plan for MHEWS prepared under PREP-Samoa. Using the principles of a
+people-centered early warning system, which combines technological solutions with community empowerment under
+Component 2 activities, Component 1 aims to promote a more integrated approach to disaster resilience. The SOFF
+financing will fund selected activities across all three sub-components of Component 1, including three weather stations
+– two land-based automated weather stations and an upper air station (radiosonde) – and associated ancillary
+infrastructure, systems improvements, spare parts, training, and technical assistance. The Global Facility for Disaster
+Reduction and Recovery (GFDRR) has established a single-donor trust fund (SDTF) to receive the SOFF funding. An
+anticipated grant agreement for the proposed SOFF financing is expected to be signed shortly. In the meantime, project
+implementation will start with only available IDA resources. In the unlikely event that SOFF funding does not become
+available, or is less than expected, the project will be scaled down proportionally through a restructuring or alternative
+funding would be required to fill the financing gap.15 The sub-components are:
+        • Sub-component 1.1 – Early warning delivery systems will improve the systems that monitor natural and
+            climate-related hazards and will support them to disseminate timely, accurate, reliable and impact-based alerts
+            and warnings through various channels to inform communities and authorities about impending hazards, in
+            accessible formats and through channels that reach all genders, enabling them to take proactive measures to
+            mitigate risks. The Project will support: (i) technical assistance and software/hardware improvements for the
+            design and development of inclusive impact-based warning systems,16 services and products tailored to the
+            needs of diverse demographic groups, especially women and vulnerable communities; (ii) technical assistance
+            to enable global and regional data sharing and enhancement of the interoperability of country-level systems
+            within regional networks,17 as well as longer-term planning for operations and maintenance; (iii) design and
+            development of multi-hazard decision support systems (hardware and software) to provide real-time
+            multi-hazard information and analysis (including sex- and age-disaggregated data); and (iv) updated hazard
+            modeling and mapping to improve forecasting and warning issuance.
+        • Sub-component 1.2 – Monitoring and communication equipment will upgrade equipment to enhance the
+            Government’s capability to detect and respond to natural and climate-related hazards effectively, improving
+            the accuracy and timeliness of data for forecasting, warning and rapid situation awareness. All equipment
+            procured will meet international energy efficiency standards per the manufacturer’s technical specifications.
+            The Project will support: (i) ICT hardware and software for communication networks and equipment;
+            (ii) monitoring equipment and technology for hydrometeorological and geophysical hazards (with associated
+            physical enclosures and operational training), including automated weather stations (surface and upper air),
+            river stations, rain gauges, tide gauges, Global Positioning System (GPS) stations, volcano-specific monitoring
+            stations, seismic stations, and high performance computers; and (iii) spare parts and supplementary materials
+            to maintain consistent operation of equipment after commissioning.
+
+14 GBON is a fundamental element of global weather forecasting systems based on the international exchange of observational data, which underpin
+
+all weather, climate, and water services and products. SOFF is facilitating implementation of GBON in the Least Developed Countries and Small Island
+Developing States, including Samoa, to generate and internationally exchange the required GBON station data.
+15 SOFF financing is not necessary to achieve the PDO indicators, only one intermediate indicator “GBON land-based and upper air stations’
+
+commissioning period completed, country-specific standard cost for operations and maintenance established, and data sharing verified by WMO
+Technical Authority”. Activities funded by IDA can be implemented without awaiting SOFF financing.
+16 Impact-based warnings provide information on what hazards will do, not only what hazards will be.
+17 Including tropical cyclone forecasting with the Regional Specialized Meteorological Center in Nadi, Fiji and earthquake monitoring ORSNET.
+
+
+                                                                                                                                             Page 8
+                                                                    Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                            PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+
+        •    Sub-component 1.3 – Institutional strengthening and capacity building will ensure that the necessary skills,
+             knowledge, and frameworks are in place to monitor hazards and disseminate early warnings effectively,
+             improving the technical and institutional capabilities of the Government. The Project will support: (i) technical,
+             environmental and social management, and socio-economic assessments (for SOFF); (ii) consultation activities
+             with communities (including focus group discussions with women) and key stakeholders, and awareness-
+             raising materials (for SOFF); (iii) staff training and development, including in meteorology, seismology,
+             hydrology, hazard monitoring and observations, communications, and quality management; (iv) recruitment
+             of technical assistance consultants for systems coordination, technician support, and information and
+             communications technology; and (v) technical assistance for the development of policies and standard
+             operating procedures (SOPs) to modernize and integrate hazard monitoring and early warning
+             communications.
+
+Component 2: Emergency Preparedness and Response (IDA Grant: US$7.2 million)
+21. Component 2 will be implemented by MNRE and enhance national- and community-level response capacities to
+better prepare for, and respond to, future disasters. This will be achieved through supporting the “downstream” end of
+effective MHEWS by investing in five key pillars of EP&R: legal and institutional framework, information management,
+facilities, equipment, and personnel. National hazard monitoring centers that are critical for emergency response will be
+designed and constructed to national climate-resilient building design standards, including for water and energy
+efficiencies, and relevant climate adaptation measures such as climate-resilient building materials and environmentally
+sustainable design practices. This includes the proposed meteorological and seismic facility, a specialized center equipped
+with instruments and technology for observing, recording, and analyzing weather, seismic, climate and atmospheric
+conditions. Emergency management capacities and community outreach programs will be supported to ensure that early
+warning information through improved MHEWS is accessible, understandable, and actionable across all sectors and
+communities. Activities are expected to have benefits at the regional, national, and community levels. The sub-
+components are:
+         • Sub-component 2.1 – Emergency management infrastructure will support national response capacities by
+             investing in critical government facilities that would enable effective whole-of-government emergency
+             responses for disasters and are designed to meet current resilience, safety, and accessibility standards,
+             including considerations for privacy, security, and hygiene. The Project will support detailed engineering
+             design, environmental and social assessments, construction supervision, civil works activities, and related
+             internal furnishings and equipment for: (i) a new meteorological facility in Apia and a satellite office adjacent
+             to the Faleolo International Airport; (ii) a Seismic Operations Center (SOC) in Apia;18 and (iii) multifunctional
+             fire, ambulance and emergency response services facilities.19
+         • Sub-component 2.2 – Emergency management capacity will improve Samoa’s EP&R systems to maintain
+             readiness and operational efficiency during emergencies. The Project will support: (i) emergency response
+             equipment and prepositioned emergency relief supplies (non-food items), including for facilities financed
+             under Sub-component 2.1; (ii) business continuity planning and emergency response training and drills for
+             government line ministries, first responders, and utilities providers; and (iii) SOPs, including for emergency
+             response, emergency operation centers, and regional coordination on emergency response.20
+         • Sub-component 2.3 – Dissemination, education, and outreach will ensure that first responders and
+             communities are well-informed and equipped to respond to emergencies. The Project will support: (i) the pilot
+
+18 The detailed engineering designs, environmental and social management instruments, and bid documents have been prepared under the Pacific
+
+Resilience Program – Samoa Project (P154839).
+19 These assets will be handed over to the Samoa Fire and Emergency Services Agency (SFESA) upon completion and include multifunctional spaces
+
+for inter-agency emergency response.
+20 This effort complements the Pacific Humanitarian Warehousing Program, which is a Pacific-led, multi-partner program that is strengthening
+
+disaster preparedness in the region by enhancing sovereign capacity to procure, store, and manage essential supplies (non-food items) for future
+disasters.
+
+                                                                                                                                         Page 9
+                                                                  Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+             of cell broadcasting technology to disseminate emergency alerts;21 (ii) design and development of a digital
+             disaster and incident management information system for all hazards and risk data; (iii) emergency sirens
+             including their integration with electrical and radio networks, spare parts and training, and related operations
+             and maintenance equipment; and (iv) implementation of community outreach and awareness-raising
+             programs, including modules targeting diverse population groups (women, youth, and people with disabilities).
+
+Component 3: Resilient Infrastructure (IDA Grant: US$5 million; IDA Credit: US$10 million)
+22. Component 3 will be implemented by MWTI and will invest in national and local activities to reduce the exposure
+and vulnerability of select urban areas to climate and natural-related hazards. The focus of this component is to reduce
+risk proactively through township planning and urban policy frameworks that are informed by climate and disaster risks,
+and through prioritized physical investments in new and upgraded green public buildings and spaces that incorporate
+disaster and climate resilience standards. This approach builds on global experience and lessons learned from World Bank
+financed- projects in the Republic of the Marshall Islands and Vanuatu, which combine physical infrastructure with
+institutional strengthening for urban planning. Activities under this component will focus on secondary urban areas.
+Longterm planning in other urban areas is critical to a cost-effective and viable- approach to infrastructure development.
+In Savai’i, there are opportunities to encourage inclusive growth and shared prosperity to provide more opportunities for
+economic development, social inclusion, basic services, and urban livability. Risk reduction investments in waterfront and
+streetscape upgrading have been prioritized in the first phase of implementation to improve urban amenities immediately;
+additional resilient public facilities (buildings or spaces) will be confirmed once the township plan and investment
+prioritization are completed by Year 2 of implementation but will include retrofitting the Sālelologa market as a resilient
+multifunctional government building.22 For all such public facilities, construction materials will adhere to global
+environmental sustainability and climate mitigation and adaptation standards, as set out in the National Building Code
+(e.g., materials with low-embedded greenhouse gas (GHG) emissions, such as low-carbon concrete and sustainably
+sourced timber); and buildings will include green features such as automated lighting, and water- and energy-efficient
+appliances, cyclone fastening, rainwater harvesting, and marine-grade, flood resistant materials suitable for coastal areas.
+This component will also establish urban planning committees in selected urban areas to support decision-making
+responsibilities, and promote representation of women with a minimum target of 50 percent women. The sub-
+components are:
+        • Sub-component 3.1 – Planning and institutional strengthening will provide technical studies for asset
+             vulnerability and investment prioritization, establish development control policies for future developments,
+             and support the implementation of climate-informed building codes.23 The Project will support: (i) technical
+             assistance for development of a Sālelologa township plan, SMP, and Strategic Environmental and Social
+             Assessment (SESA); (ii) technical assistance and equipment24 for development of building code implementation
+             policies, procedures and awareness raising (including in Savai’i); (iii) technical assistance for updating and
+             development of national and subnational planning legislation,25 development control policies, land use
+             planning policies and data management guided by climate and disaster risk, and a formalized street addressing
+             system (which will enhance emergency services); and (iv) technical studies, feasibility studies, and vulnerability
+             assessments to support the development of urban areas.26
+
+21 Cell broadcasting is critical for early warnings because it enables rapid, widespread dissemination of emergency alerts to all mobile devices in a
+
+specific area, ensuring timely and effective communication during crises.
+22 The Project Operations Manual (POM) lays out the criteria for the subproject investments including screening criteria – contribution to project
+
+objectives, readiness, non-redundancy (with other initiatives), ownership and maintenance considerations, equity (with vulnerable and poor people);
+and prioritization criteria – geographic targeting, replicability, and co-benefits.
+23 The Project is only financing the studies referenced and not any downstream activities.
+24 For example, technologies and devices needed to document and monitor construction sites, such as measuring devices and tablets.
+25 While the World Bank may finance such technical assistance, it cannot support any activities involving participation in parliamentary committee
+
+discussions, lobbying, or other engagements that may be considered political in nature.
+26 Additional urban areas could include Asau in Savai’i and Mulifanua in Upolu. A prioritization of urban areas will be undertaken during
+
+implementation.
+
+                                                                                                                                             Page 10
+                                                                     Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                              PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+
+        •    Sub-component 3.2 – Resilient public facilities investments will construct and retrofit high-priority public
+             facilities to demonstrate compliance with disaster risk reduction, climate adaptation, accessibility, and
+             sustainability standards. The Project will support the detailed engineering design, environmental and social
+             assessments, civil works activities, and construction supervision for: (i) pilot waterfront upgrading in Sālelologa,
+             combined with small-scale coastal protection27 and community spaces; (ii) urban streetscape upgrading, access
+             roads to basic services, stormwater drainage, and small-scale coastal protection in urban areas of Samoa;
+             (iii) retrofitting and construction of critical government buildings, such as resilient multifunctional government
+             buildings (with emergency management functions) in Savai’i; and (iv) multifunctional public spaces, including
+             parks, green spaces, and floodplain management spaces. The investments under this component have been
+             informed by a Multi-Hazard Risk Assessment (MHRA) and Investment Options technical assistance study,
+             carried out by the World Bank from 2024 to 2025.28
+
+Component 4: Project Management (IDA Grant: US$1.5 million)
+23. Component 4 will be implemented by MWTI and will support project management and implementation support for
+Components 1 to 3. Responsibilities include environmental and social management, procurement and contract
+management, financial management, communication, monitoring and evaluation, and training. Key activities include the
+preparation of annual work plans and budgets, regular project and financial reporting, auditing, development of a
+monitoring, evaluation, and learning system, and day-to-day project and contract management activities. The Project will
+support: (i) the recruitment of consultants to support the implementation of all Project activities, such as a Procurement
+Officer, Financial Management Officer, Safeguards Officer, and Monitoring and Evaluation Officer; (ii) technical assistance
+to support evaluation of the Project at the mid-term point and completion, as well as auditing; and (iii) capacity building
+and training on project management and implementation.
+
+Component 5: Contingent Emergency Response Component (CERC) (IDA Grant: US$0.5 million)
+24. Component 5 will be implemented by MoF and will support emergency response activities under a pre-allocated
+CERC. Despite the ex-ante resilience-building activities planned under this Project, the increasing vulnerability of Samoa
+to natural and climate-related hazards means that access to contingent financing is a key requirement under MoF’s
+Disaster Risk Financing Policy. The CERC provides a mechanism with pre-allocated funding: (i) for quick disbursements to
+meet the immediate liquidity needs of the Recipient following an eligible disaster event to finance critical imports; or (ii) to
+finance emergency response, recovery and reconstruction works and associated services. Despite the ex-ante resilience-
+building activities planned under this Project, the increasing vulnerability of Samoa to natural and climate-related hazards
+means that access to contingent financing is a key requirement under the Ministry of Finance’s Disaster Risk Financing
+Policy. Accordingly, the proposed project includes a Contingent Emergency Response Component with pre-allocated
+funding of US$500,000 equivalent for use following an eligible disaster event The CERC Annex in the Project Operations
+Manual (POM) provides the overall financing framework and types of activities to be financed under the CERC. All eligible
+activities included in the CERC Annex will consider climate risks, on both mitigation and adaptation to demonstrate
+alignment with the Paris Agreement. This ensures alignment for the specific activities that are to be financed and included
+in the Emergency Action Plan, based on the information available at the time of activation of the CERC.
+
+ E. Role of Partners
+25. Several development partners are supporting DRM and urban development in Samoa, but efforts would benefit
+from a more holistic and integrated approach to investments in preparedness and risk reduction. Table 1 presents
+activities funded by other development partners that are complementary to this project, including the layering of disaster
+risk financing options, emergency management infrastructure, and climate-related early warning systems. Despite the
+
+
+27 For example, land-based coastal revetments, tidal steps, nature-based solutions, small seawalls, etc.
+28 This included field visits, stakeholder consultations, and design workshops to consider waterfront and streetscape upgrading, and development of
+
+a multifunctional government facility.
+
+                                                                                                                                           Page 11
+                                                                     Official Use Only
+         The World Bank
+         Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                PROJECT APPRAISAL DOCUMENT
+         (P507749)
+
+
+significant support, major gaps remain particularly in multi-hazard early warning systems (as opposed to climate-related
+ones, for which there is more funding available to the Pacific region), national hazard monitoring facilities, and integrated
+urban planning and infrastructure investments that reduce climate and disaster risks proactively. The Government’s aid
+coordination and management systems, including under the MoF and the Ministry of Foreign Affairs and Trade (MFAT),
+ensures the coordination and complementarity of these activities. The World Bank will continue cooperating with other
+development partners in this sector, including through this Project.
+                                       Table 1: Involvement of Partners in DRM and Urban Sectors
+  Partner                    Nature of Involvement
+  Asian Development          The Government has access to a US$10 million Contingent Disaster Financing facility. The ADB is also
+  Bank                       supporting investments in Apia port upgrading and climate-resilient road infrastructure.
+  Australia and New          A weather radar is planned under the Weather Ready Pacific program, implemented by the Pacific
+  Zealand                    Regional Environment Programme (SPREP). Other investments informed by the Weather Ready Pacific
+                             Decadal Programme of Investment are being scoped. The Pacific Islands Emergency Management
+                             Alliance funds The Pacific Community (SPC) to deliver regional and national training and technical
+                             assistance for the National Disaster Management Office and Samoa Fire and Emergency Services
+                             Authority. The Australia-Pacific Partnership for Aviation Program is investing in weather monitoring
+                             stations at Faleolo and Fagali’i.
+  Australia                  A humanitarian warehouse adjacent to the NEOC in Tuana’imato is planned under the Pacific
+                             Humanitarian Warehousing Program, implemented by SPC. Australia is also supporting bilateral
+                             programs on accredited training for emergency responders and meteorologists.
+  European Union             An Emergency Operations Center in Savai’i near Maota Airport is planned under the BSRPII Program,
+                             implemented by SPC. The European Union is providing technical and financial support to the Samoa
+                             Drought Early Warning and Management Policy through the European Union Delegation in Fiji, and
+                             supporting automated weather stations and climate monitoring service enhancements through the
+                             Climate Services and related Application (ClimSA) Programme.
+  Japan                      Japan supports training for Meteorological Facility staff and capacity building related to the potential for
+                             public-private partnerships for climate change operations and improving access to external climate
+                             funding sources. The upgrading and rehabilitation of Automated Weather Stations is being considered.
+  New Zealand                New Zealand supports waterfront developments in Apia, including an ongoing reconstruction of the
+                             Savalalo Market for food and handicrafts. It provides technical and financial support to DRM policy
+                             reforms including the Samoa DRM Policy 2024 and planned revisions to the Disaster and Emergency Act
+                             2007; and offers climate financing budget support to MNRE including for coastal protection.
+
+
+ F. Lessons Learned and Reflected in the Project Design
+26. Over the past decade, the World Bank has gradually increased its urban resilience investments in Pacific Island
+Countries to support a forward-looking approach that incorporates and emphasizes preparedness and risk reduction.
+Analysis and knowledge gained from past and ongoing initiatives on DRM and urban resilience in the Pacific have
+highlighted the importance of financing targeted investments in Pacific cities and towns to offer sustainable opportunities
+for managing disaster and climate risk effectively.29 This includes aligning and combining long-term strategic planning for
+DRM with targeted “soft” (non-engineered) and “hard” (engineered) interventions,30 and engaging local communities
+continuously through the project lifecycle to foster awareness, commitment, and ownership and to ensure that the
+interventions integrate cultural values and sensitivities.31 Experience from other countries has demonstrated that in order
+for cities to play a more effective role in the country or wider regional development, projects should identify strategic
+
+29 See World Bank report on Livable Pacific Cities and Towns: Urbanization Strategies for Resilience, Sustainability, and Inclusion (forthcoming)
+30 Pacific Resilience Project (PREP) and Kiribati Adaptation Project Phase II
+31 Kiribati Adaptation Project Phase II and Republic of the Marshall Islands Urban Resilience Project
+
+
+                                                                                                                                              Page 12
+                                                                       Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                 PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+urban areas and implement priority investments, as opposed to taking a piecemeal, ad-hoc approach. For example, the
+Maldives has pursued a regional development strategy to provide economic opportunities, improve basic service delivery,
+and enhance quality of life in secondary urban centres.
+
+27. The sustainability of early warning services depends on a comprehensive approach to investing in system
+integration, institutional strengthening and sustainability, and operations and maintenance (O&M). Investments reflect
+a realistic assessment of MNRE’s existing institutional and staffing capacity, as well as the availability of recurrent budgets,
+to ensure appropriate O&M costs for sustained systems operations. Procurement packages will be designed to include
+spare parts, sustainability plans, and training to help minimize O&M burden on MNRE beyond the project closing date.
+Previous experiences from World Bank-financed projects elsewhere have shown that trained systems integrators play a
+critical role in supporting project implementation by developing detailed system designs, providing procurement and
+implementation support, and providing technical guidance for the overall project. A systems coordinator consultant will
+be recruited under Component 1 to help integrate GBON investments under SOFF with national-level hazard monitoring
+systems. Formal and accredited technical training will be provided to officers in MHEWS service providers, and policies
+and procedures will be developed, to help strengthen institutional and staff capacity for long-term sustainability of
+Samoa’s MHEWS.
+
+28. Investments in community preparedness and emergency response capacity significantly contribute to protecting
+assets and saving lives. For instance, in Tonga, the World Bank's investments have supported the modernization of
+observation infrastructure, data management systems, and forecast and warning systems. Following the Hunga Tonga-
+Hunga Ha’apai volcanic eruption and tsunami in 2022, timely action-oriented early warnings were issued and emergency
+operation centers were activated to coordinate a national-level state of emergency. These investments helped to mitigate
+a significant loss of life as people were well informed on the potential impacts and were able to evacuate swiftly. Similarly,
+in the Republic of the Marshall Islands (RMI), the World Bank-financed Pacific Resilience Program II – RMI Project has
+supported the installation of radios across the entire country to improve atoll-level emergency communications. These
+strategic investments in emergency response systems have not only strengthened infrastructure and institutional capacity
+but also ensured timely and effective response and recovery during disaster events, thereby minimizing human losses and
+safeguarding economic stability. Communities are key to successful project outcomes as they are the first responders and
+worst affected in disaster events. Building community capacity (including that of women and girls) in emergency
+preparedness and response has seen great success in Odisha, India where almost 1 million people benefitted from
+improved early warnings and emergency shelters across the coast during the Category 5 Tropical Cyclone Phailin.
+Improved early warning systems allowed for dissemination of alerts four days before Phailin struck land. This translated
+into the effective evacuation of approximately 400,000 people. There were 21 fatalities, and an additional 23 due to severe
+flash flooding in the aftermath of the cyclone. This can be compared to Cyclone 05B, which hit the same area in 1999; with
+only two days’ early warning, timely evacuation was not feasible in that case, and the cyclone resulted in 10,000 fatalities.
+
+29. The PREP-Samoa Project invested significantly in addressing the country’s DRM needs over the past decade,
+highlighting lessons learned and further investment opportunities. In post-disaster situations, the pre-allocated CERC
+under PREP-Samoa was effective in deploying relatively rapid funds for disaster response without the need to reallocate
+resources. This helped to avoid unnecessary delays related to budget reallocations and activity planning in a country highly
+exposed and vulnerable to natural and climate-related hazards. The project also played a significant role in the
+strengthening of the country’s MHEWS, establishment of the Disaster Risk Financing Policy (the second in the Pacific
+region), and construction of a demonstration climate-resilient school. Yet, significant opportunities remain to advance
+systems, instrumentation and capacities for end-to-end and people-oriented MHEWS, which are complex systems that
+require long-term investment and capacity support, as well as close coordination across institutions and different parts of
+the system. Further investments are needed, together with complementary MHEWS investments financed by other
+development partners (see Table 1), to address key constraints such as fast-evolving technologies, staffing capacities, and
+high maintenance costs. In addition, greater concentrations of people and assets are now in urban areas, highlighting the
+                                                                                                                        Page 13
+                                                           Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                  PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+need to target investments to reduce the Government’s contingent liability during future disasters. Interventions must go
+beyond the traditional sub-sectoral and ad-hoc urban projects (in public facilities, transport, water supply, sanitation,
+drainage, etc.) to target integrated urban planning and infrastructure/asset investments that reduce risk proactively.
+
+
+ III. PROJECT IMPLEMENTATION
+
+
+ A. Institutional and Implementation Arrangements
+30. Project Governance. The Project will be governed by the Climate Resilience Steering Committee (CRSC), chaired by
+the Chief Executive Officer (CEO) of MoF, and including the CEOs of MNRE, MWTI, MFAT, and the Samoa Fire and
+Emergency Services Authority. The key mandate of the CRSC is to coordinate, provide advice, and guide climate and
+disaster resilience investments of the Government. The responsibilities of the CRSC for this Project will include approval
+of the Annual Work Plan and Budget and any other strategic decisions. The Aid Coordination and Management Division
+(ACMD) of MoF serves as the Secretariat for this committee. A Technical Working Group (TWG) will be established prior
+to Project Effectiveness to support the detailed preparation and implementation of the Project, consisting of Assistant
+CEOs (ACEOs) implementing the Project and other key stakeholders from line ministries that are required to provide
+technical inputs to the design and implementation of Project activities.
+
+31. Implementing Arrangements. MoF is the Executing Agency, with MNRE, MWTI and MoF designated as the
+Implementing Agencies (IAs). MNRE will be responsible for implementing Components 1 and 2, MWTI will be responsible
+for implementing Components 3 and 4, and MoF will be responsible for implementing Component 5 (if the CERC is
+activated).32 The Project Management Division of MWTI (MWTI-PMD), led by its ACEO and in coordination with the ACEOs
+of the TWG, will carry out the day-to-day project management and implementation functions, including project
+engineering oversight, procurement, environmental and social management, contract management, and monitoring and
+evaluation, with funding from Component 4. Most of the day-to-day financial management functions will be carried out
+by the MWTI-PMD as laid out in the POM, while MoF will be responsible for selected tasks including processing payments,
+submitting Withdrawal Applications and Interim unaudited Financial Reports (IFRs) to the World Bank, and conducting
+annual audits. Contracts will be signed by the respective IA with assigned technical focal points at the ACEO level (who are
+also part of the TWG) providing oversight and technical approvals. IAs will be supported by technical specialists (consulting
+firms and individual consultants) carrying out project activities (other than project management) under Components 1, 2,
+and 3. The Centralized Technical Services Support Unit (CTSSU) under MoF will advise MWTI-PMD and IAs on procurement,
+financial management, environmental and social management, and monitoring and evaluation as needed. Human
+resource capacity constraints in the line ministries will be mitigated by the longer six-year project implementation
+timeframe, an investment plan that was agreed at Appraisal, advance procurement of selected activities, and additional
+staffing resources in the MWTI-PMD dedicated to the Project. Refer to Figure 3 for further detail.
+
+32. Implementation Readiness. MoF, MNRE, and MWTI have experience in implementing World Bank-financed projects
+in the DRM and transport sectors. MWTI-PMD staff are implementing the Samoa Aviation and Roads Improvement Project
+(P176272) and Samoa Climate Resilient Transport Project (P165782), both financed by the World Bank, and three
+infrastructure projects financed by the ADB. MNRE has experience implementing PREP-Samoa and the Enhancing the
+Climate Resilience of Coastal Resources and Communities Project (P126596). MWTI has broad experience with
+infrastructure development, including in the land, aviation, maritime, and building sectors. Technical expertise in civil
+engineering and urban planning through consulting services will complement staff capacity in MWTI. Advance
+procurement33 commenced during project preparation for the following activities: under Component 1, (i) seismic stations,
+
+32 This institutional arrangement is similar to that of the Samoa Aviation and Roads Investment Project (P176272).
+33 Including the preparation of technical specifications for goods, preparation of terms of references (ToRs) for consulting services, and initiation of
+
+the bidding process.
+
+                                                                                                                                               Page 14
+                                                                      Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project              PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+(ii) hydrometric stations and flood modeling, (iii) automated weather stations, (iv) weather forecasting software repairs;
+under Component 2, emergency sirens, under Component 3, (i) Sālelologa township plan, SMP, and SESA, (ii) Urban
+Planning and Design Specialist; and under Component 4, (i) Engineering Advisor, (ii) project management officers.
+
+                                         Figure 3: Implementation arrangements
+
+
+
+
+33. Project Operations Manual (POM). The POM is a key project document that outlines the operational framework for
+implementing the Project. It serves as a practical guide for all stakeholders to ensure effective, transparent and compliant
+project execution in line with the policies of the Government of Samoa and the World Bank. The POM will be finalized and
+adopted no later than one month after the Effective Date.
+
+34. Feedback and Grievance Redress Mechanism (FGRM). The Project will establish a FGRM managed by the MWTI-PMD
+to allow project stakeholders to seek satisfactory resolution to grievances they may have in relation to the Project and
+allow for constructive feedback to enhance the quality, inclusion and effectiveness of project activities. The FGRM will
+help to ensure that the rights and interests of affected people, beneficiaries, and direct and contracted workers are
+protected, and concerns are addressed adequately. The grievance process is based upon the premise that it imposes no
+cost to those raising the grievances (i.e., Complainants); that concerns arising from project implementation are adequately
+addressed in a timely manner; and that participation in the grievance process does not preclude pursuit of legal remedies
+under national law. The Results Framework includes an indicator to measure beneficiary feedback on the timely resolution
+of complaints.
+
+ B. Results Monitoring, Evaluation, and Verification Arrangements
+35. Results Framework (RF). The RF forms the basis to track the progress of activities to meet the PDO. Within the first
+six months of project commencement, a monitoring, evaluation and learning (MEL) plan will be established to guide
+project implementation. The MEL plan will be maintained by MWTI-PMD, which will be responsible for collecting the
+required data from the IAs, setting up the MEL system, and reporting the results through periodic progress reports (at
+least quarterly for internal government reporting and at least every six months to the World Bank). Technical support and
+training on the MEL system will be provided from funding under Component 4. Information and data collected by
+MWTI-PMD on distribution of inputs, disbursement of funds, and achievement of results indicators will feed into the MEL
+system to help monitor and evaluate the project’s outcomes and impacts, and ensure that the lessons learned are
+incorporated into project implementation.
+
+36. Project Reporting and Missions. The POM includes a template for the project reports, setting out key information to
+be included in each report and the modality for finalization after any clearances required prior to submission to the World
+
+                                                                                                                     Page 15
+                                                         Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                             PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+Bank. The reports will be submitted to the World Bank not later than 45 days after the end of each calendar semester,
+covering the calendar semester, and should cover at a minimum the following: (i) physical and financial progress against
+agreed implementation and disbursement indicators; (ii) issues and problems areas, including comments on actions to
+address identified problems; (iii) work programs and cost estimates for the upcoming 12 months, including revised
+estimates for the former period; and (iv) data on grievances and resolutions to allow for timely corrective actions. The
+World Bank will conduct regular implementation support missions approximately every six months, complemented by
+technical missions to resolve specific project implementation challenges. A mid-term review (MTR) mission to evaluate
+project implementation will take place at the mid-point of project implementation, not later than three (3) years after the
+Effective Date, and will include a review of utilization of the CERC and whether project restructuring is needed.
+
+ C. Disbursement Arrangements
+37. IDA and SOFF financing will flow to two separate Designated Accounts (DAs) managed by MoF. In addition, if CERC
+is triggered, a new DA will be opened for CERC related expenditures. MoF has been managing DAs for all World
+Bank -financed projects and has gained significant financial management experience working with the World Bank.
+Disbursement methods applicable are advances, direct payments, reimbursements and special commitments for eligible
+expenditures incurred under the project. MoF will submit withdrawal applications and the required supporting
+documentation. The financing will flow from either the DA or the World Bank to contractors (for construction of buildings
+and facilities), goods suppliers (for early warnings equipment, emergency response equipment, ICT goods), consultant
+firms (for technical assistance, construction supervision, and auditing), operational service providers (travel, training,
+workshops) and technical and project management consultant staff. The detailed disbursement arrangements are
+included in the Disbursements and Financial Information Letters.
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+
+ A. Technical, Economic and Financial Analysis (if applicable)
+38. The Project’s technical aspects and costs were assessed and are adequate. The Project has been designed to align
+closely with Samoa's strategic priorities and the World Bank’s Triple Dividend of Resilience Framework.34 The Project offers
+threefold benefits: (i) minimizing disaster losses by strengthening MHEWS and emergency management infrastructure
+and promoting urban resilience; (ii) boosting economic resilience by safeguarding key economic drivers and jobs during
+and after disaster events; and (iii) generating co-benefits that foster improved long-term social cohesion, environmental
+protection, and economic stability. The Project’s strategic focus on resilience and sustainable development ensures a
+balance between costs and benefits, ultimately supporting Samoa’s national goals under the Pathway for the
+Development of Samoa 2021-2026. By targeting critical gaps in disaster preparedness and response, the Project is
+expected to offer a favorable cost-benefit ratio, providing long-term economic stability and enhanced quality of life for
+Samoa’s population.
+
+39. The technical design of Component 1 (Hazard Monitoring and Early Warning Systems) provides an opportunity to
+continue strengthening the end-to-end capacity of MHEWS in Samoa based on international good practices. The
+component combines investments in systems strengthening (to enhance hazard monitoring capabilities), institutional and
+capacity strengthening for service providers (to ensure efficiency, effectiveness, and sustainability), and investments in
+infrastructure (to deliver tangible benefits and enhance timeliness and accuracy of early warnings) for the provision of
+MHEWS. The design of Component 1 conforms with international good practices established under World Bank-financed
+
+
+
+34 Thomas Tanner, Swenja Surminski, Emily Wilkinson, Robert Reid, Jun Rentschler, and Sumati Rajput, The triple dividend of resilience: realizing
+development goals       through   the    multiple    benefits of      disaster risk     management. (Washington,        D.C.:     World     Bank
+Group), http://documents.worldbank.org/curated/en/993161515193991394
+
+                                                                                                                                         Page 16
+                                                                   Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                               PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+projects.35 The Project will implement key recommendations for national-level MHEWS developed under the PREP-Samoa
+Project and GBON systems from the SOFF Country Hydromet Diagnostics.36 Costs of project activities were estimated
+based on similar activities financed in the Pacific region and unit costs of early warning instrumentation determined
+through market research. The technical assistance activities were selected based on the Capacity Building Plan developed
+under the PREP-Samoa Project, SOFF Country Hydromet Diagnostics, the ORSNET Technical Report developed under the
+PREP-Pacific Islands Forum Secretariat (PIFS) Project (P155542), and World Bank technical assistance programs under
+implementation since 2020. Finally, to counter the persistent O&M issues in Samoa, the Project includes resources to
+procure and maintain a store of spare parts, while supporting the Government of Samoa to recruit personnel to maintain
+the new equipment. New equipment and instrumentation will be compatible with existing systems and procured, where
+known and appropriate (per the World Bank’s Procurement Regulations), from stable suppliers.
+
+40. The technical design of Component 2 (Emergency Preparedness and Response) builds on the country and regional
+context, international good practices, and thorough consultations with government counterparts and broader
+stakeholders. The EP&R Diagnostic and Investment Plan (2025) followed the World Bank’s “Ready to Respond” diagnostic
+tool and assessed the capacity of Samoa’s EP&R system through five pillars: (i) legal and institutional frameworks;
+(ii) information management; (iii) facilities; (iv) equipment; and (v) personnel. The Project will finance key gaps identified
+in the investment plan, including in national-level emergency management infrastructure designed to withstand natural
+and climate hazards, and emergency response equipment and capacities to improve emergency response operations. In
+addition, community programs at the village level provide opportunities to enhance disaster preparedness, especially
+given the limited human resources within the national government. Costs of project activities were estimated based on
+unit rates and contracts awarded under the PREP-Samoa Project, other similar activities financed in the Pacific region, and
+budgets of ongoing government programs in EP&R. The technical assistance activities were informed by thorough
+stakeholder consultations carried out during project preparation to develop the EP&R Diagnostic and Investment Plan.
+
+41. The technical design of Component 3 (Resilient Infrastructure) has been informed by the Government’s long-term
+vision to develop Sālelologa as the primary urban center for Savai’i and World Bank technical assistance to identify
+potential investment options informed by climate and disaster risks. Since at least 2010, the Government has made
+incremental investments to transform Sālelologa into an administrative and socioeconomic hub that offers improved
+access to public facilities and services for the people of Savai’i Island. Investments in digital connectivity and digital
+government infrastructure, including under the World Bank-financed Digitally Connected and Resilient Samoa (P180807),
+will help to connect underserved areas of Samoa—including in Savai’i—through digital government services. Investments
+in township planning and resilient public facilities under this Project will help to strengthen the role of Sālelologa as a hub
+for economic growth and social inclusion. The MHRA and Investment Options study, carried out by the World Bank in
+partnership with a technical consortium of global experts, has helped to begin community consultations and scope the
+township plan requirements and potential high-priority “no-regret” physical investments in waterfront upgrading,
+streetscape improvements, coastal protection, and multifunctional government facilities. Costs of project activities were
+estimated based on global expertise inputs under the MHRA and Investment Options study. The technical assistance
+activities were informed by MWTI’s corporate plan priorities in urban management and building regulation.
+
+42. Paris Alignment (PA). The Project is consistent with Samoa’s climate and disaster resilience strategies, including its
+Nationally Determined Contributions (NDC), long-term development strategies, community-level adaptation plans,
+national climate change policies, and other relevant strategies. On mitigation, the Third NDC 2025 commits to focusing
+
+35 Including the Pacific Resilience Program in Samoa, Tonga, and the Republic of the Marshall Islands; the Indonesia Disaster Resilience Initiatives
+
+Project, the India National Cyclone Risk Mitigation Project-II, the Nepal Building Resilience to Climate Related Hazards, the Pakistan Hydromet and
+DRM Services Project, the Tajikistan Strengthening Critical Infrastructure Against Natural Hazards, and the Southeast Asia Disaster Risk Management
+Program in Cambodia and the Lao People’s Democratic Republic
+36 SOFF, Samoa Country Hydromet Diagnostics.
+
+
+                                                                                                                                            Page 17
+                                                                    Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                              PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+on opportunities to reduce emissions in the energy (including electricity), waste and other land use sectors. This project
+does not hinder the achievement of these efforts. On adaptation, Samoa has developed CIM Plans that identify prioritized
+adaptation actions for Samoa’s 368 villages to enhance their climate resilience at the community level. The Climate Change
+Policy (2020-2030) identifies measures to develop resilient infrastructure to withstand climate impacts and strengthen
+community preparedness and response capacities. In addition, Samoa’s National Disaster Risk Management Policy
+20242034 defines the country’s DRM framework and integration of natural hazards with climate-related hazards, and
+Samoa 2040, the Government’s long-term development roadmap, links climate resilience and disaster risk objectives to
+long-term sustainable development goals. The Project directly supports these adaptation efforts. Furthermore, the Project
+is also consistent with the country’s key long-term development strategy, the Pathway for the Development of Samoa
+(2021-2026), which emphasizes environmental conservation, sustainability, and DRM.
+
+43. The Project is aligned with the objectives of the Paris Agreement on both mitigation and adaptation. On mitigation,
+proposed activities such as capacity building and investments related to parks and open space, flood management and
+protection, coastal protection, and urban drainage are universally aligned. Activities supporting the development of
+warning services, products, and systems that enhance Samoa’s ability to prepare for and respond to emergencies are likely
+to be low risk, given the temporary and timebound nature of these activities. Mitigation risks related to the construction
+of emergency management infrastructure and public or government buildings are reduced to low as they will be designed
+to meet national building codes and incorporate energy efficiency (e.g., effective use of solar energy) and water efficiency
+measures (including rainwater recycling and water-saving fittings). The Project will provide advisory support to ensure
+that energy and water resource utilization in emergency management and urban infrastructure is optimized for both new
+construction and the retrofitting of existing structures. By adopting measures maximizing energy and water efficiency with
+low embedded GHG emissions, the Project aims to substantially mitigate the impact of GHG emissions. Mitigation risks
+related to urban planning activities, which include the development of land use and spatial plans that can influence urban
+growth patterns with moderate or significant impacts on GHG emissions, are considered to be reduced to low. Technical
+assistance under the project will promote compact and low-carbon development (e.g., urban green spaces and green
+buildings) and mixed land use that will support less carbon-intensive urban forms and advance climate mitigation efforts.
+Mitigation risks related to the mobile crane truck is reduced to low as the truck will be diesel fueled with a limited, short
+lifetime, and does not present a barrier to transition to other lower-carbon alternatives as they become feasible in Samoa.
+
+44. On adaptation, Samoa is at high risk from climate-related hazards such as cyclones, floods, and sea-level rise. Over
+the past 20 years, more than 85 percent of disasters in Samoa have been related to climate-related hazards, and this
+proportion is expected to worsen due to projected climate impacts.37 With a primary focus to enhance MHEWS and
+disaster preparedness under Components 2 and 3, the project will integrate relevant national-level climate resilience
+standards into emergency management and urban infrastructure, requiring all constructions and renovations to apply
+climate resilient building design techniques, adhere to climate resilience standards, and incorporate climate projections
+and risk assessments to account for potential increases in the frequency or intensity of climate. The inland location of the
+buildings has been selected to avoid the risk of inundation. Under Component 3, site-specific climate resilience measures
+related to nature-based solutions (e.g., rain gardens and bioswales) and resilient urban design (e.g., to reduce urban heat
+island effect) for heat and flood management will also be implemented to further reduce adaptation risks. In addition,
+enhancing the monitoring of hydrometeorological hazards and related dissemination of early warnings under Components
+1 and 2 will help communities better prepare for climate-related events, including tropical cyclones and floods. These
+activities contribute to building climate resilience and will help reduce risks from climate hazards to a low level.
+
+45. Economic Analysis. An economic analysis was carried out and confirms that the Project is economically viable. The
+analysis follows the World Bank Investment Project Financing (IPF) Economic Analysis Guidance Note and incorporates
+
+37 Six of the seven major disasters recorded in the EM-DAT international disaster database have been due to climate-related hazards.
+
+
+                                                                                                                                       Page 18
+                                                                    Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                 PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+the Triple Dividend of Resilience framework to estimate both direct and long-term co-benefits of resilience investments.
+The methodology compares the net present value (NPV) and economic internal rate of return (EIRR) under scenarios with
+and without the Project. Benefits and costs are estimated over a 20-year period in constant 2023 US dollars. The analysis
+covers all project components except for the CERC, which cannot be assessed ex-ante due to the uncertainty of its
+activation. The main Project benefits include: (i) avoided direct economic losses from natural hazards through enhanced
+early warning and risk reduction systems; (ii) reduced mortality and injuries due to improved emergency preparedness
+and response; and (iii) long-term social and environmental co-benefits, including avoided ecosystem degradation and time
+savings for vulnerable populations. The economic costs comprise capital investments and O&M expenditures over the life
+of the project. O&M costs are based on benchmark ratios for each infrastructure type and were deflated to 2023 values
+using Samoa’s consumer price index. Under the conservative scenario, total annual benefits are estimated at US$7.78
+million, while under the optimistic scenario they rise to US$10.12 million. The EIRR ranges from 18.83 percent
+(conservative) to 26.27 percent (optimistic), exceeding the 10 percent threshold commonly used for economic viability in
+climate resilience investments. The NPV of the Project ranges from US$25.26 million to US$93.99 million across discount
+rates of 2.00 percent, 3.88 percent, and 7.58 percent. The corresponding benefit-cost ratios range from 1.08 to 1.71. These
+results demonstrate the Project’s strong economic rationale under a range of assumptions, including disaster risk
+reduction effectiveness, environmental asset preservation, and improved access to emergency services. A sensitivity
+analysis was conducted to test the robustness of the results under varying assumptions, including changes in early warning
+effectiveness (linked to lead time), the value of time saved by beneficiaries, and the percentage reduction in hazard-
+related losses. The Project remained economically viable across all tested scenarios.
+
+46. Gender. Gender gaps. Traditional gender roles in Samoa often limit women's participation in urban planning
+decision-making processes, particularly within village councils (fonos) dominated by the matai system. Fonos oversee local
+governance and are supported by other village-level committees, including the women’s village committee. Only titled
+people are eligible to sit on fonos, the majority of whom are men. Although there is limited gender disaggregated data
+available,38 some women are currently reportedly sitting on fonos, and District Committees comprise approximately 38
+percent women.39 Because of women’s underrepresentation, urban planning initiatives and strategies often overlook
+their needs, weakening community resilience and inclusive development. Project actions. In line with the Samoa National
+Policy on Gender Equality and Rights of Women and Girls (2021–2031)40 and the World Bank Group Gender Strategy
+(2024–2030), the Project aims to close identified gender gaps in women’s voice and agency in decision-making roles
+related to urban planning. The Project has identified ways to increase the amount and quality of female participation in
+relevant consultations and promote their representation in project-related urban planning decision-making committees
+(which will be sustained beyond the project), including to address physical safety and equal access to urban services for
+women and girls in Samoa. These efforts will include outreach targeted at women and girls to increase their knowledge
+on risk-informed urban planning, as well as the development of gender-inclusive protocols to ensure that the location and
+timing of urban planning decision-making activities are responsive to the needs of both women and men. The ToR for
+decision-making committees will set a target of at least 50 percent female representation (including the Chair or Co-Chair
+being female), clearly define all committee roles, and identify which roles are considered executive positions (noting all
+members have decision-making and leadership roles, while executive positions are for administrative purposes).
+
+
+38 Government of Samoa, Second Voluntary National Review on the Implementation of the Sustainable Development Goals (Apia: Government of
+
+Samoa, 2020), https://sustainabledevelopment.un.org/content/documents/26429Samoa_Samos2ndVNR2020reduced.pdf
+39 Ministry of Women, Community and Social Development of Samoa, Annual Report Financial Year 2023–2024 (Apia: Ministry of Women, Community
+
+and Social Development, 2025), https://mwcsd.gov.ws/annual-reports/.
+40 Priority Area 6: Infrastructure Outcome “increase gender sensitivity and social inclusion in all infrastructure development and governance including
+
+transport, energy, WASH, communication”. 6.4 – Urban to increase data collection and analysis of urbanization and disadvantage in urban areas. See
+Ministry of Women, Community and Social Development of Samoa, National Policy on Gender Equality and Rights of Women and Girls (2021–2031)
+(Apia: Ministry of Women, Community and Social Development, 2021), https://mwcsd.gov.ws/wp-content/uploads/2024/03/National-Policy-on-
+Gender-Equality-and-Rights-of-Women-and-Girls-2021-2031.pdf
+
+                                                                                                                                              Page 19
+                                                                      Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project               PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+Indicators. The Project will track female representation in formal decision-making committees established, and the extent
+to which their needs have been addressed through project activities as part of the urban planning activities.
+
+47. Citizen engagement. Project beneficiaries will inform the project through: (i) consultations and participatory planning
+activities during project implementation (e.g., inclusion of communities and representatives from diverse groups in the
+planning and design of early warning systems and urban planning); (ii) transparent feedback and grievance redress
+mechanisms that will be disseminated among project beneficiaries and the public through social media, websites, and
+communication materials (e.g., consultation handouts); (iii) communication campaigns; (iv) knowledge exchange and
+capacity building opportunities; and (v) development of risk management processes and engagement required under the
+World Bank’s Environmental and Social Framework (ESF), including the Stakeholder Engagement Plan (SEP). The feedback
+provided through the above citizen engagement mechanisms will be used by the IAs to continuously enhance the project
+activities. The feedback will also be summarized in the six-monthly project reports, which will include the necessary
+corrective actions determined in response to the feedback received to inform the remaining implementation period.
+Traditional knowledge will be used to inform the design of activities as relevant. The RF includes two indicators to assess
+citizen engagement related to beneficiaries: whether project activities meet their needs, and timely resolution of
+complaints. Sex- and age-disaggregated data will be used in aggregate for operational and statistical purposes only.
+
+ B. Fiduciary
+48. Procurement. Procurement for the Project will be carried out in accordance with the World Bank Procurement
+Regulations for IPF Borrowers for Goods, Works, Non-Consulting and Consulting Services, Sixth Edition, September 2025,
+as well as the provisions stipulated in the Financing Agreement and the Project’s Procurement Plan (PP). Overall
+procurement risk is assessed as “Moderate” as the implementing agencies are familiar with the World Bank procurement
+procedures and have prior experience using the World Bank procurement document and the Systematic Tracking of
+Exchanges in Procurement (STEP) system. The IAs (MoF, MNRE, and MWTI) will use the STEP system including the contract
+management module, to improve contract implementation; use of the system will equip MNRE and MWTI to better track
+contracts through key deliverables, key performance indicators (KPIs), and payments. The Project’s critical civil works
+activities are low value, with an estimated cost of less than US$5 million for each activity, and local contractors have
+sufficient capacity for construction. The detailed procurement arrangement and market approach are identified in the
+Project Procurement Strategy for Development (PPSD) and initial Procurement Plan. There are some risk factors that will
+negatively impact the project implementation, such as limited capacity of the IAs, the government’s lengthy review and
+approval process for procurement activities, supply chain disruption and inflation due to the global impact of ongoing
+tariff disputes. To mitigate the risks and strengthen the procurement capacity, the following measures have been
+established and agreed to be implemented: (i) a Procurement Officer will be added to the MWTI-PMD; (ii) a Procurement
+Specialist in the CTSSU will provide practical hands-on advice to the stakeholders; (iii) a Project Engineer will be hired to
+draft ToRs, assist in procurement, and manage contracts; and (iv) engineering firms will help prepare bidding documents
+and provide procurement assistance (technical evaluation of bids, support on contract negotiation, and contract
+management). In addition, the World Bank will support the MWTI-PMD in reviewing bidding documents for major works
+and addressing procurement bottlenecks, and will monitor procurement aspects during implementation support missions.
+
+49. Financial Management (FM). FM arrangements for the project are acceptable as required by the World Bank’s Policy
+on Investment Project Financing, with an overall FM risk rated as "Moderate". The FM risk for MNRE and MWTI is rated
+"Moderate" (covering 99% of project activities). The FM risk for MoF is rated as “Low” (covering 1% of the project activities
+under the CERC). While project complexity is increased with three IAs across multiple sectors adding challenges including
+consolidation of financial reports for the total Project, these are mitigated by MWTI-PMD being responsible the day-to-
+day project financial management functions, and consolidation of total project reporting. The residual FM risk is
+“Moderate” as: all three IAs are government ministries bound by the Public Finance Management Act 2001, utilize the
+government's Financial Management Information System (FMIS), operate under International Public Sector Accounting
+                                                                                                                      Page 20
+                                                          Official Use Only
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                       PROJECT APPRAISAL DOCUMENT
+        (P507749)
+
+
+Standards (IPSAS) cash basis accounting, and have previous experience in implementing World Bank financed projects,
+including MWTI consolidating financial reporting for other multi agency/sector projects, with no significant issues
+impacting timely and accurate financial reporting including annual audited financial statements. The Project budget
+appears sufficient to fund the planned activities, and all proposed expenditures appear eligible for financing under IDA
+and SOFF, and only include the standard goods, works, services, training and operating costs. As part of its commitment
+to enhancing transparency and accountability in project financing, the World Bank is offering borrowers and clients access
+to FundsChain, an innovative blockchain-based platform that optimizes real-time tracking of disbursements and
+complements existing financial management systems in support of digitization, transparency, and efficiency. The platform
+can be customized to align with existing financial management systems and the project’s operational context.
+
+ C. Environmental, Social and Legal Operational Policies
+
+50. Environmental and social (E&S). The E&S risks of the project are rated as “Substantial” due to downstream E&S
+implications such as greenspaces, nature conservation, and livelihood impacts when implementing the Sālelologa
+masterplan. Further, beneficiaries and key stakeholders can be unintentionally excluded during the master planning. The
+Environmental and Social Management Framework (ESMF) includes a preliminary assessment of E&S risks and outline a
+process for screening, assessing, and managing these risks during project implementation. An E&S exclusion list and E&S
+screening and site selection tool has been developed. All Technical Assistance activities will manage risks under
+paragraphs 14-18 of ESS1. Risks associated with the procurement, installation, and operation of monitoring equipment
+will be mitigated through procurement specifications and standard operating procedures as needed. Other adverse E&S
+risks are predictable and can be effectively managed through project design and standard E&S mitigation measures
+(including E&S considerations in site selection) to avoid serious adverse effects to human health and safety. The project
+has prepared several E&S instruments namely an ESMF, SEP; ToRs for a SESA of the Sālelologa Master Plan; and an
+Environmental and Social Commitment Plan (ESCP).41 MNRE and MWTI have prior experience managing E&S risks under
+World Bank-financed projects. An E&S focal point was appointed for project preparation, and the GoS has committed
+through the ESCP to recruiting or appointing a dedicated Senior Safeguards Officer and maintaining the CTSSU with
+qualified staff to support management of E&S risks and project impacts during implementation. The Project will partially
+utilize Samoa's country E&S framework, such as the environmental permitting process, augmented with gap filling
+measures to ensure compliance with the relevant ESSs.
+
+51. The ESMF includes a gap analysis of Samoa’s E&S framework relevant to project activities and risks against the
+World Bank Environmental and Social Framework (ESF). The ESMF includes procedures for screening, assessing and
+managing E&S impacts to address the national environmental permit process, land access processes, regulatory
+arrangements for managing labor and Occupational Health and Safety (OHS) risks, and statutory public consultation
+requirements. The ESCP describes the material measures and actions and timing to ensure compliance with the World
+Bank's Environmental and Social Standards (ESSs). The ESCP includes: maintaining adequate E&S resources; the
+implementation of the E&S screening process and land access process as part of the ESMF; preparation of site-specific
+environmental and social assessments; the incorporation of E&S considerations in Project-financed technical assistance;
+labor and working condition requirements; and measures for preventing and responding to sexual exploitation and abuse
+(SEA)/sexual harassment (SH).
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+
+
+
+41 The Government of Samoa disclosed the ESMF, SEP and ESCP on June 30, 2025, and the World Bank disclosed the same version of the SEP and
+
+ESCP on the same date.
+
+                                                                                                                                  Page 21
+                                                                Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                         PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+
+ Legal Operational Policies                                                                      Triggered?
+ Projects on International Waterways OP 7.50                                                     No
+ Projects in Disputed Area OP 7.60                                                               No
+
+
+
+52. Legal Operational Policies. None of the investments financed by this Project will use or risk polluting international
+waterways or are in disputed areas.
+
+ D. Grievance Redress Services
+53. Grievance Redress. Communities and individuals who believe that they are adversely affected by a project supported
+by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s Grievance Redress
+Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address project-related
+concerns. Project affected communities and individuals may submit their complaint to the Bank’s independent
+Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm occurred, or could
+occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute Resolution Service, which
+provides communities and borrowers with the opportunity to address complaints through dispute resolution. Complaints
+may be submitted to the AM at any time after concerns have been brought directly to the attention of Bank Management
+and after Management has been given an opportunity to respond. For information on how to submit complaints to the
+Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how to submit
+complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+ V. KEY RISKS
+
+54. The overall risk of the proposed project to achieving the PDO is assessed to be “Moderate”, as shown in the
+Systematic Operations Risk-Rating Tool (SORT) in the Data Sheet. Risks have been assessed on a residual basis (except
+for Environmental and Social) based on mitigation measures identified. The one Risk Category rated “Substantial” is
+described below.
+                                           Table 2: Summary of Key Risks
+ 1. Environmental and Social (Substantial)
+ Risk: Environmental risk is rated as “Substantial” mainly due to the potential downstream environmental risks and implications
+ such as greenspaces, natural environment, nature conservation and biodiversity, flooding, water quality, land use, and climate
+ change associated with the Sālelologa township plan. Key environmental risks and impacts of the emergency management
+ infrastructure may be direct, indirect, and cumulative and relate to dust, noise, erosion and sedimentation, resource
+ consumption, waste generation, worker safety, and hazardous waste disposal (e.g., contaminated oil and e-waste). Social risk is
+ rated as “Substantial” due to the potential for: (i) land and livelihood impacts associated with proposed investments in
+ emergency management infrastructure, township planning in Sālelologa (and associated downstream impacts of planning
+ decisions), and investments in resilient public facilities; (ii) community health and safety risks associated with construction/labor
+ influx (e.g., antisocial behavior, transmissible disease, and SEA/SH); and (iii) labor and working condition risks.
+ Mitigation Measures: Potential environmental impacts are site-specific, predictable, and manageable through standardized
+ environmental and social risk management or subproject E&S instruments under the World Bank and Samoa's E&S frameworks.
+ Social risks are expected to be predictable and readily managed through standard social mitigation measures and rigorous E&S
+ and stakeholder engagement processes.
+
+
+
+
+                                                                                                                                   Page 22
+                                                                Official Use Only
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                                                    PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+
+ANNEX 1. RESULTS FRAMEWORK
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                                                    Closing Period
+   To strengthen disaster preparedness and increase resilience to climate and disaster risks, and in case of an eligible crisis or emergency, respond promptly and effectively to it.
+   People benefiting from climate resilient infrastructure (Number of people) CRI
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           40,000
+     ➢People benefiting from climate resilient infrastructure - Female (Number of people) CRI
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           20,000
+     ➢People benefiting from climate resilient infrastructure - Youth (Number of people) CRI
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           20,000
+   People benefitting from climate resilient planning, preparation, surveillance, and/or response (Number of people) CRI
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           180,000
+     ➢People benefitting from climate resilient planning, preparation, surveillance, and/or response - Female (Number of people) CRI
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           90,000
+     ➢People benefitting from climate resilient planning, preparation, surveillance, and/or response - Youth (Number of people) CRI
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           90,000
+   Population with access to an enhanced emergency response system provided by functioning emergency management infrastructure (Percentage)
+   Oct/2025                                                                                    Dec/2031
+   0                                                                                           90
+
+
+
+
+                                                                                         Official Use Only                                                                              Page 23
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                                             PROJECT APPRAISAL DOCUMENT
+       (P507749)
+
+
+
+Intermediate Indicators by Components
+
+   Baseline                                                                                Closing Period
+   Component 1: Hazard Monitoring and Early Warning Systems
+   GBON land-based and upper air stations’ commissioning period completed, country-specific standard cost for operations and maintenance established, and data sharing verified
+   by WMO Technical Authority (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       3
+   Monitoring and communication equipment functional and complying with SOPs (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       50
+   Early warning systems, services, and/or products operationalized (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       6
+   Multi-hazard early warning policies, regulations and/or SOPs adopted (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       4
+   Personnel trained and proficient in multi-hazard early warning systems (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       300
+   Component 2: Emergency Preparedness and Response
+   Emergency management infrastructure constructed and is functional and accessible (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       5
+   Line ministries and state-owned enterprises with business continuity plans updated and adopted (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       10
+   Standard operating procedures and frameworks for emergency preparedness and response developed and approved (Number)
+   Oct/2025                                                                                Dec/2031
+   0                                                                                       4
+
+
+
+
+                                                                                     Official Use Only                                                                            Page 24
+    The World Bank
+    Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                                                   PROJECT APPRAISAL DOCUMENT
+    (P507749)
+
+
+People covered by an enhanced emergency alert system (Percentage)
+Oct/2025                                                                                    Dec/2031
+0                                                                                           90
+Component 3: Resilient Infrastructure
+New or updated urban plans, policies and regulations integrating climate and disaster resilience (Number)
+Oct/2025                                                                                    Dec/2031
+0                                                                                           3
+Designs completed for public facilities and/or spaces that meet the project’s resilience standards (Percentage)
+Oct/2025                                                                                    Dec/2031
+0                                                                                           4
+Resilient public facilities and/or spaces constructed or rehabilitated (Number)
+Oct/2025                                                                                    Dec/2031
+0                                                                                           4
+Female representation in decision-making committees on urban planning (percentage) (Percentage)
+Oct/2025                                                                                    Dec/2031
+38                                                                                          50
+Component 4: Project Management
+Female beneficiaries in project areas who report that project activities regarding reduced climate and disaster risks in urban areas reflect their needs (percentage) (Percentage)
+Oct/2025                                                                                    Dec/2031
+0                                                                                           70
+Issues and complaints raised in the project’s feedback and grievance redress mechanism addressed within 30 calendar days (Percentage)
+Oct/2025                                                                                    Dec/2031
+0                                                                                           75
+Component 5: Contingent Emergency Response Component
+
+
+
+
+                                                                                      Official Use Only                                                                              Page 25
+         The World Bank
+         Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                 PROJECT APPRAISAL DOCUMENT
+         (P507749)
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+
+People with enhanced resilience to climate risks (number, disaggregated by sex and age)
+                         This indicator measures the number of individuals who have improved their resilience to climate-related risks as a result
+                         of project interventions. There are two sub-indicators:
+
+                                •    People benefiting from climate-resilient infrastructure. The first sub-indicator includes the number of people
+                                     that benefits from the resilient infrastructure improvements in Savai’i (Component 3).
+                                •    People benefitting from climate resilient planning, preparation, surveillance, and/or response. The second sub-
+Description
+                                     indicator assesses the number of individuals who have improved their resilience to climate-related risks as a
+                                     result of the adoption of urban plans, policies, and regulations that incorporate climate and disaster risk
+                                     consideration (Component 3), and the number of people that has access to an enhanced MHEWS that has been
+                                     improved directly by project activities (Component 1).
+
+                           The results will be disaggregated by sex and age to assess equitable benefits.
+Frequency                  Bi-annually
+                           (i) Reports from MWTI assessing whether practical completion of climate-resilient infrastructure has been completed
+                           and number of people benefiting from the infrastructure. (ii) Reports from the MNRE, including the Samoa Meteorology
+Data source                Division, Water Resource Division, and Disaster Management Office, on population covered by enhancements to
+                           MHEWS products and systems, as well as statistical information on community outreach initiatives, and reports from the
+                           MWTI, urban planning documents, completion reports of public facilities, and demographic data from national statistics.
+                           (i) Data collection includes government calculations of people served by completed climate-resilient infrastructure as
+                           certified by engineering supervision reports for related civil works activities. (ii) Data collection includes government
+Methodology for Data       calculations of population coverage for MHEWS systems and products, and calculation of participants from community
+Collection                 outreach initiatives, and analyzing reports from the MWTI regarding adopted urban plans and policies, as well as project
+                           completion reports of resilient public facilities. Additionally, demographic data will be used to establish the population
+                           size benefiting from these initiatives.
+Responsibility for Data
+                           MNRE and MWTI, coordinated by MWTI-PMD
+Collection
+
+
+
+ Population with access to an enhanced emergency response system provided by functioning emergency management infrastructure
+(percentage, disaggregated by sex and age)
+                          This indicator measures the percentage of the population that have access national-level emergency management
+Description               infrastructure for meteorological and seismic operations centers that are fully functioning with internal fitouts completed
+                          and provide sufficient spatial and operational requirements for inter-agency emergency response (Component 2)
+Frequency                 Bi-annually
+                          Reports from MNRe assessing whether practical completion of national-level meteorological and seismic operations
+Data source
+                          facilities have been completed and number of people benefiting from the facilities.
+                          Data collection includes government calculations of people benefiting from the completed facilities as certified by
+Methodology for Data      engineering supervision reports for civil works activities. Data will also involve analysis of operations logs and interviews
+Collection                with relevant personnel to confirm the facilities are fully functioning. Documentation from inter-agency meetings will also
+                          be reviewed to determine their operational status.
+Responsibility for Data
+                          MNRE, coordinated by MWTI-PMD
+Collection
+
+
+
+
+                                                                        Official Use Only                                                     Page 26
+         The World Bank
+         Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                              PROJECT APPRAISAL DOCUMENT
+         (P507749)
+
+
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+
+Component 1
+
+
+ GBON land-based and upper air stations’ commissioning period completed, country-specific standard cost for operations and maintenance
+established, and data sharing verified by WMO Technical Authority (number)
+                          This indicator tracks the number of GBON land-based and upper air stations that have completed their commissioning
+Description               period. It also measures the establishment of country-specific standard costs for operations and maintenance and the
+                          verification of data sharing by the WMO Technical Authority.
+Frequency                 Bi-annually
+                          Installation and integration reports from GBON stations, financial records detailing operation and maintenance costs, and
+Data source
+                          verification of data sharing from the WMO Technical Authority.
+                          Data collection includes reviewing installation and integration reports that confirm stations are fully operational within
+Methodology for Data
+                          the GBON network. Data sharing is verified with records from the WMO Technical Authority to ensure compliance and
+Collection
+                          connectivity.
+Responsibility for Data
+                           MNRE, coordinated by MWTI-PMD
+Collection
+
+ Monitoring and communication equipment functional and complying with SOPs (number)
+                        This indicator tracks the number of monitoring and communication equipment that are operational and compliant with
+Description             established Standard Operating Procedures (SOPs) related to hazard monitoring. It ensures that equipment is reliable
+                        and effective for hazard monitoring and communication during emergencies.
+Frequency                Bi-annually
+Data source              Maintenance logs from equipment operators, inspection reports, and compliance checklists related to SOP adherence.
+                         Data collection involves reviewing maintenance logs and conducting physical inspections of monitoring and
+Methodology for Data
+                        communication equipment to verify functionality. Compliance with SOPs is assessed using checklists during these
+Collection
+                        inspections.
+Responsibility for Data
+                         MNRE, coordinated by MWTI-PMD
+Collection
+
+ Early warning systems, services, and/or products operationalized (number)
+                          This indicator measures the number of early warning systems, services, and products that have been successfully
+Description
+                          operationalized, specifically focusing on the upstream components related to hazard monitoring.
+Frequency                  Bi-annually
+                          Implementation reports from MNRE, operational logs of early warning systems, user feedback surveys, and
+Data source
+                          service/product deployment records.
+                          Data collection includes reviewing implementation and operational reports to confirm the functionality of early warning
+Methodology for Data
+                          systems, conducting surveys to gather feedback on effectiveness and user satisfaction, and analyzing deployment records
+Collection
+                          for the number of systems and products made operational.
+Responsibility for Data
+                           MNRE, coordinated by MWTI-PMD
+Collection
+
+ Multi-hazard early warning policies, regulations and/or SOPs adopted (number)
+                          This indicator measures the number of multi-hazard early warning policies, regulations, and/or SOPs related to early
+Description
+                          warning that have been formally adopted to enhance disaster preparedness and response across various hazards.
+Frequency                 Bi-annually
+Data source               Official policy documents, legislative records, and minutes from relevant governance meetings.
+                          Data is collected by reviewing official documents to identify newly adopted multi-hazard early warning policies and
+Methodology for Data
+                          regulations. Legislative records are analyzed for any changes or new SOPs, and governance meeting minutes are
+Collection
+                          reviewed for adoption confirmation.
+
+
+
+                                                                      Official Use Only                                                    Page 27
+          The World Bank
+          Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                               PROJECT APPRAISAL DOCUMENT
+          (P507749)
+
+
+ Responsibility for Data   MNRE, coordinated by MWTI-PMD
+ Collection
+
+  Personnel trained and proficient in multi-hazard early warning systems (number, gender disaggregated)
+                           This indicator tracks the total number of personnel trained who have demonstrated proficiency in operating multi-
+ Description
+                           hazard early warning systems (MHEWS), with data disaggregated by gender.
+ Frequency                 Bi-annually
+ Data source               Training attendance records and departmental documentation.
+ Methodology for Data      Data is collected by reviewing training attendance records and departmental documentation confirming demonstrated
+ Collection                proficiency.
+ Responsibility for Data
+                           MNRE, coordinated by MWTI-PMD
+ Collection
+
+
+Component 2
+
+
+ Emergency management infrastructure constructed and is functional and accessible (number)
+                         This indicator measures the number of emergency management infrastructure facilities that have been constructed, are
+ Description
+                         operational, and are easily accessible to the community for effective disaster response and recovery.
+ Frequency               Bi-annually
+ Data source             Construction completion reports and operational assessment records, along with accessibility evaluation reports.
+ Methodology for Data    Data collection involves reviewing construction completion reports to confirm the number of completed facilities and
+ Collection              conducting assessments to verify their functionality and accessibility for the community.
+ Responsibility for Data
+                          MNRE, coordinated by MWTI-PMD
+ Collection
+
+  Line ministries and state-owned enterprises with business continuity plans updated and adopted (number)
+                            This indicator measures the number of line ministries and state-owned enterprises that have updated and adopted
+ Description
+                            business continuity plans to ensure operational resilience during emergencies.
+ Frequency                  Bi-annually
+ Data source                Business continuity plan documentation and adoption records from line ministries and state-owned enterprises.
+ Methodology for Data       Data collection will involve reviewing official documents and records of business continuity plans to confirm updates and
+ Collection                 adoption by relevant entities.
+ Responsibility for Data
+                            MNRE, coordinated by MWTI-PMD
+ Collection
+
+ Standard operating procedures and frameworks for emergency preparedness and response developed and approved (number)
+                          This indicator measures the number of frameworks and standard operating procedures (SOPs) related to emergency
+ Description
+                          preparedness and response that have been developed, approved, and are in use.
+ Frequency                Bi-annually
+ Data source              Records of approved SOPs and frameworks from MNRE and other relevant entities.
+ Methodology for Data     Data collection will include reviewing approval records and assessing the implementation status of the developed SOPs
+ Collection               and frameworks.
+ Responsibility for Data
+                          MNRE, coordinated by MWTI-PMD
+ Collection
+
+
+ People covered by an enhanced emergency alert system (percentage)
+                           This indicator measures the percentage of the population that is covered by the enhanced emergency alert system
+ Description
+                           capable of disseminating timely alerts during emergencies.
+ Frequency                 Bi-annually
+ Data source               Population statistics and coverage assessments of the emergency alert system.
+
+
+
+                                                                       Official Use Only                                                     Page 28
+          The World Bank
+          Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                                 PROJECT APPRAISAL DOCUMENT
+          (P507749)
+
+
+ Methodology for Data       Data collection will involve analyzing population data and evaluating the operational reach and effectiveness of the
+ Collection                 emergency alert system to determine coverage levels.
+ Responsibility for Data
+                            MNRE, coordinated by MWTI-PMD
+ Collection
+
+
+Component 3
+
+
+ New or updated urban plans, policies and regulations integrating climate and disaster resilience (number)
+                         This indicator measures the number of urban plans, policies, and regulations that have been developed or updated to
+ Description
+                         incorporate climate and disaster resilience considerations.
+ Frequency               Bi-annually
+ Data source             Official documentation of urban plans, policies, and regulations from relevant authorities.
+ Methodology for Data    Data collection will involve reviewing project documentation and governmental records to verify the adoption of new or
+ Collection              updated plans and policies.
+ Responsibility for Data
+                         MWTI, coordinated by MWTI-PMD
+ Collection
+
+ Designs completed for public facilities and/or spaces that meet the project’s resilience standards (number)
+                          This indicator measures the number of detailed designs for public facilities and/or spaces that have been completed to
+ Description
+                          the specified resilience standards outlined in the project.
+ Frequency                Bi-annually
+ Data source              Detailed design documentation
+ Methodology for Data
+                          Data collection will include reviewing design specifications to confirm adherence to resilience standards.
+ Collection
+ Responsibility for Data
+                          MWTI, coordinated by MWTI-PMD
+ Collection
+
+ Resilient public facilities and/or spaces constructed or rehabilitated (number)
+                              This indicator measures the number of public facilities and/or spaces that have been constructed or rehabilitated
+ Description
+                              according to resilience standards as part of the project.
+ Frequency                    Bi-annually
+ Data source                  Construction completion reports and operational status assessments of public facilities and spaces.
+ Methodology for Data         Data collection will involve reviewing construction reports and conducting site inspections to verify the completion and
+ Collection                   resilience of facilities/spaces.
+ Responsibility for Data
+                              MWTI, coordinated by MWTI-PMD
+ Collection
+
+ Female representation in decision-making committees on urban planning (percentage)
+                          This indicator measures the percentage of women represented in formal urban planning decision-making committees
+                          established under the Project. It captures both overall female membership and the presence of women in leadership
+                          positions (Chair or Co-Chair), in line with the Project’s requirement that each committee include at least one female
+ Description
+                          Chair or Co-Chair. The urban planning decision-making committees established under the project will be sustained
+                          beyond the project closing date as per Part IV of the Planning and Urban Management Act 2004, or any subsequent
+                          revision of this act.
+ Frequency                 Bi-annually
+ Data source              Records from meetings, committee membership lists, and consultation reports.
+ Methodology for Data     Data collection will involve reviewing attendance records and membership data to assess female’s representation in
+ Collection               relevant committees, including that at least the Chair or Co-Chair is female to ensure influence at this level.
+ Responsibility for Data
+                           MWTI, coordinated by MWTI-PMD
+ Collection
+
+
+
+                                                                         Official Use Only                                                     Page 29
+          The World Bank
+          Pacific Region Preparedness, Adaptation and Resilience - Samoa Project                               PROJECT APPRAISAL DOCUMENT
+          (P507749)
+
+
+
+
+Component 4
+
+
+ Female beneficiaries in project areas who report that project activities regarding reduced climate and disaster risks in urban areas reflect their
+ needs (percentage)
+                           This indicator measures the percentage of female beneficiaries in project areas who perceive that the project activities
+ Description
+                           address their specific needs related to reducing climate and disaster risks.
+ Frequency                  Bi-annnually
+ Data source               Surveys and interviews with female beneficiaries in project areas.
+ Methodology for Data      Data collection will involve conducting surveys or focus group discussions with female beneficiaries to gather qualitative
+ Collection                and quantitative feedback regarding the alignment of project activities with their needs.
+ Responsibility for Data
+                            MWTI-PMD
+ Collection
+
+  Issues and complaints raised in the project’s feedback and grievance redress mechanism addressed within 30 calendar days (percentage)
+                            This indicator measures the percentage of issues and complaints registered through the project’s feedback and grievance
+ Description
+                            redress mechanism that are resolved within a specified timeframe of 30 calendar days.
+ Frequency                  Bi-annnually
+ Data source                Records from the feedback and grievance redress mechanism, including logs of complaints, resolutions, and timelines.
+ Methodology for Data       Data collection will involve reviewing complaint records to calculate the percentage of complaints addressed within the
+ Collection                 30-day period and assessing resolution quality.
+ Responsibility for Data
+                             MWTI-PMD
+ Collection
+
+
+
+
+                                                                        Official Use Only                                                    Page 30
+

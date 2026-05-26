@@ -1,0 +1,780 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 25-Nov-2025 | Report No: PIDPA00228
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                              Official Use Only
+     The World Bank
+     Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                       Operation ID                Operation Name
+                                                                                        Uganda Cities and
+                               EASTERN AND SOUTHERN                                     Municipalities
+Uganda                                                      P511300
+                               AFRICA                                                   Infrastructure
+                                                                                        Development (UCMID)
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date     Practice Area (Lead)
+Program-for-Results
+                               03-Nov-2025                  10-Feb-2026                 Urban, Resilience and Land
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+Ministry of Finance,
+                               Ministry of Lands, Housing
+Planning and Economic
+                               and Urban Development
+Development
+
+Proposed Program Development Objective(s)
+The PDO is to enhance the institutional performance of selected urban local governments and ministries for urban
+planning and management and improve access to climate smart infrastructure, services and jobs for urban residents
+and displaced populations in refugee-hosting areas.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Government program Cost                                                                                      540.00
+
+  Total Operation Cost                                                                                         540.00
+    Total Program Cost                                                                                      510.00
+    IPF Component                                                                                              30.00
+  Total Financing                                                                                              540.00
+
+  Financing Gap                                                                                                  0.00
+
+
+                                                                                                                  Page 1
+
+
+
+                                                                                                        Official Use Only
+             The World Bank
+             Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+    FINANCING
+       Total World Bank Group Financing                                                                                      540.00
+          World Bank Lending                                                                                                 540.00
+
+    @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+    Decision
+
+
+
+
+    B. Introduction and Context
+
+
+     Country Context
+
+1.       Uganda is at a critical juncture in its development trajectory. With an annual urban growth rate of 5.2% - among
+the fastest in Africa – and a population projected to surpass rural numbers by 2060, the country’s cities and towns are
+increasingly central to economic transformation. Urban areas are already hubs for trade, services, and manufacturing, and
+account for more than 1/3rd of all new jobs created. Uganda’s Fourth National Development Plan (NDP IV) (2025/26–
+2029/30) sets ambitious targets: achieving higher household incomes, full monetization of the economy, and creating 2.5
+million new jobs. Urbanization is recognized as a critical enabler of these goals, especially for youth and women.
+2.       Despite recent economic growth, Uganda’s development needs remain immense. Limited public financing - driven
+by low domestic revenue, rising debt service costs, and persistent under-execution of the development budget (with
+absorption shortfalls of 5-12% and budget credibility gaps of 14-22%1) - has restricted fiscal space for infrastructure
+expansion. However, the challenge is not solely about funding. Technical capacity gaps, fragmented planning, and weak
+institutional systems also constrain the effectiveness of investments. This is reflected in gaps such as urban roads (only
+13% of the network is urban, and less than half is paved), poor public transport integration, and inadequate solid waste
+management (only 30-40% collected, only 4% recycled). Unplanned spatial expansion and weak urban planning further
+threaten productivity, environmental sustainability, and resilience. Addressing these issues requires not just increased
+investment, but also robust reforms, strengthened systems, and enhanced technical capacity to ensure resources translate
+into sustainable results.
+3.      Climate change further compounds these pressures. Uganda ranks 14th globally in disaster risk and 48th in
+preparedness, facing frequent floods, mudslides, and extreme weather events. Vulnerable communities, especially the
+urban poor, contend with limited job security, poverty, and poor access to basic services. As part of the Paris Agreement,
+Uganda aims to reduce emissions by 24.7% by 2030 and has enacted the 2021 National Climate Change Act to strengthen
+mitigation and adaptation2. The UCMID Program consolidates climate adaptation and mitigation into a single strategy,
+supporting investments in drainage, green infrastructure, nature-based solutions, and low-carbon mobility. At least 60%
+of program-financed investments will deliver measurable climate co-benefits.
+
+
+1 MoFPED, Semi-Annual and Annual Budget Performance Reports FY 2019/20–2023/24; UNICEF National Budget Brief FY 2023/24
+
+2
+    Uganda Updated Nationally Determined Contribution (NDC), September 2022
+
+
+
+                                                                                                                                  Page 2
+
+
+
+                                                                                                                          Official Use Only
+            The World Bank
+            Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+   Sectoral and Institutional Context
+
+4.      Uganda’s cities and towns are critical engines of economic growth and jobs; however, unplanned spatial expansion
+threatens to curtail this productive function of urban areas. Uganda’s urban areas generate around 70%3 of the country’s
+non-agricultural Gross Domestic Product (GDP) and account for 36% of total job creation. Urban areas are growing swiftly,
+almost twice as fast as the national growth rate. The urban population, which currently stands at 27% (2024 Census), is
+projected to surpass the rural population by 20604, increasing pressure on urban infrastructure, services, and natural
+resources. Urban economies hold significant potential for local economic development and job creation, particularly for
+youth and women. Uganda is projected to add about 1 million new entrants to the labor force each year from 2025 to
+2035, totaling 10 million people5. With over 75% of the population under 35 and a median age of 15.9 years, the country
+faces growing pressure to generate productive employment6. Yet, the economy currently creates only a fraction of the
+jobs needed, with most young people working in informal or unpaid roles. Urban areas offer the greatest opportunity to
+absorb this expanding labor force through diversified economic activities, infrastructure investment, and enterprise
+growth.
+5.      Lack of integrated urban planning has hampered productivity-enhancing urban development. Uganda’s urban
+planning faces critical gaps, and yet, only the Greater Kampala Metropolitan Area (GKMA) has a spatial plan. Most urban
+areas rely on basic physical plans that are neither integrated with spatial nor economic development strategies, leaving
+investments unguided. In newly upgraded secondary cities, plans often exclude expanded boundaries, while many smaller
+municipalities lack plans altogether. Uncontrolled spatial expansion has led to urban sprawl, higher infrastructure costs,
+environmental degradation, pollution, and increased flooding. Weak land ownership systems and complex administration
+further hinder development control and infrastructure investments. Local governments lack qualified personnel for
+planning and enforcement, while MoLHUD lacks the capacity to establish the legally mandated integrated urban planning
+system or support Local Governments (LGs) in preparing their plans, undermining efforts for sustainable urbanization.
+6.      Urban infrastructure has failed to keep up with the pressing needs. Urban roads make up only 13% (19,959 km)
+of the country’s road network. In addition, the quality of these roads is poor, with less than half being paved (1,188 km)7.
+Public transport lacks integration, primarily catering to motorized vehicles with limited options for pedestrians and
+alternative transit modes. Urban flooding has worsened due to poor drainage systems and solid waste management
+(SWM) in urban areas. Generally, only 30-40% of urban solid waste is collected, and only 4% is currently being reused and
+recycled. Poor waste collection practices exacerbate urban flooding risks, as drainage systems become clogged and
+encroached wetlands lose their flood-buffering capacities.
+7.       Institutional weaknesses, especially at the local level, constrain effective urban management. Limited technical
+and financial capacity8 restricts their ability to implement effective planning, deliver essential services, and enforce
+regulations. These gaps mean that even when resources are available, their impact is diminished—critical infrastructure
+suffers, as seen in the accelerated deterioration of roads due to insufficient maintenance and rehabilitation, which further
+compounds future costs. Addressing these challenges requires more than additional funding; it demands targeted
+capacity-building, institutional reforms, and the establishment of sustainable systems to ensure that investments translate
+into lasting improvements and support Uganda’s urban growth and economic transformation objectives.
+
+
+3 Ministry of Lands, Housing & Urban Development, Uganda State of Urban Sector Report – 2021-2022
+
+4 The demographic boom: An explainer on Uganda’s population trends, World Bank – February 2021
+5 https://eprcug.org/eprc-in-the-news/where-should-the-ndp-iv-focus-to-create-more-jobs/
+6 https://www.worldbank.org/en/country/uganda/publication/uganda-jobs-strategy-creating-more-jobs-for-ugandas-youth-and-economic-transformation
+7 Urban Sector Report – 2024, MoLHUD
+8 A comprehensive baseline data set from 47 LGs showed deficiencies in planning frameworks, revenue collection, procurement, financial management, project execution, E&S safeguards, and staffing.
+
+
+
+                                                                                                                                                                                                              Page 3
+
+
+
+                                                                                                                                                                                                      Official Use Only
+       The World Bank
+       Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+8.       Refugee-hosting districts (RHDs) are increasingly experiencing pressures, particularly in rapidly growing secondary
+towns and urban centers that accommodate refugees. These areas face acute challenges in delivering adequate urban
+infrastructure and services—such as health, education, housing, water and sanitation, solid waste management, and
+mobility systems—amid overstretched municipal capacities. Drawing on lessons from the Uganda Support to Municipal
+Infrastructure Development Additional Financing (USMID AF), the proposed operation ill place stronger emphasis on urban
+resilience and inclusion by: (i) mitigating the urban impacts of refugee influxes while fostering inclusive local economic
+development for both refugees and host communities; (ii) supporting sustainable solutions to protracted displacement by
+promoting the socio-economic integration of refugees in urban environments; (iii) improving livelihoods and expanding
+access to social services, markets, goods, and job opportunities for refugees and Refugee Host Community (RHC); (iv)
+strengthening preparedness and adaptive capacity to manage future refugee flows while preventing uncontrolled urban
+expansion and guiding growth toward sustainable, planned development; and (v) reinforcing social cohesion and peaceful
+co-existence through inclusive urban planning, service delivery, and community-level investments.
+9.       Uganda will require concerted urban reforms to navigate this pivotal moment in its urban transition. With urban
+population projected to more than double in the next two decades, the challenge is to ensure that rapid expansion
+translates into productive jobs for a youthful labor force rather than fragmented sprawl and informality. The government
+of Uganda (GoU) has already taken important strategic and institutional steps. Notably, the Sustainable Urbanization and
+Housing (SUH) program targets “higher household incomes and employment for sustainable socio-economic
+transformation” and covers the following five strategic objectives: urban infrastructure, physical planning, drainage and
+waste management, economic opportunities, affordable housing, and policy, legal and institutional strengthening. The
+GoU has also established 10 new secondary cities and now is preparing to upgrade 5 additional municipalities into cities,
+prioritizing metropolitan management for Greater Kampala, and anchoring growth on strategic corridors. The next step in
+the urban reform is to equip and support cities and municipalities to meet these strategic and institutional goals and to
+consolidate these initiatives into a coherent programmatic framework that positions cities as engines of inclusive growth,
+resilience, and innovation. Supporting sustainable waste management in urban areas will also be critical in the next five
+years.
+10.      The reform path builds on hard-won lessons from earlier Bank-financed and government-led programs. USMID
+demonstrated the value of performance-based grants to strengthen local systems, expand infrastructure, and crowd in
+owned source revenue increase. GKMA-UDP has introduced metropolitan coordination, but also revealed persistent gaps
+in land acquisition, E&S enforcement, and cross-jurisdiction planning. The Uganda Intergovernmental Fiscal Transfers
+Program (UGiFT) highlighted the results-based transfers to incentivize social service delivery, while Uganda Strengthening
+Public Investment and Asset Management for Growth and Resilience Operation (PIM PLUS) underscores the importance
+of sound project preparation, appraisal, and portfolio management for long-term efficiency. Together, these experiences
+point to the need for a programmatic approach that integrates fiscal transfers, institutional strengthening, and governance
+
+  PforR Program Scope
+
+11.     The Government of Uganda program (p) is the Sustainable Urbanization and Housing (SUH) is one of the eighteen
+flagship programs under the NDPIV for the period 2025–2030, with the goal of “achieving higher household incomes and
+employment for sustainable socio-economic transformation.” The government program includes five strategic objectives
+covering urban infrastructure, physical planning, drainage and waste management, economic opportunities, affordable
+housing and policy, legal and institutional strengthening. The UCMID Program (P) will cover a subset of the SUH program
+targeting investment areas eligible for PforR funding. The program will cover ten secondary cities, eleven municipalities
+supported under the previous USMID Program, fifteen new municipalities and eleven refugee-hosting districts (RHDs).
+The new municipalities can only be admitted to the program upon demonstrating compliance with the minimum access
+conditions, including adequate institutional capacity and the prepared physical development plans. Furthermore,
+
+                                                                                                                        Page 4
+
+
+
+                                                                                                                Official Use Only
+       The World Bank
+       Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+implementation of the physical investments in the new municipalities is expected to commence in year two after
+preparation of the subprojects designs and required safeguards documents and enhancing their ESHS risk management
+and capacities. The WHR shall focus on the economic integration of host communities and refugees. Eligible urban areas
+in the RHD will be selected if their plans and strategies and prioritized infrastructure demonstrate a clear focus on
+improving livelihoods of both refugees and the host communities. Intervention areas considered risky for implementation
+under the PforR arrangement will be excluded. The following areas of the government program will not be included: (i)
+public transport, especially the BRT and LRT, (ii) SWM infrastructure especially “brown fields”, and (iii) housing
+development services and institutions. Furthermore, high-value contracts involving procurement of goods, works, and
+non-consulting and consulting services whose estimated values exceed the applicable Operational Procurement Review
+Committee thresholds set out in the World Bank’s Procurement Procedure are not within the Program boundaries and
+are excluded from the Program.
+12.      UCMID represents the next phase of Uganda’s urban reform agenda, placing cities at the heart of job creation,
+productivity gains, and economic transformation. By channeling investment through economic corridors, the Program will
+improve access to regional markets, reduce congestion, lower logistics costs, and enable small and medium enterprises
+to thrive—particularly those employing youth and women. Linking fiscal transfers with strengthened PFM, procurement,
+and safeguards systems will enhance accountability and ensure that urban investments are climate-resilient, inclusive,
+and sustainable. Reductions in congestion and flood-related disruptions—reflected in fewer “flood days”—will increase
+market uptime, shorten travel times, and connect workers more efficiently to jobs, thereby improving firm productivity
+and supporting better-quality, more sustainable employment. Most importantly, UCMID will institutionalize reforms that
+position cities as drivers of Uganda Vision 2040 and Uganda National Development Plan IV by aligning urban growth with
+a long-term jobs agenda, leveraging private sector participation, and building governance systems that enable continuity
+and scale. Through these reforms, UCMID will: (i) generate immediate construction jobs and create sustainable
+employment in urban services and operations, (ii) stimulate local economies and entrepreneurship—especially for youth,
+women, and MSMEs, and (iii) foster inclusion and skills development for Uganda’s next generation of urban workers.
+13.     Development partners play a crucial role in supporting Uganda's urban development initiatives. The World Bank
+is a member of the Urban Development Partners Group, which brings together key actors interested in supporting the
+Government of Uganda’s urbanization agenda. The active partners include the Agence Française de Développement (AFD),
+the European Union (EU), and the Asian Infrastructure Investment Bank (AIIB), and the Japanese International Cooperation
+Agency (JICA), all of which align with Uganda's urbanization goals. AFD is currently co-financing with the World Bank the
+GKMA-UDP and other projects in four secondary cities in Uganda. The EU finances several projects that focus on
+sustainable urban development, emphasizing green urbanization and industrialization. AIIB, with its broader mission to
+promote sustainable cities and infrastructure. Although the task team has been exploring opportunities for co-financing
+and/or parallel financing from these partners to support UCMID, aiming to leverage financing sources for their strengths
+in urban resilience and infrastructure development, no development partner has confirmed yet.
+14.      At least 5.6 million people are expected to directly benefit from the program (50% of them women), these include
+urban residents in participating cities, municipalities, and refugee-hosting districts, who will benefit from improved access
+to essential urban infrastructure and services—such as all-weather roads, stormwater drainage, street lighting, public
+markets, and other urban amenities. These investments will enhance mobility, reduce flood risks, and improve public
+safety, while also stimulating local economic activity. By program closure, the UCMID is expected to directly support the
+creation of approximately 5,000 permanent jobs in market operations, maintenance services, waste management, and
+logistics. Beyond direct employment creation, the Program will enable an expanded ecosystem for micro, small, and
+medium enterprises (MSMEs), unlocking multiplier effects across construction, services, logistics, and retail sectors.
+Strengthened infrastructure and improved market access will reduce business costs, stimulate demand for labor, and
+improve household incomes in participating urban areas. These opportunities will particularly benefit women, youth, and
+
+
+                                                                                                                         Page 5
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+low-income populations by improving their access to livelihoods and economic participation. Expanded infrastructure will
+also create a more enabling environment for informal and small-scale businesses, vendors, and traders to thrive.
+
+ C. Proposed Program Development Objective(s)
+
+ 15.      The program development objective is to enhance the institutional performance of selected urban local
+ governments and ministries for urban planning and management and improve access to climate smart infrastructure,
+ services and jobs for urban residents and displaced populations in refugee-hosting areas.
+
+ PDO Level Results Indicators
+    • Enhanced institutional capacity of city, municipal and national institutions for urban management (percentage),
+       as measured from the performance achievement of targets in the respective DLIs1-2, & 7 for LGs and DLIs 9-10
+       for MDAs and verified during the annual performance assessment (APA) by an independent verification agent
+       (IVA).
+    • People in urban areas provided with improved living conditions through access to climate smart infrastructure
+       and services (number) disaggregated by sex (number), by refugee host community (number) and refugee
+       populations (number) as measured through the achievement of targets set under DLI 3, 5 &7 and verified during
+       the APA by an IVA.
+    • People in urban areas provided with new and better jobs (number) disaggregated by sex (number) and by refugee
+       host community (number) and refugee populations (number) as measured according to the achievement of
+       targets specified for the intermediate indicators listed in Table 2. These are associated with DLIs 3, 4, 5, 7, and 8,
+       and will be verified during the APA by an IVA.
+
+
+ D. Environmental and Social Effects
+
+16.      The Environment and Social Systems Assessment (ESSA) for the UCMID Program was undertaken in alignment
+with the World Bank's Policy and Directive for Program-for-Results Financing and building on lessons learned from the
+ESSAs for USMID and GKMA UDP. Based on the ESSA, the E&S risk rating of the Program is assessed to be Substantial
+because of the types of infrastructure investments under the Program, their locations in urban areas and capacity
+weaknesses to implement ESHS risk management measures. The ESSA confirmed the presence of an Environmental Social
+Health and Safety (ESHS) system to assess and manage risks and impacts of the Program. Uganda has laws that address,
+inclusion, and accountability issues, and has adequate legal and institutional frameworks for managing ESHS risks.
+However, challenges exist in the implementation and enforcement of such laws and the functioning of the ESHS system
+and institutional capacity overall. The ESSA has identified significant gaps including delays in the ESIA review and approval
+process by NEMA, insufficient monitoring and poor enforcement of ESHS measures resulting in multiple incidents
+(including fatalities) involving both workers and community members, a persistent need for capacity building within local
+governments, difficulties with waste management, capacity limitations in terms of personnel, equipment and budgetary
+allocations, especially at local levels, lack of early and sustained stakeholder engagement, inadequate compensation for
+project-affected persons (PAPs), challenges with stakeholder engagement, including grievance management, and limited
+capacity among contractors and consultants to effectively address, implement and enforce ESHS. Measures to address
+the identified gaps include: (a) support to the Occupational Safety and Health (OSH) Department and the Labor
+Department under the MoGLSD to help build its oversight systems, capacity and instituting a certification program for
+OHS professionals in Uganda; (b) aligning land acquisition processes & requirements with World Bank PforR principles on
+
+
+                                                                                                                          Page 6
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+Land Acquisition and Involuntary Resettlement such as providing in all cases of land and asset acquisition under the
+Program for fair compensation and restoring livelihoods for PAPs affected by the Program; (c) aligning labor requirements
+with World Bank’s core principle of public and workers safety; and, (d) strengthening GRMs by enforcing implementation,
+improving documentation with MGLSD (as oversight agency), integrating project-level GRMs with the national system,
+and automating grievance management systems.
+
+17.     The E&S documents include specific measures to mitigate the risk of discrimination against or exclusion of any
+affected individuals or groups in providing or receiving benefits under the Program. These measures are described in detail
+in the ESCP for the IPF and the ESSA report, as well as any ToR that will duly incorporate relevant Bank ES requirements.
+The following are examples of the mitigation measures included in all the aforementioned documents: (a) strengthening
+the capacity of the Project Implementing Teams, workers, contractors, subcontractors, and service providers, which shall
+include worker training and sensitization on the obligations of project participants to ensure non-discrimination of
+individual or groups who are vulnerable or marginalized; (b) ensuring that contracts, codes of conduct, hiring procedures,
+whistle-blower protection protocols, and other measures, as needed, are in place to allow remediation of cases of
+discrimination; (c) designing and implementing a mechanism to receive and report grievances to the World Bank,
+proposing appropriate remediation, and following up on agreed actions to resolve cases of discrimination reported
+through a dedicated hotline; and (d) developing a strong data management system and process that secures personal data
+and information in a manner that is safe, ethical, and confidential.
+
+18.      Furthermore, the SEP and ESSA reference GoU’s Circular on Uganda’s Social Safeguard Policies, issued on
+September 21, 2023, by MoFPED. The circular states the following: (a) all World Bank-financed projects in Uganda must
+be implemented in a manner consistent with the principles of non-discrimination, as provided under Article 21 of the
+Constitution of the Republic of Uganda. These projects should also be implemented in accordance with World Bank
+policies and applicable Legal Agreements. Under these projects, no person will be discriminated against or stigmatized,
+and the principles of non-discrimination and inclusion will be adhered to. Support should be provided to all project
+beneficiaries; (b) all implementing entities of World Bank-financed projects should agree and implement specific
+mitigation measures to address non-discrimination; (c) these mitigation measures will require enhancing Program
+Grievance Redress Mechanism (GRM), as well as strengthening existing Program monitoring by implementing entities,
+including third-party monitoring where applicable; and (d) each Program implementing entity shall develop
+comprehensive guidelines to address non-discrimination.
+
+19.     The World Bank will support enhanced monitoring of the risk of exclusion or discrimination for vulnerable and
+marginalized individuals or groups, as well as the efficacy of the agreed mitigation measures. An Enhanced Implementation
+Support and Monitoring (EISM) mechanism will primarily focus on supporting project teams to address grievances and
+concerns from beneficiaries, communities, and workers relating to discrimination from project benefits. This includes the
+implementation of a hotline for individuals, beneficiaries, communities, and workers to lodge complaints of discrimination
+and exclusion under the project or voice their concerns without fear of reprisal. As part of the project level GRM, a hotline
+(0800 333125), hosted and operated by a local non-governmental organization on behalf of the EISM firm, has been
+established for vulnerable or marginalized individuals or groups to lodge complaints of discrimination. The guidelines on
+how the hotline will be used and cases managed are provided in the Program E&S documents.
+20.     Grievance Redress. Communities and individuals who believe that they are adversely affected as a result of a Bank
+supported PforR operation, as defined by the applicable policy and procedures, may submit complaints to the existing
+program grievance mechanism or the Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received
+are promptly reviewed in order to address pertinent concerns. Project affected communities and individuals may submit
+their complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which
+
+                                                                                                                         Page 7
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+determines whether harm occurred, or could occur, as a result of Bank non-compliance with its policies and procedures,
+and the Dispute Resolution Service, which provides communities and borrowers with the opportunity to address
+complaints through dispute resolution. Complaints may be submitted at any time after concerns have been brought
+directly to the Bank's attention, and Bank Management has been given an opportunity to respond. For information on
+how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit https://www.worldbank.org/GRS. For
+information on how to submit complaints to the Bank’s Accountability Mechanism, please visit
+https://accountability.worldbank.org.
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                            Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component
+
+21.     The environmental risk rating for the IPF component is assessed to be Moderate. The IPF Component will mainly
+support technical assistance with minimal or no direct physical works. It will also not support preparation of feasibility
+studies and designs of investments financed by the PforR. However, it will support the conceptualization and piloting of a
+corridor-based approach to urban investment planning, including the development of national corridor design guidelines
+and investment packaging tools that will help structure integrated infrastructure projects—linking roads, drainage,
+markets, and utility networks—along strategic urban corridors; however, there will be no construction under this
+component. The Social Risk Rating is substantial. As infrastructure investments/civil works are not envisaged under the
+IPF component, the substantial risk rating does not cover risks relating to those activities – which are envisaged under the
+PforR. Although the activities supported under the IPF component are expected to generate benefits as result of capacity
+building and improved policies/systems and enhanced urban management, there could be risks relating to stakeholder
+engagement and social inclusion (e.g., exclusion of vulnerable groups in policy development). Risks of discrimination and
+exclusion may be exacerbated in the context of the Anti-Homosexuality Act, 2023 and require enhanced implementation
+support and monitoring. Related TORs for the preparation of the national frameworks, corridor design guidelines and
+investment packaging tools will be required to be consistent with the requirements of the ESF. An Environmental and
+Social Commitment Plan (ESCP) and Stakeholder Engagement Plan (SEP) will be developed by Appraisal for the IPF
+component, and Labor Management Procedures (LMP) will be prepared by effectiveness
+
+E. Financing
+                                          Program Financing (Template)
+
+                              Source                                Amount (US$, Millions)             % of Total
+
+      International Development Association (IDA)                                     540.00                        100%
+
+        IDA Credit                                                                    500.00                     92.59%
+
+        IDA Grant                                                                      40.00                        7.41%
+
+                     Total Program Financing                                          540.00
+
+
+                                                                                                                        Page 8
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Stephen John Ajalu
+ Senior Urban Development Specialist
+
+ Phan Thi Phuong Huyen
+ Senior Urban Specialist
+
+Borrower/Client/Recipient
+ Ministry of Finance, Planning and Economic Development
+
+Implementing Agencies
+ Ministry of Lands, Housing and Urban Development
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Stephen John Ajalu, Phan Thi Phuong Huyen
+
+Approved By
+
+Practice Manager/Manager:              Abhas K. Jha                           17-Oct-2025
+
+Country Director:                      Francisca Ayodeji Akala                25-Nov-2025
+
+
+
+
+                                                                                                    Page 9
+
+
+
+                                                                                            Official Use Only
+     The World Bank
+     Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+                                                                    ANNEX 1. RESULTS FRAMEWORK
+
+@#&OPS~Doctype~OPS^dynamics@padpfrannexpolicyandresult#doctemplate
+Program Development Objective(s)
+The PDO is to enhance the institutional performance of selected urban local governments and ministries for urban planning and management and improve
+access to climate smart infrastructure, services and jobs for urban residents and displaced populations in refugee-hosting areas.
+
+PDO Indicators by Outcomes
+
+
+   Baseline                                                                                  Closing Period
+   Enhanced institutional capacity of city, municipal and national institutions for urban management
+   People in urban areas provided with improved climate smart infrastructure and services
+   New and better jobs created in urban areas
+   Percentage of participating LGs meeting annual minimum institutional performance benchmarks. (Percentage) DLI
+   Mar/2026                                                                                  Dec/2031
+   0                                                                                         100
+   Percentage of participating central government ministries meeting annual institutional performance benchmarks. (Percentage)
+
+
+   Direct beneficiaries in urban areas provided with improved living conditions through access to climate smart infrastructure and services (Number) DLI
+   Mar/2026                                                                                 Dec/2031
+   0                                                                                        5,600,000
+   People in urban areas provided with new and better jobs (Number)
+
+
+
+
+Intermediate Indicators by Results Areas
+
+   Baseline                                                                               Closing Period
+   Enhanced local and national level government institutional capacity and performance for sustainable urban management
+   Increased access to sustainable urban infrastructure, services and jobs
+
+
+                                                                                                                                         Page 1
+
+
+
+                                                                                                                                                           Official Use Only
+  The World Bank
+  Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+New and better jobs created in urban areas and refugees host communities
+Program LGs have achieved value for money annual targets in the delivery of sustainable infrastructure investments as assessed by the IVA in annual performance assessment
+(Percentage) DLI
+Mar/2026                                                                                  Dec/2031
+50                                                                                        80
+MoLHUD demonstrate enhanced institutional performance for urban/investment planning, coordination & management to support the LGs as assessed by IVA (Percentage) DLI
+Mar/2026                                                                                  Dec/2031
+0                                                                                         90
+Number of short-term jobs meeting ESHS standards created through Program-financed infrastructure investments (Number)
+Mar/2026                                                                                  Dec/2031
+0                                                                                         2,500
+MoLG demonstrate strengthened institutional performance in governance and supporting LGs for decentralized service delivery and OSR mobilization as assessed by an IVA
+(Percentage) DLI
+Mar/2026                                                                                  Dec/2031
+0                                                                                         90
+Program LGs that have successfully met targets set out for O&M systems for all urban major infrastructure (Number) DLI
+Mar/2026                                                                                  Dec/2031
+21                                                                                        36
+Program LGs have strengthened institutional capacity in planning and delivering local climate smart and ESHS compliant investments that transform livelihoods of the host
+communities and refugees (Number)
+Mar/2026                                                                                  Dec/2031
+0                                                                                         80
+Program LGs have delivered climate smart strategic local economic infrastructure investments which generate employment opportunities (Number) DLI
+Mar/2026                                                                                  Dec/2031
+0                                                                                         36
+Urban LGs with qualified staff in place demonstrating improved performance in thematic areas as assessed by IVA in APA (Number)
+Mar/2026                                                                                  Dec/2031
+0                                                                                         47
+Number of permanent jobs created through urban infrastructure, services, LED facilities and infrastructure (Number)
+Mar/2026                                                                                  Dec/2031
+0                                                                                         5,000
+Urban Local Governments with functional O&M systems for all major urban infrastructure as measured by the achievement of annual targets set verified by an IVA (Number) DLI
+
+
+
+Number of businesses supported through program-financed LED facilities and infrastructure (Number)
+Mar/2026                                                                              Dec/2031
+0                                                                                     500
+
+
+                                                                                                                                  Page 2
+
+
+
+                                                                                                                                                                    Official Use Only
+     The World Bank
+     Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+   Female representation in decision-making committees supported by the Program (Percentage)
+
+
+
+   Number of people are trained by the facilities (vocational and skilling training centers) supported by the program. (Number)
+   Mar/2026                                                                                    Dec/2031
+   0                                                                                           1,000
+
+
+
+Disbursement Linked Indicators (DLI)
+
+   Period                                                                                      Period Definition
+   Period 1                                                                                    FY 2026/2027
+   Period 2                                                                                    FY2027/2028
+   Period 3                                                                                    FY2028/2029
+   Period 4                                                                                    FY2029/2030
+   Period 5                                                                                    FY2030/2031
+
+
+
+   Baseline                     Period 1                  Period 2                      Period 3                      Period 4                     Period 5
+   1:Program LGs with ISG Plans that meet the minimum required conditions as assessed by the independent verification agent during the annual performance assessment (Yes/No
+   )
+
+   0.00
+   DLI allocation                                        0.00                        As a % of Total DLI Allocation                          NaN%
+   2:MoLHUD demonstrate enhanced institutional performance for urban/investment planning, coordination & management to support the LGs as assessed by IVA (Percentage )
+
+   0.00
+   DLI allocation                                              0.00                          As a % of Total DLI Allocation                     NaN%
+   3:People benefiting from climate resilient infrastructure (Number of people )
+
+   0.00
+   DLI allocation                                               0.00                         As a % of Total DLI Allocation                     NaN%
+     ➢ 3.1:People benefiting from climate resilient infrastructure - Female (Number of people )
+
+
+                                                                                                                                   Page 3
+
+
+
+                                                                                                                                                                     Official Use Only
+  The World Bank
+  Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+0.00
+DLI allocation                                               0.00                         As a % of Total DLI Allocation                        NaN%
+  ➢ 3.2:People benefiting from climate resilient infrastructure - Youth (Number of people )
+
+0.00
+DLI allocation                                          0.00                         As a % of Total DLI Allocation                             NaN%
+4:Percentage of participating LGs meeting annual minimum institutional performance benchmarks. (Percentage )
+
+0.00
+DLI allocation                                              0.00                        As a % of Total DLI Allocation                          NaN%
+5:Refugees supported with accessing and utilizing services and livelihoods (Number of people )
+
+0.00
+DLI allocation                                              0.00                           As a % of Total DLI Allocation                       NaN%
+  ➢ 5.1:Refugees supported with accessing and utilizing services and livelihoods - Female (Number of people )
+
+0.00
+DLI allocation                                              0.00                           As a % of Total DLI Allocation                       NaN%
+  ➢ 5.2:Refugees supported with accessing and utilizing services and livelihoods - Youth (Number of people )
+
+0.00
+DLI allocation                                             0.00                         As a % of Total DLI Allocation                       NaN%
+6:Program LGs have delivered climate smart strategic local economic infrastructure investments which generate employment opportunities (Number )
+
+0.00
+DLI allocation                                          0.00                           As a % of Total DLI Allocation                              NaN%
+7:Program LGs have achieved value for money annual targets in the delivery of sustainable infrastructure investments as assessed by the IVA in annual performance assessment
+(Percentage )
+
+0.00
+DLI allocation                                           0.00                            As a % of Total DLI Allocation                         NaN%
+8:People in host communities supported with accessing and utilizing services and livelihoods (Number of people )
+
+
+                                                                                                                                  Page 4
+
+
+
+                                                                                                                                                                     Official Use Only
+  The World Bank
+  Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+0.00
+DLI allocation                                            0.00                            As a % of Total DLI Allocation                          NaN%
+  ➢ 8.1:People in host communities supported with accessing and utilizing services and livelihoods - Female (Number of people )
+
+0.00
+DLI allocation                                            0.00                            As a % of Total DLI Allocation                          NaN%
+  ➢ 8.2:People in host communities supported with accessing and utilizing services and livelihoods - Youth (Number of people )
+
+0.00
+DLI allocation                                             0.00                         As a % of Total DLI Allocation                            NaN%
+9:Program LGs that have successfully met targets set out for O&M systems for all urban major infrastructure (Number )
+
+0.00
+DLI allocation                                         0.00                        As a % of Total DLI Allocation                              NaN%
+10:MoLG demonstrate strengthened institutional performance in governance and supporting LGs for decentralized service delivery and OSR mobilization as assessed by an IVA
+(Percentage )
+
+0.00
+DLI allocation                                        0.00                           As a % of Total DLI Allocation                            NaN%
+11:Urban Local Governments with functional O&M systems for all major urban infrastructure as measured by the achievement of annual targets set verified by an IVA (Number )
+
+0.00
+DLI allocation                                             0.00                          As a % of Total DLI Allocation                             NaN%
+12:Direct beneficiaries in urban areas provided with improved living conditions through access to climate smart infrastructure and services (Number )
+
+0.00
+DLI allocation                                             0.00                          As a % of Total DLI Allocation                           NaN%
+  ➢ 12.1:Direct beneficiaries from RHDs (Number )
+
+0.00
+DLI allocation                                             0.00                          As a % of Total DLI Allocation                           NaN%
+  ➢ 12.2:Female beneficiaries (Number )
+
+
+                                                                                                                                    Page 5
+
+
+
+                                                                                                                                                                   Official Use Only
+  The World Bank
+  Uganda Cities and Municipalities Infrastructure Development (UCMID) (P511300)
+
+
+
+0.00
+DLI allocation                                             0.00                          As a % of Total DLI Allocation                             NaN%
+13:22. Integrate, enforce, monitor Environmental, Social, Health and Safety (ESHS) provisions in all contracts and impose sanctions for non-performance ( )
+
+0.00
+DLI allocation                                             0.00                          As a % of Total DLI Allocation                             NaN%
+
+
+
+
+                                                                                                                                      Page 6
+
+
+
+                                                                                                                                                              Official Use Only
+

@@ -1,0 +1,658 @@
+Public Disclosure Authorized
+                               The World Bank
+                               Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+
+
+Public Disclosure Authorized
+
+                                                Project Information Document (PID)
+
+
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 24-May-2023 | Report No: PIDC35569
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                           Page 1 of 13
+     The World Bank
+     Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+BASIC INFORMATION
+
+
+A. Basic Project Data OPS TABLE
+
+Country                                      Project ID                   Parent Project ID (if any)   Project Name
+Brazil                                       P180429                                                   Bahia Sustainable Rural
+                                                                                                       Development Project -
+                                                                                                       Phase 2 (P180429)
+Region                                       Estimated Appraisal Date     Estimated Board Date         Practice Area (Lead)
+LATIN AMERICA AND                            Mar 11, 2024                 Apr 30, 2024                 Agriculture and Food
+CARIBBEAN
+Financing Instrument                         Borrower(s)                  Implementing Agency
+Investment Project Financing                 Government of the State of   CAR - Companhia de
+                                             Bahia                        Desenvolvimento e Acao
+                                                                          Regional
+
+ Proposed Development Objective(s)
+
+ To improve productivity, access to markets and climate change resilience of family farmers and access to water in
+ selected rural areas..
+
+ PROJECT FINANCING DATA (US$, Millions)
+
+SUMMARY-NewFin1
+
+ Total Project Cost                                                                                                    150.00
+ Total Financing                                                                                                       150.00
+                         of which IBRD/IDA                                                                             100.00
+
+ Financing Gap                                                                                                            0.00
+
+ DETAILS   -NewFinEnh1
+
+
+
+
+ World Bank Group Financing
+
+   International Bank for Reconstruction and Development (IBRD)                                                        100.00
+ Non-World Bank Group Financing
+
+   Counterpart Funding                                                                                                   50.00
+
+      Borrower/Recipient                                                                                                 50.00
+
+
+
+
+                                                                                                                     Page 2 of 13
+         The World Bank
+         Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+
+
+    Environmental and Social Risk Classification                         Concept Review Decision
+    Moderate                                                             Track II-The review did authorize the preparation to
+                                                                         continue
+
+
+    B. Introduction and Context
+
+    Country Context
+
+      1. Brazil’s recent economic and social progress has been put at risk by unfinished reforms and external shocks.
+         Between 2000 and 2013, Brazil underwent swift economic and social development. Tight labor markets, high
+         consumer demand, expanding credit supply, and high commodity prices as well as increased access to
+         international capital markets contributed to an average annual growth rate of 4 percent. In addition, the
+         Government’s social policies were successful in lifting almost 25 million people out of poverty. However, the lack
+         of policy reforms focused on increasing productivity and improving economic competitiveness meant that
+         productivity increases were insufficient to support growing household consumption and sustain economic
+         growth1, 2. This led to a reduction in household debt and a contraction in consumption, a negative effect that was
+         amplified by the end of the commodity supercycle. As a result, between 2014 and 2020, the annual growth rate
+         dropped below 1 percent. The COVID-19 pandemic has made things worse, deepening the negative effect on the
+         Brazilian economy and increasing the risk of unravelling the social progress made during the 2000s.
+
+      2. The dual impacts of COVID-19 pandemic and the Russia’s invasion of Ukraine have taken a toll on the Brazilian
+         economy and its people. Despite the country's efforts to rebound, the road to recovery remains long and
+         challenging. Within a brief but tumultuous span of two years the COVID-19 pandemic and the Russia’s invasion of
+         Ukraine unleashed a series of cascading crises in the Brazilian economy. As of April 2023, COVID-19 had taken
+         more than 700,000 lives and infected more than 37 million people in Brazil. To combat the pandemic, Brazil
+         implemented strict health measures that led to an economic collapse, causing a 3.9 percent decline in GDP in
+         2020. In 2021, the economy was showing early signs of recovery with a 4.6 percent increase in GDP. But, in
+         February 2022, the Russia’s invasion of Ukraine sent shockwaves throughout the global economy, and Brazil was
+         not spared3. The ensuing crises brought high inflation rates4, increased unemployment, and put upward pressure
+         on high interest rates, exacerbating the already fragile economic situation in Brazil. Rural households felt these
+         national changes keenly, with many struggling to access basic food and clean water.
+
+      3. Brazil's response to the COVID-19 crisis in 2020 was marked by a sizable fiscal stimulus package of USD158.5
+         billion (10.6 percent of GDP) to support households and businesses. Emergency cash transfers worth USD64.5
+         billion (37.0 percent of the stimulus package) were primarily directed at vulnerable households, while USD20.9
+
+1
+ International    Monetary     Fund.    (2015).     Brazil:    Staff  Report    for     the    2015      Article   IV    Consultation.
+https://www.imf.org/external/pubs/ft/scr/2015/cr15251.pdf.
+2
+ World      Bank.     (2016).    Brazil    Economic         Update,   Fall    2016:      Treading       Water.     Retrieved      from
+https://openknowledge.worldbank.org/bitstream/handle/10986/25032/109858-BRI-P152101-OUO-9.pdf?sequence=1&isAllowed=y
+3
+ Glauber, J. and D. Laborde. “How will Russia’s invasion of Ukraine affect global food security.” IFPRI Blog Post. February 28, 2022.
+https://www.ifpri.org/blog/how-willrussias-invasion-ukraine-affect-global-food-security.
+4
+ In 2018 and 2019, it remained stable at 3.75% and 4.31%, respectively. In 2020, it increased slightly to 4.52%. In 2021, the inflation
+rate jumped to 10.67%. Then, in 2022, the inflation rate went down to 5.01%.
+
+                                                                                                                            Page 3 of 13
+       The World Bank
+       Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+        billion was allocated to the health sector by December 2021. The Ministry of Citizenship (MoC) launched the
+        Emergency Aid program (EA) that initially benefited 68.3 million people in 2020, it was gradually scaled down and
+        eventually phased out. The EA program was followed by the reformulated Bolsa Família (BF) program, now known
+        as Auxílio Brasil (AB). Despite the stimulus package reducing poverty in 2020, the phasing out of the EA, slow labor
+        market recovery, and high inflation contributed to an increase in poverty rates in 2021.5, 6.
+
+    4. In the wake of an unstable period for the Brazilian economy, the agriculture sector played a crucial role in the
+       country's recovery. The agricultural sector in Brazil fared relatively well in comparison to other economic sectors
+       during the COVID-19 pandemic. Between 1996 and 2021, for instance, average labor productivity growth in the
+       agriculture sector reached nearly 6 percent while services and manufacturing, transport and construction were
+       negative. In 2021, the agriculture sector contributed 21 percent of Brazil's GDP, with benefits felt along the entire
+       value chain from production to processing, storage, marketing, and distribution. The sector employed 20 percent
+       of the country's workforce, with 46 percent of employment opportunities located in rural areas. Brazil's agriculture
+       sector was also responsible for 46 percent of all exports, generating trade surpluses of over USD1 trillion and
+       contributing 91 percent of the US$380 billion in Brazil’s current foreign exchange reserves. As the destiny for 33
+       percent of agriculture exports, comprising mainly of a mix of soybeans, beef, pork, and poultry meat, China is
+       Brazil’s largest trading partner. The Eurozone is second, accounting for 16.2 percent of exports and purchases of
+       soybeans, forest products, coffee, and fruit. Finally, the United States is the third largest trading partner,
+       responsible for 7.4 percent of exports, taking a mix of forest products, coffee, sugar, and fruits.
+
+    5. The agriculture sector in Brazil has made impressive strides in productivity at the national level, with an annual
+       growth rate of 3.3 percent in total factor productivity (TFP) between 1975 and 2020. This growth was achieved
+       through investments in agricultural research and development, agricultural extension and technical assistance,
+       infrastructure development and trade liberalization. There is, however, still room for improvement7. Small-to-mid
+       size farmers (20-200 hectares) and those in the Northeast of Brazil (NEB) have recorded the lowest TFP growth.
+       This suggests that while the agriculture sector has been competitive overall, there are distinct regions and
+       producer cohorts lagging behind. Increasing productivity in the lagging producer cohorts is a priority to provide
+       access to sectoral growth and its associated co-benefits. Investing in research and development, implementing
+       extension services, and improving access to credit and markets could increase agriculture TFP from 3 to 18
+       percent8, 9. These investments would increase agricultural productivity, promote social inclusion and contribute
+       to poverty reduction10. It would also allow farmers to adapt to and mitigate the effects of climate change.
+
+    6. Furthermore, women who have difficulties accessing these water and sanitation services tend to be more
+       affected than men as they perform three times more domestic and family care activities. Women are also
+       affected when a family member falls ill due to inadequate access to water and sanitary sewage services because
+
+
+5
+ In 2020, the AE buffered the pandemic's socioeconomic impacts and helped Brazil reduce poverty to 13.1%. The exit strategy of the
+  EA program increased the poverty rate to 18.7%. The slow recovery of the labor market did not compensate for the phasing out of
+  the income support provided by the EA.
+6
+ World Bank. 2022. Macro Poverty Outlook. April 2022.
+7
+ Gasques, J. G. (2022). Precision farming technologies and total factor productivity in Brazil. Agricultural Economics, 53(1), 1-10.
+8
+ Bertoni, D., & Lipper, L. (2019). Farmer education and farmer-led extension: complementary investments to improve smallholder
+  agricultural productivity. Food Security, 11(4), 827-839.
+9
+ Ragasa, C., Ulimwengu, J., & Randriamamonjy, J. (2022). Access to credit and total factor productivity in smallholder agriculture:
+  Evidence from Latin America. Agricultural Economics, 53(2), 191-203.
+10
+   Cai, J., & Cao, X. (2022). Market access, farm size, and agricultural productivity: Evidence from smallholder maize farmers in
+  Honduras. Food Policy, 106, 102238.
+
+                                                                                                                         Page 4 of 13
+        The World Bank
+        Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+         they are often the primary care givers. The complexity and high cost of managing water supply services in rural
+         areas, however, has led to a lack of focus on this issue by state-run water companies. But, innovative decentralized
+         solutions, which supplement traditional utility approaches, have been tested over the past two decades with some
+         success by subnational governments, rural communities, and non-governmental organizations to expand access
+         to safe drinking water in rural areas.11, 12, 13
+
+     7. Dwindling supplies of fresh water due climate change pose a material risk to agricultural development and the
+        delivery of water and sanitation services (WSS). Climate change-induced factors such as decreased precipitation,
+        prolonged dry spells, and elevated temperatures are anticipated to intensify evaporation rates, leading to a
+        reduction in the availability of surface water and groundwater. The agricultural sector in Brazil faces an average
+        loss of approximately 1 percent of its annual gross production value because of extreme weather events14. The
+        reduction of fresh water supply caused by climate change presents a significant and growing threat to the
+        development of agriculture, the provision of water services and food security overall. In Brazil, the average
+        temperature is projected to increase between 1.7°C and 5.3°C by the end of the century, making the country's
+        biomes vulnerable.
+
+     8. These changes are expected to increase the number of high-risk areas for agriculture development, including
+        areas for production crops and livestock. The greatest climate risk is associated with the increased length and
+        intensity of the dry season15. Furthermore, climate change is expected to increase the cost of supplying safe water
+        in both low- and high-risk areas by an average of 3 and 18 percent, respectively16. The impacts of climate change
+        are likely to be concentrated in the Midwest, North and Northeast, where the population already lives in harsh
+        edaphoclimatic conditions. The Northeast of Brazil encompasses nine states, has a population of more than 50
+        million, and covers some 1.6 million square kilometers. As extreme weather events like droughts and floods
+        become more frequent and intense, climate resilience will become increasingly important to water providers 17
+        and farmers.
+
+ Sectoral and Institutional Context
+
+     9. The State of Bahia covers an area of 567,400 km2, representing about 6.7 percent of Brazil's territory and more
+        than one-third of the Northeast Region. With a total population of 14.9 million distributed over 417 municipalities
+        Bahia is the 4th most populous state in Brazil, of whom 10.4 million are living in urban areas and 4.5 million in
+
+
+11
+  do Nascimento, N. M., Barbosa, E. P., & Lopes, F. F. (2016). Water supply in Brazilian rural areas: a review of public policies and
+   decentralized solutions. Water International, 41(4), 539-553.
+12
+  Lima, R. C., Almeida, J. A., de Souza, L. E., & de Oliveira, V. H. (2020). Impact of rainwater harvesting on crop yield and rural livelihoods
+   in the semiarid region of Brazil. Agricultural Water Management, 233, 106072.
+13
+  de Araújo, R. C., de Oliveira, F. M., & de Araújo, E. S. (2017). Integrated water resources management in Brazilian semi-arid:
+   challenges and perspectives. Revista Brasileira de Recursos Hídricos, 22, e-21S02.
+14
+   Arias, D. et al. 2017. “Agricultural Market Insurance Development: Policy Note – Brazil.” Policy Note. Washington, DC: World Bank.
+http://hdl.handle.net/10986/32203.
+15
+  Rattis, L., Brando, P. M., Macedo, M. N., Spera, S. A., Castanho, A. D., Marques, E. Q., ... & Coe, M. T. (2021). Climatic limit for
+agriculture in Brazil. Nature Climate Change, 11(12), 1098-1104.
+16
+  Dalberg. 2020. Assessing the Climate Resilience of Safe Water Enterprises (SWEs). Final Report.88 pages.
+http://safewater.enterprises/wp-content/uploads/2020/12/Dalberg-SWE-Climate-Resilience-Full-Report_.pdf
+17
+  Water system providers are institutions that are responsible for managing and maintaining the water treatment and distribution
+systems that provide clean and safe drinking water to communities.
+
+                                                                                                                                    Page 5 of 13
+        The World Bank
+        Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+         rural areas. After seeing a significant increase between 2007 and 2019, mainly due to an increase in the minimum
+         wage, direct income transfers, and growth in the industrial and agricultural sectors, Bahia's GDP reached US$58.7
+         billion, ranking it 7th in Brazil. However, social indicators show that poverty and inequality remain significant
+         issues. The state's Gini Coefficient, a measure of inequality, stands at 0.56, which is higher than the national
+         average of 0.54, and approximately 40 percent of Bahia's population lives in poverty, with 10 percent living in
+         extreme poverty. It is estimated that 38 percent of Bahian households were food insecure in 2020. The State also
+         ranks poorly in the Municipal Human Development Index (MHDI).
+
+     10. The agriculture sector in Bahia is composed mainly by small-scale family farmers. Family farms of less than 50
+         hectares producing for both subsistence and commercial needs make up approximately 78 percent of the farms
+         in Bahia. While State level data suggest that agricultural productivity growth is close to the national average at
+         3.74 percent annually18, the agriculture sector face contrasting realities. One reality is found in the Cerrado and
+         Sao Francisco region and features higher land quality with highly productive, commercially successful production
+         systems that are well-integrated into local, regional and international markets (see annex 1). The other reality,
+         which is common throughout large areas of the semiarid region, features subsistence and transitory agriculture
+         systems on fragile ecosystems that are poorly integrated into markets. Farmers in this semiarid region have
+         demonstrated the lowest productivity gains in Brazil19.
+
+     11. Family farmers confronts multiple challenges that obstruct productivity and temper income growth. The
+         multiple challenges faced by family farmers, in Bahia, include the following: (i) reduced bargaining power of
+         farmers due to the low scale of production, (ii) inadequate access to financial markets to undertake medium-long
+         term investments (credit and insurance), (iii) limited information and technical support for the adoption of modern
+         agricultural technologies and good farming practices; (iv) limited access to business development services; and (v)
+         limited access to productive assets. Often, these problems are a combination of market and government failures.
+         Consequently, family farmers often lack competitiveness within the agricultural sector, hindering their ability to
+         capitalize on the growing market potential driven by urbanization and evolving consumer preferences for food.
+         Fostering the integration of family farmers into value chains through producers' organizations has the potential
+         to create a more productive, sustainable and resilient agriculture sector, family farmers, in Bahia.
+
+     12. Women and youth are the driving force behind the agriculture value chains. Recent studies clearly show that
+         including women and youth in agriculture value chains leads to increased productivity and income for them and
+         their families20. Success stories can be found in Guatemala, Colombia, and Rwanda, where integrating women and
+         youth into coffee value chains resulted in significant increases in income and production21. Indeed, women's
+         integration into the coffee value chain in Guatemala led to a 15 percent increase in income for women farmers,
+         while youth involvement in coffee production in Rwanda led to a remarkable 22 percent increase in coffee
+         production and a 27 percent increase in income. In Colombia, a recent study found that the women's
+
+
+18
+  Gasques, J. G., et al. 2018. Growth and Productivity of Brazilian Agriculture from 1975 to 2016. Conjuncture Chart No 38 – 1o Quarter
+2018. Institute of Applied Economic Research (IPEA).
+19
+  Carvalho, N. B., de Moura Pires, M., & da Silva Gomes, A. (2017). Capital Humano E Tecnologia: análise da produtividade agrícola da
+   Bahia. Campo-Território: 11(24), 265-288.
+20
+  FAO. (2018). Youth and agriculture: key challenges and concrete solutions. Food and Agriculture Organization of the United Nations.
+21
+  Briones, M., & Reyes, T. (2017). Coffee certification and forest conservation in Ethiopia: how valuable are forest coffee certifications
+   to local livelihoods and forest conservation? Forests, Trees and Livelihoods, 26(2), 119-131.
+
+                                                                                                                               Page 6 of 13
+        The World Bank
+        Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+         empowerment program had a positive effect on coffee production, with a 5 percent increase in coffee productivity
+         among households where women participated in the program22. Finally, youth also have a unique role to play in
+         the accessing information, as their familiarity with modern technology makes them ideal candidates to adopt and
+         utilize new digital technologies in the agriculture sector.
+
+     13. The gap in access to Water Supply and Sanitation (WSS) between rural and urban areas remains a major
+         challenge. In Bahia, 2.8 million people (19 percent of the total population) do not have access to a treated water
+         supply while 7.2 million (48 percent of the total population) lack access to sewage services. In rural areas, 1.6
+         million people (36.8 percent of the rural population) continue to lack access to safe drinking water services and
+         only 0.7 million (16.2 percent of the rural population) people have access to sewage system23. The new water and
+         sanitation law may provide incentives for the private sector to invest in WSS in urban areas, which will go a long
+         way to helping Bahia to achieve universal access in urban areas24. However, the situation in rural areas is
+         compounded by the lack of sustainability of water infrastructure and water services which are transferred for
+         management to municipalities which lack the capabilities to support the management of services25. Experiences
+         from other states in Brazil, such as Ceará, and in other countries, demonstrate the need for the creation of a State
+         Policy for Rural Water and Sanitation that creates the conditions for strengthening the provision of water services
+         paying due attention to water services management and adaptation to climate change to ensure the resilience
+         and sustainability of service provision.
+
+     14. The institutional and policy framework for agriculture and water and sanitation services in the State of Bahia26.
+
+
+         Agriculture
+
+     15. In the State of Bahia, agriculture is supported by a range of institutions operating at different levels of
+         government. Two key agencies are responsible for agricultural and rural development: the Secretariat for Regional
+         Development (SDR) and the Secretariat for Agriculture, Livestock, Irrigation, Fisheries, and Aquaculture (SEAGRI).
+         The SDR has a broad mandate to promote economic and social development across the State and its target
+         audience includes small-scale farmers, rural entrepreneurs, and other actors in the agricultural sector. SEAGRI's
+         target audience, on the other hand, are commercial farmers.
+
+     16. The State Agency for Agriculture Health (AEDA) is responsible for ensuring the safety and quality of agricultural
+         and livestock products in Bahia. Its main role is to inspect farms and food processing facilities to ensure
+         compliance with health and safety standards. The Regional Development Agency (CAR) supports rural
+         development by providing technical assistance, financing, and infrastructure support to small-scale farmers and
+
+
+22
+  Describe the results Pena, C. R., Figueroa, H., & Robles, M. (2018). Women's empowerment and coffee production: Evidence from a
+   field experiment in rural Colombia. World Development, 110, 171-182.
+23
+  Sistema Nacional de Informações sobre Saneamento (SNIS),
+24
+  In 2020, the New Legal Framework for Basic Sanitation (Law No. 14.026) was approved, and it requires that all states must provide
+   safe drinking water services to 99 percent of the population. Also, it requires access to sewage collection services to cover 90% of
+   the population.
+25
+   CAR (2022). ‘Planejamento das novas Centrais de Associações Comunitárias a serem implantadas no estado da Bahia’. December
+2022.
+26
+  https://www.perfiladministracaopublica.ba.gov.br/organograma.html.
+
+                                                                                                                            Page 7 of 13
+          The World Bank
+          Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+           rural entrepreneurs. The Bahia Agency for Technical Assistance and Rural Extension (BAHIATER) provides
+           extension services to farmers and rural communities, offering advice and support on a range of issues related to
+           agriculture and rural development.
+
+
+       17. In addition to these agencies, the State of Bahia also has several research and development institutions that
+           support agriculture and rural development. These include regional Universities and the Bahia State Research
+           Foundation (FAPESB), which funds research projects and supports innovation in agriculture and related sectors.
+           The Agency for Agribusiness Development (SUDEAGRO) also supports research and development activities, with
+           a particular focus on promoting sustainable and socially inclusive development in the agriculture sector. Finally,
+           the Bahia Fishery (BAHIAPESCA) is responsible for supporting and regulating the state's fisheries and aquaculture
+           industries, with a mandate to promote sustainable development and protect the State's aquatic resources.
+
+       18. Key policy instruments in Brazil's agricultural sector. The main policy instruments employed in Brazil include: (i)
+           rural credit, (ii) risk management programs, (iii) minimum and reference prices, (iv) agricultural land zoning with
+           environmental compliance, and (v) agricultural innovation. Credit at preferential interest rates is the main
+           agricultural policy instrument provided to large, medium, and small-scale family farms. For instance, for the
+           2021/22 harvest, total credit allocation was BRL 251.2 billion (USD 46.6 billion). This instrument is developed and
+           implemented through collaboration between the Central Bank, the Treasury, the Secretariat of Economic Policy
+           (Ministry of the Economy), the Ministry of Agriculture (MAPA) and the Ministry of Agrarian Development and
+           Family Farming (MDA). The National Rural Credit System (SNCR) primarily allocates rural credit, offering
+           preferential interest rates and distinct conditions for small farmers (PRONAF), medium-sized farmers (PRONAMP),
+           and commercial farms27.
+
+           Water and Sanitation
+
+       19. Bahia has a comprehensive institutional arrangement for water and sanitation management. The main agency
+           responsible for water and sanitation is the Secretariat of Infrastructure and Water Resources (SIHS), which is
+           responsible for planning, implementing, and regulating water and sanitation policies. Within SIHS, there is a Water
+           Resources Directorate responsible for coordinating, preparing studies, programs and projects, aiming at the
+           formulation, execution and follow-up of the State Water Safety Plan and the State Policy for Safety of Dams. The
+           Water and Sanitation Directorate is responsible for planning, implementing, and regulating water and sanitation
+           policies and projects. The Environment and Water Resources Institute – INEMA, under the Secretariat of
+           Environment, is responsible for managing water resources, including water allocation, water quality monitoring,
+           and dam safety regulation.
+
+       20. The Bahia Water and Sanitation Company (EMBASA) and Water Engineering and Sanitation Company (CERB)
+           are both public water and sanitation companies owned by the State of Bahia. EMBASA is responsible for
+           providing services in urban and selected rural areas, while CERB is focused only on rural areas. EMBASA manages
+           and operates the water and sanitation systems, including treatment plants and distribution networks, and is
+           responsible for planning and implementing new projects. CERB, on the other hand, is responsible for the
+
+
+
+27
+     The National Rural Credit System (NRCS) is based on compulsory quotas of bank deposits dedicated to rural credit.
+
+                                                                                                                         Page 8 of 13
+     The World Bank
+     Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+      development of water sources and the construction of water supply and sanitation infrastructure in rural areas.
+      Overall, EMBASA is the larger and more comprehensive of the two, while CERB has a more specific focus on the
+      provision of infrastructure for water and sanitation in rural areas. The management and operation of water supply
+      systems in rural areas is carried out by the municipalities themselves, by EMBASA at a less extent, or by the Central
+      of Associations, management model expanded with the Bank support, based on close participation by the
+      communities and technical support from EMBASA and CERB. Both companies work to ensure compliance with
+      environmental regulations, promote water conservation and efficient use, and provide reliable and affordable
+      services to their customers.
+
+  21. The Regulatory Agency for Water and Sanitation Services of Bahia (AGERSA) is an autonomous agency
+      responsible for regulating water and sanitation services in the State. AGERSA's main responsibilities include
+      setting tariffs and regulating the water quality and sanitation services provided by EMBASA and other service
+      providers. Municipalities also play a role in water and sanitation management, particularly in providing local water
+      and sanitation services. The Municipalities are responsible for regulating and managing local water and sanitation
+      services, in partnership with EMBASA and other agencies, to ensure that the needs of local communities are met.
+      The agencies mentioned above should work together to ensure that water and sanitation services are provided in
+      an efficient, sustainable, and equitable manner; however, there remain big challenges to be addressed to secure
+      water services in rural areas.
+
+  22. In Brazil, key policy instruments in the water and sanitation (WSS) sector include the new Sanitation Law (Law
+      14.206). This law reformed the regulatory framework for water and sanitation in the country. The National Water
+      Agency (ANA) now has an expanded role, encompassing not only water resource management but also the
+      establishment of reference standards for WSS and the oversight of their implementation by subnational
+      governments. The new legal framework also introduced increased opportunities for privatization and private
+      investment, aimed at infrastructure development and the expansion of sanitation services nationwide (universal
+      provision). This shift is significant as the previous regulatory framework allowed for local regulation of WSS
+      without federal direction or supervision, resulting in fragmented, inconsistent, and imbalanced rules that led to
+      inefficiencies and regulatory risks. The new Law is expected to establish a more stable regulatory environment.
+
+  23. Regarding Bahia State, the SHIS is currently preparing and/or updating the following plans: (i) State Plan for
+      Water Supply and Sanitation (Plano Estadual de Agua de Saneamento Básico, PESB); (ii) Water Security State Plan
+      (Plano Estadual de Seguranca Hídrica, PESH), which aims to update the water balance, detailing the necessary
+      interventions to ensure water supply (construction of dams, water mains, water supply and treatment systems),
+      under the prevailing conditions of climate change; (iii) Regional Water and Sanitation Plans (Planos Regionais de
+      Saneamento Básico, PRSB), which will be the planning tools that will present the investment need in the short,
+      mid and longer terms to attain the universal access to water and sanitation services.
+
+Relationship to CPF
+
+  24. The project is fully aligned with the World Bank Group’s (WBG) Brazil Country Partnership Framework (CPF -
+      Report No. 113259-BR) for Brazil for the Period FY18-FY23 as revised by its Performance and Learning Review
+      (PLR - Report No. 143636-BR). The project directly contributes to the third focus area of the CPF: Inclusive and
+      Sustainable Development. Under this focus area, the project seeks to contribute to the socioeconomic
+      development of the rural poor and vulnerable groups through investments in productivity enhancing and climate-
+
+                                                                                                                 Page 9 of 13
+        The World Bank
+        Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+         resilient agricultural technologies, good farming practices, and increasing market access through producers’
+         organization. Also, the project seeks to increase access to water supply and sanitation services in low-income
+         communities, with a focus on the Northeast region; enhance the sustainability and resilience of water supply and
+         sanitation systems through better governance, planning, and management; and promote the adoption of
+         innovative technologies and practices to improve water supply and sanitation services. The project will also
+         contribute to Bahia’s efforts to improve food security, as set out in the Bahia Without Hunger program (Bahia sem
+         Fome), which promotes food and nutritional security through investments to strength small-scale farmers.
+
+
+     25. The project will contribute to Brazil’s Nationally Determined Contribution (NDC) and National Adaptation Plan
+         (NAP). In the latest NDC update completed in 2022 building on the original of 2015, Brazil confirmed its
+         commitment to reduce emissions in 2025 by 37 percent compared with 2005, committed to reduce its emissions
+         in 2030 by 50 percent compared with 2005 and set a long-term objective to achieve climate neutrality by 2050.
+         Brazil’s NDC, referencing the second cycle of the National Adaptation Plan (NAP) from 2021, makes note of
+         adaptation strategies in the agricultural sector as a mean of ensuring food security. By supporting small-scale
+         family farmers in their adoption of climate-smart agriculture technologies and farming practices that enhance
+         productivity and increase resiliency to climate shocks, the project is fully aligned with these climate change
+         policies. Also, the proposed project is aligned with the following commitments: (i) increase the percentage of
+         households with access to treated drinking water from 83.3 percent in 2010 to 100 percent by 2030; (ii) implement
+         climate change adaptation actions in water and sanitation by 2030; and (iii) reduce water losses in the supply
+         system by 20 percent by 2030.
+
+
+ C. Proposed Development Objective(s)
+
+     26. To increase adoption of agricultural technologies aiming to improve agricultural productivity and resilience of
+         family farmers to climate change shocks while enhancing access to markets and expanding access to resilient28
+         water services in selected rural areas.
+
+ Key Results (From PCN)
+
+     27. Adoption of agriculture technologies:
+
+             •    Farmers (members of producer organizations supported by the project) adopting agricultural technologies
+                  and good farming practices aiming to improve productivity (number - disaggregated by women, youth
+                  and traditional communities).
+
+             •    Farmers (members of producer organizations supported by the project) adopting agricultural technologies
+                  and good farming practices aiming to improve climate change resilience (disaggregated by women, youth
+                  and traditional communities).
+
+
+
+
+28
+    Resilient water services entail: (i) a minimum number of hours per day of water service even during the most critical periods of the
+year, (ii) an institutional management model in place with backup support arrangements for operation and maintenance (O&M), and
+(iii) financial arrangements that cover at least operation and management costs.
+
+                                                                                                                            Page 10 of 13
+        The World Bank
+        Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+     28. Enhance market access:
+
+             •    Increase in gross value of sales by family farmers participating in approved subprojects (Percentage -
+                  disaggregated by women, youth and traditional communities);
+
+     29. Improved access to water:
+
+             •    Water access will be measured as the number of people provided with access to resilient29 water services
+                  through piped household water connections (Number).
+
+ D. Concept Description
+
+     30. One strategy employed to tackle the various challenges described above is the promotion of Productive Alliances
+         (PA), which aim to strengthen the connections between producers, buyers, and the public sector within
+         agricultural value chains. The PA approach involves three key actors: (i) producer organizations, (ii) buyers, and
+         (iii) the public sector. These actors are linked through a business plan that outlines the capital and service
+         requirements of the producers and proposes enhancements to improve their production capacities and skills, thus
+         strengthening their connection to the market. The implementation of the business plan typically involves a
+         subproject supported by three main inputs or activities: productive investments (assets), technical assistance for
+         primary production, processing and marketing, and business development services. These inputs are funded
+         through grants provided by the project, which are matched by the beneficiary producers.
+
+     31. The PA approach combines insights from experimental research, including randomized controlled trials, focused
+         on identifying the major barriers to the adoption of agricultural technologies and best farming practices, with
+         recent literature on the participation of family farmers in agricultural value chains30. The PA approach primarily
+         addresses constraints related to (i) liquidity, (ii) information gaps, (iii) risk aversion, (iv) transaction costs
+         associated with market access, and (v) the subpar quality of agricultural products produced by family farmers. By
+         facilitating the participation of family farmers in value chains that connect their agricultural production with the
+         increasing urban demand for high-quality food products, the PA approach offers a pathway for improving their
+         economic prospects31. The component 1 of the project will finance both the pre-investments needed to develop
+         business plans (subcomponent 1.1) and the implementation of the proposed investments (subcomponent 1.2).
+         The component will address the diverse needs of producer organizations at various levels of organization through
+         different grant windows, aiming to foster social inclusion.
+
+     32. The strategy for managing water supply issues in rural areas is centered around the Community Associations for
+         Water Management, known as "Centrais de Associações." This management approach emphasizes community-
+         driven and locally managed water systems, moving away from the reliance on centralized systems typically
+         overseen by municipalities. By involving local communities in the planning, implementation, and maintenance of
+         water services, this strategy aims to enhance ownership, sustainability, and effectiveness. Empowering
+
+29
+   See definition in footnote on PDO above.
+30
+   Barrett, Christopher B., Thomas Reardon, Johan Swinnen, and David Zilberman. "Agri-food value chain revolutions in low-and
+middle-income countries." Journal of Economic Literature 60, no. 4 (2022): 1316-1377.
+31
+   Gollin, Douglas, and Lilli Teresa Probst. "Food and agriculture: shifting landscapes for policy." Oxford Review of Economic Policy 31,
+no. 1 (2015): 8-25.
+
+                                                                                                                             Page 11 of 13
+          The World Bank
+          Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+           communities to take control of their water supply ensures long-term access to clean water and promotes the
+           overall well-being and development of rural populations. Developed in the early 2000s, this approach has gained
+           increased attention in recent years, particularly in cases where water systems were transferred to municipalities
+           but failed to achieve sustainability. The previous project financed by the World Bank relied on the management
+           model of "Centrais de Associações" and the results demonstrated benefits such as reduced administration and
+           maintenance costs, improved water quality monitoring, decreased water losses, and enhanced association
+           accountability32. The component 2 will finance both the pre-investments needed to develop “Centrais de
+           Associações” (subcomponent 2.1) and the implementation of the proposed investments (subcomponent 2.2).
+
+
+
+    Legal Operational Policies                                                          Triggered?
+    Projects on International Waterways OP 7.50                                         No
+    Projects in Disputed Areas OP 7.60                                                  No
+
+     Summary of Screening of Environmental and Social Risks and Impacts
+    .
+.
+    CONTACT POINT
+
+
+    World Bank
+     Eirivelthon Santos Lima, Luis Alfonso Alvestegui Justiniano
+     Senior Agriculture Economist
+
+
+    Borrower/Client/Recipient
+     Government of the State of Bahia
+     Jeronimo Rodrigues
+     Governor
+     governador@governadoria.ba.gov.br
+
+    Implementing Agencies
+
+     CAR - Companhia de Desenvolvimento e Acao Regional
+     Fernando Cabral
+     Coordinator
+     fernandocabral@car.ba.gov.br
+
+
+
+
+32
+  CAR/CERB (2022). ‘Avaliação Comparativa dos Impactos à População Atendidas por SSAA Operados pelas Centrais e Prefeituras’.
+December 2022.
+
+                                                                                                                  Page 12 of 13
+     The World Bank
+     Bahia Sustainable Rural Development Project - Phase 2 (P180429)
+
+
+FOR MORE INFORMATION CONTACT
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+
+APPROVAL
+
+Task Team Leader(s):                     Eirivelthon Santos Lima, Luis Alfonso Alvestegui Justiniano
+
+Approved By
+APPROVALTBL
+Practice Manager/Manager:
+
+Country Director:                      Sophie Naudeau                            12-Jun-2023
+
+
+
+
+                                                                                                       Page 13 of 13
+

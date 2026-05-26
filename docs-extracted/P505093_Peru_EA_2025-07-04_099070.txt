@@ -1,0 +1,1117 @@
+Public Disclosure Authorized
+                                                                             Anexo 1
+                                     Guía para la Evaluación de Impacto Ambiental y Social
+                                     Complementaria (EIAS -C) del Proyecto Convenio 25 y
+                                                Adecuaciones a la PTAR Espinar
+
+
+
+
+Public Disclosure Authorized
+                               Abreviaturas y Siglas
+
+                               ANP      Área Natural Protegida
+                               ANA      Autoridad Nacional del Agua
+                               BM       Banco Mundial
+                               CIRA     Certificado de Inexistencia de Restos Arqueológicos
+                               CUI      Código Único de Inversiones
+                               DICAPI Dirección General de Capitanías y Guardacostas
+                               DIGESA Dirección General de Salud Ambiental e Inocuidad Alimentaria
+                               EPS      Entidades Prestadoras de Servicios de Saneamiento
+
+
+
+
+Public Disclosure Authorized
+                               EAS      Estándar Ambiental y Social
+                               EIA-sd   Estudio de Impacto Ambiental semidetallado
+                               EIAS - C Evaluación de Impacto Ambiental y Social Complementaria
+                               GORE     Gobierno Regional
+                               GMASS Guías generales sobre medio ambiente, salud y seguridad del Grupo Banco Mundial
+                               MAS      Marco de Gestión Ambiental y social del Banco Mundial
+                               MIDAGRI Ministerio de Desarrollo Agrario y Riego
+                               MPA      Enfoque Programático Multifase
+                               MVCS     Ministerio de Vivienda, Construcción y Saneamiento
+                               PCAS     Plan de Compromiso Ambiental y Social
+                               PGAS     Plan de Gestión Ambiental y Social
+                               PGL      Plan de Gestión Laboral
+
+
+
+
+Public Disclosure Authorized
+                               PMA      Plan de Monitoreo Arqueológico
+                               PPPI     Plan de participación de partes interesadas
+                               PSISO    Plan de Seguridad Industrial y Salud Ocupacional
+                               PTAR     Planta de Tratamiento de Aguas Residuales
+                               PNSU     Programa Nacional de Saneamiento Urbano
+                               SSO      Seguridad y Salud Ocupacional
+                               SERNANP Servicio Nacional de Áreas Naturales Protegidas por el Estado
+                               SINANPE Sistema Nacional de Áreas Naturales Protegidas por el Estado
+                               SEIA     Sistema Nacional de Evaluación de Impacto Ambiental
+
+
+
+
+                                                                                                                       Official Use Only
+Contenido
+1      Introducción ............................................................................................................................................... 3
+2      Objetivos .................................................................................................................................................... 4
+    2.1      Objetivo General .................................................................................................................................. 4
+    2.2      Objetivos específicos ............................................................................................................................ 4
+3      Alcance general de la Evaluación de Impacto Ambiental y Social Complementaria – EIAS-C................. 4
+4      Metodología para la Evaluación de Impacto Ambiental y Social ............................................................. 5
+    4.1      Scoping ................................................................................................................................................. 5
+    4.2      Elaboración de Línea Base.................................................................................................................... 6
+    4.3      Identificación y Evaluación de Riesgos e Impactos Ambientales y Sociales ......................................... 6
+       4.3.1           Identificación de Riesgos e Impactos Ambientales y Sociales .................................................... 6
+       4.3.2           Evaluación de los Riesgos e Impactos Ambientales y Sociales ................................................... 7
+    4.4 Definición de medidas de acuerdo con la jerarquía de mitigación de riesgos e impactos ambientales
+    y sociales....................................................................................................................................................... 12
+    4.5      Estructuración de programas de gestión ambiental y social ............................................................. 12
+    4.6      Monitoreo, Reporte y Verificación ..................................................................................................... 15
+5      Actividades de la consultoría................................................................................................................... 16
+    5.1      Revisión y recopilación de información ............................................................................................. 16
+    5.2      Elaboración de Plan de Trabajo.......................................................................................................... 16
+    5.3      Trabajos de campo ............................................................................................................................. 17
+    5.4      Entregables ........................................................................................................................................ 17
+6      Contenido mínimo del EIAS-C .................................................................................................................. 17
+7      Equipo mínimo del consultor .................................................................................................................. 21
+
+
+
+
+                                                                                                                                                                       Official Use Only
+1 Introducción
+En el marco de la Evaluación Ambiental y Social del proyecto Mejoramiento y ampliación de los servicios de
+agua potable y recolección de aguas residuales de la ciudad de Puno, distrito de Puno, provincia de Puno,
+departamento de Puno, con Código único de inversiones CUI 2387679 (en adelante Proyecto Convenio 25), se
+ha identificado brechas entre el Estudio de impacto ambiental semi detallado, las exigencias de la normativa
+peruana en cuanto al Sistema Nacional de Evaluación de Impacto Ambiental (SEIA) y los lineamientos del
+Marco Ambiental y Social (MAS) del Banco Mundial.
+
+La identificación de las mencionadas brechas ha permitido reconocer preliminarmente cuáles serían las
+medidas y su ordenamiento a través de planes, que permitan cumplir con el MAS del Banco Mundial.
+
+Adicionalmente, como se ha analizado en el Programa Multifase (MPA), el caudal que será conducido por el
+componente de redes de alcantarillado del Proyecto Convenio 25 llegará a la actual PTAR Espinar, sobre la
+cual EMSA Puno llevará a cabo adecuaciones para recibir y tratar dicho caudal, por tal motivo, los impactos
+ambientales y sociales derivados de la ejecución y funcionamiento de dichas adecuaciones se abordan
+también en esta guía, sin embargo, los planes y medidas ASSS que se sugieran deben ser ejecutados física y
+financieramente por EMSA Puno en el marco de sus competencias.
+
+El presente documento tiene como finalidad presentar el alcance, contenido y estructura de la Evaluación de
+Impacto Ambiental y Social Complementaria (EIAS-C) del Proyecto Convenio 25, que permitirá cubrir brechas
+entre el Estudio de impacto ambiental semi detallado del Proyecto Convenio 25 1 y el Marco de Políticas
+Ambientales y Sociales del Banco Mundial incluyendo a las adecuaciones que EMSA Puno llevará a cabo sobre
+la PTAR Espinar.
+
+La EIAS-C tiene la finalidad principal de presentar evaluaciones y medidas de manejo ambiental, social, de
+salud y seguridad (en adelante medidas ASSS) complementarias para garantizar que el Proyecto Convenio 25
+cumpla los lineamientos de los estándares ambientales y sociales del Marco de Políticas Ambientales y
+Sociales del Banco Mundial y lograr el desempeño más adecuado de la PTAR Espinar que recibirá el caudal
+conducido por el Proyecto Convenio 25.
+
+Esta guía constituye un anexo de la Evaluación Ambiental y Social del Proyecto Convenio 25 y como tal es
+parte de este.
+
+El presente documento constituye una guía para la Unidad Ejecutora y el contratista a cargo de elaborar la
+Evaluación de Impacto Ambiental y Social Complementaria (EIAS-C) del Proyecto Convenio 25 para garantizar
+el cumplimiento del MAS. Este EIAS-C requiere ser presentado al BM para su No Objeción en cumplimiento
+del PCAS.
+
+
+
+
+1 Como se ha explicado en el documento de a EAS, se debe desarrollar un nuevo Estudio de impacto ambiental semi detallado en el marco
+
+del Sistema Nacional de Evaluación de Impacto Ambiental-SEIA, ya que el actual perderá su vigencia en junio del 2026 y aun no se ha
+iniciado la ejecución Física del Proyecto Convenio 25.
+
+
+
+
+                                                                                                                                    Official Use Only
+2 Objetivos
+2.1 Objetivo General
+Cumplir los lineamientos del Marco Ambiental y Social del Banco Mundial en todas las etapas del Proyecto
+Convenio 25.
+
+2.2 Objetivos específicos
+    •   Elaborar una Guía para desarrollar la Evaluación de Impacto Ambiental y Social Complementaria
+        (EIAS-C) al EIA-sd, que permita al Proyecto Convenio 25 cumplir con la normativa ambiental vigente
+        y los estándares ambientales y sociales del MAS del Banco Mundial.
+    •   Proponer medidas de manejo y gestión ambiental organizados en planes, que sean incorporados a la
+        Evaluación de Impacto Ambiental y Social del Proyecto Convenio 25 y que tomará EMSA Puno en el
+        alcance que le corresponde sobre las adecuaciones a la PTAR Espinar.
+
+
+3 Alcance general de la Evaluación de Impacto Ambiental y Social
+  Complementaria – EIAS-C
+El alcance general de la EIAS-C, comprende aspectos legales, técnicos y administrativos.
+
+A nivel legal, se cuenta con el compromiso del Estado Peruano, definido en el Plan de Compromisos
+Ambientales y Sociales del proyecto (PCAS), el cual establece como uno de los compromisos que la Unidad de
+Implementación del Proyecto (UIP) deberá desarrollar la EIAS-C que permita al Proyecto Convenio 25 cumplir
+con los estándares ambientales y sociales y con el marco normativo ambiental local.
+
+A nivel técnico el EIAS-C tendrá como alcance el aseguramiento de medidas que permitan al Proyecto
+Convenio 25 cumplir con los EAS del MAS del Banco Mundial y cumplir con la normativa ambiental peruana,
+incluyendo medidas para el desempeño ambiental y social aceptable de la PTAR Espinar con relación a las
+adecuaciones que llevará a cabo EMSA PUNO.
+
+De acuerdo con el análisis de brechas entre el EIAS-sd y el MAS del Banco Mundial, este requiere esfuerzos y
+medidas complementarias para satisfacer los requisitos de los EAS del BM ya que existen aspectos e impactos
+ambientales y sociales que no han sido atendidos por el EIA-sd. Estas brechas se describen en la Evaluación
+Ambiental y Social, e incluyen principalmente las siguientes, la cuales requieren ser consideradas dentro del
+EIAS-C:
+
+    •   Evaluación y medidas de manejo el ciclo completo del proyecto, incluida la etapa de pre-
+        construcción.
+    •   Identificación y evaluación de obras conexas.
+    •   Evaluación de impactos y riesgos asociados a mayores caudales y cargas contaminantes que podrían
+        ingresar a la PTAR Espinar cuando entre en operación las obras del Convenio 25 y definir medidas de
+        manejo de acuerdo con la jerarquía de mitigación.
+    •   Debida justificación del área de influencia directa e indirecta del proyecto.
+    •   Evaluación y medidas para los aspectos de salud y seguridad de trabajadores y la comunidad.
+    •   Evaluación y medida para impactos ambientales y sociales del cambio climáticos
+    •   Evaluación y medidas para impactos transfronterizos.
+    •   Evaluación y medidas para impactos acumulativos.
+    •   Evaluación. medidas asociadas a proveedores primarios.
+    •   Proceso de participación de partes interesadas que tome en cuenta consulta significativa.
+
+
+
+
+                                                                                                            Official Use Only
+      •    Condiciones laborales y manejo de relaciones con los trabajadores
+      •    Estimación y medidas para el uso eficiente de los recursos naturales que serán empleados por el
+           proyecto.
+      •    Estimación y gestión de residuos peligrosos incluidos los de asbesto – cemento.
+      •    Evaluación y gestión de Impactos asociados a la gestión predial.
+      •    Evaluación y gestión de riesgos sobre la biodiversidad
+
+De acuerdo con el análisis de brechas, también se requiere una identificación de mayor profundidad en cuanto
+a la potencial afectación de ecosistemas y hábitats críticos, de modo que se atienda al Estándar ambiental y
+social 6: Conservación de la biodiversidad y gestión sostenible de los recursos naturales vivos, en especial en
+cuanto al análisis de los medios de subsistencia de las comunidades del lago Titicaca y las especies en peligro
+de extinción en hábitats críticos.
+
+La EIAS-C igualmente debe evaluar los posibles impactos y riesgos ambientales y sociales y definir medidas de
+manejo atendiendo la jerarquía de mitigación, asociados al incremento de caudales sobre la PTAR Espinar. Las
+medidas deben garantizar que al menos no se presenten impactos incrementales o adicionales con respecto
+a la situación existente durante la etapa de transición. Estas medidas podrían incluir entre otras:
+
+      •    Realizar el mantenimiento de la PTAR Espinar de las unidades de tratamiento, incluyendo el dragado
+           de lagunas para mejorar la capacidad de tratamiento y reducir los niveles de contaminación sobre el
+           lago debidos a la descarga.
+      •    Formular un plan de mantenimiento preventivo de la PTAR Espinar (p.e. retiro regular de lodos) para
+           garantizar condiciones operativas de la PTAR durante todo el periodo de transición (mientras se
+           construye y entra en operación la nueva PTAR de Puno).
+      •    Implementar un cronograma del proyecto que permita que la nueva PTAR de Puno pueda entrar en
+           operación previo al inicio en operación del Convenio 25.
+      •    Otras medidas, que puedan ser requeridas para prevenir y gestionar los impactos incrementales, que
+           se consideren adecuadas.
+
+
+4 Metodología para la Evaluación de Impacto Ambiental y Social
+La metodología para la realización de la evaluación ambiental y social deberá incluir las etapas de
+scoping, realización de la línea base, identificación y evaluación de impactos ambientales y sociales,
+el desarrollo de planes de gestión ambiental y social, así como el monitoreo, reporte y verificación
+de su cumplimiento.
+
+4.1       Scoping
+Consistirá en identificar los impactos ambientales y sociales más relevantes de las intervenciones y
+la definición de los temas que requieren un análisis detallado. Su objetivo es evitar la dispersión de
+esfuerzos y centrar la evaluación en los aspectos principales, para esto se deberá revisar como
+insumos:
+
+      •    El EIAsd sobre el Proyecto Convenio 25.
+      •    El Expediente técnico del Proyecto Convenio 25.
+      •    La Evaluación Ambiental y Social sobre Proyecto Convenio 25
+      •    El expediente técnico de las adecuaciones que lleve a cabo EMSA Puno sobre la PTAR
+           Espinar.
+      •    Informe técnico de EMSA Puno sobre medidas para mejorar y rehabilitar la PTAR Espinar.
+
+
+
+
+                                                                                                              Official Use Only
+4.2       Elaboración de Línea Base
+La elaboración de la línea base servirá para desarrollar 1) el nuevo estudio de impacto ambiental
+semi detallado que requiere el proyecto Convenio 25 y 2) la EIAS-C, especialmente para cerrar las
+brechas identificadas en los acápites 5 y 6 de la EAS.
+
+La Elaboración de la línea base tomará en cuenta la Guía para la elaboración de la línea base en el
+marco del Sistema Nacional de Evaluación de Impacto Ambiental, aprobada mediante Resolución
+Ministerial N°143-2025-MINAM y los lineamientos que son requeridos por el MAS del Banco
+Mundial.
+
+El desarrollo de la línea base deberá establecer en detalle los datos que son relevantes para las
+decisiones sobre operación o medidas de mitigación e incluir un análisis sobre la precisión, la
+confiabilidad y las fuentes de los datos, así como información sobre las fechas de identificación,
+planificación y ejecución de las intervenciones del proyecto.
+
+Se identifica y se estima la cantidad y la calidad de información disponible, los vacíos clave en la
+información y las incertidumbres asociadas con las predicciones. Sobre la base de la información
+actual, se evalúa el alcance del área que haya de estudiarse y se describen las condiciones físicas,
+biológicas y socioeconómicas pertinentes, incluidos los cambios previstos antes del comienzo del
+proyecto, tomando en cuenta las actividades de desarrollo actuales y propuestas dentro del área
+del proyecto pero que no estén directamente relacionadas con él. La elaboración de la línea base
+deberá incluir el trabajo de campo.
+
+Como parte de la realización de la línea base se establecerá el área de influencia directa e indirecta
+del Proyecto Convenio 25, incluyendo además a la PTAR Espinar, el área de influencia debe ser
+definida para la atención de la no afectación de los criterios de protección ambiental del Sistema
+Nacional de Evaluación de Impacto Ambiental (SEIA) y en atención a los estándares ambientales y
+sociales del MAS del BM.
+
+4.3       Identificación y Evaluación de Riesgos e Impactos Ambientales y Sociales
+La identificación de riesgos e impactos ambientales y sociales se llevará a cabo de modo
+independiente para el Proyecto Convenio 25 y para la PTAR Espinar en cuanto a las adecuaciones
+que EMSA PUNO implementará sobre esta infraestructura.
+
+4.3.1      Identificación de Riesgos e Impactos Ambientales y Sociales
+
+La identificación de los riesgos e impactos ambientales y sociales surgirán como las relaciones entre
+los factores del medio (natural y social) y las actividades del Proyecto Convenio 25 y las actividades
+para la adecuación de la PTAR durante cada etapa del ciclo de vida (construcción, cierre de obras,
+operación y mantenimiento, cierre y abandono del proyecto) agrupándolas según las diferentes
+zonas del trabajo. Para ello se realizarán los siguientes pasos:
+
+      •    Se revisará y actualizará la descripción del proyecto con base en el expediente técnico y el
+           EIAS-sd vigente, de tal forma que se verifique y complemente para garantizar que éste sea
+           suficiente y detallado para realizar la adecuada identificación de impactos y riesgos; para
+           esto, un aspecto importante es la descripción de los procedimientos constructivos y un
+           cronograma de construcción con dichas actividades.
+
+
+
+
+                                                                                                      Official Use Only
+     •    De acuerdo con la línea base del área de influencia del Proyecto, se identificarán los factores
+          ambientales y sociales susceptibles de ser impactados por las actividades en cuestión. Estos
+          factores ambientales y sociales pueden ser los siguientes, de modo que se cumplan los
+          Estándares Ambientales y Sociales del MAS.
+              o Físicos (aire, suelo, ruido y vibración, agua superficial, agua subterránea)
+              o Biológicos (flora, fauna, servicios ecosistémicos)
+              o Seguridad y Salud en el Trabajo (Accidentes e Incidentes)
+              o Sociales (Tráfico vehicular, Comunidad)
+              o Culturales (Patrimonio cultural tangible/intangible)
+
+     •    Se construirá una matriz de interacción entre las actividades del Proyecto y los factores
+          ambientales y sociales afectados.
+     •    Se identificará si existirá un riesgo o impacto ambiental y social positivo o negativo.
+
+4.3.2     Evaluación de los Riesgos e Impactos Ambientales y Sociales
+
+La evaluación de los riesgos e impactos ambientales y sociales permitirá identificar y calificar, de
+manera cualitativa, los impactos generados y potenciales, para esto se deberá seguir la metodología
+propuesta por Vicente Conesa-Fernández 2,
+
+Para ello, se deberá utilizar las matrices de evaluación de los impactos ambientales por cada etapa
+de las intervenciones. En estas matrices se colocan las actividades de los componentes sujetos a
+evaluación en filas y los factores ambientales y sociales de evaluación en las columnas, considerando
+la valoración de una serie de atributos propios de los impactos ambientales para luego a través de
+una aplicación de la fórmula propuesta en la metodología obtener el valor del impacto
+denominándose “Importancia del Impacto (I)”, que refiere a la importancia del accionar de una
+actividad sobre un factor ambiental.
+
+Los atributos de los impactos ambientales considerados en la metodología aplicada son: naturaleza,
+intensidad, extensión, momento, persistencia, reversibilidad, sinergia, acumulación, efecto,
+periodicidad, y, recuperabilidad; los cuales, se describen a continuación:
+
+Naturaleza (N)
+Este atributo hace referencia a la naturaleza del impacto. El signo del impacto hace alusión al
+carácter beneficioso o perjudicial de las distintas acciones que van a actuar sobre los distintos
+factores ambientales considerados.
+
+     •    Si es beneficioso, se considera como positivo (+)
+     •    Si es perjudicial, se considera como negativo (-)
+
+Intensidad (IN)
+Este término se refiere al grado de incidencia de la acción sobre el factor ambiental, en el ámbito
+específico en el que se desarrolla la misma. En la siguiente tabla, se recopila la descripción de cada
+valorización dada al atributo intensidad.
+
+
+2 Desarrollada en Guía Metodológica para la Evaluación del Impacto Ambiental” (2010),
+
+
+
+
+                                                                                                        Official Use Only
+                                 Tabla 1 Valorización de intensidad de impactos ambientales
+                  Intensidad (IN)       Valor
+                          (1)             (1)                             Descripción (1)
+                                                      Afección mínima o poco significativa del factor
+                        Baja              1
+                                                                       ambiental
+                       Media              2              Afección media sobre el factor ambiental
+
+                        Alta              4                Afección alta sobre el factor ambiental
+
+                     Muy alta             8             Afección muy alta sobre el factor ambiental
+
+                        Total            12         Expresa una destrucción total del factor ambiental
+(1) Fuente: Guía Metodológica para la Evaluación del Impacto Ambiental - Vicente Conesa Fernández - Vitora 4ta Edición (2010).
+
+
+Extensión (EX)
+Área de influencia teórica del impacto en relación con el entorno de la actividad en que se sitúa el
+factor. Se clasifica considerando:
+
+     •    Si la acción produce un efecto muy localizado (dentro del área del proyecto), el impacto
+          tiene un carácter puntual (1).
+     •    Si el efecto no admite una ubicación precisa dentro del entorno del proyecto, teniendo una
+          influencia generalizada en todo él, el impacto será Total (8).
+     •    Las situaciones intermedias, según su graduación se consideran Parcial (2) y Extenso (4).
+     •    En el caso de que el efecto se produzca en un lugar crucial o crítico se considerará un
+          impacto de ubicación crítica y se le atribuirá un valor de (12).
+
+Momento (MO)
+Plazo de manifestación del impacto, alude al tiempo que transcurre entre la aparición de la acción
+y el comienzo del efecto sobre el factor del medio considerado.
+     • Si el tiempo transcurrido es nulo, el momento será “inmediato” (4)
+     • Si el tiempo transcurrido es inferior a un año, el momento será “corto plazo” (3)
+     • Si es un período de tiempo que va de uno a diez años, el momento será “medio plazo” (2)
+     • Si el efecto tarda en manifestarse más de diez años, el momento será “largo plazo” (1)
+     • Si ocurriese alguna circunstancia que hiciese crítico el plazo de manifestación del impacto,
+        se le atribuirá un valor de (12).
+
+
+Persistencia o duración del impacto (PE)
+Se refiere al tiempo de permanencia del efecto sobre un factor ambiental desde el momento de su
+aparición hasta su desaparición o recuperación, ya sea por la acción de medios naturales o mediante
+la aplicación de medidas correctivas.
+
+     •    Si la permanencia del efecto es mínima o nula, se considera “fugaz o efímero” (1).
+     •    Si la permanencia del efecto tiene lugar durante menos de un año, se considera
+          “momentáneo” (1)
+     •    Si dura entre uno y diez años, se considera “temporal o transitorio” (2).
+     •    Si el efecto permanece entre 11 y 15 años, se considera “pertinaz o persistente” (3)
+
+
+
+
+                                                                                                                                 Official Use Only
+    •   Si tiene una duración superior a los 15 años, consideramos el efecto como “Permanente y
+        constante” (4).
+
+Reversibilidad (RV)
+Se refiere a la posibilidad de que el factor ambiental afectado, regrese a su estado natural inicial,
+por medios naturales, una vez que la acción del efecto deja de actuar sobre él.
+    • Si la posibilidad de retornar a las condiciones iniciales previas a la acción, por medios
+        naturales, tiene lugar durante menos de un año, se considera “corto plazo” (1).
+    • Si tiene lugar entre uno y diez años, se considera “medio plazo” (2).
+    • Si tiene lugar entre once y quince años, se considera el efecto “largo plazo” (3).
+    • Se es mayor a quince años, se considera “irreversible” (4).
+
+Efecto (EF)
+Este atributo se refiere a la relación causa-efecto, es decir, la forma de manifestación del efecto
+sobre un factor como consecuencia de una acción.
+
+    •   El efecto puede ser “directo o primario” (4), si la repercusión de la acción es directa de ésta.
+    •   En caso de que el efecto sea “indirecto o secundario” (1), su manifestación no es
+        consecuencia directa de la acción, sino que tiene lugar a partir de un efecto primario.
+
+Periodicidad (PR)
+Conesa et al. (2010) expresa que la periodicidad es la regularidad de la manifestación del efecto.
+
+    •   Si la manifestación del efecto se repite en el tiempo de una manera irregular e imprevisible
+        sin cadencia alguna, se considera “irregular (aperiódico y esporádico)” (1).
+    •   Si los plazos de manifestación del efecto presentan una regularidad y una cadencia
+        establecida, se considera “periódico o de regularidad intermitente” (2).
+    •   Si los efectos son continuos, se considera “continuo” (4).
+
+Sinergia (SI)
+Este atributo contempla el reforzamiento de dos o más efectos simples. El componente total de la
+manifestación de los efectos simples, provocados por acciones que actúan simultáneamente, es
+superior a la esperada de la manifestación de efectos, cuando las acciones que las provocan actúan
+de manera independiente no simultánea.
+
+    •   Cuando una acción actuando sobre un factor, no es sinérgica con otras acciones que actúan
+        sobre el mismo factor, se considera “sin sinergismo o simple” (1).
+    •   Si se presenta un sinergismo moderado, se considera “sinergismo moderado” (2).
+    •   Si se potencia la manifestación de manera ostensible, se considera “muy sinérgico” (4).
+
+
+Acumulación (AC)
+Atributo referido al incremento progresivo de la manifestación del efecto, cuando persiste de forma
+continuada o se reitera la acción que lo genera.
+
+
+
+
+                                                                                                       Official Use Only
+    •    Cuando una acción se manifiesta sobre solo un componente ambiental, o cuyo modo de
+         acción es individualizado, sin consecuencias en la inducción de nuevos efectos, ni en la de
+         su acumulación ni en la de su sinergia (no hay efectos acumulativos) se considera
+         acumulación “simple” (1).
+    •    Cuando una acción al prolongarse en el tiempo, incrementa progresivamente la magnitud
+         del efecto, se considera ocurrencia “acumulativa” (4).
+
+Recuperabilidad (MC)
+Posibilidad de reconstrucción total o parcial del factor afectado como consecuencia de la acción
+ejercida, es decir, la posibilidad de retornar a las condiciones iníciales previas a la actuación, por
+medio de la intervención humana (introducción de medidas correctoras).
+
+    •    Si la recuperación se da en un periodo menor breve, se considera “recuperable de manera
+         inmediata” (1)
+    •    Si la recuperación se da en un periodo menor a un año, el efecto se considera “recuperable
+         a corto plazo” (2)
+    •    Si la recuperación se da en un periodo entre uno y diez años, el efecto se considera
+         “mediano plazo” (3)
+    •    Si la recuperación se da en un periodo entre once y quince años, el efecto se considera
+         “largo plazo” (4)
+    •    En el caso que la alteración se recupere parcialmente, al cesar o no la presión provocada
+         por la acción, y previa incorporación de Medidas Correctivas, el efecto será “mitigable” (4).
+    •    En el caso de que se presente un impacto irrecuperable, pero exista la posibilidad de
+         introducir medidas sustitutorias o compensatorias, estaremos ante un impacto “sustituible”
+         o “compensable” (5).
+    •    Si la alteración es imposible de reparar en su totalidad por la acción humana, o si la
+         recuperación se da en un periodo mayor a quince años, el efecto es “irrecuperable” (8).
+
+Los valores de los atributos se presentan en la siguiente tabla:
+                          Tabla 2 Atributos de los impactos ambientales identificados
+        Atributo              Valoración                      Atributo                     Valoración
+                       Impacto beneficioso        +1     Acumulación (AC)                 Simple          1
+    Naturaleza (±)                                         Incremento
+                       Impacto perjudicial        -1        progresivo                  Acumulativo       4
+                          Baja o mínima           1                                 Fugaz o efímero       1
+    Intensidad (IN)          Media                2                                     Momentáneo        1
+                                                          Persistencia (PE)
+       Grado de
+                              Alta                4       Permanencia del        Temporal o transitorio   2
+     destrucción o
+                            Muy alta              8            efecto            Pertinaz o persistente   3
+     recuperación
+                              Total               12                            Permanente y constante    4
+                            Puntual               1                                     Largo plazo       1
+
+    Extensión (EX)           Parcial              2                                     Medio plazo       2
+                                                       Momento (MO) plazo
+       Area de          Amplio o extenso          4                                     Corto plazo       3
+                                                        de manifestación
+      influencia              Total               8                                      Inmediato        4
+                             Crítico              12                                      Crítico         8
+
+
+
+
+                                                                                                              Official Use Only
+         Atributo                     Valoración                          Atributo                       Valoración
+                                                                                               Irregular (aperiódico y
+      Sinergia (SI)         Sin sinergismo o simple          1                                                               1
+                                                                     Periodicidad (PR)              esporádico)
+    Potenciación de
+                                                                     regularidad de la             Periódico o de
+           la               Sinergismo moderado              2                                                               2
+                                                                      manifestación           regularidad intermitente
+     manifestación
+                                 Muy Sinérgico               4                                         Continuo              4
+                           Recuperable de manera
+                                                             1      Efecto (EF) relación       Indirecto o secundario        1
+                                 inmediata
+                                                                       causa-efecto
+                          Recuperable a corto plazo          2                                   Directo o primario          4
+    Recuperabilidad
+         (MC)             Recuperable a medio plazo          3                                        Corto plazo            1
+    reconstrucción
+      por medios          Recuperable a largo plazo          4      Reversibilidad (RV)               Medio plazo            2
+       humanos                                                      reconstrucción por
+                            Mitigable, sustituible y                 medios naturales
+                                                             5                                        Largo plazo            3
+                                 compensable
+                                 Irrecuperable               8                                        Irreversible           4
+Fuente: Guía Metodológica para la Evaluación del Impacto Ambiental - Vicente Conesa Fernández - Vitora 4ta Edición (2010).
+Nota: Es preciso indicar que los atributos y valoraciones de esta tabla no se pueden modificar debido a que corresponden a una
+metodología estándar.
+
+El nivel de importancia de un impacto está orientado a jerarquizar la relevancia de los efectos
+ambientales analizados. Se define como un valor que mide la importancia del impacto ambiental de
+una interacción entre el accionar de una actividad y un componente ambiental. Es el resultado de
+la formulación que integra todos los atributos propios de los impactos ambientales. La formulación
+para determinar el Índice de Importancia es:
+                                            Tabla 3 Fórmula de índice de importancia
+                                   I = ± (3IN + 2EX + MO + PE + RV + SI + AC + EF + PR + MC)
+                         En donde
+                                I = Importancia del impacto               RV =       Reversibilidad
+                                + = Naturaleza                            AC =       Acumulación
+                               IN = Intensidad                            EF =       Efecto
+                              EX = Extensión                              SI =       Sinergia
+                             MO = Momento                                MC =        Recuperabilidad
+                              PE = Persistencia                           PR =       Periodicidad
+Fuente: Guía Metodológica para la Evaluación del Impacto Ambiental - Vicente Conesa Fernández - Vitora 4ta Edición (2010).
+
+Según Conesa (2010), los impactos ambientales se pueden jerarquizar en 4 categorías de acuerdo
+con un rango de variación entre 13 a 100 puntos, que pueden ser negativos o positivos, según la
+naturaleza que tenga el impacto.
+
+
+
+
+                                                                                                                                 Official Use Only
+                                    Tabla 4 Índice de significancia o importancia del impacto 3
+                          ÍNDICE DE SIGNIFICANCIA O IMPORTANCIA DEL
+                                                                                  VALOR CUANTITATIVO
+                                          IMPACTO (I)
+
+                          Impacto irrelevante/reducido                                    I < 25
+
+                          Impacto moderado (medio)                                      25 ≤ I < 50
+
+                          Impacto alto                                                  50 ≤ I< 75
+
+                          Impacto muy alto                                                75 ≤ I
+                        Fuente: Adaptado de la Guía Metodológica para la Evaluación del Impacto Ambiental – Vicente Conesa Fernández
+                        - Vitora 4ta Edición (2010).
+
+4.4       Definición de medidas de acuerdo con la jerarquía de mitigación de riesgos e
+          impactos ambientales y sociales
+Una vez identificados y valorizados los riesgos e impactos se determinarán las medidas de gestión
+para prevenir, minimizar, mitigar o compensar dichos efectos. De este modo, se debe definir una
+serie de medidas de mitigación, organizadas en cada etapa del Proyecto (por ejemplo: para la
+construcción, cierre de obras, operación y mantenimiento, cierre y abandono del proyecto).
+
+La definición de estas medidas está estrechamente relacionada a la naturaleza de los riesgos e
+impactos, pero también a la factibilidad técnica y la viabilidad económica para llevarlas a cabo.
+
+Estas medidas pueden ser de varios tipos:
+
+      •      Medidas preventivas: evitan la aparición del efecto modificando los elementos definitorios
+             de la actividad.
+      •      Medidas de mitigación propiamente dichas: para impactos recuperables, dirigidas a anular,
+             atenuar, corregir o modificar acciones y efectos.
+      •      Medidas de seguimiento y/o control: A través de monitoreos que permiten prevenir y/o
+             definir medidas mitigatorias o de compensación durante la etapa constructiva.
+      •      Medidas compensatorias: dirigidas a impactos inevitables. No evitan la aparición de los
+             efectos, ni los anulan, atenúan o corrigen, pero contrarrestan de alguna manera la
+             alteración generada por los mismos.
+
+4.5       Estructuración de programas de gestión ambiental y social
+El nuevo EIAsd del Proyecto Convenio 25 contendrá los siguientes planes y programas como parte
+de su estrategia de manejo ambiental 4.
+
+
+
+
+3 (1)Según Conesa (2010), se emplea el término” impacto irrelevante” para impactos negativos e “impacto reducido” para los impactos
+
+positivos.
+4 En la EAS de las intervenciones se ha precisado que se deberá llevar un nuevo EIAsd al culminar la vigencia de la certificación ambiental
+
+actual (26 de julio del 2026). El nuevo EIAsd deberá llevarse a cabo con arreglo a la Resolución Ministerial N°436 – 2017 – VIVIENDA, que
+aprueba los términos de referencia para elaborar estudios ambientales de los proyectos del Sector Saneamiento que cuenten con
+clasificación anticipada
+
+
+
+
+                                                                                                                                          Official Use Only
+                                  Tabla 5 Planes y Programas de la Estrategia de Manejo Ambiental
+                                       Planes y Programas de la Estrategia de Manejo Ambiental
+                         6.1 Plan de Manejo Ambiental
+                         6.2 Programa de Monitoreo Ambiental
+                         6.3 Plan de Manejo de Residuos Sólidos
+                         6.4 Plan de Contingencias
+                         6.5 Plan de Cierre y/o abandono
+                         6.6 Plan de Vigilancia, Control y Seguimiento Ambiental
+     Resolución Ministerial N°436 – 2017 – VIVIENDA, que aprueba los términos de referencia para elaborar estudios ambientales de los
+     proyectos del Sector Saneamiento que cuenten con clasificación anticipada
+
+     Los planes del nuevo EIAsd serán complementados con los que se desarrollarán en la EIAS-C, de
+     modo que se asegure el cumplimiento del MAS por parte del Proyecto Convenio 25.
+                                       Tabla 6 Planes de Gestión Ambiental y Social de la EIAS-C
+                                                                                                                     Adecuación PTAR
+          Planes de la EIAS-C                                     Proyecto Convenio 25
+                                                                                                                         Espinar
+                                                           Sí, en todas las etapas del Proyecto
+Programa de buenas prácticas y                                                                                    Sí, en todas las etapas
+medidas complementarias                                                                                                de la actividad
+                                                  Complementa el Plan de Manejo Ambiental del EIAsd
+Plan de salud y seguridad de la                                Sí, en todas las etapas                            Sí, en todas las etapas
+comunidad                                         Complementa el Plan de Manejo Ambiental del EIAsd                    de la actividad
+                                                               Sí, en todas las etapas
+Plan de manejo de residuos sólidos                                                                                Sí, en todas las etapas
+(peligrosos y no peligrosos)                                                                                           de la actividad
+                                                            Complementa el alcance del EIAsd
+Plan de manejo de recursos y                                                                                      Sí, en todas las etapas
+                                                                  Sí, en todas las etapas
+materiales de construcción.                                                                                            de la actividad
+                                                                  Sí, en todas las etapas
+Plan de gestión de maquinaria y                                                                                   Sí, en todas las etapas
+equipos.                                                                                                               de la actividad
+                                                  Complementa el Plan de Manejo Ambiental del EIAsd
+                                                        Sí, en la etapa constructiva en especial
+Plan de manejo y compensación de la                                                                                  Sí, en la etapa de
+biodiversidad.                                                                                                          construcción
+                                                  Complementa el Plan de Manejo Ambiental del EIAsd
+                                                               Sí, en todas las etapas
+Plan de capacitación ambiental a los                                                                              Sí, en todas las etapas
+trabajadores.                                                                                                          de la actividad
+                                                  Complementa el Plan de Manejo Ambiental del EIAsd
+                                                               Sí, en todas las etapas
+Plan de información y comunicación a                                                                              Sí, en todas las etapas
+la comunidad y entidades.                                                                                              de la actividad
+                                                            Complementa el alcance del EIAsd
+                                                                Sí, en todas las etapas
+Plan de gestión del tránsito vehicular y                                                                             Sí, en la etapa de
+peatonal.                                                                                                               construcción
+                                                            Complementa el alcance del EIAsd
+                                                         Sí, en la etapa constructiva en especial
+Plan de manejo paisajístico                                                                                           No se considera
+                                                  Complementa el Plan de Manejo Ambiental del EIAsd
+                                                               Sí, en todas las etapas
+                                                                                                                     Sí, en la etapa de
+Plan de gestión de Fuerza laboral
+                                                                                                                        construcción
+                                                            Complementa el alcance del EIAsd
+                                                                Sí, en todas las etapas
+  Código de conducta de los                                                                                          Sí, en la etapa de
+  trabajadores (Parte del PGL)                                                                                          construcción
+                                                            Complementa el alcance del EIAsd
+  Mecanismo de atención de quejas y                                                                                  Sí, en la etapa de
+                                                                 No se cuenta en el EIAsd
+  reclamos de trabajadores.                                                                                             construcción
+
+
+
+
+                                                                                                                                    Official Use Only
+                                                                                                           Adecuación PTAR
+          Planes de la EIAS-C                               Proyecto Convenio 25
+                                                                                                               Espinar
+                                                            Sí, en todas las etapas
+Mecanismo de atención de quejas y                                                                        Sí, en todas las etapas
+reclamos de la comunidad                 Complementa el alcance del Plan de Participación Ciudadana           de la actividad
+                                                                  del EIA sd
+                                                           Sí, en todas las etapas
+Programa de manejo de efluentes                                                                          Sí, en todas las etapas
+                                           (complementa las medidas del EIAsd en su Programa de
+                                                          Monitoreo Ambiental)
+Plan de contratación de proveedores                       Sí, en todas las etapas                        Sí, en todas las etapas
+locales a bienes y servicios                                                                                  de la actividad
+Plan de capacitación en temas de                    Sí, en la etapa constructiva en especial             Sí, en todas las etapas
+seguridad para la población del AID                                                                           de la actividad
+Plan de apoyo para la gestión de áreas              Sí, en la etapa constructiva en especial             Sí, en todas las etapas
+auxiliares                                                                                                    de la actividad
+Plan de Prevención y manejo de casos                        Sí, en todas las etapas                      Sí, en todas las etapas
+de violencia basada en Género (VbG)                                                                           de la actividad
+                                         Según la necesidad del proyecto, en la eventualidad de que se
+Plan de Reasentamiento                    requiera adquirir predios y/o servidumbres, o liberar áreas          De aplicar
+                                                                    ocupadas
+Plan de Respuesta a emergencias                              Sí, en todas las etapas                     Sí, en todas las etapas
+                                                                                                              de la actividad
+Plan de Participación de Partes                             Sí, en todas las etapas                      Sí, en todas las etapas
+Interesadas                                                                                                   de la actividad
+    Elaboración propia
+
+    La estructura de cada plan debe contener:
+         •    Objetivo
+         •    Responsable de la implementación del plan
+         •    Medidas
+         •    Indicadores de cumplimiento
+    En suma, la articulación de la identificación y evaluación de riesgos e impactos ambientales y
+    sociales se esquematiza en el siguiente diagrama:
+        Ilustración 1 Esquematización de la metodología de definición de planes de gestión ambiental y social
+
+
+
+
+         Elaboración propia
+
+
+
+
+                                                                                                                            Official Use Only
+4.6       Monitoreo, Reporte y Verificación
+La planificación para el monitoreo, reporte y verificación estará orientada a la definición de
+indicadores y responsables del seguimiento, monitoreo y control de las actividades, de modo que
+se asegure el cumplimiento de los compromisos establecidos en los programas de gestión ambiental
+y social.
+En tal sentido, se definen los alcances del monitoreo, el reporte y la verificación.
+Monitoreo
+El monitoreo corresponde al uso de recursos, herramientas y procedimientos para el seguimiento
+planificado y periódico del desempeño ambiental y social del Proyecto, a partir de la definición de
+indicadores de desempeño y resultado; para lo cual se deben asegurar las capacidades de las
+personas y las entidades que realizan el monitoreo, así como el control de calidad de la información
+generada.
+Reporte
+La realización del reporte del desempeño ambiental y social del Proyecto requiere la definición clara
+de los medios que utilizará: tipos de reporte, naturaleza (física o virtual) y si están comprendidos en
+procedimientos y responsabilidades institucionales previamente establecidos; definiendo la utilidad
+del reporte desde su diseño a partir de las funciones que permite cumplir y las condiciones que
+permite vigilar y salvaguardar.
+Al verificar indicadores previamente definidos a través del monitoreo, los reportes deben poder ser
+agregados a nivel temporal y en función del componente del Proyecto, asimismo, deben poseer un
+contenido claro y de fácil entendimiento para su presentación a la comunidad y demás actores.
+Verificación
+La verificación es la contrastación de evidencias en campo o registradas con la información del
+monitoreo brindada a través del reporte, esto permitirá identificar las oportunidades de mejora en
+el desempeño ambiental y social, así como el acompañamiento para esto.
+                      Tabla 7 Alcance de las etapas del Monitoreo, Reporte y Verificación (MRV)
+              Monitoreo                               Reporte                                  Verificación
+      Define indicadores de                                                          Información de indicadores a
+                                   Medios e instancias de reporte
+      proceso y de resultado                                                         verificar
+      Definición de fuentes de     Cómo el reporte es útil para las autoridades      Reporte de verificación (Qué,
+      información                  Utilidad para la comunidad y demás actores.       quién, cómo, cuándo)
+      Verificación de la calidad   Agregación temporal, por subcomponentes y
+                                                                                     Sistema de retroalimentación.
+      de información               por infraestructuras.
+      Capacidad y brechas para
+                                   Procesos y responsabilidades para la revisión y   Acompañamiento a las
+      la medición de
+                                   compilación de los reportes.                      autoridades y auditores.
+      indicadores
+      Procesos y
+      responsabilidad para el                            ***                                       ***
+      monitoreo
+Fuente: Elaboración propia
+
+
+
+
+                                                                                                                     Official Use Only
+En ese sentido, se deberán plantear una matriz de monitoreo, reporte y verificación del desempeño
+ambiental del Proyecto (MRV) la cual debe contener mínimamente lo siguiente:
+
+      •    Etapa del Proyecto
+      •    Plan de Gestión Ambiental y Social relacionado
+      •    Monitoreo (Indicadores y fuentes de información del indicador)
+      •    Reporte (Medios e instancias de reporte)
+      •    Verificación (Instancias y entidades)
+
+5 Actividades de la consultoría
+5.1       Revisión y recopilación de información
+Se deberá revisar y recopilar la siguiente información:
+
+      •    Estándares ambientales y sociales del BM
+      •    Expediente Técnico del proyecto Convenio 25
+      •    Expediente para el mejoramiento y rehabilitación de la PTAR Espinar.,
+      •    Informe técnico de evaluación de la capacidad de tratamiento de la PTAR Espinar.
+      •    EIAS-sd del Proyecto Convenio 25 y autorizaciones y/o permisos ambientales obtenidos.
+      •    Legislación nacional ambiental y social vigente aplicable al Proyecto.
+      •    Información en gabinete, desarrollo de entrevistas y trabajos de campo, recopilación de información
+           primaria y secundaria necesaria para lograr los objetivos de la consultoría. Se recopilarán datos que
+           permitan una adecuada definición de línea base, identificación de impactos ambientales y sociales, y
+           propuesta de medidas para gestionarlos.
+      •    Para la formulación del EIAS complementario se recomienda que el estudio tome en cuenta la Guías
+           generales en medio ambiente, salud y seguridad (GMASS) del Grupo Banco Mundial
+           (www.ifc.org/ehsguidelines).
+      •    La aplicación de la normativa nacional y las GMASS del Banco Mundial debe adaptarse a las
+           condiciones específicas del proyecto, de acuerdo con los impactos y riesgos identificados, sobre la
+           base de los resultados de las evaluaciones, en las que se tengan en cuenta las condiciones
+           ambientales particulares del proyecto y su área de influencia. Por ejemplo: Cuando no se cuente con
+           norma nacional sobre estándares de emisión (ruido, aire, vertimientos, etc), se podrán usar como
+           referencia los estándares adoptados por las guías del Banco Mundial.
+
+
+5.2       Elaboración de Plan de Trabajo
+Como parte de la consultoría se deberá preparar un Plan de Trabajo, que delimitará, tanto los trabajos de
+campo como los trabajos de gabinete que se realizarán. Se espera que el Plan de Trabajo sea presentado en
+una reunión presencial dos semanas después de la reunión de inicio y deberá contener:
+
+      •    Tabla de contenido del borrador del EIAS complementario, en base al contenido mínimo presentado
+           en el ítem 6 del presente documento.
+      •    Metodologías específicas que se emplearán durante cada una de las actividades clave propuestas
+      •    Trabajo de Campo:
+               o Logística requerida
+               o Uso de laboratorios acreditados
+               o Personal que participará
+
+
+
+
+                                                                                                               Official Use Only
+                o Cronograma
+      •    Requerimientos de información adicional.
+      •    Cronograma de actividades.
+      •    El borrador del Plan de Trabajo será presentado en reunión presencial a la Unidad Ejecutora y Banco
+           Mundial, dos semanas después de la reunión de inicio. En esta reunión se entregará
+           retroalimentación y se precisarán algunos acuerdos, lo que deberá estar contenido en el Plan de
+           Trabajo final que se enviará una semana después.
+
+
+5.3       Trabajos de campo
+Como parte de la línea base ambiental y social se espera que el Consultor realice trabajos de campo. El trabajo
+de campo deberá considerar:
+
+      •    Visita a los sitios de intervención de las obras para revisar y actualizar el Área de Influencia Ambiental
+           del proyecto en caso de ser necesario.
+      •    En el Aspecto Ambiental, deberá considerar la toma de información para la actualización de la línea
+           base en los aspectos que ha señalado en análisis de brechas.
+      •    En el Aspecto Social, deberá considerar la caracterización de las condiciones sociales y económicas
+           de las poblaciones ubicadas en las áreas de influencia del proyecto, así actualizar los actores para
+           desarrollar el Plan de Participación de Partes Interesadas.
+      •    Plan de socialización en el área de influencia del proyecto, que incluya información sobre el proyecto,
+           los impactos ambientales y las medidas de manejo ambiental.
+
+
+5.4       Entregables
+Se espera que el Equipo Consultor desarrolle y presente los siguientes entregables, correspondientes a cada
+una de las actividades clave:
+      •    Producto 1: Plan de Trabajo, a ser presentado dos semanas después de la reunión de inicio.
+      •    Producto 2: EIAS-C primer borrador completo, a ser presentado al BM en 60 días después de la
+           reunión de inicio para su no Objeción
+      •    Producto 3: EIAS-C final, a ser presentado en 80 días después de presentado el primer borrador del
+           EIAS borrador
+      •    Producto 4. Resumen Ejecutivo, presentado en español e inglés.
+Todos los productos por entregar irán acompañados de tablas e ilustraciones correspondientes, que ayuden
+a una mejor interpretación de la información generada.
+
+
+6 Contenido mínimo del EIAS-C
+En la siguiente tabla se presenta el contenido mínimo que debe incluir el EIAS Complementario, la cual podria
+ser ajustada para que en todo caso se cumpla con los objetivos de la consultoría y se dé cabal cumplimiento
+a alcance descrito en Capitulo 3 “Alcance general de la Evaluación de Impacto Ambiental y Social
+Complementaria – EIAS-C” y Sección 4.5 “Estructuración de programas de gestión ambiental y social” del
+presente documento:
+
+
+
+
+                                                                                                                    Official Use Only
+                                      Tabla 8 Contenido mínimo del EIAS C
+                    Requerimientos específicos
+  Sección                                                                        Descripción
+                       relevantes (brechas)
+                                                      Este resumen ejecutivo debe ser escrito en lenguaje sencillo y
+                                                      debe presentar, de manera clara y concisa, una síntesis del
+                                                      alcance del proyecto, los resultados de la identificación y
+a) Resumen      Se exponen los hallazgos
+                                                      evaluación de impactos social y ambiental y las medidas de
+                significativos y las acciones         manejo propuestas para el control de impactos y riesgos
+                recomendadas.                         ambientales.
+
+                                                      Este será un producto presentado por separado y deberá ser
+                                                      traducido al inglés.
+                                                      Esta sección debe considerar:
+
+                                                      •   Marco legal en materia ambiental y social:
+                                                              o Marco legal aplicable para el Proyecto
+                                                              o Obligaciones del país directamente aplicables al
+                •    Se analiza el marco legal e                   Proyecto     según      tratados    y    acuerdos
+                     institucional del proyecto,                   internacionales pertinentes.
+                     dentro del cual se lleva a               o Normas de vertimiento aplicables por la PTAR.
+                     cabo la evaluación ambiental             o Requisitos ambientales para realización de obras
+                     y social y se actualiza para                  en área protegida de Lago Titicaca
+                     que considere el marco                   o Requisitos ambientales para compensación por
+b) Marco             ambiental vigente.                            pérdida de biodiversidad.
+legal e         •    Se toma en cuenta los                    o Normas de emisiones de calidad del aire, ruido
+institucional        requisitos normativos para                    ambiental y ruido y vibraciones estructurales
+                     estándares de manejo,                    o Requisitos sobre Salud y Seguridad
+                     emisiones al ambiente y                  o Requisitos sobre participación ciudadana
+                     obtención de autorizaciones
+                     ambientales.                     •   Guías del BM y requisitos aplicables de los mismos, aplicables
+                •    Se citan las guías                   al proyecto.
+                     recomendadas del BM para la      •   Buenas Prácticas
+                     gestión ambiental.                        o IFC. Guías específicas y de Medio Ambiente Salud y
+                                                                    Seguridad (GMASS) que aplican al Proyecto
+                                                      •   Marco Institucional: debe identificar los actores involucrados
+                                                          durante la planificación, construcción y operación del
+                                                          Proyecto en relación con la gestión ambiental y social.
+
+                •   Incluir las actividades de la
+                                                      La descripción de las actividades y procedimientos constructivos
+                    etapa de pre - construcción.
+                                                      debe ser lo suficientemente detallada para entender los impactos
+                •   Se actualiza la descripción del
+                    proyecto y se describe de         y riesgos potenciales ambientales, sociales y de salud y seguridad
+                    manera concisa el proyecto        puedan derivarse de este proyecto.
+                    propuesto y su contexto
+                                                      Descripción detallada de los procesos constructivos de la
+                    geográfico, ambiental, social y
+c)                  temporal, incluidas las áreas     bocatoma sobre el Lago Titicaca
+Descripción         de intervención del proyecto
+del proyecto                                          Esta descripción debe incluir las instalaciones y operaciones
+                    (p.e. sitios de disposición de
+                                                      existentes, así como nuevas instalaciones y/o operaciones del
+                    materiales sobrantes de
+                                                      proyecto opuesto(s) (es decir, los proyectos y obras a ser
+                    excavación y disposición final
+                    de lodos tratados)                financiadas potencialmente).
+                •   Se incluye un mapa
+                                                      Presentar las fuentes de emisiones de contaminantes, ruido y GEI
+                    suficientemente detallado
+                                                      al ambiente en sus etapas constructiva ni operativa.
+                    que muestre el
+                    emplazamiento del proyecto y      Describir las fuentes de suministro de materiales de construcción
+                    el área que podría verse          y los sitios de disposición de RCD y materiales sobrantes de
+                    afectada por los impactos
+
+
+
+
+                                                                                                                      Official Use Only
+                  Requerimientos específicos
+  Sección                                                                       Descripción
+                     relevantes (brechas)
+                  directos, indirectos del           excavación y las rutas de transporte hasta los frentes de obra
+                  proyecto.                          (ubicación, tipo de material, autorización ambiental, etc.).
+
+                                                     Considerar la generación de vertimientos, emisión de material
+                                                     particulado, emisiones de gases de combustión de los vehículos,
+                                                     etc.
+
+                                                     Estimar la ubicación y cantidad de tuberías de asbesto cemento
+                                                     que se producirán por el proyecto y describir su manejo técnico.
+
+                                                     Describir los procesos de tratamiento de las aguas generadas y
+                                                     recolectadas por la red de alcantarillado del Convenio 25.
+
+                                                     La descripción de las actividades y procedimientos constructivos
+                                                     debe ser lo suficientemente detallada para entender los impactos
+                                                     y riesgos potenciales ambientales, sociales y de salud y seguridad
+                                                     puedan derivarse de este proyecto.
+
+              •   Se establecen en detalle los       Descripción detallada de los procesos constructivos de la
+                  datos de la línea de base para     bocatoma sobre el Lago Titicaca
+                  las decisiones sobre las
+                  medidas de mitigación del          Esta descripción debe incluir las instalaciones y operaciones
+                  proyecto. Esto deberá incluir      existentes así como nuevas instalaciones y/o operaciones del
+                  un análisis sobre la precisión,    proyecto opuesto(s) (es decir, los proyectos y obras a ser
+                  la confiabilidad y las fuentes     financiadas potencialmente).
+                  de los datos, así como
+d) Línea de       información sobre las fechas       Presentar las fuentes de emisiones de contaminantes, ruido y GEI
+base              de identificación, planificación   al ambiente en sus etapas constructiva ni operativa.
+                  y ejecución del proyecto.
+                                                     Describir las fuentes de suministro de materiales de construcción
+              •   Sobre la base de la
+                  información actual, se evalúa      y los sitios de disposición de RCD y materiales sobrantes de
+                  el alcance del área que haya       excavación y las rutas de transporte hasta los frentes de obra
+                  de estudiarse y se describen       (ubicación, tipo de material, autorización ambiental, etc)
+                  las condiciones físicas,
+                                                     Considerar la generación de vertimientos, emisión de material
+                  biológicas y socioeconómicas
+                  pertinentes, incluidos los         particulado, emisiones de gases de combustión de los vehículos,
+                  cambios previstos antes del        etc.
+                  comienzo del proyecto.
+                                                     Estimar la ubicación y cantidad de tuberías de asbesto cemento
+                                                     que se producirán por el proyecto y describir su manejo técnico.
+
+                                                     Describir los procesos de tratamiento de las aguas generadas y
+                                                     recolectadas por la red de alcantarillado del Convenio 25.
+
+                                                     Identificar los potenciales impactos del Proyecto según la etapa a
+                                                     la que se refiere: Impactos en la etapa de pre-construcción, de
+              •   Identificar y evaluar los          haberlos; impactos en la etapa de construcción e impactos en la
+e) Impactos       impactos y riesgos                 etapa de operación. Esto, para los tres componentes: ambiental-
+y riesgos         ambientales, sociales y SST en     físico, ambiental-biológico y social.
+ambientales       todas las etapas del Proyecto,
+y sociales        incluyendo la etapa de pre-        Identificar y evaluar los impactos acumulativos
+                  construcción.
+                                                     Evaluar los impactos y riesgos sobre la biodiversidad, asociado a
+                                                     las obras e intervenciones con interacción sobre el lago Titicaca.
+
+
+
+
+                                                                                                                     Official Use Only
+                    Requerimientos específicos
+  Sección                                                                       Descripción
+                       relevantes (brechas)
+                                                     Analizar los efectos sobre los servicios ecosistémicos como
+                                                     provisión de recursos hidrobiológicos, recursos genéticos,
+                                                     transporte, caza de subsistencia.
+
+                                                     Evaluar el impacto de la extracción y transporte de material de
+                                                     construcción, sus condiciones de riesgo y su posible afectación a
+                                                     la población por ruido, incremento del tránsito vehicular y polvo
+                                                     en vías sin cobertura
+                                                     Realizar un análisis de la afectación de especies en el medio
+                                                     acuático, incluyendo el fondo lacustre.
+
+                                                     Evaluar la posible la afectación de la población que realiza pesca
+                                                     de subsistencia.
+
+                                                     Analizar el impacto sobre las fuentes de agua de acuerdo con la
+                                                     oferta hídrica. Evaluar el riesgo de escasez del agua que puede
+                                                     darse por la reducción histórica de los niveles de agua en el lago
+                                                     Titicaca que serían la principal fuente de abastecimiento.
+
+                                                     Evaluar el impacto ambiental y social. debido de los caudales y
+                                                     cargas contaminantes adicionales que podrían ingresar a la PTAR
+                                                     Espinar y que se descargarían al lago Titicaca con la entrada en
+                                                     operación del Convenio 25 y el aporte de caudales adicionales.
+
+f. Medidas      •   Establecer medidas de gestión    Se identifican medidas diferenciadas para que los impactos
+de acuerdo          para atender los riesgos e       adversos no recaigan de manera desproporcionada en los grupos
+con        la       impactos de las actividades en   menos favorecidos o vulnerables.
+jerarquía de        todo el ciclo del proyecto,
+mitigación          aplicando la jerarquía de la     Se evalúan la viabilidad de la mitigación de los impactos
+de riesgos e        mitigación.                      ambientales y sociales; los costos de capital y ordinarios de las
+impactos                                             medidas de mitigación propuestas y su sostenibilidad en las
+ambientales                                          condiciones locales, y los requisitos institucionales, de
+y sociales                                           capacitación y seguimiento que conllevan las medidas de
+                                                     mitigación propuestas.
+
+                                                     Considerar como medidas de manejo al menos las siguientes:
+
+                                                         •    Programa de buenas prácticas y medidas
+                                                              complementarias
+                                                         •    Plan de salud y seguridad de la comunidad
+                                                         •    Plan de manejo de residuos sólidos
+                                                         •    Plan de manejo de recursos y materiales de
+                                                              construcción.
+                                                         •    Plan de gestión de maquinaria y equipos.
+                                                         •    Plan de manejo y compensación de la biodiversidad.
+                                                         •    Plan de capacitación ambiental a los trabajadores.
+                                                         •    Plan de información y comunicación a la comunidad y
+                                                              entidades.
+                                                         •    Plan de gestión del tránsito vehicular y peatonal.
+                                                         •    Plan de manejo paisajístico
+                                                         •    Plan de gestión de fuerza laboral (incluye contratación
+                                                              de mano de obra local, código de conducta y
+                                                              mecanismo de atención de quejas y reclamos para los
+                                                              trabajadores
+
+
+
+
+                                                                                                                     Official Use Only
+                    Requerimientos específicos
+    Sección                                                               Descripción
+                       relevantes (brechas)
+                                                      •   Plan de contratación de proveedores locales a bienes y
+                                                          servicios
+                                                      •   Plan de contratación de proveedores locales a bienes y
+                                                          servicios
+                                                      •   Plan de capacitación en temas de seguridad para la
+                                                          población del AID
+                                                      •   Plan de apoyo para la gestión de áreas auxiliares
+                                                      •   Plan de Prevención y manejo de casos de violencia
+                                                          basada en Género (VbG)
+                                                      •   Plan de Reasentamiento
+                                                      •   Plan de Respuesta a emergencias
+                                                      •   Plan de Participación de Partes Interesadas
+
+                •   Mapas
+  Anexos
+                •   Registro fotográfico
+                •   Talleres de socialización
+
+
+
+7 Equipo mínimo del consultor
+Se espera que el equipo consultor tenga como mínimo su equipo personal con las siguientes calificaciones:
+
+    •   Ingeniero Sanitario
+    •   Ingeniero Ambiental con experiencia comprobada en la realización de estudios ambientales para
+        Proyectos en el sector agua y saneamiento básico.
+    •   Ingeniero Civil, con experiencia en evaluación de impactos ambientales.
+    •   Geólogo, especialista con experiencia en evaluación de impactos ambientales en proyectos de
+        infraestructura.
+    •   Geotecnista, especialista con experiencia en estabilidad de taludes y manejo de riesgos.
+    •   Biólogo especialista con experiencia comprobada en estudios de evaluación ambiental.
+    •   Profesional social, con experiencia en evaluación de impactos sociales y formulación de Planes de
+        gestión sociales en proyectos de infraestructura.
+    •   Especialista en SIG para el manejo cartográfico.
+    •   Economista
+
+
+
+
+                                                                                                              Official Use Only
+

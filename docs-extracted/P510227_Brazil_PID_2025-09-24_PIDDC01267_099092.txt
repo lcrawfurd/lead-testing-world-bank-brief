@@ -1,0 +1,717 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Parana Water Security Project(P510227)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 24-Sep-2025 | Report No: PIDDC01267
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+         The World Bank
+         Parana Water Security Project(P510227)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)        Operation ID                 Operation Name
+Brazil                          P510227                      Parana Water Security Project
+Region                          Estimated Appraisal Date     Estimated Approval Date         Practice Area (Lead)
+LATIN AMERICA AND               17-Nov-2025                  25-May-2026                     Water
+CARIBBEAN
+Financing Instrument            Borrower(s)                  Implementing Agency
+Investment Project              State of Parana              State Secretariat of
+Financing (IPF)                                              Planning - SEPL
+
+Proposed Development Objective(s)
+Strengthen the Borrower's capacity to (a) collaboratively manage water security risks in a changing climate and to (b)
+reduce those risks in selected areas of the Borrower's territory by implementing integrated, cross-sectoral
+interventions.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                              263.00
+
+  Total Financing                                                                                                   263.00
+               of which IBRD/IDA                                                                                186.00
+  Financing Gap                                                                                                       0.00
+
+DETAILS
+  World Bank Group Financing
+    International Bank for Reconstruction and Development (IBRD)                                                186.00
+  Non-World Bank Group Financing
+
+
+                                                                                                                       Page 1
+
+
+
+                                                                                                             Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+      Counterpart Funding                                                                                                                   67.00
+         Borrower/Recipient                                                                                                                 67.00
+      Commercial Financing                                                                                                                  10.00
+         Unguaranteed Commercial Financing                                                                                                  10.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                  Concept Review Decision
+Substantial                                                                   The review did authorize the preparation to continue
+
+
+
+ Other Decision (as needed)
+
+ B. Introduction and Context
+
+ Country Context
+1.       Parana, situated in the Southern region of Brazil, has experienced robust economic growth over the past
+decades. In 2024, Parana represented 2.3 percent of Brazil’s territory, 5.6 percent of its population, and 6.1 percent of its
+gross domestic product (GDP). Over the last 10 years, the state’s economy grew at an average rate of 1.62 percent per
+year in real terms, outpacing the national average. Parana has become Brazil’s fourth largest state economy and fifth
+largest exporter, primarily due to its dynamic agribusiness1 which accounts for 30-35 percent of the state’s GDP2, nearly
+80 percent of its exports3 and employs about 40 per cent of its labor force4. Today, Parana is Brazil’s leading producer of
+animal proteins5 (first in chicken and fish, second in pork, eggs and milk) and the second largest producer of grains (second
+in soybean, corn, and wheat). It is Brazil’s third largest exporter of agribusiness products.
+
+2.       Sustained economic growth has generated jobs and incomes and induced solid improvements in living
+conditions. The state is home to 11.8 million inhabitants, 89 percent of whom live in urban areas, with 30 percent residing
+in Curitiba metropolitan area (RMC), the state capital. The rural population of 1.3 million people has been declining over
+time. Total population is expected to peak in 2043 at approximately 12.5 million. Economic prosperity has led to job
+creation, increased per capita income, reduced inequalities and poverty as well as improved Human Development Index
+(HDI). Today, among Brazil's 27 states, Parana is a top performer in employment rate (it ranked 4th at 3.3 percent of
+
+
+
+
+1 In the past 20 years, the production and trade of grains and animal proteins in Parana have soared along with related sectors such as transport and
+
+logistics, agricultural inputs and machinery production, the food industry, and marketing and trade services
+2 Instituto Paranaense de Desenvolvimento Econômico e Social, 2020.
+3 Agencia Estadual de Noticias, 2022.
+4 REVISTA PARANAENSE DE DESENVOLVIMENTO, Curitiba, v.42, n.140, p.89-106, jan./jun. 2021. “A Dimensão do Agronegócio Paranaense: uma
+
+análise inter-regional de insumo-produto”. It estimates that the agribusiness in Parana accounted for 37 percent of employments in 2015 (of which
+50 percent in agroservices), against 27 percent in Brazil as a whole.
+5 Parana state produced 3.65 billion liters of milk in 2023, 2.2 billion of birds in 2024, and 12.4 million of pigs in 2024.
+
+
+
+                                                                                                                                                Page 2
+
+
+
+                                                                                                                                      Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+unemployment rate last trimester of 20246 or full employment), per capita income (5th at R$2,438 in 20247), poverty rate
+(5th at 17.3 percent in 20238), HDI (7th at 0.769 in 20219) and Gini coefficient (4th at 0.463 in 2023)10.
+
+3.       Parana state development strategy encourages agro-industrialization and exports combined with sustainable
+food production. The strategy builds on the state’s vocation for food production and strives to strengthen the enabling
+environment to attract private investments to foster innovation, add value to production through transformation and
+conquer new markets within and outside Brazil. From a regional perspective, the strategy aims to generate jobs and
+improve living conditions. With over R$300 billion private investment in agribusiness since 2019, the state reached its
+lowest unemployment rate in history in 202411. On the global stage, Paraná is positioning itself to assume an ever-greater
+role in guaranteeing the planet's food security. Finally, the strategy emphasizes the need to accelerate the transition to
+environmentally conscious and resilient farming models to ensure the long-term sustainability of Parana’s development
+model and rich biodiversity.
+
+ Sectoral and Institutional Context
+Sectoral context
+4.       Climate change risks and vulnerability. Climate change in the State of Parana (the Project area) has been
+increasing the frequency and intensity of droughts and, to a lesser extent floods, the former being a relatively new issue,
+and structural water deficit, a few months a year, particularly in the north-west (NW) of the state12 and the Metropolitan
+area. Climate change has also increased the intensity of rainfall events, increasing soil erosion in rural and peri-urban
+areas, particularly in the NW of the State where soils are fragile. Those have resulted in heavy losses in agricultural
+production, reduction in hydropower generation (due to water deficits and accelerated reservoir sedimentation),
+disruptions in water supply sanitation services affecting not only human health and wellbeing, but also the industrial and
+services sectors that depend on them. For instance, during the 2021/2022 drought, precipitation dropped to 50 per cent,
+inducing losses in agricultural production of R$ 31 billion (about 25 per cent of agriculture GDP); and rationing of water
+supply services in the metropolitan area during 649 days. In 2023, torrential rains and floods affected 500,000 people with
+damages estimated at R$ 2.1 billion. More generally over the past 15 years, more than 5,000 hydro-meteorologic extreme
+events have affected people and the economy. Climate change projections indicate that droughts, seasonal water
+shortages, intensive rainfall events and floods will further intensify, with the greatest impacts of droughts and seasonal
+water shortages expected in the northwest, southwest, north regions and RMC, and the greatest impacts of floods in the
+northwest and RMC13. The proposed Project intends to manage those climate change risks by increasing the state capacity
+to address water security14 risks statewide and reducing those risks in selected areas.
+
+5.    The fast-growing agribusiness sector and continued urbanization in Parana have brought significant socio-
+economic benefits over the past decades. However, these advancements, coupled with climate change, have
+
+
+6 Brazilian Institute of Geography and Statistics (IBGE), 2025. Data from the last trimester of 2024. National average was 6.2 percent. The number of
+
+unemployed in Parana was 206,000 people.
+7 IBGE, 2024. Continuous National Household Sample Survey - Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD).
+8 IBGE,2024. Poverty rate @664 Rs @ 2023 value. Elaborated by Instituto Jones do Santos Neves from PNAD, IBGE, 2023.
+9 IBGE, 2022. Indice de desenvolvimento Humano.
+10 IBGE, 2024. PNAD.
+11 IBGE, 2024. 3.3 per cent, last trimester of 2024.
+12 State Water Resources Plan, 2010.
+13 Climate analysis and determination of the vulnerability of municipalities in Paraná in the face of climate change; State Climate Action Plan 2024-
+
+2050.
+14 Water security risks in this project are defined by droughts, water shortages, floods, runoff-caused erosion.
+
+
+
+                                                                                                                                                Page 3
+
+
+
+                                                                                                                                      Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+heightened water insecurity15, posing risks to the sustained socio-economic development of the state and causing
+conflicts. These risks have been acknowledged in recent state development strategy/plan and sectoral policies16. The
+proposed Parana Water Security Project is part of the government's response to address these risks, with emphasis on
+the agriculture and potable water sectors, which are key to the state socio-economic development, are particularly
+vulnerable to those risks and contribute to them.
+
+6.       The agriculture sector is highly vulnerable to water security risks. The principal water security risks confronting
+agriculture stem from climate change, localized competition over water use from growing urban centers and industries,
+and maladaptive practices within the sector, especially where the soils are fragile in the NW region. More specifically,
+these risks include: (i) increased structural crop water deficits during the dry season, particularly in the NW due to climate
+change and land degradation; (ii) heightened production losses caused by intensifying droughts and floods attributable to
+climate change and land degradation; (iii) rapid irrigation expansion that may lead to water overexploitation and conflicts
+and ultimately unsustainable irrigation practices, if planning, information, practices and control are not improved; and (v)
+water pollution from urban, industrial, and agricultural sources potentially affecting animal health (specifically
+aquaculture) and crop commercialization.
+
+7.       The agriculture sector is also partly responsible for increased water insecurity. Decades of rapid growth and
+intensification17 in agricultural production, particularly in grains and animal proteins, alongside the recent surge in
+irrigation to counteract climate change effects and enhance productivity, have collectively heightened water security risks
+for all. More specifically, agriculture contributes to water security risks through increased pollutant loads from
+agrochemicals and animal waste, increased water withdrawals for irrigation and animal use, and land degradation
+exacerbating both water deficits and contamination. Parana ranked third in the use of agrochemicals, which has risen 57
+per cent over the past decade to 139,000 tons by 2024. The state's increasing animal production generates significant
+animal waste. While irrigation concerns only 3 per cent of the cultivated land (170,000 ha), it is expanding quickly (+65 per
+cent in 10 years) and represents the largest water withdrawal, mainly during dry periods when resources are scarce. This
+growth has already led to conflicts and is likely to continue. Widespread soil degradation from agriculture, especially in
+the NW, reduces resilience to droughts, heightens flood risks, and increases water pollution in runoff.
+
+8.       Water Supply and Sanitation (WSS) services are vulnerable to climate change-exacerbated water security risks.
+Parana is on track to reach universal access18 to safe WSS in urban areas, with currently 100 per cent access rate for water
+supply and 80 per cent for sanitation (all wastewater collected is treated). However, urban areas face water security risks
+at the water source due to increased water demand and pollution, all of which are exacerbated by climate change. It is
+estimated that 37 per cent of urban centers face deficits to meet future water demand. Since most of the population lives
+in urban areas, and state urbanization will continue, it is critical to increase the resilience of urban WSS systems to water
+security risks. In rural areas, access to basic WSS is not universal, but the exact situation is unclear. The State is conducting
+a diagnostic to better understand the situation. The degradation of water resources represents a higher risk in rural areas
+considering that most rural water supply (RWS) systems do not monitor water quality and do not treat water. Moreover,
+the resilience of RWS to water shortages, contamination and flood events is usually lower in rural areas, as they often
+depend on a single water source.
+
+15 In this project, water security risks include risks related to droughts, floods, water shortages and water contamination.
+16 Parana State Water Resources Plan- Plano Estadual de Recursos Hídricos do Parana (2010) highlights water security risks per hydrographic region,
+
+including droughts, floods, soil erosion and sedimentation, water scarcity, water contamination, water conflicts and the exacerbating climate effects
+on those risks; Desenvolvimento Paraneanse: context, tendencias e desafios (IPARDES, 2023).
+17 The main use of land in the state is agriculture (agropecuária) with 13.74 million ha (65 percent of the land cover), the second is forest with 5.28
+
+million ha (both native and commercial). Both have been relatively stable over the past 30 years, meaning that the increase in agricultural production
+have come primarily from increases in land productivity.
+18 The federal universal access law set targets at 99 per cent access rate for water and 90 per cent for sanitation by 2033.
+
+
+
+                                                                                                                                                  Page 4
+
+
+
+                                                                                                                                        Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+
+9.       Urban and industrial areas are also contributing to water insecurity in parts of the state, particularly in the RMC
+and other rapidly urbanizing areas. While most urban wastewater/solid waste in the state are treated or safely disposed
+(84 per cent of urban population have access to sewage collection and treatment and 98 per cent benefit from solid waste
+collection services)19, there are still households, particularly in informal settlements, and industries that discharge
+untreated wastewater/solid waste unsafely, ending-up polluting water bodies. Moreover, urban drainage systems are not
+always properly designed to handle increasingly intense rainfall events, causing some flooding and significant erosion at
+the drainage outlet in peri-urban areas, resulting in significant land degradation, damage to infrastructure, water
+contamination and siltation of riverbeds and reservoirs. Erosion issues are particularly problematic in areas of fragile soil
+structure in the NW. They add up to the erosion, siltation and diffuse contamination caused by agriculture.
+
+
+Institutional context
+10.      Water Resources Management (WRM). The 1999 State Water Law20 establishes the State Water Resources Policy
+with the objective to ensure that water resources are managed in an integrated and sustainable manner to guarantee
+water of adequate quantity and quality for current and future generations, as well as the prevention and protection
+against critical hydrological events. The Policy defines six instruments21 to achieve these goals and creates the State’s
+Water Resource Management System (Sistema Estadual de Gerenciamento de Recursos Hídricos, SEGRH), composed of
+five institutions22, which is the organizational framework governing WRM in the state. Among those institutions, the
+Institute Water and Land (Instituto Agua e Terra, IAT) is the State executive agency for WRM, and one of the Project’s
+implementation agencies. Despite the progress made, SEGRH still faces significant challenges related to institutional
+capacity, integration among agents, the implementation of management instruments23, and social participation. The
+strengthening/modernization of the SEGRH and policy instruments is considered pivotal to improve water security and
+will be supported by the proposed Project.
+11.      Agriculture and water security. The Secretariat for Agriculture and Supply (Secretaria da Agricultura e do
+Abastecimento, SEAB), plays a central role in planning, organizing, and executing agricultural activities at State’s level.
+SEAB is responsible for defining and implementing state policies and programs for water security in agriculture. Affiliated
+with SEAB, the Rural Development Institute of Paraná (Instituto de Desenvolvimento Rural do Paraná, IDR) provides
+integrated services in agricultural research, extension, and rural development, with a focus on expanding agroecological
+practices, including water security. The Agricultural Defense Agency of Paraná (Agência de Defesa Agropecuária do
+Paraná, ADAPAR), also linked to SEAB, is an autonomous entity tasked with promoting animal and plant health, food
+safety, and the sustainable use of agricultural soils and chemicals. Both IDR and ADAPAR need to be strengthened in order
+
+19   National System of Information on Basic Sanitation (Sistema Nacional de Informações em Saneamento Básico).
+https://app.powerbi.com/view?r=eyJrIjoiNDU1ZmM4ZjYtNTU0YS00YjFkLWE5NzYtMjNkZThjYjg3YzVmIiwidCI6IjFmMWJlODA0LWViZGYtNDJmNC1iZ
+GExLTdmMjlhYmU2ZDQ3YSJ9&pageName=344bbd2d217999c8e747
+20 State Water Law Nº 12,726 of 1999.
+21 The State Basin Water Resources Plan; the River Basin Water Resources Plans; the Ambient water quality standards; the water resources use right;
+
+the water resources use fees; the State Water Information system and the State Water Resources Fund.
+22 SEGRH is composed of five institutions: the executive central body, the Water and Land Institute; the Central Coordinating Body, the State
+
+Secretariat for Sustainable Development (Secretaria do Desenvolvimento Sustentável); the central deliberative and regulatory body, the State Water
+Resources Council (CERH/PR); the regional deliberative and regulatory bodies, the Water Basin Committees and the technical and administrative
+support units for the Water Basin Committees – IAT’s Hydrographic Basin Management Units.
+23 30 per cent of water users are illegal; groundwater monitoring is incipient; surface water monitoring and modelling in small watersheds is
+
+insufficient for water right allocation; water quality monitoring and modelling need to be strengthened in coverage, frequency and parameters
+measures; hydrological and hydrogeological studies are required to better know water availability, the effects of climate change and interaction
+between surface and groundwater; some modules of the water information system and decision-support tool need to be implemented/modernized;
+water resources use fees are still incipient, needing to be extending to more basin and to agriculture use.
+
+                                                                                                                                              Page 5
+
+
+
+                                                                                                                                     Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+to fulfill their mandate related to water security.
+12.      In June 2024, Law No. 21,994 establishes the State Program for Water Security in Agriculture. This law aims to
+incentivize preservation, conservation, and production practices among rural producers, with the goal of increasing water
+availability and quality, prioritizing family agriculture. The law sets out objectives such as reducing conflicts over water
+use, mitigating scarcity during deficit periods, and protecting natural resources. It establishes subsidies for individual and
+collective beneficiaries. The law also mandates the rational use of water and irrigation, protection of springs, and
+emergency assistance to farmers affected by climatic events. The State Water Security in Agriculture Law provides a
+comprehensive system for promoting water security in Paraná’s agricultural sector, integrating institutional collaboration,
+incentives, and technical support, on which the proposed Project would build, while ensuring compatibility and integration
+with the water security for other sectors.
+13.      Water supply and sanitation. Parana Water and Sanitation Company (Companhia de água e saneamento do
+Paraná, SANEPAR), a state-owned company responsible for water and sanitation services in urban areas, serves 344 out
+of the 399 municipalities in the State. The remaining are served by Autonomous Municipal Water and Sanitation Services
+(Serviços Autônomos Municipais de Água e Esgoto). In rural areas, service provision lies with the municipalities, many of
+which face considerable challenges due to limited institutional, financial and technical capacity. To address these gaps,
+SANEPAR and IAT, through their respective programs (Sanepar Rural and Agua no campo) have partnered with
+municipalities to provide initial support through the development of RWS systems and some technical assistance to the
+entity later in charge of their operation and maintenance (O&M). After construction, those systems are transferred to the
+municipalities for their O&M, or, more commonly, to the rural communities. These self-supplied communities present
+several challenges related to ensuring long-term sustainability. Water safety is compromised due to inadequate
+chlorination and systematic water monitoring; operational reliability is hindered by limited access to replacement
+equipment and a lack of trained personnel. Moreover, financial constraints are a major obstacle to continued delivery.
+When present, rural sanitation solutions are mostly on site, for single households who take care of their maintenance.
+14.      The legal framework for basic sanitation is defined by Federal Law No. 14.026/2020, which establishes ambitious
+targets for universal access by 203324. In alignment with this national policy, the state of Paraná enacted Complementary
+Law No. 237/2021, which created three microregions for WSS service provision: Oeste, Centro-Leste, and Centro-Litoral.
+These microregions are structured as intergovernmental autarchies with deliberative and normative powers. Coordination
+is managed by the secretariat housed within the State Secretariat for Cities (Secretaria das Cidades, SECID).
+
+
+ Relationship to CPF
+15.     The proposed operation is consistent with the priorities of the World Bank Group’s 2024 Brazil Country
+Partnership Framework (CPF) for FY24-FY28 (Report No. CPF0000013BR). The Project contributes to High Level Outcome
+(HLO) 2: Greater inclusion of the poor and underserved populations, in line with Objective 2.1: Improve access to essential
+services and products, which emphasizes overcoming gaps in access to basic services. The Project will play a key role in
+helping to close the urban-rural gap through the development of a RWSS policy and plan for universal and sustainable
+access and the implementation of collective rural supply systems. The Project is also aligned with HLO 3: A greener
+economy with reduced vulnerability to climate shocks, especially through its Objective 3.1: Improve management of
+natural resources as it promotes the sustainable management of water, soil and on-farm forest.
+16.       The Project is also fully aligned with the three main objectives of the World Bank Group Water Strategy [FY25-
+30]25. It contributes to the objective of Scaling up and speeding up universal access to WSS in rural areas. It advances the
+
+24 Universal access is considered to be reached when 99 per cent of the population have access to potable water and 90 percent to basic sanitation,
+
+including treatment.
+25 Building a Water Secure Future: World Bank Group Water Strategy [FY25-30]
+
+
+
+                                                                                                                                              Page 6
+
+
+
+                                                                                                                                     Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+objective of Enhancing food production and smallholder farmers’ livelihoods through enhancing soil and water
+conservations practices and investments in sustainable irrigations systems to enhance climate resilience. Finally, it
+advances the objective of Reducing water-related risks by namely droughts, water deficits and contamination and to a
+lesser extent floods.
+17.     Alignment with Government objectives. In addition to supporting the current administration program, the
+proposed Project is aligned with the Federal26 and State Water Policy27, including the implementation of the Federal-State
+Water Security Pact28 (Pacto nacional pela gestão das águas); the Federal WSS policy29 and the Federal Agricultura Policy30,
+and the Federal31 and State Climate policy32, the State Agricultural Soil Prevention Law33 and the State Agriculture Water
+Security Law34.
+
+
+ C. Proposed Development Objective(s)
+
+
+ 18.     Strengthen the Borrower's capacity to (a) collaboratively manage water security risks in a changing climate and
+ to (b) reduce those risks in selected areas of the Borrower's territory by implementing integrated, cross-sectoral
+ interventions.
+
+
+ Key Results (From PCN)
+
+ 19.       Achievement of the Project’s results will be measured through the following PDO-level indicators:
+ •     Collaborative, integrated, cross-sectoral State Water Resources Plans, Basin plans and water security plans for
+       urban water sources developed and under implementation
+ •     Beneficiaries with enhanced resilience to water security/climate risks35 (People, of which women)
+ •     Land area under enhanced management for water security (Ha)36
+ •     RWSS policy and plan for universal access adopted
+ •     Increased access to water supply and sanitation in rural areas, of which safely managed (people, of which women)
+
+
+
+ D. Concept Description
+
+
+
+26 National Water Policy, Law N. º 9.433/1997.
+27 State Water Resource Policy, State Law N. º 12.726/1999.
+28  Aims to strengthen institutional cooperation for improved water resource management, sanitation regulation, and dam safety policy
+implementation.
+29 Brazil’s Federal Basic Sanitation Policy, Law No. 11.445, 2007 updated in 2020, by Law No. 14.026.
+30 National Agricultura Policy, Law N.º 8.171, 1991.
+31 National Policy on Climate Change, Law N.º 12.187, 2009.
+32 State Policy on Climate Change, State Law N.º 17.133, 2012.
+33 State Law N.º 8.014, 1984.
+34 State Law N.º 21.994, 2024.
+35 This includes urban people with decreased risks of WSS systems interruption due to water sources issues (contamination, turbidity, water deficit);
+
+farmers with increased resilience to water deficit/drought risks and people with reduced flood risks.
+36 This includes the agricultural land with improved soil & water management practices & degraded land/wetlands/forest covers that were restored
+
+and protected.
+
+                                                                                                                                                Page 7
+
+
+
+                                                                                                                                      Official Use Only
+       The World Bank
+       Parana Water Security Project(P510227)
+
+
+
+  1. Description
+
+20.     The proposed Project will put in place the foundation for long-term water security under a changing climate in
+the State of Parana while at the same time addressing pressing water security risks in priority areas. To do so, the Project
+will adopt an integrated, multisectoral approach focusing on three interrelated topics: (a) the sustainable management of
+water resources, which is the foundation of water security for people, the economy and biodiversity as water is a shared
+and finite resource; (b) the water security for agriculture production, the main driver of Parana’s economy, and, at the
+same time, the reduction of agriculture contribution to water security risks and (c) the water security for potable water
+supply to support the universalization goal, while reducing WSS contributions to water security risks. The two priority
+areas are the NW region of the state and the Alto Iguaçu watershed which have been selected due to their pressing water
+security risks. The NW region has the driest climate, soils prone to erosion and with low water storage capacity. This is the
+area where the agriculture production suffers the most in times of drought, where many urban water sources are at risk
+from contamination and deficits and where water erosion in rural and peri-urban areas is the most acute. The second area
+is the Alto Iguaçu watershed where the RMC is located, which is water stressed due to high water demand and
+contaminant loads from the Metropolitan area. Water security challenges have been intensifying in both areas due to
+climate change.
+21.     The proposed Project is a US$263 million Investment Project Financing (IPF) operation, financed by a US$186
+million IBRD loan and US$77 million in State counterpart funds with a six-year implementation. The State of Parana
+selected the IPF instrument as it wishes a close supervision from the PMU in the secretary of planning and the World Bank
+(WB) during the implementation of Project’s activities. It requested a six-year implementation period considering the time
+necessary to obtain concrete results on the ground, to follow a multi-sectorial and participatory approach, and to put in
+place the mechanisms to ensure sustainability of results after the project closes.
+
+To achieve its PDO, the Project is designed around three integrated components:
+22.       Component 1 – Strengthen climate-informed WRM. By promoting a better integrated, participatory, resilient and
+data-driven water resources governance and infrastructure, the component contributes to reducing pressures on water
+resources quantity and quality and supports more effective preparedness and responses to increasing climate change
+risks. In doing so, it lays the institutional and technical foundations for improving water security for multiple uses across
+the state, with a stronger focus in priority areas where they are implemented in an integrated manner with activities from
+the other components.
+23.       Subcomponent 1.1 – Modernize water monitoring, information and management instruments. This
+subcomponent aims to strengthen the State’s operational and technical capacity to manage its water resources through
+enhanced monitoring, information and decision-support systems, as well as regulation and enforcement. Activities
+include: (i) hydrometeorological and groundwater observation networks densification and modernization; (ii) water
+resources strategic studies, including on climate change impacts; (iii) water quality laboratories enhancement; (iv) water
+information and decision-support systems modernization; (v) State’s Water Resources Plan and basin plans preparation;
+(vi) water rights regularization and enforcement campaigns in priority areas; (vii) water use fees definition at basin level;
+(viii) dam safety monitoring expanded in priority areas. Collectively, these activities will improve the availability and
+reliability of water data and strengthen the State’s ability to allocate, regulate, and protect water resources more
+effectively in the context of increasing water demand, contamination and climate change.
+24.    Subcomponent 1.2 – Improve integrated water resources governance. This subcomponent enhances water
+resources governance by strengthening policy integration, institutional capacity and participatory mechanisms. It will
+support: (a) the establishment of an integrated management platform under the State Planning Secretariat (Secretaria do
+Planejamento, SEPL) to align key state programs and policies that affect or depend on water resources, identifying
+
+
+                                                                                                                         Page 8
+
+
+
+                                                                                                                 Official Use Only
+        The World Bank
+        Parana Water Security Project(P510227)
+
+
+necessary trade-offs and (b) strengthen the SEGRH through: (i) the development and implementation of an action plan to
+strengthen the performance of SEGRH and its constituents (IAT, CERH, Basin committees) in the implementation of their
+core functions; (ii) the formulation and implementation of a water users communication plan/awareness building
+campaign to foster the deployment and compliance with the water management instruments and (iii) specific support to
+the adoption of the water use and discharge fees which are key to the financing of WRM functions.
+25.     Subcomponent 1.3 – Develop green and grey infrastructure to reduce urban erosion and flooding. This
+subcomponent includes the integration of nature-based and traditional grey infrastructure to implement climate-resilient
+and effective solutions to address soil erosion37 in peri-urban areas and localized urban flooding due to inadequate urban
+drainage and intensifying rainfall events. Specific activities include the control of erosive processes through the
+improvement of drainage systems, including their outlet, energy dissipators and the restoration of degraded soil.
+
+26.     Component 2 – Strengthen agriculture water security and reduce water security risks caused by agriculture. This
+component is designed to enhance water security for agricultural production amid rising water shortages and land
+degradation exacerbated by climate change. It also seeks to mitigate the risks of water contamination and overexploitation
+associated with rapid irrigation development, increased agrochemical usage, and greater animal waste generation.
+27.     Subcomponent 2.1. – Strengthen the State capacity to manage water security risks in agriculture. This
+subcomponent includes applied research program; the development of water for agriculture monitoring, information and
+decision-support system; staff training and logistics.
+28.     Subcomponent 2.2. – Increase family farming water security in areas affected by climate change-exacerbated
+water deficit and soil degradation. Supported activities include communication and capacity building; extension services
+and financial incentives to promote sustainable soil and water management practices; construction and rehabilitation of
+water intakes, excavated water tanks and irrigation systems.
+29.     Subcomponent 2.3. – Decrease agriculture contribution to water security risks in selected urban water sources
+and their watersheds. Supported activities include: (i) participatory diagnostic and action plans to identify and address
+water security risks in each priority basin; (ii) action plan implementation, monitoring and evaluation through: extension
+services, financial incentives for restauration and protection of water sources, riparian vegetation and “legal reserve”,
+promotion of sustainable soil and water management practices, farm-level basic sanitation and animal waste treatment;
+sustainable production practices and certification; PES; control and enforcement of pesticide and soil management,
+erosion-proof rural roads upgrading, partnerships with cooperatives and farmers associations to scale-up and accelerate
+impacts.
+30.     Both subcomponents 2.2 and 2.3 are supported by activities under 1.1, which aim to enhance understanding of
+water resources availability, plan the use of water resources, monitor water resources and usage, regularize water rights,
+and strengthen their control and enforcement efforts; as well as subcomponent 3.2.b&c.
+31.     Component 3 - Improve water security for universal WSS access and reduce climate change-exacerbated water
+security risks caused by WSS. This component aims to enhance the climate resilience, quality, and availability of water
+and sanitation services by addressing both infrastructure and management model gaps in rural areas, in support of the
+universalization goals, and to reduce water security risks related to urban water sources in priority areas.
+32.    Subcomponent 3.1 – Increase access to sustainable rural water and sanitation services. This subcomponent aims
+to advance the universalization of water and sanitation services in rural areas, improving their climate resilience and
+ensuring their long-term sustainability. Activities to be financed include: (a) the development of a RWSS sanitation policy
+
+37 In addition to decrease risks of peri-urban infrastructure damages, this activity will reduce sediment and pollutant loads into water bodies that
+
+contribute to water quality degradation and reservoirs siltation.
+
+                                                                                                                                               Page 9
+
+
+
+                                                                                                                                      Official Use Only
+         The World Bank
+         Parana Water Security Project(P510227)
+
+
+for universal and sustainable access, based on a thorough diagnostic of the current situation to identify gaps and
+investment needs, and accompanied by a detailed implementation strategy that give special attention to management
+and financial models for the sustainability of services; (b) the implementation and rehabilitation of collective RWS systems
+and associated sanitation solutions. O&M plans will be prepared to strengthen the long-term performance and
+sustainability of the systems, with technical assistance and training to ensure local ownership and capacity.
+33.     Subcomponent 3.2 – Reduce water security risks in selected urban water sources and their watersheds. This
+subcomponent supports the implementation of SANEPAR’s Water Security Plan (Plano de Seguridad da Água, PSA)38,
+focusing on activities to manage risks at the level of the water sources that face growing water demand and pollution and
+heightened vulnerability from climate change. It complements subcomponent 2.3 that supports improvements in farming
+practices and technologies to reduce water pollution and deficit risks caused by the agriculture sector, as well as
+Component 1.1 and 1.2 which aim at improving the sustainable management of the water resources through
+strengthening the implementation of the State Water Law’s governance and policy framework.
+34.       Specific activities to be financed under this subcomponent include:
+      a. Supporting the implementation of the Iguaçu Water Reserve Project (Projeto Reservas Hídrica de Iguaçu) through
+         the creation and management of six wetlands in the river flood plain to reduce pollution in the Alto Iguaçu River39
+         and the construction of a 6.3 km “clean” water canal downstream of SANEPAR reservoirs up to the current water
+         intake, by-passing a contaminated section of the Iguaçu River.
+      b. Improving the quantitative and qualitative monitoring of key urban water sources.
+      c. In conjunction with IDR-SEAB’s subcomponent 2.3, elaborate studies, plans, methodologies and instruments to
+         reduce pressures on urban water sources and their watershed, with an emphasis on turbidity and non-point
+         source pollution that impact the quality of water withdrawals, the effectiveness of water treatment and the
+         continuity of water services.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                           Policies                                                                 Triggered?
+ Projects on International Waterways OP 7.50                                                            Yes
+ Projects in Disputed Area OP 7.60                                                                       No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+38 The PSA is a preventive management process, based on the concept of multiple barriers, good practices and processes of analysis of threats and
+
+risks, critical control points, applied to water supply systems from the source (surface or groundwater) to the client. It is conformed with World
+Health Organization and Brazilian Regulatory Standard 17080.
+39 SANEPAR’s Iguaçu Water Reserves Project aims at creating a biological corridor of approximately 600 km in the Alto Iguaçu basin—a watershed
+
+that supplies around 60 per cent of Curitiba's drinking water. The project consists of implementing inter-connected wetlands in former sand and clay
+mining excavation pits to filter diffuse pollution to improve water resources quality and increase the basin’s natural water storage capacity. Two
+types of wetlands are considered: “wetlands for dilution”, which are located in sections of the rivers that are highly polluted, receiving treated
+wastewater discharge as well as various non-point source pollutions and “wetlands for water supply reserve” that have potential to serve as a water
+reserve to be used in times of droughts or in case contamination of existing water sources were to occur. These interventions will strengthen water
+security as it supports the requalification of the Iguaçu River from its source to the municipality of Porto Amazonas, enabling new potential sources,
+and providing an extra water reserve of two billion liters, equivalent to supplying one million people for 72 hours.
+
+                                                                                                                                                Page 10
+
+
+
+                                                                                                                                       Official Use Only
+       The World Bank
+       Parana Water Security Project(P510227)
+
+
+
+
+35.      The Project’s environmental risk is rated Moderate, as anticipated impacts are largely site specific, predictable,
+temporary and/or reversible, and can be managed with standard measures and good international industry practice. Key
+risks include construction related soil erosion and sedimentation; temporary air/noise and waste/effluent management
+issues; and operational risks such as altered aquatic habitats and ecological flows from intakes, over abstraction and
+competition for water (including irrigation), pollution from agrochemicals and wastewater, and localized loss of native
+vegetation. Cumulative pressures on water quantity/quality and habitat connectivity are possible across multiple basins,
+and climate variability (more intense droughts and heavy rainfall) heighten water security challenges, especially in the
+Northwest and Alto Iguaçu areas. Sensitive receptors include aquatic ecosystems, riparian vegetation and wetlands, and
+patches of native Atlantic Forest within a broader mosaic of human modified rural landscapes. At the same time, the
+Project is expected to generate positive environmental outcomes by improving water quality and availability through
+integrated watershed management and nature-based solutions; reducing erosion and pollution via sustainable
+agriculture, efficient irrigation, and enhanced rural water and sanitation; restoring riparian/native vegetation and
+supporting biodiversity; and strengthening climate resilience with adaptation and mitigation co benefits.
+36.      The Project will apply ESS1–ESS8 and ESS10, and OP 7.50 on International Waterways is applicable given activities
+in tributaries of the Rio de la Plata Basin (and potentially the Guarani aquifer). The mitigation approach follows the
+mitigation hierarchy—avoiding sensitive areas where feasible, enforcing ecological flows, employing nature based
+solutions and low impact irrigation, and implementing robust pollution prevention, OHS, community health and safety
+(including dam safety), and biodiversity measures—underpinned by an Environmental and Social Management
+Framework (with subproject ESIAs/ESMPs as required), an Environmental and Social Commitment Plan with monitoring
+and reporting, Brazil’s three stage environmental licensing, and complementary instruments to ensure comprehensive
+risk management.
+37.      The social risk of the Project is rated substantial provisionally until more information is on Project activities are
+available because some activities could potentially increase existing vulnerability or tensions over resources use. However,
+the Project does not involve activities that a) have a high potential for harming people and cause adverse impacts on
+Indigenous Peoples and other vulnerable social groups, or b) cause adverse impacts on a large number of people or
+geographical area, which are permanent and irreversible and cannot be avoided, reverted or mitigated through well-
+known, routine and proven measures in a predictable manner. Land acquisition needs are not expected to be large in
+numbers and potential adverse impacts related to physical and economic displacement will be addressed through the
+implementation of Resettlement and Livelihood Restoration Plans following the requirements of ESS 5. The exposure of
+local communities to health, safety and security risks and impacts is anticipated to be minor because project activities are
+not expected to induce the influx of large number of workers or increase traffic and road safety risks. They are not
+expected to rely on large dams or small dams that could cause safety risks, or to expose communities to water-borne,
+water-based, water-related and vector-borne diseases, communicable and noncommunicable diseases as project
+activities will contribute to improving sanitation conditions in rural areas. Furthermore, communities will be neither
+exposed to hazardous materials, nor to security personnel untrained in the use of force and appropriate conduct toward
+residents.
+38.     Finally, the Project is expected to have a positive impact on ecosystem services as it will induce changes towards
+more sustainable agricultural practices. The large number and diversity of stakeholders involved with the Project and
+potential disputes over water use can be mitigated through a robust stakeholder engagement strategy already
+incorporated in Project design – to which the Borrower has proven capacity, commitment and track record – that will be
+strengthened through the development of the Project’s Stakeholder Engagement Plan in a manner consistent with the
+requirements of ESS 10 and ESS 7. The Project is also designed to prioritize disadvantaged and vulnerable social groups
+
+
+                                                                                                                         Page 11
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Parana Water Security Project(P510227)
+
+
+with its interventions, reducing the potential risk of elite capture of its benefits.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Marie-Laure Lajaunie
+   Lead Water Resources Management Specialist
+
+   Irene Natalia Wasilevsky
+   Senior Agriculture Economist
+
+ Borrower/Client/Recipient
+  State of Parana
+
+ Implementing Agencies
+  State Secretariat of Planning - SEPL
+
+  FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+ @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+ APPROVAL
+
+
+ Task Team Leader(s):                         Marie-Laure Lajaunie, Irene Natalia Wasilevsky
+
+ Approved By
+
+ Practice Manager/Manager:                    David Michaud                             28-Aug-2025
+
+ Country Director:                            Cecile Fruman                             24-Sep-2025
+
+
+
+
+                                                                                                             Page 12
+
+
+
+                                                                                                      Official Use Only
+

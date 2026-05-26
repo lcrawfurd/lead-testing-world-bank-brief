@@ -1,0 +1,2133 @@
+Public Disclosure Authorized                                               FOR OFFICIAL USE ONLY
+                                                                                                                           Report No: PADHI01322
+
+
+
+
+Public Disclosure Authorized
+                                                   INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+                                                                      PROJECT APPRAISAL DOCUMENT
+
+                                                                                      ON A
+
+                                                                               PROPOSED LOAN
+
+                                                                    IN THE AMOUNT OF US$245 MILLION
+
+                                                                                       TO
+
+
+
+
+Public Disclosure Authorized
+                                                                                     INDIA
+
+                                                                                     FOR A
+
+                                   RESILIENT ACTION FOR DEVELOPMENT AND DISASTER RECOVERY HIMACHAL PRADESH PROJECT
+
+
+                                                                              JANUARY 27, 2026
+
+
+
+
+Public Disclosure Authorized
+
+
+                                Urban, Resilience and Land Global Practice
+                                South Asia Region
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+               CURRENCY EQUIVALENTS
+
+     (Exchange Rate Effective December 31, 2025)
+
+          Currency Unit = INDIAN RUPEE (INR)
+               INR 87.78 = US$1
+
+
+
+                     FISCAL YEAR
+                   April 1 - March 31
+
+
+
+
+  Regional Vice President: Johannes C.M. Zutt
+Regional Practice Director: Pankaj Gupta
+        Country Director: Paul Procee (Acting)
+        Practice Manager: Abedalrazq F. Khalil
+      Task Team Leaders: Anup Karanth, Melanie S. Kappes
+                 ABBREVIATIONS AND ACRONYMS
+AFD        Agence Française de Développement (French Development Agency)
+CBO        Community Business Organization
+DoE        Directorate of Energy
+DMC        Disaster Management Cell
+DRFI       Disaster Risk Financing and Insurance
+E&S        Environmental and Social
+ESF        Environmental and Social Framework
+ESCP       Environmental and Social Commitment Plan
+ESIA       Environmental and Social Impact Assessment
+ESS        Environmental and Social Standards
+EWS        Early Warning System
+FM         Financial Management
+GLOF       Glacier Lake Outburst Flood
+GoHP       Government of Himachal Pradesh
+GoI        Government of India
+GRS        Grievance Redress Service
+HP         Himachal Pradesh
+HEP        Hydroelectric Project
+IA         Implementing Agency
+IBRD       International Bank for Reconstruction and Development
+IPF        Investment Project Financing
+JSV        Jal Shakti Vibhag
+M&E        Monitoring and Evaluation
+MFD        Maximizing Finance for Development
+MFD-EP     MFD-Enabling Project
+NCB        National Competitive Bidding
+PCE        Private Capital Enabling
+PCM        Private Capital Mobilization
+PDO        Project Development Objective
+PIU        Project Implementation Unit
+PMU        Project Management Unit
+PMTC       Project Management and Technical Consultants
+POM        Project Operations Manual
+PPSD       Project Procurement Strategy for Development
+PSC        Project Steering Committee
+PWD        Public Works Department
+READY-HP   Resilient Action for Development and Disaster Recovery Himachal Pradesh
+RPF        Resettlement Policy Framework
+SEA/SH     Sexual Exploitation and Abuse/Sexual Harassment
+SEP        Stakeholder Engagement Plan
+STEP       Systematic Tracking of Exchanges in Procurement
+TSA        Technical Service Agency
+UA         Universally Aligned
+The World Bank
+Resilient Action for Development and Disaster Recovery Himachal Pradesh                                                    PROJECT APPRAISAL DOCUMENT
+(P513815)
+
+
+
+                                                             TABLE OF CONTENTS
+
+ DATASHEET ........................................................................................................................... i
+ I.    STRATEGIC CONTEXT ..................................................................................................... 1
+       A. Project Strategic Context .................................................................................................................1
+       B. Sectoral and Institutional Context ...................................................................................................1
+ II.   PROJECT DESCRIPTION .................................................................................................. 3
+       A. Project Development Objective .......................................................................................................3
+       B. Theory of Change and PDO Indicators .............................................................................................4
+       C. Project Beneficiaries ........................................................................................................................4
+       D. Project Components ........................................................................................................................5
+       E. Role of Partners ................................................................................................................................9
+       F. Lessons Learned and Reflected in the Project Design......................................................................9
+ III. PROJECT IMPLEMENTATION ........................................................................................ 10
+       A. Institutional and Implementation Arrangements ..........................................................................10
+       B. Results Monitoring, Evaluation, and Verification Arrangements ..................................................11
+       C. Disbursement Arrangements .........................................................................................................12
+ IV. PROJECT APPRAISAL SUMMARY .................................................................................. 12
+       A. Technical, Economic and Financial Analysis ..................................................................................12
+       B. Fiduciary .........................................................................................................................................16
+       C. Environmental, Social and Legal Operational Policies ...................................................................19
+ V. KEY RISKS .................................................................................................................... 20
+ ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 22
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh         PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+India                    Resilient Action for Development and Disaster Recovery Himachal Pradesh
+                                                     Environmental and Social Risk
+Operation ID             Financing Instrument                                               Process
+                                                     Classification
+                         Investment Project                                                 Urgent Need or Capacity
+P513815                                              High
+                         Financing (IPF)                                                    Constraints(FCC)
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+Financing & Implementation Modalities
+[ ] Multiphase Programmatic Approach (MPA)                     [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                   [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                        [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                    [ ] Conflict
+[ ] Deferred Drawdown                                          [✓] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                 [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                 Expected Closing Date
+10-Feb-2026                            31-Mar-2031
+Bank/IFC Collaboration
+No
+
+
+Proposed Development Objective(s)
+To support resilient disaster recovery and livelihoods, and increase state capacities for risk-informed development.
+
+
+Components
+ Component Name                                                                                              Cost (US$)
+
+                                                                                                                          i
+     The World Bank
+     Resilient Action for Development and Disaster Recovery Himachal Pradesh       PROJECT APPRAISAL DOCUMENT
+     (P513815)
+
+
+
+ Component 1: Institutional Strengthening and Reforms for Resilience                             156,002,100.00
+ Component 2: Resilient Infrastructure and Livelihoods Recovery                                  225,135,400.00
+ Component 3: Implementation Support                                                              25,112,500.00
+ Component 4: Contingent Emergency Response                                                                    0.00
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+ Borrower:                       India
+
+ Implementing Agency:           Department of Revenue (DM-Cell), Government of Himachal Pradesh; Directorate
+                                of Energy; Public Works Department; Jal Shakti Vibhag
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 Yes
+
+Is this project Private Capital Enabling (PCE)?           Yes
+
+SUMMARY
+
+  Total Operation Cost                                                                                   406.25
+
+  Total Financing                                                                                        406.25
+             of which IBRD/IDA                                                                           245.00
+
+  Financing Gap                                                                                            0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                          245.00
+
+ Non-World Bank Group Financing
+   Commercial Financing                                                                                  100.00
+
+      Unguaranteed Commercial Financing                                                                  100.00
+
+                                                                                                                  ii
+     The World Bank
+     Resilient Action for Development and Disaster Recovery Himachal Pradesh             PROJECT APPRAISAL DOCUMENT
+     (P513815)
+
+
+
+   Counterpart Funding                                                                                      61.25
+
+      National Government                                                                                   61.25
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year                2026            2027          2028            2029           2030          2031        2032
+
+Annual             15.00            50.00         75.00           75.00         17.00          12.00        1.00
+Cumulative         15.00            65.00        140.00           215.00        232.00         244.00      245.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+Urban, Resilience and Land                                    Water; Transport; Energy & Extractives
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                 ⚫ Moderate
+2. Macroeconomic                                                            ⚫ Moderate
+3. Sector Strategies and Policies                                           ⚫ Moderate
+4. Technical Design of Project or Program                                   ⚫ Substantial
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+6. Fiduciary                                                                ⚫ Substantial
+7. Environment and Social                                                   ⚫ High
+
+
+                                                                                                                    iii
+     The World Bank
+     Resilient Action for Development and Disaster Recovery Himachal Pradesh           PROJECT APPRAISAL DOCUMENT
+     (P513815)
+
+
+
+8. Stakeholders                                                             ⚫ Moderate
+9. Overall                                                                  ⚫ Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                            Relevant
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+                                                                                                                      iv
+     The World Bank
+     Resilient Action for Development and Disaster Recovery Himachal Pradesh               PROJECT APPRAISAL DOCUMENT
+     (P513815)
+
+
+
+LEGAL
+Legal Covenants
+Sections and Description
+Section I.A.1, Schedule to the Project Agreement: The Project Implementing Entity shall vest the responsibility for
+overall management, implementation and monitoring of the Project in the Project Management Unit within the
+Disaster Management Cell, which will implement the Project with assistance from PWD, JSV and DoE, as set forth in the
+Project Operations Manual.
+Section I.A.2(a), Schedule to the Project Agreement: The Project Implementing Entity shall maintain, throughout the
+Project implementation period, a PMU within the Disaster Management Cell, headed by a Project Director, who shall be
+a serving officer not below the rank of a Principal Secretary, assisted by a Deputy Project Director, with competent staff
+and consultants in adequate number and with experience, qualification, and under terms of reference, acceptable to
+the Bank, which shall be provided with such powers, financial resources, functions, and competencies, acceptable to
+the Bank and as shall be required for it to carry out overall planning, day-to-day Project operations, management,
+coordination, performance monitoring, fiduciary management, compliance with environmental and social standards for
+the Project, and reporting; and to serve as the implementation unit for carrying out activities related to livelihoods and
+strengthening of disaster risk management under the Project.
+Section I.A.2(b), Schedule to the Project Agreement: The Project Implementing Entity shall establish, within three (3)
+months from the Effective Date, and thereafter maintain, throughout the Project implementation period, three Project
+Implementation Units, one each in PWD, DoE, and JSV, with competent personnel in adequate number and with
+experience, qualification, and under terms of reference, acceptable to the Bank, which shall be provided with such
+powers, financial resources, functions, and competencies, acceptable to the Bank and as shall be required for them to
+carry out, inter alia, activities related to recovery of transport corridors and public buildings, power sector recovery,
+water sector recovery and allied irrigation and sanitation work, and institutional strengthening for ensuring resilience
+and sustainability.
+Section I.A.2(c), Schedule to the Project Agreement: The Project Implementing Entity shall establish, within three (3)
+months of the Effective Date, and thereafter maintain throughout the Project implementation period, a Project Steering
+Committee, chaired by the Chief Secretary to GoHP, and comprised of representatives from relevant departments and
+agencies, which shall be responsible for, inter alia, providing overall strategic direction, inter-departmental
+coordination, and approving or amending Project investments.
+Section I.A.2(d), Schedule to the Project Agreement: The Project Implementing Entity shall establish, within three (3)
+months of the Effective Date, and thereafter maintain throughout the Project implementation period, a Project
+Executive Committee, chaired by the Additional Chief Secretary of the Revenue Department, which shall be responsible
+for, inter alia, overseeing day-to-day Project implementation; and assisting the Project Management Unit with inter-
+agency coordination.
+Section I.A.2(e), Schedule to the PA: The Project Implementing Entity shall provide budget allocation on annual basis
+and transfer the funds to PWD, DoE and JSV in accordance with the Annual Work Plan and Budget.
+Section I.A.2(f), Schedule to the Project Agreement: The Project Implementing Entity shall cause the PMU, PWD, DoE
+and JSV, each, to select and engage, and thereafter maintain throughout the Project implementation period, the
+services of Project Management and Technical Consultants (“PMTC”), with qualification and experience and under
+terms of reference acceptable to the Bank, in order to assist the PWD, DoE and JSV with planning and implementation
+of their respective parts of the Project including, inter alia, providing regional and global expertise to advise on tailored
+solutions, facilitating knowledge exchange, and building capacity.
+
+                                                                                                                          v
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh          PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+Section I.A.2(g), Schedule to the Project Agreement: The Project Implementing Entity shall ensure that adequate
+financial management arrangements are in place, within three (3) months of the Effective Date, including the
+appointment of qualified financial management staff, as set forth in the Project Operations Manual.
+Section I.A.2(h), Schedule to the PA: The Project Implementing Entity shall ensure appointment of qualified
+procurement staff for implementation of the Project, as set forth in the Project Operations Manual.
+Section I.B, Schedule to the Project Agreement: The Project Implementing Entity shall prepare and adopt, by not later
+than three (3) months after the Effective Date, and thereafter maintain, throughout the implementation period of the
+Project, the Project Operations Manual in form and with substance satisfactory to the Bank; and ensure that the Project
+is carried out in accordance with the Project Operations Manual.
+Section I.C, Schedule to the Project Agreement: The Project Implementing Entity shall prepare and adopt, by not later
+than three (3) months after the Effective Date, and thereafter maintain, throughout the implementation period of the
+Project, the Grant Manual in form and with substance satisfactory to the Bank; and ensure that Part 2.4(ix) of the
+Project is carried out in accordance with the Grant Manual.
+Section I.D, Schedule to the Project Agreement: The Project Implementing Entity shall ensure that Grants are made to
+selected Community Business Organizations (“Beneficiaries”) in accordance with the eligibility criteria and procedures
+set forth in the Grant Manual. Upon selection of Beneficiaries based on grant proposals submitted by the Community
+Business Organizations in accordance with the Grant Manual, the Project Implementing Entity shall issue a Grant
+Approval Letter to each Beneficiary, under terms and conditions acceptable to the Bank, as set forth in the Grant
+Manual.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                           Citation                       Description                    Financing Source
+                                                              No withdrawal shall be
+                                                              made for payments made
+                                                              prior to the Signature Date,
+                                                              except that withdrawals up
+                                                              to an aggregate amount
+                               Section III.B.1(a), Schedule
+Disbursement                                                  not to exceed $49,000,000      IBRD/IDA
+                               2 to the Loan Agreement
+                                                              may be made for payments
+                                                              made prior to this date but
+                                                              on or after March 31, 2025
+                                                              for Eligible Expenditures
+                                                              under Category (1).
+                                                              No withdrawal shall be
+                                                              made for Grants under
+                                                              Category (2), unless and
+                               Section III.B.1(b), Schedule   until the Project
+Disbursement                                                                                 IBRD/IDA
+                               2 to the Loan Agreement        Implementing Entity has
+                                                              prepared and adopted the
+                                                              Grant Manual, acceptable
+                                                              to the Bank.
+
+
+                                                                                                                    vi
+     The World Bank
+     Resilient Action for Development and Disaster Recovery Himachal Pradesh         PROJECT APPRAISAL DOCUMENT
+     (P513815)
+
+
+
+                                                            No withdrawal shall be
+                                                            made for Emergency
+                                                            Expenditures under
+                                                            Category (3), unless and
+                                                            until all of the following
+                                                            conditions have been met
+                                                            in respect of said
+                                                            expenditures: (i) (A) the
+                                                            Borrower and/or the
+                                                            Project Implementing
+                                                            Entity, as the case may be,
+                                                            has/have determined that
+                                                            an Eligible Crisis or
+                                                            Emergency has occurred,
+                                                            and has/have furnished to
+                                                            the Bank a request to
+                             Section III.B.1(c), Schedule
+Disbursement                                                withdraw Loan amounts         IBRD/IDA
+                             2 to the Loan Agreement
+                                                            under Category (3); and (B)
+                                                            the Bank has agreed with
+                                                            such determination,
+                                                            accepted said request and
+                                                            notified the Borrower, and
+                                                            the Project Implementing
+                                                            Entity, as the case may be,
+                                                            thereof; and (ii) the
+                                                            Borrower and/or the
+                                                            Project Implementing
+                                                            Entity, as the case may be,
+                                                            has/have adopted the CERC
+                                                            Manual and Emergency
+                                                            Action Plan, in form and
+                                                            substance acceptable to
+                                                            the Bank.
+                                                            The Public Works
+                                                            Department (“PWD”), Jal
+                                                            Shakti Vibhag (“JSV”), and
+                                                            Directorate of Energy
+Effectiveness                Section 4.01(a)                (“DoE”) have each selected    IBRD/IDA
+                                                            and engaged the services of
+                                                            Project Management and
+                                                            Technical Consultants
+                                                            (“PMTC”).
+                                                            The Project Implementing
+Effectiveness                Section 4.01(b)                                              IBRD/IDA
+                                                            Entity has established and
+                                                                                                            vii
+The World Bank
+Resilient Action for Development and Disaster Recovery Himachal Pradesh       PROJECT APPRAISAL DOCUMENT
+(P513815)
+
+
+
+                                                     publicized an accessible
+                                                     grievance mechanism, to
+                                                     receive and facilitate
+                                                     resolution of concerns and
+                                                     grievances in relation to
+                                                     the Project, in a manner
+                                                     acceptable to the Bank.
+
+
+
+
+                                                                                                    viii
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                             PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+  I.   STRATEGIC CONTEXT
+ A. Project Strategic Context
+1.      As India’s economy continues to grow and poverty declines1, disaster risks increasingly challenge
+developmental gains, particularly in vulnerable states located in the Himalayan range. The increasing frequency and
+severity of extreme weather events such as cloudbursts2, floods, debris flows, and landslides pose substantial threats
+across the complex terrains of India’s hill states, particularly during the monsoon season. These areas are characterized
+by a young and fragile geology, marked by steep and unstable slopes and narrow floodplains that provide limited flat
+land—often used for construction but highly exposed to floods and debris flows. In addition to flash floods, landslides,
+and debris flows frequently triggered by cloudbursts, the Himalaya region is also exposed to earthquakes, glacier lake
+outburst floods (GLOFs), avalanches, droughts, and forest fires.
+2.       Himachal Pradesh (HP) faces a growing threat to its development gains and poverty reduction from recurring
+natural hazards and extreme weather events that disrupt economic activity, livelihoods, and jobs. HP is a northern
+Indian state in the western Himalayas, with around 7 million people, an area of 55,673 km², and an economy relying mainly
+on agriculture, tourism, and hydropower. Multidimensional poverty in HP fell3 from 8 percent in 2015–2016 to 5 percent
+in 2019–2021—equivalent to nearly 200,000 fewer people living in multidimensional poverty. Over the past three years,
+the state has experienced over 66 cloudbursts, 234 landslides, and 121 flash floods, resulting in losses exceeding US$1.5
+billion according to the Government of Himachal Pradesh (GoHP). Recovery needs are estimated to be over six times the
+state’s five-year (2021-2026) allocation under the State Disaster Risk Management Funds; even with additional support
+from the National Disaster Risk Management Fund, these damages have been only partially addressed. Damages to roads,
+water supply, and energy infrastructure consistently comprise about 80 percent of losses, disrupting connectivity, service
+delivery, and market access in remote districts such as Chamba, Kullu, Mandi, and Una. Agriculture, horticulture, and
+tourism—employing over half the state’s workforce—are particularly affected, leading to widespread income instability,
+seasonal job losses, and outmigration from rural areas. With limited insurance coverage and constrained fiscal space,
+repeated recovery expenditure diverts resources from development investments and undermines sustainable job creation
+and growth.
+
+ B. Sectoral and Institutional Context
+3.      Cloudbursts, flash floods, debris flows, and landslide incidents triggered by heavy monsoon rains (June-
+September 2025) caused extensive damage across all 12 districts of HP, resulting in 486 fatalities and losses estimated
+at US$653 million. Transport infrastructure was the most impacted (US$362.63 million in damages), followed by water,
+sanitation and irrigation (US$177.25 million), and power infrastructure (US$35.8 million), adding to the accumulated
+damages from events during previous years. Around 20 percent of the state’s road network was affected, more than 4,900
+water supply schemes were damaged, and over 15 hydroelectric projects (HEP) sustained losses. Given the scale and
+cumulative nature of the recovery needs, available funding has largely been absorbed by urgent repairs and restoration
+of essential services. While these efforts have been crucial, much of the damage remains unaddressed, heightening the
+vulnerability of infrastructure systems. In addition, the 2025 impacts followed similarly devastating monsoon seasons in
+2023 and 2024, with losses in 2023 that totaled about US$970 million and the 2024 monsoon that resulted in estimated
+losses of about US$156 million. The recurring nature of such losses underscores systemic weaknesses in infrastructure
+
+1 World Bank. Poverty and Equity Brief, October 2025.
+2 According to the India Meteorological Department, a cloudburst is a sudden rainfall of 100 mm or more within an hour over a small area.
+3 As measured by Niti Aayog’s multidimensional poverty index methodology, 2023.
+
+
+                                                                                                                                            Page 1
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                           PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+planning, design, maintenance, and recovery4 and highlights the need to embed resilience standards across the asset life
+cycle.
+4.       Employment and livelihoods across key economic sectors suffered severe direct and indirect impacts. The
+districts with the highest losses, i.e., Chamba, Shimla, Mandi, and Kullu are home to the state’s ‘apple belt’ and unique
+crafts sectors such as weaving and metal works. Agricultural and horticultural sectors, which employ about 54 percent of
+the workforce and contribute about 14 percent to state gross domestic product, faced severe losses from soil erosion,
+pest outbreaks, and blocked transport routes. Apple farming, vital to over 150,000 small farming households, was severely
+impacted by road closures preventing timely market access and rainfall-induced pest infestations damaging crops5 and
+resulting in over US$260 million losses.6 Non-farm livelihoods, including artisanal workshops and small-scale enterprises,
+experienced asset destruction such as damaged tools and stocks, compounded by disrupted connectivity that stalled
+production and sales. Tourism, which contributes 7 percent to the state’s gross domestic product and contributes to
+around 14 percent direct and indirect employment7, came to a near standstill in major destinations such as Kullu, Manali,
+and Dharmshala due to unsafe roads and widespread service interruptions.
+5.       The increasing severity and adverse effects of disaster events in HP reveal the need for a systemic approach to
+preventing, mitigating, and financial protection against disaster risk. Climate change has resulted in variations in the
+occurrence of natural hazards in recent years, and these are projected to continue. The monsoon is expected to become
+more intense and erratic, with heavier rainfall concentrated in shorter periods, increased intra-seasonal variability, and
+prolonged dry spells. Glaciers, snow cover, and permafrost are projected to decline substantially, altering the seasonal
+patterns of meltwater contributions to river flows, destabilizing high mountain slopes, and heightening the risk of GLOFs8.
+In combination with recent disasters caused by sudden cloudbursts, evolving landslide hotspots, and high velocity debris
+flows, this shows an urgent need for hazard zonation, delineation of high exposure locations, and risk-informed land use
+planning. Despite recurring events, state capabilities are limited for hazard monitoring or forecasting; for early warnings
+for infrastructure operations (e.g., of water intake structures); and for preventing unsafe construction in high-risk areas.
+This includes weak enforcement of building regulations. Hazard analytics and network risk assessments are essential to
+support HP’s deteriorating public service systems, by identifying vulnerabilities and addressing them. Further, despite
+severe financing constraints, disaster risk is primarily borne through public sector financing without pre-arranged post-
+disaster financing through risk transfer. Given the scale of accumulated losses, HP urgently needs a diversified disaster
+risk financing strategy that: (a) meets the financing requirements for climate-proofing vulnerable assets, particularly the
+extensive housing stock; and (b) manages the state’s growing contingent liabilities arising from repeated housing damage,
+escalating disaster-induced losses in productive sectors such as horticulture (especially apple farming), and recurrent
+damage to public infrastructure.
+6.      The emergency operation, Resilient Action for Development and Disaster Recovery Himachal Pradesh (READY-
+HP), will support resilient recovery from the impacts of the disaster events through building back better while
+strengthening the state’s capacity for risk-informed and climate-resilient development. Recognizing the serious situation
+following accumulated damages and losses from disaster events, the Government of India (GoI) in its 2024-2025 budget
+announcement committed to supporting disaster recovery in Himanchal Pradesh through multilateral assistance. READY-
+
+
+4 GoHP Final Memorandum of Damages due to Flash Floods, Cloudbursts, and Landslides during Monsoon Season 2025, 2024, 2023.
+5 The New Indian Express. Himachal apple farmers in dire straits as monsoon wreaks havoc.
+6 Down To Earth. Floods in Himachal seal roads, leading to losses for apple farmers.
+7 Himachal Pradesh Economic Survey 2022-2023.
+8 Gurung, D.R. 2019. The Hindu Kush Himalaya Assessment. Chapter 11 - Disaster Risk Reduction and Building Resilience in the Hindu Kush Himalaya.
+
+
+                                                                                                                                         Page 2
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh              PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+HP will assist the GoHP in restoring key public infrastructure in the three most affected sectors, i.e., transport, water and
+sanitation, and power while revitalizing livelihoods and employment and advancing a comprehensive disaster risk
+financing and insurance (DRFI) strategy. Achieving these goals requires investments that simultaneously deliver: (a) the
+immediate recovery and reconstruction of critical assets; (b) institutional capacity-building for systemic risk reduction; and
+(c) robust financial mechanisms for disaster resilience. The design of READY-HP draws from the experience of previous
+recovery projects (see paragraphs 25 to 32) recognizing that post-disaster contexts offer a unique window of opportunity
+for institutional reforms and long-term resilience building. Central to this approach are more and better jobs: livelihood
+recovery will support sustained better job opportunities across agriculture, tourism, and small enterprises—helping
+restore incomes and build a more resilient local economy; more reliable public services (transport, water, and energy) will
+reduce disruptions and impacts on jobs and livelihoods; and reconstruction activities will generate temporary
+employment, providing immediate income support and minimizing disruptions to the labor market in the short term.
+7.      READY-HP will complement and closely coordinate with ongoing World Bank-financed operations in the state,
+including the HP State Roads Transformation Project (P163328), the HP Power Sector Development Program (P176032),
+the Shimla-HP Water Supply and Sewerage Services Improvement Program (P174732), and the Integrated Project for
+Source Sustainability and Climate Resilient Rain-fed Agriculture in HP (P165129). While these operations focus on overall
+sectoral strengthening, READY-HP will complement ongoing activities by enhancing institutional capacity for disaster and
+climate risk reduction, recovery, and construction of assets to higher structural performance standards.
+
+
+
+ II. PROJECT DESCRIPTION
+ A. Project Development Objective
+ 8.      The Project Development Objective (PDO) is to support resilient disaster recovery and livelihoods, and increase
+ state capacities for risk-informed development.
+
+
+
+
+                                                                                                                       Page 3
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                               PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+ B. Theory of Change and PDO Indicators
+
+
+
+
+                                                             Figure 1: Theory of Change
+
+ 9.        The Project will measure progress toward the PDO via the following indicators:
+           (a) People benefiting from climate resilient infrastructure (Number of people, disaggregated by gender and
+               youth)CRI, Climate
+           (b) Line departments integrating resilience analytics into risk-informed decision making (Number)
+           (c) People benefiting from new or better9 jobs (Number of people, disaggregated by gender) CRI, Gender
+
+ C. Project Beneficiaries
+10.     READY-HP is expected to benefit approximately 2.35 million people. This includes over 2 million people from
+disaster-affected communities, particularly those living in villages and cities along the Shimla, Mandi, Hamirpur, and
+Dharamshala zones, who will have more reliable access to transport connectivity, water and sanitation services, and
+
+9 Better jobs are defined as jobs with a salary increase of at least 10 percent between project beginning/baseline and project closing/endline.
+
+
+                                                                                                                                              Page 4
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh               PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+energy supply. Furthermore, about 12,000 artisans, farmers, and service providers, especially women, will benefit from
+higher income and more resilient livelihoods. Populations residing in flood-prone areas covered by the early warning
+system will gain access to critical information that supports preparedness for natural hazards and response actions. Finally,
+the line departments involved will benefit from increased capacity.
+
+ D. Project Components
+11.      The project design combines critical recovery investments in the most-affected infrastructure and livelihoods
+sectors with measures to create an enabling ecosystem for private capital mobilization, alongside long-term
+institutional reforms for resilience building. Component 1 focuses on strengthening institutional capacity and systems
+for resilience, while Component 2 supports recovery, rehabilitation, and reconstruction investments. The list of areas
+where the activities under the project will be implemented in the State of Himachal Pradesh, selected in accordance with
+World Bank policies and technical criteria, will be specified in the Project Operations Manual. Total International Bank for
+Reconstruction and Development (IBRD) financing for this project is US$245 million, including a front-end fee of
+US$612,500.
+12.    The project will include the following activities in selected areas (see Table 1), which are agreed between the
+GoHP and the World Bank and set forth in the Project Operations Manual (POM).
+                                            Table 1: Project Components and Activities
+
+                  Component                                      Activities                  Cost*         Implementing
+                                                                                         (US$ million,        Agency
+                                                                                           rounded)
+ Component 1: Institutional Strengthening and Reforms for Resilience (Total: US$156 million; of which IBRD:
+ US$44.8 million; GoHP: US$11.2 million; and PCM: US$100 million)
+ Sub-component 1.1: Institutional                  • Institutional mechanisms for         Total: 23.4    PWD, JSV, DoE,
+ strengthening and reforms of state                  resilience                           IBRD: 18.7     DMC
+ infrastructure departments                        • Resilience Guidelines for            GoHP: 4.7      JSV (flood risk
+                                                     infrastructure assets                               assessments)
+                                                   • Flood risk assessments
+ Sub-component 1.2: Institutional                  • Flood Zoning                        Total: 132.6    DMC
+ strengthening and reforms at state level          • Development Control                  IBRD: 26.1
+                                                     Regulations                          GoHP: 6.5
+                                                   • Flood Early Warning System            PCM: 100
+                                                   • Disaster Risk Financing and
+                                                     Insurance Strategy
+                                                   • Pilot Financing Instrument
+ Component 2: Resilient Infrastructure and Livelihoods Recovery (Total: US$225.1 million; of which IBRD: US$180.1
+ million; GoHP: US$45 million)
+ Sub-component 2.1: Resilient reconstruction • Roads                                     Total: 118.7    PWD
+ of roads, bridges, and public buildings     • Bridges                                    IBRD: 95
+                                             • Footbridges                               GoHP: 23.7
+
+                                                                                                                       Page 5
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh             PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+                                                  • Health Facilities
+                                                  • Education Facilities
+                                                  • Multi-purpose Relief Shelters
+ Sub-component 2.2: Resilient reconstruction • Water supply                             Total: 59     JSV
+ of water supply, sanitation, and irrigation • Sanitation                              IBRD: 47.2
+                                             • Irrigation                              GoHP: 11.8
+ Sub-component 2.3: Resilient reconstruction • HEP assets                              Total: 33.5    DoE
+ of power supply infrastructure              • Transmission lines and towers           IBRD: 26.8
+                                             • Small solar power plants                GoHP: 6.7
+                                             • Emergency restoration
+                                               systems
+
+ Sub-component 2.4: Resilient livelihoods         Value chain improvements in 12       Total: 13.9    DMC
+                                                  segments                             IBRD: 11.1
+                                                                                       GoHP: 2.8
+ Component 3: Implementation Support (Total: US$24.5 million; of which IBRD: US$19.5 million; GoHP US$5.05
+ million)
+ -                                                PMTCs                                Total: 24.5    DMC; PWD, JSV,
+                                                                                       IBRD: 19.5     DoE
+                                                                                       GoHP: 5.05
+
+ Component 4: Contingent Emergency Response (US$0 million)
+ -                                                                                          0         DMC
+*Not including a front-end fee of US$612,500
+
+13.      Component 1: Institutional Strengthening and Reforms for Resilience (Total: US$156 million; of which IBRD:
+US$44.8 million; GoHP: US$11.2 million; and Private Capital Mobilization (PCM): US$100 million). To systematically
+address Himachal Pradesh’s growing disaster and climate risks, this component aims at strengthening institutional
+capacity for resilient recovery and risk-informed development. Sub-component 1.1. will strengthen capacity in three
+selected public services departments in HP and sub-component 1.2. will enhance systems, analytics, and capacity at the
+state level that will benefit risk reduction efforts by multiple stakeholders.
+14.      Sub-component 1.1: Institutional Strengthening and Reforms of State Infrastructure Departments (Total:
+US$23.4 million; of which IBRD: US$18.7 million; GoHP: US$4.7 million). This sub-component focuses on strengthening
+the Public Works Department’s (PWD), Jal Shakti Vibhag’s (JSV), and the Directorate of Energy’s (DoE) institutional
+capacity, technical expertise and systems for resilient recovery, and more broadly, risk-informed planning, management,
+and operation of public service systems. To achieve this, dedicated resilience cells with clearly defined roles and
+responsibilities will be established in PWD, JSV, and DoE, by assignment of current staff to this specific role. These cells
+will be involved in the development of planned hazard and risk analytics, will take ownership of finalized models and
+hazard/risk information, and will support the departments with the application of this information for READY-HP activities
+and beyond. The process will be accompanied by targeted training and hands-on capacity building. Resilience cells may
+also be further supported by technical experts to ensure effective deployment, operation, and long-term maintenance of
+
+                                                                                                                     Page 6
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh                PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+the analytics and systems. As a result, the resilience cells will produce critical analytical outputs—including flood forecasts,
+landslide susceptibility assessments, flood protection strategies, resilience guidelines, and infrastructure risk
+assessments—to inform operation and maintenance planning, strategic decision-making, and investment prioritization.
+Institutional strengthening efforts will focus on formalizing standard operating procedures and strengthening inter-agency
+coordination to enhance efficiency and sustainability. Details regarding the staffing, operational linkages, and financial
+sustainability of these cells will be identified and documented in their respective establishment documents.
+15.      This sub-component will also support the development of guidelines for resilient planning, design, construction,
+and maintenance across key asset types, i.e., bridges, culverts, road, water supply, irrigation and sanitation, power
+generation, transmission, and distribution infrastructure as well as associated slope stabilization and erosion protection
+measures. These guidelines will be both informed by and applied to the rehabilitation and reconstruction of assets
+financed under Component 2; and consolidated for use beyond READY-HP to inform resilient reconstruction for
+infrastructure development across the state. Further, this component will support the development of guidelines for
+emergency procurement and contract management.
+16.     Sub-component 1.2: Institutional Strengthening and Reforms at State level (Total: US$132.6 million; of which
+IBRD: US$26.1 million; GoHP: US$6.5 million; and PCM: US$100 million). This sub-component supports institutional
+strengthening at the state level for resilient recovery, including strengthening financial resilience of the State, and risk
+mitigation across departments and districts. Key activities include: (a) developing flood plain zoning across select basins,
+demarcating flood-prone zones, and updating general development control regulations in select areas in both urban and
+rural contexts to ensure construction occurs in safe locations; (b) developing a flood early warning system (EWS) to enable
+early action for protecting power and other critical infrastructure as well as vulnerable population—building on existing
+sensors, forecasts, and modeling systems; and (c) establishing a robust institutional framework for DRFI, including the
+formulation of a state DRFI strategy and conducting assessment of DRFI options such as insurance for private assets (e.g.,
+housing) with incentives for retrofitting, livelihood protection instruments (e.g., for apple farmers), and state-level
+sovereign risk transfers. One proposed instrument is a mechanism that increases insurance coverage and expands
+insurability of homes, helping reduce the state's vulnerable housing stock. Pilot testing of selected financial products and
+mechanisms will be undertaken in collaboration with private sector, based on the assessment results. Based on the sector
+and instrument selected for pilots, this activity will include outreach and public awareness of insurance products and
+capacity building for the public sector institutions on risk transfer.
+17.      Component 2: Resilient Infrastructure and Livelihoods Recovery (Total: US$225.1 million; of which IBRD:
+US$180.1 million; GoHP: US$45 million). This component will support the resilient recovery of key public services, namely:
+transport (roads and bridges); public buildings; water, sanitation, and irrigation; and power supply, considering the impact
+of climate change on hazard intensities and frequencies. Assets critical for service provision and sites with high risk will be
+prioritized to develop best practices using innovative solutions. Hazard and risk analytics carried out under sub-component
+1.1 as well as site-specific analyses will be carried out to ensure resilience to disasters including the effect of climate
+change. Overall efforts under this component are expected to have a positive impact on livelihoods by reducing the impact
+of future natural hazards exacerbated by climate change, protecting and creating jobs through value chain enhancements,
+and ensuring continued access to transportation, water, and electricity.
+18.      Sub-component 2.1: Resilient reconstruction of roads, bridges, and public buildings (Total: US$118.7 million; of
+which IBRD: US$95 million; GoHP: US$23.7 million). This sub-component will support PWD to reconstruct and improve
+priority transport corridors, including roads with requisite slope stabilization, drainage, culvert improvements, and road
+
+
+                                                                                                                         Page 7
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                       PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+safety considerations; bridges with erosion protection; bridle bridges; and critical public buildings such as hospitals,
+schools, and multi-purpose relief shelters.
+19.      Sub-component 2.2: Resilient reconstruction of water supply, sanitation, and irrigation (Total: US$59 million;
+of which IBRD: US$47.2 million; GoHP: US$11.8 million). This sub-component will support reconstruction and
+improvement of water supply, sewage/sanitation and irrigation schemes, to address damages and integrate resilience
+considerations to ensure end-to-end functioning and service. Investments will be prioritized and designed using a system-
+based approach to ensure that they: (a) are multi-hazard risk-informed both in terms of siting and design; (b) address the
+full service chain – from intake to the end users; and (c) deliver measurable improvements in service quality, including
+continuous water supply, enhanced monitoring, and effective water treatment.
+20.     Sub-component 2.3: Resilient reconstruction of power supply infrastructure (Total: US$33.5 million; of which
+IBRD: US$26.8 million; GoHP: US$6.7 million). This sub-component will focus on repairs, reconstruction, and other
+interventions to restore and strengthen power supply, transmission, and distribution. This will be complemented by the
+procurement of emergency power restoration systems to enable faster responses to future power disruptions. The sub-
+component will also support the installation of 500 kilowatts solar power projects in 30 villages (panchayats) as part of
+the “Green Panchayat” scheme, which is currently being piloted for 20 panchayats under the World Bank-financed
+Himachal Pradesh Power Sector Development Program (P176032). This approach contributes to the decentralization of
+power production and creation of system redundancies that ensure power supply in case of network disruptions.
+21.      Sub-component 2.4: Resilient livelihoods (Total: US$13.9 million; of which IBRD: US$11.1 million; GoHP: US$2.8
+million). This sub-component will strengthen existing and establish new value chains for resilient livelihoods in the farm,
+non-farm, and rural tourism sectors across key business segments10 by targeting key bottlenecks. Technical Service
+Agencies (TSA) will be contracted for the different business segments to support the overall process of end-to-end value
+chain strengthening, starting with evaluations of the current products and services based on consumer interest.
+Subsequently, the TSA will identify, design, and implement key interventions for each value chain including: (a)
+establishing sustainable community business organizations (CBO) to organize artisans, producers, farmers, and service
+providers (the formation of CBOs will leverage existing networks and groups from the State Rural Livelihoods Mission and
+prioritize disaster-affected communities and areas); (b) providing technical support for product design, development,
+innovation, and creation of strategic market linkages, while incorporating disaster risk considerations; (c) delivering
+market-led trainings and skill upgrading to tailor products and services to consumer interest; (d) enhancing access to
+finance; (e) facilitating participation in marketing and trade events; (f) building a pipeline of market orders for CBOs; (g)
+supporting business continuity planning; and (h) strengthening disaster preparedness capacities. The value chain
+development will also include a grant facility accessible to CBOs (not individuals) to finance critical activities such as
+exposure visits, procurement of raw materials, and development of common facility centers, e.g., for production
+processes, infrastructure improvements, product innovation etc.
+22.     Component 3: Implementation Support (Total: US$24.5 million; of which IBRD: US$19.5 million; GoHP: US$5.05
+million). This component will finance hiring of staff and consultants in the project management unit and project
+implementation units, establishment of a procurement management information system, monitoring and evaluation
+(M&E), communications, training, and facilitation of exchange and learning across the project and between the
+implementing agencies. This includes support for Project Management and Technical Consultants (PMTC), who will
+
+
+10 Kullu Weaves, Chamba Embroidery, Chamba Footwear, Pine Needle Crafts, Chamba Metal Crafts, Wool Products, Apple Products, Seabuckthorn
+
+Berry Products, Turmeric Products, Hazelnut Products, Honey Products, and Community Based Tourism.
+
+                                                                                                                                   Page 8
+           The World Bank
+           Resilient Action for Development and Disaster Recovery Himachal Pradesh                       PROJECT APPRAISAL DOCUMENT
+           (P513815)
+
+
+
+provide regional and global expertise to advise on tailored solutions, transfer of knowledge, and build capacity in
+implementing agencies (IAs), particularly in the resilience cells.
+1.
+
+
+
+
+23.      Component 4: Contingent Emergency Response (US$0 million). This zero-cost component (no initial funding
+allocation) enables rapid reallocation of funds from balances of other project components for emergency response and
+recovery in case of an eligible crisis or emergency.
+
+     E. Role of Partners
+24.     The GoHP has expressed a strong interest in ensuring convergence across ongoing recovery and resilience
+projects, including the ongoing Agence Française de Développement (AFD)-financed Disaster Risk Reduction and
+Preparedness in Himachal Pradesh Project focused on strengthening of EWS. Collaboration is planned during the
+implementation stage to complement AFD activities (yet to be defined in detail) to further enhance EWS and tailor
+resulting information for decision support. Furthermore, the Coalition for Disaster Resilient Infrastructure expressed
+interest in partnering with READY-HP.
+
+     F. Lessons Learned and Reflected in the Project Design
+25.      The design of this project has benefited from the experiences of previous Emergency Recovery Loans in India;
+sectoral engagements in Himachal Pradesh across water, power, roads, and horticulture as well as resilience-building
+initiatives implemented in similar contexts worldwide. Specific lessons adopted include:
+26.     Strong institutional mechanisms are critical for anchoring recovery operations. Experiences from disaster
+recovery projects11 in Bihar, Odisha, and Uttarakhand demonstrate that empowering dedicated agencies with clear
+mandates for coordination and ensuring convergence is essential for effective and timely disaster recovery across multiple
+sectors. Accordingly, the Department of Revenue has been entrusted with that coordination role and avoiding duplication
+across multiple sources of financing for recovery.
+27.      Linking disaster recovery to long-term resilience ensures institutionalization of risk reduction measures.
+Experience from the Resilient Kerala Program (P174778) exemplifies how integrating disaster recovery with broader
+resilience building and development agendas through policy reforms, risk-informed planning, and dedicated financing
+mechanisms can institutionalize lessons and drive a shift from reactive to proactive risk management. Building on this
+approach, READY-HP has been designed to move beyond recovery and reconstruction, embedding long-term institutional
+reforms to strengthen systemic resilience.
+28.      Strategic procurement planning balances critical urgent needs with technically complex investments. Early
+identification of contract packages, realistic timelines, and capacity building for implementing agencies can enable faster
+delivery of urgent works while managing the complexities of large-scale, multi-sectoral investments. Accordingly, the
+project has prioritized the preparation of a Project Procurement Strategy for Development (PPSD) that identifies the
+packaging, appropriate procurement methods, and capacity building needs in advance, while responding to urgent post-
+disaster needs.
+
+
+
+
+11 Bihar Kosi Basin Development Project (P127725); Odisha Disaster Recovery Project (P148868); and Uttarakhand Disaster Recovery Project
+
+(P146653).
+
+                                                                                                                                           Page 9
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                     PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+29.     Integrated geohazard assessments are essential to infrastructure design in landslide prone Himalayan contexts.
+The project will draw from the experience of Uttarakhand Disaster Recovery Project (P146653) and technical assistance
+in Himachal Pradesh which underscores the importance of integrating detailed geohazard assessments using landslide
+susceptibility mapping, remote sensing, and hydrometeorological data into the design and siting of infrastructure.
+30.      Risk monitoring institutions need intensive technical engagement and dedicated human resources. READY-HP
+will draw on lessons from the establishment of the Mathematical Modelling Center in Bihar and Hydro-Informatics Unit in
+Assam to inform the design of the ‘resilience cells’ within infrastructure departments—particularly regarding the
+application of international and national technical expertise and the development of sustainable models for staffing and
+skill development.
+31.      Providing comprehensive end-to-end technical support including business skills training, mentorship, market-
+led insights, and access to finance to women-led businesses significantly increases job creation and livelihoods
+resilience. The design of sub-component 2.4 builds on lessons from previous projects, which demonstrate that bundling
+technical assistance (by combining skills training, strategic handholding, and financial support) significantly increases the
+likelihood that women-led enterprises will expand, hire additional staff, and remain operational over time, even in
+challenging environments.
+32.      Sustained capacity building and strong institutional ownership are essential for the successful implementation
+and sustainability of DRFI solutions in post-disaster contexts. Experiences with DRFI in the Pacific Islands, Indonesia, and
+the Philippines highlight that providing technical assistance and training to government officials— especially in ministries
+of finance and disaster management—is vital for understanding, designing, and uptake of DRFI instruments. Projects that
+invest in building local capacity through workshops, executive education, and peer learning, enable governments to make
+informed decisions, negotiate better insurance terms, and effectively integrate DRFI into public financial management
+systems. READY-HP will adopt an approach that enables joint learning among diverse stakeholders and tailors financial
+protection measures to the specific context of HP.
+
+ III. PROJECT IMPLEMENTATION
+ A. Institutional and Implementation Arrangements
+33.     The project will be implemented by four IAs, a Project Management Unit (PMU) housed in the Disaster
+Management Cell (DMC) in the Department of Revenue, along with three Project Implementation Units (PIUs), see
+Figure 2. The PMU will be responsible for overseeing day-to-day operations, project management, coordination, and
+reporting. In addition to its management role, the PMU will also serve as the implementation unit for the Disaster Risk
+Management and livelihood activities under sub-components 1.2 and 2.4. Three PIUs in PWD, DoE12, and JSV will be
+established within three months from loan effectiveness and will manage the recovery of critical transport corridors and
+public buildings, power sector recovery, water sector recovery and allied irrigation, and sanitation work (sub-components
+2.1, 2.2, and 2.3). The PIUs will also focus on institutional strengthening to ensure resilience and sustainability (sub-
+component 1.1). The PIUs will be supported by field-level teams for implementing works at the intervention sites.
+34.    To strengthen implementation capacity and facilitate knowledge transfer, PMTCs will support the PMU and
+each PIU in technical assistance, financial management, procurement, environment and social management, resilience-
+
+
+12 The PMU implementing the World Bank-funded Himachal Pradesh Power Sector Development Program (P176032) will also serve as the PIU for
+
+READY-HP, hiring additional human resources and expertise as needed.
+
+                                                                                                                                Page 10
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh            PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+focused design, quality assurance functions, capacity building, and M&E. PWD, JSV, and DoE will have each selected and
+engaged the services of PMTC before loan effectiveness.
+
+
+
+
+                                        Figure 2: Scheme of Implementation Arrangements
+
+35.     Governance. A Project Steering Committee (PSC) will be established within three months from loan effectiveness
+to provide overall strategic direction, inter-departmental coordination, and formally approve or amend project
+investments. Chaired by the Chief Secretary to GoHP, the PSC will comprise representatives from all relevant line
+departments, including the Departments of Finance, Planning, Environment, and Social Welfare. Furthermore, a Project
+Executive Committee, chaired by the Additional Chief Secretary of the Department of Revenue, will be established within
+three months from loan effectiveness and will serve as the principal operational body responsible for overseeing and
+supporting day-to-day implementation. It will assist the PMU with timely inter-agency coordination, regular decision-
+making for issues below PSC level, ensure financial discipline, and compliance with the POM to be adopted not later than
+three months after loan effectiveness.
+36.      Implementation readiness. GoHP has notified the implementation arrangements through Government Orders,
+namely, the formation of the PSC, Project Executive Committee, PMU, and PIUs. The PMU has on-boarded critical human
+resources, and all PIUs have assigned nodal officials for critical functions. The PMU and PIUs are in advanced stages of
+terms of reference development for their respective PMTCs with the aim of onboarding these agencies at the earliest.
+Once the PMTCs are onboarded, the PIUs will focus on enhancing existing development project reports specifying
+infrastructure interventions to adequately address natural hazards and ensure resilient reconstruction. Detailed proposals
+for the livelihoods business segments are also under development.
+
+ B. Results Monitoring, Evaluation, and Verification Arrangements
+37.      The PMU will be responsible for M&E. The PIUs will support the PMU in collecting and reporting data for the
+Results Framework and other data on all subcomponents, including: (a) social and environmental compliance; (b) technical
+quality; (c) physical and financial progress; and (d) procurement compliance.
+38.      The PIUs will establish a near real-time, geo-referenced monitoring system, while independent third-party
+quality reviews will ensure transparency, compliance, and accountability throughout implementation and across the
+project sub-components. The design of works will undergo independent technical review by accredited technical vetting
+institutions to ensure resilience, innovation, compliance with code provisions, incorporation of global best practices, and
+completeness with respect to the site-specific conditions of the state. The PIUs will adopt a two-tier supervision system
+
+                                                                                                                   Page 11
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh              PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+for civil works — one at the PIU level and another at the field level. Supervision will be supported by a near real-time, geo-
+referenced monitoring system developed in line with the project’s quality assurance and control guidelines. In addition,
+independent third-party quality reviews will be conducted at each stage of project implementation to ensure
+transparency, compliance, and accountability across all sub-components. Roads and bridges contracts will be monitored
+and supervised using the Real-time electronic Project Monitoring System created under the World Bank-financed
+Himachal Pradesh State Road Transformation Project (P163328). A comprehensive Results Framework and Monitoring
+system has been prepared, detailing targets, definitions, and intermediate results indicators, and is included in the POM.
+To facilitate the project’s learning agenda, comprehensive workshops will be organized at mid-term to extract lessons
+learned and make necessary adjustments, and again at project closing to consolidate and finalize lessons.
+
+ C. Disbursement Arrangements
+39.    The disbursement method will be ‘reimbursement’ and will follow Investment Project Financing (IPF)
+procedures. Reimbursement will be based on Quarterly Interim Unaudited Financial Reports submitted to the World Bank.
+40.     The project will be eligible for retroactive financing for payments made prior to loan signing but on or after March
+31, 2025, up to an aggregate amount not to exceed US$49 million of the loan for eligible expenditures on activities
+included within the project’s scope, provided these are procured in accordance with the World Bank’s procurement
+regulations.
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+ A. Technical, Economic and Financial Analysis
+41.     The sustainability of the project will be ensured across the following dimensions:
+        (a) Institutional: Capacity-building of government departments, technical staff, especially in the resilience cells,
+            and field teams will strengthen institutional ownership and reduce reliance on external support. Community
+            engagement and grievance redress mechanisms will promote local ownership and accountability, while
+            alignment with state and national programs will enhance financial and operational sustainability. Embedding
+            PIUs within existing departmental structures and involving resilience cells in project implementation,
+            supported by PMTC, will further institutionalize project practices and ensure continuity beyond the project
+            period.
+        (b) Physical: All planned investments focus on the repair, reconstruction, and improvement of assets damaged
+            during the monsoon season. To ensure resilience and sustainability, all site investigations will include risk
+            assessments, along with geological and morphological studies as required to inform design. Finally, the PMTCs
+            will support the PIUs in structuring effective operation and maintenance arrangements for the infrastructure
+            works, including exploring possibilities for future coverage by catastrophe insurance.
+        (c) Financial: The project will support the GoHP to quantify its contingent liabilities associated with disaster
+            events, develop a DRFI strategy that adopts a risk layering approach, and support the piloting of a risk transfer
+            mechanism. This will contribute to the GoHP’s financial stability by reducing the diversion of funds and fiscal
+            burden caused by disasters.
+42.    Paris Alignment. The operation is aligned with the goals of the Paris Agreement on both mitigation and
+adaptation. It is also aligned with the GoI’s goals related to climate change as described in India’s Updated First Nationally
+
+
+                                                                                                                      Page 12
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                          PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+Determined Contributions 2021-2030 (2022), India's Long-Term Low-Carbon Development Strategy 202213, and the
+Himachal Pradesh State Action Plan on Climate Change 2021-203014. With respect to mitigation, the GoI consistently
+underscores its strong commitment to renewable energy and low-carbon development across official documents and
+plans. With regards to adaptation, the GoI committed in the 2022 Nationally Determined Contributions to “better adapt
+to climate change by enhancing investments in development programmes in sectors vulnerable to climate change,
+particularly agriculture, water resources, Himalayan region, […] and disaster management”, India's Long-Term Low-Carbon
+Development Strategy 2022 highlights the need for adaptation financing, and HP’s State Action Plan on Climate Change
+2021-2030 lists sustainable eco-tourism expansion and sustainable water resource management while ensuring water
+supply.
+         (a) Assessment and reduction of mitigation risks. Most project activities are not expected to result in a significant
+             increase in greenhouse gas emissions and are considered Universally Aligned (UA). These include institutional
+             and capacity-building activities (Component 1), rehabilitation of power generation, transmission, and
+             distribution networks, and installation of solar photovoltaics (sub-component 2.3), resilient livelihood
+             interventions (sub-component 2.4), project management support (Component 3). Rehabilitation of roads and
+             bridges under sub-component 2.1 is UA, as no capacity expansion is foreseen. Water supply and sanitation
+             investments under sub-component 2.2 are UA. Irrigation activities under the same sub-component present
+             low mitigation risk and will ensure energy-efficient design and grid connection. The rehabilitation and
+             strengthening of health and educational facilities and the construction of multi-purpose shelters present low
+             mitigation risk. To mitigate this risk, these buildings will comply with national energy efficiency and building
+             codes, be connected to the grid to avoid on-site fossil fuel use and integrate all technically feasible and
+             economically viable energy-saving measures during design and construction. The installation of solar power
+             plants in panchayats under the “Green Panchayat” scheme will contribute to the reduction of emissions, and
+             the resilient recovery and rehabilitation of hydro power projects will ensure more reliable renewable energy.
+         (b) Assessment and reduction of adaptation risks. The project addresses key climate risks in Himachal Pradesh,
+             including cloudbursts, floods, landslides, and GLOFs, exacerbated by climate change (see paragraph 5 for
+             details), through a combination of institutional strengthening and resilient investments. Component 1
+             (institutional strengthening) contributes to systemic climate resilience through floodplain zoning, early
+             warning systems, and disaster risk financing instruments, as well as mainstreaming of resilience across
+             departmental operations through the establishment of resilience cells. Sub-component 2.1 (recovery of roads,
+             bridges, public buildings) addresses flood, landslides, and debris flow risks through the application of resilient
+             design standards (e.g., improved drainage, scouring protection, slope stabilization). Sub-component 2.2
+             (water, sanitation, irrigation systems) supports reliable service delivery by integrating flood, landslide and
+             drought considerations into systems recovery. Sub-component 2.3 (power) focuses on resilient reconstruction
+             and rehabilitation of hydropower plants and transmission/distribution networks considering floods and
+             landslides, as well as the decentralization of power production and service security during hazard events
+             through solar power plants in vulnerable panchayats. Sub-component 2.4 (livelihoods) enhances the resilience
+             of value chains through business continuity planning, improved storage, and pest surveillance systems.
+             Component 3 embeds adaptation in delivery systems through independent technical reviews. Component 4
+
+
+
+13 Ministry of Environment, Forest and Climate Change, Government of India (2022). India’s long-term low-carbon development strategy.
+14 Government of Himachal Pradesh, Department of Environment, Science and Technology: State Action Plan on Climate Change.
+
+
+                                                                                                                                        Page 13
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh              PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+            provides contingency financing for post-disaster reconstruction in an eligible crisis or emergency, as needed,
+            using climate-resilient standards, ensuring future-ready recovery.
+43.      Climate co-benefits. The project is designed to strengthen infrastructure and livelihoods' resilience alongside
+long-term institutional reforms for resilience building. It is expected to generate substantial climate co-benefits by
+strengthening adaptation across multiple sectors while contributing modestly to mitigation. READY-HP supports resilient
+reconstruction of roads, bridges, public buildings, water supply, sanitation, irrigation, and power infrastructure, all aimed
+at reducing vulnerability to climate risks. It enhances institutional capacity through floodplain zoning, early warning
+systems, and risk financing mechanisms, and further promotes climate risk‑informed planning and preparedness skills.
+Mitigation co-benefits arise from the rehabilitation and installation of renewable energy infrastructure such as
+hydropower and solar assets, contributing to cleaner energy systems. Overall, the project’s integrated design strengthens
+resilience, reduces climate risk exposure, and advances resilient recovery pathways for Himachal Pradesh.
+44.      Gender. Compared to the national average of 35.5 percent in India, the female labor force participation rate in
+rural Himachal Pradesh is high at 62.4 percent, yet still significantly lower than male labor force participation rate at 78.8
+percent. Of the employed women, 86.47 percent are vulnerably employed, which refers to lack of formal job arrangements
+(e.g., self-employment or informal jobs), social protection, and safety nets, compared to 49.43 percent of the employed
+men, resulting in higher levels of income instability. Himachal Pradesh’s traditional arts and small-scale agri-value chains
+are crucial venues of female employment, including Kullu handloom, Chamba embroidery, sheep wool knits, organic
+turmeric, and rural tourism where female participation exceeds 70 percent and women’s work forms the cultural and
+economic backbone of rural communities. However, gender disparities persist, and women artisans and producers often
+earn less than men in comparable roles and rarely hold decision-making or market-facing positions. Most operate
+informally, without insurance or access to institutional credit, resulting in unstable incomes. In the handloom and
+embroidery sectors, male traders and middlemen engage with the market, while in turmeric cultivation and homestay
+tourism, women face barriers in marketing, digital access, and ownership of assets. These value chains, though central to
+women’s local enterprise, remain structurally fragile—dependent on seasonal cycles, limited local demand, and vulnerable
+to external shocks. As a result of those circumstances and the vulnerable employment status, women are especially
+susceptible to impacts on their income when natural disasters strike, resulting from damaged livelihood assets, disrupted
+access to markets, increased transport cost/time, loss of customers etc. In tourism dependent valleys such as Parvati and
+Sainj in Kullu and Beas valley in Kangra, recurring disasters have led to evacuation of tourists and decline in homestay
+occupancy rates as well as sales of craft items. Floods, landslides, and cloudbursts have repeatedly disrupted tourism
+flows, destroyed weaving equipment, and damaged agricultural infrastructure. In the Kullu, Chamba, and Kangra valleys,
+declining occupancy in homestays and cancelled fairs have cut women’s income significantly due to disaster events.
+45.      To address the interlinked structural and disaster-induced vulnerabilities women face disproportionately, the
+project will focus on targeted value chains to enhance livelihood resilience. With technical support from specialized TSAs,
+activities will include: (i) forming and strengthening CBOs which are predominately women-led to improve bargaining
+power and market access; (ii) providing market-led and risk-informed skill training with a focus on women’s enterprise
+management; (iii) improving design, innovation, and product quality to enhance competitiveness of crafts and local agri-
+products; (iv) facilitating access to finance through grants to CBOs formed under the project for facilitating innovations in
+production, products, and market engagement to reduce vulnerability from income shocks; and (v) integrating business
+continuity planning and disaster preparedness into business operations. These interventions will directly target barriers
+limiting women’s economic mobility while ensuring that their enterprises can withstand climatic and hazard-induced
+
+
+                                                                                                                      Page 14
+      The World Bank
+      Resilient Action for Development and Disaster Recovery Himachal Pradesh             PROJECT APPRAISAL DOCUMENT
+      (P513815)
+
+
+
+disruptions and these outcomes will be captured in the results framework through the indicator: Women benefitting from
+new or better jobs (target: 9,000).
+46.     Citizen engagement. Citizen engagement will be integrated across multiple activities, and includes the following
+approaches: (a) participatory planning and implementation of various livelihood initiatives under sub-component 2.4 such
+as promoting local cuisine, revitalizing local art, strengthening ecotourism, and developing rural homestays, etc.; (b)
+conducting household surveys, focal group discussions, and consultations; (c) responding to feedback and resolving
+grievances raised by citizen through various grievance resolution platforms; (d) engaging a communications agency to
+support end-to-end water and sanitation service delivery through infrastructure recovery; and (e) forming and
+strengthening CBOs through capacity building to support community members to self-organize and to improve bargaining
+power and market access. Citizen engagement will be captured in the results framework through the following indicators:
+Community business organizations established, supported, and legally registered (target: 11); and Received grievances
+that have been addressed within 21 days (target: 75 percent).
+47.      The project is aligned with the World Bank Maximizing Finance for Development approach (MFD), contributes
+to Private Capital Enabling (PCE), and private investment generated through the project is counted towards PCM.
+        (a) The following sub-components are verified as MFD-enabling: Sub-component 1.1, Institutional Strengthening
+            and Reforms of State Infrastructure Departments will support the creation of a more resilient institutional and
+            regulatory environment including the establishment and operationalization of four resilience cells in
+            infrastructure departments to mainstream risk information into the departments’ operations. Sub-
+            component 1.2, Institutional Strengthening and Reforms at State level will contribute to the strengthening of
+            risk-informed development planning and disaster resilience by updating development control regulations to
+            integrate flood zoning and risk information, thereby reducing regulatory and locational risks for private
+            investors. Sub-component 1.2 will also support the development of a comprehensive DRFI assessment and
+            strategy, which will enable GoHP to secure pre-arranged financing, protect public budgets, and ensure a more
+            predictable and timely response to disasters. The engagement with insurers, reinsurers, and financial
+            institutions will create an enabling environment to engage in risk transfer solutions.
+        (b) Sub-component 2.4, Resilient Livelihoods is verified as PCE, as it will strengthen existing product and service
+            value chains and establish new value chains for resilient practices in the farm, non-farm, and rural tourism
+            sectors. Interventions are expected to result in 12,000 people benefitting from new or better jobs (PDO
+            indicator 3 – non-monetary), defined as new jobs or an income increase of at least 10 percent by project
+            closing, which will enable private capital through income increase.
+        (c) Sub-component 1.2 is also confirmed as PCM, as it will support the design of a disaster risk transfer model for
+            sectors identified through the DRFI strategy and pilot selected financial products or mechanisms. Options
+            discussed to date include insurance for private assets (e.g., housing) paired with incentives for retrofitting,
+            solutions for the protection of livelihoods (e.g., for apple farmers or tourism sector), insurance of public
+            infrastructure, or state-level sovereign covers. PCM of US$100 million is reflected in the results framework
+            through the intermediate results indicator Sum insured, i.e., risk transferred to insurance and reinsurance
+
+
+
+
+                                                                                                                   Page 15
+        The World Bank
+        Resilient Action for Development and Disaster Recovery Himachal Pradesh                               PROJECT APPRAISAL DOCUMENT
+        (P513815)
+
+
+
+              companies (US$)15. This includes a preliminary estimate of the houses and horticulture cropped area to be
+              insured in selected districts.
+48.      Economic analysis. An economic analysis was conducted for the physical infrastructure components of the
+project. The total project cost is expected to be US$406.25 million. The economic analysis quantifying the project benefits
+focuses exclusively on the recovery investments under Component 2, which amount to about US$225.1 million, or
+approximately 55.5 percent of the total project cost. At a 10 percent discount rate, the Net Present Value amounts to
+US$114.21 million, generating an Economic Internal Rate of Return of 16 percent, in line with recent similar projects. The
+primary project benefits are associated with increased resilience, as measured by the expected avoided losses from recent
+and future extreme weather events, and include a reduction in disruptions of approximately 230,000 jobs in agriculture
+and tourism. Moreover, Component 1 contributes important qualitative benefits related to institutional strengthening,
+equipping key departments with technical expertise, ensuring long-term sustainability of the project’s resilience
+investments. Component 3 enhances project delivery through continuous learning and capacity building. To ensure
+robustness, sensitivity analysis was performed by varying key parameters. The project remains economically viable when
+sensitivity analysis is conducted for increased costs (+20 percent), reduced benefits (-20 percent), and a combination of
+both. As not all benefits under Component 2 could be quantified, including the project’s expected contribution to reducing
+fatalities from extreme weather events, the quantified results presented in the economic analysis are considered to be
+conservative, likely underestimating the actual benefits of the project.
+
+
+ B. Fiduciary
+49.     Procurement will be carried out in accordance with the World Bank Procurement Regulations for IPF Borrowers,
+dated February 2025 (Procurement Regulations) and the additional provisions stipulated in the Loan Agreement. The
+World Bank’s “Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA
+Credits and Grants”, dated October 15, 2006 and revised in January 2011 and as of July 1, 2016 (Anti-Corruption
+Guidelines), and the provisions agreed in the Loan Agreement are also applicable. Based on the phase/period being
+defined as ‘emergency’, certain need-based flexibility in the processes and procedures to expedite procurement will be
+made available to the respective IAs.
+50.    DMC, as a nodal agency, will have overall responsibility for ensuring compliance, consistency in procurement
+process, and timely procurement reviews of contracts under the project. DMC, based on the finalized activities, agreed
+arrangements and market sounding and readiness assessment, has prepared PPSD, to help define the overall strategy,
+processes, procedures, and procurement arrangements and mitigation measures to be adopted.
+51.      No large-value civil works contracts are anticipated, and no contracts are expected to involve International
+Competitive Bidding. It was agreed that the IAs may use Government e-Marketplace (or Request for Quotations) for
+activities below US$500,000 for which the mechanism is already defined in the PPSD. For activities over these thresholds,
+the IAs will follow National Competitive Bidding (NCB) procedures unless agreed otherwise with the World Bank. The initial
+Procurement Plan prescribes the applicable procurement arrangements, including applicable review thresholds and
+methods, in line with the conditions agreed with the GoI related to National Competitive Procurement. The procurement
+
+
+
+
+15 This indicator measures the estimated monetary value of assets at risk that have been transferred from the public and private sectors to financial
+
+markets, compiled from product agreements and finance balance sheet data.
+
+                                                                                                                                            Page 16
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh              PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+plan will be uploaded to the World Bank’s Systematic Tracking of Exchanges in Procurement (STEP) system for the World
+Bank’s prior concurrence. No activity is expected to exceed the NCB threshold for Goods or Works.
+52.     While all four IAs have relevant experience, they lack specific knowledge in implementing IPFs. DoE and JSV are
+executing World Bank-financed program-for-results operations and PWD staff have experience in procuring similar civil
+works under GoI and State schemes; they have limited knowledge of IPFs. Furthermore, all the four IAs have experience
+of World Bank-funded operations but since IPF-specific knowledge and experience are limited, all IAs will need to ensure
+appointment of qualified procurement staff for implementation of the project by loan effectiveness.
+53.       Procurement arrangements: (i) each IA will hire PMTCs with the required skill set to support the agencies in all
+critical functions. In addition, all IAs will assign procurement staff to undergo procurement and STEP training; (ii) all IAs
+will use the State e-procurement system for all procurement and use the agreed World Bank‘s Model Bidding or Standard
+Request for Proposals Documents and ensure adherence to the National Procurement Procedures conditions defined in
+the procurement plan and PPSD; (iii) Government eMarketplace may be used as per agreed arrangement protocol for
+activities below thresholds mentioned above unless agreed otherwise; (iv) all procurement activities will be uploaded in
+STEP and prior approved by the World Bank; (v) robust complaint redressal mechanism will be put in place by the nodal
+agency; (vi) an information system to monitor procurements and contract management will be developed by the PMU
+which will reflect the status of all activities and also help in analyzing procurement performance; (vii) all bidding
+opportunities and awarded contracts will be disclosed on respective websites of the implementing agencies and/or project
+webpage, or any appropriate medium; (viii) an independent annual procurement review will be carried out for the project
+activities as per terms of reference agreed with the World Bank; (ix) an annual post review of certain percentage of
+contracts will be conducted by the World Bank to review compliance and facilitate timely corrective actions; and (x) the
+community level activities, if any, will be carried out as per the World Bank regulations. While the procurement activities
+are not expected to exceed NCB threshold, the difficult geographic terrain and nature of emergency activities, limited
+capacity of the implementing agencies, high-volume of civil work activities at decentralized level implemented by various
+divisions, and community level activities pose procurement, oversight, and contract management challenges. The overall
+residual procurement risk is assessed as Substantial.
+54.    Financial management. A financial management (FM) assessment was carried out during October 13-16, 2025, in
+accordance with the World Bank Policy and World Bank Directive on IPF. The FM arrangements described below are
+considered sufficient for accounting and reporting project expenditure. Adequate FM arrangements will be in place within
+three months of loan effectiveness, including the appointment of qualified financial management staff, as set forth in the
+POM.
+55.      Budgeting and planning. A specific budget head was created for READY-HP, with allocations planned for fiscal
+year 2025–2026 and 2026–2027. IBRD loan proceeds and counterpart funding will be routed through the state budget to
+the PMU and PIUs, under their designated Budget Heads within the departments' Demand for Grants. Distinct budget
+lines will be established for the PMU and each PIU. PIUs will prepare Annual Work Plans to inform their budgets, which
+the PMU will compile and submit for the Project Steering Committee approval. After approval, the budget will be
+submitted by the PMU and PIU to their respective departments for inclusion in the state budget.
+56.     Flow of funds. The state will prefinance expenses through its budget. Funds will be managed through Himachal
+Pradesh’s HIMKOSH system, with PIUs and PMU submitting expenditures under a dedicated budget head for payment
+processing. Payments will be processed online by the Drawing and Disbursement Officers designated for the project.
+
+
+
+                                                                                                                     Page 17
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh              PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+57.    Accounting. The treasury system will provide online accounts for the project. Monthly and daily reports can be
+generated from the system. Project accounts will be maintained on cash basis, in accordance with the government
+accounting system. All payments will be made electronically through the state treasury system. Maximum payments will
+be made using the online mode of payment. Each Drawing and Disbursement Officer will generate a printout of monthly
+cash book from the system and keep a copy of vouchers for audit purposes.
+58.    Financial reporting. Each PIU will compile expenditure details based on treasury records and share them with the
+PMU. The PMU will prepare and consolidate Interim Unaudited Financial Reports for the project and submit them to the
+World Bank within 45 days after the end of each calendar quarter.
+59.     Internal controls and regulations. All IAs will follow internal control frameworks in accordance with the HP
+Financial Rules, Central Public Works Department Accounting Manuals, and other departmental guidelines. For the
+envisioned grants in sub-component 2.4, specific FM arrangements will be documented in the Grant Manual, which will
+be adopted by not later than three months from loan effectiveness. Grants will constitute a separate disbursement
+category, for which adoption of the Grant Manual acceptable to the Bank will be a disbursement condition. A firm of
+Chartered Accountants will be appointed by the PMU to conduct semi-annual internal audits covering the PMU and IAs,
+in accordance with the terms of reference agreed with the World Bank. The PMU will share these audit reports with the
+World Bank.
+60.    External audit. The state office of the Comptroller and Auditor General will conduct the project audit annually, in
+accordance with the terms of reference agreed with the World Bank. A consolidated Annual Financial Statement will be
+prepared by the PMU and submitted to the Comptroller and Auditor General for audit. The audit reports need to be
+submitted to the World Bank within nine months from the end of the financial year.
+61.     Disbursement arrangements. The PMU will submit claims based on Interim Unaudited Financial Reports to the
+Controller of Aid, Accounts and Audit for verification. Once verified, the Controller of Aid, Accounts and Audit will request
+reimbursement from the World Bank. World Bank funds will flow from the GoI to the GoHP.
+62.     Loan funds will be disbursed under the following categories as per the disbursement percentage indicated in Table
+2.
+                                                 Table 2: Disbursement Schedule
+
+                                                                                              Percentage of expenditures
+                                                            Amount of the loan allocated         to be financed by the
+ Category
+                                                                (Expressed in US$)                    World Bank
+                                                                                                  (Inclusive of taxes)
+ Goods, works, consulting, non-consulting services,
+ trainings and workshops, and incremental                             233,262,500                      80 percent
+ operating costs for the project
+ Livelihood activities/Grants                                          11,125,000                      80 percent
+ Emergency Expenditures                                                    0                           100 percent
+ Front-end fee                                                          612,500
+
+
+
+
+                                                                                                                     Page 18
+         The World Bank
+         Resilient Action for Development and Disaster Recovery Himachal Pradesh                        PROJECT APPRAISAL DOCUMENT
+         (P513815)
+
+
+
+63.     Staffing. FM responsibilities will be handled by officers from the State Finance Services, designated as Financial
+Management Specialists at the PMU and PIUs. They will be supported by consultants (qualified Chartered Accountants)
+hired as part of the PMTCs. The PMU will ensure adequate staffing and periodic training.
+
+ C. Environmental, Social and Legal Operational Policies
+64.      Environmental risk rating is High due to significant potential for adverse environmental impacts stemming from:
+(i) project’s geographic setting in a fragile disaster-prone mountainous terrain with ecologically sensitive areas/features;
+(ii) nature of its infrastructure interventions; and (iii) limited familiarity/prior experience of the implementing agencies on
+the application and implementation of risk management requirements of the World Bank’s Environmental and Social
+Framework (ESF). Key environmental risks and impacts envisaged include: (i) mud/landslides, flooding, and soil erosion
+leading to slope destabilization; (ii) clearing and disposal of excess waste materials, scrap, and debris without effective
+sediment management resulting in safety issues of downstream population; (iii) disruption of services/usage of existing
+infrastructure during recovery works of bridges, culverts, roads, water treatment plants, irrigation and sanitation,
+electricity transmission/distribution lines, and buildings; (iv) occupational health and safety risks to workers, debris/waste
+management, dust and noise during execution of reconstruction activities; and (v) limited capacity constraints to deal with
+environmental and social (E&S) and occupational health and safety issues involving multiple implementing entities and
+sub-projects in a fragile disaster-prone mountainous terrain.
+65.      Social risk rating is High. As Environmental and Social Impact Assessments (ESIAs) will be undertaken during
+project implementation, the social risks and impacts envisaged at this stage include: (i) taking of private land and assets
+at certain locations for abovementioned works, permanent and temporary displacement; (ii) difficulty in identification of
+owners as land parcels have either been washed away and/or damaged; (iii) impacts on livelihood due to land take,
+restrictions on access to/use of forest land and resources, and also construction works that are likely to be prolonged in
+duration; (iv) potential impacts on tribal groups in case they meet environmental and social standard (ESS) 7 criteria; (v)
+risks relating to labor, labor influx, community health and safety, Sexual Exploitation and Abuse/Sexual Harassment
+(SEA/SH) risks as much of the construction labor is sourced from other states; (vi) possible exclusion of vulnerable groups
+from such recovery efforts due to inadequate stakeholder engagement and communication; and (vii) lack of familiarity
+and weak capacity of some of the PIUs. Associated facilities are not known at this stage and will need to be identified and
+confirmed when undertaking ESIA during project implementation. As the lists of sub-projects are being finalized and
+assessments will be undertaken later, the SEA/SH16 score is 11.5 and the SEA/SH rating is Moderate.
+66.     Based on the above, ESS 1, 2, 3, 4, 5, 6, 7, 8, and 10 are identified as relevant. At project appraisal, Stakeholder
+Engagement Plan (SEP) and Environmental and Social Commitment Plan (ESCP) have been prepared and disclosed17 on
+the GoHP website on November 9, 2025, and on the World Bank’s external website on November 10, 2025. As stated in
+the ESCP, the Environment and Social Management Framework, Labor Management Procedure, Resettlement Policy
+Framework (RPF), Indigenous Peoples Planning Framework, and SEA/SH risk mitigation plan will be prepared within two
+months of loan effectiveness and disclosed upon approval on the websites of the PMU and three PIUs. The ESCP lists the
+following key commitments: (i) assigning a senior official as a E&S nodal officer in the PMU; (ii) preparation and
+
+16 Using the rating tool for major civil works
+17 Links to the ESCP and SEP disclosed on the GoHP website (https://hpsdma.nic.in/index1.aspx?lsid=9059&lev=2&lid=5415&langid=1) and on the
+
+World Bank’s external website (ESCP: https://documents.worldbank.org/en/publication/documents-
+reports/documentdetail/099110925224035562 and SEP: https://documents.worldbank.org/en/publication/documents-
+reports/documentdetail/099110925224733961)
+
+                                                                                                                                    Page 19
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh             PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+implementation of the aforementioned framework documents and assessment and mitigation plans; (iii) reporting of
+incidents/accidents with prescribed timelines; (iv) operationalizing of Grievance Redressal Mechanisms, (v) for activities
+considered under retroactive financing and for any identified associated facilities, conducting of due diligence to assess
+compliance and development of corrective action plans, if required; and (vi) developing and implementing capacity
+building action plan to develop capacity on various E&S aspects. An accessible grievance mechanism to receive and
+facilitate resolution of concerns and grievances in relation to the project will be established and publicized before loan
+effectiveness.
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+ Legal Operational Policies                                                          Triggered?
+ Projects on International Waterways OP 7.50                                         Yes
+ Projects in Disputed Area OP 7.60                                                   No
+
+
+
+
+ 67.     Operational Policy 7.50, Projects on International Waterways (OP 7.50) of the World Bank is applicable to this
+ project because the project includes: (a) repair or rehabilitation of intake structures, retaining wall, rising main,
+ protection work belonging to existing water supply schemes and irrigation schemes that were damaged due to flood or
+ landslides; and (b) repair or rehabilitation of treatment systems and networks belonging to existing sewage/sanitation
+ schemes, in the basins of four major rivers—Satluj , Beas, Chenab, and Yamuna, which form part of international
+ waterways. The project’s repairs and rehabilitation activities qualify for an exception to the riparian notification
+ requirement under paragraph 7(a) of OP 7.50 as they meet the World Bank Policy’s four criteria for an exception. These
+ activities will also not cause cumulative impacts, either upstream or downstream, as they are restorative in nature,
+ without any additional intake or discharge compared to the pre-disaster situation. The exception to the notification
+ requirement was approved by the Regional Vice President for the South Asia Region, World Bank, on November 17, 2025.
+
+
+ 68.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+ supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+ Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+ project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+ independent Accountability Mechanism. The Accountability Mechanism houses the Inspection Panel, which determines
+ whether harm occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the
+ Dispute Resolution Service, which provides communities and borrowers with the opportunity to address complaints
+ through dispute resolution. Complaints may be submitted to the Accountability Mechanism at any time after concerns
+ have been brought directly to the attention of Bank Management and after Management has been given an opportunity
+ to respond. For information on how to submit complaints to the Bank’s GRS, visit http://www.worldbank.org/GRS. For
+ information on how to submit complaints to the Bank’s Accountability Mechanism, visit
+ https://accountability.worldbank.org.
+
+ V. KEY RISKS
+
+
+                                                                                                                  Page 20
+       The World Bank
+       Resilient Action for Development and Disaster Recovery Himachal Pradesh              PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+69.     The overall risk to achieving the PDO is Substantial. Technical design, institutional capacity for implementation
+and sustainability, and fiduciary risks are rated Substantial, and environment and social risks are High.
+70.      Technical design risk is Substantial. Disaster risk reduction in HP is challenging due to the complex terrain, and
+the significant exposure of public assets and the population to extreme rainfall, landslides, and floods. Designing tailored,
+effective yet cost-efficient solutions will require deep technical expertise and experience. In addition, due to the nature
+of the project prepared in situation of urgent need, limited information is available for each of the selected intervention
+sites, bearing the risk of unforeseen technical complexities during implementation. This risk will be mitigated by ensuring
+highly experienced PMTCs are employed to guide the PIUs during project implementation, bringing in global and regional
+best practices in geo-hazard risk assessments and mountain flood risk-informed designs for efficiently addressing risks
+through tailored engineering solutions.
+71.     Institutional capacity risk for implementation and sustainability is Substantial. While most implementing
+agencies under the project have prior or ongoing experiences of implementing externally aided or disaster recovery
+projects, READY-HP places additional demands on their capacities in the following ways: (i) intensive technical engagement
+in designing risk-informed investments, (ii) implementing recovery efforts from multiple financing sources without
+duplication, and (iii) undertaking institutional reforms for systemic change. These risks will be mitigated by ensuring that
+PIUs are adequately staffed and supported by the hiring of capable technical agencies at the onset to guide the design of
+investments and institutional reforms and the establishment of a high-level project steering committee to facilitate timely
+decisions on institutional reforms.
+72.     Fiduciary risk is Substantial. Procurement risk is Substantial due to the lack of prior experience among all
+implementing agencies with World Bank-funded IPF projects. Additionally, the high volume of civil work activities to be
+undertaken by PWD presents challenges related to compliance, consistency, and contract management, as well as
+increased oversight risks and possible delays in fund flows. The risk will be mitigated through a range of measures,
+including the onboarding of fiduciary personnel by all implementing agencies and the provision of targeted training. These
+actions will complement the project’s overall fiduciary arrangements. Financial management risk is Substantial, primarily
+due to the involvement of multiple implementing agencies and associated coordination complexities. These risks will be
+mitigated through several measures, including ensuring timely availability of budgetary allocations, utilizing computerized
+treasury systems for payments and accounting, deployment of dedicated finance staff across the PMU and PIUs, capacity
+building through regular training and support, finalization and implementation of the Grant Manual for livelihood activities
+to standardize and strengthen internal controls, and engaging audit firm for internal audit.
+73.     Environment and Social risk is High. The environment and social risk rating is High due to risks and impacts
+stemming from: (i) project’s geographic setting in a fragile disaster-prone mountainous terrain with ecologically sensitive
+areas/features; (ii) lack of familiarity with World Bank’s ESF requirements and weak capacity of some of the PIUs; and (iii)
+possible exclusion of vulnerable groups from such recovery efforts due to inadequate stakeholder engagement and
+communication. Further information on these risks and mitigation measures will be identified through the ESIAs which
+will be developed during implementation. In addition, project instruments such as the Environmental and Social
+Management Plan, Resettlement Action Plan etc. will be prepared based on the Environmental and Social Management
+Framework, RPF, SEP, and outline mitigation measures for the risks outlined above.
+
+
+
+
+                                                                                                                     Page 21
+       The World Bank
+       Himachal Pradesh Resilient Action for Development and Disaster Recovery                                 PROJECT APPRAISAL DOCUMENT
+       (P513815)
+
+
+
+                                                                        ANNEX 1. RESULTS FRAMEWORK
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                                                   Closing Period
+   Resilient disaster recovery supported
+   People benefiting from climate resilient infrastructure (Number of people) CRI
+   Oct/2025                                                                                   Mar/2031
+   0                                                                                          2,350,400
+     ➢People benefiting from climate resilient infrastructure - Female (Number of people) CRI
+   Oct/2025                                                                                   Mar/2031
+   0                                                                                          1,157,800
+     ➢People benefiting from climate resilient infrastructure - Youth (Number of people) CRI
+
+   Oct/2025                                                                                   Mar/2031
+   0                                                                                          446,576
+   State capacity for risk-informed development increased
+   Line departments integrating resilience analytics into risk-informed decision making (Number)
+   Oct/2025                                                                                   Mar/2031
+   0                                                                                          4
+   Livelihood resilience supported
+   People benefiting from new or better jobs (Number)
+   Oct/2025                                                                                   Mar/2031
+   0                                                                                          12,000
+     ➢Women benefiting from new or better jobs (Number)
+   Oct/2025                                                                                   Mar/2031
+   0                                                                                          9,000
+
+
+Intermediate Indicators by Components
+
+   Baseline                                                                                  Closing Period
+
+
+
+
+                                                                                                                                     Page 22
+
+
+                                                                                                                                  Official Use Only
+    The World Bank
+    Himachal Pradesh Resilient Action for Development and Disaster Recovery                             PROJECT APPRAISAL DOCUMENT
+    (P513815)
+
+
+Component 1: Institutional Strengthening and Reforms for Resilience
+Resilience cells established and staffed (Number)
+Oct/2025                                                                                  Mar/2031
+0                                                                                         4
+Resilience guidelines for specific categories of infrastructure assets developed (Number)
+Oct/2025                                                                                  Mar/2031
+0                                                                                         6
+Flood modeling and zoning completed (Yes/No)
+Oct/2025                                                                                  Mar/2031
+No                                                                                        Yes
+Development control regulations updated with reference to flood zoning (Yes/No)
+Oct/2025                                                                                  Mar/2031
+No                                                                                        Yes
+Flood early warning system developed (Yes/No)
+Oct/2025                                                                                  Mar/2031
+No                                                                                        Yes
+Disaster risk financing and insurance strategy developed (Yes/No)
+Oct/2025                                                                                  Mar/2031
+No                                                                                        Yes
+Sum insured i.e., risk transferred to insurance and reinsurance companies (Amount(USD))
+Oct/2025                                                                                  Mar/2031
+0                                                                                         100,000,000
+Component 2: Resilient Infrastructure and Livelihoods Recovery
+People provided with at least basic water (Number of people) CRI
+Oct/2025                                                                                  Mar/2031
+0                                                                                         925,980
+  ➢People provided with at least basic water - Female (Number of people) CRI
+Oct/2025                                                                                  Mar/2031
+0                                                                                         453,730
+  ➢People provided with at least basic water - Youth (Number of people)     CRI
+
+Oct/2025                                                                                  Mar/2031
+0                                                                                         175,936
+People provided with safely managed sanitation (Number of people) CRI
+
+
+
+                                                                                                                              Page 23
+
+
+                                                                                                                           Official Use Only
+    The World Bank
+    Himachal Pradesh Resilient Action for Development and Disaster Recovery                                                              PROJECT APPRAISAL DOCUMENT
+    (P513815)
+
+
+Oct/2025                                                                                   Mar/2031
+0                                                                                          69,920
+  ➢People provided with safely managed sanitation - Female (Number of people) CRI
+Oct/2025                                                                                   Mar/2031
+0                                                                                          34,260
+  ➢People provided with safely managed sanitation - Youth (Number of people) CRI
+Oct/2025                                                                                   Mar/2031
+0                                                                                          13,284
+Direct users that benefit from improved access to sustainable transport infrastructure and services (Number of people) CRI
+Oct/2025                                                                                   Mar/2031
+0                                                                                          1,282,000
+  ➢Direct users that benefit from improved access to sustainable transport infrastructure and services - Female (Number of people) CRI
+Oct/2025                                                                                   Mar/2031
+0                                                                                          628,180
+  ➢Direct users that benefit from improved access to sustainable transport infrastructure and services - Youth (Number of people) CRI
+Oct/2025                                                                                   Mar/2031
+0                                                                                          243,580
+People benefitting from access to climate resilient electricity (Number of people)
+Oct/2025                                                                                   Mar/2031
+0                                                                                          52,500
+  ➢People benefitting from access to climate resilient electricity - Female (Number of people)
+Oct/2025                                                                                   Mar/2031
+0                                                                                          25,725
+  ➢People benefitting from access to climate resilient electricity - Youth (Number of people)
+Oct/2025                                                                                   Mar/2031
+0                                                                                          9,975
+Roads rehabilitated/reconstructed (Kilometers)
+Oct/2025                                                                                   Mar/2031
+0                                                                                          160
+Road bridges and footbridges rehabilitated/reconstructed (Number)
+Oct/2025                                                                                   Mar/2031
+0                                                                                          276
+Multi-purpose relief shelters built (Number)
+
+
+
+                                                                                                                                                               Page 24
+
+
+                                                                                                                                                            Official Use Only
+    The World Bank
+    Himachal Pradesh Resilient Action for Development and Disaster Recovery                            PROJECT APPRAISAL DOCUMENT
+    (P513815)
+
+
+Oct/2025                                                                                 Mar/2031
+0                                                                                        10
+Education and health facilities rehabilitated (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        30
+Solar power plants installed in selected panchayats as part of the "Green Panchayat" scheme (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        30
+Assets at hydroelectric projects rehabilitated and/or resilience enhanced (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        5
+Transmission line emergency restoration systems available (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        3
+Power transmission and distribution lines restored or strengthened for resilience (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        3
+Water supply or sanitation/sewerage schemes rehabilitated/reconstructed for resilience (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        67
+Temporary jobs created (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        800
+Community business organizations established, supported and legally registered (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        11
+People received skill training (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        12,000
+New market-led products and services developed (Number)
+Oct/2025                                                                                 Mar/2031
+0                                                                                        114
+Component 3: Implementation Support
+
+
+
+                                                                                                                             Page 25
+
+
+                                                                                                                          Official Use Only
+    The World Bank
+    Himachal Pradesh Resilient Action for Development and Disaster Recovery           PROJECT APPRAISAL DOCUMENT
+    (P513815)
+
+
+Received grievances that have been addressed within 21 days (Percentage)
+                                                                           Mar/2031
+                                                                           75
+Component 4: Contingent Emergency Response
+
+
+
+
+                                                                                                            Page 26
+
+
+                                                                                                         Official Use Only
+           The World Bank
+           Himachal Pradesh Resilient Action for Development and Disaster Recovery                               PROJECT APPRAISAL DOCUMENT
+           (P513815)
+
+
+
+  Monitoring and Evaluation Plan: PDO Indicators by PDO Outcomes
+
+Resilient disaster recovery supported
+People benefiting from climate resilient infrastructure (Number of people) CRI
+                           This is a Corrporate Result Indicator (CRI). Measures the number of people benefitting from four types of resilient
+                           infrastructure: 2,350,400 estimated as follows: (a) transport infrastructure (roads: 510,000; bridges: 730,000 ;
+Description
+                           footbridges: 42,000), (b) water and sanitation infrastructure (925,980 + 69,920), and (c) power infrastructure -power
+                           supply (52,500); and (d) critical buildings (20,000).
+Frequency                  Quarterly.
+Data source                Progress reporting
+                           a) Transport infrastructure: roads: 510,000; bridges: 730,000 ; footbridges: 42,000
+                           b) Water and sanitation: 216,500 households connected to more resilient Water (201,300) and Sanitation (15,200)
+                           schemes at 4.6 persons per household
+Methodology for Data
+                           c) Energy supply: 52,500 direct consumers of Himachal Pradesh State Electrcity Board Limited infrastructure that will be
+Collection
+                           rehablitation/ reconstructed
+                           d) Buildings: emergency evacuation shelters: 1,750 at 250 capacity/shelter; hospitals at population of 3,000
+                           people/hospital; schools: 1,966 as per reported occupancy of identified schools
+Responsibility for Data
+                           PIUs in PWD, JSV and DoE, aggregated by PMU.
+Collection
+People benefiting from climate resilient infrastructure - Female (Number of people) CRI
+                           According to the 2011 Census females make up 49.26 percent of the population in Himachal Pradesh. This indicator will
+Description
+                           be calculated as percentage of the number of people benefiting from climate resilient infrastructure.
+Frequency                  Same as parent indicator.
+Data source                Same as parent indicator.
+Methodology for Data Same as parent indicator.
+Collection
+Responsibility for Data Same as parent indicator.
+Collection
+People benefiting from climate resilient infrastructure - Youth (Number of people) CRI
+                           According to the 2011 Census of India, youth (here defined as individuals aged 15 to 24) make up about 19 percent of the
+Description                population in Himachal Pradesh. This indicator will be calculated as percentage of the number of people benefiting from
+                           climate resilient infrastructure.
+Frequency                  Same as parent indicator.
+Data source                Same as parent indicator.
+Methodology for Data Same as parent indicator.
+Collection
+Responsibility for Data Same as parent indicator.
+Collection
+State capacities for risk-informed development increased
+Line departments integrating resilience analytics into risk-informed decision making (Number)
+                           Measures the utilization of resilience analytics produced by resilience cells to inform decision-making in the department,
+Description
+                           particularly for asset design.
+Frequency                  Biannual.
+Data source                Progress reports, study reports.
+Methodology for Data A scoring methodology will be developed and detailed in the POM, including frequency of engagement with resilience
+Collection                 cells, nature of resilience analytics, capacity building, and evidence of data driven decisions.
+Responsibility for Data
+                            PIUs in PWD, JSV, DoE, aggregated by PMU.
+Collection
+Livelihood Resilience strengthend
+
+
+
+                                                                                                                                                Page 27
+            The World Bank
+            Himachal Pradesh Resilient Action for Development and Disaster Recovery                                PROJECT APPRAISAL DOCUMENT
+            (P513815)
+
+
+People benefiting from new or better jobs (Number of people, disaggregated by gender) CRI GEN
+                        Number of people with a new job or an increase in yearly income of at least 10 percent. This indicator captures the
+Description
+                        number of jobs supported by gender activities.
+                        Once persons benefitting from the interventions are organized in the community business organizations, the baseline
+                        data collection on income levels will be carried out. For persons joining later, the data collection information will be filled
+Frequency
+                        in upon joining.
+                        Target will be assessed through data collection in last 6 months of the project.
+Data source             Primary Data from Baseline and Endline data collection.
+Methodology for Data
+                        Baseline and Endline data collection using quantiative and qualitative methods.
+Collection
+Responsibility for Data
+                         PMU.
+Collection
+
+
+  Monitoring and Evaluation Plan: Intermediate Results Indicators by Components
+
+  Component 1: Institutional Strengthening and Reforms for Resilience
+  Resilience cells established and staffed (Number)
+  Description            Measures the official establishment of resilience cells in PWD, JSV, DoE and DMC and engagement of staff.
+  Frequency              Biannual.
+  Data source            Relevant Notifications, Progress reporting.
+  Methodology for
+                         Documentation and reporting by PIUs and PMU.
+  Data Collection
+  Responsibility for
+                         PWD, JSV, DoE and DMC, aggregated by PMU.
+  Data Collection
+  Resilience guidelines for specific categories of infrastructure assets developed (Number)
+                         Measures the number of guidelines that will be developed for resilience considerations in transportation, water and energy
+  Description
+                         infrastructure.
+  Frequency              Biannual.
+  Data source            Reporting from PWD, JSV and DoE; guidelines documents
+  Methodology for
+                         Documentation and reporting by PIUs and PMU.
+  Data Collection
+  Responsibility for
+                         PWD, JSV and DoE, aggregated by PMU.
+  Data Collection
+  Flood modeling and zoning completed (Yes/No)
+                         Measures the completion of flood modeling carried out by JSV and maps/documents provided in format as requested by
+  Description
+                         DMC.
+  Frequency              Biannual.
+  Data source            Completed documents.
+  Methodology for
+                         Progress reporting.
+  Data Collection
+  Responsibility for
+                         JSV and PMU/DMC.
+  Data Collection
+  Development regulations updated with reference to flood zoning (Yes/No)
+  Description            Measures the completion of the updating of development regulations document and the adoption by GoHP.
+  Frequency              Biannual.
+  Data source            Completed document.
+  Methodology for
+                         Progress reporting.
+  Data Collection
+  Responsibility for     PMU/DMC.
+
+
+                                                                                                                                                  Page 28
+         The World Bank
+         Himachal Pradesh Resilient Action for Development and Disaster Recovery                                PROJECT APPRAISAL DOCUMENT
+         (P513815)
+
+
+Data Collection
+Flood early warning system developed (Yes/No)
+Description            Measures completion of an expanded flood early warning system for hydroelectric projects and downstream population.
+Frequency              Semiannual.
+Data source            System users.
+Methodology for
+                       Reports, demonstration, and visits.
+Data Collection
+Responsibility for
+                        JSV and DMC
+Data Collection
+Disaster risk financing and insurance strategy developed (Yes/No)
+Description            Measures the completion of the disaster risk financing and insurance strategy.
+Frequency              Biannual.
+Data source            Completed disaster risk financing and insurance strategy document.
+Methodology for
+                       Progress reporting.
+Data Collection
+Responsibility for
+                       PWD.
+Data Collection
+Sum insured, i.e., risk transferred to insurance and reinsurance companies (Amount(USD))
+                       Measures the estimated monetary value of assets at risk that have been transferred from the public and private sectors to
+Description
+                       financial markets.
+Frequency              Biannual.
+Data source            Compiled from product agreements and finance balance sheet data.
+Methodology for
+                       Modelling and studies.
+Data Collection
+Responsibility for
+                       DMC/PMU.
+Data Collection
+Component 2: Resilient Infrastructure and Livelihoods Recovery
+People provided with at least basic water (Number of people)
+                        Measures the number of people benefitting from resilient infrastructure for water supply. 201,300 households are
+                        connected to rehabilitated or reconstructed water supply schemes, at 4.6 persons per household, with access to at least
+                        basic drinking water as defined by the Joint Monitoring Program.
+                        Only households within the rehabilitated service area are counted. For schemes where rehabilitation is partial (limited to
+Description
+                        specific areas within zones or sources), only household connections within the rehabilitated service area that gain new
+                        access or improved service will be counted; where the entire source or headworks is damaged and requires rehabilitation to
+                        restore service or supply water to connections, all housheold connections linked to the rehabilitated source will be
+                        counted.
+Frequency               Quarterly.
+Data source             Progress reporting and JSV’s M&E system.
+Methodology for
+                        Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                        PIU in JSV
+Data Collection
+People provided with safely managed sanitation (Number of people)
+                       Measures the number of people benefitting from resilient infrastructure for sanitation. 15,200 households are connected to
+                       rehabilitated or reconstructed sanitation schemes, at 4.6 persons per household, with access to safely managed sanitation as
+                       defined by the Joint Monitoring Program. For schemes where rehabilitation is partial (limited to specific areas within a zone
+Description
+                       or safely managed treatment facility), only household connections within the rehabilitated service area that gain new access
+                       or improved service will be counted; where the entire safely managed treatment facility is damaged and requires
+                       rehabilitation to restore service, all households linked to the rehabilitated safely managed treatment facility will be counted.
+Frequency              Quarterly.
+
+
+                                                                                                                                               Page 29
+         The World Bank
+         Himachal Pradesh Resilient Action for Development and Disaster Recovery                            PROJECT APPRAISAL DOCUMENT
+         (P513815)
+
+
+Data source           Progress reporting and JSV’s M&E system.
+Methodology for
+                      Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                      PIU in JSV
+Data Collection
+Direct users that benefit from improved access to sustainable transport infrastructure and services (Number of people)
+                      Measures the number of people benefitting from roads and bridges reconstruction. Sustainable transport is defined as the
+Description           provision of improved transport services and infrastructure for mobility in a manner that is safer, more accessible, more
+                      efficient, and more resilient, while minimizing carbon and other emissions and environmental impacts.
+Frequency             Quarterly.
+Data source           Progress reporting and PWD’s M&E system
+Methodology for
+                      Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                      PIU in PWD
+Data Collection
+People benefitting from climate access to climate resilient electricity
+Description           Measures the number of people benefitting from the reconstrution of HEPs, energy assets and green panchayats.
+Frequency             Quarterly.
+Data source           Progress reporting and DoE’s M&E system
+Methodology for
+                      Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                      PIU in DoE
+Data Collection
+Roads rehabilitated/reconstructed (Kilometers)
+Description           Measures the completed kilometers of roads, including slope stabilization and drainage where required.
+Frequency             Biannual.
+Data source           Site visit and implementation progress reports.
+Methodology for
+                      Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                      PWD.
+Data Collection
+Road bridges and footbridges rehabilitated/reconstructed (Number)
+Description           Measures the number of completed road bridges and footbridges, including scouring protection where required.
+Frequency             Biannual.
+Data source           Site visit and implementation progress reports.
+Methodology for
+                      Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                      PWD.
+Data Collection
+Multi-purpose relief shelters built (Number)
+Description           Measures the number of completed multi-purpose relief shelters.
+Frequency             Biannual.
+Data source           Site visit and implementation progress reports.
+Methodology for
+                      Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                      PWD.
+Data Collection
+Education and health facilities rehabilitated (Number)
+Description           Measures the number of education and health facilities for which all planned interventions were completed.
+
+
+
+                                                                                                                                          Page 30
+         The World Bank
+         Himachal Pradesh Resilient Action for Development and Disaster Recovery                          PROJECT APPRAISAL DOCUMENT
+         (P513815)
+
+
+Frequency            Biannual.
+Data source          Site visit and implementation progress reports.
+Methodology for
+                     Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                     PWD.
+Data Collection
+Solar power plants installed in selected panchayats as part of the "Green Panchayat" scheme (Number)
+Description          Measures the number of completed installations of solar power plants at the panchayat level
+Frequency            Biannual.
+Data source          Site visit and implementation progress reports.
+Methodology for
+                     Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                     DoE.
+Data Collection
+Hydroelectric projects rehabilitated and/or resilience enhanced (Number)
+                     Measures the number of hydroelectric projects at which all planned interventions at the power houses and other assets have
+Description
+                     been completed.
+Frequency            Biannual.
+Data source          Site visit and implementation progress reports.
+Methodology for
+                     Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                     DoE.
+Data Collection
+Transmission line emergency restoration systems available (Number)
+Description          Measures the completed purchase of emergency restoration systems.
+Frequency            Biannual.
+Data source          Documentation of receipt of emergency restoration systems.
+Methodology for
+                     Progress reporting.
+Data Collection
+Responsibility for
+                     DoE.
+Data Collection
+Power transmission and distribution lines restored and strengthened for resilience (Number)
+                     Measures the number of power transmission towers for which planned interventions have been completed and transmission
+Description
+                     is operational.
+Frequency            Biannual.
+Data source          Site visit and implementation progress reports.
+Methodology for
+                     Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                     DoE.
+Data Collection
+Water supply or sanitation/sewerage schemes rehabilitated/ reconstructed (Number)
+Description          Measures the number of water supply schemes for which all planned interventions have been completed
+Frequency            Biannual.
+Data source          Site visit and implementation progress reports.
+Methodology for
+                     Site visits and revision of progress reports.
+Data Collection
+Responsibility for
+                     JSV.
+Data Collection
+Temporary jobs created (Number)
+
+
+
+                                                                                                                                        Page 31
+         The World Bank
+         Himachal Pradesh Resilient Action for Development and Disaster Recovery                            PROJECT APPRAISAL DOCUMENT
+         (P513815)
+
+
+                     Measures the individuals employed in the reconstruction and/or maintenance of resilient infrastructure assets under the
+Description
+                     project.
+Frequency            Biannual.
+Data source          Progress reporting from construction firms including labor and employment documentation.
+Methodology for
+                      Revision of labor and employment documentation.
+Data Collection
+Responsibility for
+                      PWD, JSV, DoE and DMC, aggregated by PMU.
+Data Collection
+Community business organizations established, supported and legally registered (Number)
+                      Measures the number of groups established and supported for specific products or services. This includes support to
+Description           organize community members into CBOs, followed by capacity buidling to support the effective governance, administration
+                      and market access of CBOs.
+Frequency             Biannual.
+Data source           Technical service consultant.
+Methodology for       Compilation of legal documents proofing the existence of the companies. (Total 11 estimated as follows: nonfarm CBOs: total
+Data Collection       6; farm based CBOs: 3; Horticulture based CBOs: 2)
+Responsibility for
+                      PMU.
+Data Collection
+People received skill training (Number)
+Description           Measures the number of people participating in targeted trainings that enhance the skill for a craft, product or service
+Frequency             Semiannual.
+Data source           Participant lists.
+Methodology for
+                      Signing in of all participants at each training.
+Data Collection
+Responsibility for
+                      PMU.
+Data Collection
+New market-led products and services developed (Number)
+Description           Measures the number of products newly developed or enhanced.
+Frequency             Semiannual.
+Data source           Progress report from technical service consultant.
+                      Listing provided by each of the community businesses organizations. (Total 114 estimated as follows: nonfarm products amd
+Methodology for
+                      services: total 60; farm based products amd services: 30; Horticulture based products amd services: 14; tourism
+Data Collection
+                      establishments100)
+Responsibility for
+                      PMU.
+Data Collection
+Component 3: Implementation Support
+Received grievances that have been addressed within 21 days (Percentage)CE
+Description           Measures the share of project-related grievances resolved satisfactorily.
+Frequency             Semiannual.
+Data source           Project Grieveance Redressal Mechanism.
+Methodology for       Exported reports of received grievances, including if they were actual grievances or other requests (e.g., requests for
+Data Collection       information) and if they have been resolved according to the underlying mechanism.
+Responsibility for
+                      PMU.
+Data Collection
+Component 4: Contingent Emergency Response
+
+
+
+
+                                                                                                                                         Page 32
+

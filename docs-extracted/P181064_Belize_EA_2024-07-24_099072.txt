@@ -1,0 +1,1574 @@
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Terms of Reference
+                                   Environmental And Social Assessment for the
+                               Upgrade of the Belize City Wastewater Treatment Plant
+
+
+
+
+Public Disclosure Authorized
+                                  Belize Blue Cities and Beyond Project (P181064)
+
+
+
+                                                        Draft 1
+                                                       May 2025
+
+
+
+Public Disclosure Authorized
+                                            BELIZE WATER SERVICES LIMITED
+                                              7 Central American Boulevard
+                                                    Belize City, Belize
+                                                                 Table of Contents
+1      INTRODUCTION ..................................................................................................................................... 5
+2      BACKGROUND ....................................................................................................................................... 5
+3      OBJECTIVES OF THE CONSULTANCY...................................................................................................... 8
+4      SCOPE OF WORK ................................................................................................................................... 9
+    Task 1: Environmental and Social Description of the Existing WWTP ...................................................... 9
+    Task 2: Description of the Proposed Project............................................................................................. 9
+    Task 3: Legal and Institutional Framework ............................................................................................. 10
+    Task 4: Baseline Data .............................................................................................................................. 10
+    Task 5: Audit of the Environmental and Social Aspects of the Existing WWTP. ..................................... 11
+    Task 6: Assessment of Environmental and Social Risks and Impacts ..................................................... 12
+    Task 7: Environmental and Social Management Plan ............................................................................. 13
+    Task 8: Analysis of Alternatives............................................................................................................... 13
+    Task 9: Stakeholder Engagement ............................................................................................................ 14
+    Task 10: Grievance Mechanism (GM) ..................................................................................................... 14
+    Task 11: Environmental and Social Capacity Assessment....................................................................... 14
+5      TIMETABLE AND DELIVERABLES.......................................................................................................... 14
+    Deliverable 1: Environmental and Social Assessment Report ................................................................ 14
+    Deliverable 2: BWS Environmental and Social Capacity Assessment Report ......................................... 15
+    Deliverable 2: Environmental, Social, Health & Safety (ESHS) Requirements for the Bidding Documents
+    ................................................................................................................................................................ 15
+6      KEY STAFFING REQUIREMENTS ........................................................................................................... 15
+7      DURATION OF THE CONSULTANCY ..................................................................................................... 16
+8      REPORTING REQUIREMENTS .............................................................................................................. 16
+The environmental and social assessment report shall be concise and limited to significant
+environmental and social issues. The main text must focus on findings, mitigation measures,
+conclusions, and recommendations, supported by summary of data collected and citation for any
+references used in interpreting those data. ............................................................................................... 16
+LOGISTICS .................................................................................................................................................... 16
+9      CODE OF CODUCT (CoC)...................................................................................................................... 16
+10 Annex I: Structured Process for the Borrower Capacity Assessment ................................................. 17
+    STEP 1: Identify key Environmental and Social (E&S) tasks .................................................................... 17
+    STEP 2: Mapping the Institutions and other Actors ................................................................................ 19
+    STEP 3: Analyse institutional arrangements and linkages ...................................................................... 22
+
+                                                                                  2
+  STEP 4: Assess the capacity of individual institutions ............................................................................. 23
+  STEP 5: Recommend actions to strengthen institutional capacity ......................................................... 26
+  STEP 6: Monitor capacity development indicators and adapt activities as needed .............................. 27
+11 Annex II: Potential indicators to assess E & S capacity development................................................. 29
+
+
+
+
+                                                                   3
+                           Abbreviations and Acronyms
+
+
+BOD    Biological Oxygen Demand
+BWSL   Belize Water Services Ltd
+COD    Chemical Oxygen Demand
+DOE    Department of the Environment
+EHS    Environmental Health and Safety
+ESA    Environmental and Social Assessment
+ESF    Environmental and Social Framework
+ESMP   Environmental and Social Management Plan
+ESS    Environmental and Social Standards
+GHG    Greenhouse Gas
+OHS    Occupational health and safety
+PUC    Public Utilities Commission
+WWTP   Wastewater Treatment Plant
+WB     World Bank
+
+
+
+
+                                         4
+     1 INTRODUCTION
+These Terms of Reference (ToR) are developed to guide the environmental and social due diligence
+provisions for activities financed by the World Bank in the Upgrade of the Belize City Wastewater
+Treatment Plant. The project will support to improve the management, and quality of wastewater
+treatment in Belize City, which is vital for ensuring environmental protection, including protection of the
+Belize Barrier Reef system. Belize Water Services Ltd. (BWSL) will be implementing the Project activities.
+
+This ToR follows the national laws and regulations of Belize and the World Bank Environmental and Social
+Framework (ESF) including the relevant requirements of the Environmental and Social Standards (ESSs),
+and the World Bank Environmental Health and Safety (EHS) Guidelines.
+
+The Environmental and Social Assessment (ESA) will be required to properly assess major impacts during
+the pre-construction, construction, operation, and maintenance of the upgraded wastewater treatment
+plant. The ESA will incorporate the establishment of the baseline environmental parameters which will
+become a base for the analysis of impacts. The ESA process will result in the formulation of the
+Environmental Social Management Plan (ESMP) for the purpose of avoiding, mitigating, or offsetting
+potential environmental impacts identified.
+
+     2 BACKGROUND
+The Belize City Wastewater treatment system, which was completed in 1979, extends over an area of 13.8
+square miles and currently services a population of 37,500 residents with a total of 8,200 connections.
+The 2.56% population growth in this part of the country has demanded the expansion and upgrade of the
+current wastewater treatment plant.
+
+The existing sewerage collection system in Belize City is a conventional gravity system comprising of sewer
+lines that collect sewage, grey waters, and some storm water runoffs. The system has been examined and
+is currently undergoing improvements to facilitate and aid with the upgrades on the wastewater
+treatment plant. The importance of the collection and treatment of wastewater in urban areas cannot be
+overstated; it is essential for the protection of human health and the environment. New challenges such
+as those from climate change require substantial investment for the maintenance of existing
+infrastructure and the implementation of mitigating measures. The proposed project, through the
+rehabilitation of the wastewater treatment plant in Southside Belize City, will benefit those at greater risk
+to these challenges, and will decrease marine pollution through improved wastewater treatment.
+
+The existing wastewater treatment plant is located at the Faber’s Road Extension area in the Southside of
+Belize City. Demographically, this area is considered one of the most impoverished and is often the focus
+of poverty alleviation efforts. Approximately 69% of the city’s population live in this area, with the
+population density also being much higher than the affluent Northside of Belize City (SIB, 2013).
+Moreover, the Port of Belize is also adjacent to the plant.
+
+While most of Belize City is susceptible to the effects of climate change, the most vulnerable are those
+without the resources to adapt and mitigate. The topography of the Faber’s Road Extension area is prone
+to flooding and residential infrastructure is inadequate for even tropical storm force winds. The lack of
+adequate infrastructure in the wastewater treatment echoes the marginalized state in the area.
+
+
+                                                     5
+The wetland surrounding the wastewater treatment plant includes an ecosystem for endemic birds and
+reptiles that co-exist under the current conditions, however, deteriorating water quality could pose a
+threat to their habitat. The Faber’s Road Extension area is also subjected to industrialized activity from
+the Port of Belize, subjecting the already vulnerable area to further impacts to their environment. Extreme
+rainfall events also pose additional risks to the wetland due to possible sewer overflow that could present
+a threat to public health and the environment, either through consumption of contaminated water or
+direct contact with polluted water bodies.
+
+The risks associated with the inadequate operation and installation of the WWTP will be significantly
+reduced with the upgrade. The water quality and environmental conditions will be improved for the
+ecosystems and surrounding community. The upgrade of the current WWTP will also provide safe and
+secure installations for the surrounding residents as well as the operating staff.
+
+On a wider scope the project will benefit additional population of Belize City, an efficient plant will provide
+the capacity to install more service connections to the WWTP, alleviating the threat of wastewater
+pollution to the groundwater and wetland areas seeping to the Caribbean Sea. The upgraded WWTP will
+also be a model for education, outreach, and awareness on the importance of adequate management of
+wastewater.
+
+
+
+
+Figure 1 Belize City Wastewater Treatment Plant
+
+The wastewater treatment plant consists of only secondary treatment which includes two facultative cells
+each covering an area of 15 acres and with a capacity of 20.5 million gallons. The project’s main objective
+is to renovate the existing system, improve and potentially expand the WWTP capacity considering
+population growth for the next 25 years and accommodate for future expansions for similar consecutive
+periods of time. The upgrade of the infrastructure must include i. desludging and disposal of the sludge
+
+
+                                                      6
+built-up and sludge treatment; ii. Construction of preliminary and primary treatment; iii. Upgrade of
+secondary treatment; iv. Construction of tertiary treatment; and v. Installations for operational and safety
+features including perimeter fencing, adequate lighting and security and office and laboratory workspace.
+All these above-mentioned activities will deliver a complete upgrade of the Belize City Wastewater
+Treatment Plant.
+
+•       Phase 1: Desludging and Disposal of the sludge built-up and Sludge treatment
+
+Includes the desludging of Facultative Cells 1 & 2 and the construction of drying beds. This phase aims to
+solve the inefficiency of the facultative cells in its current state by removing 75% of waterlogged sludge.
+Desludging will assist the system to operate as intended between its aerobic and anaerobic zones
+permitting for a lower TSS and BOD in the effluent in addition to the elimination of unwanted digestion
+on its surface removing the chance for short circuiting and formation of noxious gases. The sludge drying
+beds will work in conjunction with the facultative cells allowing for direct sludge loading and recirculation
+of filtrate to the cells providing for a higher quality effluent. Construction of drying beds will reduce the
+carbon footprint by having low energy and chemical consumption. Sludge treatment from the WWTP will
+also be incorporated into the updated design, as this is a by-product of the treatment and is a combination
+of organic matter from human waste, food waste particles, microorganisms, trace chemicals and inorganic
+solids. The sludge treatment will reduce the harmful microorganisms (such as pathogens) in sludge,
+lessening the health risks for the public and the environment. The drying beds will also used by the septic
+cleaning trucking services, to also treat their sludge.
+
+•       Phase 2: Preliminary and Primary Treatment
+
+Consist of the redesign and adequately sized preliminary treatment components, keeping the existing
+system fully functional and undisrupted. Initial works will entail the implementation of a preliminary
+filtration system with bar screens to remove large inorganic matter from the influent. The construction of
+a properly sized septic waste manhole will also be included, to facilitate the disposal of waste from sewer
+sludge trucks. Additional components include the installation of proper flow meters and sensors for the
+control and monitoring of the inflow. This primary treatment will increase the reduction of BOD from 70%
+in the current plant to a total of 90%.
+
+•       Phase 3: Upgrade of Secondary Treatment
+
+The secondary treatment upgrade will include the installation of an anaerobic pond after the facultative
+lagoons. The installation of the Anaerobic Pond after the preliminary treatment will foster the growth of
+bacteria to break down the organic matter in the wastewater. The gases produced from this process will
+be captured for potential re-use as biogas to eliminate any GHG emissions into the atmosphere. The
+existing lagoons will then be adequately dimensioned for an efficient and feasible treatment. The berm
+around the ponds will be redefined and an access road will be built on it for an easy access for proper
+supervision, monitoring, maintenance, and operations of the plant.
+
+•       Phase 4: Tertiary Treatment
+
+The existing plant does not have a tertiary system in place. Due to the high levels of Heterotrophic
+Bacteria, a UV system will serve as the tertiary treatment to further purify and disinfect the treated water
+to acceptable levels of faecal coliform with the main objective to reassure the treated water is up to
+
+
+                                                     7
+standards before being discharged into the environment. This treatment will also incorporate the
+realignment of the effluent canal, dredging to the design dimensions and the incorporation of a proper
+berm system along the channel. With the tertiary treatment the Wastewater treatment plant will be fully
+functional and operating up to standards. The current efficiency of the plant will be doubled, and the
+capacity of monitoring and operation of the plant will be significantly increased.
+
+•       Phase 5: Improvements to operational safety features
+
+This upgrade of the project includes the development and improvement of the entire compound
+considering the safety, security, and commodity of the wastewater treatment plant staff. It incorporates
+the construction of a perimeter fence to enclose the entire 294.95 acres of land and complete site lighting
+of the entire property. Cameras are to be installed in key areas for the secure monitoring of the property,
+lagoons, and water treatment plant. Additional landscaping for proper storm water drainage and
+maintenance of the property for future development and plant expansions and the incorporation of buffer
+trees for air filtration.
+
+     3 OBJECTIVES OF THE CONSULTANCY
+The objective of this consultancy is to assess the potential environmental and social impacts associated
+with the wastewater treatment plant (WWTP) upgrade and future operations and to design
+implementation measures to avoid, minimize, mitigate, and monitor the impacts. The consultancy will
+also assess and propose positive environmental and social impacts to be incorporated in the design,
+construction, and operation of the upgraded WWTP.
+
+The consultancy will conduct an Environmental and Social Assessment (ESA) of the WWTP that will consist
+of:
+
+1. An Environmental and Social Audit to assess key environmental and social areas of concern associated
+   with the existing WWTP operations.
+2. An Environmental and Social Impact Assessment (ESIA) of the potential environmental and social risks
+   and impacts of the planned upgrades and future operations of the WWTP.
+3. An Environmental and Social Management Plan (ESMP) that will detail measures to avoid, minimize,
+   and mitigate negative environmental and social impacts as well as propose positive environmental
+   and social measures during the design, construction, and operation of the WWTP.
+4. An Environmental and Social Capacity Assessment of the Belize Water Services to address
+   environmental and social issues.
+
+The ESA shall be conducted, and the report finalized prior to the finalization of the technical design of the
+WWTP upgrade. The draft reports shall be reviewed by the Employer (Belize Water Services) and the
+World Bank, and the consultant shall satisfactorily incorporate the feedback received before the final
+report is accepted. Therefore, the consultant shall budget sufficient time and resources considering these
+reviews.
+
+If separate consultancies are selected to conduct the ESA and the technical design, the two consultancies
+shall collaborate to ensure an integrated technical, environmental, social, health and safety evaluation. If
+one firm is selected to conduct both the ESA and the technical design, the ESA shall be an independent
+
+
+
+                                                     8
+assessment to support the objectivity of the ESA per the requirements of the ESF 1. To ensure
+independence, the individual consultants conducting the ESA will report to a separate environmental and
+social manager from the technical design team who will report to a technical manager, and the two
+managers shall report to the overall project manager.
+
+     4 SCOPE OF WORK
+Task 1: Environmental and Social Description of the Existing WWTP
+1. Provide a comprehensive overview (including through desktop studies, consultations with key
+   stakeholders, and fieldwork) of the E&S aspects of the existing WWTP and a detailed description of
+   the geographic, environmental, social, and temporal context. The overview should include
+   information on the specific location and characteristics of the site. Include relevant maps and layout.
+2. Describe the location of the existing WWTP and surrounding area and general layout, size and
+   capacity, environment, land uses, future development, sensitive receptors, communities,
+   demography, land ownership, structures of historical significance, cultural heritage etc.
+3. Describe the current operation of the existing WWTP. This shall include its efficiency (including energy
+   and water efficiency where relevant), compliance with applicable permits and discharge standards,
+   identification and description of the exact location, pathway and extent of WWTP effluent discharge
+   into the Caribbean Sea, emergency and disaster preparedness, WWTP labor and operations
+   personnel, occupational health and safety, and community health and safety.
+4. Review the design and performance requirements of the four drying beds that are under construction.
+5. Identify and assess the current stakeholder and community engagement policies and practices of the
+   WWTP operator.
+6. Identify and assess if there is a grievance procedure, and designated personnel, for dealing with
+   WWTP employees and working conditions and community complaints. Assess whether the operator
+   has received community complaints and how these have been dealt with. Conduct interviews as
+   necessary.
+Task 2: Description of the Proposed Project
+7. Describe the proposed activities to be financed under the Project. Focus on activities that are likely to
+   introduce adverse direct, indirect and if relevant cumulative impacts and positive impacts to the
+   environment and communities including pre-construction activities, construction activities, operation
+   and maintenance activities, any off-site investments etc.
+8. Identify and delineate the project’s direct, indirect and cumulative (if applicable) areas of influence
+   on maps of appropriate scales, highlighting the site layout and sensitive receptors such as flora, fauna,
+   water bodies, residential areas etc.
+
+
+
+1
+  ESS1 Para 25. The environmental and social assessment will be an adequate, accurate, and objective evaluation
+and presentation of the risks and impacts, prepared by qualified and experienced persons. For High and
+Substantial Risk projects, as well as situations in which the Borrower has limited capacity, the Borrower will retain
+independent specialists to carry out the environmental and social assessment.
+
+                                                          9
+9. Ensure that the area of influence includes locations that will be directly and indirectly impacted by
+   project activities such as (i) the area affected by the project activities and facilities that are directly
+   owned and managed by the project e.g., the physical project footprint, greenfield areas earmarked
+   for upgrades or expansion activities, areas adjacent to the project site that are affected by emissions
+   and effluents, effluent discharge, noise, traffic, odor, etc, and sensitive receptors that may be affected
+   in each case; (ii) any associated facilities per the definition in the ESF 2, (iii) indirect areas of impact
+   such as effluent reaching interconnecting receiving water bodies, management of sludge, and
+   sensitive receptors that may be affected in each case; (iv) cumulative impacts (if applicable) when
+   considering other current and foreseeable future stressors that may cause additional environmental
+   and social impacts such as additional sources of effluent discharge into the Caribbean Sea etc.
+Task 3: Legal and Institutional Framework
+10. Analyze the legal and institutional framework for the project, within which the ESA is carried out.
+11. Ensure that the ESA considers in an appropriate manner all issues relevant to the project, including:
+    a) Belize’s policies, legislation and institutional capabilities (including implementation) relating to
+       environment and social issues. The Effluent Limitations Regulations are enforced by the
+       Department of the Environment (DOE). They came into force in 1996 and prohibit the discharges
+       of effluent from new and altered point sources. The Effluent Limitations Regulations established a
+       licensing system for discharging effluents under specific conditions. The Effluent Limitations
+       Regulations also established the requirement for the treatment of effluent, as well as limitations
+       or standards for physical and chemical parameters to be monitored for various industries. The
+       regulations in the Forestry Act and Mines and Minerals Act must also me considered.
+
+12. Relevant international conventions or treaties, global or regional, to which Belize is signatory, and
+    which are directly applicable to the project activities. The upgrade will advance Belize’s obligation to
+    the Cartagena Convention, whose one of the main objectives of the convention is on pollution control,
+    it emphasizes on the implementation of measures to prevent, reduce, and control pollution from
+    various sources, including land-based activities and wastewater discharge from watersheds that drain
+    into Caribbean coastal waters that directly impact the marine environment. The outfall of the Belize
+    City wastewater treatment plant is into the Caribbean Sea, this upgrade will improve the water quality
+    of the outfall with the integration of tertiary treatment.
+13. Compare the existing applicable national laws and regulations with the relevant Environmental and
+    Social Standards (ESS) of the World Bank Environmental and Social Framework and identify the gaps
+    between them. Present this comparison in a table format.
+Task 4: Baseline Data
+14. Assemble, evaluate, and present available baseline data on the existing environmental and social
+    characteristics, with a focus on the aspects to be potentially affected by the upgrade of the WWTP.
+
+2
+ ESS1 Para 11 and footnote 12: For the purpose of this ESS, the term “Associated Facilities” means facilities or
+activities that are not funded as part of the project and are: (a) directly and significantly related to the project; (b)
+carried out, or planned to be carried out, contemporaneously with the project; and (c) necessary for the project to
+be viable and would not have been constructed, expanded or conducted if the project did not exist. For facilities or
+activities to be Associated Facilities, they must meet all three criteria.
+
+                                                           10
+    Include information on any changes anticipated before the start of the WWTP upgrade activities.
+    Identify key data gaps, and uncertainties associated with predictions. The consultant shall use
+    nationally or internationally accepted standards and accredited laboratories where sampling and
+    testing is required.
+   a) Physical aspects: Topography, soils, climate and meteorology, ambient air quality, existing sources
+       of air emissions and odors, surface hydrology and hydrogeology, coastal water parameters,
+       existing water pollution discharges, receiving body water quality, cultural heritage etc.
+
+   b) Biological aspects: Flora including mangroves; fauna including avifauna, ichthyofauna, any pests
+      and vectors; and habitats including the Burdon Canal Wildlife Sanctuary which is classified under
+      IUCN Management Category Ia, wetlands, and coastal environments. Conduct a biodiversity
+      baseline survey to classify the habitat as natural and/or modified and to identify any critical habitat
+      features in the Project direct and indirect area of influence following the requirements of ESS6.
+      Acquire an Integrated Biodiversity Assessment Tool (IBAT) report for the project location to
+      provide a summary of terrestrial and marine biodiversity data available. Supplement the IBAT data
+      with national, regional and international databases e.g., national red list, National Biodiversity
+      Strategic Action Plan, and any other sources of information available for the project location
+      including databases and community sources such as eBird for avifauna.
+
+   c) Social aspects: Demographic and socio-economic data, including description on the types of
+      community organization in the project area, stakeholder engagement.
+15. Conduct field surveys, sampling, interviews and/or consultation to complement secondary data. At a
+    minimum, field and primary data to be collected shall cover: (i) water samples from surface water,
+    groundwater and coastal water and test for relevant wastewater parameters (e.g., BOD5, COD,
+    Nitrogen, Phosphorus, E.coli, Fecal Coliforms etc.); (ii) surface and subsurface soil samples for pH,
+    organic carbon, nutrients and heavy metals; (iii) sludge samples; (iv) ambient air quality samples; (v)
+    samples at the WWTP outfall including coastal water samples and sediment sampling at the outfall
+    location in the Caribbean Sea; (vi) terrestrial and marine biodiversity survey.
+16. Describe the current and proposed development activities within the project area but not directly
+    connected to the project.
+17. The consultant should carefully define the scope of the baseline study to meet the needs of the ESIA.
+    The baseline data collected should be specific and relevant to the project and proportionate to the
+    level of risks and impacts. The consultant shall collect only the necessary information required to
+    develop baseline information and present it in a succinct manner. Irrelevant information or
+    information that is not distilled to provide useful baseline information shall not be accepted by the
+    Employer.
+Task 5: Audit of the Environmental and Social Aspects of the Existing WWTP.
+18. Describe the current management and maintenance of the WWTP with respect to relevant
+    environmental and social aspects. This shall include occupational health and safety (OHS), emergency
+    preparedness and response, and the environmental and social management system of the operating
+    entity.
+19. Assess and describe significant environmental and social issues associated with the existing WWTP
+    operations. The audit will assess environmental and social issues in line with the applicable laws and
+
+                                                    11
+   regulations of Belize, the relevant requirements of the World Bank ESF including relevant ESSs and
+   the World Bank EHS Guidelines. The consultancy will narrow down and focus only on the most
+   significant/key environmental and social issues.
+Task 6: Assessment of Environmental and Social Risks and Impacts
+20. Identify and assess all relevant environmental and social risks and impacts associated with the
+    upgrade of the WWTP including the construction and future operations.
+   a) Environmental risks and impacts include but are not limited to:
+       •   Soil, water and air pollution associated with the desludging of facultative ponds; drying,
+           disposal and management of biosolids/sludge, construction and operation of anaerobic
+           ponds, and effluent discharge.
+       • Earthworks activities that include drainage works and could impact the natural hydrology due
+           to such construction activities.
+       • Waste management including management of sludge, chemicals currently in use or proposed
+           to be used, hazardous waste, non-hazardous waste, and general construction and operation
+           stage waste management.
+       • The anticipated energy consumption of the upgraded WWTP
+       • The capacity of the discharge area in the Caribbean Sea to receive the additional effluent.
+       • Risks to terrestrial and marine biodiversity including the Burdon Canal Wildlife Sanctuary,
+           mangroves, wetlands, marine areas etc.
+       • Natural disasters such as floods and hurricanes and risks related to accidents that could result
+           in release of pollutants.
+       • Community health and safety including impacts from odor, soil and water pollution, natural
+           disasters, accidents, emergencies etc.
+       • Occupational health and safety risks including any hazardous work conditions that may
+           expose workers to unsafe work practices or exposure to hazardous materials.
+       • Climate change risks and impacts including from leakages and emissions of greenhouse gasses
+           (GHGs) from the upgraded WWTP and other project components, as relevant, following ESS3
+           requirements. The consultancy shall propose a suitable tool to calculate the GHG emissions.
+       • Other risks and impacts such as any new or complex technologies proposed to be used in the
+           WWTP; traffic disturbance and other road safety risks; noise, dust and other nuisances as
+           applicable.
+   b) Social risks and impacts include but are not limited to:
+       •   Risks to neighboring residential areas and businesses.
+       •   Risks that project impacts fall disproportionately on individuals and groups who, because of
+           their particular circumstances, may be disadvantaged or vulnerable. This includes the risk of
+           inequitable distribution of benefits.
+       •   Potential labor influx.
+       •   Economic and physical displacement/resettlement.
+       •   Cultural heritage risks
+       •   Inadequate community engagement and participation,
+       •   Designs that do not properly consider universal access.
+
+
+                                                   12
+21. Describe the above impacts quantitatively and classify each negative impact as High, Substantial,
+    Moderate or Low. The risks and impacts shall be classified into the design, construction and operation
+    stages of the project.
+22. Identify positive environmental and social measures to improve the design of the upgraded WWTP
+    including aspects such as water and energy efficiency, disaster and climate resilience measures,
+    measures to avoid release of GHG emissions into the atmosphere, community notification
+    procedures, emergency response measures etc. Describe other positive environmental and social
+    impacts following a similar procedure as described above.
+Task 7: Environmental and Social Management Plan
+23. Describe detailed measures, including technical details, to manage the environmental and social risks
+    assessed above following the mitigation hierarchy 3, including measures to avoid, reduce, and mitigate
+    impacts. The consultant shall ensure that the proposed measures are useful in decision making and
+    can be executed within the scope and resources of the project. The consultant shall identify the
+    contents that will comprise the ESMP depending on the findings of Task 5. This may include a Waste
+    Management Plan, OHS Management Plan, Hazardous Materials Management Plan, Water and
+    Energy Use Plan, Traffic Management Plan, Community Health and Safety Management Plan,
+    Biodiversity Management Plan, Emergency Preparedness Plan, Climate and Disaster Risk Resilience
+    Plan and Wastewater Effluent monitoring plan and others as relevant.
+24. Develop a Chance Finds procedure for excavations, demolitions, earth movements, flooding or
+    changes to physical environment in case previously unknown cultural heritage is encountered during
+    project activities.
+25. Develop a monitoring program as part of the ESMP. The program shall include the monitoring
+    objectives, parameters, methods, frequency, procedures, budget estimates, schedules, responsible
+    parties, staffing, training requirements, and other necessary support to implement the ESMP.
+26. The ESA consultant shall coordinate with the technical consultant to ensure that the ESMP budget is
+    integrated into the project’s overall planning, design, budget, and implementation.
+Task 8: Analysis of Alternatives
+27. Conduct an analysis of alternatives for the environmental and social aspects of the design,
+    construction and operation of the WWTP.
+28. Compare the alternatives in terms of potential environmental and social impacts, assuming
+    reasonable implementation of environmental and social mitigation measures and monitoring.
+29. Quantify the environmental and socio-economic cost and benefits for each alternative, inclusive of
+    mitigation measures, and attach an economic value where feasible.
+30. Identify the most suitable environmental and social alternative that will feed into the overall project
+    analysis of alternatives (e.g., technical, financial).
+
+
+
+
+3
+    The mitigation hierarchy is defined in The World Bank ESF under ESS1, paragraph 27.
+
+                                                         13
+31. Coordinate with the team undertaking the detailed design of the WWTP upgrade to identify the final
+    project alternative, taking into account the preferred and most feasible environmental and social
+    alternatives.
+Task 9: Stakeholder Engagement
+32. Conduct stakeholder consultations, in coordination with the Employer, following the Stakeholder
+    Engagement Plan (SEP) of the project.
+33. Identify perceived environmental and social impacts outside of those identified by the consultancy.
+    Acknowledge and analyze stakeholder concerns and determine as appropriate whether the project
+    area of influence, baseline, risks and impacts should be expanded to assess additional areas of
+    stakeholder concern.
+Task 10: Grievance Mechanism (GM)
+34. Develop two GMs, one for project workers, and another for community complaints. The GM shall be
+    in accordance with ESS2 and ESS10 of the World Bank ESF and the requirements of BWS. The GM will
+    have channels to update sexual exploitation and abuse / sexual harassment (SEASH) related
+    complaints, consistent with the WB Guidance notes.
+
+Task 11: Environmental and Social Capacity Assessment
+35. Conduct an institutional capacity assessment of BWS as part of the ESA. The assessment shall cover
+    environment, social, and health & safety staffing, capacity and performance, and environmental and
+    social management systems. The consultant is recommended to follow the standardized approach to
+    conduct the capacity assessment in the Annex or a similar robust approach.
+
+36. Recommend actions to strengthen the institutional capacity of BWS on environmental and social
+    aspects.
+
+     5 TIMETABLE AND DELIVERABLES
+Deliverable 1: Environmental and Social Assessment Report
+37. Prepare an Inception Report to document outlining the firm’s overall approach, timeline, detailed
+    methodology, stakeholder engagement plant, sampling points and budget.
+
+38. Prepare an ESA Report to document the findings of Tasks 1-10.
+
+39. Prepare an Executive Summary to highlight significant findings and recommendations. The proposed
+    length of this section is approximately 5 pages, and it should not exceed 10 pages.
+
+40. The Report shall be concise, efficiently structured, and limited to significant environmental and social
+    issues. The main text should focus on findings, conclusions and recommendations, supported by
+    summaries of the data collected and other references used in interpreting the data. The proposed
+    length of the main Report is 70 pages, and it should not exceed 90 pages. Useful data and
+    supplementary information should be presented in an Annex which is not counted as part of the main
+    Report. Therefore, the Consultant should emphasize the importance of conciseness and prioritize the
+    inclusion of relevant, high-impact data and analysis that contributes significantly to the understanding
+
+
+                                                    14
+    of the project's environmental and social implications. Irrelevant data or superfluous information
+    should be avoided.
+
+Deliverable 2: BWS Environmental and Social Capacity Assessment Report
+41. Develop a stand-alone BWS E&S Capacity Assessment Report to document the findings and
+    recommendations of Task 11. The Report shall follow the indicative outline provided in the Annex.
+    The proposed length of the final report is 20 to 30 pages.
+
+Deliverable 2: Environmental, Social, Health & Safety (ESHS) Requirements for the Bidding
+Documents
+
+42. Prepare detailed ESHS requirements for the bidding/procurement package for Works. The ESHS
+    requirements shall specify the Management Strategies and Implementation Plans (MSIPs) that
+    bidders will need to submit as part of their proposal and the subsequent MSIPs that will eventually
+    comprise the Contractor’s ESMP (C-ESMP). The ESHS requirements shall cover both the construction
+    and operation phases of the project.
+
+ Report                                                        Timetable (from contract signing)
+ Inception Report                                              3 weeks
+ First draft of the ESA                                        3 months
+ Second draft of the ESA                                       4 months
+ First draft of the E&S Capacity Assessment Report             5 months
+ Third draft of ESA                                            6 months
+ Second draft of the E&S Capacity Assessment Report            6 months
+ Final ESA                                                     7 months
+ Final E&S Capacity Assessment Report                          7 months
+ ESHS Requirements for the Bidding Documents                   8 months
+
+     6 KEY STAFFING REQUIREMENTS
+The Consultant team shall include professionals covering all skills and relevant experience (at least 10
+years), including experience in similar projects, required to carry out the described tasks. The selected
+team shall have knowledge of the current national environmental legislation and procedures, the WBG
+EHS Guidelines, as well as the World Bank ESIA requirements, including experience on organizing public
+consultations. The team will include the following experts:
+(i) project leader: graduate engineer with extensive experience in environmental management aspects
+related to wastewater treatment plants; minimum 10 years of working experience in the relevant field,
+including minimum two assignments with tasks as a projects leader of similar projects;
+(ii) environmental engineer/specialist: with expertise in pollution control, mitigation and knowledge of
+marine biology; minimum 10 years of working experience in the relevant field, with at least two
+assignments that included similar tasks;
+
+                                                   15
+(iii) Health and safety specialist: graduate degree in the field of health and safety, minimum 10 years of
+working experience in the relevant field, with at least two assignments that included similar tasks;
+(iv) Social Scientist/Socio-economic specialist: with expertise in social and economic impact assessment
+and social science research methods with; minimum 10 years of working experience in the relevant field,
+with at least two assignments that included similar tasks.
+
+
+      7 DURATION OF THE CONSULTANCY
+                                                                                  Month
+                                                                   1     2    3   4   5      6     7   8
+  1   Inception report
+  2   Review of existing data
+  3   Carry out necessary field assessments and social surveys
+  4   First draft of the ESA
+  5   Second draft of the ESA
+  6   First draft of the E&S Capacity Assessment Report
+  7   Third draft of ESA
+  8   Second draft of the E&S Capacity Assessment Report
+  9   Final ESA
+ 10   Final E&S Capacity Assessment Report
+ 11   ESHS Requirements for the Bidding Documents
+
+
+
+      8 REPORTING REQUIREMENTS
+The environmental and social assessment report and the ESMP shall be concise and limited to significant
+environmental and social issues. The main text must focus on findings, mitigation measures, conclusions,
+and recommendations, supported by summary of data collected and citation for any references used in
+interpreting those data.
+All the ESA deliverables will be subject to review and approval by BWSL and the World Bank. Adequate
+time and resources should be allowed for this review and approval process.
+
+LOGISTICS
+The consulting firm is to provide its local transportation, visas and all necessary documents for
+international travel and conducting assessments in Belize.
+
+
+      9 CODE OF CODUCT (CoC)
+The consultant shall sign and adhere to a BWS Non-Disclosure Agreement and code of conduct.
+
+
+                                                    16
+     10 Annex I: Structured Process for the Borrower Capacity
+        Assessment
+STEP 1: Identify key Environmental and Social (E&S) tasks
+Based on the project objectives, activities and location, identify the key tasks that are required to avoid,
+mitigate, or manage significant potential E&S risks and impacts. While the environmental and social
+assessment of the project will consider capacity in relation to a range of potential risks and impacts of the
+project, the assessment will focus specifically on labor and working conditions (ESS2), community health
+and safety (ESS4) and stakeholder engagement (ESS10). As noted above, this is because these are three
+areas where it is anticipated that Borrowers’ capacity may need to be strengthened. It is important to
+prioritize and focus on assessment and management of risks or impacts identified as significant in order
+to keep the scope of the assessment manageable and appropriate to the needs of the project. In addition,
+it is important to recognize that the nature and significance of various risks and impacts may need to be
+revisited as further information becomes available during project preparation.
+
+The relevant ESS and associated Guidance Notes for Borrowers help in identifying the types of risks and
+impacts and the key tasks required to address them. Table 1 below identifies different tasks which may
+be relevant in applying ESS1, ESS3, ESS5, ESS6, ESS7 and ESS8, while Table 2 identifies different tasks which
+may be relevant in applying the three standards (ESS2, ESS4 and ESS10) which would be subject to an in-
+depth assessment. The list is illustrative and should be adjusted or augmented as appropriate, based on
+the project-specific activities and associated potential E&S risks and impacts. Where it is known that
+several related tasks will be carried out by the same institution, these can be consolidated into a single
+task. If the list of tasks is too long the assessments and analyses outlined in Steps 2-5 may become
+impractical or impossible to complete within a reasonable budget and timeframe.
+
+Table 1. Typical tasks for project-level E&S risk management.
+ Task                          Specific responsibilities
+ ESA                           Scope and preparation of TORs
+                               Carry out assessment process (including specialized assessments as
+                               appropriate 4)
+                               Public disclosure and consultation
+                               Clearance or approval of ESA documents
+                               License or permits for construction and operation
+ E&S mitigation planning       Preparation and/or adaptation of mitigation and management plans
+ (such as ESMP,                based on results of E&S assessment process
+ biodiversity plan, etc.)      Public disclosure and consultation
+                               Allocation of institutional responsibilities for mitigation and monitoring
+                               measures
+                               Identification of organizational, financial and human resource
+                               arrangements for implementing every mitigation and monitoring
+                               measure
+                               Supervision
+
+4 e.g., biodiversity assessment, social conflict analysis, cumulative impact assessment, etc.
+
+
+                                                     17
+ Ensure implementation      Enforcement
+ of E&S management          Contractor and subcontractor (if applicable) management
+ measures                   Monitoring and reporting
+                            Training and other capacity development activities
+                            Adaptive management (adjusting project design and/or mitigation
+                            measures based on changing circumstances and/or results of monitoring
+                            progress of indicators)
+ Land acquisition and       Carry out baseline survey
+ resettlement planning      Carry out detailed survey, including property valuation
+ (preparation of            Definition of eligible parties and their respective entitlements
+ Resettlement Policy
+                            Identification of resettlement site
+ Framework [RPF] and/or
+ Resettlement Action Plan   Identification or development of livelihood restoration support plan
+ [RAP])                     Design of grievance mechanism or dispute resolution for land acquisition
+                            or resettlement
+                            Public disclosure and consultation
+ Land acquisition and       Disbursement of compensation
+ resettlement               Physical resettlement, including development of resettlement site
+ implementation             Implementation of livelihood restoration plan
+ (including financing)
+                            Title transfer and/or mutation (for land and/or physical assets)
+                            Monitoring of resettlement process
+                            Grievance management for land acquisition/resettlement
+                            Adaptive management (revising plans as needed based on monitoring,
+                            grievances, etc.)
+                            Public disclosure and consultation
+                            Post resettlement review or audit
+
+Table 2. Typical tasks for project-level E&S risk management with focus on ESS2, ESS4 and
+ESS10.
+ Issue                      Specific tasks
+ Labor    and     Working Identify different types of project workers
+ Conditions (ESS 2)
+                          Identify key labor risks
+
+                            Prepare Labor Management Procedures
+
+                            Prepare and implement Labor Management Plans
+
+                            Monitor compliance with Labor Management Plans/Procedures
+
+                            Identify OHS measures
+
+                            Establish and maintain grievance mechanism(s) for workers
+                            Prepare procedures for managing third parties
+                            Identify primary suppliers and assess risks related to primary supply
+                            workers
+
+
+                                                18
+ Community health and Identify infrastructure or other elements of a project which could present
+ safety (ESS 4)       safety risks to affected communities or other parties, including exposure
+                      to operational accidents or natural hazards such as extreme weather
+                      events
+
+                              Establish and enforce design and construction standards to minimize the
+                              above safety risks
+                              Review design and construction of structural elements of the project
+                              which have been identified as potentially presenting safety risks to
+                              communities (e.g. dams)
+
+                         Conduct road safety assessments, and preparation, implementation and
+                         enforcement of traffic and road safety plans
+                         Plan and carry out measures to protect provisioning and regulating
+                         ecosystem services identified as important to communities and
+                         potentially adversely affected by the project
+                         Monitor incidences, implement measures to minimize exposure, and
+                         (where needed) provide treatment for communicable and non-
+                         communicable, water-related and vector-borne diseases.
+                         Identification/analysis, safe removal, storage and/or destruction of
+                         hazardous materials
+                         Prepare risk/hazard assessments and development and implementation
+                         of emergency response plans
+                         Identify and incorporate climate change considerations in project designs
+                         Establish and enforce quality standards, and advise on incorporation of
+                         health and safety considerations (and universal access, where feasible) in
+                         provision of services to communities
+                         Establish and enforce standards of conduct for security personnel,
+                         including providing training, verification of past records, reporting
+                         unlawful or abusive acts and punishing perpetrators
+ Stakeholder engagement Identify and map stakeholders
+ planning            and
+ implementation (ESS10)
+                         Develop stakeholder engagement plans
+                         Implement stakeholder engagement activities
+                         Establish and operate grievance mechanisms
+                         Conduct Information disclosure for stakeholder engagement and project
+                         as a whole
+                         Conduct ongoing stakeholder engagement
+                         Practice adaptive management, revising project design or implementation
+                         as appropriate, based on ongoing stakeholder engagement
+
+STEP 2: Mapping the Institutions and other Actors
+Step 2 involves identifying the institutions and major actors that will be involved in project preparation
+and implementation and clarifying their respective roles and responsibilities in implementing each of the
+tasks identified in Step 1. The information on which this institutional mapping is based is likely to come
+
+
+                                                   19
+from legal documents, consultations and interviews as well as secondary sources such as previous
+environmental and social assessment reports.
+
+While the specific institutions and actors responsible for project development and implementation will
+vary, the ones most commonly involved are set out in Box 1. For some projects, some of the entities may
+have multiple or overlapping roles.
+It is useful at this stage to carry out a general mapping of the institutions and other actors involved. Table
+3 illustrates such a mapping for the stakeholder engagement tasks identified in Step 1. By identifying
+different responsibilities, the mapping helps to clarify the institutional structure for project preparation
+and implementation. This includes identifying potential areas of overlapping responsibilities or possible
+gaps in responsibility. This mapping provides the basis for a more thorough analysis of the institutional
+arrangements, responsibilities and links in Step 3. A second example of institutional mapping is provided
+in Table 3.
+
+
+                           Box 1. Most common institutions and actors responsible
+                                for project development and implementation
+
+          •   Project sponsors and developers: Government ministries and agencies, state owned
+              enterprises, entities overseeing projects, and private sector investors.
+          •   Project implementers: Project Implementation Unit (PIU), Program Management Unit
+              (PMU), and central and local government entities (ministries or other departments with
+              supporting roles).
+          •   Other actors: Entities that may be responsible for developing and/or implementing specific
+              aspects of a project (e.g., NGOs and CSOs).
+          •   Legislators and policymakers: Legislative entities and policymakers at the national and
+              subnational level.
+          •   Regulators: Government ministries, compliance, and enforcement authorities at the national
+              or subnational level.
+          •   Advisors and Consultants: Engineering firms or government bureaus providing technical
+              design or operational services, law offices providing legal services, or other consultancies
+              providing E&S risk management related services.
+          •   Contractors and subcontractors: Contracted or subcontracted providers of construction and
+              other project-related services
+          •   Stakeholders: Parties likely to be affected by the project or have an interest in it (project-
+              affected parties and other interested parties, per ESS10), including local communities,
+              national and local authorities, suppliers, NGOs
+          •   Lenders and development partners: Multilateral development banks (MDBs), bilateral
+              donors, Multi-donor Trust Funds, and commercial banks.
+
+
+
+
+Table 3: Example of a mapping for the stakeholder engagement tasks
+                      Institution/Party Responsible for Task
+ Key Task             Ministr Sector       Local         Regulat         Project          Supervisin Contract
+                      y     of ministry governmen or                     Implementi       g engineer or
+                      Financ ,             t unit                        ng
+                      e         authorit                                 Unit
+                                y
+
+                                                       20
+ Stakeholder                     X          X                           X
+ identification &
+ mapping
+ Develop                                    X                           X
+ Stakeholder
+ Engagement Plan
+ Implement                       x          X                           X                             x
+ stakeholder
+ engagement
+ activities
+ Establish                       x          x                           X                             X
+ grievance
+ mechanism
+ Operate                         X          X                           X                             X
+ grievance
+ mechanism
+ Disclose                        X          x                           X                             x
+ information for
+ stakeholder
+ engagement
+ Conduct ongoing                 X          x                           X                             X
+ stakeholder
+ engagement
+Mapping Example
+The following Table (Table 4) provides another example of mapping the roles and responsibilities of
+various institutions and actors, with respect to implementing specific tasks identified in Step 1 for a
+component of a hypothetical sanitation project. This matrix helps to clarify the institutional structure for
+project implementation, including identifying potential areas of overlapping responsibilities, gaps, etc. In
+this example, the significant role of the PIU is clear, as its responsibilities extend across all project tasks.
+At the same time, there are multiple and potentially overlapping responsibilities for some aspects such as
+supervision and information disclosure which are spread among almost all project institutions.
+
+Table 4. Example of a matrix for analyzing the roles of institutions and actors for project-level
+tasks
+ Project: Supporting construction of a wastewater treatment plant
+                  Institution Responsible for Task
+ Key Task         PIU            Environment Water           Local         Water       Supervisin    Contractor
+                                 al regulator     authorit   governmen     company     g engineer
+                                                  y          t unit
+ Supervision      X              X                X          X             X           X
+ Enforcement      X              X                           X
+ Contractor       X                                                        X
+ management
+ Monitoring       X                                                        X           X
+ and reporting
+
+
+
+                                                      21
+ Training and         X                 X                   X                                                             X
+ other capacity
+ development
+ Adaptive             X                                     X             X                X              X               X
+ management
+ Information          X                 X                   X             X                X                              X
+ disclosure
+
+X indicates a role in implementation of the task
+
+STEP 3: Analyse institutional arrangements and linkages
+Step 3 takes a broader view of the overall institutional structure for project implementation. It focuses
+on:
+
+(i) clarifying the specific roles and accountabilities of the institutions and other actors identified in Step
+      2 in implementing the tasks identified in Steps 1.
+(ii) identifying any gaps, areas of overlap, excessive fragmentation of responsibilities, potential
+      redundancies or conflicts, etc.
+(iii) evaluating the effectiveness of lines of communication and coordination mechanisms among the
+      institutions, with emphasis on those with overlapping or complimentary roles.
+
+This analysis is important for identifying potential issues that could undermine project development and
+implementation. It provides the basis for designing measures and providing recommendations aimed at
+ensuring that the project’s institutional structure is as clear, effective and efficient as possible. Box 2
+provides suggested questions that would be asked for each of the tasks identified in Step 1.
+
+
+        Box 2. Key questions to assess institutional roles and responsibilities for implementation of identified tasks
+ •     Is there a clear governance structure for this task?
+ •     If the responsibility for implementation of the task is shared among two or more institutions/actors, are there effective lines of
+       communication and coordination mechanisms among the institutions involved?
+                 What structures, mechanisms and forms for agreed communications and coordination among and within
+                  organizational units exist?
+                            Structures can be formal, e.g. units established for specific communications purposes such as committees,
+                             working groups, individuals tasked with specific responsibilities etc. or informal, like existing reporting lines
+                             which are not officially recognized or mandated, but nonetheless efficient.
+                            Mechanisms of communications might include progress review meetings, inter-agency planning sessions,
+                             complaint or grievance reviews, public hearings or briefings among others.
+                 Is the communication and coordination structure effective?
+                       Are information flows timely and of sufficient quality? Do they result in:
+                        •    decision makers remaining informed of overall project progress and of the need for remedial actions such
+                             as re- deployment of staff and financial resources;
+                        •    the elimination or minimization of redundant actions;
+                        •    avoidance of tasks not being completed due to confusion over roles and responsibilities.
+     • If there are areas of overlap in roles and responsibilities for a task, are these likely to lead to conflict, redundancy,
+         inefficiency?
+     • If responsibility for a task is not clearly established in the institutional structure, is there agreement on who will complete it in
+         the context of the project, and do they have the resources?
+     • Is there excessive fragmentation of responsibility, which could lead to confusion or inefficiency, can the structure be
+         simplified or unified?
+     • Are there any other potential issues related to the governance structure for this task?
+
+
+
+                                                                  22
+STEP 4: Assess the capacity of individual institutions
+It is important to go through Steps 1 – 3 to provide the operational context for assessing the capacity of
+the individual institutions or actors responsible for implementation of different aspects of the project.
+Step 4 involves evaluating the capacity of each of the identified institutions or actors to undertake the
+tasks identified in Step 1. This will require examining existing systems and the resources available to carry
+out the tasks for which the institution or actor will be responsible, and, where possible, reviewing its track
+record in carrying out similar tasks in the past. This includes, for example, its ability and commitment in
+practice to implement its enabling legislation and its own institutional policies, the effectiveness of
+institutional and individual incentives for performance, and its ability to adapt to changing circumstances.
+For a recently or newly created institution, which will have little or no track record, it may be useful to
+review the performance of institutions that had the same or similar responsibilities previously (while
+recognizing that the new institution might have been created specifically to achieve better outcomes).
+
+STEP 4 (a): Track Record
+An institution’s past performance should be evaluated both in the context of implementing previous or
+current projects financed by the Bank (or by other development partners with similar E&S policies and
+standards), and when implementing activities under national laws and systems. This is particularly
+important for tasks where national requirements differ significantly from Bank requirements. Key aspects
+to consider are compliance and enforcement, monitoring, stakeholder engagement, and documentation
+and recordkeeping. Box 3 provides questions for evaluating an institution’s likely capacity and
+commitment to implement tasks for which it will be responsible, based on its track record.
+                           Box 3. Questions to assess the track record of an institution or actor
+ Can you provide documentation and other evidence that this institution/actor …?
+
+   •   has performed this task before?
+   •   has a system for monitoring and assessing performance?
+   •   has a track record of compliance with relevant national or regional regulation?
+   •   has a track record of compliance with Bank safeguards or ESF, Equator Principles and/or other MDBs policies?
+   •   has an effective system for quality management?
+   •   takes E&S information and monitoring into account when making decisions and taking actions?
+   •   effectively manages the E&S performance of contractors, including contractor selection, routine supervision, quality control
+       and corrective actions?
+   •   has systems in place for institutional learning and improvement, learning lessons from past mistakes and experiences?
+   •   can hire staff and/or recruit consultants in a reasonable timeframe, and retain well-qualified and high-performing staff?
+
+
+Step 4 (b): Assess current capacity
+The assessment considers four elements of institutional capacity that are relevant for E&S risk
+management: external enabling environment; organizational arrangements; human resources; and
+financial and other resources. Because national and local institutions will have been established and
+designed to implement existing laws and regulations, their internal administrative structures, procedures,
+staffing and skills, and previous operational experience will reflect those laws and regulations. If the
+project requires them to carry out other tasks, or to operate in another way this could have implications
+for the nature or extent of capacity-building that may be required. Step 4 therefore looks at different
+aspects of institutional performance that will be relevant for delivery of the tasks identified in Step 1.
+Table 5 lists questions and aspects to review in evaluating current capacity of an institution/actor.
+
+                                                             23
+Table 5. Aspects of individual institutional capacity.
+ Question                        Aspects
+ Does the external enabling      This focuses on Government policies, laws and regulations, the
+ environment         support     mandates of the institution/actor, institutional incentives or pressures,
+ completion of the task?         political commitment to E&S issues
+ Does the institution have       This focuses on the institution’s own policies and procedures including
+ appropriate internal policies   vision statements, quality assurance and accountability systems,
+ and operating procedures?       outreach and communications, as well as overall institutional culture
+
+ Does the institution have This focuses on technical and managerial skills; appropriate job
+ adequate and appropriate descriptions and performance management, appropriate allocation of
+ human resources?          tasks to staff; training programs and opportunities, staff retention;
+                           ability/timing to recruit additional staff or consultants; human resources
+                           policies
+ Does the institution have This focuses on the level of financial and other resources available for
+ appropriate financial and the task, and systems for allocation of such resources, including budget
+ other resources?          processes; cash flows to deliver funds when needed; financial planning;
+                           transportation, equipment and supplies; information technology
+                           infrastructure and databases
+
+Table 6 provides some specific guiding questions and examples of potential findings for assessing these
+elements and sub-elements of institutional capacity. These points should be considered as they relate to
+the specific E&S risk management tasks for which the institution will be responsible.
+
+Table 6. Guiding questions and examples for assessing elements of institutional capacity.
+ Element          Question for Assessing Sub-Element
+ External         What external factors could prevent the institution from carrying out its identified project—
+ enabling         related E&S tasks appropriately?
+ environment      Government policies
+                  Example: The Ministry of Agriculture has a policy to promote expansion of the total area of
+                  estate crops (such as rubber plantations, palm oil plantations) onto “currently unproductive
+                  lands” including native grasslands and forests
+                  Laws and regulations
+                  Example: National law prohibits payments to people without land titles.
+                  Institutional incentives
+                  Example: The Forest Department, which is responsible for forest conservation, relies on
+                  revenue from logging concession payments as its main source of funding.
+                  Mandate
+                  Examples:
+                      • Wildlife authority is responsible for wildlife everywhere in the country, but has no
+                           mandate for regulating land use outside protected areas.
+                      • No institution has a specific mandate to protect the rights or interests of Indigenous
+                           Peoples in the country.
+
+
+                                                    24
+               National-level commitment
+               Examples:
+                    • The Ministry of Finance does not prioritize funding for the project; government has
+                        not ratified a relevant international convention.
+                    • Government failed to fulfil E&S-related commitments in a timely fashion under
+                        previous Bank-financed operations.
+Organizational Does the institution have the following elements in place to support implementation of the
+policy,        identified tasks in a manner consistent with the relevant standards of the ESF?
+procedures,    Institutional Policies and Procedures
+structure, and Example: E&S risk mitigation manual or portion of Operational Manual.
+culture        Reporting lines and other arrangements which promote effective implementation, and
+               measures are in place to detect and discourage conflicts of interests or fraudulent practices.
+               To whom do the environmental and social staff report?
+               Quality assurance and control systems
+               Example: There is an internal review system for documents, and decision-making and
+               compliance systems include checks and balances.
+               Transparency measures
+               Example: There are appropriate information disclosures, communications and outreach, and
+               grievance mechanisms.
+               Institutional-level commitment
+               Example: The National Park Authority has approved park management plans, and has a history
+               of implementing and enforcing those plans
+               Appropriate staff incentives
+               Example: Adequate salaries and contract terms and conditions, performance management
+               practices that encourage environmental and social staff to flag risks, to voice concerns and
+               take appropriate actions rather than to conceal/ignore risks.
+Human          Does the institution have the human resources and human resource policies in place to
+resources      support implementation of the identified tasks in an appropriate and effective manner?
+               Is the institution adequately staffed, in terms of skills, qualifications, and number of personnel
+               for implementation of the relevant tasks? Take into account that some staff may have
+               additional responsibilities beyond the project.
+               If the institution does not have, or plan to create, sufficient in-house capacity, do they have
+               the authority, means and capacity to engage and manage external consultants in a timely
+               fashion?
+               Does the institution have a human resources management system to support the
+               performance of the necessary tasks and provide working conditions consistent with ESS2?
+Budget,        Does the institution have the financial and other resources in place to support implementation
+equipment,     of the identified tasks in an appropriate and effective manner?
+and means      Amount, control over allocation, availability, and process
+                    • Are sufficient resources allocated for the task?
+                    • Do staff undertaking the task have any control or voice in allocating resources?
+                    • Is there a process or a system in place where units performing the task can request
+                        additional funding to meet newly emerged needs?
+               Budgetary projections
+
+
+                                                   25
+                       •   Is a there an annual or more frequent process or system in place for making budget
+                           projections, and for intermediate reallocations?
+                       • To what extent do units involved in the task have opportunities to give feedback on
+                           the adequacy of funding?
+                   Does the institution have the necessary facilities, transportation, equipment and supplies to
+                   carry out the relevant tasks in a timely fashion throughout the implementation of the project?
+                   Does the institution have sufficient information sources and information technology
+                   management systems to carry out the relevant tasks? Such as databases, infrastructure,
+                   Geographic Information Systems, sufficient access to the Internet.
+
+STEP 5: Recommend actions to strengthen institutional capacity
+Where the process set out in Steps 1 to 4 indicates that capacity to carry out a specific taks needs to be
+strengthened, Step 5 involves identifying specific measures to help address those needs. These actions
+may target individual institutions or actors (or elements of them) or be aimed at improving the overall
+institutional framework including linkages.
+
+Recommendations should be for concrete and feasible operational actions. Specific recommended actions
+should be designed to address the need for strengthened capacity in an efficient manner and within a
+timeframe that is meaningful to support project preparation and/or implementation. The description of
+actions should include assignment of responsibility, timelines for completion and budgets, and where
+possible targets and indicators for tracking progress and successful completion. Where training is called
+for, the target audience, approximate time commitment and source of training materials/ and trainers
+should be indicated.
+
+As part of this step, indicators and targets should be identified for implementation of the actions and for
+effectiveness and achievement of their goals. For example, indicators for a training activity could include
+numbers of individuals trained or numbers of training courses delivered (implementation indicators) as
+well as a measure of the effectiveness of the training and indication that those who received it are putting
+their improved knowledge and skills to use (effectiveness/achievement indicators).                    Actual
+implementation and monitoring of the capacity strengthening measures would take place during the
+implementation phase of the project and are therefore beyond the scope of these TOR.
+
+Box 4 provides examples of the types of capacity strengthening actions that may be considered. If
+underlying problems are noted in this process, they can be identified for discussion and possible action in
+other contexts.
+
+
+
+
+                                                    26
+                              Box 4. Examples of measures to develop institutional capacity
+  Activities at the project level:
+       •     Develop improved standards and technical guidance, such as procedures for verifying the age of workers or water or air
+             quality guidelines
+       •     Develop clear operating procedures and reporting lines
+       •     Develop business standards and monitoring requirements
+       •     Establish clear job descriptions and accountability
+       •     Recruit staff in areas of institutional capacity weakness
+       •     Conduct targeted recruitment of consultants with terms of reference that include transfer of knowledge and skills within a
+             specified timeframe
+       •     Train existing staff in areas of identified need and improve opportunities for professional development, such as on-the-job
+             coaching, hands-on experience in specialized fields, support participation in professional associations
+       •     Mobilize additional financial resources to cover recruitment of staff, procurement of equipment, vehicles and logistical
+             support
+       •     Plan and acquire key equipment, and providing training and resources to operate such equipment
+       •     Develop public awareness and community outreach programs, such as preparation of public service announcements, web-
+             sites, brochures, and other supporting documents
+
+STEP 6: Monitor capacity development indicators and adapt activities as needed
+Step 6 embeds precise capacity development measures and results monitoring in the capacity
+development activity, to evaluate progress and make timely adjustments as needed. Further, tracking and
+documenting outputs and outcomes will contribute to knowledge for developing project-level borrower
+capacity in the future.
+
+Successful capacity development activities are characterized by continued engagement, regular
+consultations, and demonstrated evidence of changes in capacity. Situating activities within a series of
+other relevant capacity development activities at different levels will assure better impact toward
+sustainability.
+
+Table 7 provides an example of a framework to evaluate the progress made in developing capacity in the
+four elements described in Step 4. A more complete list of potential indicators is provided in Annex 1. A
+template for linking analysis to actions and follow up is also provided. 5
+
+Table 7. Examples of indicators to evaluate progress toward changes in capacity
+     Capacity          Activity/Tasks          Indicator           Data type and          Timing of            Responsibility
+     Element                                                          source                data
+                                                                                          collection
+
+ Enabling              Issue new            Decree               Endorsement           Condition of         PIU
+ Environment           national             drafted              of document           effectiveness        Drafting
+                       decree on                                 by technical                               committee
+                       resettlement                              drafting
+                       compensation                              committee
+                       entitlements                                                    Condition of         Minister of State
+                                                                                       disbursement
+
+
+5 Both will be finalized after endorsement of the draft concept
+
+
+                                                              27
+                                  Decree          Decree issued                     Legislature as
+                                  approved        and published                     relevant or
+                                                  by relevant                       required by law
+                                                  legislative body
+Organizational, Prepare and       Draft manual    Confirmation       Condition of   PIU
+procedural or   adapt             prepared and    of                 negotiation    Drafting
+cultural change resettlement      endorsed        endorsement                       committee
+                management                        by drafting                       Minister of
+                manual by                         committee                         Transport or
+                road agency       Ministerial                                       delegated
+                                  decree or sub- Decree                             authority
+                                  decree issued published and
+                                                 communicated
+                                                 to project staff
+
+Human           Recruit and       TOR and         Confirmed      Condition of       PIU
+Resources       train 6           recruitment     through direct effectiveness      HR staff at
+                additional        notices         communication                     Ministerial level
+                resettlement      published       with PIU HR
+                specialists in                    team
+                PIU field         Interviews
+                offices           completed       Arrangement
+                                  and offers      confirmed in
+                                  made            writing (letter
+                                  New staff       or email)
+                                  mobilized
+Budget,         Secure annual     Annual          Annual budget      Annual         PIU budget office
+equipment,      budget            budget          plan
+means           allocations for   authorized      Annual or          Quarterly      Resettlement
+                resettlement      and included    quarterly          progress       Field office
+                field             in project      project            reports
+                operations        budget plan     progress
+                                                  reports
+                Construct and     Offices
+                equip             construction
+                resettlement      completed                          Annual or
+                field offices     and                                quarterly
+                with furniture,   equipment                          progress
+                computers,        procured                           reports
+                and logistical    Confirmation
+                support           that
+                                  equipment is
+                                  in place and
+                                  functional
+
+
+
+
+                                                 28
+     11 Annex II: Potential indicators to assess E & S capacity
+        development
+The Capacity Development Results Framework (CDRF) developed by the World Bank Institute for example
+provides lists of questions and indicators to assess the capacity to achieve a given Development Goal (WBI,
+CDRF, 2009, p.74-82). In practice the indicators could be assessed at the level of the borrower system as
+a whole or for specific ESS. The following list of potential indicators is based on the CDRF model but the
+indicators and their possible measures are grouped according to the four analytical elements proposed in
+the operational methodology recommend in this GN. This includes: the conduciveness of the enabling
+environment; Organizational policy, procedures and culture; Human Resources; and Budget, equipment
+and means.
+
+The indicators are offered as suggestions only. It is not expected that every project would use all of these
+indicators as specific indicators may not be relevant in a particular project context or may be difficult to
+measure. It is also likely that other context-specific indicators could be developed.
+
+POSSIBLE INDICATORS AND MEASURES
+
+I. Conduciveness of the Enabling Environment
+
+Commitment of political and sectoral leaders to the ESS development objectives.
+
+Political and sectoral 6 leaders consistently and frequently make statements or take leadership actions and
+decisions supporting the principles and objectives of the relevant ESS.
+
+Possible measures include:
+   • Share of statements supporting the ESS relative to all statements related to the ESS by the
+        borrower or counterpart leadership or decision-makers
+    • Adoption of improved legislation or supporting regulations, decrees, or other legal directives
+        adopted by national, sub-national or local level government or sectoral authorities
+    • Public statements and official decisions of political and sectoral leaders in support of the ESS
+        objectives or desired outcomes
+    • Public actions of political or sectoral leaders in support of the ESS objectives
+    • Public actions of political leaders in support of the ESS objectives
+    • Proportion of political or sectoral leadership who commit significant time or funds to achieve the
+        ESS objectives
+
+Clarity of the policy instruments relating to ESS objectives and the related rights and responsibilities of
+stakeholders
+
+The rights and responsibilities of stakeholders related to policy instrument relevant to ESS are clearly
+defined and communicated. Stakeholders have a common understanding of the policy goal and the
+
+6
+ Sectoral leader in this context is used to refer to leadership within a borrower agency, implementing entity or
+other government authority that has the jurisdiction to issue policy or procedural measures related to one or more
+ESS (for example, Minister of Environment, Minister of Water Resources, Secretary of State for Energy, Provincial
+Directors of Natural resource etc.).
+
+                                                       29
+targets of any specified regulations. The authorities and processes concerning the policy instrument are
+clear. Policy instruments related to the ESS are consistent with each other.
+
+Possible measures include:
+   • Share of stakeholders who find that objectives and goals of policy instruments related to ESS are
+        clearly specified
+    • Formulation, application, revision, appeal, monitoring and enforcement authorities and processes
+        concerning the policy instrument are specified
+    • Number of public announcements, articles, documents, etc. in which the policy instrument is
+        described for stakeholders
+    • Development and execution of a communication plan for the policy instrument and proactive
+        assessment of outcomes of communication efforts
+    • Share of stakeholders who report that information about the policy instrument was
+        communicated to them
+    • Share of surveyed stakeholders who responded accurately to questions about their rights and
+        responsibilities with respect to the policy instrument
+    • Policy instruments related to the ESS are consistent with each other
+    • Adherence of policy instrument to internationally recognized standards
+
+Consistency of policy instrument relating to ESS with policy instruments for other ESS
+
+Policy instruments related to the ESS are consistent with policy instruments for other ESS. Stakeholders
+have a common understanding of the policy goal and the targets of any specified regulations.
+
+Possible measures include:
+   • Share of surveyed stakeholders who report that the development policy relating to various ESS is
+        coherent, consistent, and predictable
+    • Number of instances of rights and responsibilities conferred by different policies conflicting with
+        each other (target is zero)
+    • Independent review by experts familiar with the country situation finds that policy instruments
+        relating to ESS are mutually reinforcing
+
+Perceived legitimacy of policy instrument in relation to the ESS
+
+Processes for decisions about policy instrument are informed, transparent, participatory, and deliberate.
+Policy instrument is perceived as desirable and appropriate within the local system of norms, values,
+beliefs, and definitions. The actions and sanctions prescribed by the policy are perceived as fair by
+stakeholders. Rights to appeal are assured.
+
+Possible measures include:
+   • Share of stakeholder survey respondents who feel that the policy instrument related to the ESS is
+        desirable and appropriate within local system of norms and values
+   • Share of stakeholder survey respondents who believe that the sanctions and incentives specified
+        by policy instrument related to ESS are consistent with its declared goal
+    • Stakeholders’ rights to voice concern, grievance, appeals or seek resolution of disputes are
+        assured by the policy instrument
+    • Share of regulated stakeholders responding in surveys that the policy instrument is fair
+
+                                                   30
+Compatibility of social norms and values with the ESS Development Objectives.
+
+Social norms and beliefs that underpin the behavior of stakeholders are compatible with the objectives of
+ESS.
+
+Possible measures include:
+   • Extent of public debate, advocacy and expression of public concern when the political or sectoral
+        leadership violates expected norms and values related to ESS
+   • Values and norms espoused by stakeholders are compatible with the ESS objectives
+   • Behavior of stakeholders is compatible with the objectives of the ESS
+    • Proportion of stakeholders who express support for the objectives of the ESS
+
+II. Organization procedures, culture
+
+Clarity of borrower mission about the development objectives of ESS
+
+The vision and mission of the organization are strongly aligned with the ESS and clearly articulated, and
+provide its members with clear points of reference for formulating strategy, making decisions and gaining
+commitment from management, staff, and other stakeholders to work toward the objectives and
+expected outcomes of an ESS. The mandate of the organization is recognized by relevant stakeholders.
+
+Possible measures include:
+   • Explicit statement of the organization’s vision and mission with respect to the ESS
+    • Internal stakeholders surveyed accurately describe the organizational goals with respect to the
+        ESS that have been communicated to them.
+    • External stakeholders surveyed accurately describe the organizational goals with respect to the
+        ESS that have been communicated to them.
+
+Stakeholder participation in decisions about the ESS
+
+    Decision-making processes relating to the ESS considers all stakeholder opinions, and government and
+    other organs of the state are responsive to the views of civil society and the private sector.
+
+Possible measures include:
+   • Existence of a formal consultative process for decisions about issues related to ESS
+    • Number of stakeholder groups claiming not to have been included in the decision-making process
+        relating to ESS (target is none)
+    • Number of stakeholder groups who boycott or express significant concerns over the decision-
+        making process by the end of the engagement process (target is none)
+    • Number of stakeholder groups whose views were partially or totally reflected in final decision
+        relating to ESS risk management
+    • Number of people represented by the stakeholder groups who have seen some of their views
+        included in final decisions relating to ESS
+    • Extent to which government engages in dialogue with stakeholders about the ESS risks and
+        management options
+
+
+
+                                                   31
+    •   Extent to which borrower decisions on ESS risk assessment and management can be traced to
+        consultation with stakeholders
+    •   Extent of borrower responses to stakeholders’ communications about the ESS
+    •   Quality of borrower responses to stakeholders’ communications about the ESS
+
+Stakeholder voice in decisions about the ESS
+
+Stakeholders understand the borrower obligations and commitments related to an ESS and communicate
+their support for project initiatives or express grievances and proposals for change to the project’s political
+and sectoral leadership.
+
+Possible measures include:
+   • Share of stakeholder survey respondents who accurately responded to questions on their
+        understanding of commitments and obligations with respect to an ESS
+    • Share of stakeholder respondents to a confidential survey, who report being free to express their
+        views with respect to the ESS issues in a project context
+    • Number of public gathering related to the ESS issues per year
+    • Number of people attending public gatherings related to the ESS per year
+    • Number of signatories to petitions or other expressions of concern related to the ESS
+    • Extent to which stakeholders understand the borrower obligations and commitments with
+        respect to the applicable ESS in a given project
+    • Existence of a formal grievance, appeals and dispute resolution processes relating to an ESS
+    • Extent of communication from stakeholders about their experiences concerning the ESS
+    • Quality of communication from stakeholders about their experiences concerning the ESS
+
+Accountability of borrower and project implementing entities for achieving objectives of ESS
+Government and other public service entities take account of and responsibility for the appropriateness
+of their policies and actions in relation to an ESS. If public officials and other public service providers fail
+to meet expectations about achievement of the ESS, stakeholders hold them accountable for their
+conduct and performance.
+
+Possible measures include:
+   • Existence of functioning instruments of accountability, e.g. government or borrower scorecard
+        information is available to the public
+    • Number of instances of stakeholders holding government officials and other service providers
+        accountable for the ESS-related policies and actions, either through use of the defined
+        accountability instruments or in other ways
+   • Share of stakeholder respondents to a confidential survey, who believed that public officials and
+        other public service providers would be held accountable for meeting obligations related to
+        achievement of the ESS
+   • Frequency of examples of stakeholders holding government officials and other service providers
+        accountable for the ESS-related policies and actions
+   • Stakeholders’ perception about likelihood that public officials and other public service providers
+        will experience negative consequences if they fail to meet obligations related to achievement of
+        the objectives of ESS
+
+Transparency of project information dissemination regarding the ESS
+
+                                                      32
+Government and borrower project entities provide accurate, relevant, verifiable, and timely information
+about the ESS and explain actions concerning the ESS in terms that stakeholders and other stakeholders
+can use to make decisions.
+
+Possible measures include:
+   • Frequency of borrower communications related to the project related ESS
+    • Extent to which borrower communications content related to the ESS whose aligns with
+        information provided by independent sources
+    • Share of stakeholder survey respondents who reported receiving borrower communications
+        related to the ESS
+    • Share of stakeholder survey respondents who were satisfied with the information provided by the
+        borrower about the ESS
+    • Frequency of borrower communications related to the ESS
+    • Existence of an information sources related to the ESS that stakeholders can consult on an open,
+        transparent and timely basis
+    • Extent to which stakeholders are aware of borrower communications related to the ESS
+    • Extent to which stakeholders find that information provided by the borrower about the ESS is
+        satisfactory
+
+Organizational incentives for project compliance provided by the policy, regulatory and procedural
+instruments
+The policy instrument imposes low transaction costs for compliance, facilitates desired economic and
+social exchange activities related to the ESS by reducing uncertainty and other costs to the participants in
+these transactions, and provides sanctions for non-compliance.
+Possible measures include:
+    • Time and information costs of compliance with the policy instrument and/or ESS (target is low or
+         zero)
+    • Time and information costs associated with ESS elated transactions (target is low or zero)
+    • Credible individual incentives for compliance and sanctions for non-compliance with policy
+         instrument and ESS as determined through stakeholder consultations
+
+Administrative ease of policy, regulator or procedural instrument implementation
+Possible measures include:
+   • Cost to borrower of implementing the policy instrument (target is low)
+   • Cost to borrower of monitoring and evaluating effectiveness of the policy instrument
+    • Extent to which borrower can easily administer the policy instrument within the existing or
+        expected socio-political, policy and organizational context
+
+Freedom of policy, regulatory or procedural instrument from unintended negative consequences
+The policy, regulatory or procedural instruments minimize unintended negative impacts in project level
+ESS related transactions.
+Possible measures include:
+    • Incidence of unintended negative externalities on targeted beneficiaries
+    • Number and scope of unintended negative externalities on non-beneficiaries
+    • Number and scope of unintended negative externalities on non-regulated stakeholders
+
+Flexibility of the policy, regulatory or procedural instrument in addressing varying project situations
+
+                                                    33
+Policy instruments are predictably flexible in addressing varying situations. Policy instruments allow for
+timely revision when the underlying social and political circumstances have changed.
+Possible measures include:
+    • Share of surveyed stakeholders affected by the policy instrument that express confidence that
+         policy covers relevant contingencies in a predictable manner and is suitably flexible in addressing
+         changes in DG context
+    • Number of instances in which policies are revised in a timely manner when there are changes in
+         social and political circumstances underlying the DG
+
+Resistance of policy, regulatory or policy instrument to project level corruption, rent seeking, and
+regulatory capture
+Policy instruments minimize opportunities for corruption, include mechanisms to monitor and report
+corruption, and provide credible and enforceable penalties for corrupt behavior. Policy instruments do
+not reflect the efforts of vested interests to manipulate the economic and/or legal environment to secure
+undue privileges or compensation at the expense of the greater public good.
+
+Possible measures include:
+   • Number of instances of rent-seeking, elite or state capture, or corruption in ESS-related
+        transactions (target is zero)
+   • Policy instrument contains provisions for effective monitoring and reporting on corruption in ESS
+        related transactions
+    • In a confidential survey, officials whose position might allow opportunities for corrupt behavior
+        indicate that one reason for refraining is that the policy instrument provides for credible and
+        enforceable punishment/penalty for corrupt behavior related to the ESS
+
+Achievement of outcomes that lead directly to ESS objective and goal attainment
+The organization consistently achieves outcomes that lead directly to the ESS expressed in its mission
+statement.
+Possible measures include:
+    • Organization’s self-assessments of its achievement of the ESS objectives and goals
+    • Stakeholder assessment of organization’s contribution to the achievement of the ESS objectives
+        and goals
+    • Independent external assessment of the organization’s contribution to the achievement of the
+        ESS goals and objectives
+
+Adaptability in anticipating and responding to change
+The organization regularly monitors its internal and external environment for information relevant to the
+ESS and is proactive in adapting its strategy accordingly. The organization encourages innovation,
+manages knowledge, and creates and/or adapts to new technologies.
+Possible measures include:
+    • Organization proactively scans its internal and external environments for relevant innovations to
+        improve its processes, products and strategies
+    • Organization periodically revisits its strategy, processes and results related to achievement of the
+        DG
+    • Existence of formal structures and processes that support organizational learning
+    • Use of organizational knowledge repositories
+
+                                                    34
+    •   Instances of collaboration between teams
+    •   Instances of participation in communities of practices
+
+III. Human resources
+Borrower implementing entities mobilize, retain, and provide adequate incentives for appropriately
+qualified staff to carry out identified ESS tasks
+Possible measures include:
+      • Existence of organizational units dedicated to ESS tasks
+      • Staff have appropriate credentials, training and experience to carry out tasks
+      • Existence of work plans, Terms of reference for key positions
+      • Sufficient budgets are available and approved to support project ESS tasks
+      • Existence of human resources policies to efficiently recruit and retain staff
+      • Staff understand their roles and have adequate resources to complete tasks
+      • Policy, regulatory and procedural instruments are understood by all staff
+
+IV. Budget, Equipment and Means
+
+Operational efficiency in producing goal-related outputs
+The strategies, inputs, processes, and technology of the organization are managed to optimize the
+quantity and quality of output relative to the cost of accomplishing its ESS-related goals.
+Possible measures include:
+   • Quantity of output
+    • Quality of output
+    • Timeliness of product/service delivery
+    • Unit cost
+
+Sub-measures for each of the above:
+   • Quantity of output
+      o Review of records of the organization (e.g., output volumes compared with performance
+      benchmarks)
+   • Quality of output
+      o Review of documents of the organization (e.g., decision rules meet certain performance
+      benchmarks or criteria)
+      o Analysis of records of the organization (e.g., calculate average score on the exam)
+      o Internal or external random testing (e.g., compute estimates for error rates)
+      o Customer satisfaction surveys (ones that ask for the quality of, e.g., the service delivered)
+      o Publicly available indices (e.g., index on the quality of products)
+   • Timeliness
+      o Review of records of the organization (e.g., toolkit delivered at the specified date)
+      o Analysis of records of the organization (e.g., calculate average delivery time)
+      o Customer surveys/interviews (ones that ask how long, e.g., the product took to be delivered)
+   • Unit cost
+      o Review of records of the organization (e.g., total expenses for developing a toolkit)
+      o Analysis of records of the organization (e.g., calculation of cost per student)
+
+Financial viability and probity
+
+
+                                                   35
+The organization sustainably secures the funds needed to cover its operating costs. Sound financial
+management, including reporting of externally verified accounts, helps to ensure that the resources of
+the organization are allocated effectively to achieve its ESS goals.
+Possible measures include:
+    • Adequacy of financial resources to implement ESS tasks
+    • Transparent allocation of funds for ESS tasks
+    • Funds are allocated only in accordance with identified business needs
+    • Internal and external auditing of the financial management process
+
+Supportiveness of stakeholders on goal-related activities
+The organization seeks the support of stakeholders for its ESS-related work. Organizational decision-
+making and operational processes involve consultations with appropriate stakeholders.
+
+Possible measures include:
+   • Frequency with which the organization provides stakeholders with relevant and timely
+        information concerning its ESS-related performance (target is quarterly)
+   • Existence of a mechanism for stakeholder involvement in organizational decisions and frequency
+        of its use
+    • Accounts that feedback from stakeholders was included in operational processes
+    • Actions taken by stakeholders support organizational activities that contribute to achievement of
+        the ESS
+
+
+
+
+                                                  36
+

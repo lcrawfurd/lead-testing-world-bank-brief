@@ -126,10 +126,44 @@ CLASSIFIERS = [
     ("surface",  re.compile(r"\b(?:surface\s+water|river|stream|receiving\s+(?:water|body)|lake)\b", re.I)),
 ]
 
-# ---------- pdftotext helpers ----------------------------------------------
+# ---------- text-extraction helpers ----------------------------------------
+#
+# Prefer pre-extracted .txt files in docs-extracted/ (produced by
+# scripts/extract_text.py) to skip the per-page pdftotext call.
+# extract_text.py writes one .txt per PDF with form-feed (\f) characters
+# between pages, so we can split on \f to get per-page text.
+# Fall back to running pdftotext if no extracted file exists.
+
+EXTRACTED_DIR = ROOT / "docs-extracted"
+_page_cache: dict[str, list[str]] = {}
+
+
+def _get_pages_from_extracted(pdf: Path) -> list[str] | None:
+    """Return list of page-strings if a .txt file exists, else None."""
+    txt = EXTRACTED_DIR / (pdf.stem + ".txt")
+    if not txt.exists():
+        return None
+    key = str(txt)
+    if key in _page_cache:
+        return _page_cache[key]
+    try:
+        text = txt.read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return None
+    # pdftotext default uses form feed (\f) as page separator.
+    # A trailing form feed produces an empty final page, drop it.
+    pages = text.split("\f")
+    if pages and pages[-1] == "":
+        pages.pop()
+    _page_cache[key] = pages
+    return pages
+
 
 def pdf_num_pages(pdf: Path) -> int:
-    """Use pdfinfo to get page count."""
+    """Return number of pages in the PDF."""
+    pages = _get_pages_from_extracted(pdf)
+    if pages is not None:
+        return len(pages)
     try:
         out = subprocess.run(["pdfinfo", str(pdf)], check=True,
                              capture_output=True, timeout=60).stdout.decode()
@@ -143,6 +177,11 @@ def pdf_num_pages(pdf: Path) -> int:
 
 def extract_page(pdf: Path, page: int) -> str:
     """Extract one page of text (1-indexed)."""
+    pages = _get_pages_from_extracted(pdf)
+    if pages is not None:
+        if 1 <= page <= len(pages):
+            return pages[page - 1]
+        return ""
     try:
         out = subprocess.run(
             ["pdftotext", "-layout", "-nopgbrk",

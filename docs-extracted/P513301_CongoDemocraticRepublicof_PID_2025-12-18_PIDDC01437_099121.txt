@@ -1,0 +1,649 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                 Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                Concept Stage | Date Prepared/Updated: 18-Dec-2025 | Report No: PIDDC01437
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                   Operation Name
+Congo, Democratic              P513301                        DRC: Scaling-Up Water Supply and Sanitation Access in
+Republic of                                                   Kinshasa Project
+Region                         Estimated Appraisal Date       Estimated Approval Date        Practice Area (Lead)
+EASTERN AND SOUTHERN           15-Jul-2026                    28-Oct-2026                    Water
+AFRICA
+Financing Instrument           Borrower(s)                    Implementing Agency
+Investment Project              Democratic Republic of        Ministry of Water
+Financing (IPF)                the Congo                      Resources and Electricity
+
+Proposed Development Objective(s)
+To increase access to climate-resilient water supply and sanitation services in Kinshasa and to strengthen institutional
+capacity for water service delivery.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+Is this project Private Capital Enabling (PCE)?               Yes
+
+SUMMARY
+  Total Operation Cost                                                                                              500.00
+
+  Total Financing                                                                                                   500.00
+             of which IBRD/IDA                                                                                   200.00
+  Financing Gap                                                                                                       0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                   200.00
+      IDA Credit                                                                                                 200.00
+
+
+
+                                                                                                                       Page 1
+
+
+
+                                                                                                              Official Use Only
+      The World Bank
+      DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+
+   Non-World Bank Group Financing
+     Commercial Financing                                                                                         100.00
+       Unguaranteed Commercial Financing                                                                          100.00
+     Other Sources                                                                                                200.00
+       OPEC FUND                                                                                                  100.00
+       African Development Bank                                                                                   100.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                    Concept Review Decision
+Substantial                                                     The review did authorize the preparation to continue
+
+
+
+Other Decision (as needed)
+
+B. Introduction and Context
+
+Country Context
+
+ 1.    The Democratic Republic of Congo (DRC) possesses significant economic potential, primarily driven by its vast
+ natural resources and a population of approximately 109 million.i These demographic and resource endowments
+ present opportunities for job creation and private investment. DRC has 52 percent of all freshwater resources and 23
+ percent of internal renewable water resources in Sub-Saharan Africa (SSA).ii Despite its potential, the DRC remains one
+ of the world's poorest countries, with an extreme poverty rate of 72.9 percent and a Human Development Index ranking
+ of 179 out of 191.iii More than half of the DRC’s impoverished population resides in and around major urban areas.iv
+ The country faces widespread gender inequality and high rates of violence against women.
+ 2.     To fully unlock DRC’s potential, it is imperative to tackle binding development constraints such as infrastructure
+ deficiencies, regulatory barriers, and political instability. DRC is one of the few developing countries that has not seen
+ significant per-capita income growth since gaining independence in the 1960s. Moreover, the country’s heavy
+ dependence on mining leaves it vulnerable to economic cycles of boom and bust. Finally, a high fertility rate has led to
+ population growth levels that exceed the average in sub-Saharan Africa, challenging the efforts to achieve per capita
+ income growth and poverty reduction. For example, sustained positive GDP growth during 2020-24, averaging over 6.4
+ percent was insufficient to deliver significant improvements in per capita income. Similarly, although povertyv has
+ declined from 78.9 percent of Congolese in 2020 to an estimated 72.9 percent in 2024, the figure remains exceedingly
+ high. This outcome underscores the challenge of converting natural resource-driven growth into widespread
+ improvements in living standards and the outstripping of basic services provision by the population growth.
+ 3.    DRC has an urbanization rate of approximately 44.5 percent but is urbanizing at income levels significantly
+ below global comparators. The capital Kinshasa is a densely populated and fast-growing city of over 17 million people
+ (2021), concentrating the highest number of people living in poverty compared to any other province in the DRC. About
+ 12 million "Kinois" live in poverty. Moreover, Kinshasa's population is growing faster than that of other urban areas,
+
+                                                                                                                       Page 2
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+at 5.1 per cent per year, compared to a national population growth of nearly 3.2 per cent. It could exceed 26 million
+inhabitants in 2030.vi
+4.     DRC is highly vulnerable to climate change, with large implications for people, infrastructure, and ecosystems.
+DRC ranks as the 21st most vulnerable country and the fifth least ready to adapt, according to the Notre Dame Global
+Adaptation Initiative Country Index.vii The country faces multiple climate change-exacerbated hazards, of which rainfall-
+triggered floods and landslides are the most prevalent. The DRC’s Country Climate and Development Report (CCDR)viii
+concludes that climate change is already making the country hotter, with more erratic rainfall – and both are likely to
+accelerate in coming decades. More frequent extreme events and the resulting losses play a significant role in
+perpetuating poverty, as they often impact low-income and vulnerable households, communities, small businesses, as
+well as local and national governments. Floods and droughts lead to water service disruptions, and polluted waters due
+to flood events negatively affect public health, specifically through water-borne illnesses such as cholera. Hence there
+is a pressing need for more climate-resilient infrastructure.
+
+
+Sectoral and Institutional Context
+ 5.    Due to the vast resources of the Congo basin and a high average annual rainfall of over 1,500 mm per year, the
+ DRC is generally water rich. Internal renewable freshwater resources per capita are estimated at 12,213 m 3/person
+ (2017)ix, significantly above the internationally recognized water sufficiency limit of 1,700 m3/person/year. Despite this
+ abundance, access to safe and reliable water remains a challenge for many Congolese citizens. The total volume of
+ freshwater withdrawn by major economic sectors is only about 0.2 percent of the total resource endowment. Decades
+ of conflict, underinvestment, and lack of connectivity across the DRC’s vast territory have resulted in significant
+ infrastructure gaps which are major constraints to sustainable and inclusive growth.
+6.    The DRC has the largest population in Sub-Saharan Africa in terms of people without water, and third-largest
+population after Nigeria and Ethiopia, lacking access to sanitation, and hygiene (WASH). As of 2024, about 70 million
+people (64 percent) lack basic water access, 91 million people lack basic sanitation (84 percent), and 88 million people
+lack basic hygiene services (81 percent).x Kinshasa in particular is facing a severe water supply and sanitation crisis, as
+population growth continuously surpasses the pace of service provision. More than 8 million people in the city (48 per
+cent) do not have access to a reliable basic water supply and this number is increasing exponentially with strong annual
+urbanization trends. The proportion of households with access to piped water, mostly outdoors, has reduced from about
+72 per cent in 2018 to 52 per cent in 2022.xi
+7.     Kinshasa’s water supply system is under severe strain with only about 60% of current demand met. The city
+relies primarily on two major treatment plants located in the central part of the city: the aging Ndjili plant (330,000
+m³/day capacity) and the recently commissioned Ozone Water Treatment Plant (330,000 m³/day), financed under the
+Kinshasa Multisector Development and Urban Resilience Project (“Kin Elenda”, P171141). The Ozone plant draws water
+from the Congo River, but Ndjili suffers frequent breakdowns due to obsolete equipment, flooding, and severe pollution
+of the River Ndjili. Additional smaller facilities, such as Lemba-Imbu, Ngaliema, Lukunga and Lukaya, operate at limited
+capacity and face recurrent outages due to similar challenges. Overall, the city faces a severe water production deficit
+of more than 1,000,000 m3/day, to meet current and future water demand by 2050.xii The city’s water supply
+infrastructure is characterized by aging assets, uneven coverage, and vulnerability to climate shocks, leaving peri-urban
+areas underserved. The eastern, western and southern parts of the city have very limited water supply infrastructure.
+8.    The Government of DRC prepared a 2020-2030 National Program for Water, Sanitation and Hygiene
+(Programme National d’Eau, Hygiène et Assainissement, PNEHA). It lays out investments required to reach the
+ambitious access targets of 80 percent for urban water, 60 percent for rural water, 70 percent for sanitation and
+universal access in schools and health centers by 2030. The PNEHA, budgeted at US$ 8 billion, has several subprograms
+and involves all relevant ministries. A mid-term joint sector review and tracking of results and expenditures of the
+
+                                                                                                                       Page 3
+
+
+
+                                                                                                               Official Use Only
+    The World Bank
+    DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+program held in October 2025, facilitated by the National Action Committee for Water Supply, Sanitation, and Hygiene
+(CNAEHA, Committée Nationale d’Action, d’Eau, Hygiène et Assaisinissement), showed that progress is lagging behind
+due to inadequate investment.
+9.    Public spending for WASH is low and budget execution rates are insufficient, leaving the sector dependent on
+donor financing. An analysis of expenditure data over the 2017-2021 period reveals that domestic public expenditure
+on WASH was only 0.23 percent of overall government expenditure (excluding external funds), a mere 0.02 percent of
+GDP and in absolute terms only US$ 9 million on average annually, of which just 15 percent for investments. Donor-
+financed expenditure is tenfold, at US$ 93 million on average annually, mostly off budget. Domestic budget execution
+rates are low at around 20 percent.xiii
+10. The regulatory and governance framework for the water and sanitation sector in the DRC has recently
+undergone significant reforms, yet important challenges remain. The establishment of the Autorité de Régulation du
+Secteur de l’Eau Potable et de l’Assainissement (ARSPE) as the sector regulator in 2022 was a critical step toward
+improving oversight, transparency, and accountability in service delivery.xiv However, ARSPE is not yet operational,
+pending the appointment of key staff and approval of the subsidiary legal instrumentsxv. The Public Private Partnerships
+(PPP) framework in DRC allows for private sector participation in water and sanitation, and sets out clear procedures
+for project identification, feasibility, procurement, and contract management. PPP are managed by the Unit of Advice
+and Coordination of Public-Private Partnerships (UC-PPP) under the Ministry of Planning.xvi The UC-PPP is mandated to
+implement national PPP policy, promote PPPs, validate and monitor projects, and provide technical support to
+contracting authorities. However, gaps remain in the operationalization of the PPP framework, including the need for
+further capacity building, development of standardized tools and guidelines, and effective coordination between the
+UC-PPP, ARSPE, and sector ministries. Practical implementation is still nascent, and the regulatory environment for
+PPPs—particularly regarding risk allocation, fiscal commitments, and dispute resolution—requires further support to
+attract and sustain private sector participation.
+11. The Government is reforming key state-owned enterprises (SOEs) responsible for service delivery, including the
+national water utility (Régie de Distribution d’Eau, REGIDESO). Established in 1929, REGIDESO is a public company
+whose historic mission is to ensure access to drinking water for all citizens of DRC. REGIDESO was restructured into a
+public limited company (Société Anonyme) on September 4, 2014, with the Congolese State as its sole shareholder. It
+enjoys corporate legal status and is subjected to fiscal oversight by the Ministry of Portfolio, while its technical
+operations are overseen by the Ministry of Water Resources and Electricity (MWRE). The Board of Directors and the
+Managing Director are appointed by the State, with the latter most recently selected through a competitive recruitment
+process. This transformation is part of a broad effort to rebuild the institutional landscape of the water sector,
+consolidated in Water Law No. 15/026 of 31 December 2015.
+12. Currently, REGIDESO develops and manages drinking water production and distribution in 101 urban centers
+across the DRC’s 26 provinces but faces severe operational and financial challenges. Service coverage remains critically
+low at just 16% nationally, with non-revenue water reaching about 40% in 2025. Chronic non-payment of government
+water bills (arrears exceeding $600 million) and tariffs unchanged since 2007, undermine financial sustainability,
+resulting in degraded infrastructure, high water losses, and limited capacity to expand or maintain services—especially
+for vulnerable households. In response, REGIDESO’s new management has begun implementing a turnaround
+performance improvement plan (PIP), under a performance contract signed with the Government in December 2023,
+leveraging digitalization and innovation. Early results are promising, with revenue collection rising from approximately
+CDF 270 billion in 2020 to CDF 470 billion in 2024. Sustained government commitment to the performance contract,
+tariff reform, and sector governance—alongside continued investments and technical assistance (TA)—remains
+essential to improve operational efficiency and financial health and secure REGIDESO’s transformation.
+
+
+
+                                                                                                                    Page 4
+
+
+
+                                                                                                            Official Use Only
+      The World Bank
+      DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+13. The urban sanitation sector in Kinshasa operates within a complex institutional framework involving multiple
+city-level entities and faces significant challenges in service delivery, regulatory clarity, and financing. Key actors
+include the RASKIN (Régie d’Assainissement de Kinshasa), which oversees urban sanitation services; FONAK (Fonds
+National pour l’Assainissement de Kinshasa), responsible for mobilizing and managing financial resources for sanitation;
+and the BSPE (Bureau Spécial des Projets d’Assainissement), which coordinates project implementation and technical
+oversight. These institutions work under the policy guidance of the Sanitation Department (DAS) of the Ministry of
+Environment and Sustainable Development (MEDD). Strengthening their capacity and coordination is essential for
+improving sanitation outcomes in the city. A Citywide Inclusive Sanitation (CWIS) masterplan for Kinshasa is nearing
+completion, with support from the Kin-Elenda Project (P171141). This masterplan includes the identification of required
+institutional reforms and prescribes both collective (sewered) and non-collective (non-sewered) solutions to sanitation
+management, including the role of local private sector actors in the sanitation and fecal sludge management (FSM) value
+chain. It also incorporates complementary feasibility studies for priority investments, including a pilot Fecal Sludge
+Treatment Plant (FSTP).
+14. An Integrated Urban Water Management (IUWM) master plan for Kinshasa was developed in 2020, with
+funding from the African Development Bank (AfDB). This plan, which covers the period 2025-2035, aims to better
+manage investments in the rehabilitation and strengthening of water production and distribution facilities in the short
+and medium term. The master plan includes a feasibility study, a preliminary design and tender documents for a
+proposed water supply system to serve the western part of the city (Kinshasa West), including a 300,000m3/day
+treatment plant. However, the plan has not been implemented due to a lack of funding and needs to be updated.
+15. This project will improve water supply to key under-served areas of Kinshasa and build capacity to further
+expand and better manage water supply services nationwide. The project will support the rehabilitation and expansion
+of water and sanitation infrastructure in the city, building upon the success of the water component of the ongoing Kin-
+Elenda Project (P171141), and the Access Governance & Reform for the Electricity and Water Sectors Project (AGREE,
+P173506). The latter is financing the update of the master plan for water supply and the detailed technical studies, in
+support of implementation readiness for this project. The project also complements the broader sector reform agenda
+supported by the DRC Water Supply and Sanitation Access Program Multiphase Programmatic Approach (MPA) (PASEA,
+P178389) and AGREE (P173506) projects, by providing additional support to accelerate the utility transformation
+program of REGIDESO and strengthen urban sanitation sector institutions. Additionally, the project is aligned with the
+Inga3 Development Program (P506438), contributing to Pillar 2b, "Inga Growth Corridor," by extending water
+infrastructure and services to rapidly growing economic hubs in Kinshasa that remain underserved, particularly in the
+priority Maluku Special Economic Zone.
+
+
+Relationship to CPF
+ 16. The project contributes to the objectives laid out in the World Bank’s Country Partnership Framework (CPF) for
+ the DRC for FY22-26 (Report no. 168084-ZR). The project is aligned to Focus Area 2, objective 2.2 by supporting
+ improved access to basic infrastructure services. The project focuses on reaching the underserved, especially alleviating
+ the burden of lack of WASH services for women and girls. The project is aligned with the WBG 2020-2025 Fragility,
+ Conflict, and Violence Strategyxvii and addresses fragility, conflict, and violence (FCV) drivers, such as urbanization and
+ youth employability, through urban investments to support economic transformation, mobilization of the private sector
+ and the creation of new WASH sector jobs. The project also aims to build more accountable service provision through
+ institutional strengthening. Hence, the project is consistent with the three cross-cutting themes: climate and
+ environment, gender and governance.
+17. The project is aligned with the Mobilizing Finance for Development (MFD) principles, using a one World Bank
+Group (WBG) approach working in tandem with IFC and MIGA in support of the Scaling-up Water Finance initiative.xviii
+
+
+                                                                                                                        Page 5
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+A private company is interested in rehabilitating and expanding the Lukunga water treatment plant and has approached
+MIGA for a guarantee. The feasibility of this transaction is being explored during preparation including the need for
+viability-gap financing under the project. The project will also prepare the tender documents for other hybrid PPP for
+new water treatment plants around the Maluku/Nsele (Congo-Amot) and Lutendele (Congo-Aval) areas, to be financed
+at a later stage. A PPP feasibility assessment is ongoing that will validate the approach and conditions before appraisal
+(including tariff estimates with REGIDESO as off-taker, VGF estimates under which a hybrid PPP could be considered,
+and the need for risk mitigation instruments such as guarantees). The project is thus tagged as Private Capital
+Mobilization (PCM)xix as well as Private Capital Enabling (PCE). The project is tagged as MFD-enabling as it supports
+reforms, the legal and regulatory framework, and REGIDESO performance measures. The preparation will explore the
+need for deploying risk insurance instruments and payment guarantees through MIGA to unleash private investments.
+The project will also support preparatory studies for PPPs for local manufacturing of sector equipment such as pipes,
+pumps, valves etc. to facilitate import substitution and long-term sustainability of the sector.
+18. The project is aligned with the WBG Strategy on Water Security, the Global Challenge Program (GCP) on Water
+Security and Adaptation and the WBG Action Plan on Climate Change Adaptation and Resilience 2021–2025.
+Accelerating access to WASH is one of the three pillars of the GCP on Water Security and Climate Adaptation. On
+mitigation, the project will increase energy and water use efficiency in water systems for the urban areas through NRW
+reduction and efficiency measures. On adaptation, the project will address vulnerabilities through (a) developing
+climate-resilient infrastructure by enhancing designs and protecting water supply and sanitation (WSS) infrastructure
+from flooding, droughts and landslides.
+19. The project is aligned with the WBG’s Gender Strategy 2024–2030.xx The project will improve health and
+education outcomes and address security and gender-based violence (GBV) risks for women and girls through at-home
+and/or closer-to home water supply access and education on menstrual hygiene management. It will narrow gender
+gaps by reducing women’s physical and time burden of collecting water and by creating economic opportunities through
+professional development programs.
+
+
+C. Proposed Development Objective(s)
+To increase access to climate-resilient water supply and sanitation services in Kinshasa and to strengthen institutional
+capacity for water service delivery.
+
+Key Results (From PCN)
+1.   The Project aims to achieve the following results:
+• PDO Indicator 1: Number of people with access to water supply services. Disaggregated by gender, youth, and level
+  of service (percentage basic and safely managed) (baseline: 0; target: 3.5 million)
+• PDO Indicator 2: Number of people with access to sanitation services. Disaggregated by gender, youth, and level of
+  service (percentage basic and safely managed) (baseline: 0; target: 100,000)
+• PDO Indicator 3: number of schools and health centers (HC) with WASH facilities. Disaggregated by schools, and HC
+  (baseline: 0; target: 100)
+• PDO Indicator 5: Reduction in Non-Revenue Water Ratio of REGIDESO in Kinshasa compared to the baseline
+  (percentage); Baseline: 0; Target: 10%xxi
+• PDO Indicator 4: Number of beneficiaries with enhanced resilience to climate risks, disaggregated by gender, youth,
+  of which people benefiting from climate-resilient infrastructure (baseline: 0; target: 3.5 million)
+
+
+
+
+                                                                                                                     Page 6
+
+
+
+                                                                                                             Official Use Only
+     The World Bank
+     DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+D. Concept Description
+
+20. The project constitutes Phase V under the Accelerating Access to WASH in the Eastern and Southern Africa
+Region Multiphase Programmatic Approach (P512763), which was approved on September 30, 2025. The project will
+directly contribute to the access and reform objectives and results of the MPA by improving access to safely managed
+drinking water services in Kinshasa, through new access to previously unserved populations and through improving the
+quality of existing services for safe and reliable water access at home. The project will also improve WASH access in
+selected schools and health centers and increase access to sanitation services in the city. DRC will benefit extensively
+from Phase I of the regional MPA (P506439), implemented by AUDA-NEPAD. AUDA-NEPAD will engage global and
+regional knowledge partners to deliver TA, analytics, and peer-to-peer exchanges for utility transformation and
+regulator capacity building supported by a learning agenda tailored to the local context.
+21. The project will lay the foundations for phased investments, including attracting private capital and financing
+from development partners towards continuously increasing WASH access in Kinshasa. The initial scope of the project
+fits within the IDA $200 million allocation and limits investments to rehabilitation and expansion of the Ndjili water
+treatment plant (~$60M), construction of a new intake on the Congo River (~$100M), and densification of the related
+distribution network (~$30M). With these investments, it is estimated that the project will provide safely managed
+water supply to 2,000,000 people (of which 500,000 will be new beneficiaries, and 1.5 million will see improvement
+from basic to safely managed water access). Provided that co-financing would be mobilized, another 1.5 million people
+would gain access to safely managed water supply. This scenario assumes co-financing of US$200 million from other
+Development Partnersxxii and PCM for a hybrid PPP for bulk water production of up to US$100 million, bringing the total
+project cost to US$ 500 million. Table 2, Annex 1 outlines project scope and impact scenarios contingent on funding
+availability. The following component description assumes that co-financing and private capital mobilization are secured
+(Scenario 4).
+22. Component 1: National WASH Program, Governance Reforms, and Operator Performance Improvement (US$45
+million IDA). This component finances technical assistance, training and equipment for driving governance and
+institutional reforms [aligned to Pillars 1, 2 and 3 of the MPA respectively].
+23. Sub-component 1.1 – National WASH Program, Governance and Reforms (US$5 million IDA): This component
+finances technical assistance, training and equipment for (i) Preparation of medium-term investment plans (2035-2050)
+for major cities in the DRC, (ii) Support for the creation of a national WASH account, (iii) Feasibility studies, preliminary
+design studies, detailed design studies, and tender documents for scaling up of future climate-resilient WSS investments
+in Kinshasa, (iv) skills development programs for water service professionals including on climate action (in coordination
+with national institutes), (v) institutional support and capacity development of key departments and units within the
+city of Kinshasa administration (RASKIN, FONAK, BSPE), (vi) transaction advisory services for the hybrid PPP for bulk
+water production and for mobilizing guarantees (MIGA), (vii) technical assistance for the rationalization of water
+consumption by the state institutions, (viii) financing strategy for climate-resilient sanitation, (ix) preparatory studies
+for PPPs for local manufacturing of select sector equipment such as pipes, pumps, valves, meters, (x) knowledge
+exchange visits to countries with experience on private capital mobilization for climate-resilient water service delivery,
+and participation in international trainings and forums, including activities of the AFE WASH Access MPA.
+24. Sub-component 1.2 – REGIDESO Performance Improvement (US$40 million IDA): This component finances
+technical assistance, training and equipment to support the implementation of REGIDESO's Performance Improvement
+Action Plan including improving their creditworthiness, digitalization efforts for reducing NRW and other efficiency
+improvements, thus reducing water losses and Greenhouse gas (GHG) emissions. This specifically includes: (i) capacity
+development and professional development of REGIDESO staff, including delivery of courses on digitalization, water
+quality and NRW, (ii) improved customer engagement and female employment in technical and management positions,
+
+
+                                                                                                                        Page 7
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+(iii) measures to reduce NRW, implementation of digital applications and automatic control systems (SCADA), and
+improved water quality management systems, increasing energy efficiency and boosting climate resilience, (iv)
+development of a Performance-Based Contract (PBC) for NRW reduction in a pilot zone of the distribution network, and
+(v) a social connections program for 120,000 households including a communications campaign.
+25. Component 2: Increasing Access to Climate-Resilient Water Supply and Sanitation (US$430 million total; US$130
+million IDA, US$200 million co-financing, and US$100 million in Private Capital Mobilization) [aligned to Pillar 4 of the
+MPA]. It includes two subcomponents:
+26. Subcomponent 2.1 Supporting Climate-Resilient Water Supply Access (US$415 million; US$115 million IDA,
+US$200 million co-financing, US$100 million PCM). This subcomponent finances infrastructure investments in climate-
+resilient water supply production and distribution systems in Kinshasa thereby reducing vulnerability to droughts and
+boosting resilience to flood-linked damage and contamination that causes negative public health outcomes. It includes
+(i) rehabilitation and expansion of the Ndjili water treatment plant, construction of a new intake on the Congo River to
+replace the current flood-prone intake on the River Ndjili, and intensification of the related distribution network
+including transmission lines, reservoirs and primary and tertiary distribution mains, (ii) viability gap financing (VGF) for
+the construction through PPP of a new climate-proofed water treatment plant in Maluku (Congo Amont), and
+rehabilitation and expansion of the existing Lukunga water treatment plant including construction of a new flood and
+sediment proof water intake. The aim is to leverage public funds (IDA and other concessional co-financing), to mobilize
+private financing from IFC and other lenders under a proposed hybrid PPP for the design, construction, operation and
+transfer of these facilities (DBOT). The hybrid PPP with a VGF-grant aims to ensure an acceptable tariff for REGIDESO as
+off-taker and a tariff structure affordable to different consumer groups. (iii) preparation and implementation of
+Environmental and Social Impact Assessments (ESIA) and Resettlement Action Plans (RAP), (iv) supervision costs, and
+(v) resettlement costs associated with the water systems.
+27. Subcomponent 2.2 – Sanitation and WASH access in institutions (US$15 million IDA). This subcomponent
+finances TA, works, training, and equipment for (i) climate-proofed WASH facilities in schools and health centers and
+education activities on menstrual hygiene management for girls (ii) Construction of a sludge treatment plant (FSTP) at
+the University of Kinshasa to reduce GHG emissions (iii) Construction of latrines at Camp Kabila to reduce GHG emissions,
+(iv) Formalization and professionalization of sanitation private sector operators for increased sustainability, (v) technical
+studies for additional wastewater/fecal sludge treatment plants that could further reduce GHG emissions and protect
+water sources, (vi) sanitation communication campaigns to boost positive public health outcomes.
+28. Component 3: Project Coordination and Management (US$25 million IDA). This component finances operating
+costs; training; TA, equipment and vehicles for project coordination, management, communication, implementation,
+monitoring and evaluation (M&E), including baseline and end line surveys, and coordination costs related to the AFE
+WASH MPA for the proposed Project Implementation Unit (PIU) – the Cellule d’Exécution des Projets – Eau (CEP-O) and
+the technical support unit at REGIDESO respectively.
+29. Citizen Engagement, Social Inclusion and Gender: The project will integrate citizen engagement and social
+inclusion interventions to enhance voice and participation, including e.g. strengthening customer feedback for
+REGIDESO water services and a household connection program to remove barriers for those without services. In line
+with the WASH MPA framework on gender, the project will close gender gaps in the burden for water collection and
+enhances girls’ school attendance through inclusion of WASH facilities and menstrual hygiene education programs in
+schools.
+30. Climate Co-Benefits: The project increases access to WSS services essential for climate adaptation. It focuses on
+reducing water losses, climate-proofing WSS infrastructure in the face of increasing floods and severe erosion.
+Subcomponent 2.1 finances expansion and improvement of the water production and supply systems for Kinshasa,
+
+
+                                                                                                                        Page 8
+
+
+
+                                                                                                                Official Use Only
+       The World Bank
+       DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+  which will improve the flood resilience of the water supply systemsxxiii. Subcomponents 1.1 strengthens institutional
+  capacities for climate resilient WASH investment planning and an enhanced regulatory environment, while
+  subcomponent 1.2 will contribute to mitigation by supporting REGIDESO in reduction of NRW and energy efficiency
+  measures.
+  31. Paris Alignment: The proposed project is considered aligned with the Paris Agreement on both climate mitigation
+  and adaptation. It is consistent with the country’s nationally determined contributions (NDCs) and the National
+  Adaptation Plan 2022-2026. Developing resilient WSS services is among the priority adaptation actions in the revised
+  NDC 2021.xxiv The project directly supports climate adaptation through expansion of resilient water supply for Kinshasa,
+  and enhanced capacity of operators to manage and maintain systems in the face of climate risks. Regarding climate
+  mitigation, project investments are on the Universally Aligned list and do not present risks of having a negative impact
+  on DRC’s GHG-emissions -reduction development pathway. The project has been screened for climate change and
+  disaster impacts, and specific resilience-building measures will be identified and considered in the project documents
+  prior to appraisal.xxv No specific risks regarding the mitigation and adaptation aspects of the Paris Alignment assessment
+  are reported at this stage.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+Environment and Social risks are Substantial.
+  32. The overall risk is based on the project’s anticipated environmental and social risks and impacts, mainly activities
+  on infrastructure investments in urban water supply production and distribution systems, including bulk water
+  treatment plants. While many project activities are expected to be site-specific and of limited spatial extent, with
+  generally predictable, temporary, and reversible adverse impacts, the overall E&S risk is elevated due to operational
+  complexity, broad geographic coverage, and significant potential for localized environmental and social risks and
+  impacts during both construction and operation phases. Key environmental risks include disruption from trench
+  excavation, occupational and community health and safety hazards, fire and explosion risks, waste generation (including
+  hazardous and fecal sludge waste), chemical management challenges, pollution, disturbance of aquatic habitats, and
+  inadequate wastewater management. Key social risks and impacts include potential land acquisition and displacement,
+  exclusion of vulnerable groups, labor influx, community health and safety concerns, and risks of sexual exploitation and
+  abuse/sexual harassment (SEA/SH). While mitigation measures and technical assistance are integrated into project
+  design, the magnitude and complexity of these environmental and social risks and impacts warrant a substantial rating
+  at this concept stage, pending further assessment and stakeholder engagement.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+
+
+                                                                                                                        Page 9
+
+
+
+                                                                                                                Official Use Only
+        The World Bank
+        DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+  CONTACT POINT
+
+ World Bank
+   Feriha Mukuve Mugisha
+   Senior Water Specialist
+
+   Patrick Goy Ndolo
+   Senior Water Supply and Sanitation Specialist
+
+   Shelley Mcmillan
+   Lead Water Specialist
+
+ Borrower/Client/Recipient
+   Democratic Republic of the Congo
+
+ Implementing Agencies
+   Ministry of Water Resources and Electricity
+
+  FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+ @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+ APPROVAL
+
+
+ Task Team Leader(s):                               Feriha Mukuve Mugisha, Patrick Goy Ndolo, Shelley Mcmillan
+
+ Approved By
+
+ Practice Manager/Manager:                          Soma Ghosh Moulik                     25-Nov-2025
+
+ Country Director:                                  Kofi Nouve                            18-Dec-2025
+
+
+
+
+i World Bank Databank 2025 Population statistics.
+
+
+
+
+                                                                                                                        Page 10
+
+
+
+                                                                                                                 Official Use Only
+             The World Bank
+             DRC: Scaling-Up Water Supply and Sanitation Access in Kinshasa Project (P513301)
+
+
+
+ii Natural Resources Governance Institute (NRGO) 2015. Country Strategy Note: Democratic Republic of Congo.
+
+iii World Bank. 2025. MACRO POVERTY OUTLOOK: Country-by-country Analysis and Projections for the Developing World
+iv World Bank. 2017. Productive and Inclusive Cities for an emerging DRC
+v World Bank. 2024. “Macro Poverty Outlook: Democratic Republic of Congo.” Washington, DC: World Bank. Available at:
+
+https://www.worldbank.org/en/publication/macro-poverty-outlook/mpo_cod
+vi 2030 population projection using 5.1 percent growth rate from a population of 17 million in 2021.
+vii University of Notre Dame, Notre Dame Global Adaptation Initiative, Country Rankings, Scores for 2022.
+viii World Bank Group. 2023. Democratic Republic of Congo (DRC) Country Climate and Development Report. CCDR Series. © World Bank Group.
+ix https://www.cia.gov/the-world-factbook/countries/congo-democratic-republic-of-the/#geography.
+x WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP). 2025. “Progress on household drinking water,
+
+sanitation and hygiene 2000–2024: special focus on inequalities.” Geneva: WHO/UNICEF. Available at: https://washdata.org/reports/jmp-2025-
+wash-households
+xi Kapembo ML, Mukeba FB, Sivalingam P, Mukoko JB, Bokolo MK, Mulaji CK, Mpiana PT, Poté JW. Survey of water supply and assessment of
+
+groundwater quality in the suburban communes of Selembao and Kimbanseke, Kinshasa in Democratic Republic of the Congo. Sustain Water
+Resour Manag. 2022;8(1):3. doi: 10.1007/s40899-021-00592-y. Epub 2021 Nov 10. PMID: 34790861; PMCID: PMC8580925.
+xii As of 2025, Kinshasa’s main water treatment plants and their functional capacities are: N’djili (280,000 m³/day), Ngaliema (80,000 m³/day),
+
+Ozone 1 (70,000 m³/day), Ozone 2 (92,000 m³/day), Lukaya (36,000 m³/day), Lukunga (35,000 m³/day), Lemba Imbu (35,000 m³/day), Maluku
+(2,280 m³/day), Mitendi (1,800 m³/day), and several borehole systems. The combined functional capacity is approximately 635,800 m³/day against
+an installed capacity of 786,800 m³/day. With the commissioning of Ozone 3 (110,000 m³/day, expected in 2026), total capacity will rise to about
+886,800 m³/day, still well below the city’s estimated demand of over 2 million m³/day.
+xiii World Bank. 2023. DRC Water Sector Public Expenditure Review. Available Online:
+
+https://thedocs.worldbank.org/en/doc/dd99b720176a81d2243053bc3986cccd-0010012024/original/DRC-WASH-Infographic-English.pdf
+xiv
+     Established under article 1 of Decree 22/04 of 1 March 2022 on the creation, organization and functioning of the Public Water Service Regulatory
+Authority (ARSPE).
+xv
+    The measures d’application of the law are currently being developed, including the organigram and internal procedures.
+xvi
+     Governed by Law No. 18/016 of July 9, 2018, on Public-Private Partnerships, complemented by Decree No. 21/04 of October 2, 2021, creating
+the UC-PPP.
+xvii World Bank. 2020. World Bank Group Strategy for Fragility, Conflict, and Violence 2020–2025.
+xviii Khemka, Rochi; Lopez, Patricia; Jensen, Olivia. 2023. Scaling Up Finance for Water: A WBG Strategic Framework and Roadmap for Action. © World
+
+Bank. http://hdl.handle.net/10986/40225
+xix Mobilization of private equity, IFC debt and other development financing institutions debt
+xx World Bank Group Gender Strategy 2024 – 2030: Accelerate Gender Equality to End Poverty on a Livable Planet. World Bank Group; Washington
+
+DC.
+xxi
+      NRW is estimated at 38 percent in 2025; a 10 percent reduction target represents NRW of 28 percent in 2031.
+xxii Co-financing from the African Development Bank and OPEC Fund for International Development is being explored.
+xxiii Over 57 percent of REGIDESO’s current water production capacity is located on tributary rivers to the Congo River, which are heavily exposed to
+
+flood risks, erosion, sedimentation and anthropogenic pollution. The transfer of the intake of the Ndjili water treatment plant from River Ndjili to the
+Congo River and expansion of the plant will ensure at least 76 percent of the city’s water production is secure against these risks.
+xxiv This is alongside a suite of other measures such as promoting increased carbon stocks in the land use sector, protecting riverbanks, ensuring
+
+floodplain protection, identifying the most severely climate risk–affected areas, and building the country's capacity for climate risk management.
+xxv The climate and disaster risk screening assessment has identified the project is vulnerable to floods and landslides. To mitigate these risks,
+
+infrastructure design will be informed by hazard risk maps. Infrastructure investments will ensure protecting sites from future risks, incorporating
+systemic and contextual risks in investment and O&M plans.
+
+
+
+
+                                                                                                                                                  Page 11
+
+
+
+                                                                                                                                         Official Use Only
+

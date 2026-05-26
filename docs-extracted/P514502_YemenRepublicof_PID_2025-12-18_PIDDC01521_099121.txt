@@ -1,0 +1,559 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Yemen Health Nutrition and WASH Project(P514502)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 18-Dec-2025 | Report No: PIDDC01521
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     Yemen Health Nutrition and WASH Project(P514502)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Yemen, Republic of             P514502                      Yemen Health Nutrition and WASH Project
+Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+MID EAST,NORTH                 06-Apr-2026                  27-May-2026                   Health, Nutrition &
+AFRICA,AFG,PAK                                                                            Population
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             United Nations Office for    WHO, UNOPS, UNICEF
+Financing (IPF)                Project Services, World
+                               Health Organization,
+                               United Nations Children’s
+                               Fund
+
+Proposed Development Objective(s)
+The project development objective is to deliver integrated health, nutrition and WASH services to targeted areas of
+Yemen while building local institutional capacity.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   No
+Is this project Private Capital Enabling (PCE)?             No
+
+SUMMARY
+  Total Operation Cost                                                                                           100.00
+
+  Total Financing                                                                                                 65.00
+             of which IBRD/IDA                                                                                   65.00
+  Financing Gap                                                                                                   35.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                   65.00
+
+                                                                                                                      Page 1
+
+
+
+                                                                                                           Official Use Only
+          The World Bank
+          Yemen Health Nutrition and WASH Project(P514502)
+
+
+           IDA Grant                                                                                                                       65.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                          Concept Review Decision
+Substantial                                                                           The review did authorize the preparation to continue
+
+
+
+
+    B. Introduction and Context
+
+    Country Context
+
+1.      Yemen faces severe and compounding crises. The poverty rate has soared due to prolonged conflict, economic
+collapse, and rising food prices. Yemen ranks as the least developed in the Middle East and North Africa (MNA) region,
+positioned 184 out of 193 on the Human Development Index (HDI) in 2025,1 and sixth out of 179 countries on the Fragile
+States Index.2 Since the conflict began in 2014, Yemen remains divided between areas controlled by the Houthi (Ansar
+Allah) movement—including the capital, Sanaa – and those governed by the Internationally Recognized Government (IRG).
+The economy is fragmented, with distinct monetary institutions and exchange rates in IRG and Houthi-controlled areas.
+The last official poverty estimate (2014) was 48.6 percent, but recent modeling suggests it reached as high as 74 percent
+in 2022.3 Food insecurity is widespread, with 63 percent of households reporting inadequate food consumption in early
+2025.4 Nineteen million people are facing food insecurity and need humanitarian assistance,5 and 17.4 million people
+need water sanitation and hygiene (WASH) support.5
+
+2.      Yemen is among the countries most affected by climate change. The country has low adaptive capacity, ranking
+173 out of 187 on the ND-GAIN Country Index.10 Temperatures are rising, and by 2060, an increase of 1.64°C is expected.11
+The country faces more frequent heat waves, changing rainfall patterns, and increased floods, droughts, and tropical
+cyclones.12
+
+3.       The combination of these factors disrupts the delivery of essential health, nutrition, and WASH services. Today,
+nearly half of all Yemeni children under five are chronically stunted. This serves as a warning signal of chronic deprivation
+and failures in essential service delivery.
+ Sectoral and Institutional Context
+
+
+
+1
+    UNDP, Human Development Report, May 2025.
+2 World Population Review - Fragile States Index Rankings, https://worldpopulationreview.com/country-rankings/fragile-states-index.
+3 World Bank, Yemen Poverty and Equity Assessment, February 2024.
+4 World Bank, Yemen Poverty and Equity Brief. April 2025.
+5 World Bank, Yemen Economic Monitor Spring 2025: Persistent Fragility amid Rising Risks.
+
+
+
+
+                                                                                                                                              Page 2
+
+
+
+                                                                                                                                      Official Use Only
+           The World Bank
+           Yemen Health Nutrition and WASH Project(P514502)
+
+
+4.       Yemen’s 2020 Human Capital Index estimated that a child born in Yemen will reach only 37 percent of their
+potential productivity compared to full health and education—far below the Middle East and North Africa average of 57
+percent and similar to low-income countries.6 Since 2013, infant-five and under-five mortality have improved.7 However,
+rates of wasting and stunting remain unchanged and among the highest globally. Malnutrition prevents human capital
+development by limiting physical growth, impairing learning capacity, and reducing long-term economic productivity.
+Stunting stood at 49 percent in 2023.8 Seventeen percent of Yemeni children are underweight or wasted due to acute
+malnutrition and 86 percent are anemic.9 One in four women of reproductive age are underweight, and over 70 percent
+are anemic—conditions that significantly increase the risk of low-birthweight and preterm infants, maternal complications
+such as infections and hemorrhage, and higher rates of newborn illness and mortality. An estimated 2.2 million under-five
+children and 1.3 million pregnant and lactating women need to be treated for acute malnutrition in Yemen.10
+
+5.       Years of international investment have strengthened health service delivery, providing a foundation for
+addressing malnutrition and stunting, but significant gaps remain. Seventy-one percent of Yemen’s 5,214 primary health
+centers (PHCs) receive some form of external support, 11 with forty percent supported directly by the World Bank through
+the Emergency Health and Nutrition Project (EHNP, P161809, US$483 million, 2017 - 2021) and Emergency Human Capital
+Project (EHCP, P176570, US$592 million, 2021 - 2026). The heavy reliance on external support makes health service
+delivery highly vulnerable to funding fluctuations. While antenatal care and skilled birth attendance have increased since
+2013, full immunization coverage has dropped to around 29 percent, and vaccination outreach has been suspended in
+Houthi-controlled governorates.12 Nearly five million women of childbearing age, including pregnant and breastfeeding
+women, face challenges accessing reproductive health services, especially in rural districts.13 The health worker-to-
+population ratio is just 12 per 10,000—about half the World Health Organization’s recommended minimum—and health
+workers in Houthi-controlled areas have gone without salaries for over two years. Most health workers in Yemen depend
+on per diem or incentive payments funded by international actors—payments intended as temporary support, not full
+salaries.
+
+6.       Access to safe water and sanitation is limited due to damaged infrastructure, water scarcity, and recurrent
+droughts, undermining health and nutrition outcomes. Before the conflict, water service coverage barely reached 50
+percent of the population. Today, the public network serves less than 25 percent of the population due to damaged
+infrastructure, water scarcity, recurrent droughts and lack of financial resources and public energy. Only 21 percent of
+WASH facilities are fully functional in the 16 cities assessed.19 Most PHCs (59 percent) have no water and depend on water
+trucking, whereas 26 percent have no sanitation facilities.14 Behavioral aspects of WASH, such as hygiene promotion and
+use of clean water, are essential for disease prevention and improved health outcomes. Yet, only about half of households
+understand the importance of handwashing at appropriate times. 15
+
+
+     Relationship to CPF
+
+6 World Bank, Yemen Human Capital Index Brief 2020, September 2020.
+72022-2023 Yemen Multiple Indicator Cluster Survey (MICS).
+8 2022-2023 Yemen Multiple Indicator Cluster Survey (MICS).
+9 2022-2023 Yemen Multiple Indicator Cluster Survey (MICS).
+10
+     Yemen SMART surveys.
+11 UNICEF. Yemen Primary Care Facility Assessment – December 2024.
+12 2022-2023 Yemen Multiple Indicator Cluster Survey (MICS).
+
+13 UNFPA. (UNFPA), SITUATION REPORT CRISIS IN YEMEN July – September 2025.
+14 UNICEF. Yemen Primary Care Facility Assessment – December 2024.
+15 Yemen SMART Survey (2022).
+
+
+
+
+                                                                                                                      Page 3
+
+
+
+                                                                                                              Official Use Only
+         The World Bank
+         Yemen Health Nutrition and WASH Project(P514502)
+
+
+7.       The proposed Project will contribute to outcome 1 of the FY26-28 World Bank’s Country Partnership Framework
+(CPF) for Yemen on improved nutrition and food security. Aligning with the CPF, the Project will prioritize investments
+through geographic targeting. The Project will invest in multisectoral interventions to reduce malnutrition and stunting,
+through convergence of interventions in health, nutrition, WASH and social protection in target governorates. The Project
+is fully aligned with the World Bank’s Fragility, Conflict, and Violence (FCV) Strategy, which emphasizes sustained
+engagement in fragile contexts, preservation of human capital, and resilience to climate and conflict shocks. The Project
+will address critical drivers of fragility by ensuring equal and safe access to essential health and nutrition services,
+improving WASH outcomes, and strengthening local institutions to maintain service delivery in a highly fragmented
+environment. The Project will strengthen frontline and community capacity and promote local ownership and
+accountability, relying on decentralized health institutions to deliver services while also supporting interventions to
+address gender norms affecting nutrition outcomes for women and children. Finally, the Project is aligned with the goals
+of the Paris Alignment and supports Yemen’s adaptation to climate change and will not cause any increase in greenhouse
+gas emissions.
+
+ C. Proposed Development Objective(s)
+ 8.       Deliver integrated health, nutrition and WASH services to targeted areas of Yemen while building local
+ institutional capacity.
+
+   Key Results (From PCN)
+9.      The achievement of the PDO will be measured through the following PDO level results indicators:
+    • Enhanced capacity of Yemeni institutions (i.e.: IRG Health and Water Ministries; Governorate and District Level
+        Health Offices; Health Departments within universities and training institutes; Local Water and Sanitation
+        Corporations; Autonomous Utilities)
+    • Reduced low birth rate in target governorates
+    • Increase in exclusive breastfeeding rates in targeted communities
+    • Number of beneficiaries reached with integrated health, WASH and social protection interventions
+    • People receiving quality health, nutrition and population services (disaggregated by level of care)16
+
+ D. Concept Description
+
+10.     The Project will build on the eight years of achieved gains of the two predecessor projects, EHNP and EHCP. A
+key strength of the ongoing EHCP is its use of country platforms to deliver cost-effective health and WASH services. Rather
+than relying on non-governmental organizations or establishing parallel systems, the Project leveraged Yemen’s existing
+health workforce and health facilities, as well as the Urban Water and Sanitation Project Management Units (UWSS-PMU),
+Local Water and Sanitation Corporations (LWSCs), branches and Autonomous Utilities (AUs) and the branches of the
+General Authority of the Rural Water Project (GARWSP). The project has provided essential health and WASH services
+across the country despite extremely difficult implementation circumstances. Third-party monitoring (TPM) has provided
+robust information for analysis and supervision, and course correction during implementation.
+
+11.     Building on its predecessors, the proposed Project will prioritize integration to address malnutrition, strengthen
+local capacity, and revamp health workforce development. This will be done by aligning community cadres with national
+
+16 The Corporate Scorecard indicator for HNP
+
+
+
+
+                                                                                                                       Page 4
+
+
+
+                                                                                                               Official Use Only
+          The World Bank
+          Yemen Health Nutrition and WASH Project(P514502)
+
+
+strategies, institutionalizing training systems, and creating job opportunities for women. To this end, the new operation
+will seek greater convergence between health, WASH, and social protection interventions to ensure that activities are
+geo-located to target communities.
+
+COMPONENT 1: Delivery of Integrated Health, Nutrition, and WASH Services
+
+12.      Component 1 will integrate health, nutrition, WASH, and social protection interventions in alignment with the
+Scaling Up Nutrition Secretariat and the government-led Multi-Sectoral Nutrition Action Plan. Sub-component 1.1 will
+deliver comprehensive health services across 11 governorates—Ad Dali’, Aden, Al Hodeidah, Dhamar, Hadramawt, Hajjah,
+Ibb, Lahj, Sana’a (including Sana’a City), Shabwah, and Ta’iz—which together account for 78 percent of Yemen’s stunted
+children.17 These governorates will fully overlap with those covered under the forthcoming Social Protection Project, as
+well as the governorates reached by the Aden-Tuban and Wadi Hajir basins under the Yemen Improved Water
+Management and Irrigation for Sustainability and Efficiency Project (P505562). Additionally, seven of the eleven
+governorates intersect with the Yemen Food Security Response and Resilience Project (P176129), ensuring strong
+geographic and programmatic synergies. Sub-component 1.2 will introduce a Geographic Accelerator program,
+strategically co-locating WASH and social protection activities to reach the same beneficiaries with multiple services,
+addressing the multisectoral drivers of malnutrition. Depending on financing, further co-location will be explored.
+
+SUB-COMPONENT 1.1: Prioritizing and optimizing the delivery of an integrated minimum service package (MSP) across
+the continuum of care
+
+13.     This sub-component will prioritize delivering a Minimum Service Package (MSP) across all levels of care—
+primary, secondary, and tertiary in facilities supported by the Project. Governorate-level plans will be co-developed by
+an implementing agency and Governorate and District Health Offices, which play a critical role in supervising service
+delivery, to map referral networks and allocate resources to ensure women and children in high-need districts have access
+to comprehensive health services. This collaborative process will aim to strengthen the capacity of local health authorities
+in planning, management, data analysis and identify areas where domestic resources for health can be mobilized.
+
+14.      A comprehensive review of the MSP implemented in primary care facilities will be conducted during
+preparation. Currently, UNICEF implements the MSP at the primary care level with financing from the World Bank, FCDO,
+and GAVI—all of which face significant reductions in health sector funding. As a result, the number of PHCs supported by
+the World Bank is expected to decline under the new project. The review will define the support package for each facility
+and establish prioritization criteria for selecting PHCs within target governorates. The updated MSP, which currently
+covers essential maternal, child and reproductive health services, will place greater emphasis on maternal nutrition,
+breastfeeding support, and preventive care, ensuring kits are context-specific and responsive to district needs for
+efficiency. Key nutrition-specific interventions for prenatal care will include, but not be limited to, Multiple Micronutrient
+Supplementation (MMS), calcium supplementation, and Intermittent Preventive Treatment of malaria in pregnancy
+(IPTp). For children under five, nutrition-sensitive interventions will include, but not be limited to, delayed Umbilical Cord
+Clamping (DCC), Kangaroo Mother Care (KMC), Vitamin A supplementation, prophylactic zinc, ORS + Zinc for diarrhea,
+Infant and Young Child Nutrition (IYCN) counseling, micronutrient powders (MNP), and treatment of Severe Acute
+Malnutrition (SAM). During preparation, efforts will engage other donors to align support with the MSP approach and
+promote a coordinated, systematic response across partners.
+
+17
+     Using SMART 2021 estimates for stunting rates. Subject to change during Appraisal.
+
+                                                                                                                          Page 5
+
+
+
+                                                                                                                  Official Use Only
+          The World Bank
+          Yemen Health Nutrition and WASH Project(P514502)
+
+
+
+15.      New implementing partners and approaches will be explored for MSP delivery at secondary and tertiary levels.
+WHO currently supports these levels by financing inputs for 117 hospitals, 64 therapeutic feeding centers, and 8 National
+Blood Transfusion Centers. The estimated number of secondary and tertiary facilities to be supported under the proposed
+Project decreases to around 40 hospitals, 40 Therapeutic Feeding Centers and three National Blood Transfusion Centers.
+To strengthen planning across the full continuum of care and improve efficiency, A review of the MSP for secondary and
+tertiary care will be conducted during preparation to define the support package and establish principles for facility
+selection. During preparation, efforts will also focus on engaging with other donors to adopt the MSP approach in hospitals
+in IRG governorates.
+
+16.      While this sub-component will target approximately 11 governorates, it will still maintain the flexibility to
+respond to cholera and other disease outbreaks nationwide. This includes cholera preparedness and prevention
+activities such as, but not limited to, prepositioning of supplies, evidence generation, sustaining and strengthening oral
+rehydration corners and diarrhea treatment centers.
+
+17.      This sub-component will finance in-service training for health workers through structured mentorship models.
+It will build on UNICEF’s proven, cost-effective approach at the primary care level while introducing an enhanced model
+that engages hospital staff to mentor colleagues at primary care facilities. In addition to strengthening clinical quality of
+care, these mentorship models will aim to improve the quality of GBV services and foster respectful, person-centered care
+across the continuum of services.
+
+SUBCOMPONENT 1.2: Geographic Accelerator Program
+
+18.     Using governorate-level plans and local health authorities under sub-component 1.1, the Geographic
+Accelerator Program will tailor interventions to local needs through rapid area-based assessments. It will design
+integrated service bundles combining nutrition, WASH, and social protection measures. Key activities include:
+
+      •   Coordination and Monitoring: Coordination and monitoring will be managed through a convergence scorecard
+          implemented by community health workers and tracked at district and governorate levels to measure multi-
+          sectoral progress.
+
+      •   WASH Infrastructure: To restore essential water and sanitation services in underserved areas, an implementing
+          agency will lead targeted investments in WASH infrastructure at health facilities and in communities. These efforts
+          will include rehabilitating and extending water and sanitation networks to reduce losses, improve coverage, and
+          enhance water quality. Latrines in health facilities will be constructed or repaired with gender-responsive and
+          disability-accessible designs, and handwashing stations will be installed in targeted health facilities and public
+          spaces to strengthen hygiene practices. Nature-based and engineered flood prevention measures will protect
+          critical infrastructure, while climate adaptation strategies—such as rainwater harvesting, decentralized storage,
+          leakage control, pressure management, and water-saving technologies—will help manage drought and variability.
+          Community engagement will support operation and maintenance, and utilities will receive training on asset
+          management, energy efficiency, and climate risk planning.
+
+
+
+
+                                                                                                                         Page 6
+
+
+
+                                                                                                                 Official Use Only
+          The World Bank
+          Yemen Health Nutrition and WASH Project(P514502)
+
+
+      •   Solar Systems: To improve service reliability and reduce operational costs, implementing agency will also install
+          solar systems at targeted hospitals and pumping stations. These systems will replace or hybridize diesel generation
+          and ensure continuity of services during grid outages or fuel shortages.
+
+      •   Social Behavior Change and Communication: an implementing agency will implement social behavior change and
+          communication activities to deliver unified health, nutrition, WASH, and social protection messages through
+          community mobilizers, radio, and social media. These activities will target the behavioral aspects of WASH.
+          Gender-responsive interventions will engage both women and men at the household level, including piloting and
+          evaluating an adapted men’s engagement curriculum with support from Yemeni women-led organizations. These
+          activities aim to reduce gender inequalities, promote shared decision-making, and sustain positive nutrition
+          practices and equitable relationships at household and community levels.
+
+      •   Link to Social Protection: While Component 1 will not directly provide cash transfers, it will work closely with the
+          upcoming Social Protection Project by training staff involved in registration for vulnerable households. This
+          collaboration will harmonize messaging, targeting, and planning, strengthening demand-side measures without
+          duplicating efforts.
+
+
+COMPONENT 2: Systems building for sustainable delivery of health, nutrition and WASH services
+
+19.      This component focuses on building sustainable systems for health, nutrition, and WASH service delivery by
+strengthening sub-national institutions and the health workforce. It includes tailored training for line ministries, local
+health and water offices, LWSCs, branches and AUs in planning, monitoring, and financial management, alongside support
+for refining national health strategies. A dedicated subcomponent will address critical health workforce reforms, aiming
+to resolve systemic bottlenecks and establish more sustainable funding mechanisms for health worker salaries and
+support recruitment and retention and career growth of female staff. These reforms will also contribute to job creation
+and retention in the health sector, helping transition from volunteer-based service delivery to a more stable and
+professionalized health workforce.
+
+SUBCOMPONENT 2.1: Build capacity of national and sub-national institutions to deliver quality health, nutrition and
+WASH services
+
+20.      This subcomponent focuses on building organizational capacity. For the health sector, an implementing agency
+will build on the findings of an organizational capacity assessment that is currently being conducted by the World Bank.
+An implementing agency will support the IRG Ministry of Public Health and Population (MoPHP) as well as Governorate
+and District Health Offices in target governorates across key health system functions, including health system
+management, planning, monitoring, and financial management. The subcomponent may also support the refinement and
+rollout of existing national health policies, protocols (including GBV and SEA/SH system wide protocols), and quality
+standards, and will establish quality improvement committees at the district level, potentially beginning with a select
+number of District Health Offices. For the WASH sector, an implementing agency will lead organizational capacity building
+for UWSS-PMU, PWP, LWSC, branches, AUs and the branches of GARWSP. Key priorities include strengthening operations
+through staff training and modernizing information systems; improving financial management with better billing and
+collection, strategic planning and conducting technical and sanitation studies; promoting sustainability through better
+groundwater management and training on energy efficiency; and enhancing community engagement by updating
+customer data and empowering Water User Associations.
+
+                                                                                                                          Page 7
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         Yemen Health Nutrition and WASH Project(P514502)
+
+
+
+SUBCOMPONENT 2.2: Strengthen national health workforce to deliver high quality care
+
+21.     This subcomponent focuses on restructuring the healthcare workforce and creating a sustainable plan to phase
+out health worker per diems. A comprehensive National Health Workforce Development Plan will be developed that
+includes workforce mapping, forecasting, and strategies to improve retention—particularly for women and those in rural
+areas—while establishing career pathways. The plan will also outline a clear transition framework for health workforce
+financing. A local implementing partner may be subcontracted to strengthen pre-service training through diploma
+programs and continuous professional development. Work with national institutions will further address normative
+gender barriers to ensure women’s sustained participation in the health workforce.18
+
+COMPONENT 3: Support to prevent and respond to communicable disease outbreaks
+
+22.     This component aims to maintain strong emergency response capacity by strengthening disease surveillance
+systems nationwide. Throughout the entire country, the project will support rapid response teams, enhance public health
+laboratory capabilities, and implement targeted public health campaigns. Emergency water trucking and fuel to hospitals
+and water facilities will be provided and supported under Component 1 or in areas experiencing outbreaks, while
+continuing transition plans to reduce reliance on fuel deliveries and water trucking. Additionally, water quality testing
+through existing laboratories will be supported.
+
+COMPONENT 4: Project management
+
+23.      This component will cover all project management functions, including supervision costs, monitoring and
+evaluation, third-party monitoring, and the financing of environmental and social risk management requirements, as well
+as fiduciary and procurement responsibilities.
+
+COMPONENT 5: Contingent Emergency Response Category
+
+24.    A zero cost CERC component will support the operation in the case of emergencies. An Emergency Response
+Operational Manual will be prepared and agreed with the World Bank for use if this component is triggered.
+
+25.     Under the proposed project, UNICEF, UNOPS, and WHO will serve as grant recipients as well as managing and
+implementing entities on an exceptional basis. All three agencies have extensive experience operating in fragility, conflict,
+and violence (FCV) contexts, including Yemen, and have successfully managed World Bank-financed projects such as EHCP,
+EHNP, YCRP, and YIUSEP. A local implementing partner may also be introduced to support pre service training of health
+workers, alongside national training institutes and universities.
+
+
+  @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                             Policies                                              Triggered?
+
+
+
+18 World Bank. (2025), Health Action Brief
+
+
+                                                                                                                         Page 8
+
+
+
+                                                                                                                 Official Use Only
+     The World Bank
+     Yemen Health Nutrition and WASH Project(P514502)
+
+
+
+Projects on International Waterways OP 7.50                          No
+Projects in Disputed Area OP 7.60                                    No
+
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Avril Dawn Kaplan
+ Senior Health Specialist
+
+ Naif Mohammed Abu-Lohom
+ Senior Water Resources Management Specialist
+
+ Arsala Deane
+ Senior Operations Officer
+
+Borrower/Client/Recipient
+ United Nations Office for Project Services
+
+ World Health Organization
+
+ United Nations Children’s Fund
+
+Implementing Agencies
+ WHO
+
+ UNOPS
+
+ UNICEF
+
+FOR MORE INFORMATION CONTACT
+
+
+
+
+                                                                                  Page 9
+
+
+
+                                                                          Official Use Only
+     The World Bank
+     Yemen Health Nutrition and WASH Project(P514502)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Avril Dawn Kaplan, Naif Mohammed Abu-Lohom, Arsala Deane
+
+Approved By
+
+Practice Manager/Manager:             Michele Gragnolati                  01-Dec-2025
+
+Country Director:                     Dina N. Abu-Ghaida                  18-Dec-2025
+
+
+
+
+                                                                                                        Page 10
+
+
+
+                                                                                                 Official Use Only
+

@@ -1,17 +1,17 @@
 # Portfolio Audit — Lead Testing in WB Water Projects
 
-Total projects: **81**   |   Total commitment: **$17.0 B**
+Total projects: **81**   |   Weighted commitment to water: **$3.4 B**   |   (Unweighted: $17.0 B)
 
 ## Verdict distribution
 
-| Verdict | N projects | $ B |
-|---|---:|---:|
-| baseline-drinking | 1 | 0.03 |
-| effluent-only | 2 | 0.78 |
-| table-unclassified | 1 | 0.14 |
-| mentioned | 23 | 5.35 |
-| absent | 46 | 10.46 |
-| no-docs | 8 | 0.28 |
+| Verdict | N projects | Weighted $B | Unweighted $B |
+|---|---:|---:|---:|
+| baseline-drinking | 1 | 0.00 | 0.03 |
+| effluent-only | 2 | 0.08 | 0.78 |
+| table-unclassified | 1 | 0.00 | 0.14 |
+| mentioned | 23 | 1.53 | 5.35 |
+| absent | 46 | 1.66 | 10.46 |
+| no-docs | 8 | 0.09 | 0.28 |
 
 ## Per-project details (sorted by commitment)
 

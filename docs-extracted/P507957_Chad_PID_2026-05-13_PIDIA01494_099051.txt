@@ -1,0 +1,831 @@
+Public Disclosure Authorized
+                                          The World Bank
+                                          Chad Water Security and Resilience Project - PASER (P507957)
+
+
+
+
+                                     Note to Task Team: The following sections are system generated and changes must be made in Data Sheet(s). Delete
+                                     this note when finalizing the document.
+
+
+                                     @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+
+
+
+           _For Official Use Only_
+                                                        Project Information Document (PID)
+
+                                                      Appraisal Stage | Date Prepared/Updated: 13-May-2026 | Report No: PIDIA01494
+
+
+
+
+Public Disclosure Authorized
+                                 The World Bank
+                                 Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                          @#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+                          BASIC INFORMATION
+
+
+                          A. Basic Project Data
+
+                          Project Beneficiary(ies)       Region                       Operation ID                 Operation Name
+                                                         WESTERN AND CENTRAL                                       Chad Water Security and
+                          Chad                                                        P507957
+                                                         AFRICA                                                    Resilience Project - PASER
+                          Financing Instrument           Estimated Appraisal Date     Estimated Approval Date      Practice Area (Lead)
+                          Investment Project
+                                                         11-May-2026                  18-Jun-2026                  Water
+                          Financing (IPF)
+                          Borrower(s)                    Implementing Agency
+                          Ministry of Finance,
+                          Budget, Economy, Planning      Societe Tchadienne des
+                          and International              Eaux (STE)
+                          Cooperation
+
+
+
+
+_For Official Use Only_
+                          Proposed Development Objective(s)
+                          Enhance water security and increase the adaptation of the population to climate change in selected provinces of Chad
+
+                          Components
+                          Development of Water and Sanitation Infrastructure
+                          Nature-Based Solutions (NBS) and Water Resilience for Livelihoods and Value Chains
+                          Sector Reforms - Capacity Building and Project Management
+                          Contingency Emergency Response Component (CERC)
+                          Cross - Cutting Indicators
+
+                          @#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                          Maximizing Finance for Development
+
+                          Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+                          Is this project Private Capital Enabling (PCE)?             Yes
+
+                          SUMMARY
+                            Total Operation Cost                                                                                          160.00
+
+                            Total Financing                                                                                               160.00
+                                        of which IBRD/IDA                                                                              155.50
+
+
+                                                                                                                                             Page 1
+                                The World Bank
+                                Chad Water Security and Resilience Project - PASER (P507957)
+
+
+
+                             Financing Gap                                                                                               0.00
+
+                           DETAILS
+                             World Bank Group Financing
+                               International Development Association (IDA)                                                             155.50
+                                 IDA Grant                                                                                             155.50
+                             Non-World Bank Group Financing
+                               Trust Funds                                                                                               4.50
+                                 Africa Climate Change Program                                                                           4.50
+
+
+
+
+                           @#&OPS~Doctype~OPS^dynamics@ffiprocessing#doctemplate
+
+                           @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+
+
+
+
+_For Official Use Only_
+                          Environmental And Social Risk Classification
+                          Substantial
+
+
+                           Decision
+                           The review did authorize the team to appraise and negotiate
+
+
+
+                           Note to Task Team: End of system generated content, document is editable from here. Delete this note when
+                           finalizing the document.
+
+
+                          Other Decision (as needed)
+
+
+
+
+                                                                                                                                          Page 2
+                                      The World Bank
+                                      Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                              B. Introduction and Context
+                                 1. Chad's economic development is increasingly challenged by water insecurity, climate change, environmental
+                                 degradation, fragility, rapid population growth and the growing presence of refugees from neighboring countries1.
+                                 Recurring climate shocks—such as floods, droughts, and extreme heat—have intensified, threatening agriculture, food
+                                 security, and livelihoods, especially in rural areas. Growing competition for water and land, compounded by weak
+                                 governance and inadequate infrastructure, fuels social tensions and local conflicts among farmers, pastoralists,
+                                 refugees and host communities. The Chad Water Security and Resilience Project (PASER) addresses these challenges
+                                 by improving water security and climate resilience to droughts, floods, and heat in N'Djamena and eight provinces
+                                 including those with large number of refugees, supporting sustainable water services, water resources management,
+                                 and ecosystem protection through coordinated efforts with local organizations and partners.
+
+
+                              Country Context
+                                 1. Chad’s undiversified economy has led to increased poverty, deeper regional disparities, and greater
+                                     vulnerability. Poverty rose from 42.3 percent in 2018 to 44.8percent in 2022, adding 1.2 million more people
+                                     below the poverty line, while extreme poverty now affects 36.5percent, with 688,000 additional people
+                                     impacted. Rural areas are especially vulnerable due to climate risks and limited services, with half of their
+                                     population living in poverty. Inequality is rising in regions like Chari-Baguirmi and Kanem, as access to basic
+                                     infrastructure varies. The Gini index grew slightly from 33.6 to 34.3, masking larger local divides. Chad ranks low
+
+
+
+
+_For Official Use Only_
+                                     on the Human Development Index (0.394) and World Bank Human Capital Index (0.3), showing persistent
+                                     weaknesses in health, education, and productivity. 2
+                                 2. While Chad’s economy has remained resilient facing external shocks, underlying structural vulnerabilities and
+                                 resource-based tensions continue to drive fragility, conflict, and violence (FCV), worsened by refugees fleeing the
+                                 crisis in Sudan. In 2024, Chad’s gross domestic product (GDP) was estimated at US$18.5 billion, driven by increased
+                                 oil production and public investments. The agricultural sector, accounting for 40 percent of GDP in 2023, showed
+                                 recovery following the 2022 floods that affected about 465,030 hectares of farmland. This macroeconomic resilience,
+                                 however, masks deepening pressures at the local level. Chad hosts large numbers of refugees and returnees fleeing
+                                 Sudan, with total forced displacement exceeding two million. Clearance for access to the Funding Window for Host
+                                 Communities and Refugees (WHR) has been obtained, confirming the project’s eligibility and alignment with WHR
+                                 requirements.
+                                 3. Chad scarce resource-based tensions are exacerbated by refugees fleeing the crisis in Sudan to the Eastern
+                                 provinces. As of Avril 2026, over 1.3 million refugees have arrived in Eastern provinces alone (Ennedi East, Ouaddai,
+                                 Sila and Wadi Fira), placing acute pressure on local economies, basic services and natural resources.3 This influx is
+                                 intensifying competition over land, water, and pasture, contributing to rising poverty, food insecurity, and localized
+                                 tensions (over 1,000 people killed between 2021 and mid-2024).4,5 A shift is needed from short-term humanitarian
+                                 relief to a longer-term, development-oriented approach that builds systems and creates sustainable opportunities for
+                                 both refugees and host communities. Chad is eligible to access Window for Host Communities and Refugees (WHR)
+                                 resources (see annex 2) on the basis of its adequate refugee protection framework, which promotes local integration,
+                                 alternatives to camps, and inclusive, area-based solutions. The World Bank, following consultation with the Office of
+                                 the United Nations High Commissioner for Refugees (UNHCR), confirms that the protection framework for refugees
+                                 continues to be adequate in Chad.
+
+                          1
+                             Refugees in Chad including Sudanese refugees represent nearly 8 percent of the population as of 2026. (Chad FY26-31 CPF)
+                          2
+                            UNDP (2024). Human Development Report 2023-24.
+                          3
+                            UNHCR weekly report (April 13 to 19) 2026
+                          4
+                            https://www.crisisgroup.org/fr/africa/central-africa/chad/b199-tchad-rompre-le-cycle-des-violences-agropastorales
+                          5
+                            UNHCR, Sudan conflict – Situation in refugee-hosting countries, August 2025.
+
+
+
+                                                                                                                                                        Page 1
+                                      The World Bank
+                                      Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                 4. Chad ranked 189 out of 193 on the Gender Inequality Index in 2022, reflecting deep structural constraints that
+                                 limit women’s economic participation and resilience. Women face systemic barriers to engaging in resilient land
+                                 management, including restricted access to land, only 37 percent are landowners, and limited control over productive
+                                 assets due to entrenched social norms.6 Although 77 percent of Chadians work in agriculture, including 45 percent
+                                 women, most remain in low-yield subsistence farming and pastoralism with limited access to irrigation, finance, inputs,
+                                 or extension services. Limited access to higher-value value chains and under-capitalized cooperatives constrain
+                                 productivity, depresses incomes, and weakens resilience. Infrastructure deficits persist, only six percent of the
+                                 population having safe drinking water and 10 percent with electricity. Youth literacy is at 40 percent (2016), and in
+                                 2024, nearly half of girls are out of school. Rising insecurity has led to greater risks of gender-based violence (GBV),
+                                 especially for adolescent girls and displaced women7, while climate shocks and disrupted services have strained GBV
+                                 prevention and response systems.
+                                 5. Chad is highly vulnerable to climate change, particularly to droughts, floods and heat spells.8 These events are
+                                 becoming more frequent and intense, as shown by the 2024 floods, which damaged over 157,000 hectares of crops
+                                 and affected more than 7,000 livestock (FAO).9 Climate-exacerbated floods, droughts, and extreme heat are already
+                                 impacting the economy and are expected to worsen with increasing climate variability (ThinkHazard10). Chad ranks
+                                 187 out of 187 countries (last in the world) in their vulnerability to climate change and lack of capacity to adapt to
+                                 impacts. 11 Changing weather and advancing desertification will impact ecosystems, biodiversity, water resources, and
+                                 agriculture. Without effective adaptation, climate hazards could increase Chad's poverty rate by 10.6 percentage
+
+
+
+
+_For Official Use Only_
+                                 points by 2050,12 through more erratic rainfall, frequent flooding, reduced crop and livestock yields, lower labor
+                                 productivity, health issues, and infrastructure damage. Land degradation, already costing about 7 percent of GDP, is
+                                 further weakening livelihoods, food security, and economic resilience.13
+                                 6. Water is vital to Chad’s economy, and most jobs rely on water-related sectors.14 In 2022, these sectors made up
+                                 83.7 percent of gross value added—driven mainly by agriculture, which increased its share of GDP from 31.8 percent
+                                 in 2012 to 40.3 percent in 2022. Over 82 percent of workers are employed by water-dependent sectors, with rural
+                                 households depending on agriculture, livestock, fishing, small commerce, and artisanal activities. Agriculture and
+                                 pastoralism account for 73 percent of household income.15 This reliance emphasizes Chad’s vulnerability to climate
+                                 and hydrological shocks and the need for integrated, climate-resilient water management to protect livelihoods and
+                                 boost economic stability.
+                                 7. Project priorities align with World Bank Group (WBG) and national development priorities, furthering resilience,
+                                 economic inclusion and job creation. The project advances outcome 1 “Healthier, Better Educated, and Skilled
+                                 Population” and outcome 3 “Improved Agricultural Productivity & Food Security” of the new WBG Country Partnership
+                                 Framework for Chad (FY26-31) by improving access to WASH with expected outcomes on human capital (health and
+                                 education. More specifically specific WASH investments are expected in schools and health centers. The project also
+                                 promotes sustainable land management across targeted hectares, including agroforestry, irrigated agriculture, and
+                                 the development of value chains in Non-Timber Forest Products like gum Arabic. The project strengthens economic
+                                 inclusion for refugees and host communities, delivers climate-resilient water services, restores ecosystems, and
+                                 rehabilitates degraded landscapes. It aligns with Maximizing Finance for Development (outcome 2 of CPF) and boosts
+
+                          6
+                            Climate-Smart Agriculture Country Profile
+                          7
+                            gender-responsive-conflict-analysis-rsf-2_1.pdf
+                          8 Chad ranks 187 out of 187 countries on the Notre Dame Global Adaptation Initiative (ND-GAIN) Country Index which ranks countries annually based upon their vulnerability and their readiness to successfully adapt.
+                          https://gain.nd.edu/our-work/country-index/rankings/
+                          9
+                            https://reliefweb.int/report/chad/floods-chad-july-2024-impact-floods-agriculture-and-livelihoods-diem-impact-assessment-fao-july-30-2024
+                          10
+                             https://www.thinkhazard.org/en/report/50-chad
+                          11 Chad ranks 187 out of 187 countries on the Notre Dame Global Adaptation Initiative (ND-GAIN) Country Index which ranks countries annually based upon their vulnerability and their readiness to successfully adapt.
+                          https://gain.nd.edu/our-work/country-index/rankings/
+                          12
+                             World Bank 2024, Country Climate and Development Report for Sahel Countries.
+                          13
+                             Natural Capital Insights 2025.
+                          14
+                             Chad Water Security Diagnostic Report – World Bank 2025
+                          15
+                             Chad Poverty Assessment, 2021
+
+
+
+                                                                                                                                                                                                                                              Page 2
+                                      The World Bank
+                                      Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                 youth development through climate-smart agriculture training, creating local jobs to help reduce migration (outcome
+                                 1). Regarding national priorities, the project also aligns with Chad's National Development Plan - “Chad Connection
+                                 2030” (Area of Intervention 1 (Foundational Infrastructures) and Area of intervention 3 (Economic and Industrial
+                                 Development). More specifically it is aligned with the following Programs of “Chad Connection 2030”: (i) Program 1 –
+                                 Water and Sanitation, (ii) Program 7 – Agriculture, Program 8 – livestock, (iii) Program 15 - Decentralization Inclusion
+                                 of women, vulnerable populations, demobilized and housing, and (iv) Program 17 - Climate Change Resilience and
+                                 Adaptation. “Chad Connection 2030” identifies water security, climate resilience, and rural development as
+                                 foundational national priorities, particularly in the Sahel belt and conflict-affected zones.
+                                 8. The project supports the WBG FCV strategy, addressing key conflict drivers outlined in the Sahel and Chad Risk
+                                 and Resilience Assessments (RRAs), while mitigating spillover effects. By improving reliable, climate-resilient water
+                                 access in urban and rural areas, the project aims to strengthen core state functions, improve service delivery and
+                                 governance, and rebuild trust between citizens and institutions, with a primary focus on provinces receiving Sudanese
+                                 refugees. It promotes more coordinated and inclusive water resource management to better manage competition
+                                 over increasingly scarce water resources, driven by climate change, population growth, and refugee influxes. Overall,
+                                 the project addresses fragility and reinforces resilience at community and institutional levels.
+                                 9. The project also aligns with the Government of Chad's strategic intent to transition from humanitarian aid to
+                                 an integrated development and resilience approach in displacement-affected provinces, as reflected in its
+                                 Government Strategy Note for IDA21 WHR and anchored in the National Development Plan (Chad Connexion 2030 –
+
+
+
+
+_For Official Use Only_
+                                 Program 15), the National Response Plan for the East Crisis 2025–2027, and the National Social Protection Strategy
+                                 (SNPS 2024–2028). PASER directly contributes to this vision by (i) expanding access to safe water and sanitation
+                                 through climate-resilient infrastructure in the four refugee hosting Eastern provinces; (ii) restoring landscapes and
+                                 strengthening water resilience through nature-based solutions that protect livelihoods and reduce resource-based
+                                 conflict; and (iii) supporting institutional reforms that facilitate the transition from fragmented humanitarian
+                                 responses to coherent, government-led water systems - integrating service delivery for refugees and host
+                                 communities into national infrastructure. The project complements the existing WHR portfolio in Chad - including
+                                 RESITCHAD, the Energy Access Scale-Up Project, and the Adaptive Social Safety Nets Project - ensuring a coherent,
+                                 system-wide response that addresses both immediate needs and longer-term development outcomes for refugees
+                                 and host communities alike.
+                                 10. As part of the Water Security Program in the Sahel Region,16 the Project contributes to the WBG Water Strategy
+                                 Implementation Plan (WSIP) and Water Forward by delivering scalable solutions that expand access to water and
+                                 irrigation services, while supporting institutional reforms. PASER contributes to the WBG's three-pronged water
+                                 security strategy to expand access for people (Water for People Pillar, Scalable Solutions 1 and 3), supporting small-
+                                 scale irrigation for food security (Water for food Pillar, Scalable Solution 4 and in line with the AgriConnect initiative17),
+                                 and protecting sub-basin ecosystems for the planet (Water for Planet Pillar, Scalable Solution 6).18
+                                 11. As a foundational operation, the project lays the groundwork for future One WBG engagement by strengthening
+                                 the policy, market, and institutional conditions needed to attract private investment. Rather than deploying blended
+                                 finance instruments directly, the project focuses on enabling private sector participation through upstream reforms,
+                                 targeted diagnostics, and the development of risk-mitigation and delivery frameworks for urban water supply and
+                                 sanitation. These efforts form part of a broader private sector participation roadmap aimed at crowding in and
+                                 sustaining long-term private capital over time. In parallel, the Government’s national draft Water Compact—currently
+                                 under finalization—provides a comprehensive financial architecture to help address the estimated US$3.8 billion
+
+                          16
+                            Including operation in Burkina Faso, Mali, Mauritania and Niger
+                          17
+                            AgriConnect is a World Bank Group initiative to transform smallholder farming, create jobs, and strengthen global food security.
+                          18
+                            Scalable Solution 1: Urban Water and Sanitation Service Optimization and Scalable Solution 3: Rural Water Supply and Sanitation Provision under Water for People; Scalable Solution 4: Farmer‑led Sustainable Irrigation
+                          under Water for Food; and Scalable Solution 6: Flood and Drought Risk Reduction under Water for the Planet.
+
+
+
+                                                                                                                                                                                                                                               Page 3
+                                      The World Bank
+                                      Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                 financing gap in the sector. The draft Chad water compact has considered the three pillars of WSIP mainly scalable
+                                 solutions 1, 3, 4 and 7 , and intends to reinforce the existing platform for development partners to harmonize their
+                                 financing to the sector showing the alignment of the project to the country compact.
+                                 12. The project advances the Sahel RESILAND program19 by restoring ecosystems, creating jobs, and fostering peace
+                                 in the Sahel countries. Supported by PROGREEN, it promotes sustainable landscape management and climate
+                                 resilience through community-driven restoration, improved data tools, and prioritizing gender and social inclusion.
+                                 Innovative methods include agro-silvo-pastoral farms, assisted natural regeneration, and climate-adapted value chains
+                                 for Non-Timber Forest Products (NTFPs) targeting women and youth.
+
+                               B. Sectoral and Institutional Context
+                                 13. Chad faces persistent water scarcity due to uneven distribution, droughts, climate change, and limited
+                                 infrastructure, especially in provinces hosting refugees and rural areas. Despite having valuable river basins and large
+                                 surface and groundwater reserves, including Lake Chad (estimated at 25.6 billion cubic meters) and renewable
+                                 groundwater estimated at 3.5 to 9.5 billion cubic meters per year.20 Chad faces major challenges in managing these
+                                 resources effectively due to poor institutional capacity and limited mobilization infrastructure. Only 0.6 percent of
+                                 farmland is irrigated, and 20 percent of businesses and communities face water shortages.21 These challenges,
+                                 intensified by environmental degradation, insecurity, and population movements including refugees, undermine
+                                 productivity and weaken livelihoods. Strengthening integrated and climate-resilient water resource management is
+
+
+
+
+_For Official Use Only_
+                                 vital for economic resilience, poverty reduction, and job creation in Chad.
+                                 14. In view of Chad’s particular context, climate adaptation is central to improving water security and resilience.
+                                 The project aligns with Chad’s 2021 NDC and National Adaptation Plan by advancing climate resilience in agriculture,
+                                 livestock, and water management systems. It promotes drought-resistant crops, improved fodder, agroforestry,
+                                 efficient water use, and soil conservation practices. Water sector investments address scarcity and flooding risks
+                                 through infrastructure and nature-based solutions for host communities, refugees and population. The project also
+                                 supports improved land and ecosystem management, fire control, reforestation, land rehabilitation, assisted natural
+                                 regeneration, and biodiversity conservation. The initiative aims to strengthen preparedness for climate shocks and
+                                 supports Chad’s ambition to reduce greenhouse gas emissions by 19.3percent by 2030. By addressing the interlinkages
+                                 between climate vulnerability, water insecurity, and natural resource degradation, the project adopts an integrated
+                                 approach to support economic development and job creation. Since poverty is linked to reliance on climate-sensitive
+                                 resources and worsened by environmental decline and weak infrastructure, the project focuses on boosting resilience
+                                 for households and landscapes primary in provinces affected by refugee influx from Sudan. Guided by WSIP, it seeks
+                                 to reinforce household and landscape resilience by increasing water access, protecting water resources, promoting
+                                 climate adaptation, and supporting reforms for sustainable rural water systems.
+                                 15. There is currently no up-to-date available information on the use of water resources in Chad. According to the
+                                 latest Food and Agriculture Organization of the United Nations (FAO) or AQUASTAT reports, between 2002 and 2005,
+                                 Chad withdrew approximately 0.86–0.88 billion cubic meters of water resources. This water was used to irrigate
+                                 26,520 ha (compared to the 30, 274 ha equipped for irrigation), support livestock, and meet industrial and domestic
+                                 needs, translating to 85–94 cubic meters per capita.
+                                 16. Chad faces major challenges in access to drinking water and sanitation, which impact human capital and
+                                 economic growth, especially in Eastern provinces hosting refugees. Only 52 percent of people have basic water
+                                 services and just 13 percent22 have safely managed sanitation, with urban areas (86.3 percent) faring much better
+                          19
+                             Sahel RESILAND program supports technical assistance, capacity building, analytics and investments that support land restoration and livelihood activities to help communities restore degraded landscapes while creating
+                          jobs and strengthening peace amid climate shocks and insecurity in Burkina Faso, Chad, Mali and Niger.
+                          20
+                             Atlas of Chad 2013 - Rural Development and Spatial Planning Information System Program
+                          21
+                             Power-BI – Water security dashboard for Chad.
+                          22
+                             JMP 2022 country profile
+
+
+
+                                                                                                                                                                                                                                               Page 4
+                                         The World Bank
+                                         Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                    than rural regions (56.9 percent). Many rural families depend on boreholes or unprotected wells and must travel long
+                                    distances for water.23 The government's Vision 2030: Chad Connection prioritizes these issues, but significant funding
+                                    is needed, as many villages and towns in Eastern provinces boarding Sudan still lack infrastructure. Poor sanitation
+                                    leads to environmental contamination, higher flood risks, and health costs, especially for the refugees, host
+                                    communities and poor. Tackling these gaps is vital for public health, climate resilience, and sustainable development.
+                                    17. Chad’s water sector has a strong legal framework but faces challenges in consistent implementation due to
+                                    limited capacity and institutional constraints. Oversight is mainly centralized, and efforts to decentralize have not
+                                    improved services. The 2017 sanitation policy addresses public health issues but has had minimal impact due to poor
+                                    funding and weak execution. Both central and local authorities struggle with underfunding and inadequate
+                                    management tools. Service delivery has changed since the 1990s as urban and rural needs diverged; the urban water
+                                    utility (Société Tchadienne des Eaux, STE) manages urban systems, communities run rural water points, and small-
+                                    town provision involves NGOs, private operators, and community models. This fragmented system highlights the need
+                                    for clearer roles, better governance, and more sustainable approaches.
+                                    18. Within this structural organization, the STE continues to have operational, commercial and financial
+                                    performance issues.24 Organized around four main directorates, STE relies on government subsidies and struggles
+                                    with service efficiency. In 2023, non-revenue water reached 36.1 percent, although some progress has been recorded
+                                    in N’Djamena where losses declined from 41.2 percent in 2020 to 29 percent in 2024. Commercial performance is
+
+
+
+
+_For Official Use Only_
+                                    particularly weak, with 29 percent of subscribers inactive – especially in N’Djamena, while the billing rate for active
+                                    customers has dropped to 56 percent. The utility also faces widespread informality, with 3,687 illegal connections
+                                    reported, alongside a very low collection rate of just 30 percent. These issues stem from inadequate staffing and
+                                    training, poor customer management systems, unclear subscriber responsibilities, and a lack of effective billing
+                                    policy25, all of which threaten its financial stability and growth, making urgent reforms necessary.
+                                    19. Although water sector capacity is limited, rural drinking water management in Chad is gradually improving.
+                                    Investments in infrastructure such as wells, boreholes, and solar-powered systems have been made; however, weak
+                                    maintenance remains a challenge. Following regional workshops and field visits in 2019, Chad has adopted a delegated
+                                    management model backed by the European Union, expanding lease-based contracts to 42 rural water systems. The
+                                    2024 audit shows this approach is effective: about 79 percent of leased systems are operational versus less than 50
+                                    percent of community-managed systems. These results demonstrate that professionalized management can enhance
+                                    service reliability and sustainability, supporting broader reforms in rural water delivery.
+                                    20. Chad has faced persistent challenges in reforming its urban water and electricity sectors since the 2000s, with
+                                    past efforts to introduce private sector participation yielding limited results. The initial single-utility structure
+                                    provided weak service, and privatization failed in 2004. Water and electricity services were separated in 2011, but
+                                    improvements faded after World Bank support ended. Progress stalled due to institutional challenges and limited
+                                    engagement. Sustainable advancement requires stronger leadership, improved governance, financial stability,
+                                    renewed private sector strategies, targeted capacity-building, clearer communication, and attractive investment
+                                    opportunities.
+                                    21. Irrigation remains a constraint to agricultural productivity and climate resilience in Chad despite substantial
+                                    untapped potential. Agriculture accounts for around 35 percent of GDP, yet about 97 percent of production is rainfed,
+                                    marking a strong potential to improve production. Only 30,000 ha are equipped for irrigation, of which 26,000 ha are
+                                    effectively irrigated, out of an estimated 335,000 ha of irrigation potential, reflecting both underdevelopment and
+                          23
+                               Source : Enquête sur les conditions de vie des ménages et de secteur informel au Tchad - ECOSIT5, 2022
+                          24
+                               STE activities reports based on available data. Data is reported differently from one year to the next.
+                          25
+                               Support for the development of a priority investment program 2025-2030 by STE to improve access to drinking water for populations in urban and suburban areas – Final report May 2025
+
+
+
+                                                                                                                                                                                                                       Page 5
+                                      The World Bank
+                                      Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                 weak performance of existing schemes. Key constraints include high investment costs, poor design and construction
+                                 quality, chronic operation and maintenance (O&M) deficits, limited institutional capacity, and FCV‑related
+                                 implementation risks. Major opportunities lie in leveraging water resources in the Chari–Logone and Lake Chad basins,
+                                 shallow groundwater suitable for small‑scale and solar‑powered irrigation. The Sahel Irrigation Strategy (2025)
+                                 advocates for a strategic shift toward rehabilitation, climate‑resilient expansion, and stronger O&M frameworks.
+                                   22.         Degradation of watersheds in and around the Ouadi Rimé–Ouadi Achim (OROA) Reserve is undermining
+                                   water regulation, ecosystem services, and livelihood resilience in one of Chad’s most climate‑vulnerable
+                                   landscapes. World Bank analyses estimate that land degradation in the OROA Reserve results in annual losses of
+                                   about US$3.8 million in ecosystem services, driven by erosion, siltation, and declining water regulation, with costs
+                                   projected to increase without scaled restoration. While the RESILAND project supported improved reserve
+                                   management and selective nature‑based solutions (NBS), helping avoid roughly one‑third of degradation‑related
+                                   losses, significant gaps remain in the scale of catchment‑level restoration, integration of upstream watershed
+                                   management with downstream water uses, community‑based landscape governance, and sustainable financing to
+                                   maintain NBS over time.
+                               C. Proposed Development Objective(s)
+
+
+                               Development Objective(s) (From PAD)
+
+
+
+
+_For Official Use Only_
+                               Enhance water security and increase the adaptation of the population to climate change in selected provinces of Chad
+
+
+                               Key Results
+                                 23.         The Project’s primary beneficiaries are households located in provinces hosting refugees (Ennedi East,
+                                 Ouaddai, Sila, and Wadi Fira) and in other project intervention areas (city of N’Djamena, and selected localities of the
+                                 provinces of Bahr El Gazel, Batha, Borkou, Ennedi West, Tibesti). These provinces are characterized by refugee influx
+                                 from Sudan, high climate vulnerability, fragile socio-economic conditions and significant populations affected by
+                                 displaced persons. It is estimated that approximately 1,000,000 people will benefit directly from project investments
+                                 which are considered climate-resilient, of whom at least 50 percent of host communities and refugees, 50.6 percent
+                                 are women and 17.4 percent youth.26 Key beneficiaries groups include approximately 443,700 people gaining access
+                                 to at least basic water services.
+
+
+                               D. Project Description
+                                   24.        Due to Chad’s climate-driven water variability and reliance on water-based livelihoods, a
+                                   comprehensive approach (a platform) is vital for tackling water security and climate risks. The Project integrates
+                                   infrastructure, reforms, and NBS to boost resilience and sustainable development. It aims to widen access to water
+                                   services, develop rainwater harvesting infrastructure, safeguard water resources at the sub-basin level and help
+                                   reduce drought and flood impacts. Key reforms will improve the performance and sustainability of the urban utility
+                                   (STE) and domestic private sector in rural areas. The mutually reinforcing investments in NBS and operational
+                                   capacity, strengthening the basis for ecological and financial sustainability. This comprehensive platform for
+                                   engagement is the steppingstone to building durability and provides opportunities for varied implementation.
+                                   25.        In line with Water Forward, the Project will be foundational by combining infrastructure, ecosystem
+                                   restoration, and social resilience. It aims to: (i) expand drinking water and sanitation access in urban and rural areas;
+
+                          26
+                            The reference is the 2009 general census of population and housing of Chad. The youth was not clearly defined in the document. we adopted the definition from united nations that classified the youth as population
+                          between the age of 15 to 24.
+
+
+
+                                                                                                                                                                                                                                             Page 6
+                                         The World Bank
+                                         Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                      (ii) create multi-purpose water infrastructure, and (iii) restore watersheds for sustainable resources and livelihoods.
+                                      Activities are planned with conflict sensitivity to strengthen social cohesion and prevent violence primarily in
+                                      provinces affected by refugee influx. The project supports local conflict management related to natural resources,
+                                      addressing the impacts of climate change, land degradation, and supporting communities affected by the Sudan
+                                      crisis.
+                                     26.         Given that all provinces in Chad face significant deficits in water services and challenges related to
+                                     natural resource management, the Project adopted a targeted and phased approach to geographic prioritization.
+                                     Beneficiary provinces have been selected based on the following criteria: level of access to water service, quantity
+                                     and reliability of water resources, amount of displaced populations in the area, availability of technical studies and
+                                     investment readiness, climate change exposure, continuity with past sector investments, and alignment with
+                                     government priority. On this basis, the Project will primarily focus on the four refugee host provinces of Ennedi East,
+                                     Wadi Fira, Ouaddai and Sila. It will then prioritize the other neighboring provinces that can also potentially host
+                                     refugees for integration Ennedi West, Batha, Borkou, and Bahr El Gazel and Tibesti. N'Djamena has also been selected
+                                     as a government priority with limited safe drinking water access, significant climate vulnerability, and technical
+                                     studies available.
+                                    2. The proposed project is structured around four components aiming to enhance access to safe and climate-
+                                    resilient drinking water for urban and rural populations located in selected provinces hosting refugees. In line with
+
+
+
+
+_For Official Use Only_
+                                    the scalable solutions from the WBG WSIP,27 this approach combines drinking water supply and sanitation
+                                    infrastructure with strengthening the operational and financial performance of water service providers to ensure long-
+                                    term viability and resilience against climate-related shocks. Beyond expanding access to water services (water for
+                                    people), the project will also work to protect and reinforce the water sources (water for planet) upon which
+                                    communities depend, through the promotion of resilient landscapes that sustain agricultural production and support
+                                    sustainable grassland management, in line with the Agri Connect framework (water for food). WHR financing will
+                                    primarily be directed toward nine priority provinces outside N’Djamena, including four currently hosting refugee
+                                    camps. The project will support the other in accommodating refugees when transitioning out of the camps to resume
+                                    a normal life and to integrate into local communities.
+                                    3. Component 1: Development of water and sanitation infrastructure (US$82 million: US$57 million WHR, US$20
+                                    GROW and US$5 million PBA). This component will improve drinking water and sanitation by investing in climate-
+                                    resilient infrastructure. To address limited energy access and reduce reliance on the national electricity company
+                                    (TCHADELEC), solar panels will be prioritized for water pumps, with grid electricity used when available. The program
+                                    covers urban and rural water supply—including displaced people, refugees, host communities, and livestock—and
+                                    provides sanitation facilities for schools and health centers (water for people). While WHR financing will mainly be
+                                    dedicated to cities and rural piped systems (RPS) in provinces hosting refugees, the GROW resources will be used to
+                                    finance investments in N'Djamena. The PBA resources will primarily finance sanitation activities.
+                                    •      Sub-component 1.1: Urban Water Supply (US$45 million: US$25 million WHR and US$20 million GROW) will
+                                           cover urban water investments for N'Djamena and thirteen small towns in Eastern provinces hosting refugees and
+                                           host communities to enhance drought resilience, promote sustainable water access, reduce water losses and
+                                           associated emissions, and support climate adaptation for urban residents. Based on available studies, planned
+                                           investments include 94 solar-powered boreholes, transmission pipes, overhead and underground water tanks,
+                                           distribution networks, 14,000 household connections and 150 standposts. Operator capacity will be developed
+                                           through Component 3 (institutional strengthening) to ensure effective operation and prevent deterioration from
+                                           weak management.
+
+                          27
+                               Scalable Solution 1 for drinking water supply and sanitation in urban areas and Scalable Solution 3 for drinking water supply and sanitation in rural areas
+
+
+
+                                                                                                                                                                                             Page 7
+                                         The World Bank
+                                         Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                                    •      Sub-component 1.2: Rural Water Supply (US$32 million WHR) will improve rural water supply including the four
+                                           provinces hosting refugees as well as other provinces excluding N’Djamena, through rural piped systems (RPS)
+                                           managed by local domestic private operators, promoting sustained private capital mobilization, job creation, and
+                                           local income generation while addressing drought risks and reducing time burdens on women in the targeted
+                                           provinces. Interventions will include the construction of: (i) RPS comprising 100 boreholes, solar pumping systems,
+                                           transmission pipes, overhead water tanks, distribution networks, 2,000 household connections and 335
+                                           standposts; (ii) on-the-spot water stations with 60 boreholes, solar pumping systems, transmission pipes,
+                                           overhead water tanks and 110 standposts; and (iii) pastoral stations28 with 44 boreholes, solar pumping systems,
+                                           transmission pipes, overhead water tanks, 88 standposts and 176 animal watering disposals.
+                                    •      Sub-component 1.3: Sanitation (US$5 million PBA) will support the establishment of sanitation standards with
+                                           adapted technologies, raise awareness through behavior change communication, and build 400 latrines in public
+                                           places, including schools, health centers, bus stations and town halls. It will also promote menstrual hygiene
+                                           within the same communities as Sub-component 1.2, including in and around refugee camps, improving public
+                                           health, reducing open defecation, lowering fecal contamination and pollution of water sources, and enhancing
+                                           resilience to climate exacerbated weather events. Hygiene packs for menstrual hygiene management will also be
+                                           provided to girls in the schools that benefit from latrine construction, complemented by behavior change activities
+                                           to amplify the overall impact.
+                                    4. Component 2: Nature-Based Solutions (NBS) and Water Resilience: (US$60 million: US$30 million GROW, US$19
+
+
+
+
+_For Official Use Only_
+                                    million WHR, US$7.5 million PBA, US$3.5 million PROGREEN). This component supports water and sanitation
+                                    infrastructure, protects water sources and biodiversity in the OROA Reserve, reduces resource-related conflicts
+                                    worsened by climate change, promotes sustainable agribusiness, and enhances community livelihoods. Activities will
+                                    be complemented by sub-component 3.3 on strengthening local natural resource management governance with
+                                    emphasis on conflict resolution, including participation from refugees, women, and youth. The component is
+                                    contributing to water for food and water for people pillars of WSIP. Drawing on lessons from SIIP (P154482), where
+                                    absence of O&M frameworks led to rapid deterioration of infrastructure, each weir and retention basin will have a
+                                    site-specific O&M plan specifying the responsible entity, financing mechanism (user fees, government budget, or
+                                    community contribution), and a first-year capacity-building program. WHR financing as well as other financing (GROW,
+                                    PBA and PROGREEN) will be used to support subcomponents activities in the provinces hosting refugees.
+                                    •      Sub-component 2.1: Stormwater and flood management (US$30 million: US$8 million WHR and US$22 million
+                                           GROW) will finance the construction of expansion weirs in Ouadis for flood control and stormwater mobilization,
+                                           paired with farmer-led irrigation solutions and shallow wells to support small-scale irrigation (760 ha) and livestock
+                                           watering, benefiting communities covered under Component 1 and anticipating shared access for herders and
+                                           farmers.
+                                    •      Sub-component 2.2: Aquifer recharge, erosion management, climate-smart agribusiness and climate resilient
+                                           value chains (US$20 million: US$7 million WHR, US$5.5 million PBA, US$5 million GROW and US$2.5 million
+                                           PROGREEN). The project will utilize nature-based solutions to restore landscapes in aquifer-recharge zones
+                                           upstream of boreholes, benefiting towns and villages from investments under Component 1. Activities will include
+                                           contour bunds, half-moons, terraces, reforestation and Integrated Agro-Silvo Community Pastoral Farms (FACI in
+                                           French) across approximately 50,000 ha. It will also protect ecological services around the OROA Reserve by
+                                           enhancing aquifer recharge, reducing runoff and floods, improving soil conservation, and increasing carbon
+                                           sequestration. The interventions will create jobs including cash-for-work programs and establish protection zones
+                                           to prevent contamination of drinking water sources.
+
+
+                          28
+                               To complement those set up under the World Bank-financed Project PRAPS-II (Regional Sahel Pastoralism Support Project II – P173197).
+
+
+
+                                                                                                                                                                      Page 8
+                              The World Bank
+                              Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                          •   Sub-component 2.3: Livelihood support for sustainable development (US$10 million: US$4 million WHR, US$3
+                              million GROW, US$2 million PBA and US$1 million PROGREEN) will promote climate-smart agriculture and
+                              agroforestry through FACI and irrigated agriculture over approximately 100 hectares, supporting drought-resilient
+                              varieties and non-timber forest products, while providing livelihood kits to refugee and host communities for clean
+                              cooking solutions and income-generating activities such as apiculture and horticulture.
+                          5. Component 3: Project Management, Capacity Reinforcement and Sector Reforms (US$18 million: US$13 million
+                          PBA, US$4 million WHR, US$1.0 million PROGREEN). This component focuses on strengthening national and local
+                          institutions for climate resilience and water sector reforms by building stakeholder capacity to support the enabling
+                          environment of Components 1 and 2 investments and the sustainability of the enhanced services, including supporting
+                          project management. Improvements in sector reforms, institutional capacity and performance will strengthen
+                          resilience by addressing systemic drivers of climate vulnerability, mutually reinforced by infrastructure investments in
+                          other components.
+                          •   Sub-component 3.1: Institutional capacity and operator performance (US$3 million: US$2 million PBA and US$1
+                              million WHR) will strengthen Chad's main water institutions, including STE, rural operators, the national
+                              laboratory, the Ministry of Water and Energy, and user associations. A diagnostic study will guide sector reforms
+                              and identify opportunities for private sector participation. Counterpart capacity will be strengthened to structure
+                              risk mitigation instruments and implement the Environmental and Social Framework. A phased approach is
+                              proposed to support cost recovery, utility reform, and sector sustainability: phase one aims for operational
+
+
+
+
+_For Official Use Only_
+                              efficiency and immediate improvements; phase two targets updates to STE’s governance and legal structure while
+                              considering leveraging potential DPO and PRA engagements; and phase three emphasizes organizational
+                              development and long-term strategy.
+                          •   Sub-component 3.2: Sector Policy and Strategies (US$2 million WHR) will equip the water and sanitation sector
+                              with a national water policy and tailored implementation strategies; each paired with a multi-year action plan.
+                              Master plans will be developed accounting for various climate scenarios. Building on the water compact
+                              preparation, a multi-disciplinary team will be assigned to drive this process and reinforce sector partner
+                              coordination. To ensure direct benefits for refugees and host communities, the update of the national water policy
+                              will include explicit provisions for non-discriminatory access. The document will have specific sections for the
+                              inclusion of women, vulnerable groups and demobilized individuals in compliance with program 15 of “Chad
+                              Connection 2030.” The project will also support the preparation of strategies to operationalize the updated non-
+                              discriminatory access policy, including specific arrangements for potential subsidies towards vulnerable groups.
+                          •   Sub-component 3.3: Local natural resources management (US$3 million: US$1 million PBA, US$1 million
+                              PROGREEN and US$1 million WHR) will strengthen local natural resource management governance, mitigate
+                              climate-related conflicts over natural resources including water, and enhance climate information services
+                              through Digital Climate Advisory Services (DCAS) to support pastoral and agribusiness activities and improve the
+                              resilience of vulnerable groups.
+                          •   Sub-component 3.4: Citizen engagement and project coordination (US$10 million PBA) will cover overall project
+                              coordination, financial management, procurement, monitoring and evaluation, and environmental and social risk
+                              management, while supporting citizen engagement, grievance redress mechanisms, and field-level data collection
+                              and communications.
+                          6. Component 4: Contingency Emergency Response Component (CERC) (US$0 million). A CERC is included in the
+                          project in accordance with the Investment Project Financing (IPF) Policy, paragraphs 12 and 13, for Situations of Urgent
+                          Need for Assistance and Capacity Constraints. This will allow for rapid reallocation of the grant uncommitted funds in
+                          the event of an eligible emergency.
+
+
+                                                                                                                                             Page 9
+                                  The World Bank
+                                  Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                              7. Expected job creation. Components 1 and 2 will generate both temporary construction jobs (about 800–1,200
+                              during peak periods) and permanent operations and maintenance positions (estimated 150–250), in line with World
+                              Bank environment and social standards. International civil works contracts will require at least 30 percent local labor,
+                              submission of engagement plans and employment records, and targeted skills training for 300–500 workers.
+                              Integrated Community Farms and land rehabilitation are expected to create at least 3,000 improved jobs combined.
+                              These employments will primarily benefit host communities as well as refugees in the provinces hosting refugees. All
+                              employment follows ESS2 labor standards, prohibiting discrimination, child, or forced labor, ensuring safe workplaces,
+                              and complying with EHS Guidelines for water and sanitation. Contractors must implement Codes of Conduct, training,
+                              and compliance reporting, monitored by supervising engineers. These measures aim for inclusive, safe, and
+                              sustainable job creation aligned with sector guidance and ESF requirements.
+                              8. Private Capital Enabling/Mobilization (PCE/PCM). This project fully supports the World Bank’s Maximizing
+                              Finance for Development (MFD) framework, and any private investments generated will be counted in PCM
+                              calculations.
+
+                              •   Verified as MFD-enabling: Component 1 backs a diagnostic study to encourage private investment and define
+                                  possible PPP models for urban and rural water supply, including using risk mitigation tools to attract private sector
+                                  involvement. Chad has experience with domestic private management of rural water systems, and the project
+                                  aims to expand this successful approach by ensuring all new schemes are operated by local private companies.
+
+
+
+
+_For Official Use Only_
+                              •   Verified as Private Capital Enabling: As outlined in Sub-Component 1.2, the resulting private payroll and operating
+                                  expenditure generated through these contracts are verified as Private Capital Enabling (PCE), with the related
+                                  indicator 6 of component 1 detailed in the Results Framework. At full scale, at least 50 rural-piped systems (RPS)
+                                  are expected to be operational, each employing a minimum of three permanent staff. This will generate an
+                                  estimated US$270,000) per month in private-sector payroll, reflecting sustained private expenditure, job creation,
+                                  and local income generation supported by project investments.
+                              •   Qualified as PCM: The following sub-components qualify as PCM: for small-scale irrigation (Components 2.1 and
+                                  2.3), developing one hectare requires about US$12,000. The project will co-finance irrigation infrastructure for
+                                  860 hectares. Of these, 400 hectares will be developed with local private partners providing 20 percent equity
+                                  (US$960,000), and 460 hectares will be developed with communities contributing 10 percent equity (US$552,000).
+                                  In total, the project expects to mobilize US$1,512,000 in private co-financing through these investments.
+
+                           @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+                           Legal Operational Policies                                                                Triggered?
+                           Projects on International Waterways OP 7.50                                               Yes
+                           Projects in Disputed Area OP 7.60                                                         No
+
+
+                          Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+                          The environmental and social risk rating is substantial for this project. Risks and potential impacts during the
+                          construction phase may include: (i) increased pollution due to the generation of hazardous and non-hazardous waste,
+                          dust, noise, vibration, and accidental spills of fuel and lubricants; (ii) traffic accident, (iii) impacts on the ecosystem, and
+
+                                                                                                                                                      Page 10
+                                 The World Bank
+                                 Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                          (iv) occupational and community health and safety issues. The main social risks relate to: (i) potential economic
+                          displacement and restriction on land use and access to natural resources; (ii) security related risks in project areas that
+                          are in insecure, or in hard to access zones; (iii) possible exclusion of marginalized and vulnerable groups, including youth
+                          and women from water services and the labor works/income generating activities; (iv) potential social tensions on water
+                          and sanitation services use. SEA/SH is also a concern overall in Chad, and in particular in refugee/IDP situations. The risks
+                          and impacts are localized, site-specific and can be managed by appropriate assessment and mitigation measures. The
+                          borrower is preparing an Environmental and Social Commitment Plan (ESCP) and a stakeholder engagement plan (SEP)
+                          to be finalized by appraisal. Other E&S instruments (LMP, ESIAs, RAPs, SRA/SRM, Process Framework) and project
+                          operation manuals (including a dedicated E&S section) will be prepared consistent with ESSs and per the timelines
+                          defined in the ESCP.
+
+                           Note: To view the Environmental and Social Risks and Impacts, refer to the Appraisal Stage ESRS Document. Delete
+                           this note when finalizing the document.
+
+
+                           E. Implementation
+
+
+
+
+_For Official Use Only_
+                           Institutional and Implementation Arrangements
+
+
+
+
+                           Note to Task Team: The following sections are system generated and changes must be made in Data Sheet(s). Delete
+                           this note when finalizing the document.
+
+
+                           @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+                           CONTACT POINT
+
+                           World Bank
+                             Taibou Adamou Maiga
+                             Senior Water Supply and Sanitation Specialist
+
+                           Borrower/Client/Recipient
+                            Ministry of Finance, Budget, Economy, Planning and International Cooperation
+
+                           Implementing Agencies
+                            Societe Tchadienne des Eaux (STE)
+
+                           FOR MORE INFORMATION CONTACT
+
+
+
+                                                                                                                                                  Page 11
+                               The World Bank
+                               Chad Water Security and Resilience Project - PASER (P507957)
+
+
+                          The World Bank
+                          1818 H Street, NW
+                          Washington, D.C. 20433
+                          Telephone: (202) 473-1000
+                          Web: http://www.worldbank.org/projects
+
+                          @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+                          APPROVAL
+
+
+                          Task Team Leader(s):                    Taibou Adamou Maiga
+
+                          Co- Team Leader(s):                     Erik Reed
+
+                          Approved By
+
+                          Practice Manager/Manager:               Fatouma Toure Ibrahima                 08-May-2026
+
+
+
+
+_For Official Use Only_
+                          Country/Division Director:              Farouk Mollah Banna                    13-May-2026
+
+
+
+
+                          Note to Task Team: This is the end of document. No further content should be added. Delete this note when
+                          finalizing the document.
+
+
+
+
+                                                                                                                                      Page 12
+

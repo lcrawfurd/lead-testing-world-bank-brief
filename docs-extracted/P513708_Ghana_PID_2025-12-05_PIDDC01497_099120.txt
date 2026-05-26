@@ -1,0 +1,474 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Ghana Market Access and Connectivity Program (P513708)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 05-Dec-2025 | Report No: PIDDC01497
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     Ghana Market Access and Connectivity Program (P513708)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                  Operation Name
+Ghana                          P513708                       Ghana Market Access and Connectivity Project
+Region                         Estimated Appraisal Date      Estimated Approval Date        Practice Area (Lead)
+WESTERN AND CENTRAL            10-Mar-2026                   17-Jun-2026                    Transport
+AFRICA
+Financing Instrument           Borrower(s)                   Implementing Agency
+Investment Project             Republic of Ghana             Ministry of Roads and
+Financing (IPF)                                              Highways
+
+Proposed Development Objective(s)
+(i) enhance connectivity in selected areas of Ghana to support key agricultural value chain development; and (ii)
+establish an efficient and sustainable national-level road maintenance mechanism.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                             400.00
+
+  Total Financing                                                                                                  400.00
+             of which IBRD/IDA                                                                                  400.00
+  Financing Gap                                                                                                      0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                  400.00
+      IDA Credit                                                                                                400.00
+
+
+
+                                                                                                                      Page 1
+
+
+
+                                                                                                             Official Use Only
+         The World Bank
+         Ghana Market Access and Connectivity Program (P513708)
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+ Environmental and Social Risk Classification                      Concept Review Decision
+ Substantial                                                       The review did authorize the preparation to continue
+
+
+
+
+    B. Introduction and Context
+
+  Country Context
+1. Despite setbacks from the 2022 macroeconomic crisis, Ghana’s economy rebounded with 5.7 percent GDP growth
+   in 2024. Over 2009–2019, growth averaged 6.8 percent, outpacing regional peers, but poverty reduction has stalled,
+   rising from 39.0 percent in 2017 to 39.6% in 2024 (at the $3.00/day line). High inflation - especially food prices - and
+   fiscal imbalances eroded household welfare1, prompting a US$3 billion IMF program (2023) and US$360 million World
+   Bank budget support (2025). Still, structural and fiscal constraints persist, though growth is projected to moderate to
+   4.3 percent in 2025 and 4.6 percent in 2026 with continued reforms and stronger domestic revenue mobilization.
+2. Agriculture accounts for about 20.94 percent of GDP2 (2023) and employs nearly half of Ghana’s labor force. While
+   vital for food security and rural livelihoods, its role has declined in the south and center due to urbanization and
+   informal job growth. In productive regions, poor road conditions drive high post-harvest losses, lower farm incomes,
+   and restrict market access, pushing farmers toward subsistence rather than commercial production leading to job
+   migration to low-productivity informal services which limit the poverty-reducing impact of structural transformation,
+   particularly for youth and women.
+3. Ghana key agricultural value chains are cocoa, maize, palm oil, cassava and rice. Ghana and Côte d’Ivoire collectively
+   account for nearly 60 percent of global cocoa production, with Ghana producing approximately 700,000 tons in 2024.
+   Ghana is also the fourth largest cassava producer in the world producing about 22 million tons in 2020.3 Cassava is the
+   most important root crop in Ghana engaging about 70 percent of the farming households and accounting for about 22
+   percent of the agricultural GDP.4 Yam production follows closely cassava with an estimated 8.5 million in 2020 making
+   Ghana the second producer of yams in the world. These highly productive crops including cereals like maize and rice 5
+   are critical to Ghana’s economic growth and job creation making their easy transportation to markets key.
+4. The government launched the Big Push Initiative in 2024 and the “24-Hour Economy” Program in July 2025 to boost
+   productivity, focusing on agriculture, jobs, and logistics among other priorities.6 They promote continuous operations
+
+
+1
+  https://www.worldbank.org/en/news/press-release/2025/08/14/ghana-economy-shows-resilience-amid-a-challenging-
+environment
+2
+  https://www.theglobaleconomy.com/Ghana/Share_of_agriculture/
+3
+  GIPIC (2022). Ghana’s agricultural sector report: https://www.gipc.gov.gh/wp-content/uploads/2023/03/Ghanas-Agriculture-
+Sector-Report-1.pdf
+4
+  Ibidum
+5
+  ibidum
+6
+  24-Hour Economy Booklet: https://24hplus.gov.gh/wp-content/uploads/2025/08/Programme-Booklet-linked.pdf
+
+                                                                                                                             Page 2
+
+
+
+                                                                                                                   Official Use Only
+        The World Bank
+        Ghana Market Access and Connectivity Program (P513708)
+
+
+    in agro-processing, storage, and distribution, encouraging firms to run multiple shifts to reduce post-harvest losses and
+    boost exports. By extending activity across 24 hours, it aims to create more jobs, especially for youth and women, while
+    strengthening the links between production, transport, and logistics networks.
+5. Success depends on efficient road and logistics networks that enable farm produce, raw materials, and finished
+   goods to move seamlessly at all hours. It requires investments in feeder and trunk roads, logistics hubs, reliable
+   transport services, stronger power and digital infrastructure. This is crucial for agricultural value change production,
+   particularly for export-oriented ones and those focusing on food security. By reducing the infrastructure gap, the
+   government aims to improve farmers’ market access, reduce transportation costs, and minimize post-harvest losses.
+   Strengthening these networks will create jobs, boost productivity, competitiveness, and inclusive growth, while better
+   linking isolated regions in Ghana.
+  Sectoral and Institutional Context
+6. Road transport dominates Ghana’s mobility, carrying over 95 percent of passenger and freight traffic. The country’s
+    94,000-kilometer road network is only 27 percent paved. More than 50 percent of the network, including feeders
+    which comprise more than 50 percent of the road network and secondary roads, are in fair to impassable condition.7
+    Even though Ghana’s road density is above the regional average8, distribution is uneven with the north of the country
+    being poorly served, while the southern half has greater road density supporting agricultural and livestock production,
+    but often at a poor service level resulting in increased travel distances and costs to markets and opportunities.
+7. Ghana’s road network has experienced significant deterioration because of chronic underfunding and insufficient
+   maintenance. The National Road Fund has historically met only approximately half of the nation’s road maintenance
+   requirements, with revenues from fuel levies and vehicle fees remaining largely stagnant and frequently reallocated
+   for purposes other than road upkeep. In July 2025, the Road Maintenance Trust Fund was passed by parliament to
+   replace the existing framework to promote greater equity, accountability, and efficiency, while also de-capping
+   revenues to ensure that all funds generated are dedicated exclusively to maintenance activities. The current 2025
+   national budget law designates GH₵2.81 billion (USD 234 million) for road maintenance9. Through various initiatives
+   and programs—including the World Bank–financed Transport Sector Improvement Project (TSIP - P151026) which
+   concluded in June 2025—the Ministry of Roads and Highways initiated a comprehensive improvement of Ghana’s road
+   asset management performance by establishing a dedicated unit and tool to provide improved road asset management
+   practices.
+8. Ghana’s road sector involves various actors. The Ministry of Roads and Highways (MRH) is the lead ministry overseeing
+   the road sector through its three departments: Department of Feeder Roads (DFR), Department of Urban Roads (DUR)
+   and Ghana Highway Authority (GHA) who are responsible respectively for feeder, urban and trunk roads.
+  Relationship to CPF
+9. The proposed project is aligned with the World Bank’s Country Partnership Framework FY22-26 (CPF) and twin goals
+   of ending extreme poverty and promoting shared prosperity in a livable planet. The project supports two objectives
+   under the CPF including objective 1.4: Improved connectivity for access to productive opportunities, through feeder
+   roads improvement and maintenance to enhance sustainable connectivity within areas in the country with high
+   potential for job creation through agriculture and improve access to services and opportunities. The improved feeder
+   road will reduce post-harvest losses and transport costs for farmers to encourage scaling up from subsistence farming
+
+7
+  https://mofep.gov.gh/sites/default/files/pbb-estimates/2024/2024-PBB-MRH_.pdf
+8
+  World Bank InfraSAP database (2021)
+9
+  https://www.graphic.com.gh/news/general-news/ghanas-parliament-approves-gh-2-8-billion-for-road-maintenance.html
+
+                                                                                                                         Page 3
+
+
+
+                                                                                                                 Official Use Only
+            The World Bank
+            Ghana Market Access and Connectivity Program (P513708)
+
+
+      and creation of jobs. The project is again aligned with objective 3.3: Improved household and community resilience to
+      shocks, through the designing of road infrastructures which are resilient to climate hazards and shocks. A new CPF
+      FY26-30 is under preparation. Although pillars are yet to be defined, it is expected that they will encompass
+      infrastructure and physical connectivity to support jobs creation and agricultural development. This operation will be
+      prepared along with this new CPF.
+10. In addition, this project is aligned with the new AgriConnect initiative10 launched by the World Bank during the 2025
+    WB/IMF annual meetings to transform smallholder farming create jobs and strengthen global food security, by lifting
+    300 million farmers up the value chain by 2030. Under the “Improve Infrastructure” pillar, the proposed operation
+    seeks to improve access to areas of key agricultural value chain production and will contribute to the targets of mission
+    AgriConnect.
+
+
+  C. Proposed Development Objective(s)
+ 11. The Project Development Objective (PDO) is to: (i) enhance connectivity in selected areas of Ghana to support key
+     agricultural value chain development; and (ii) establish an efficient and sustainable national-level road
+     maintenance mechanism.
+
+
+ 12. The following PDO indicators will be considered and refined during project preparation:
+        •     Direct users that benefit from improved access to sustainable transport infrastructures and services (number,
+              gender-disaggregated)
+        •     Inferred beneficiaries of improved access to sustainable transport infrastructure and services (Number of
+              people, gender-disaggregated)
+        •     Numbers of farmers with improved connection from AgriConnect targets (to be defined)
+        •     Agricultural production volumes transported through key selected feeder roads (tons)
+        •     Percentage of roads maintained each year from the annual plan
+
+ D. Concept Description
+ Project Financing and Components:
+13. The proposed project aims to (i) rehabilitate feeder roads in selected regions, (ii) support maintenance improvement
+    and (iii) enhance private sector mobilization in the sector. The selection of feeder roads will be done through a
+    framework approach11 considering multiple criteria including impact on accessibility to agricultural key value chains,
+    maximize AgriConnect targets, job creation, reduced impact on the environment, poverty reduction and, access to
+    basic services and markets. Analytical tools such as FlowMax, the Rural Access Index (RAI), and critical link (climate
+    resilience) models can be used to guide these prioritization decisions. The proposed project consists of three
+    components as detailed below:
+      Component 1: Feeder road rehabilitation program and small agriculture facilities
+
+
+
+10
+     https://www.worldbank.org/ext/en/agriconnect
+11
+     The framework approach here refers to selecting, scheduling and prioritizing project activities based on various factors.
+
+                                                                                                                                    Page 4
+
+
+
+                                                                                                                            Official Use Only
+        The World Bank
+        Ghana Market Access and Connectivity Program (P513708)
+
+
+14. Sub-component 1.1 - Rehabilitation of feeder roads: The sub-component will finance the rehabilitation of
+    approximately 1000 km of feeder roads comprising of 300 km bitumen paved, and 700 km gravel-surfaced roads within
+    some selected regions in Ghana. The selection of roads to be paved or unpaved will be determined using the SPADE
+    PLUS12, a two-stage approach that considers an initial multicriteria assessment based on social, environmental,
+    engineering and other benefits to make a determination to pave or not. The second stage will further justify the
+    economic viability of roads designated to be paved roads through a cost-benefit analysis using Roads Economic Decision
+    (RED) or Cost-effectiveness Analysis (CEA) depending on the traffic volume. The Department of Feeder Roads has pre-
+    selected 5,000 km of feeder roads. The framework approach will be implemented through this preselection (cf. figure
+    1). This approach was successfully used in other operations.13 It is expected to have a package of roads ready for the
+    first year of implementation to enable commencement of works as soon as possible. The project preparation will also
+    ensure synergy with ongoing WB operations carried out by the Water and Agriculture Global Practices (GP). The design
+    of the feeder roads will be informed by climate vulnerability assessment studies that will propose innovative solutions
+    for climate-smart and resilient infrastructure as well as solutions for the operations and maintenance of these
+    infrastructures. Maintenance will be critical to ensure sustainability of these roads. To ensure effective maintenance,
+    the project includes a component 2 dedicated to this purpose.
+15. All 1,000km rehabilitated roads will integrate safety audits, speed management, and design measures to protect
+    vulnerable users. Especially pedestrians, cyclists, and motorcyclists who account for over 70 percent of road fatalities
+    in rural areas where appropriate. Based on the design, the project will finance low-cost, high-impact interventions such
+    as pedestrian crossings, rumble strips, and improved signage in towns along the corridors. Major bridges and drainage
+    structures along the selected roads and within the project sites will be constructed to improve resilience of the road
+    and districts to climate hazards like floods, precipitation and temperature. All road works will incorporate universal
+    accessibility standards, safe pedestrian walkways, signage, and drainage to protect vulnerable users
+16. Sub-component 1.2 – Agricultural market support: This sub-component will finance the development of small-scale
+    agricultural logistics infrastructure to (i) strengthen value-chain connectivity, (ii) reduce post-harvest losses in project
+    areas and (iii) enhance jobs creation. Investments will include the construction and equipping of rural aggregation and
+    storage centers, drying platforms and loading bays along the rehabilitated feeder-road network, as well as the
+    upgrading of selected rural markets located at key junctions. Facilities will integrate climate-smart design features—
+    such as solar-powered cold storage, rainwater harvesting, and energy-efficient lighting—to ensure year-round
+    operation and minimize greenhouse-gas emissions. The centers will serve as local nodes for aggregation and primary
+    processing. The sub-component will also promote digital market linkages through partnerships with local agritech
+    platforms, enabling real-time price information and logistics coordination. Collectively, these interventions will
+    enhance productivity, reduce losses, and stimulate inclusive rural enterprise development around the newly connected
+    feeder-road corridors, hence creating jobs at these locations.
+
+
+
+
+ 12
+    https://documents1.worldbank.org/curated/en/607531613505668080/pdf/To-Pave-or-Not-to-Pave-Developing-a-Framework-for-
+ Systematic-Decision-Making-in-the-Choice-of-Paving-Technologies-for-Rural-Roads.pdf
+ 13
+    Haiti Rural Accessibility and Resilience Project (P163490) and the Ivory Coast Inclusive Connectivity and Rural Infrastructure
+ Project (P178362)
+
+                                                                                                                              Page 5
+
+
+
+                                                                                                                      Official Use Only
+        The World Bank
+        Ghana Market Access and Connectivity Program (P513708)
+
+
+
+
+                           Figure 1 : Preselected 5,000 km feeder roads by Ghana Department of Feeder Roads
+
+    Component 2: Road maintenance and sustainability
+17. Sub-component 2.1 -Road Fund reform support : this subcomponent will finance technical assistance to support the
+    ongoing road fund reform already started by the GoG through the new maintenance trust fund bill enacted in July
+    2025. Disbursement of this sub-component will be linked to a Performance Based Condition (PBC) to guarantee
+    effective implementation of the reform.
+18. Sub-component 2.2 – Improved Road Maintenance and Road Asset Management: This subcomponent will support
+    the financing of the annual national road maintenance plan from MRH and strengthen efficient road asset management
+    practices by aligning maintenance planning with revenues from the road fund and other sources through a
+    performance-based condition. Building on the road asset management tool developed under the TSIP project, the
+    proposed initiative will leverage this tool to enhance maintenance planning and budgeting, ensuring optimal use of
+    mobilized funds. Additionally, the component will support traffic data collection and a comprehensive inventory of the
+    national road network to inform maintenance prioritization. The maintenance program which comprises of both
+    routine and periodic maintenance on feeder, urban and trunk roads will potentially create jobs for the local labor force
+    including women and the youth and improve maintenance practices through increased financing both from the Road
+    Fund and the project. Disbursement to maintenance will be tied to resources mobilization by the road fund and annual
+    performance of the plan measured by an annual target to be determined during project preparation.
+
+
+
+                                                                                                                        Page 6
+
+
+
+                                                                                                                Official Use Only
+        The World Bank
+        Ghana Market Access and Connectivity Program (P513708)
+
+
+    Component 3: Enhancing private sector mobilization and project management
+19. This component will through Technical Assistance, support efforts to mobilize private sector financing for some
+    selected road corridors under the government’s infrastructure development program dabbed “the Big Push”. This
+    component will finance feasibility studies for selected corridors through Public-Private Partnerships and assess
+    opportunities for asset recycling (Accra-Tema Road corridor for example). Other activities to enhance the enabling
+    environment can be supported.
+20. The component will also support the project implementation by key implementing agencies including consultancy
+    services, implementation of GRM, and capacity-building on contract management and other targeted technical
+    assistance to improve project delivery.
+    Component 4: Contingent Emergency Response Component (US$0.0 million)
+21. The component will finance immediate and effective interventions including reconstruction of damaged
+    infrastructure in response to GoG’s request to reallocate project funds in the event of an eligible crisis or emergency.
+    The Borrower may request the Bank to re-allocate project funds to support emergency response and reconstruction.
+    This component would draw from the uncommitted credit resources under the project from other project components
+    to cover emergency response.
+
+
+  @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+ Legal Operational Policies
+                       Policies                                                     Triggered?
+  Projects on International Waterways OP 7.50                                           No
+  Projects in Disputed Area OP 7.60                                                     No
+
+
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+22. The overall Environmental and Social Risk Classification, which at this concept level is rated “Substantial” as activities
+    involve civil works in rural regions of the country. The project involves several civil works (rehabilitation of 1000km
+    feeder roads, construction of market hubs, and energy infrastructure) across multiple sectors, with potential for
+    significant environmental and social impacts. The risk rating reflects the scale, complexity, and context of the
+    interventions, including the likelihood of land acquisition, community health and safety concerns, and cumulative
+    impacts from multiple infrastructure upgrades.
+
+
+Key Environmental Risks and Impacts
+23. Key environmental risks and impacts include construction Impacts (i) Dust, noise, and vibration from roadworks and
+    logistics hub construction, (ii) Soil erosion, loss of vegetation, and potential impacts on water resources, (iii)
+    Generation of solid and hazardous waste, including e-waste from digital infrastructure upgrades, (iv) Pollution risks
+    from fuel storage, machinery, and construction runoff, (v) Biodiversity: (potential disturbance to biodiversity and
+
+
+                                                                                                                          Page 7
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Ghana Market Access and Connectivity Program (P513708)
+
+
+    habitat fragmentation if sites are not properly screened , (vi) Resource Efficiency (High demand for construction
+    materials, water, and energy, Need for sustainable sourcing and efficient use of resources.
+24. Key social risks and impacts anticipated include: a) land acquisition or restrictions on land use, with potential for
+    physical or economic displacement, especially for squatters and encroachers on feeder roads and market
+    rehabilitation sites; b) impacts on livelihoods, particularly for communities trading along the road and dependent on
+    right-of-way corridors; c) minor labor influx and associated risks, including the potential to upset local dynamics and
+    the risk of sexual exploitation and abuse; d) risks to tangible cultural heritage, should project activities intersect with
+    sites of historical or cultural significance; and e) disproportionate adverse impacts on vulnerable groups, requiring
+    targeted identification and mitigation measures to ensure equitable project benefits and avoid disproportionate harm,
+    especially for interventions related to road fund reform and private sector mobilization. To facilitate the activation of
+    the proposed zero Contingent Emergency Response Component (CERC), the CERC manual will detail the
+    environmental and social aspects of needs assessments considered adequate, as well as potential activities (positive
+    list) to be financed under the CERC and within an acceptable quantum of risk mitigation.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Ndeye Diop Diaw Gueye
+   Transport Specialist
+
+   Ashwini Rekha Sebastian
+   Senior Agriculture Economist
+
+   Akua Pokuaa Timpabi
+   Transport Specialist
+
+ Borrower/Client/Recipient
+  Republic of Ghana
+
+ Implementing Agencies
+  Ministry of Roads and Highways
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+
+
+                                                                                                                          Page 8
+
+
+
+                                                                                                                  Official Use Only
+     The World Bank
+     Ghana Market Access and Connectivity Program (P513708)
+
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Ndeye Diop Diaw Gueye, Ashwini Rekha Sebastian, Akua Pokuaa Timpabi
+
+Approved By
+
+Practice Manager/Manager:             Anne-Cecile Souhaid                  11-Nov-2025
+
+Country Director:                     Michelle C. Keane                    05-Dec-2025
+
+
+
+
+Project Concept Note: Ghana Market Access and
+Connectivity Project
+BASIC INFORMATION
+Project Beneficiary(ies)            Operation ID                        Operation Name
+Ghana                               P513708                             Ghana Market Access and
+                                                                        Connectivity Project
+
+
+
+
+                                                                                                            Page 9
+
+
+
+                                                                                                  Official Use Only
+

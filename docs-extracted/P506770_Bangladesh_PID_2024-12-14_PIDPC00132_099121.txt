@@ -1,0 +1,416 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 14-Dec-2024 | Report No: PIDPC00132
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                        Operation ID                  Operation Name
+                                                                                           Metro Dhaka Water
+Bangladesh, Bangladesh,
+                               SOUTH ASIA                    P506770                       Security and Resilience
+Bangladesh
+                                                                                           Program
+Financing Instrument           Estimated Appraisal Date      Estimated Approval Date       Practice Area (Lead)
+Program-for-Results
+                               22-Sep-2025                   04-Dec-2025                   Water
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+Economic Relations             Local Government
+Department                     Department
+
+Proposed Program Development Objective(s)
+To improve access to WSS services, reduce pollution loads (entering the rivers and canals), and enhance resilience in
+Metro Dhaka region
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    To be decided
+Is this project Private Capital Enabling (PCE)?              To be decided
+
+SUMMARY
+  Government program Cost                                                                                         330.00
+
+  Total Operation Cost                                                                                            330.00
+    Total Program Cost                                                                                         300.00
+    IPF Component                                                                                                 30.00
+  Total Financing                                                                                                 330.00
+
+  Financing Gap                                                                                                     0.00
+
+FINANCING
+
+
+                                                                                                                     Page 1
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+
+    Total World Bank Group Financing                                                                                                   330.00
+      World Bank Lending                                                                                                               330.00
+
+ @#&OPS~Doctype~OPS^dynamics@pidpfrconceptdecision#doctemplate
+Concept Review Decision
+The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+ Country Context
+1. Bangladesh experienced rapid economic and social progress in recent decades, reaching lower middle-income
+status in 2015. Stable macroeconomic conditions underpinned an average annual real GDP growth of 6.4 percent between
+2010 and 2023. Over the same period, poverty and extreme poverty declined by 19.6 and 6.8 percentage points to 30
+percent and 5 percent, respectively.1 However, the pace of poverty reduction has slowed during the past few years, and
+urban inequality has widened.
+2. An interim government led by Nobel Laureate Dr. Muhammad Yunus was sworn in August 8, 2024, after former
+Prime Minister Sheikh Hasina resigned and left the country amid a student-led mass uprising. The events surrounding the
+resignation caused severe economic disruptions, including a surge in inflation, and a decline in industrial and service sector
+activities and exports and remittance inflows. The economic activities and the law-and-order situation have been gradually
+improving since the transition.
+3. Real GDP grew by 5.2 percent in FY24. On the supply side, GDP growth was primarily driven by industry, which
+expanded by 5.8 percent—lower than the decadal average of 9.5 percent, impacted by energy shortages, import
+restrictions, and monetary tightening. Services growth also slowed to 5.3 percent as domestic purchasing power declined
+due to persistent inflation. Agricultural growth remained modest at 3.3 percent.
+4. The fiscal deficit is estimated to have reached 4.5 percent of GDP in FY24. Revenue growth was robust but remained
+one of the lowest globally at 8.5 percent of GDP. Expenditure is estimated to have increased modestly to 13.0 percent of
+GDP, driven by current expenditure. The public debt to GDP ratio increased to 38.8 percent but remained sustainable.
+5. Bangladesh is at low risk of overall and external debt distress in the January 2023 joint IMF-World Bank Debt
+Sustainability Assessment (DSA). Bangladesh is not currently subject to Debt Limits Conditionality under the Sustainable
+Development Finance Policy (SDFP). In its most recent Staff Report, the IMF stressed the need for Bangladesh to accelerate
+its ambitious reform agenda to achieve a more resilient, inclusive, and sustainable growth, requiring substantial
+investments in human capital and infrastructure.
+6. Bangladesh faces a high level of vulnerability to climate and disaster hazards. The Global Climate Risk Index ranked
+Bangladesh as the seventh most affected country by weather-related loss events in the 2000-20192 period, with high
+vulnerability to cyclones, floods, and storm surges. Recurring flooding in Bangladesh affects a greater population than any
+other natural hazard, impacting more than a million people annually. Addressing climate risks will reduce disruptions to
+economic growth and enhance resilience of vulnerable populations.
+
+1 Based on international poverty line of US$3.65 and US$2.15 per day (2017 purchasing power parity) for poverty & extreme poverty, respectively.
+2 German watch (2021) Global Climate Risk Index 2021
+
+
+
+                                                                                                                                            Page 2
+         The World Bank
+         Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+
+    Sectoral and Institutional Context of the Program
+7. Bangladesh’s transition to an upper middle-income country will involve rapid economic transformation and
+urbanization. Bangladesh is one of the most densely populated countries (1,084 persons per km 2), with population
+projected to grow from 170 million to 265 million by 2050. Over this period, the urban population is also expected to
+increase from 38 percent to 60 percent. The major cities of Dhaka and Chattogram, along with other regional urban
+centers, are the hubs of economic growth, and industrial and export activities, that contribute significantly to Bangladesh’s
+employment, and GDP. The Dhaka metropolitan region3 (metro Dhaka), with 22 million people, accounts for one-third of
+the country’s urban population, generates half of the country’s formal employment, and contributes 35 percent to the
+national GDP. Chattogram is the country’s main port city and export powerhouse.4 Other major cities such as Gazipur,
+Narayanganj, Comilla, Sylhet, Mymensingh, and Barisal are evolving rapidly as regional growth centers.
+8. Bangladesh is endowed with substantial water resources, but rapid urbanization and economic development have
+led to a sharp rise in water demand. As the world’s largest delta country, Bangladesh has a network of more than 430
+rivers and canals that provide fresh surface and ground water resources to meet drinking water needs and demand from
+agriculture, industries, fisheries, and other economic sectors. However, the demands for water have and will continue to
+increase substantially across major consumption sectors – residential, industrial, and agriculture - due to the ongoing
+structural and economic transformation of the country.
+9. Dhaka’s water security is threatened by severe pollution, and flooding. Urban settlements and industrial clusters
+within and around in Dhaka are polluting rivers and canals through the discharge of untreated sewage and industrial
+effluent, which often contains hazardous chemicals and heavy metals. As a result, these critical drainage networks suffer
+from reduced flows, sedimentation, encroachment, impaired navigability, and massive pollution that has destroyed their
+natural ecology and rendered the water unfit for drinking, irrigation, or industry use. Metro Dhaka is increasingly being
+impacted by climate change - flooding risks are compounded by inadequate stormwater drainage systems, and reduced
+water flow capacity in rivers and canals due to pollution, encroachment, and siltation.
+10. Inadequate coverage and poor quality of water supply and sanitation (WSS) services in metro Dhaka is adversely
+affecting water security and livability.5 Water Supply: There are significant spatial disparities in access to water supply
+services in metro Dhaka – while Dhaka city has 70 percent piped water supply network coverage, the adjacent cities
+(Gazipur, Narayanganj, Savar) have less than 25 percent coverage. High dependency on contaminated groundwater
+(including E coli and heavy metals) with limited water treatment capacity is a major concern from public health
+perspective. Sanitation: Dhaka city’s piped sewerage system currently covers only 20 percent of the population, and an
+additional two percent of households have access to a functional fecal sludge management (FSM) system. Access to safely
+managed sanitation services (including onsite sanitation) options is very low in the other cities. It is worth noting that
+metro Dhaka’s WSS service delivery challenges are intricately intertwined with the pollution and flooding issues – on one
+side, inadequate sanitation services is a major contributing factor to water pollution, while on the other side, widespread
+pollution and flooding issues threaten the quality and sustainability of WSS services.
+11. Governance challenges in the water sector include fragmentation, institutional capacity, and regulatory constraints.
+The overlapping and fragmented mandates, weak inter-institutional coordination (at national and local levels), lack of
+accountability, and misaligned incentives are adversely affecting the efforts to implement coordinated planning, service
+delivery, and monitoring systems for addressing the above-mentioned challenges. Water service providers are facing
+institutional capacity constraints including inadequate human resource capacity (staffing levels, skills and expertise), lack
+
+3
+  Dhaka metropolitan region includes Dhaka city (North and South), Gazipur, Narayanganj, and Savar.
+4
+  Chattogram produces 40 percent of Bangladesh’s industrial output, handles more than 75 percent of the exports, contributes 40 percent of the
+government’s revenues, and generates employment for 16 percent of the total employed labor force in the industrial sector
+5 Safely managed water supply and sanitation service coverage in Bangladesh stands at 54% and 29% respectively.
+
+
+
+                                                                                                                                            Page 3
+          The World Bank
+          Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+of customer and service delivery orientation, and inadequate planning and monitoring. Institutional systems for asset
+management and operations are weak. Lack of institutional capacity to plan, design and implement projects and carry out
+sustainable O&M in a timely and quality manner is a fundamental reason behind increasing water pollution and flood
+risks. Lastly, regulatory enforcement for pollution control and service delivery standards remains weak due to lack of real-
+time monitoring system, weak capacity to monitor compliance, especially for industries, and weak enforcement of punitive
+measures available as per the regulations. The encroachments in wetlands and river corridors have severely impacted
+water flow capacity in the metro Dhaka.
+12. Addressing the above-mentioned challenges requires a multi-sectoral phased approach comprising a package of
+governance reforms, institutional development and infrastructure investments. Such an approach should (i) structure
+fiscal incentive mechanisms to improve WSS service delivery (coverage, quality and efficiency), reduce pollution and
+enhance resilience; (ii) implement policy and regulatory reforms to enforce service delivery standards, and address
+pollution and encroachment issues; (iii) strengthen institutional capacity for integrated multi-sectoral planning,
+implementation, sustainable operations and monitoring; and (iv) implement reforms to enable cost recovery, financial
+sustainability, creditworthiness, and private capital mobilization.
+    Relationship to CAS/CPF
+13. The proposed PforR Program is consistent with the World Bank’s Country Partnership Framework (CPF) FY23-27
+(discussed by the World Bank Board of Executive Directors on April 27, 2023, Report No. 181003-BD) and Country
+Climate and Development Report, and directly contributes to the World Bank Group’s mission of ending extreme
+poverty and boosting shared prosperity on a livable planet. It will support CPF’s aim to “contribute towards improved
+socioeconomic inclusion” and “enhance climate resilience” through energy efficiency and resilient water supply services.
+The Bangladesh CCDR also highlights the inadequacy of WSS in the country and the need for improved sanitation as an
+adaptation measure to urban flooding. It will enhance gender equality and empowerment and hence contribute to
+‘improved socioeconomic inclusion’ by reducing water-related costs such as collection time that presently fall
+disproportionally on women and girls.
+14. The PforR Program and the overall MPA are part of a World Bank South Asia regional initiative or “program of
+programs” to provide Water, Sanitation, and Hygiene (WASH) services to about 100 million people across the South
+Asia Region by 2035. It will contribute directly to the objectives and beneficiary targets under the World Bank’s newly
+launched Global Challenge Program on Water Security and Climate Adaptation (Water GCP) – focusing on pillar 1:
+achieving universal access to safely managed WSS, and pillar 3: reducing the impacts of floods and droughts and managing
+water resources sustainably.6
+     Rationale for Bank Engagement and Choice of Financing Instrument
+15. The Program for Results (PforR) instrument will support the GOB in establishing a platform to advance the
+implementation of critical interventions to enhance Dhaka’s water security and resilience. It will adopt a comprehensive
+and integrated approach for implementation underpinned by institutional development, governance reforms, and
+restructured financial incentives to fund priority investments. The PforR is the right instrument to support systems
+development and institutional capacity necessary for long-term implementation of the government program to tackle the
+complex water security and resilience challenges of Dhaka in an incremental manner. It will pave the way for future
+investment programs that may focus on complex infrastructure development activities in subsequent phases.
+    C. Program Development Objective(s) (PDO) and PDO Level Results Indicators
+     Program Development Objective(s)
+
+
+6
+    The pillars are as defined in the approved water GCP approach paper https://documentsinternal.worldbank.org/Search/34400279
+
+                                                                                                                                  Page 4
+          The World Bank
+          Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+
+    To improve access to WSS services, reduce pollution loads (entering the rivers and canals) and enhance resilience in
+    Metro Dhaka region
+ PDO Level Results Indicators
+16. The proposed PDO level results indicators are:
+      •   People provided with safely managed drinking water supply and sanitation services, of which percentage women.
+      •   Beneficiaries with enhanced resilience to flood risks, of which percentage women.
+      •   Amount of wastewater/fecal sludge collected and treated as per regulatory norms.
+      •   Institutional framework and water quality monitoring system adopted for pollution management.
+    D. Program Description
+    PforR Program Boundary
+17. The proposed PforR Program (‘P’, the Program) will support a subset of GOB program interventions for enhancing
+water security and resilience in metro Dhaka. The proposed Program will support GOB in operationalizing the UIP, laying
+the foundation for the long-term implementation of critical interventions and kickstarting a subset of priority and
+impactful activities in the immediate to short-term through incentives focused on development results including
+institutional development. The GoB has (i) identified four focus areas, namely river pollution management, urban planning
+and land management, improved water flows and flood resilience, and improved navigation and water borne
+transportation and (ii) prioritized implementation in seven hotspots7 which have high pollution levels, population density,
+service gaps, and increased exposure to flood risks. The proposed Program will provide financial incentives and technical
+support to the four hotspot areas in metro Dhaka and will focus on improving governance; building institutional systems;
+identifying, planning, and implementing short term lower risk priority investments; and enhancing financial sustainability
+and private capital mobilization.
+18. More specifically, the boundaries of the Program are as follows:
+      •   Services. The Program will focus on drinking water supply, sewerage management and sanitation, and storm water
+          drainage. Some small scale and less complex activities related to solid waste management, industrial effluent
+          management, and canal rehabilitation will also be supported.
+      •   Governance, institutions, and financing. The Program will support governance reforms for improved coordination
+          and sustainable management of water resources, institutional capacity development, regulatory enforcement,
+          water resource planning, water quality monitoring systems and financial sustainability.
+      •   Duration. The Program will be implemented over a period of six years (2026-2032).
+      •   Financing. The PforR Program budget is US$330 million, funded by IDA credit.
+      •   Implementation responsibilities. The Program will be managed by the Local Government Division (LGD) in
+          coordination with Ministry of Water Resources (MoWR). The implementing agencies will be Narayanganj City
+          Corporation, Gazipur City Corporation, Dhaka South City Corporation, and Dhaka North City Corporation.
+          Bangladesh Bank (BB) will be responsible for the proposed financing facility. Technical Assistance will be provided
+          to support the implementing agencies and WARPO (for river basin and water resource planning). LGD will
+          coordinate with Department of Environment, Rajdhani Unnayan Kartripakkha (RAJUK) and Ministry of Industries
+          for pollution control regulations, land zoning regulations and industrial effluent management.
+The Program comprises three mutually reinforcing results areas (RA), as briefly described below.
+
+
+
+7
+    Gazipur, Narayanganj, Savar, Kallyanpur, Goranchatbari, Kamrangirchar, and Purbachal
+
+                                                                                                                           Page 5
+          The World Bank
+          Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+19. Results Area 1 (RA#1): Strengthen water governance, planning, and financing. This RA will strengthen water
+governance in Dhaka by incentivizing priority reforms. This will include (i) establishing national level governance
+mechanisms for coordinating and monitoring program implementation, including fiscal allocations and other policy issues,
+(ii) strengthening institutional framework, capacities and systems at local level (CCs, Municipalities) for implementation,
+and (iii) improving the regulatory enforcement8 systems and capacity for addressing key pollution sources.
+20. More specifically, RA#1 will incentivize preparation of city water security & resilience plans (CWSRP) for integrated
+investment planning and implementation approach. These plans will be prepared by CCs and municipalities for their
+respective jurisdictions and will lay down the investment priorities, with clear linkage to WSS access, pollution reduction
+and flood resilience objectives. It will institutionalize the long-term, multi-sectoral, and spatially targeted investment
+planning process, and will also enable the implementation agencies to identify, prioritize and implement investment
+activities under this Program. These plans will also play a key role in establishing participatory process for stakeholder
+engagement and awareness generation during planning and implementation (inc. community led maintenance).
+21. Additionally, RA#1 will support financial performance improvement and enable private capital mobilization. It will
+incentivize (i) reforms for transparent financial management systems (planning, budgeting, expenditure management),
+tariffs for cost recovery and own-source revenues (OSRs) enhancement, and (ii) operationalization of a dedicated financing
+facility within Bangladesh Bank’s Green Transformation fund to help mobilize private sector financing for water sector.
+22. Results Area 2: Improve access to safely managed WSS services and reduce pollution. This RA will support city
+corporations (CCs) /DWASA in implementing priority interventions for improving the coverage and quality of WSS services
+and contribute to reducing water pollution in rivers and canals. The key activities would include drinking water supply
+network and treatment systems and household connections, on-site sanitation and fecal sludge management systems,
+river corridor cleanup campaigns, interception/ diversion networks and decentralized treatment, and solid waste
+collection, recycling and material recovery facilities. The focus would be to support the implementation of small to
+moderate scale activities with visible results for demonstration effect on the ground. In addition, this RA will prioritize two
+cross-cutting interventions at the local level (i) the development of water quality monitoring systems, and (ii)
+strengthening operations and maintenance (O&M) capacity and systems – for WSS services and pollution management.
+23. Results Area 3: Improve water flows in rivers and canals and enhance flood resilience. This RA will focus on building
+systems and capacities to shift from a fragmented and reactive approach towards urban flood risks to a more robust and
+planned approach based on comprehensive planning and adequate infrastructure systems. This RA will support (i) robust
+planning based on sustainable river and flood management approaches, and (ii) small-scale priority investments for
+rehabilitating and connecting canals and rivers for improved water flows, and reducing flood risks through drainage
+network improvement, nature-based solutions, and clean-up activities.
+24. An Investment Project Financing (IPF) component is proposed to provide technical assistance for implementing
+governance reforms, institutional capacity development, program management, coordination and reporting. Firstly, the
+IPF component will provide hands-on support to the key implementation agencies to (i) implement Program activities
+including governance reforms, institutional systems, preparing investment plans, designing and implementing investment
+projects, and (ii) undertake important technical activities such as information, communication and awareness generation,
+E&S capacity development, needs assessments, technical studies and investigations for water resource management and
+river basin planning, and preparatory studies for investments to be financed in subsequent phases of the program or
+through other sources. Secondly, TA will be provided to BB and partner financial institutions for conducting feasibility
+assessments and structuring projects to be financed by the facility. Lastly, this component will finance the costs of
+
+
+
+8
+    In coordination with the ongoing efforts under World Bank assisted Bangladesh Environmental Sustainability and Transformation (BEST) Project
+
+                                                                                                                                              Page 6
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+independent verification agency, incremental operational costs including recruitment of experts (technical, environment,
+social, financial management, procurement), and other expenses for program management and implementation support.
+ E. Initial Environmental and Social Screening
+25. The Program is expected to provide significant environmental, social and economic benefits. However, there may be
+some adverse environmental and social (E&S) impacts that need careful management. Program interventions will be
+designed to reduce pollution levels in rivers and canals, but construction activities could have potentially negative
+environmental effects, including noise, dust, and water pollution. Given the fact that Dhaka and its surrounding areas are
+some of the most densely populated urban / peri-urban areas in the world, there is a likelihood of irreversible adverse
+social or economic impacts. There are probable community health and safety risks during the construction phase and
+O&M phases of the program. Additionally, the handling and disposal of dredged materials and construction waste must
+be carefully managed to prevent secondary pollution as well as associated impacts on health and safety of people.
+Rehabilitation efforts in river corridors and wetlands also have the potential to affect local biodiversity and ecosystems if
+not managed properly.
+26. During the preparation phase, a comprehensive Environment and Social Systems Assessment (ESSA) will be
+conducted. The Program activities will be designed carefully to exclude large-scale and high-risk activities that may affect
+critical natural habitats and cause significant environmental impacts (including potential impacts on rivers or canals) from
+the Bank’s funding. The ESSA will identify the gaps and weaknesses, if any, between the country systems and applicable
+WB policies for PforR operations and the measures required to address the same. ESSA will also inform the list of activities
+to be excluded from both the Bank and GoB financing based on risk assessment. For the Program, appropriate DLIs and
+interventions in Program Action Plans (to be determined through ESSA) will be included in the Program. Proactive and
+meaningful stakeholder engagement will be critical at every stage of the Program. Appropriate stakeholder engagement
+strategies and plans will be developed right at the start of the Program and implemented throughout.
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component
+
+
+27. The IPF component will provide technical support to address the implementation agencies’ E&S capacity constraints.
+The TA activities proposed under the IPF component will inform and support the planning and implementation of activities
+under the PforR operations, and therefore the downstream E&S risks and impacts relevant to the implementation are
+likely to be significant. Hence, the E&S risks of the IPF component have also been rated as substantial.
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+
+
+
+                                                                                                                         Page 7
+     The World Bank
+     Metro Dhaka Water Security and Resilience Program(P506770)
+
+
+ Harsh Goyal
+ Senior Water Supply and Sanitation Specialist
+
+ David Malcolm Lord
+ Lead Water Supply and Sanitation Specialist
+
+Borrower/Client/Recipient
+ Economic Relations Department
+
+Implementing Agencies
+ Local Government Department
+ Md Nazrul Islam
+ Additional Secretary
+ devwing@lgd.gov.bd
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+
+
+                                                                  Page 8
+

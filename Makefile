@@ -30,14 +30,15 @@ CEA_RESULTS  := $(OUT)/cea/cea_results.md
 MANIFEST     := $(DOCS)/_manifest.csv
 
 .PHONY: help all clean distclean audit chart cea verify \
-        universe download search tables enrich
+        universe download extract-text search tables enrich
 
 help:
 	@echo "Targets:"
 	@echo "  universe   Build the active-water-project universe CSV (calls WB API)"
 	@echo "  download   Download safeguards PDFs into docs-expanded/    (slow, ~60min)"
-	@echo "  search     Run keyword search across docs-expanded/"
-	@echo "  tables     Extract parameter tables from docs-expanded/    (slow, ~25min)"
+	@echo "  extract-text  Run pdftotext on each PDF into docs-extracted/ (~10 min)"
+	@echo "  search     Run keyword search using extracted text"
+	@echo "  tables     Extract parameter tables using extracted text  (faster)"
 	@echo "  audit      Build portfolio_audit.csv (fast)"
 	@echo "  enrich     Add WB region + financing-type metadata to the audit"
 	@echo "  chart      Render the by-region chart"
@@ -56,6 +57,9 @@ $(UNIVERSE):
 download: $(MANIFEST)
 $(MANIFEST): $(UNIVERSE)
 	$(PY) $(SCRIPTS)/download_wb_documents.py --from-csv $(UNIVERSE)
+
+extract-text:
+	$(PY) $(SCRIPTS)/extract_text.py
 
 search: $(SEARCH)
 $(SEARCH): $(MANIFEST)

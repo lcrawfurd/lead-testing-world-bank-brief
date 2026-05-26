@@ -1,0 +1,834 @@
+Public Disclosure Authorized
+                                         The World Bank
+                                         Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+
+
+                                     @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                      Project Information Document (PID)
+
+
+           _For Official Use Only_
+                                                     Appraisal Stage | Date Prepared/Updated: 12-Mar-2026 | Report No: PIDIA01375
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                                    Official Use Only
+                               The World Bank
+                               Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                          @#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+                          BASIC INFORMATION
+
+
+                          A. Basic Project Data
+
+                          Project Beneficiary(ies)       Region                       Operation ID                   Operation Name
+                                                                                                                     Community and Local
+                                                         WESTERN AND CENTRAL
+                          Cote d'Ivoire                                               P507888                        Development in Western
+                                                         AFRICA
+                                                                                                                     Côte d'Ivoire
+                          Financing Instrument           Estimated Appraisal Date     Estimated Approval Date        Practice Area (Lead)
+                          Investment Project
+                                                         02-Mar-2026                  19-May-2026                    Social Protection & Jobs
+                          Financing (IPF)
+                          Borrower(s)                    Implementing Agency
+                          Republic of Cote d'Ivoire      Prime Minister's Office
+
+                          Proposed Development Objective(s)
+
+
+
+
+_For Official Use Only_
+                          To improve access to inclusive and resilient basic services and economic opportunities in Western Côte d’Ivoire.
+
+                          Components
+                          Component 1: Resilient and Inclusive Local Development at the Community Level
+                          Component 2: Socio-economic Development at the Regional Level
+                          Component 3: Knowledge Generation and Institutional Strengthening
+                          Component 4: Project Management
+
+                          @#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                          Maximizing Finance for Development
+
+                          Is this an MFD-Enabling Project (MFD-EP)?                    No
+                          Is this project Private Capital Enabling (PCE)?              No
+
+                          SUMMARY
+                            Total Operation Cost                                                                                            100.00
+
+                            Total Financing                                                                                                 100.00
+                                          of which IBRD/IDA                                                                              100.00
+                            Financing Gap                                                                                                     0.00
+
+
+
+                                                                                                                                                Page 1
+
+
+
+                                                                                                                                      Official Use Only
+                                     The World Bank
+                                     Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                              DETAILS
+                                 World Bank Group Financing
+                                   International Development Association (IDA)                                                                                          100.00
+                                      IDA Credit                                                                                                                        100.00
+
+
+
+
+                              @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+                          Environmental And Social Risk Classification
+                          Substantial
+
+
+                              Decision
+                              The review did authorize the team to appraise and negotiate
+
+
+
+
+_For Official Use Only_
+                              Other Decision (as needed)
+
+                              B. Introduction and Context
+
+                          1. Côte d'Ivoire is one of the fastest growing economies in Sub-Saharan Africa, yet most gains in poverty reduction are
+                             concentrated in urban areas, with widening rural inequalities that carry significant fragility risks. From 2018 to 2021,
+                             the incidence of national poverty dropped from 39 percent to 37 percent. Urban areas led this decline while rural
+                             poverty, notably in the regions of the North and West, continues to lag at 54 percent with little improvement since
+                             2018.1 Particularly the West remains critically underserved, now accounting for 40 percent of the national population
+                             living in poverty, with persistent grievances that feed longstanding conflict dynamics extending across the borders
+                             with Liberia and Guinea. The Montagnes District, comprising the three regions of Tonkpi, Guémon, and Cavally, is
+                             among the most vulnerable with a poverty incidence of 48 percent - far exceeding the national average of 38 percent.
+                             Due to its population size,2 it also hosts the largest number of poor (1.47 million people) (Figure 1.a).
+
+                          2. These spatial patterns and the granular, sub-prefectural disparities that aggregate statistics obscure, are made
+                             visible through the project's use of the innovative geospatial methodology, the Project Targeting Index (PTI). By
+                             triangulating poverty incidence, access to services, and fragility risks at the sous-prefecture level and cross-validating
+                             against national Multidimensional Poverty Index data from ANStat, the PTI provides an unprecedented picture of
+                             where deprivation is most acute and where preventive investments can have the highest impact. It is this evidence
+                             base that anchors the project's geographic targeting and informs the portfolio of sectoral interventions described
+                             below.
+
+
+
+
+                          1
+                              The World Bank Group (2023). Côte d’Ivoire Country Partnership Framework (CPF), FY23–FY27.
+                          2 Estimated at 3 million in 2021, making it the second most populous district in Côte d'Ivoire after the autonomous district of Abidjan.
+
+
+
+
+                                                                                                                                                                             Page 2
+
+
+
+                                                                                                                                                                     Official Use Only
+                                   The World Bank
+                                   Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                          3. The Côte d'Ivoire Risk and Resilience Assessment (RRA) identifies the West as a critical fragility hotspot, providing
+                             the analytical foundation for the projects’ prevention approach as its central operational pillar. Persistent spatial
+                             inequalities compounded by a history of political crisis, land tenure insecurity, and cross-border migration pressures
+                             are among the primary drivers of Fragility, Conflict, and Violence (FCV) identified in the Côte d'Ivoire Risk and
+                             Resilience Assessment (RRA).3 The RRA identifies three multi-dimensional drivers of fragility that find specific
+                             expression in the Montagnes District: (i) spatial and economic inequalities compounded by centralized governance
+                             that leaves local administrators without the resources to respond to local demands; (ii) land and natural resource
+                             management challenges, including inadequate land governance, rising food insecurity, and the infiltration of cocoa
+                             farms into protected forests; and (iii) external spillovers and migration, with a complex history of internal and cross-
+                             border movement from Burkina Faso, Mali, and Liberia intensifying competition over natural resources and fueling
+                             tensions with native populations. Côte d'Ivoire's government has taken proactive steps to address FCV risks, most
+                             notably through two phases of the Programme Social du Gouvernement (PSGouv), which devoted US$6.7 billion to
+                             reducing fragility, but primarily in the North. In support of Government efforts, the Community and Local Development
+                             in Western Côte d'Ivoire project (COSO West) is a central pillar of this approach, directly addressing all prevention
+                             priorities in the country's most vulnerable region.
+
+                                              Figure 1 The regions of the Montagnes District holds the highest number of poor and the lowest access to water
+
+
+
+
+_For Official Use Only_
+                                    a.   Number of poor by region                                  b.   Share of population with improved access to water
+
+
+
+
+                                    Source: World Bank calculations based on EHCVM 2021/22.
+
+                          4. These fragility dynamics play out against a backdrop of acute poverty and multidimensional deprivation in the
+                             Montagnes District, where limited economic opportunities, poor connectivity, and chronic gaps in basic service
+                             delivery reinforce one another in a self-perpetuating cycle of exclusion. Despite holding most of the country’s
+                             agricultural and natural wealth, the District faces deep-seated socio-economic and climate change challenges that
+                             limit economic opportunities. Livelihoods are overwhelmingly agricultural, with declining crop prices in recent years
+                             impacting 34 percent of households. Men are primarily engaged in cash-crop production (mostly cacao and coffee),
+                             while women rely on low-yielding food crops (e.g., rice and maize) and petty trade. Small commerce supplements
+                             income, but employment is largely informal. Youth, who make up 70 percent of the Montagnes population are
+                             especially vulnerable in this labor market.
+
+
+
+
+                          3 Risk and Resilience Assessment (RRA), 2024
+
+
+
+
+                                                                                                                                                                       Page 3
+
+
+
+                                                                                                                                                               Official Use Only
+                                      The World Bank
+                                      Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                          5. In this context, insecure land tenure, identity fault lines, and climate change pressures converge to weaken socio-
+                             economic resilience. A 2025 survey of 1,000 households in 50 villages across the three regions of the District
+                             commissioned to inform project design confirms that land is the dominant source of division, reported by half of
+                             respondents. Land tenure insecurity worsens disputes, leaving many groups - especially women - at heightened risk
+                             of exclusion. Only 44 percent of households cultivating land report having legal documentation for their plots, and 17
+                             percent fear losing land use rights within the next five years. That figure is even lower for women, with only 37 percent
+                             of households reporting that women's names appear on land documents.4
+
+                          6. Rural connectivity further constrains opportunity: the district’s mountainous terrain and highly degraded road
+                             network increase transport costs, seasonal isolation, and reduce access to markets and services, aggregating
+                             transaction costs.5 According to the Road Management Agency (Agence de Gestion des Routes, AGEROUTE), of the
+                             6,000 kilometers (km) of road network in the district, 5,000 km require rehabilitation. Addressing these structural
+                             bottlenecks through rural infrastructure, value chain development, and income-generating activities (IGA) for women
+                             and youth is central to the project's design and directly responds to the RRA's finding that youth unemployment and
+                             economic exclusion are primary triggers of instability.
+
+                          7. The Montagnes District has some of the lowest access to basic services in the country, with significant gaps both
+                             within the district and compared to national averages - a core dimension of regional disparities. The 2025 household
+
+
+
+
+_For Official Use Only_
+                             survey finds that the top service gaps identified by residents are health (23 percent), transport (22 percent), and
+                             water/sanitation (21 percent).6 In rural areas, nearly 20 percent of residents must travel over 10 km for a medical
+                             consultation, compared with 7 percent in urban areas. These long distances coupled with poor connectivity and
+                             frequent financial barriers, worsen health service inequalities across the district.7 Electricity coverage is also low with
+                             52 percent lacking access (64 percent in rural areas), much higher than the national average of 23 percent.8
+
+                          8. Access to safe and reliable water remains one of the most persistent development challenges in the Montagnes
+                             District, where scarcity and unequal access can weaken social cohesion. A mere 9.5 percent of households have
+                             access to running water, versus 40.7 percent nationally and rural Montagnes fares worst at just 0.6 versus 24.7 percent
+                             in urban areas. At village level, 20 percent of the District is estimated to have improved access to water (Figure 1.b).9
+                             Where water points exist, persistent issues with village management, gaps in operator capacity, and inconsistent
+                             tariffs, lead to prolonged outages and abandonment of systems. Aging infrastructure, seasonal aquifer depletion, and
+                             water quality concerns further undermine service reliability, pushing households back to unsafe sources.10 The RRA
+                             identifies these service delivery gaps as a direct threat to the social contract between citizens and the state, making
+                             visible improvements in access to services a critical "dividend of stability" in the region. The Montagnes survey
+                             confirms this assessment and reveals shared water points as potential for community tensions: placement and control
+                             of pumps often mirror local hierarchies.
+
+                          9. Traditional and formal conflict resolution mechanisms in Montagnes are layered, with families and customary
+                             authorities addressing most disputes and formal channels being used sparingly. Village chiefs and traditional leaders
+                             are central in conflict mediation: they are named as the first recourse by 30 percent and as a second recourse by 44
+
+
+                          4
+                              IPA (2025)
+                          5 ANStat. (2021)
+                          6 IPA (2025)
+                          7 ANStat. (2021)
+                          8 World Bank team calculations using microdata from the ANStat (2021) Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM).
+                          9 World Bank team calculation based on a random sample of the 2021 population census accessed for poverty mapping purposes.
+                          10 Ministry of Hydraulics. (2025). General problems related to the supply of drinking water in rural areas in the Montagnes District and proposed solutions.
+
+
+
+
+                                                                                                                                                                                          Page 4
+
+
+
+                                                                                                                                                                                  Official Use Only
+                                   The World Bank
+                                   Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                               percent of respondents. While nearly three quarters of respondents say conflicts are always or often resolved
+                               peacefully, a quarter report unresolved village conflicts and around one in ten report recent violence or serious
+                               household-level disputes. Women report weaker inter-group trust and lower confidence in being granted leadership
+                               roles than men, indicating gendered barriers to bridging social capital.
+
+                          10. COSO West is also positioned within a broader portfolio of World Bank and government investments in the
+                              Montagnes District and the wider West, which together constitute a coordinated response to the region's multi-
+                              dimensional development challenges. The proposed operation will replicate the successful Community and Local
+                              Development (CLD) approach from the Gulf of Guinea Northern Regions Social Cohesion Project (COSO North -
+                              P175043). COSO North operates in lagging, conflict‑affected areas along the border with Mali and Burkina Faso,
+                              through village‑level planning with technical support at the regional level. COSO West adopts and improves this model
+                              to enhance impact based on lessons learned. The project directly complements the Rural Land Tenure Management
+                              Strengthening Program (PRESFOR, P179338) for land governance; the Productive Social Safety Net project (PSSN,
+                              P175594) for social protection; the Forest Investment Programs (FIP and FIP2) for forestry and natural resource
+                              management; and the Strengthening the Primary Education System Project (PRSEB, P177800) for education. At the
+                              same time, it prepares the ground for a set of companion operations across key sectors such as the Water Security
+                              and Sanitation Support Program (PASEA, P177118) and the Inclusive Connectivity and Rural Infrastructure Project
+                              (PCR/ICRIP, P178362) for transport and rural roads, both currently operational in the North.
+
+
+
+
+_For Official Use Only_
+                          11. As mentioned above, the project is aligned with the government's Social Program (PSGOUV3) and National
+                              Development Plan and can serve as a platform to leverage donor funding. This will ensure COSO West does not
+                              operate in isolation but rather as a catalyst and connector, sequencing community-level investments to maximize
+                              synergies, avoid duplication, and lay the institutional groundwork for larger sectoral operations. This approach
+                              represents a coherent, multi-actor effort to shift the development trajectory of one of Côte d'Ivoire's most fragile and
+                              underserved regions.
+
+                           Climate change impacts
+                          12. The Montagnes District is highly vulnerable to climate-induced disasters like floods, droughts and extreme heat.
+                              Current projections suggest that the average annual temperature in Montagnes is expected to rise by 1.5 to 2.5 degrees
+                              °C by 205011 with precipitation patterns becoming increasingly erratic.12 The region’s dependence on agriculture and
+                              forestry coupled with population growth and irregular migration has intensified water scarcity and pressures on natural
+                              resources, already impacted by climate change. Over 50 percent of the district’s land area is covered by natural forest,13
+                              but the expansion of cocoa and coffee production has led to significant deforestation and degradation, in a vicious
+                              cycle that also harms production. Climate change is already remapping the cocoa-growing zones: without adaptation
+                              measures, half these zones will no longer be viable by 2050.14 This would affect a major source of income for small-
+                              holder farmers and contribute to driving inter-communal conflict.
+                          13. The project is consistent with Côte d'Ivoire’s latest Nationally Determined Contributions (NDC 3.0, 2025)15 and the
+                              World Bank’s Country Climate and Development Report for Côte d'Ivoire (CCDR, 2023). 16 The NDC explicitly
+                              recognizes that climate change exacerbates fragility in rural areas and calls for inclusive governance, participatory local
+
+                          11 World Bank. Think Hazard: Montagnes, Cote d'Ivoire.
+                          12 World Bank. Climate Change Knowledge Portal: Cote d'Ivoire.
+                          13 Global Forest Watch. Cote d'Ivoire, Montagnes. https://www.globalforestwatch.org/dashboards/country/CIV/8/
+                          14 World Bank. 2023. Country Climate and Development Report: Cote d'Ivoire.
+                          15 Côte d'Ivoire, Nationally Determined Contributions, 2025. https://unfccc.int/documents/497390
+                          16 World Bank. 2023. Country Climate and Development Report: Cote d'Ivoire.
+
+
+
+
+                                                                                                                                                     Page 5
+
+
+
+                                                                                                                                             Official Use Only
+                                   The World Bank
+                                   Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                              adaptation planning and conflict-sensitive approaches to land and water management. The CCDR highlights the climate
+                              vulnerability of key sectors like cocoa and the potential increase in conflict and migration if land degradation worsens.
+                              The project contributes to addressing these vulnerabilities by financing community level climate resilient investments
+                              and building capacity of local stakeholders for climate adaptation.
+
+                          Local governance and local development planning
+                          14. Côte d’Ivoire has a broad policy and legal framework for local planning, but implementation remains incomplete. A
+                              large body of laws and regulations adopted since the 1980s assigns broad responsibilities to local governments. Law
+                              2003‑208 defines 16 competencies to be delegated to Local Governments (Collectivités Territoriales, CT) in health,
+                              communal roads, water supply and sanitation, and land use. Law 2014‑451 on territorial administration specifies that
+                              regions and CTs are the main agents of local governance, mandated to lead local development while ensuring
+                              community participation. This mandate falls under the administrative purview of the Ministry of Interior’s (MoI)
+                              General Directorate for Decentralization and Local Development (Direction Générale de la Decentralization et du
+                              Développement Local, DGDDL) with a reporting line to the Directorate for Public Investment Programing (Direction de
+                              la Programmation des Investissements Publics, DPIP) under the Ministry of Economy, Planning and Development
+                              (MEPD). The architecture comprises both deconcentrated state administration (regions, departments/prefectures,
+                              sous‑prefectures, villages), and decentralized, elected bodies (CT).17
+                          15. In practice, the 2022 Systematic Country Diagnostic (SCD) highlights three binding constraints to effective
+
+
+
+
+_For Official Use Only_
+                              devolution: (i) contradictory and overlapping mandates, (ii) insufficient, unpredictable intergovernmental transfers
+                              and weak own‑source revenues, especially in lagging and rural areas, and (iii) shortages of qualified staff and limited
+                              local capacity to recruit, retain, and train senior officials. These constraints leave the statutory missions underfunded
+                              and unclear, hampering service delivery and territorial development. As a result, core planning functions remain
+                              centralized at the regional level where local competences are with Regional Councils (RC) and sous‑prefectures.
+                              National diagnostics emphasize that northern and western territories, and secondary cities like Man, lag in service
+                              access and face greater fragility; requiring targeted institutional support. While the legal framework mandates
+                              community engagement in local development, implementation is near non-existent, particularly in the west and north
+                              where service gaps and poverty are higher.18
+                          16. In rural areas, Village Development Committees (Comités de Développement Villageois, CDV) can be an important
+                              entry point of community engagement. In past World Bank and government operations, these committees have been
+                              established to act as liaisons with communes and Regional Councils (RC) on local development planning at the village
+                              level. Their role has typically consisted of mobilizing the community, ensuring citizen engagement at village
+                              assemblies; and of channeling village priorities into Local Development Plans (LDP) and Annual Investment Plans (AIP).
+                              They have the possibility to be recognized as community institutions under the national associations law (Law 60-356)
+                              and their elected committees typically include a president, secretary, treasurer, and auditors.
+
+                           C. Proposed Development Objective(s)
+
+
+                           Development Objective(s) (From PAD)
+
+                           To improve access to inclusive and resilient basic services and economic opportunities in Western Côte d’Ivoire.
+
+
+                          17 Souleymane (Editor) Coulibaly; Madio (Editor) Fall.2016. Diversified urbanization: The case of Côte d’Ivoire. Washington, D.C.: World Bank Group.
+                          18 World Bank. 2022. Côte d’Ivoire. Systematic Country Diagnostic Update: Countdown to 2030.
+
+
+
+
+                                                                                                                                                                                         Page 6
+
+
+
+                                                                                                                                                                                 Official Use Only
+                                    The World Bank
+                                    Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                           Inclusive basic services and economic opportunities refers to services and economic opportunities prioritized by
+                           women, youth and vulnerable groups, empowered to actively participate in community decisions. Resilient services and
+                           economic opportunities refers to services and economic opportunities which strengthen the ability of communities in
+                           the District of Montagnes to withstand, cope with and recover from external risk factors such as climate change,
+                           economic shocks, and conflict.19 Improved access to services refers to physical access to improved infrastructure.
+
+                             Key Results
+
+                          The following core PDO indicators will measure progress (disaggregated by age and gender):
+                               Number of people benefiting from climate resilient infrastructure - [Disaggregated by women and youth]
+                               Number of beneficiaries with improved access to economic opportunities - [Disaggregated by women and youth]
+
+                             D. Project Description
+
+                          The project uses a community-driven, multi-sector approach to close critical service gaps and strengthen local resilience
+                          in the Montagnes District. It combines bottom-up investments in climate-resilient basic infrastructure and targeted
+
+
+
+
+_For Official Use Only_
+                          livelihoods for women and youth with complementary, region-level upgrades and institutional capacity building.
+
+                          Project Beneficiaries
+
+                          17. The project is expected to cover around 620 localities including campements20 in the 35 poorest sous-prefectures
+                              in the three regions of the Montagnes District with a total population of 2 million, as direct project beneficiaries.
+                              The 35 Ss) were identified out of a total of 73 based on a ranking of the number of rural poor using ANStat’s
+                              multidimensional poverty map. This targeting methodology maximizes impact by aligning resources to areas with the
+                              greatest need, ensures coverage across all three regions, and includes more than 80 percent of the District’s rural
+                              poor. The project will operate in all identified localities and campements within the 35 selected SPs, ensuring inclusive
+                              coverage across both officially listed localities and additional settlements identified through local consultations and
+                              satellite imagery. A few exclusions apply: (i) areas already covered by the FIP and FIP2; (ii) campements in Protected
+                              Areas (PA); 21 and (iii) urban centers not adapted to a rural CLD approach.
+
+                          Project Components
+
+                               Component 1. Resilient and inclusive local development at the community level (US$ 51M)
+                          18. Through the CLD approach, Component 1 will finance climate-resilient and inclusive community infrastructure and
+                              IGA. Together, these investments will help communities close critical gaps in basic services, develop local economic
+                              opportunities and strengthen their capacity to plan, implement and maintain priority investments over time.
+
+
+                          19 In line with the definition of resilience provided in the Framework for Understanding and Measuring Resilience.
+                          20 In this context, a campement is an informal or semi-formal settlement—often smaller than an officially listed locality—where communities reside outside or on the
+
+                          periphery of recognized towns or villages. Campements may be attached to nearby localities or isolated, can host sizable populations, and sometimes have basic
+                          community infrastructure (such as schools), but they are not always captured in official administrative lists.
+                          21 Individuals living in these areas will not be excluded. They will participate in the local development planning of their closest targeted locality, but no infrastructure
+
+                          will be rehabilitated or constructed within PAs nor will IGAs that rely on natural resources in PAs be financed.
+
+
+                                                                                                                                                                                                  Page 7
+
+
+
+                                                                                                                                                                                       Official Use Only
+                                    The World Bank
+                                    Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                               Subcomponent 1.1. Enhanced access to basic services through resilient, inclusive infrastructure (US$ 40M)
+                          19. This subcomponent finances climate-resilient, small-scale community infrastructure that addresses communities’
+                              most pressing needs. The CLD approach described below improves the model adopted from COSO North to further
+                              strengthen the role of communities in prioritizing, planning, implementing and monitoring local investments.
+                                   a. Identification. Investments are identified through a participatory diagnostic in which communities - mobilized
+                                      by the CDV and with technical support from community facilitators (Agents du Développement Communautaire,
+                                      ADC) - identify service gaps, and priority needs of different community groups, including women, youth, and
+                                      other marginalized groups where relevant.22 The CDV then leads a consensus-based consolidation process
+                                      where the community votes on its top three priority investments from an open menu of eligible options with a
+                                      negative list. At least one of the top three must represent the choice of the aforementioned groups.
+                                   b. Selection. The top three priorities of each locality are submitted to the Regional Approval and Monitoring
+                                      Commission for Subprojects (Comité Régional d'Approbation de Sous-Projets, CRAS), established by the project.
+                                      Community investments are assessed based on prior review by the regional Project Implementation Unit (PIU)
+                                      and on eligibility criteria for alignment with regional planning and technical compliance. The CRAS reviews each
+                                      community's investment in order of priority and retains the first eligible investment that receives technical
+                                      clearance from the competent sector ministry. To strengthen transparency, community engagement and
+
+
+
+
+_For Official Use Only_
+                                      inclusion, the project will ensure that CDV members are invited to observe CRAS sessions.
+                                   c. Implementation. The CDV, with technical support from the PIU, CRAS and ADCs will participate in the selection
+                                      of local firms for the construction or rehabilitation of community investments. Local labor and expertise will be
+                                      prioritized with a focus on creating job opportunities. Investments include a range of activities from physical
+                                      works, equipment, and mainstreaming climate-proofing standards.23
+                                   d. Participatory Monitoring and Evaluation (M&E). Throughout implementation and until the completion of
+                                      investments, the CDV will be responsible for M&E of the construction and operationalization of infrastructures.
+                                      A maintenance sub-committee under the CDV will be set-up and capacitated for each infrastructure.
+                          20. Allocations, cycles and flow of funds. Each locality will receive one community investment over the life of the project.
+                              The average estimated cost per investment is US$63,000, based on unit cost reviews from COSO North. This
+                              corresponds to an average envelope of approximately US$1.14 million per SP, allocated across two cycles, with
+                              adjustments by population size. Overall, the subcomponent is expected to finance around 620 investments. While
+                              funds flow to the RC in line with the country’s decentralization framework, the national PIU remains responsible for
+                              procurement, overseeing a participatory process which includes RC and CDVs.
+                               Subcomponent 1.2. Increased livelihood opportunities for women and youth (US$ 11 million equivalent)
+                          21. This subcomponent aims to advance the economic empowerment of women and youth through IGA at the
+                              community level. During the identification phase, the participatory diagnostic will map existing and potential
+                              economic groups. Wherever feasible, community savings groups (AVEC) previously established under the PSSN will
+                              serve as strategic entry points, as many have been supported for multiple years and are positioned to graduate to
+
+                          22 Local climate risks and vulnerabilities will also be a key aspect of the diagnostics process.
+                          23 Investments may include physical works and equipment for schools, literacy centers, health posts, childcare and other facilities to support women’s economic
+
+                          participation. These investments will be built with climate and disaster proofing design (such as reinforcing roofing for buildings and improving natural ventilation to
+                          reduce heat exposure) to reduce the impact of climate change-induced flooding, heatwaves and waterborne diseases on the most vulnerable (children and women),
+                          ensure service continuity during extreme climate events, thereby strengthening local adaptive capacity.
+
+
+                                                                                                                                                                                              Page 8
+
+
+
+                                                                                                                                                                                   Official Use Only
+                                      The World Bank
+                                      Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                                  productive activities. Where no economic groups exist, the project will facilitate the establishment of new ones. In the
+                                  selection phase, interested community members will receive assistance to (i) organize into groups and (ii) develop
+                                  business proposals that define the IGA's nature, scope, and objectives, including a budget specifying their investment
+                                  contribution24 and projected returns. A transparent selection process led by a committee comprising the ADCs,
+                                  Regional PIU, and technical partner agencies will evaluate proposals based on three criteria: (i) eligibility limited to
+                                  women and youth groups; (ii) half of grants allocated to proposals that support relevant value chain development;25
+                                  (iii) half of grants allocated to proposals reflecting groups' economic interests and needs, prioritizing inclusion criteria
+                                  (diverse membership, vulnerability considerations); and (iv) a commitment to continue or start contributing to an
+                                  AVEC savings scheme. Support packages will address diverse needs and may include agricultural and trade assets,
+                                  materials, transportation costs, and training.26 IGA groups will receive technical assistance from implementing
+                                  partners (government agencies and NGOs) to consolidate viable initiatives, improve market access, and strengthen
+                                  group management.
+
+                                  Component 2: Socio-economic development at the regional level (US$ 21 million equivalent)
+                          22. This component will support the rehabilitation and development of resilient local economic infrastructure at the
+                              regional level, addressing socio-economic needs that require inter-village solutions or top-down planning. It will
+                              focus on strengthening Local Economic Development (LED) by improving market access and connectivity between
+
+
+
+
+_For Official Use Only_
+                              production areas and economic hubs, promoting job creation, while expanding the provision of safe drinking water in
+                              target localities. Collectively, these investments are expected to unlock local economic potential by reducing
+                              transaction costs, creating new opportunities, and improving the reliability of essential services. By linking production
+                              zones to markets and service centers, the component will catalyze growth for agriculture and other sectors. The
+                              resulting expansion in market activity is expected to translate into meaningful job creation—particularly for youth and
+                              women.
+                          23. Access to Clean Drinking Water. Each locality will be assessed for basic rural water access (water points and public
+                              institutions). Findings will guide tailored intervention packages (averaging about US$25,000 per locality, adjusted to
+                              needs and population) that prioritize rehabilitation and improvement of existing schemes: repairing pumps and
+                              associated structures, replacing outdated components and capacitating pump repair technicians and Village Water
+                              Point Management Committees (with 50 percent women members). Where consistent with eligibility and
+                              environmental safeguards, systems may be upgraded or built using solar-powered options, and local merchants will
+                              be incentivized to supply spare parts. Activities will align with the Ministry of Water and Sanitation (MINHAS) and
+                              PASEA standards. These investments will primarily rely on groundwater resources in the targeted regions, which are
+                              not transboundary in nature. Investments that use or risk polluting international waterways will be excluded in line
+                              with the criteria to be reflected in the Project Implementation Manual (PIM).27
+                          24. Investments in Local Value Chains. Informed by a value chains study, this component will fund value chain and
+                              economic infrastructure projects in the Montagnes District, allocating about US$1 million per region to address
+                              priority bottlenecks. Investments may include improving rural markets, storage and processing facilities, and key
+
+                          24
+                               Between 5-10 percent of the total budget.
+                          25 Based on the results of a value chain study to be available before the project effectiveness.
+                          26 As most livelihood opportunities are expected to be in agriculture sector, support packages will include training and capacity building on climate-smart agriculture,
+
+                          provision of climate-resilient seeds, support to grow drought-resistant cash crops with extended value chains, integrated soil management, soil and water
+                          conservation, and afforestation.
+                          27 Water subprojects will be built with climate resilience features identified by the assessment to reduce flood risks and the impact of water scarcity exacerbated by
+
+                          droughts. Areas with high rates of waterborne disease intensified by climate impacts will be targeted.
+
+
+                                                                                                                                                                                              Page 9
+
+
+
+                                                                                                                                                                                   Official Use Only
+                                   The World Bank
+                                   Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                               access roads to support strategic and climate resilient value chains.28 In response to climate change-driven shocks and
+                               disruption that intensify food insecurity, these upgrades aim to connect production areas with markets, lower post-
+                               harvest losses and costs, boost private sector activity, and strengthen food security. Value chain upgrades are designed
+                               with an explicit jobs lens, focusing on youth employment. Short-term employment will be generated through labor-
+                               intensive rehabilitation of markets, storage, processing facilities, and small access roads. Moreover, improved
+                               connectivity, storage capacity, and processing will reduce losses and increase output, enabling small-scale economic
+                               groups to scale and formalize, and creating sustained employment. IGA under subcomponent 1.2 will be linked to
+                               these supported value chains and will embed relevant skills-building and training, and labor‑market matching so
+                               beneficiaries can expand production, connect to new markets, and sustain income gains over.
+                          25. Connectivity. The component will finance preliminary analytical work on local roads and connectivity in all regions of
+                              the Montagnes District, with an estimated budget of around US$300,000. The assessment will identify critical missing
+                              links, prioritize rehabilitation segments, and define technical standards for all-season rural roads connecting
+                              production zones with markets and service centers. Findings will guide small access road investments and inform
+                              larger government and partner operations in line with the National and Rural Roads Management and Maintenance
+                              strategies and in coordination with PCR and AGEROUTE to ensure technical alignment and avoid duplication.
+                               Component 3: Knowledge Generation and Institutional Strengthening (US$ 18 million equivalent)
+
+
+
+
+_For Official Use Only_
+                          26. Component 3 will support the institutionalization of the CLD approach and strengthen cooperation between
+                              communities and institutions. It will finance analytical work, policy dialogue, targeted social cohesion interventions
+                              and capacity building for local actors and government institutions that oversee local development planning. The
+                              component will generate evidence on what works, translate it into operational tools and policy recommendations and
+                              reinforce local capacities to plan, implement and monitor inclusive investments. The component will also finance an
+                              impact evaluation to assess the impact of equitable access to services on last mile service delivery.
+                               Subcomponent 3.1: Improving Relations and Mutual Trust Between Communities (US$ 5 million equivalent)
+                          27. Communities at increased risk of FCV will be identified in the participatory diagnostic described under Component
+                              1. Community grievances, inequities in the use of shared resources or unfair treatment in existing dispute resolution
+                              mechanisms at the locality level will be diagnosed to inform social cohesion interventions and identify community
+                              investments that can mitigate drivers of conflict.29 Implementing partners will map existing conflict resolution
+                              mechanisms, assess capacity gaps and strengthen them where required. Disputes related to land tenure will be
+                              referred to PRESFOR.
+                          28. In addition, this subcomponent will strengthen equitable, transparent access to shared public services in contexts
+                              of intergroup tension. In order to improve equitable access to services, particularly water, which are frequently
+                              conditioned by group dynamics, the project will pilot low-cost behavioral interventions co-created with communities
+                              (public rules-of-use, equitable rotation schedules, and locally endorsed fair-use charters) alongside support for local
+                              mediation.
+                               Subcomponent 3.2: Analytical Work and Institutionalization of CLD in Côte d'Ivoire (US$ 1 million equivalent)
+
+
+
+                          28 Examples include modernizing market and storage facilities with climate-proofed sheds and adopting energy efficiency technologies where feasible.
+                          29 An example of participatory diagnostics is participatory climate risk assessment, which facilitates communities to identify interconnected local climate and conflict
+
+                          risks and develop solutions in an inclusive manner.
+
+
+                                                                                                                                                                                             Page 10
+
+
+
+                                                                                                                                                                                   Official Use Only
+                                   The World Bank
+                                   Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                          29. This subcomponent will finance analytical work, policy dialogue and initial institutionalization measures to support
+                              a coordinated and sustainable CLD approach in Côte d’Ivoire. The analysis will review the policy, legal and
+                              institutional frameworks, the distribution (or duplication) of roles across central and local institutions, the suitability
+                              of existing regulations for CLD, and available human and financial resources. It will examine financial flows and
+                              fiduciary systems and identify options for more predictable, decentralized flows within the current context.
+                              Concretely, a review of local planning practices will be conducted to align the COSO West participatory approach with
+                              national procedures. The analytical and operational work will be discussed through national and regional workshops
+                              and will inform practical tools: updated CLD guidelines, standard operating procedures and model legal instruments.
+                               Subcomponent 3.3: Capacity building for local stakeholders (US$ 12 million equivalent)
+                          30. This sub-component will finance human resources and capacity building of local stakeholders to drive and
+                              participate in all stages of the investment cycles. 130 ADCs will be deployed to support localities with local
+                              development planning. Local stakeholders (Regional Councils (RC), Sous-Prefectures (SP), and CDV) will benefit from
+                              training on inclusive and participatory local development, Environmental and Social norms, local climate adaptation
+                              and mitigation, social inclusion, and citizen engagement.30 Trainings will be delivered by the PIU. This subcomponent
+                              will also finance the running costs of the RC for project related activities, the CRAS and the CDVs.
+                               Component 4: Project Management (US$10 million equivalent)
+
+
+
+
+_For Official Use Only_
+                          31. This component will support project management and coordination at the regional, national, and subnational levels
+                              by covering the operating costs of planning, implementation, and technical oversight of project activities;
+                              Environmental and Social Safeguards (ESS) management and monitoring; Financial Management (FM) and
+                              procurement; preparation of Annual Work-Plans, and Budgets (AWPB), and progress reports, communication and
+                              M&E arrangements, including the setup of an Information Management System (IMS) and a project beneficiary
+                              feedback mechanism. Coordination activities will support the establishment and operation of the CRAS, the National
+                              Steering Committee (NSC), and technical national and subnational committees.
+
+
+
+
+                            @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+                            Legal Operational Policies                                                                                       Triggered?
+                            Projects on International Waterways OP 7.50                                                                      No
+                            Projects in Disputed Area OP 7.60                                                                                No
+
+
+                          Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+                          30 Climate change related content will account for around 20 percent of overall training and focus on improving communities’ understanding of climate change
+
+                          impacts such as droughts, floods and extreme heat, and promote climate-adaptive behavioral change such as sustainable land management, climate-smart
+                          agriculture, and the use of energy-efficient tools.
+
+
+                                                                                                                                                                                         Page 11
+
+
+
+                                                                                                                                                                              Official Use Only
+                                 The World Bank
+                                 Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                          32. The overall environmental and social risk is Substantial, due to the sensitivity of the area and the nature of activities,
+                              including construction/rehabilitation and upgrading of infrastructure such as roads, markets, water facilities, schools,
+                              and health centers, as well as Income Generating Activities (IGA). The project will not fund small-scale irrigation
+                              schemes using boreholes or inland wetlands for agricultural IGAs. The relevant standards are ESS1-ESS6, ESS8, and
+                              ESS10. Construction/rehabilitation as well as upgrading may adversely impact the bio-physical environment through
+                              dust, noise, wastewater, accidental spills, waste handling, habitat disturbance, and transboundary effects.
+                              Occupational and community safety risks include traffic, unsafe worksites, and sanitation issues. Increased use of
+                              pesticides raises contamination concerns, but these impacts are expected to be site-specific and reversible with
+                              appropriate management measures and controls. Social risks stem from land requirements, potential economic
+                              displacement, labor oversight challenges, exclusion of vulnerable groups, and local tensions. Residual security issues
+                              require conflict-sensitive and adaptive management. Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) risk
+                              is rated Moderate due to contextual vulnerabilities being limited by the project’s scope and built-in mitigation
+                              measures.
+                          33. A Stakeholder Engagement Plan (SEP) outlining inclusive, gender and vulnerability-sensitive engagement,
+                              disclosure, feedback loops, and GRM with an SEA/SH component, has been developed, consulted upon and
+                              disclosed in country and on the Bank website on 17 February 2026. The client will develop an Environmental and
+                              Social Management Framework (ESMF) to establish screening procedures, exclusion criteria for high-risk activities and
+
+
+
+
+_For Official Use Only_
+                              activities excluded from project design. The ESMF will include provisions, screening procedures, and templates for site
+                              specific Resettlement Action Plans (RAP). The ESMF will be approved and disclosed by 20, April 2026. Following the
+                              results of the Cote d’Ivoire environmental and social overview assessment conducted in 2024, the Borrower
+                              framework will apply for labor and working conditions, apart from the identified gaps that will be mandated through
+                              the Environmental and Social Commitment Plan (ESCP). The ESCP has been prepared, setting deliverables, timelines,
+                              staffing, training, and reporting requirements. It includes measures applicable to labor and working conditions for
+                              community workers and subcontractors. Security risks monitoring will be managed through training and operational
+                              protocols, to be detailed in the Project Implementation Manual (PIM). Site-specific Environmental and Social Impact
+                              Assessments (ESIA) and RAPs will be prepared when sites are known, prior to works, and will include pollution
+                              prevention, traffic and emergency plans, waste management, chance-finds procedures. A SEA/SH action plan that
+                              includes accountability and response framework, GRM, and codes of conduct, will be prepared within three months
+                              of effectiveness. It will be implemented and regularly monitored and reported to the Bank.
+
+
+                           E. Implementation
+
+                           Institutional and Implementation Arrangements
+
+                          34. Implementation arrangements build on the Gulf of Guinea Northern Regions Social Cohesion Project (COSO North,
+                              P175043), with strategic oversight provided by a National Steering Committee chaired by the Prime Minister’s
+                              Office. Both projects will be led by the same Project Coordinator and will be managed by the same Project
+                              Implementation Unit (PIU). Key and support staff will be newly recruited to strengthen the PIU’s capacity. The COSO
+                              West PIU will report directly to the Prime Minister’s office. A regional antenna in Man (Tonkpi) with field offices in
+                              Guémon and Cavally will be established with regional teams. Regional councils lead planning and validation and
+                              manage funds, updating Local Development Plans and Annual Investment Plans and technically reviewing
+                              community‑identified subprojects for feasibility and compliance, in coordination with the Ministry of Interior and the
+
+                                                                                                                                                   Page 12
+
+
+
+                                                                                                                                            Official Use Only
+                               The World Bank
+                               Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+                            Ministry of Economy and Plan. At village level, Village Development Committees, created or revitalized and registered
+                            as associations, represent communities, identify and prioritize needs, and participate in procurement for small works
+                            after completing a structured capacity‑building program. Citizen engagement is embedded through participatory
+                            diagnostics and inclusive community meetings, with a project grievance redress mechanism; Environmental & Social
+                            commitments are implemented by the PIU, under the responsibility of the Prime Minister’s Office.
+
+                          @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+                          CONTACT POINT
+
+                          World Bank
+                           Julia Lendorfer
+                           Senior Social Development Specialist
+
+                           Maya Boulos
+                           Social Development Specialist
+
+                          Borrower/Client/Recipient
+
+
+
+
+_For Official Use Only_
+                           Republic of Cote d'Ivoire
+
+                          Implementing Agencies
+                           Prime Minister's Office
+
+                          FOR MORE INFORMATION CONTACT
+
+                          The World Bank
+                          1818 H Street, NW
+                          Washington, D.C. 20433
+                          Telephone: (202) 473-1000
+                          Web: http://www.worldbank.org/projects
+
+                          @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+                          APPROVAL
+
+
+                          Task Team Leader(s):                     Julia Lendorfer, Maya Boulos
+
+                          Approved By
+
+                          Practice Manager/Manager:                Nicolas Perrin                           17-Feb-2026
+
+                          Country/Division Director:               Marie-Chantal Uwanyiligira               12-Mar-2026
+
+
+
+                                                                                                                                            Page 13
+
+
+
+                                                                                                                                     Official Use Only
+                          The World Bank
+                          Community and Local Development in Western Côte d'Ivoire (P507888)
+
+
+
+
+_For Official Use Only_
+
+
+
+
+                                                                                                      Page 14
+
+
+
+                                                                                               Official Use Only
+

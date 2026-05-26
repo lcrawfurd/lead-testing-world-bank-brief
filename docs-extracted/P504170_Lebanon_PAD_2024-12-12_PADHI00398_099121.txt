@@ -1,0 +1,2181 @@
+Public Disclosure Authorized                                               FOR OFFICIAL USE ONLY
+                                                                                                                           Report No: PADHI00398
+
+                                                   INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+                                                                      PROJECT APPRAISAL DOCUMENT
+
+
+
+
+Public Disclosure Authorized
+                                                                                 ON A
+                                                                            PROPOSED LOAN
+
+
+                                                                    IN THE AMOUNT OF $257.8 MILLION
+
+
+                                                                                    TO THE
+
+                                                                             LEBANESE REPUBLIC
+
+
+
+
+Public Disclosure Authorized
+                                                                                     FOR A
+
+                                                            SECOND GREATER BEIRUT WATER SUPPLY PROJECT
+
+                                                                             DECEMBER 12, 2024
+
+
+
+
+Public Disclosure Authorized    Water Global Practice
+                                Middle East And North Africa
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+                                                      CURRENCY EQUIVALENTS
+
+                                              (Exchange Rate Effective Nov 15, 2024)
+
+                                                             Currency Unit =
+                                                              89,500 LBP1 = US$1
+                                                          US$ 0.00001117= 1 LBP
+
+                                                             FISCAL YEAR
+                                                       January 1 - December 31
+
+
+
+
+                           Regional Vice President: Ousmane Dione
+                                  Regional Director: Meskerem Brhane
+                                   Country Director: Jean-Christophe Carret
+                                  Practice Manager: Michael Haney
+                              Task Team Leader(s): Elvira Cusiqoyllor Broeks Motta, Sally Zgheib
+
+
+1
+ The official exchange rate was adjusted to 15,000 LBP/US$ in February 2023 from a former 1,507.5 LBP/US$. The exchange rate of 89,500
+LBP/US$ reflects the BDL platform exchange rate that was aligned with the US$ banknote exchange rate as of December 2023.
+                                 ABBREVIATIONS AND ACRONYMS
+
+
+AFD     Agence Française de Développement            LMP      Labor Management Procedures
+        Italian Agency for Development and
+AICS                                                 LBP      Lebanese Pound
+        Cooperation
+        Arab Fund for Economic and Social
+AFESD                                                LRA      Litani River Authority
+        Development
+BMLWE   Beirut Mount Lebanon Water Establishment     MENA     Middle East and North Africa
+BOD     Biological Oxygen Demand                     MoEW     Ministry of Energy and Water
+CCDR    Country Climate and Development Report       M&E      Monitoring and Evaluation
+CDR     Council for Development and Reconstruction   NDCs     Nationally Determined Contributions
+CE      Citizen Engagement                           NGO      Non-Governmental Organization
+CERC    Contingent Emergency Response Component      NPV      Net Present Value
+CoM     Council of Ministers                         NRW      Non-Revenue Water
+DA      Designated Account                           NWSS     National Water Sector Strategy
+DMA     District Metered Areas                       PP       Procurement Plan
+DSPOE   Dam Safety Panel of Experts                  PAC      Powder Activated Carbon
+EHS     Environment, Health and Safety               PAD      Project Appraisal Document
+E&S     Environmental and Social                     PAPs     Project Affected Persons
+ERP     Enterprise Resource Planning                 PDO      Project Development Objective
+ERR     Economic Rates of Return                     PMU      Project Management Unit
+ESCP    Environmental and Social Commitment Plan     POM      Project Operations Manual
+ESIA    Environmental and Social Impact Assessment   PPSD     Project Procurement Strategy for Development
+EU      European Union                               PV       Photovoltaic
+FM      Financial Management                         RPW      Remaining Pipeline Works
+FCV     Fragility, Conflict and Violence             RTW      Remaining Tunnel Works
+GoL     Government of Lebanon                        RAP      Resettlement Action Plan
+GBML    Greater Beirut and Mount Lebanon             SGBWSP   Second Greater Beirut Water Supply Project
+GBWSP   Greater Beirut Water Supply Project          SEP      Stakeholder Engagement Plan
+GHG     Greenhouse Gases                             SEA/SH   Sexual Exploitation and Abuse/Harassment
+GRM     Grievance Redress Mechanism                  SCADA    Supervisory Control and Data Acquisition
+GDP     Gross Domestic Product                       STEP     Systematic Tracking of Exchanges in Procurement
+        International Bank for Reconstruction and
+IBRD                                                 TOC      Total Organic Carbon
+        Development
+ICT     Information and communication technologies   ToRs     Terms of Reference
+IDA     International Development Agency             UoF      Utility of the Future
+IPF     Investment Project Financing                 WHO      World Health Organization
+IsDB    Islamic Development Bank                     WTP      Water Treatment Plant
+JRS     Joun Regulation Structure                    WWTP     Wastewater Treatment Plant
+The World Bank
+Second Greater Beirut Water Supply Project (P504170)
+
+
+
+                                                            TABLE OF CONTENTS
+
+DATASHEET ........................................................................................................................... i
+I.    STRATEGIC CONTEXT ..................................................................................................... 1
+      A. Project Strategic Context .................................................................................................................1
+      B. Sectoral and Institutional Context ...................................................................................................1
+II.   PROJECT DESCRIPTION .................................................................................................. 6
+      A. Project Development Objective .......................................................................................................6
+      B. Theory of Change and PDO Indicators .............................................................................................6
+      C. Project Beneficiaries ........................................................................................................................9
+      D. Project Components ........................................................................................................................9
+      E. Role of Partners ..............................................................................................................................13
+      F. Lessons Learned and Reflected in the Project Design....................................................................13
+III. PROJECT IMPLEMENTATION ........................................................................................ 14
+      A. Institutional and Implementation Arrangements ..........................................................................14
+      B. Results Monitoring and Evaluation ................................................................................................14
+      C. Disbursement Arrangements .........................................................................................................15
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 16
+      A. Technical, Economic and Financial Analysis ..................................................................................16
+      B. Fiduciary .........................................................................................................................................22
+      C. Environmental, Social and Legal Operational Policies ...................................................................24
+V. KEY RISKS .................................................................................................................... 26
+ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 29
+ANNEX 2. BULK SUPPLY SYSTEM AND NRW REDUCTION AREAS.......................................... 36
+      The World Bank
+      Second Greater Beirut Water Supply Project (P504170)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Lebanon                  Second Greater Beirut Water Supply Project
+                                                     Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                     Classification
+                         Investment Project
+P504170                                              Substantial
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                     [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                   [✓] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                        [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                    [✓] Conflict
+[ ] Deferred Drawdown                                          [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                 [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                 Expected Closing Date
+14-Jan-2025                            31-Dec-2032
+Bank/IFC Collaboration
+No
+
+
+Proposed Development Objective(s)
+The project development objective is to improve the water supply services in the Greater Beirut and Mount Lebanon
+area.
+
+Components
+
+                                                                                                                     i
+      The World Bank
+      Second Greater Beirut Water Supply Project (P504170)
+
+
+ Component Name                                                                                      Cost (US$)
+ Component 1: Completing remaining bulk water infrastructure                                             148.00
+ Component 2: Strengthening treatment processes for improved water
+                                                                                                          56.00
+ quality
+ Component 3: Reforms for improved utility operations                                                     34.00
+ Component 4: Land acquisition and resettlement compensation                                              15.00
+ Component 5: Project management and capacity building                                                     5.00
+ Component 6: Contingent Emergency Response Component                                                      0.00
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+ Borrower:                     Lebanese Republic
+
+ Contact                      Title                      Telephone No.        Email
+ Georges Maarawi              Ministry of Finance Acting 9611642762           georgesm@finance.gov.lb
+                              Director General
+ Implementing Agency:         Council for Development & Reconstruction, Beirut and Mount Lebanon Water
+                              Establishment
+ Contact                      Title                      Telephone No.        Email
+ Ibrahim Chahrour             Acting Head of Funding     (961-1) 980-096      ibrahimc@cdr.gov.lb
+                              Division
+ Jean Gebran                  Managing Director and      96113866550          jeanygebran@gmail.com
+                              Chairman
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 No
+
+Is this project Private Capital Enabling (PCE)?           No
+
+SUMMARY
+
+  Total Operation Cost                                                                                   257.80
+
+  Total Financing                                                                                        257.80
+
+                                                                                                                  ii
+      The World Bank
+      Second Greater Beirut Water Supply Project (P504170)
+
+
+             of which IBRD/IDA                                                                          257.80
+
+ Financing Gap                                                                                            0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                         257.80
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year             2025         2026       2027      2028         2029        2030       2031    2032      2033
+
+Annual           7.54         30.00     40.00      50.00        55.00      40.00       20.00   10.00     4.00
+Cumulative       7.54         37.54     77.54     127.54       182.54      222.54     242.54   252.54   256.54
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                         Contributing Practice Areas
+Water
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                              Rating
+1. Political and Governance                                                ⚫ High
+2. Macroeconomic                                                           ⚫ High
+3. Sector Strategies and Policies                                          ⚫ Moderate
+
+                                                                                                             iii
+      The World Bank
+      Second Greater Beirut Water Supply Project (P504170)
+
+
+
+4. Technical Design of Project or Program                                   ⚫ Substantial
+5. Institutional Capacity for Implementation and Sustainability             ⚫ High
+6. Fiduciary                                                                ⚫ High
+7. Environment and Social                                                   ⚫ Substantial
+8. Stakeholders                                                             ⚫ Moderate
+9. Other                                                                    ⚫ High
+10. Overall                                                                 ⚫ High
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes    [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Not Currently Relevant
+Traditional Local Communities
+
+
+                                                                                                             iv
+      The World Bank
+      Second Greater Beirut Water Supply Project (P504170)
+
+
+
+ESS 8: Cultural Heritage                                                             Not Currently Relevant
+ESS 9: Financial Intermediaries                                                      Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+Schedule 2, Section I.A.2: The Borrower, through MOEW, shall, by not later than one (1) month after the Effective Date
+and thereafter throughout the Project implementation period, cause the Project Implementing Entities to maintain
+their respective Project Management Units (respectively the “CDR-PMU” and the “BMLWE-PMU”) (collectively the
+“PMUs”), with composition, mandate and resources satisfactory to the Bank as detailed in the Project Operations
+Manual.
+Schedule 2, Section I.B.1(c): The Borrower, through MOEW, shall update the Project Operations Manual (POM) under
+terms satisfactory to the Bank to include the rules, guidelines, standard documents and procedures for (i) the principles
+of a funds flow mechanism satisfactory to the Bank for the financing of Resettlement Assistance under Part 4 of the
+Project; and (ii) the detailed arrangements of said funds flow mechanism satisfactory to the Bank [, to be incorporated
+not later than twenty-four (24) months after the Effective Date, or such later date as agreed with the Bank.
+Schedule 2, Section I.C.1(b): The terms and conditions of the CDR Subsidiary Agreement approved by the Bank, shall
+include, inter alia, the obligation of the CDR to maintain, throughout Project implementation adequate staffing and
+personnel at the CDR-PMU and procedures for the implementation of the Project, as further detailed in the Project
+Operations Manual, including, inter alia, the Project manager, a procurement specialist, a financial management
+specialist, social safeguards specialist, and environmental safeguards specialist not later than one (1) month after the
+Effective Date, or such later date as agreed by the Bank, as well as an external auditor in charge of the internal audit of
+both Project Implementing Entities not later than three (3) months after the Effective Date, or such later date as agreed
+by the Bank.
+Schedule 2, Section I.D.1(b): The terms and conditions of the BMLWE Subsidiary Agreement approved by the Bank, shall
+include, the terms and conditions to be included in the contractual arrangements between BMLWE and CDR to
+facilitate the carrying out of the Project, on terms and conditions acceptable by the Bank (“CDR Cooperation
+Agreement”), to be entered by not later than two (2) months after the Effective Date, or such later date to be agreed
+with the Bank.
+Schedule 2, Section I.D.1(c): The terms and conditions of the BMLWE Subsidiary Agreement approved by the Bank, shall
+include, the terms and conditions to be included in the contractual arrangements between BMLWE and the Litani River
+Authority (“LRA”), on terms and conditions acceptable by the Bank (“LRA Cooperation Agreement”), to be entered by
+not later than two (2) months after the Effective Date, or such later date to be agreed with the Bank, including, inter
+alia, the obligation of BMLWE to make avail of, throughout Project implementation, the DSPOE, comprised by qualified
+experts in specific technical fields on dam safety, to provide guidance and advice to BMLWE and LRA during
+implementation of the Project on relevant technical matters.
+
+
+                                                                                                                         v
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+Schedule 2, Section I.D.1(d): The terms and conditions of the BMLWE Subsidiary Agreement approved by the Bank, shall
+include, the obligation of the BMLWE to maintain, throughout Project implementation adequate staffing, personnel and
+procedures for the implementation of the Project, as further detailed in the Project Operations Manual, including, inter
+alia, the Project manager, a procurement specialist, a financial management specialist, social safeguards specialist, and
+environmental safeguards specialist not later than one (1) month after the Effective Date, or such later date as agreed
+by the Bank.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                          Citation                        Description                   Financing Source
+                                                              The CDR Subsidiary
+                                                              Agreement has been
+Effectiveness                 Article V, Section 5.01 (b)     executed and delivered        IBRD/IDA
+                                                              under terms and conditions
+                                                              satisfactory to the Bank
+                                                              The Borrower has prepared
+                                                              and adopted, and caused
+                                                              the Project Implementing
+Effectiveness                 Article V, Section 5.01 (a)     Entities to prepare and       IBRD/IDA
+                                                              adopt, the POM, in form
+                                                              and substance satisfactory
+                                                              to the Bank
+                                                              The BMLWE Subsidiary
+                                                              Agreement has been
+Effectiveness                 Article V, Section 5.01 (c)     executed and delivered        IBRD/IDA
+                                                              under terms and conditions
+                                                              satisfactory to the Bank.
+                                                              The Borrower shall submit
+                                                              a legal opinion from a
+                                                              counsel acceptable to the
+                                                              Bank, confirming that the
+                                                              Loan Agreement has been
+                              General Conditions, Article
+Effectiveness                                                 duly authorized or ratified   IBRD/IDA
+                              9.02 (a)
+                                                              by, and executed and
+                                                              delivered on its behalf of
+                                                              the Borrower and is legally
+                                                              binding upon it in
+                                                              accordance with its terms
+                                                              No withdrawal shall be
+                              Schedule 2, Section             made under Category (3),
+Disbursement                                                                                IBRD/IDA
+                              III.B.1(b)                      unless and until the
+                                                              Borrower has updated the
+
+                                                                                                                      vi
+     The World Bank
+     Second Greater Beirut Water Supply Project (P504170)
+
+
+                                                            POM to incorporate the
+                                                            modalities of a funds flow
+                                                            mechanism for the
+                                                            financing of Resettlement
+                                                            Assistance in form and
+                                                            substance satisfactory to
+                                                            the Bank
+                                                            No withdrawal shall be
+                                                            made for Emergency
+                                                            Expenditures under
+                                                            Category (4), unless and
+                                                            until all of the following
+                                                            conditions have been met
+                                                            in respect of said
+                                                            expenditures: (i) (A) the
+                                                            Borrower has determined
+                                                            that an Eligible Crisis or
+                                                            Emergency has occurred,
+                            Schedule 2, Section             and has furnished to the
+Disbursement                                                                              IBRD/IDA
+                            III.B.1(c)                      Bank a request to withdraw
+                                                            Loan amounts under
+                                                            Category (4); and (B) the
+                                                            Bank has agreed with such
+                                                            determination, accepted
+                                                            said request and notified
+                                                            the Borrower thereof; and
+                                                            (ii) the Borrower has
+                                                            adopted the CERC Manual
+                                                            and Emergency Action
+                                                            Plan, in form and substance
+                                                            acceptable to the Bank.
+
+
+
+
+                                                                                                     vii
+           The World Bank
+           Second Greater Beirut Water Supply Project (P504170)
+
+
+
+    I. STRATEGIC CONTEXT
+
+
+    A. Project Strategic Context
+1.      Lebanon’s ongoing multi-faceted crisis has deepened the urgency of ensuring water security and the
+sustainability of water services, both of which are critical for human well-being and economic development. The
+country's financial challenges and political instability, aggravated by the conflict in the Middle East that has had
+devastating effects in Lebanon including damages to vital infrastructure throughout the country including in the Greater
+Beirut and Mount Lebanon (GBML) area, have led to a collapse of basic public services, exacerbating poverty. Multiple
+development challenges and unaffordable dollarized maintenance costs have severely obstructed the effective planning,
+implementation, and maintenance of water infrastructure and hindered the sustainability of water services. Recognizing
+that water plays a pivotal role in Lebanon’s future and economic development, the Government of Lebanon (GoL) is
+implementing a water sector reform embodied in its updated National Water Sector Strategy 2024-2035 (NWSS) which
+seeks to (i) enhance water security, (ii) improve public service delivery, (iii) support sustainable utilities, and (iv) ensure
+good governance and leadership. Achieving this vision requires significant infrastructure investments to secure the
+country’s water supply, while enhancing existing systems to deliver top-quality services to all citizens. A key focus of the
+NWSS is to drive innovation and investment in digital monitoring, decision-making tools, and processes to strengthen the
+water sector’s resilience to climate change. However, success also depends on building sustainable water utilities by
+implementing legal, institutional, and financial reforms, alongside improving service management.
+2.        The proposed Project will contribute to this vision by improving water supply services in the GBML area and
+enhancing the performance of the Beirut Mount Lebanon Water Establishment (BMLWE). The proposed Project is
+expected to build on the Bank’s ongoing water engagement, while supporting the implementation of sector reform actions
+by the GoL at the level of the BMLWE. It will address critical water security needs by focusing on essential investments to
+increase water supply in the most water-deprived areas of GBML, which currently receive less than a quarter of the water
+needed to meet demand. In addition, the proposed Project will help the BMLWE tackle severe operational and commercial
+inefficiencies, exacerbated by the multiple ongoing crises, thereby contributing to its financial recovery and enhancing the
+reliability of public services.
+
+    B. Sectoral and Institutional Context
+
+        (i) Sector Context
+3.       Water in Lebanon is paradoxically abundant, yet scarce. Precipitation in Lebanon is among the highest in the
+Middle East and North Africa (MENA) region,2 with annual water resources exceeding demand; however, around 70
+percent of rainfall occurs between November and March (wet season) and storage of surface water is inadequate, creating
+a significant water availability gap from April to October (dry season). Despite an estimated per capita renewable water
+availability of 848 cubic meters, climate-change-driven rainfall seasonality is expected to worsen this gap, with projections
+indicating a 50 percent reduction in dry season water availability by 2040.3 Climate projections for Lebanon indicate an
+increase in temperatures, by up to 2.2°C by 2040 and 4.4°C by the end of the century. Greater rainfall variability is also
+expected, which could lead to more intense floods and longer droughts. Factors such as reduced snowpack, increased
+evaporation, reliance on karst groundwater, and insufficient storage exacerbate the challenges, leaving populations
+vulnerable to drought and putting pressure on both surface and groundwater resources.
+
+
+
+2
+    Precipitation ranges from 700 to 1,000 mm along the coastline to 1,600 mm in inland mountain areas.
+3 Groundwater structures of Lebanon are mostly karstic implying that they do not allow storing water to be carried over to dry season; most of the
+
+water that enters the karstic aquifers rapidly reaches the sea.
+
+                                                                                                                                            Page 1
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+4.      The institutional setup of the water sector in Lebanon encompasses a range of different institutions and
+stakeholders. The main institutional players in the Lebanese water sector include the Ministry of Energy and Water
+(MoEW), the Council for Development and Reconstruction (CDR), and the Water Establishments (WEs) and the Litani River
+Authority (LRA):
+   (a) The MoEW is the primary regulatory agency for the water sector, overseeing resource management, budget-
+       financed investments, technical supervision of water establishments, and the establishment of water standards
+       and pollution control legislation.
+   (b) The CDR, established in 1977, is a financially autonomous public institution accountable to the Council of Ministers
+       (CoM) and is responsible for planning, securing financing for, and executing public investment projects,
+       coordinating reconstruction efforts in collaboration with line ministries.
+   (c) WEs: municipal water is provided by four consolidated WEs, which operate in line with the existing legal framework,
+       responsible for managing potable water supply, irrigation, and wastewater services, setting tariffs based on socio-
+       economic conditions, ensuring water quality, and relying on their own funds without central budget support.
+   (d) The LRA, formed in 1954 to facilitate the integrated development of the Litani River Basin under the MoEW, is
+       responsible for the water governance over the entire basin in coordination with all concerned parties.
+5.      Insufficient enforcement of the Water Law 221, enacted in May 2000, has hindered the progress towards an
+effective governance framework for integrated water resources management, resulting in fragmentation and poor
+coordination, though recent actions aim to address these issues. Progress in implementing integrated water resources
+management principles is lagging compared to the regional average.4 The Water Law started the reform of the sector by
+defining the MoEW’s role in policy, bulk water supply, and regulation; and reducing water sector fragmentation through
+the consolidation of 22 water service providers into four WEs. However, without the necessary by-laws for enforcement,
+the law has not been implemented, and responsibilities remain fragmented across various ministries. This fragmentation
+causes overlaps and a lack of accountability, alongside poor stakeholder coordination and insufficient reliable data for
+effective planning and policymaking.5 To address some of these challenges, the following reform actions have been
+completed: (i) Approval of the National Water Council’s internal procedures at the level of the Prime Miniter’s office,
+which seeks to enhance coordination across sector stakeholders; (ii) finalization of six water decrees for better regulation
+of groundwater extraction, licensing, and enforcement, among other aspects; (iii) MoEW’s approval of WEs revised
+organigrams for better organizational structure and formal appointment of utility managers.6
+6.      Although there have been attempts to enhance financial sustainability through annual water tariff increases,
+current rates are still insufficient for the WEs to cover operational costs, and much less capital expenditures.7 In
+Lebanon, households pay a yearly lump sum tariff for water for one cubic meter per day, 8 which dropped from about
+US$200 to under US$20 due to inflation during the economic crisis.9 After several adjustments, the annual lump sum tariff
+
+
+4 UNEP. 2021. Progress on Integrated Water Resources Management. Global Indicator 6.5.1 Updates and Acceleration Needs.
+5 Responsibilities for water management regulation and enforcement, irrigation, and water supply distribution are spread across the Ministry of
+
+Energy and Water, Ministry of Agriculture, Ministry of Environment, Ministry of Public Health, and Ministry of Defense who oversee the
+municipalities that manage individual water and sanitation schemes.
+6
+  Per interim since permanent appointment is frozen.
+7 MoEW. 2022. Roadmap to Recovery of the Water Sector in Lebanon. URL
+8 Although the payment of the yearly tariff entitles each subscriber to dispose of 1 cubic meter per day, the WEs lack the capacity to control the
+
+volume of water withdrawn, which often results in a single subscription to an entire apartment building, or commercial subscribers registered as
+household subscribers.
+9 Sayrafa exchange rate for 2022 equal to LBP20,000.00 for US$1.00.
+
+
+                                                                                                                                             Page 2
+          The World Bank
+          Second Greater Beirut Water Supply Project (P504170)
+
+
+is now around US$150, and the MoEW has plans to gradually return to pre-crisis levels. Additionally, the collapse of the
+energy grid and frequent electricity outages exacerbate the situation, increasing fuel costs and complicating water
+production and service delivery. To ensure gradual improvement in the financial sustainability of the WEs, the MoEW is
+developing with the support of development partners a phased tariff strategy to be completed in 2025.
+7.       Despite the relatively high coverage rate of public water networks (90 percent) in the GBML area, continuity of
+supply is extremely low, forcing households to rely on expensive water supplies and impacting the sustainability of the
+BMLWE. Water supply in the GBML area is largely insufficient, with the BMLWE relying only on water supply from
+groundwater wells or springs. This shortfall in water availability is a critical barrier to ensuring a reliable water supply in
+the GBML area and limits BMLWE's ability to expand its subscriber base and increase revenue. Some Greater Beirut
+residents receive only ten hours of water per week during the dry season, and many areas lack adequate supply even in
+the wet season due to uneven resource distribution and insufficient infrastructure. The public sector's failure to meet
+basic water needs has led to an informal market for water trucking, which can consume up to 16 percent of household
+income in summer.10 Additionally, there are approximately 100,000 private unlicensed wells. Moreover, the influx of
+internally displaced people into Beirut and the existence of significant refugee populations further intensifies the water
+deficit, straining resources and complicating management efforts. Concerns about service continuity and water quality
+also force many to rely on costly bottled water, adding to their financial burdens and generation of plastic waste.
+8.      Nationally, physical and commercial water losses are estimated at around 40 percent, exacerbated by
+unregistered users accessing the public network.11 Similarly, BMLWE estimates the non-revenue water (NRW) levels at
+around 40 percent in the GBML Area, but the variability in supply and lack of control over unregistered users complicate
+accurate measurement. The high NRW levels are primarily due to commercial losses, including unregistered users
+accessing water from the public network and commercial subscribers being misclassified as household consumers. While
+much of BMLWE’s water distribution network is relatively new, inadequate maintenance is likely to also have led to
+physical losses. The reliability of estimates for both commercial and physical losses is uncertain, as BMLWE's customer
+records are outdated, there is no customer-level water metering, and the inconsistent supply hampers effective leak
+detection. To address these challenges, BMLWE plans to reduce losses by defining zones to update customer records,
+establishing District Metered Areas (DMAs), installing household water meters in areas with more reliable supply, and
+implementing targeted communication campaigns.
+9.      Insufficient wastewater management and poor agricultural practices pose a risk to surface water quality. Over
+the past several years, water quality in the Litani River basin has significantly declined. This deterioration is mostly driven
+by the discharge of around 40 million cubic meters per year of untreated municipal wastewater from approximately 70
+communities,12 but it is further exacerbated by certain agricultural practices. Moreover, as of 2023, over 318,000 Syrian
+refugees were registered in the Beqaa Valley,13 often living in informal settlements that lack proper sewage connections
+and relying on unsustainable agricultural practices with excessive use of fertilizers. This surge in informal settlements,
+coupled with the Government of Lebanon's inability to maintain and operate many of the existing Wastewater Treatment
+Plants (WWTPs) in the area,14 has contributed to the deterioration in the water quality of the basin. As a result, and
+according to LRA, coliform bacteria levels in the upper basin are 200 times higher than legal limits in the wet season and
+
+
+
+10 Alamine. 2022.Water rich and thirsty – Taping Lebanon’s renewable health. Synaps Network. URL
+11 Towards a Sustainable Water Sector – Lebanon’s National Water Strategy 2024-2035.
+12 Litani River Authority
+13   UNHCR. URL
+14 As of July 2024, only eight out of the thirteen wastewater treatment plants are working, mostly supported by donor funding.
+
+
+                                                                                                                                 Page 3
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+5,000 times higher in summer, while Biochemical Oxygen Demand (BOD) levels exceed legal thresholds by tenfold, and
+nitrate and phosphate concentrations are 3 to 5 times higher than permitted.
+
+      (ii) Project Context
+10.     The proposed Project is a follow-on operation to the Greater Beirut Water Supply Project (GBWSP, P103063).
+In December 2010, the Bank approved this US$200 million investment project (Loan No. 7967) to finance the GBWSP. The
+financing plan included US$140 million to be financed by the BMLWE and US$30 million by the GoL. The GBWSP, scheduled
+to close in April 2025, aimed to provide an additional 250,000 cubic meters of water per day in the GBML area. Its design
+marked the first time water would be sourced from surface water sources, specifically the Awali River, springs, and the
+Lake Qaraoun fed by the Litani River. The GBWSP infrastructure includes an inter-basin bulk water conveyance tunnel that
+feeds into a gravity-based "source to tap" water supply system to deliver a reliable, year-round supply to the Project area.
+The LRA operates all infrastructure along the Litani, including a series of hydropower plants and dams that the bulk water
+supply system relies on. 15 A schematic of the proposed inter-basin bulk water supply system is shown in Figure 1 below.
+Figure 1. Inter-basin bulk water supply system.
+
+
+
+
+11.     As of November 2024, most activities under the GBWSP have been completed. Key investments funded by the
+GBWSP have been finalized, including the excavation of a 24-kilometer bulk water conveyance tunnel, the rehabilitation
+of over 400 kilometers of the water supply distribution network in Greater Beirut, and the construction of 23 water
+reservoirs with storage capacities ranging from 500 to 1,000 cubic meters. Additional works include network rehabilitation
+and the installation of a Supervisory Control and Data Acquisition (SCADA) system. The construction of the water
+treatment plant at Wardanieh under a Design-Build-Operate contract is well advanced (78 percent by end-October), but
+not completed by the GBWSP's closure due to the effects of the conflict in the Middle East.
+
+
+
+
+15
+  Water allocation to Greater Beirut during the dry season is ensured by Presidential Decree No. 14522, issued on May 16, 1970, which allocates 3
+cubic meters per second of potable water from Lake Qaraoun to the region from April to October (equivalent to 50 million cubic meters).
+
+                                                                                                                                          Page 4
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+12.    Although many works have been completed, the devastating series of overlapping crises that Lebanon has
+experienced since 2019 have prevented the full implementation of the GBWSP.16 These developments not only threaten
+to impede the achievement of the GBWSP’s development objectives but have also increased the need for additional
+support within the water sector. Key issues in the Project area arising from Lebanon’s prolonged fragility include:
+   (a) The lack of funds from the GoL created a financing gap under the GBWSP. The severe financial crisis in Lebanon
+       since 2019, combined with the overall surge in prices, has hindered the Government's capacity to provide its share
+       of co-financing for the GBWSP, creating a financing gap that impedes the completion of several activities. These
+       activities include the completion of the remaining works of the already excavated bulk water tunnel and the
+       construction of the three regional reservoirs originally envisioned under the GBWSP. In addition, the activities
+       related to the operation of the SCADA room were discontinued due to frequent power outages and the surge in
+       fuel costs, which made it impossible for the BMLWE to maintain the SCADA stations.
+   (b) The financial crisis has severely impacted the capacity of the BMLWE, resulting in significant operational
+       inefficiencies. In 2020, BMLWE employed 782 people out of an authorized staff strength of 1,120. Since then, the
+       workforce has drastically decreased, leading to increased reliance on contractors without full-time contracts,
+       leaving the establishment severely understaffed and causing a loss of technical expertise.17 Moreover, frequent
+       electricity grid shutdowns and the lack of resources to purchase fuel have further compounded BMLWE’s
+       challenges. Under these conditions, BMLWE is in urgent need of modernizing and digitalizing its internal systems
+       to improve efficiency in managing assets, monitoring the network, and conducting proper operation and
+       maintenance of the infrastructure.
+   (c) The deterioration of the water quality in the upper Litani basin will likely impact the operations of the Wardanieh
+       WTP. The water quality monitoring plan implemented by BMLWE since 2019 indicates high peaks of ammonia
+       during the dry months of the year at the intake of the WTP in Joun reservoir. The concentration of ammonia
+       observed during these peaks would impede the plant from treating the raw water to drinking water standards. In
+       addition, the water quality monitoring results also show variable levels of Total Organic Carbon (TOC) and Dissolved
+       Organic Carbon (DOC), sometimes exceeding the treatable limits. Managing the higher levels of pollution may
+       require the installation of a set of add-ons in the plant to enhance the water treatment process. However, the data
+       currently available from BMLWE’s monitoring, which relies on monthly sampling, is not sufficient to determine the
+       optimal configuration of add-ons, which would require daily monitoring of the raw water quality over an extended
+       period of at least 12 months.
+   (d) Destruction of infrastructure and disruption of government’s ability to function resulting from an escalation of
+       the conflict in the Middle East in Lebanon that started in 2024. This escalation has resulted in the disruption of
+       essential services, damages to critical infrastructure, and the displacement of hundreds of thousands of people,
+       which are likely to exert additional pressure on the water demand. The works under GBWSP remain suspended,
+       affecting the completion of the Wardanieh WTP, and the operations of the BMLWE are severely disrupted, posing
+       additional challenges to project implementation.
+13.   The proposed Project builds on the ongoing water reform agenda and the progress already achieved under the
+GBWSP, while addressing the emerging challenges described above. The proposed Project (hereinafter “the Project” or
+
+16 The influx of Syrian refugees, the financial crisis that started in 2019, the COVID-19 pandemic, the devastating explosion of the Port of Beirut in
+
+August 2020, the food security shock and oil price hike due to the Russia's invasion of Ukraine and, more recently, the conflict in the Middle East.
+17 Considering the already prominent gender gap in the BMLWE, the number of women in technical positions is acutely low after the workforce
+
+decrease.
+
+                                                                                                                                               Page 5
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+“SGBWSP”) will finance the completion of the water supply infrastructure, ensuring the achievement of the objective of
+bringing additional water supply to extended areas of GBML. In addition, the Project will support the necessary add-ons
+to the Wardanieh WTP to manage increased levels of pollution expected at different times of the year. A schematic of the
+supply system and the remaining infrastructure to be completed under the SGBWSP is available in Figure 2. The SGBWSP
+will also support institutional strengthening to improve the operational and commercial performance of the BMLWE in
+line with the MoEW vision for the recovery of the sector outlined in the NWSS 2024-2035 and the conclusions of analytics
+funded by the Bank and other donors.18
+Figure 2. Detailed water supply system and status of ongoing works
+
+
+
+
+ II. PROJECT DESCRIPTION
+ A. Project Development Objective
+ 14.    The Project Development Objective (PDO) is to improve the water supply services in the Greater Beirut and
+ Mount Lebanon area.
+ B. Theory of Change and PDO Indicators
+ 15.     Improve the water supply services in the GBML areas. Even though BMLWE’s water distribution network
+ covers approximately 90 percent of the households in the GBML area, the utility is able to meet only 24 percent of the
+ domestic and non-domestic water demand in the Project area due to insufficient surface water resource availability.
+ As a result, households meet their water needs by purchasing expensive water from private suppliers: bottled water for
+ drinking, and water from unregulated water tankers that deliver water of unknown quality mostly for other domestic
+ purposes. The displacement of people from southern Lebanon to Beirut, driven by the conflict in the Middle East, is
+
+18 Country Climate and Development Report (CCDR), World Bank’s Utility of the Future (UoF) Program: 100-day action plan, and AFD’s Digital
+
+Transformation Roadmap and Action Plan.
+
+                                                                                                                                         Page 6
+              The World Bank
+              Second Greater Beirut Water Supply Project (P504170)
+
+
+ expected to further strain BMLWE's capacity to meet the growing demand. The Project seeks to address these
+ challenges and improve the water supply services in the GBML area by (i) completing the gravity bulk water
+ infrastructure that will transfer additional 250,000m3/day surface water to meet on average 70 percent of the demand
+ (Components 1 and 4); (ii) ensure that delivered water quality meets World Health Organization (WHO) drinking water
+ standards (Component 2 activities). In addition, these activities will result in a lower reliance on expensive water tankers
+ and lower Greenhouse Gases (GHG) emissions. The PDO indicators to measure these two aspects are the following:
+          •    PDO indicator 1 (Corporate scorecard indicator): People provided with safely managed water (Number of
+               people), target of 1.8 million;
+          •    PDO indicator 2: Volume of additional potable water distributed in the Project area meeting WHO drinking
+               water quality standards (Cubic meters/year), target of 91 million cubic meters per year.
+
+16.      In addition to the insufficient water supply, the BMLWE faces many persistent challenges that affect its operational
+and commercial performance, and its ability to sustain high-quality services. Addressing these issues are at the core of
+the MoEW’s water reform agenda towards improving the sustainability of the sector. The BMLWE suffers from high NRW,
+mostly due to illegal connections, which affects both the efficiency of the service delivery and its ability to recover
+revenues. At the same time, subscription and collection rates are low due to lower willigness to pay for services that are
+unreliable, an outdated customer data base, inneficient billing and collection processes, and insufficient communication
+with citizens. Further, BMLWE’s operational efficiency is being hindered by an inactive SCADA system and an outdated
+fixed asset inventory, that does not allow it to make decisions based on real-time information, as well as a weakened HR
+capacity due to a limited permanent staff force. To address these issues and enhance BMLWE’s performance, the Project
+will support key activities aligned with the water reform agenda, including: (i) reducing NRW in targeted zones, including
+updating its customer database, the installation of macro meters, and household meters where conditions allow; (ii)
+improving BMLWE’s Information and Communication Technologies (ICT) infrastructure, particularly digitalizing billing and
+collection processes; (iii) improving asset management by updating the fixed asset inventory; (iv) rehabilitating the SCADA
+system and enhancing its resilience by installing photovoltaic (PV) systems as alternative energy sources at key stations;
+(v) implementing a strategic communication plan to inform the public about BMLWE’s activities and encourage higher
+subscription and collection rates; and (vi) establishing an apprenticenship and certification program, with a focus on recent
+female graduates or final-year students, to support BMLWE operations and train them in key technical areas. The PDO
+indicators to measure the results of these activities are the following:
+      •       PDO indicator 3: Non-Revenue Water (NRW) reduction in the Project target zones (Percentage), target
+              reduction of 15 percent;
+      •       PDO indicator 4: Increased collection rate in the Project area (Percentage), target increase of 10 percent.
+
+17.           The results chain is detailed in Figure 3 below.
+
+
+
+
+                                                                                                                            Page 7
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+Figure 3. Project’s results chain
+
+
+
+
+                                                               Page 8
+          The World Bank
+          Second Greater Beirut Water Supply Project (P504170)
+
+
+C. Project Beneficiaries
+18.      The Project’s direct beneficiaries are estimated at 1.8 million people who will benefit from a substantial
+improvement in the water supply service. These include the residents in the Beirut Southern Suburbs (Zone A), Damour-
+Kfashima (Zone C), and Tallet El Khayat (Zone TA) service areas, who will receive an additional 250,000 cubic meters of
+water per day. The additional supply will make it possible to increase the percentage of demand covered during the dry
+season from 24 percent to over 70 percent. In addition, around 650,000 residents of the Greater Beirut Area and Coastal
+Metn will also benefit from an improved network in the zones for NRW reduction. Additionally, the interventions
+envisaged to enhance the operational and commercial efficiency of the BMLWE are expected to benefit all its subscribers
+indirectly.
+Table 1. Distribution of additional volumes expected from the proposed Project among the zones in the Project area.
+                                                           Population          Supply                             Improved
+      Service                                                                                Demand met                           Demand met
+                         Communities served                 (2035, no.        (Current,                            supply
+       Area                                                                                    (Current, %)                          (2035, %)
+                                                             people)          m3/day)                              (m3/day)
+                  Part of Furn Ech Chebbak (Ain El
+ Beirut           Remmeneh), Chiah, Part of Ghobeiry ,
+                  Haret Hreik, Borj El Brajneh, Wadi
+ Southern
+                  Chahrour Oulia, Wadi Chahrour             1,110,818          30,000            10.5%             194,000             78%
+ Suburbs          Soufla, Boutchai, Merdechi, Qobbe,
+ (Zone A)         Oumara, Ambroussiyeh, Tahwitet EL-
+                  Ghadir
+                  Qobbe, Oumara, Ambroussiyeh,
+ Damour-
+                  Kfarshima, Naameh, Damour Upper,
+ Kfashima                                                    225,611           14,400             27%              50,400              74%
+                  Aramoun Lower, Qobbe, Damour
+ (Zone C)         (Lower level).
+                  Hamra, Ain El Mraysseh, Sanayeh,
+ Tallet el
+                  Bachoura (Abdallah Khaled), Centre
+ Khayat                                                      322,226           60,224             61%              86,224              72%
+                  Ville, Hout, Ras Nabaa, Jnah, Malaab,
+ (Zone TA)        Dahye, Spiness, Msaitbe, Tallet.
+ TOTAL                                                      1,754,752         104,624             24%              330,624             70%
+
+ D. Project Components
+
+19.    Component 1: Completing remaining bulk water infrastructure (US$148 million total cost, 100% IBRD). This
+component will finance investments to complete the remaining bulk water infrastructure started and significantly
+advanced under the GBWSP19 to ensure water is conveyed to the existing water supply distribution network serving the
+GBML area, including the required construction supervision services for all the works. It will also finance rehabilitation
+works of bulk water infrastructure that may have been potentially damaged by the conflict in the Middle East.20 The
+component will have the following subcomponents:
+      (a) Subcomponent 1.1 – Remaining Tunnel and ancillary works (US$80 million): This subcomponent will finance the
+          remaining works to complete the bulk water tunnels started and significantly advanced under the GBWSP. These
+          include, among other: (i) the lining of 4 km of the bulk water tunnel conveying raw water from the intake point to
+          the Wardanieh WTP; (ii) the lining of 20 km of the bulk water tunnel conveying treated water from the Wardanieh
+
+
+
+19 None of the envisaged infrastructure under component 1 poses a risk for deforestation or other decrease in carbon sinks in the long-term.
+20
+     These will be determined after a damage assessment on the ground is performed, when conditions allow.
+                                                                                                                                               Page 9
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+        WTP to the twin transmission pipelines; (iii) the Joun Regulation Structure (JRS) to control the raw water flow to
+        the WTP; (iv) an inverted syphon; and (v) a surge shaft.
+   (b) Subcomponent 1.2 – Remaining Pipeline Works (US$18 million):21 This subcomponent will finance the works to
+       complete the installation of the twin transmission pipelines conveying the treated water from the end of the bulk
+       water tunnel at Khalde to the regional reservoirs. It will include, among other: (i) excavation and installation of
+       remaining pipeline (about 1660 m of twin pipes), (ii) hydrostatic testing of newly installed pipelines, (iii)
+       construction of piles and thrust blocks and, (iv) final testing and commissioning of the system.
+   (c) Subcomponent 1.3 – Regional reservoirs and transmission pipeline (US$50 million): This subcomponent will
+       finance the construction of the three regional reservoirs and an interconnecting pipeline. The reservoirs (Hadath
+       125, Hadath 90 and Hazmieh 9022) will increase BMLWE’s storage capacity by about 120,000m3, and increase the
+       overall resilience and efficiency of the distribution system by allowing the BMLWE to regulate the flow of the
+       stream depending on the fluctuations in water demand.23
+20.      Component 2: Strengthening treatment processes for improved water quality (US$56 million total cost, 100%
+IBRD). This component will finance the completion of the construction works of the original design of the Wardanieh
+WTP24 that could not be completed under the GBWSP, and adjustments (add-ons) to the Wardanieh WTP treatment
+processes through an adaptive management approach. The adoption of the adaptive management approach aims to
+balance the need to find the optimal configuration of add-ons to enhance the resilience of the Wardanieh WTP to variable
+raw water quality while maintaining operational costs within the financial capacity of the BMLWE. Following this approach,
+the component will finance “no regrets” investments which include, among other: (i) the establishment of daily raw water
+quality monitoring and an early warning system, to be installed as soon as the Project becomes effective;25 and, (ii) the
+addition of a Powder Activated Carbon (PAC) system including powder storage, feeder, and dosing system. 26 Once water
+is available at the Wardanieh WTP (after completion of the raw bulk water tunnel), this subcomponent will finance: (iii)
+the operation of the Wardanieh WTP in an adaptative management mode, making it possible to respond to the
+fluctuations in raw water quality and the response of the current configuration to different pollution loads, and to identify
+and manage potential treatment challenges; and (iv) based on the results of (i) and (iii), the design and installation of the
+optimal configuration of add-ons to ensure that the plant’s effluent meets WHO standards throughout the year. This
+component will also finance the required construction supervision services for the needed works. In addition, this
+component will finance activities to improve water quality management at the BMWLE, including the rehabilitation and
+upgrade of BMLWE’s laboratory at the Dbayeh through the expansion of existing facilities and the purchase of sufficient
+equipment, laboratory tools and chemicals, and the reinforcement of chlorination practices to ensure residual chlorine in
+BMWLE’s distribution network. To address the impact of the potential damages in the distribution network due to the
+conflict in the Middle East, including in the Greater Beirut and Mount Lebanon area, this component will also finance
+
+21 The works are contingent on the successful expropriation of 6 plots of land totaling about 1037 square meters.
+22 The construction of Hadath 90 and Hazmieh 90 reservoirs requires expropriation of land, covered under the RAP addendum, to be financed by
+
+the Loan Proceeds.
+23 The expropriation decree for these reservoirs had already been issued under the GBWSP, however, the process, including compensations, was only
+
+completed for the reservoir Hadath 125 (37,800m3).
+24 The Wardanieh Water Treatment Plant is a state-of-the-art facility designed (and currently under implementation) by a reputable international
+
+contractor with expertise in energy-efficient practices and adherence to international best standards.
+25 The BMWLE has been carrying out raw water quality monitoring with variable frequency since 2019. Most have been taken once or twice per
+
+month. Since May 2024, the BMLWE has renewed efforts, conducting sampling twice per week when possible. The project will complement these
+efforts by bringing the needed financing to establish an accurate water quality baseline based on daily water quality monitoring.
+26 The Joun Regulation Structure has been identified as a potential location for the installation of the PAC system. This would allow for at least 2-
+
+hours of contact time for the removal of medium range organic pollutants, and in certain conditions, also of ammonium.
+
+                                                                                                                                            Page 10
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+repairs and rehabilitation of key infrastructure as needed in the distribution network served by the Wardanieh WTP (area
+A and C).
+21.      Component 3: Reforms for improved utility operations (US$34 million total cost, 100% IBRD). This component
+will finance activities aimed at improving the operational, financial and customer orientation performance of the BMLWE,
+in alignment with the vision for the recovery of the sector in Lebanon. These activities are divided in three sub-
+components:
+   (a) Subcomponent 3.1 - NRW reduction in selected zones (US$24 million): Under this subcomponent, the Project will
+       finance NRW reduction interventions, covering both physical and commercial losses, in four zones in the GBML
+       area, namely Babdaa Suburbs, Coastal Metn, Tallet EL Khayat and Bourj Abu Hadar. 27 The activities to be financed
+       in each zone include: (i) a census to update BMLWE’s customer cadaster, identifying illegal connections and
+       reducing commercial losses; (ii) installation of service connections to main distribution branches; (iii) update of the
+       hydraulic model in the zone; (iv) establishment of District Metered Areas (DMAs) and macro-metering; (v)
+       installation of a minimum of 40,000 household smart meters, and preparatory works for future installation of smart
+       meters according to water supply reliability; and (vi) water pressure monitoring, leak detection and network
+       rehabilitation interventions, as needed. This subcomponent also includes engineering and construction supervision
+       services for the NRW reduction works.
+   (b) Subcomponent 3.2 – Digitalization of BMLWE’s operational and commercial management systems (US$8
+       million): This subcomponent will include activities to reinforce, upgrade and modernize several processes that are
+       key for the BMLWE’s efficient and resilient operation and to enhance the utility’s responsiveness to customers. It
+       will include financing for: (i) the reinforcement of BMLWE’s ICT infrastructure; (ii) the reactivation of the SCADA,
+       including integration of existing DMAs to the system and interventions to increase its resilience to power outages
+       through the installation of solar panels;28 (iii) conducting a fixed asset inventory to be integrated in the BMLWE’s
+       Enterprise Resource Planning (ERP) software; (v) digitalization of customer management and internal processes,29
+       including an update of BMLWE’s customer cadaster in the Project area; and (vi) yearly implementation of the
+       BMLWE’s Entity Audit.
+   (c) Subcomponent 3.3 – Improved communications (US$2 million): This subcomponent will finance: (i) the
+       development and implementation of the BMLWE’s Communications Strategy focused on citizen orientation, aimed
+       at helping the BMLWE address complaints, improve customers' willingness to pay, reduce commercial losses, and
+       boost subscriptions; and (ii) the implementation of semi-annual public awareness campaigns to raise public and
+       stakeholder awareness of BMLWE operations, as well as of critical water-related issues such as water quality, water
+       conservation, and reduction of non-revenue water (NRW). Additionally, this subcomponent will focus on capacity
+       building for BMLWE to institutionalize a more effective communication framework centered around citizen
+       engagement. This will be achieved through various training programs, study tours, and other capacity-building
+       initiatives aimed at fostering a citizen-centered water establishment.
+
+
+
+
+27 The NRW interventions are expected to contribute to manage the water demand in these areas.
+28 The SCADA system has been working for 4 years before site control cabinets and central supervision had to be progressively deactivated due to
+
+lack of electricity. The situation of the country did not allow for a steady energy supply for the headquarters of BMLWE and water production and
+distribution infrastructures.
+29 Migration of billing and collection system to the improved BMLWE’s ERP software, integration of ERP data with GIS systems, digitalization of
+
+paper processes, and supporting the digitalization of the call center.
+
+                                                                                                                                          Page 11
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+22.     Component 4: Land Acquisition and Resettlement Compensation (US$15 million total cost, 100% IBRD): This
+component will include land acquisition and resettlement compensation to displaced people for: (i) the reservoirs Hadath
+90 and Hazmieh 90 to be constructed under subcomponent 1.3;30 (ii) a section of the twin transmission pipelines under
+subcomponent 1.2; (iii) the Joun Regulation Structure (JRS) to control the raw water flow to the WTP under subcomponent
+1.1, and (iv) the land for the outflow of the Wardanieh WTP. The implementation of this component will follow the
+provisions of the resettlement action plan (RAP) and its addendum.
+23.      Component 5: Project management and capacity building (US$4.8 million total cost, 100% IBRD financing). This
+subcomponent will finance the operation of the Project Management Units (PMU), further described in section III. It will
+also include assistance to ensure MoEW oversight and coordination over Project activities. It will also finance knowledge
+exchange activities with other water establishments as well as from international experience. In addition, this component
+aims to address gaps in female representation in technical positions through focused training and capacity-building
+activities for women, enhancing their skills for technical positions. For this purpose, this component will support an unpaid
+apprenticeship program that will target female participants to facilitate exposure to professional opportunities within
+BMLWE. The program will not be exclusive to women but will aim to have more than 50 percent of female participation.
+The BMLWE will benefit from the work of young and well-trained apprentices, while the new graduates will be certified
+on utility-related market-relevant technical skills (like NRW reduction, SCADA management, asset management, etc.) and
+gain on-the-job experience that will enhance their competitiveness for work across the water sector. It will also include a
+regular assessment of the program and propose measures to strengthen BMLWE’s institutional capacity to sustain such
+programs and provide job intermediation support to program graduates beyond its duration. Such measures may include
+collaboration with local engineering institutes and associations to launch joint apprenticeships programs based on pre-
+identified skills that are in high demand, and/or establish a roster of consultants or experts for future work across the
+sector. Trust-funded grant resources are anticipated in addition to the IBRD financing to support the capacity building
+actions in this component.
+24.      Component 6: Contingent Emergency Response Component (CERC). This component will have zero funding
+allocation at the onset and will only be triggered in emergency circumstances.
+Table 2. Project financing
+                                                                                                                          Total Financing
+ Project Components
+                                                                                                                           (US$ million)
+                                                                                                  Financing Source          IBRD 100%
+ 1      COMPONENT 1: COMPLETING REMAINING BULK WATER INFRASTRUCTURE                                                              148
+ 1.1       Subcomponent 1.1: Remaining tunnel and ancillaries works (RTW)                                                        80
+ 1.2       Subcomponent 1.2: Remaining pipeline works (RPW)                                                                      18
+ 1.3       Subcomponent 1.3: Regional reservoirs and transmission                                                                50
+ 2      COMPONENT 2: STRENGTHENING TREATMENT PROCESSES FOR IMPROVED WATER QUALITY                                                56
+ 3      COMPONENT 3: REFORMS FOR IMPROVED UTILITY OPERATIONS                                                                     34
+ 3.1       Subcomponent 3.1: Non-revenue water reduction                                                                         24
+ 3.2       Subcomponent 3.2: Digitalization of BMLWE management systems                                                           8
+ 3.3       Subcomponent 3.3 Improved communications                                                                               2
+
+
+30 The expropriation decree for the three reservoirs under sub-component 1.3 had already been issued under the GBWSP, however, the process,
+
+including compensations, was only completed for the reservoir Hadath 125 (37,800m3). The expropriation for the other two reservoirs was not
+completed as the GoL did not have the funds to cover all expropriation costs due to the country’s financial crisis.
+
+                                                                                                                                       Page 12
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+ 4     COMPONENT 4: LAND ACQUISITION AND RESETTLEMENT COMPENSATION                                             15
+ 5     COMPONENT 5: PROJECT MANAGEMENT AND CAPACITY BUILDING                                                   4.8
+ 6     COMPONENT 6: CONTINGENT EMERGENCY RESPONSE COMPONENT                                                     0
+                                        TOTAL                                                                 257.8
+
+
+ E. Role of Partners
+25.      The Project is aligned with the ongoing coordinated donors support provided under the GBWSP and in related
+endeavors in support of water sector development, and continuous coordination will enhance the synergies across
+related interventions. The Project will continue the coordination with development partners, including the Agence
+Française de Développement (AFD), the European Union (EU), the Italian Agency for Development and Cooperation (AICS),
+GiZ, USAID, the Islamic Development Bank (IsDB), the Arab Fund for Economic and Social Development (AFESD), the UN
+agencies, and NGOs. The AICS is assisting the GoL in improving water quality in the upper Litani Basin by financing the
+construction of new wastewater treatment plants (WWTPs) and a sewage collection network in the Anjar area. The AFESD
+has financed wastewater projects in the North and Central Litani Basin (North Beqaa and East Zahle). Similarly, USAID and
+the EU are supporting the operation and maintenance of existing WWTPs, which are essential for maintaining water
+quality at the intake of the proposed supply system under the Project. Many of the activities planned under component 3
+of the Project are in line with these reform actions and build on prior work undertaken by various donors active in the
+sector.
+
+ F. Lessons Learned and Reflected in the Project Design
+26.      Previous Bank-financed projects in Lebanon have demonstrated that the implementation environment is
+challenging, requiring flexibility to achieve objectives. The high macroeconomic, governance and political risks inherent
+to Lebanon can lead to unexpected delays and complications in project implementation. At the same time, perseverance
+and creativity and a strong on-the-ground presence in Lebanon are effective in overcoming complex implementation
+challenges. For instance, delays were caused by the BMLWE’s inability to cover its share of the costs of the Wardanieh
+WTP under the GBWSP, which led the Bank team to propose a reallocation of funds across disbursement categories from
+CDR to the BMWLE and a revision of financing parameters to allow for 100 percent financing from IBRD proceeds to ensure
+the completion of the WTP. This showcased the importance of strong partnership between implementing agencies. Finally,
+the current government-imposed restrictions on international transfers in US$ during the financial crisis led to funds being
+held in project Designated Accounts that were unavailable to implementing agencies. The Project addresses these aspects
+in its design by: i) ensuring strong government ownership and partnership, including support from the MoEW, BMLWE,
+and the CDR, all of whom are involved in the technical implementation of the Project; (ii) the introduction of only three
+disbursement categories to allow flexible reallocation of funds based on progress and challenges on the ground; (iii) the
+possibility to use direct payments by both implementing partners; (iv) a high level of readiness, with the remaining tunnel
+works contract at an advanced stage of procurement; (v) a 7-year implementation period which is realistic given the
+challenges of the implementation environment.
+27.      Global experience in the water sector shows the need to accompany infrastructure investments with reform
+activities to improve water service provision and improve its sustainability. A review of previous Bank-financed projects
+in different regions showed that the water sector often suffered from a disconnect between investment in infrastructure
+and investment in the efficiency of service provision, leading to an increased risk of substandard and unsustainable service
+provision. The design of the Project balances the need to complete much needed infrastructure to bring potable water to
+GBML, where the supply is insufficient and the population is growing, with several interventions to improve the
+
+                                                                                                                      Page 13
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+operational and financial performance of the BMWLE to increase its capacity to maintain these investments in the future.
+These reform activities have been prioritized following recommendations from the NWSS 2024-2035.
+28.     Experience shows that managing water quality issues affecting water sources requires coordination and actions
+on several fronts. Dealing with water quality in the Upper Litani Basin involves several issues including: (i) contamination
+coming from agricultural runoff and industrial discharges; (ii) inadequate solid waste and wastewater management leading
+to pollution; (iii) limited infrastructure for monitoring and treatment; and (iv) the impacts of climate change on water flow
+and quality. Addressing these challenges requires integrated watershed management, stringent regulatory enforcement,
+improved agricultural practices, and investment in advanced water treatment technologies. The Project aims to tackle
+these issues by ensuring coordination with partners and other Bank projects to prioritize pollution control investments in
+the Upper Litani Basin. Additionally, it seeks to build downstream resilience through enhanced water quality monitoring
+and optimizing the Wardanieh WTP treatment processes, using an adaptive management approach to handle the inherent
+uncertainties in water quality control; and ensuring efficiency in the sector through reducing the non-revenue water.
+
+ III. PROJECT IMPLEMENTATION
+
+ A. Institutional and Implementation Arrangements
+29.     Institutional arrangements. The MoEW will have overall responsibility for executing the Project. The Ministry will
+delegate the implementation of Components 1 and 4 to CDR, and the implementation of Components 2 and 3 to BMLWE.
+Component 5 will be delegated to both CDR and BMLWE. The MoEW will also facilitate the development and signing of a
+Cooperation Agreement between the Litani River Authority and the BMLWE specifying the operational arrangements to
+ensure the water allocation to the Wardanieh WTP, including roles and responsibilities of each party, agreed flows to be
+allocated, compensation arrangements and mitigation risks in case large scale-irrigation projects come online.
+30.      Implementation arrangements. Project implementation will capitalize on the experience developed by the
+existing PMU arrangements under the GBWSP. CDR and BMLWE are currently implementing the GBWSP under the
+guidance of the MoEW and have developed capacity to implement Bank-financed projects. Both PMUs at CDR and BMLWE
+will be headed by a Project Coordinator, and will be responsible for the day-to-day management, procurement
+management and monitoring and reporting on the Project. Each PMU will be reinforced to include a procurement officer,
+financial management officer and an engineer. Further, both PMUs will share an environmental, health and safety
+specialist and a social specialist to follow up on the implementation and monitoring of the environmental and social
+requirements. In addition, the BMLWE will include an additional engineer to serve as focal point and coordinator for the
+implementation of Component 3 reform activities, and the social specialist will also follow up and coordinate on the
+communication and gender activities. The PMUs may also contract specific expertise for Project technical activities if
+justified and agreed by the Bank.
+31.    The detailed Project implementation arrangements will be described in the Project Operations Manual (POM).
+The preparation of a POM acceptable to the Bank will be an effectiveness condition.
+
+ B. Results Monitoring and Evaluation
+32.      A Project monitoring and evaluation (M&E) system is integrated into the design of the SGBWSP. The PMUs will
+be responsible for: (i) regularly gathering data to monitor the Project's performance indicators and progress toward its
+objectives, using input from construction supervision teams; (ii) creating progress reports on civil works and institutional
+activities, and promptly identifying any bottlenecks; and (iii) preparing quarterly progress reports. Regarding infrastructure
+works, the contractor will be responsible for monitoring and reporting the data on works-specific intermediate indicators
+
+
+                                                                                                                      Page 14
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+(such as the kilometers of water pipes constructed, or number of household meters installed, etc). Meanwhile, the
+construction supervision firm will be responsible for the verification of the data provided. The PMU engineers, hired under
+the PMU, will oversee the data collection, analysis, evaluation, and reporting, working closely with the PMU. These
+engineers will compile consolidated monthly reports to track civil works progress and compliance with environmental and
+social standards. The social specialist will also closely work with the PMUs on reporting on gender and citizen engagement
+issues. The M&E framework will be an integral part of the POM. A detailed review of the Project's implementation will
+take place at the midterm review to assess progress, potential for scaling up, and any necessary adjustments.
+ C. Disbursement Arrangements
+ 33.      The proceeds of the Loan will be disbursed in accordance with the Bank's disbursements guidelines for
+ projects and as outlined in the Disbursement and Financial Information Letter (DFIL). Transaction based disbursement
+ will be used under this Project. The Project will have three Designated Accounts (DAs). DA-A under CDR for category 1,
+ DA-B under BMLWE for category 2, and DA-C under CDR for category 3. Advances will be made to the DAs in US$ opened
+ at the Central Bank in the name of the Project under CDR and BMLWE. DA-A will have an advance ceiling of
+ US$6,150,000 million and DA-B will have an advance ceiling of US$1,500,000, DA-C will have an advance ceiling of
+ US$700,000. Disbursement will be made based on Statement of Expenditures (SOE), and the format and content of the
+ SOE will be added in the DFIL. Interim financial reports will be used for financial management reporting purposes. It is
+ to note that the Lebanese portfolio has a lapsed loan since June 2024 related to the Greater Beirut Transport Project
+ (P160224). Because of this, CDR and BMLWE will only be able to open their respective DAs once the lapsed loan is
+ settled and provided there are no other lapsed loans. CDR and BMLWE will be able to use the direct payment and
+ reimbursement method for all contracts until the lapsed loan is resolved. The loan proceeds will be divided as per the
+ following categories of expenditures:
+ Table 3. Expenditure categories
+                                                             Amount of the Loan             Percentage of Expenditures to be
+  Category
+                                                             Allocated (expressed in US$)   Financed (inclusive of taxes)
+  1) Works, goods, consulting services and non-consulting
+  services, training, workshops, and operating costs under           149,855,500                          100%
+  component 1 and component 5 (CDR) of the Project
+  2) Works, goods, consulting services, non-consulting
+  services, training, workshops, and operating costs under
+                                                                      92,300,000                          100%
+  components 2, 3 and component 5(BMLWE) of the
+  Project
+  3) Land Acquisition and Resettlement Compensation
+                                                                      15,000,000                          100%
+  under component 4 of theProject
+  Front-End-Fee                                                        644,500
+            Total                                                    257,800,000                          100%
+
+
+ 34.      Authorized Signatories. Authorized signatories will be nominated by the CDR and BMLWE to sign the
+ Withdrawal Applications (WA). Names and corresponding specimen of their signatures will be submitted to the Bank
+ prior to the receipt of the first WA (advance to DA). Each WA will be approved and signed by the authorized signatories.
+
+
+
+
+                                                                                                                        Page 15
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+
+  A. Technical, Economic and Financial Analysis
+
+      (i) Technical assessment
+35.     The Bank has reviewed and confirmed that the proposed investments continue to reflect government priorities,
+are aligned with strategic sector principles, and remain technically sound. The detailed technical and economic
+assessment of the infrastructure components carried out at the time of appraisal of the GBWSP are still relevant. The
+GBML area continues to suffer from insufficient public water supply, not only during the dry season, but also during the
+wet season. Current public water supply meets only 24 percent of the water demand of the population. The Project will
+augment the water supply in the GBML area by completing the infrastructure under the GBWSP, enhancing the resilience
+of potable water treatment process, and introducing several institutional strengthening activities to improve the
+performance of the BMLWE. Moreover, in response to the potential damages caused by the conflict in the Middle East,
+the Project includes a provision for conducting repairs of key Project infrastructure based on the results of a damages
+assessment to be carried out when the situation allows.
+36.      An updated water balance and a review of water allocation arrangements confirmed sufficient water
+availability for potable water use. Overall, the water system is fed from four sources of water: Ain Zarqa spring, Jezzine
+springs, Lake Qaraoun, and the Awali river. During the wet season (November to March), the system can be fed through
+inflows from the four water sources, although the Awali alone can satisfy the demand of the Wardanieh WTP with an
+average flow of around 6 cubic meters per second, and the contribution of Lake Qaroun can be reserved for extreme
+cases. During the dry season (April to October), inflows from the springs and Lake Qaraoun become essential because the
+average flow of the Awali drops to around 1.6 cubic meters per second.31 Also the springs’ water yield and Lake Qaraoun’s
+contribution decline in the successive dry months, but the required demand will still be met making use of lake storage
+volume to compensate for the lack of water during the three to four late months of the dry season. During the dry season,
+sufficient water allocation is ensured though Presidential Decree No. 14522 of May 16, 1970, which allocates 3 cubic
+meters per second (or 50 million cubic meters) to potable water use from Lake Qaraoun.
+37.      The technical assessment confirmed that an adaptive management approach to mitigate the risks of variable
+raw water quality intake at the Wardanieh WTP is the soundest technical and financial solution. A technical assessment
+was conducted to evaluate potential configurations of add-ons, along with their associated CAPEX and OPEX costs. This
+assessment followed a comprehensive approach, considering upstream conditions, planned water quality interventions,
+and the state of the water supply distribution network. The conclusion emphasized the need for an adaptive management
+approach to help the BMLWE find the most cost-effective solutions to address water quality uncertainties throughout the
+year. The Project includes financing "no regrets" investments, which can be implemented even before water is fully
+available. One such investment is the introduction of a PAC system upstream. This would help remove medium-range
+organic pollutants like natural organic matter, cyanotoxins, and volatile aromatic compounds, improving treatment
+efficiency. Additionally, online raw water quality monitoring would provide daily data on trends and peaks, helping
+optimize treatment. The WTP will operate in adaptive mode, utilizing laboratory-scale testing to determine optimal
+dosages of PAC, ferric chloride, lime, and polymer under various conditions. Based on these assessments, the best
+configuration of add-ons can be designed and installed, while enhanced chlorination practices in the distribution network
+
+
+31 This flow from the Awali river may be lower depending on the intensity of the dry season. The assessment found a 20% probability of three
+
+successive dry months, 10% probability of four-successive dry months and 5% probability of five successive dry-months.
+
+                                                                                                                                         Page 16
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+will ensure water quality. This approach enables BMLWE to continuously monitor and adjust strategies in real time,
+improving water management resilience.
+38.      The design of the Project makes it possible to flexibly operate the system with one, two or three regional
+reservoirs, depending on the progress of the land expropriation and compensation process. The original design of the
+GBWSP included the construction of the three regional reservoirs to increase the storage capacity available to the BMLWE,
+allowing for more efficient operational response to fluctuations in water demand. However, given the financial constraints
+of the BMLWE and the incomplete expropriation process of two of the reservoirs (Hazmieh 90 and Hadath 90), the BMLWE
+evaluated several scenarios to allow it to operate the system with only the Hadath 125 reservoir for which the
+expropriation process has been completed. In case the expropriation process under the Project is lengthy, the BMLWE
+would supply certain areas by connecting the transmission pipelines to the Hadath 125 reservoir only, bypassing the two
+remaining regional reservoirs. The regulating reservoirs can be built in the future, progressively improving the level of
+service in the Project area.
+39.      The NRW reduction activities build on lessons learned from the implementation of a NRW reduction pilot under
+the GBWSP. The NRW pilot in the Achrafieh area allowed the BMLWE to build its capacity on NRW reduction, while
+showing how the implementation of district metered areas (DMAs), improved customer metering and active leakage
+control can directly improve the efficiency of its operations. The Project will scale up these interventions, focusing on
+BMLWE’s priority areas where NRW is technically feasible due to higher continuity of water supply, and where there is a
+high level of commercial losses.32 These include the Baabda suburbs and the Coastal Metn areas, where a comparison of
+subscribers, population estimates, and water volumes served suggests a high concentration of illegal connections. The
+likely high number of unsubscribed users in these areas makes them a priority for BMLWE, which has already prepared
+design documents and draft bidding documents for NRW reduction. Tallet El Khayat and Bourj Abu Haidar, also priority
+intervention areas, show a much higher subscription rate. However, given the volume of water consumed, it is likely that
+these areas host many large consumers who are subscribed as individual household units. The NRW reduction activities
+planned under the Project will address these two distinct forms of commercial losses, ultimately improving BMLWE's
+revenue streams and contributing to its financial sustainability.
+40.      The proposed BMLWE’s institutional strengthening activities were selected based on the priority sector reform
+actions and a gap analysis identified through several comprehensive assessments. All of the proposed institutional
+strengthening activities are fully aligned with the sector reform priorities outlined in the NWSS 2024-2035. In addition,
+the BMLWE has benefited from the support of the Bank’s Utility of the Future Program. Through the initial participatory
+diagnostic, a 100-day action plan was prepared where high-impact activities were identified. Further, the AFD supported
+the BMLWE in the development of a comprehensive Digital Transformation Roadmap and Action Plan which identified a
+series of high priority actions. The activities under the Project are aligned with the recommendations identified therein.
+41.      A Human Resources (HR) survey was conducted at the BMLWE supported by the Bank Equal Aqua platform to
+assess gender gaps at the utility and to propose tailored interventions based on the existing gaps and needs. The findings
+revealed that while female representation at BMLWE exceeds the MENA average, it is still below the global level. Women
+are significantly underrepresented in technical roles, with only 14.3 percent in engineering positions within the BMLWE.
+While the utility offers technical training to employees, women aspiring to take up technical roles within the utility are
+unable to participate in these trainings due to the current hiring and promotion freeze in the public sector imposed by the
+GoL. As such, systematic opportunities for professional development are essential to enhance women’s involvement in
+and skill enhancement for future roles within the utility once the freeze is lifted; and across the water sector at large
+
+32 Physical losses are also prevalent, but at a lower proportion.
+
+
+                                                                                                                   Page 17
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+including in the private sector, while the freeze is still in place. The Project therefore aims to provide focused training and
+capacity-building activities for women, which will enhance their skills and employability for technical positions across the
+water sector. Specifically, under Component 5, the Project will facilitate an apprenticeship and certification program in
+collaboration with local universities. This one-year apprenticeship program will be available for recent graduates and final-
+year students, providing young female graduates from diverse backgrounds with exposure to professional opportunities
+within BMLWE. Successful apprentices will receive certifications upon program completion, endorsed by partnering
+universities, along with training that enhances their employability. The apprenticeship program is set to recruit 10
+apprentices annually for a total of 60 apprentices, ensuring that 50 percent are female. Furthermore, the Project will
+strengthen BMLWE's institutional capacity to sustain such programs beyond its duration and will assist in reviewing HR
+policies to recommend improvements that promote women's participation in the sector. Proposed Indicator: Number of
+female apprentices that receive certifications in water related technical fields.
+42.      The Project will have a strong citizen engagement (CE) focus as part of all its components. It will support
+implementing agencies to ensure that beneficiary communities within project areas are consulted from the onset and that
+all elements of the Project are planned and designed through participatory processes as outlined in the Stakeholder
+Engagement Plan (SEP). The CE activities will center around measures that encourage two-way interaction between
+citizens and service providers. While improving existing communications and outreach downwards towards citizens and
+water-users is certainly important, the Project will also consider avenues in which citizens are able to channel their voice
+upwards and become directly involved in decisions related to the provision of services. These include participatory
+planning, decision-making, appraisal and M&E, consultations, and grievance redressal mechanisms. In addition, the
+Project will put in place meaningful consultation and feedback mechanisms, such as satisfaction surveys and a Grievance
+Redress Mechanism (GRM) on water supply service provision, that will be elaborated as part of preparation in the SEP.
+The Project will communicate widely and repeatedly on the Project and its potential impacts’, on how to access and use
+the GRM, and will continuously monitor its effectiveness. The Project will aim to institutionalize feedback mechanism as
+part of strengthening customer responsiveness of targeted utilities. Moreover, the Project will tailor various
+communication and other materials to the local needs as per the activities foreseen under sub-component 3.3 and will
+utilize digitalization efforts under component 3.2 to ensure a more responsive utility to citizen’s needs. Proposed
+indicators: (i) Number of semi-annual public awareness campaigns conducted; and (ii) Percentage of resolved cases
+through the digitalized call center.
+     (ii) Paris Alignment
+43.      The Project will contribute to the goals of the Paris Agreement on both mitigation and adaptation. All the
+activities under the Project subcomponents are within the Detailed Universally Aligned List of Activities (UAL). The climate
+change mitigation activities under the Project include all interventions in Components 1 and 2, which will finance the
+completion of a gravity-fed bulk water supply system. This new system will replace water tankers with public distribution
+networks and reduce reliance on groundwater pumping by using gravity-fed surface water. Additionally, the activities
+under Subcomponent 3.1, which aim to reduce Non-Revenue Water (NRW) by 15 percentage points, will also help mitigate
+GHG emissions by decreasing the volume of water that is pumped and transported but lost before reaching consumers.
+As a result, the Project is expected to directly reduce net annual GHG emissions by 5,656 tCO2 equivalent per year, or
+141,412 tCO2 equivalent over the economic life of the Project.
+44.     The Project is also expected to enhance Lebanon’s adaptive capacity to climate shocks, such as droughts and
+floods, by increasing the resilience and reliability of the water supply. The additional water volumes supplied to the
+Greater Beirut Area year-round will significantly improve its resilience to drought and the seasonal precipitation variability
+exacerbated by climate change. Moreover, efforts to reduce commercial losses under Subcomponents 3.1 and 3.2 will
+                                                                                                                       Page 18
+         The World Bank
+         Second Greater Beirut Water Supply Project (P504170)
+
+
+positively impact demand management. These will be complemented by public awareness campaigns under
+Subcomponent 3.3, which will focus on conventional and non-conventional water sources, water conservation, and water
+quality standards.
+45.    Relevant climate risks in Lebanon that are likely to impact the delivery of activities under this Project include
+extreme heat, water scarcity, and river floods. All infrastructure financed by the Project will incorporate design measures
+to ensure resilience to climate shocks, particularly floods, extreme temperatures, and droughts, building on the design
+elements outlined in the Resilient Water Infrastructure Design Brief.
+     (iii) Economic and Financial Analysis
+46.     Economic Analysis. The economic analysis compares estimated economic benefits of the Project with its economic
+costs. Net benefits and costs were estimated over the period 2025-2049. The cost-benefit approach was used to evaluate
+the benefits of the Project and the analysis is based on the following main assumptions:
+      • The Net Present Value (NPV) is calculated with a discount rate of 6 percent and with a 25-year horizon. 33
+      • Water tariffs will increase to 178 US$/yr from the current 147 US$/yr to cover the additional operational costs
+      associated with the Project.
+      • Subscribers will increase by 35,100 which is 157,950 individuals as a result of improved service and NRW reduction
+      activities.
+      • The shadow price of carbon was included in the economic analysis consistent with the Projection in the Bank’s
+      Guidance Note on Shadow Price of Carbon in Economic Analysis (2017).
+      • Costs and benefits are expressed in constant prices as of 2024 and are exclusive of taxes.
+47.      Conceptual approach. The economic benefits were evaluated by comparing “with Project” and “without Project”
+scenarios and their impacts on the revenues and costs of water supply in the country. The deterioration of the water
+quality in the upper Litani basin and the financing gap under the GBWSP create the scenario in which the SGBWSP is
+needed to finance the completion of the water supply infrastructure. With this in mind, the economic analysis considers
+the economic costs and benefits associated with the Wardanieh WTP under both the GBWSP and the SGBWSP as the
+majority of the overall works were completed under GBWSP without Wardanieh WTP becoming operational while the
+benefits can only be realized upon completion of the Wardanieh WTP under SGBWSP.
+48.     Economic benefits of the SGBWSP. The main economic benefits include: (a) increased consumer surplus through
+a reduced reliance on water tankers; (b) increased water revenues as a result of additional water supplied by the Project;
+(c) reduced GHG emissions as a result of reduced reliance on water tankers; and (d) increased revenues as a result of NRW
+reductions.
+49.      Conceptual approach to evaluation of economic benefits. Currently, the water supply by BMLWE meets only 24
+percent of the demand in the Project area. Consumers meet the balance of their need for water primarily from private
+water tankers, at an exorbitant cost. Estimates of the cost of water from tankers range from US$4/m3 to US$6/m3 while
+BMLWE charges US$0.5/m3 for water supplied by piped connection. The Wardanieh WTP has the capacity to deliver
+250,000m3 per day which translates into 91 MCM per year before losses. Current estimates of NRW are 40 percent
+meaning that the Wardanieh WTP will deliver at least approximately 60 MCM of water annually (more if loss-reduction
+efforts are successful). This increased supply is expected to displace the reliance on expensive tanker water, especially in
+the dry season when the hours of water supplied by BLMWE are lowest. The substitution of expensive tanker water for
+
+33 Estimated as two times the real per capital long-term GDP growth consistent with the World Bank Guidance on Discounting Costs and Benefits in
+
+Economic Analysis of World Bank Projects (May 9, 2016).
+
+                                                                                                                                        Page 19
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+cheaper water supplied by BLMWE will result in a significant consumer surplus for subscribers. A reduction in water
+tankers will reduce overall GHG emissions reductions as tankers rely on diesel. Given the current levels of operational
+efficiency, the Project is expected to strengthen the water sector’s financial sustainability in the long term due to increased
+water sales and a reduction in commercial losses. More details are provided in the Project files.
+50.     Other Benefits. In addition to direct economic benefits, many other potential benefits are not counted in the cost-
+benefit analysis because they are difficult to estimate due to data limitations or because it is challenging to quantify their
+value because they might not be financial or economic in nature. Specifically, the analysis does not account for the
+potential impact of improved water and sanitation services on reducing morbidity and mortality from waterborne
+diseases, as there is insufficient information about the quality of water from tankers. The shift in consumption of water
+from water tankers with unregulated water quality to water provided by BMLWE is expected to reduce morbidity and
+mortality for consumers in the Project area, reducing public health costs and resulting in a positive public health benefit.
+This gap affects the ability to assess the full benefits of moving from water of unknown quality to safe drinking water.
+51.     Economic costs. The main capital costs include: (a) bulk water infrastructure under GBWSP and SGBWSP including
+tunnels, pipelines, and regional reservoirs; (b) completion of Wardanieh WTP under GBWSP and SGBWSP; and (c)
+investments in NRW reduction. In addition to the capital costs, the costs associated with operating the Wardanieh WTP
+and supply network are considered along with the cost of purchasing bulk water from the LRA for treatment at the
+Wardanieh WTP.
+52.      Wardanieh WTP design options. The raw water quality that will feed into the Wardanieh WTP is variable, thus
+add-ons to the WTP design to enhance its capacity to treat the raw water to the drinking water quality standards will likely
+be needed. In order to improve the data needed to make a decision on the optimal design of the add-ons, an adaptive
+management approach is proposed which includes the financing of “no regrets” investments that can be implemented
+immediately. These include the implementation of an online raw water quality monitoring system and early warning
+system upstream of the WTP which will allow for the collection of data, and delivery of water if it meets the drinking water
+quality standards. It is expected that the plant will be operated for two years in adaptive mode, allowing for Laboratory-
+Scale Testing, and based on the results of the raw water quality monitoring optimal add-ons configuration can be designed
+and installed.
+53.      Scenario Costs. Under all scenarios the purchase of bulk water from the LRA, and the costs associated with the
+Wardanieh WTP realized under GBWSP are included. The “no regrets” investments have an additional capital expenditure
+of US$3 million while the operational costs are US$1 million annually and are captured under the “Adaptive Management,
+no add-ons necessary” scenario. Under this scenario, the two years of testing during operation of the plant would confirm
+that raw water can be treated by the current design with the “no regrets” investments with minimal downtime. The
+“Adaptive Management, add-ons necessary” scenario is the case in which the raw water quality is confirmed by two years
+of testing to be above the capacity of the current design to treat raw water to the drinking water quality standards meaning
+add-ons would be necessary to ensure the plant can operate with minimal downtime.
+54.     Contingency. Given that the optimal design of add-ons will be known only once daily raw water quality monitoring
+data are available, as well as after the current WTP processes are tested, a contingency for the needed investments was
+estimated. The contingency is estimated as the capital expenditure associated with keeping operating costs of the WTP
+equal or above the estimated revenues generated by the sale of the treated water. The contingency is US$25 million based
+on operating costs of US$11.5 million per year.
+   (a) Results. A cost benefit analysis was carried out with costs estimated at economic prices. The economic analysis of
+       the adaptive management plan yielded a positive economic NPV of US$781 million and ERR of 15.4 percent under
+
+                                                                                                                       Page 20
+           The World Bank
+           Second Greater Beirut Water Supply Project (P504170)
+
+
+          the add-ons necessary scenario. In the case where add-ons are not deemed necessary after two years of operating
+          the plant the economic NPV is US$992 million with an ERR of 20.0 percent. All the alternatives considered yielded
+          positive economic returns though some alternatives had much larger financial implications. Consumer surplus in
+          the form of additional water supplied by BMLWE displacing expensive tanker water that households currently rely
+          on is the largest benefit of the Project and is the key driver of the positive economic return.
+Table 4. Economic Rate of Return (ERR) and Net Present Value (NPV)
+ Scenario                                                          ERR (%)                             NPV @ 6% (US$, millions)
+ Adaptive Management, no add-ons necessary                                                     20.0                                   992
+ Adaptive Management, add-ons necessary                                                        15.4                                   781
+
+55.      Sensitivity analysis. The multi-pronged crisis that began in 2019 erased 15 years of economic growth, leading to
+the severe devaluation of the Lebanese pound and the strong political crisis since October 2022. The conflict in the Middle
+East has worsened the situation, raising the risk of prolonged economic instability. Due to the increased risk of inflation
+and further devaluations of the Lebanese pound, a sensitivity analysis of the discount rate was completed to understand
+the potential effect on the Project. A sensitivity analysis of the discount rate, increased to 15 percent to account for
+inflation and low economic growth, showed a significant reduction in Project benefits, though both scenarios still return
+positive economic outcomes.
+56.     A GHG analysis was carried out on the Project’s emissions reduction due to the reduction in water tankers. The
+reduction in water tanker usage will lead to reductions in GHG emissions of 5,656 tCO2 equivalent (tCO2e) per year, or
+141,412 tCO2e. over the economic life of the Project. The NPV of the Project includes US$7.3-US$14.7M from GHG
+emissions avoided using the recommended high and low values for the shadow price of carbon (see annex 3).
+57.     Conceptual approach to financial analysis. The financial impact of Project activities is assessed by the Financial
+NPV derived from the economic cost benefit analysis to conclude whether the Project is financially sustainable. In order
+for the Project to be financially sustainable revenues and cost savings must exceed capital expenditures and operations
+and maintenance costs. Financial calculations consider the financial revenues and costs in the with/without project
+scenarios from the economic analysis, excluding non-cash generating benefits (consumer surplus, GHG emissions).
+58.      Financial benefits. The financial benefits the Project were measured in financial terms as the increase of revenue
+for BMWLE. Additional revenues are expected to be generated through increased water sales equal to the capacity of the
+Wardanieh WTP minus NRW, and the increase in water sales through the reduction in commercial and physical losses as
+a result of the Project. Consistent with the economic analysis, BMLWE is expected to increase the tariff to account for
+increased system wide O&M costs and the purchase of bulk water from LRA. The tariff is expected to increase to 178
+US$/yr (equivalent to US$0.49/m3) from the current 165 US$/yr (equivalent to US$0.45/m3) for 1 m3 of water per day.34
+Additional revenues were then compared against the additional O&M costs as a result of the Project to determine the
+cost recovery level. Values above 100 indicate that yearly additional revenues exceed the additional yearly O&M costs.
+Table 5. Cost Recovery and Net Present Value (NPV)
+ Scenario                                                           Cost Recovery (%)                   NPV @ 6% (US$, millions)
+ Adaptive Management, no add-ons necessary                                                       217                                  -423
+ Adaptive Management, add-ons necessary                                                          100                                  -504
+
+
+
+
+34
+     The tariff is expressed US$/yr as volumetric billing is not possible due to the low service and lack of meters at the household level.
+                                                                                                                                    Page 21
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+59.      Results. The financial analysis of the adaptive management plan yielded a negative financial NPV of US$-423
+million and with a cost recovery ratio of 217 percent under the no add-ons necessary scenario. In the case where add-ons
+are deemed necessary after two years of operating the plant the financial NPV is US$-504 million with a cost recovery
+ratio of 100 percent. The increase in revenues is expected to be larger than the increase in operating costs but are not
+expected to recoup the capital expenditures of the Project as shown by the cost recovery ratios.
+60.     Financial Viability. The Project's financial viability depends on the financial health of BMLWE. To address this, the
+MoEW has launched an ambitious reform plan aimed at improving the financial and commercial framework of the water
+sector, with the goal of achieving equilibrium and financial recovery. The reforms focus on increasing subscribers,
+improving collection rates, and raising average tariffs to recover all operating costs for water and wastewater by 2028. To
+achieve these goals, tariffs are expected to increase starting in 2025 to recover all O&M costs. While these reforms will
+not be enough to recoup the capital costs of the Project, they are important in ensuring the financial viability of BMLWE.
+Despite the challenges, the Project supports BMLWE in implementing these reforms, particularly through Component 3,
+which strengthens its capacity and increases the likelihood of success.
+
+ B. Fiduciary
+
+     (i) Financial Management
+61.     Financial Management (FM) Risk. The Bank financial management team assessed the two implementing agencies
+and the FM risk, part of the fiduciary risk, is rated as High. Refer to “Section V. Risks” for detailed description.
+62.     Budgeting. A yearly Project budget and disbursement plan will be developed by each agency to include their part
+of the Project. CDR will send the budget to the BMLWE, and the latter will consolidate the budget plan and will submit it
+to the Bank by no later December 20 of each year. The consolidated budget plan will be in line with the procurement plan
+and implementing schedule. Any significant variation in the budget will be justified.
+63.     Accounting and Reporting. CDR has an accounting software for Bank-supported projects. BMLWE has an ERP
+system which is agency-specific and does not comply with Bank requirements. The system will be customized to include a
+separate module to record the project transactions and produce the periodical financial reports. The Project will produce
+quarterly interim unaudited financial reports (IFRs) and annual project financial statements in compliance with
+International Public Sector Accounting Standards (IPSAS) cash basis of accounting to be submitted by each agency. The
+quarterly IFRs will be submitted by each agency to the Bank within 45 days after the end of the concerned quarter.
+64.     Internal Controls. CDR has adequate internal controls in place for preparation and approval of transactions and
+segregation of duties related to Bank-supported projects. BMLWE has internal bylaws governing internal controls. The
+Project will be implemented by BMLWE separately based on Bank rules and regulations. These will be detailed in the POM.
+The POM will be prepared with inputs from both BMLWE and CDR and will be submitted to the Bank by effectiveness. The
+POM will include a detailed FM chapter.
+65.     Flow of Funds. The funds will be transferred from the Bank to the DA in USD opened under each agency at the
+Central Bank in the name of the Project. Each entity will use the funds to pay for eligible expenditures under the Project.
+The direct payment method will be available for both entities to use. Advances to DA will only be available for use once
+the lapsed loan is resolved. For the expropriation category, payments can be made from the DA or alternatively, CDR
+could open an Operational Account in local currency to deposit the funds from the DA to pay the beneficiaries under terms
+to be further confirmed and acceptable to the Bank. Based on actual payment made to the Project Affected Persons
+(PAPs), CDR will submit payment receipts confirming that the PAPs have received the funds to the Bank, which will then
+replenish or transfer funds for the next batch of PAPs. If payments are not made within the agreed timeline, amounts
+                                                                                                                     Page 22
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+must be refunded to the Bank or repurposed for other PAPs that have not yet claimed their compensation. Funds remain
+available at the Bank throughout Project implementation for all notified PAPs. In the case of outstanding compensations
+for the resettlement at Project Closing Date, any remaining funds which have not yet been claimed by PAPs shall be
+refunded to the Bank.
+66.     External Audit. An external auditor acceptable to the Bank will be hired by BMLWE and CDR each to audit their
+part of the Project financial statements. The audit will be carried out in accordance with International Standards on
+Auditing. The audit report and PFSs, along with the management letter for each agency, will be submitted to the Bank no
+later than six months after the end of each fiscal year. The external auditor is expected to be recruited by each agency
+within three months of Project effectiveness. The Project will also include the entity audit of the BMLWE which will be
+required on a yearly basis. The entity audit will need to be submitted within 9 months after the end of each fiscal year.
+     (ii) Procurement
+67.     Procurement Risk Rating. The procurement risk rating is high due to several contributing factors that create a
+challenging environment. Refer to “Section V. Risks” for detailed description.
+68.      Applicable Procurement Regulations. Procurement will be carried out in accordance with the Bank Procurement
+Regulations for Investment Project Financing Borrowers dated September 2023 or whichever is the latest available version
+(Procurement Regulations). The provisions of the Borrower’s Procurement Plan for the Project (Procurement Plan)
+provided for under Section IV of the Procurement Regulations will apply, as the same may be updated from time to time
+in agreement with the Bank. The Borrower will also ensure that the Project is carried out in accordance with the provisions
+of the ‘Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits
+and Grants’, dated October 15, 2006, and revised in January 2011 and as of July 1, 2016 (Anti‐Corruption Guidelines). In
+addition, the Project will require bidders/primary suppliers of solar PV panels (and other material, as applicable) to provide
+two declarations: a Forced Labor Performance Declaration (which covers past performance), and a Forced Labor
+Declaration (which covers future commitments to prevent, monitor and report on any forced labor, cascading the
+requirements to their own sub-contractors and suppliers). The Borrower will include enhanced language on forced labor
+in the procurement contracts as per Bank’s Standard Procurement Documents.
+69.     Key Procurement under the Project. The main contracts planned for financing by the Project include those for
+the bulk water infrastructure. The procurement process of the RTW is at an advanced stage of procurement. The ongoing
+contracts for the RPW and the Wardanieh WTP, financed under the current GBWSP, are progressing at an advanced rate.
+Draft bidding documents for the three regional reservoirs have been prepared and are being updated by the CDR. Other
+works contracts, consultancy services, and information systems are also expected to be financed by the Project.
+70.    Project Procurement Strategy for Development (PPSD) and Procurement Plan (PP). The procurement strategy is
+aimed to broaden the social and employment benefits of the Project while ensuring the quality of the Project’s execution.
+The Borrower has developed a draft PPSD and draft PP that will be updated as needed during Project’s implementation.
+Both documents will be uploaded in the Systematic Tracking of Exchanges in Procurement (STEP).35 Any contract not
+uploaded in STEP, with award notification not being uploaded prior to signing of contracts, will not be eligible for financing.
+71.      Procurement Capacity Assessment. Based on the findings of the assessment, the following measures will be in
+place: (i) the Project will follow the Bank procurement regulations including complaints mechanism and settlement of
+disputes, and will use the Bank Standard Procurement Documents (SPDs); (ii) both implementing agencies, CDR and
+
+35
+  STEP is the Bank’s online procurement planning and tracking tool to prepare, clear, and update Procurement Plans and conduct
+procurement transactions as referred to in Section V, article 5.9 of the Procurement Regulations.
+                                                                                                                         Page 23
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+BMLWE have established a PMU headed by a project manager under the GBWSP, and both will continue in each
+implementing entity, while the PMU team is composed of experienced staff and hired consultants; (iii) the advertisement
+and contracting conditions must ensure regional and international market outreach; and (iv) both agencies will expedite
+the internal administrative processes. Additionally, the Hands-on Expanded Implementation Support (HEIS) might be
+extended to the Borrower upon their request, pursuant to the Procurement Policy and Procurement Directive. The Bank
+may extend its support to assist the Borrower to deliver effective procurement processes going beyond the regular
+implementation support, in situations of capacity constraints.
+72.      Advance procurement. To speed up the implementation, advance procurement process may be used. These
+activities include (a) preparation of ToRs, (b) Preparation of expression of interest, (c) identification of qualified
+consultants, and (d) launching bidding when applicable up to award of contracts.
+
+ C. Environmental, Social and Legal Operational Policies
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+ Legal Operational Policies                                                            Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+
+73.      According to the “Technical Note for Screening and Risk Classification” under Action 5 of the ESF streamlining
+(date d March 2024), the current contextual situation related to conflict and insecurity in the country involves primarily
+political and governance risks which are covered under the Project SORT ratings and therefore will not be duplicated under
+the ESRC. Importantly, no works will commence until the conflict has ended and sites are safe for contractors and workers
+to resume works. These contextual risks are not foreseen to exacerbate the Project’s E&S risks and impacts and will not
+affect the delivery of the E&S mitigation measures and overall E&S performance.
+
+74.      The activities of the proposed Project may result in substantial environmental risks associated with construction
+and operations activities. Although construction risks are significant in nature, they are limited to the construction sites,
+are temporary and can be avoided or mitigated with proper implementation of Environmental, Health and Safety (EHS)
+mitigation measures following the risk management hierarchy, and with strong ESHS site monitoring and supervision.
+Operational ESHS risks are mainly associated with the construction of the Wardanieh WTP and potentially the add-ons
+(depending on what is decided following the adaptive management approach described above), remaining tunnel works,
+remaining pipeline works and the regional reservoirs. During operation, key risks include upstream water shortage
+associated with abstraction of large quantities of fresh water from Joun reservoir, handling and disposal of sludge, use
+and storage of chemicals, and exposure of operators to fugitive chemicals, air emissions and noise. Accidents or abnormal
+operational conditions may pose significant environmental and health and safety risks to workers and the public. Such
+risks are substantial yet can be managed by proper design, good operational practices including continuous monitoring,
+operational arrangements for ensuring a yearly water allocation of 3 cubic meters per second to the Wardanieh WTP
+without affecting upstream uses, adherence to EHS requirements and preparation and implementation of emergency
+response plans. Due to the conflict in the Middle East, there is an exacerbated risk of presence of unexploded ordnance
+(UXOs) nearby worksites. Before commencement of any civil works, all worksites should be inspected by a competent
+                                                                                                                     Page 24
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+agency for presence of UXOs and ensuring their removal (if any). The worksites should be officially declared free of UXOs
+and safe working conditions should be assured before allowing Project workers to go to/from the worksites.
+
+75.      The social risks and impacts associated with the construction and operation phases are moderate. This is due to
+the temporary, predictable and/or reversible nature of these impacts, the limited degree of social conflict, harm or risks
+to human security, the medium probability of serious adverse effects to human worker or community health and safety,
+and because the Project activities are medium in magnitude and/or in spatial extent. The risk of Sexual Exploitation and
+Abuse/Sexual Harassment (SEA/SH) associated with labor influx is expected to be low as workers are recommended to be
+hired from surrounding local communities and will have close supervision oversight, similar to the arrangement under the
+first GBWSP. Moreover, no SEA/SH cases were reported and/or registered during the GWBSP implementation. The
+potential risk of ineffective communication and consultation with affected communities will be addressed through
+inclusive stakeholder engagement throughout the Project cycle. Temporary traffic disruptions and nuisances are
+anticipated during remaining tunnel and pipeline works which will be well communicated to affected communities and
+stakeholders and via the establishment and operationalization of a robust and widely disseminated Project grievance.
+Furthermore, it is not foreseen that contractors will need special security arrangements due to the current situation other
+than a potential increase in the number of unarmed security guards at the Project sites while noting that no works will be
+resumed until the conflict in the Middle East in Lebanon has ended and sites are safe for contractors and workers to
+return. Additional plots which will be expropriated under the SGBWSP using counterpart funds will be monitored in line
+with ESS5 principles and the RAP Addendum which has been prepared and disclosed on the client’s website at project
+appraisal.
+
+76.     The Project will be implemented under the ESF where the following ESS apply: ESS1, ESS2, ESS3, ESS4, ESS5,
+ESS6 and ESS10. As such, the PMUs of CDR and BMLWE conducted an ESF Gap Assessment of the existing ESIA and
+prepared an ESIA Addendum which determined the E&S management plans necessary to meet the applicable ESF
+requirements. The PMUs, with the support of a qualified environmental and social consultancy firm have prepared,
+consulted and disclosed the ESIA Addendum, Stakeholders Engagement Plan (SEP), Environmental and Social Commitment
+Plan (ESCP), the Labor Management Procedures (LMP) and RAP Addendum in October 2024.
+77.      The Project will rely on the performance of existing dams. As part of the E&S assessment, it was determined that
+the Project will be relying on the performance of Qaraoun Dam and Joun Reservoir Dam. The Project requires the Lake
+Qaraoun Dam to be assessed by a Dam Safety Panel of Experts (DSPOE) to be availed by the BMLWE. If applicable and to
+the extent possible, the Project will use the same DSPOE as the Lebanon Renewable Energy and System Reinforcement
+Project (Loan No. IBRD 9731-LB) recently approved by the Board but not yet effective.36. A Tier 1 dam safety assessment
+was conducted for these dams. This assessment included independent dam safety inspection and assessment as per
+requirements of the World Bank’s ESF. It included review of dam safety inspection and period safety review report; review
+of available design reports; review of recent O&M records and instrumentation monitoring; review of criteria and
+methodology for estimation of the design flood, flood routing, etc. to determine spillway sizing, field inspection, and other.
+Sufficient financial resources and expertise were secured to conduct Tier 2 assessment for Joun Reservoir Dam and
+implement the outcomes and interventions of all dams. The SGBWSP PMUs will have close coordination with LRA to ensure
+that the information on the progress in implementation of the relevant dam safety measures are shared and will ensure
+participation in relevant technical meetings as needed.
+
+36
+  Lebanon Renewable Energy and System Reinforcement Project (P180501) – PAD:
+https://documents1.worldbank.org/curated/en/099091124181525582/pdf/BOSIB1c260299b0c71a0c11b95eb42d17a7.pdf
+                                                                                                                      Page 25
+       The World Bank
+       Second Greater Beirut Water Supply Project (P504170)
+
+
+78.      Both PMUs have strong familiarity with the Bank’s safeguard policies and limited familiarity with the ESF. During
+Project implementation, both PMUs will need to strengthen their E&S monitoring, supervision and reporting capacity.
+Therefore, E&S site supervision will be conducted as part of the engineering supervision contracts with clear scope on the
+E&S supervision requirements and dedication of key personnel to carry out E&S site supervision. Additionally, before
+commencement of Project activities, both PMUs will hire E&S specialists to have the overall Project oversight of
+satisfactory implementation of the ESCP provisions, provide updates as needed in the quarterly progress reports and
+ensure satisfactory operation and monitoring of the Project grievance mechanism. Additionally, the HEIS might be
+extended to the implementation entities upon request, pursuant to the ESF streamlining Action 4. The Bank may extend
+its support to the Borrower to meet the relevant E&S standards, beyond the regular implementation support, in situations
+of capacity constraints.
+79.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute Resolution
+Service, which provides communities and borrowers with the opportunity to address complaints through dispute
+resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to the attention
+of Bank Management and after Management has been given an opportunity to respond. For information on how to submit
+complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how
+to submit complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+
+ V. KEY RISKS
+
+80.     The overall Project risk is High.
+81.      Political and Governance risk (High). Since the escalation in Lebanon of the conflict in the Middle East in 2024,
+the implementation pace of the country portfolio has been impacted. Notwithstanding the conflict in the Middle East, the
+World Bank is committed to remaining engaged in Lebanon and continuing its support to the Lebanese people and
+government. Further, the high governance and political risks have been inherent to Lebanon due to the fragmented
+governance system and related political uncertainty. Since October 30, 2022, Lebanon’s Parliament has not selected a
+new President, and the current Government continues to serve in caretaker capacity. The protracted financial and
+economic crisis has impacted the implementation of the ongoing GBWSP in the past, causing implementation delays due
+to the Government’s inability to finance the contracts, constraints in processing and financing land expropriation, and
+delays in procurement caused by challenges in securing the funds. Considering the conflict in the Middle East, the signing
+of the Loan Agreement (upon approval by the Bank) and Parliamentary ratification may be delayed, thereby impacting
+Project implementation. However, the Project has strong government ownership, including from the MoEW, BMLWE, and
+CDR, which will be involved in the technical implementation of the Project and have demonstrated a strong commitment
+to completing the GBWSP. Mitigation measures include close follow-up with Government and continued dialogue with
+the Borrower at every level, and planning the Project implementation timing to account for a potential prolonged period
+between approval and effectiveness.
+
+
+
+                                                                                                                  Page 26
+82.      Macroeconomic risks (High). Lebanon's macroeconomic risks remain high due to the conflict in the Middle East
+and the prolonged economic and financial crisis. Since 2019, the country has experienced a severe economic contraction
+of nearly 35 percent, erasing 15 years of growth. The Lebanese pound has lost over 98 percent of its value, leading to
+triple-digit inflation through 2023. The banking system's collapse has resulted in a dollarized cash-based economy,
+estimated at US$9.81 billion or 45.7 percent of GDP in 2022. The conflict has further shocked the economy, with negative
+impacts on growth continuing into 2024. Project implementation is hindered by rising construction costs, reducing bidder
+interest and increasing public procurement risks. However, since July 2023, the Lebanese pound stabilized at 89,500
+LBP/US$, slowing inflation. By 2024, inflation dropped to double digits for the first time since March 2020. Despite this,
+inflation surges remain a risk due to the conflict in the Middle East. To mitigate cost increases, contingencies are included
+in major contracts, which are denominated in U.S. dollars or euros to manage currency crisis effects.
+83.     Technical Design of Project (Substantial). The design of the Project is appraised as fundamentally sound, with a
+gravity-based supply system that avoids the high energy costs of pumping and adds to the overall sustainability of the
+Project’s design. The feasibility of constructing Hadath 90 and Hazmieh 90 reservoirs depends on the successful
+expropriation of the land, which proved challenging in previous operations in the water sector in Lebanon; the
+disbursement condition related to adoption of an acceptable compensation payment mechanism to be further detailed
+in the POM aims to mitigate this risk. Another risk is that monthly monitoring of the water quality at the intake at Joun
+reservoir indicates high peaks of ammonia during the dry season beyond the current planned treatment capacity of the
+plant. The Project proposes the design and construction of a set of add-ons to increase the plant’s capacity to cope with
+the increased levels of pollution, with daily monitoring of the raw water quality at Joun reservoir and operation of the
+plant in adaptative management mode for a period of at least twelve months. However, there is a risk that the daily
+monitoring of the water quality will show higher levels of pollution than expected, requiring a higher level of investment
+to ensure adequate treatment capacity. The main mitigation measures to address these risks include: (i) the design of the
+supply system allowing for its operation on one, two or three regional reservoirs; (ii) an adequate provision of funds for
+adjustments in the treatment, allowing for flexibility in the design; (iii) daily monitoring of the raw water quality; (iv)
+coordination with other stakeholders (mainly LRA and other IFIs in Lebanon) and other World Bank operations that are
+aiming to reduce the pollution at source.
+84.      Institutional capacity for implementation and sustainability is High. The PMUs in BMLWE and CDR have extensive
+experience with large-scale World Bank projects. However, the current challenging context has significantly impacted both
+agencies, as they must allocate their limited human and financial resources to respond to the emergency situation and
+maintain service continuity. If the crisis continues throughout the Project’s implementation, it could severely threaten the
+institutional capacity of both agencies, further straining their limited resources and reducing their ability to absorb Project
+demands effectively. The main mitigation measures for this risk include: (i) reinforcing both PMUs with adequate staff,
+such as adding an additional engineer to the BMLWE PMU; (ii) continuous capacity building and engagement of BMLWE
+staff through Project activities; and (iii) ongoing support and supervision from the World Bank.
+85.      Fiduciary risk is High due to high procurement and substantial FM risks. The procurement risk rating is high due
+to several contributing factors: (i) the overall situation combined with broader macroeconomic risks, creates a challenging
+environment; (ii) limited availability of civil servants due to the economic situation resulting in a general decline in public
+service delivery; (iii) deterioration of the local currency; (iv) lengthy procurement transactions add to the lack of
+confidence in the public sector; (v) dysfunctional banking sector and limited access to guarantees or loans for liquidity, if
+needed, cause significant challenges to contractors. The risk is heightened in three ongoing contracts for the current
+GBWSP which are expected to be financed by the Project. The government is unable to finance two ongoing contracts -
+the RPW and the Wardanieh WTP contracts - in the period between the closing of the ongoing GBWSP and the declaration
+of effectiveness of the Project.
+86.     The FM risk rating is high due to several factors. These include the widespread perception of corruption in the
+country, currency devaluation, and lack of trust. High employee turnover in the public sector due to economic conditions
+                                                                                                                       Page 27
+also pose challenges. The Project’s infrastructure components require strict monitoring to ensure alignment between
+physical and financial progress. Additionally, the Project’s involvement of two agencies increases coordination complexity,
+especially in data and reporting. Further risks include an unresolved lapsed loan in Lebanon’s portfolio, which affects the
+usage of designated accounts (DAs) for Project funding. Although the agencies involved have prior (ongoing) experience
+with Bank-funded projects, they face resource limitations. Moreover, the Entity audit of the BMLWE for 2022 revealed
+several financial management deficiencies. The country's Court of Accounts lacks the human resources to audit the
+project, reducing assurances over funds usage. To mitigate these risks, several measures will be implemented, including
+hiring dedicated financial officers, establishing segregated DAs in US$ to preserve fund value, establishing direct payments
+for both CDR and BMLWE, and using existing accounting systems. Financial reporting will be enhanced through quarterly
+interim reports and external audits. As part of the financial management reforms and operational enhancement of the
+BMLWE (Component 3), a consultancy firm will be recruited to undertake an audit of fixed assets owned by BMLWE and
+support the BMLWE in the adjustment of the opening and closing balances of its accounts. In addition, the ERP system will
+be customized to include a module on fixed assets registration. The Project will also prepare an operations manual with
+financial management guidelines and establish a separate funds flow mechanism for resettlement compensation under
+terms satisfactory to the Bank.
+
+87.   Environment and Social Risk (Substantial). With Environmental Risk rated as Substantial, and Social Risk as
+Moderate. See Section IV-C. Environmental and Social above.
+88.      Stakeholders risk (Moderate). The LRA manages the sluices at the upstream hydropower plants from which water
+will be diverted to the Wardanieh WTP through the bulk water tunnel. The provision of 3 cubic meters per second during
+the dry season (50 million cubic meters for 6 months) is protected by Decree No. 14522 of 1970. However, the plant is
+expected to operate year-round, and there is no legally binding document guaranteeing additional water allocation during
+the wet season. Even though water is abundant during the wet season, as confirmed by the water balance conducted
+during preparation, the lack of a legal basis for water allocation poses a risk to the plant's operation if the LRA decides to
+allocate the water for other purposes. To mitigate this risk, the negotiated loan agreement includes a legal covenant to
+ensure the signing of a Cooperation Agreement between the LRA and the BMLWE. This Cooperation Agreement will define
+the water allocation, operational procedures, and compensation mechanisms to ensure the plant's year-round operation.
+89.      Security (High). With the escalation of the conflict in the Middle East in 2024, essential services have been severely
+disrupted, critical infrastructure damaged, and hundreds of thousands of people displaced, leading to a humanitarian
+crisis. As of November, there are no reports of damage to the infrastructure under the GBWSP. However, work remains
+suspended, and the operations of the BMLWE are severely disrupted, creating further challenges for Project
+implementation. As mitigation measures, frequent Security Risk Assessments will be conducted, including an assessment
+of the evolving security environment to identify specific risks and establish security levels based on the intensity of the
+conflict. Based on the security assessments, the POM will include protocols to limit movements to essential operations
+and establish "no-go" zones based on threat assessments, as well as evacuation plans with clear triggers for action. As an
+additional mitigation measure, the Project includes a CERC component to allow for a flexible response to arising
+emergencies.
+
+
+
+
+                                                                                                                       Page 28
+        The World Bank
+        Second Greater Beirut Water Supply Project(P504170)
+
+
+ANNEX 1. RESULTS FRAMEWORK
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                                                Closing Period
+   Improve water supply services in the Greater Beirut and Mount Lebanon areas
+   Non-Revenue Water (NRW) reduction in the Project target zones (Percentage)
+   Nov/2024                                                                                Nov/2031
+   0                                                                                       15
+   People provided with safely managed water (Number of people) CRI
+   Nov/2024                                                                                Nov/2031
+   0                                                                                       1,800,000
+     ➢People provided with safely managed water - Female (Number of people)    CRI
+
+   Nov/2024                                                                                Nov/2031
+   0                                                                                       919,800
+     ➢People provided with safely managed water - Youth (Number of people) CRI
+   Nov/2024                                                                                Nov/2031
+   0                                                                                       300,600
+   Increased collection rate in the Project area (Percentage)
+   Nov/2024                                                                                Nov/2031
+   0                                                                                       10
+   Volume of additional potable water distributed in the project area meeting the water quality standards (Cubic meters/year)
+   Nov/2024                                                                                Nov/2031
+   0                                                                                       91,250,000
+
+
+Intermediate Indicators by Components
+
+   Baseline                                                                               Closing Period
+   Component 1: Completing remaining bulk water infrastructure
+   Length of bulk water tunnel lined (Kilometers)
+
+
+
+
+                                                                                                                                Page 29
+     The World Bank
+     Second Greater Beirut Water Supply Project(P504170)
+
+
+Nov/2024                                                                                May/2027
+0                                                                                       24
+Length of twin transmission pipelines installed and tested (Kilometers)
+Nov/2024                                                                                Nov/2025
+8.70                                                                                    10
+Storage capacity installed in the distribution system (Cubic Meter(m3))
+Nov/2024                                                                                Nov/2031
+0                                                                                       120,000
+Component 2: Strengthening treatment processes for improved water quality
+Wardanieh WTP addons designed, installed and operational (Yes/No)
+Nov/2024                                                                                Nov/2029
+No                                                                                      Yes
+Water quality early warning system installed and operational (Yes/No)
+Nov/2024                                                                                Nov/2025
+No                                                                                      Yes
+Component 3: Reforms for improved utility operations
+Number of customer meters installed (Number)
+Nov/2024                                                                                Nov/2031
+0                                                                                       40,000
+Increase in subscribers in NRW reduction zones (Number)
+Nov/2024                                                                                Nov/2031
+55,000                                                                                  63,000
+Asset management and customer systems improved and digitalized (Yes/No)
+Dec/2024                                                                                Nov/2027
+No                                                                                      Yes
+SCADA system rehabilitated and operational (Yes/No)
+Nov/2024                                                                                Nov/2026
+No                                                                                      Yes
+Number of semi-annual public awareness campaigns conducted. (Number)
+Nov/2024                                                                                Nov/2027
+0                                                                                       8
+Percentage of cases that have been resolved and responded to through the digitalized call center (Percentage)
+                                                                                        Nov/2031
+
+
+
+
+                                                                                                                Page 30
+     The World Bank
+     Second Greater Beirut Water Supply Project(P504170)
+
+
+                                                                                           90
+Component 4: Land acquisition and resettlement compensation
+Component 5: Project management and capacity building
+Number of female apprentices that receive certifications in water related technical fields (Number)
+Nov/2024                                                                                   Nov/2031
+0                                                                                          30
+Component 6: Contingent Emergency Response Component
+
+
+
+
+                                                                                                      Page 31
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+Improve water supply services in the Greater Beirut and Mount Lebanon areas
+People provided with safely managed water (Number of people) CRI
+                         This indicator measures the number of people that will benefit from access to safely managed water as a result of the
+                         Project. It includes people already connected to the public BMLWE water supply network that will receive additional
+Description              water from the Wardanieh WTP. As a result they will experience an increment in the hours of supply where water of
+                         good quality is available, while reducing their reliance on more expensive and less regulated water supply from water
+                         tankers. The number includes the population of zones A, C and TA as defined in the Project files.
+Frequency                Annual
+Data source              BMLWE annual reports, Population data in the areas benefitting from water supply from the Wardanieh WTP
+Methodology for Data     Regular reporting from BMLWE will become relevant once the Wardanieh WTP is operational and the bulk water supply
+Collection               infrastructure is completed.
+Responsibility for Data
+                          BMLWE
+Collection
+People provided with safely managed water - Female (Number of people) CRI
+                          This sub-indicator measures the number of female residents in the areas A, C and TA as defined in the Project files
+                         benefitting from additional water from the Wardanieh WTP. Accordining to the Lebanon Follow-up Labour Force Survey
+Description
+                         January 2022, 51.1 percent of the total population is female. This percentage is used as a proxy to calculate the number
+                         of female beneficiaries in the area.
+Frequency                Annual
+Data source              BMLWE annual reports, Population data in the areas benefitting from water supply from the Wardanieh WTP
+Methodology for Data     Regular reporting from BMLWE will become relevant once the Wardanieh WTP is operational and the bulk water supply
+Collection               infrastructure is completed.
+Responsibility for Data
+                          BMLWE
+Collection
+People provided with safely managed water - Youth (Number of people) CRI
+                         This sub-indicator measures the number of youth (ages 15-24) in the areas A, C and TA as defined in the Project files
+                         benefitting from additional water from the Wardanieh WTP. According to the Lebanon Follow-up Labour Force Survey
+Description
+                         January 2022, 16.7 percent of the total population is in the youth age group. This percentage is used as a proxy to
+                         calculate the number of youth beneficiaries in the area.
+Frequency                Annual
+Data source              BMLWE annual reports, Population data in the areas benefitting from water supply from the Wardanieh WTP
+Methodology for Data     Regular reporting from BMLWE will become relevant once the Wardanieh WTP is operational and the bulk water supply
+Collection               infrastructure is completed.
+Responsibility for Data
+                          BMLWE
+Collection
+Volume of additional potable water distributed in the project area meeting the water quality standards (Cubic meters/year)
+                         This indicator measures the amount of additional water supplied in areas A, C and TA of Beirut, as defined in the Project
+Description              files. It assumes that the Wardanieh WTP operates at maximum capacity of 250,000m3/day throughout the year meeting
+                         WHO drinking water quality standards.
+Frequency                 Annual
+Data source              Wardanieh WTP operation reports
+                          Regular reporting from the Wardanieh WTP operator and BMLWE will become relevant once the Wardanieh WTP is
+Methodology for Data
+                         operational and the bulk water supply infrastructure is completed. Supplied water is measured by bulk water supply
+Collection
+                         meters, and water quality is measured at the outlet of the WTP.
+Responsibility for Data
+                          BMLWE
+Collection
+Non-Revenue Water (NRW) reduction in the Project target zones (Percentage)
+                         This indicator measures the decrease in NRW reduction in the targeted zones. NRW is defined as the difference between
+Description
+                         the amount of water that is produced for consumption/use, and the amount of water that is actually billed to customers.
+
+
+                                                                                                                                         Page 32
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+                           It includes both physical losses (through leaks) and apparent losses (for example through theft or metering
+                           inaccuracies).The decrease will result from updating the updates in the costumer cadaster, the sectorization of the
+                           network into hydraulicly isolated zones (District Metered Areas, DMAs), leakage detection and repair. The NRW
+                           reduction baseline will be established after the implementation of DMAs.
+Frequency                  Semi-annual
+Data source                BMLWE annual reports
+Methodology for Data
+                           BMLWE performance data
+Collection
+Responsibility for Data
+                            BMLWE
+Collection
+Increased collection rate in the Project area (Percentage)
+                           This indicator measures the increase in the collection rate in the Project area. Collection rate is defined as the percentage
+                           of the total amount billed to clients that is actually collected. The increase will mostly result from people being more
+Description                willing to pay their bills as a result of increase reliability in service provision, the modernization and digitalization of
+                           BMLWE commercial systems, the NRW reduction activities and the communication campaigns to be implemented. The
+                           baseline will be established during the first year of project implementation.
+Frequency                  Semi-annual
+Data source                BMLWE annual reports
+Methodology for Data
+                           BMLWE performance data
+Collection
+Responsibility for Data
+                            BMLWE
+Collection
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+Component 1: Completing remaining bulk water infrastructure
+Length of bulk water tunnel lined (Kilometers)
+                           This indicator measures the progress in the lining of the already excavated bulk water tunnel. The baseline is zero and
+Description
+                           the target is 24km.
+Frequency                  Semi-annual
+Data source                CDR progress reports
+Methodology for Data
+                           Contract implementation progress reports and certificate of construction completion
+Collection
+Responsibility for Data
+                            CDR
+Collection
+Length of twin transmission pipelines installed and tested (Kilometers)
+                           This indicator measures the progress in the installation and testing of the remaining 1.6km of the twin transmission
+Description
+                           pipelines.
+Frequency                  Semi-Annual
+Data source                CDR progress reports
+Methodology for Data
+                           Contract implementation progress reports and certificate of construction completion.
+Collection
+Responsibility for Data
+                           CDR
+Collection
+Storage capacity installed in the distribution system (Cubic Meter(m3))
+                           This indicator measures the progress in the construction of the regional reservoirs Hadath 125 (37,800m3), Hadath 90
+Description
+                           (54,600m3) and Hazmieh 90 (29,400m3).
+Frequency                  Semi-annual
+Data source                CDR progress reports
+Methodology for Data
+                           Contract implementation progress reports and certificate of construction completion.
+Collection
+
+
+                                                                                                                                               Page 33
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+Responsibility for Data
+                           CDR
+Collection
+Component 2: Strengthening treatment processes for improved water quality
+Wardanieh WTP addons designed, installed and operational (Yes/No)
+                           This indicator measures progress on the adaptive management approach for the design of the optimal configuration of
+                           add-ons at the Wardanieh WTP. For this indicator to be achieved, testing of treatment processes has taken place, the
+Description
+                           results of both raw water quality and treated water quality informs the design of the optimal add-ons configuration, their
+                           installation and the overall WTP operation.
+Frequency                   Semi-Annual
+Data source                 Wardanieh WTP O&M reports
+Methodology for Data       Wardanieh WTP updated O&M manual, water treatment process testing results, Certificate of Construction Completion
+Collection                 and Certificate of Operational Acceptance.
+Responsibility for Data
+                            BMLWE
+Collection
+Water quality early warning system installed and operational (Yes/No)
+                           This indicator measures progress on the design, installation and operation of the upstream raw water quality monitoring
+Description
+                           and early warning system.
+Frequency                   Semi-Annual
+Data source                BMLWE progress reports
+Methodology for Data       BMLWE water quality monitoring protocol, Wardanieh WTP O&M reports, Certificate of Construction Completion and
+Collection                 Certificate of OperationalA cceptance.
+Responsibility for Data
+                            BMLWE
+Collection
+Component 3: Reforms for improved utility operations
+Number of customer meters installed (Number)
+                            This indicator measures progress in the installation of customer meters in the Coastal Mtn NRW zone, where conditions
+Description
+                           allow for their installation.
+Frequency                   Semi-Annual
+Data source                BMLWE progress reports
+Methodology for Data       Contract implementation progress reports, Certificate of Construction Completion and Certificate of Operational
+Collection                 Acceptance.
+Responsibility for Data
+                            BMLWE
+Collection
+Increase in subscribers in NRW reduction zones (Number)
+                           This indicator measures progress in the BMLWE’s ability to increase its subscriber base in the NRW reduction zones, in
+Description                part as a result of the customer cadaster update, abilitation of service connections and the communication campaign
+                           implemented under the Project.
+Frequency                  Semi-Annual
+Data source                BMLWE progress reports
+Methodology for Data
+                           BMLWE’s performance data
+Collection
+Responsibility for Data
+                           BMLWE
+Collection
+Asset management and customer systems improved and digitalized (Yes/No)
+                           This indicator measures progress in the implementation of the improvements to asset management and customer
+                           systems. This indicator is achieved when BMLWE’s fixed asset inventory is completed and a new ERP module has been
+Description
+                           added as well as when the ICT improvement, billing and collection improvement and communication modules have been
+                           implemented as per BMLWE’s Digital Transformation Roadmap.
+Frequency                  Semi-Annual
+Data source                BMLWE progress reports
+
+
+
+                                                                                                                                            Page 34
+        The World Bank
+        Second Greater Beirut Water Supply Project (P504170)
+
+
+Methodology for Data
+                          Consultant’s progress reports, Certificate of Operational Acceptance.
+Collection
+Responsibility for Data
+                          BMLWE
+Collection
+SCADA system rehabilitated and operational (Yes/No)
+                          This indicator measures progress in the rehabilitation of the SCADA system, including the replacement of damaged
+Description               equipment as well as the installation of PV systems in selected stations. For this indicator to be achieved the SCADA
+                          system needs to be operational and under use by the BMLWE.
+Frequency                 Semi-Annual
+Data source               BMLWE’s progress reports
+Methodology for Data
+                          Consultant’s progress reports, Certificate of Operational Acceptance.
+Collection
+Responsibility for Data
+                           BMLWE
+Collection
+Number of semi-annual public awareness campaigns conducted. (Number)
+                          This indicator measures the number of public awareness campaigns carried out by the BMLWE, in line with BMLWE’s
+Description
+                          communication strategy.
+Frequency                 Semi-Annual
+Data source               BMLWE’s progress reports
+Methodology for Data
+                          Public awareness campaign reports
+Collection
+Responsibility for Data
+                           BMLWE
+Collection
+Percentage of cases that have been resolved and responded to through the digitalized call center (Percentage)
+Description                This indicator measures the number of cases that have been registered and responded to by BMLWE’s call center.
+Frequency                  Semi-Annual
+Data source                BMLWE’s progress reports
+Methodology for Data
+                           BMLWE’s call center records
+Collection
+Responsibility for Data
+                           BMLWE
+Collection
+Component 5: Project Management and capacity building
+Number of female apprentices that receive certifications in water related technical fields (Number)
+                          This indicator measures the number of female apprentices that have been certified by the BMLWE on-the-job training
+Description               received for utility-related technical skills, which can include on NRW reduction, asset management, SCADA operation
+                          and maintenance, GIS, contract management, etc.
+Frequency                  Semi-Annual
+Data source                BMLWE’s progress reports
+Methodology for Data
+                          Certification records, apprenticeship program reports.
+Collection
+Responsibility for Data
+                           BMLWE
+Collection
+
+
+
+
+                                                                                                                                          Page 35
+      The World Bank
+      Second Greater Beirut Water Supply Project (P504170)
+
+
+ANNEX 2. BULK SUPPLY SYSTEM AND NRW REDUCTION AREAS
+
+
+
+
+                                                             Page 36
+The World Bank
+Second Greater Beirut Water Supply Project (P504170)
+
+
+
+
+                                                       Page 37
+

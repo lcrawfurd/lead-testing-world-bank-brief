@@ -1,0 +1,507 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 18-Sep-2025 | Report No: PIDDC01384
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+         The World Bank
+         Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)        Operation ID                   Operation Name
+Brazil                          P511557                        Paraiba Water Security Project 2 (Northeast MPA Phase I)
+Region                          Estimated Appraisal Date       Estimated Approval Date         Practice Area (Lead)
+LATIN AMERICA AND               01-Dec-2025                    30-Mar-2026                     Water
+CARIBBEAN
+Financing Instrument            Borrower(s)                    Implementing Agency
+Investment Project              State Government of            AESA - State Water
+Financing (IPF)                 Paraiba                        Resources Management
+                                                               Executive Agency - Agência
+                                                               Executiva de Gestão das
+                                                               Águas, CAGEPA - State
+                                                               Water and Sanitation
+                                                               Company - Companhia de
+                                                               Água e Esgotos da Paraíba,
+                                                               SEIRH - State Secretariat
+                                                               for Infrastructure and
+                                                               Water Resources
+
+Proposed Development Objective(s)
+To (i) increase water security in the State of Paraiba; and (ii) improve the efficiency and reliability of water and
+wastewater services.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                       Yes
+Is this project Private Capital Enabling (PCE)?                 Yes
+
+SUMMARY
+  Total Operation Cost                                                                                                 73.00
+
+  Total Financing                                                                                                      73.00
+                of which IBRD/IDA                                                                                      50.00
+
+
+                                                                                                                         Page 1
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+
+   Financing Gap                                                                                                      0.00
+
+ DETAILS
+   World Bank Group Financing
+     International Bank for Reconstruction and Development (IBRD)                                                    50.00
+   Non-World Bank Group Financing
+     Counterpart Funding                                                                                             23.00
+       Local Govts. (Prov., District, City) of Borrowing Country                                                     23.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                       Concept Review Decision
+Moderate                                                           The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+1.      The Northeast of Brazil experienced relative solid economic performance over the last two decades. The
+Northeast of Brazil is a region made up of nine states (Alagoas, Sergipe, Bahia, Pernambuco, Paraíba, Rio Grande do Norte,
+Ceará, Piauí, and Maranhão). The region is home to 57.1 million, 70 per cent of whom live in urban areas, mainly along
+the coast. The rural population is 12.1 million (IBGE 2022) and has been decreasing over time. The population is estimated
+to peak before 2040. The economy is mainly based on services (72 per cent of GDP) as in Brazil overall. Agriculture accounts
+for about 7 per cent of GDP, the highest among Brazil’s regions, and while relatively small in comparison to the services
+and industrial sectors, it is critical to the livelihood of the rural population where most households depend on family
+farming. Economic growth in the region has been solid over the past 20 years (2.2 percent/year), higher than Brazil’s
+average at 2 percent/year. These results reflect recent progress stemming from the expansion of social policies,
+particularly income transfer programs, as well as the recovery of both the formal and informal job markets.
+2.      Despite improvements in jobs and living conditions, the region is still lagging the rest of Brazil in many socio-
+economic indicators. Economic growth has generated jobs, increased per capita income, and reduced inequalities and
+poverty, as well as improvements in the Human Development Index (HDI). Between 2012 and 2024, the average household
+per capita income grew by 26.7 per cent, poverty decreased by 8 percentage points to reach 36.9 per cent and extreme
+poverty dropped from 14.3 per cent in 2012 to 6.6 per cent in 2023. The Gini Index calculated for the Northeast region in
+2024 was 0.502; the lowest value in the series that began in 2012. The unemployment rate in 2024 was 9.0 per cent, the
+lowest since 2015. Despite progress, the region shows many economic indicators lower than the national average in 2024
+with a poverty rate of 36.9 per cent compared to 23.4 per cent, an extreme poverty at 6.6 percent compared to 3.5 per
+
+
+
+                                                                                                                          Page 2
+
+
+
+                                                                                                                Official Use Only
+        The World Bank
+        Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+cent, and household per capita income at US$ 242.00 compared to US$ 370.6. On the other hand, its Gini coefficient at
+0.502 outpaces national averages at 0.506 (IBGE/FVG/IBRE).
+3.      To address these persistent socio-economic challenges, the nine States of the Northeast created the Northeast
+Sustainable Development Interstate Consortium – Consórcio Nordeste in 2019, fostering integration and cooperation,
+with the purpose of promoting sustainable development, managing services of common interest, and coordinating public
+policy agreements, among other initiatives. This builds on several policies, mostly from the federal government,
+implemented over the past decades to promote social and economic development in the region. Among the federal
+government agencies operating in the Northeast, the Superintendence for the Development of the Northeast (SUDENE)
+is responsible for promoting economic and social growth in the region and the formulation of the Regional Development
+Plan for the Northeast (PRDNE).
+ Sectoral and Institutional Context
+4.       Brazil’s Northeast region faces persistent water security challenges that continue to hinder inclusive and
+sustainable development. Its semi-arid climate, limited water availability, and high rainfall variability lead to frequent
+droughts and floods, causing water, food, and energy shortages and driving rural-urban migration. Water quality is also a
+concern, especially in urban and industrial areas with low wastewater treatment coverage and poor quality groundwater
+in most of the region due to brackish conditions and salinization along the coast. Climate change is expected to worsen
+these vulnerabilities through rising temperatures, reduced rainfall, more severe droughts, and sea level rise, the latter
+threatening water and sanitation infrastructure in coastal cities. The National Water Agency (Agência Nacional de Águas
+e Saneamento Básico, ANA) estimates that, without improvements in water management practices, 20 million people —
+37 percent of the population— and 53 percent of agricultural and industrial GDP (around R$200 billion1) could face water
+shortages by 20352. Between 2000 and 2014, droughts affected 33 million people and caused losses over USD 11 billion,
+while floods impacted 3.27 million people and cost USD 4.37 billion between 2000 and 2023, especially in coastal areas 3.
+This context makes the challenge of providing reliable water supply to people and the economy, managing drought and
+flood risks, while safeguarding the environment increasingly complex and costly.
+5.      Despite progress over the past decades in reducing extreme vulnerability to droughts and water scarcity, much
+remains to be done to achieve water security. Major achievements include the development of critical infrastructure
+such as dams, canal, pipelines, inter-basin transfers like the São Francisco Integration Project (PISF4) to meet the increasing
+urban demands and, to a lesser extent, expand irrigated areas and mitigate flood risks. However, post-construction
+management and financing models are often inadequate, compromising infrastructure effectiveness, longevity, and
+safety. Apart from water supply augmentation, investment and incentives to improve water use efficiency and reduce
+pollution have not received enough attention, hastening the need to develop costly new supplies. Effective water
+governance has been constrained by insufficient funding, poor coordination, and limited technical capacity.
+6.         Notable progress has also been made in increasing water supply and sanitation (WSS) coverage, but the region
+is still lagging most other Brazil’s regions, and significant gaps persists in rural and peri-urban rural water access and
+basic sanitation overall. Approximately 13.4 million people (23 percent of the Northeast’s population) lack access to
+potable water, and 37.8 million (69 percent) are without sewerage systems. Moreover, a small share of the sewerage
+collected is treated, a major cause of inland and coastal pollution. Service performance also lags, with non-revenue water
+at 46.7 percent and energy consumption at 0.78 kWh/m³, compared to 0.61 kWh/m³ in the South. The region has the
+
+1 The share of the services sector GDP at risk of water shortage is not included and is expected to be high considering that services account for about
+
+70 per cent of GDP and are mostly in urban areas, where water shortages affect 37 per cent of the population.
+2 Water shortages is when water demand is higher than water availability.
+3 EM-DAT: The Emergency Events database – Université Catholique de Louvain – CRED, Brussels, Belgium.
+4 The São Francisco River Integration Project (PISF) is a major federal water infrastructure investment designed to enhance water security and
+
+promote sustainable development in Brazil’s semi-arid Northeast.
+
+                                                                                                                                                  Page 3
+
+
+
+                                                                                                                                        Official Use Only
+        The World Bank
+        Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+highest rate of intermittent supply, with over half of households affected. In remote rural areas and poorer urban
+communities, the situation is even more dire: rural communities often rely on water trucks5 and lack reliable sanitation.
+Although the recently approved sectoral framework6 assigned ANA a new regulatory role, WSS regulation remains
+fragmented and generally weak, with 23 agencies operating across the region.
+7.       The state of Paraíba ranks in terms of GDP in 19th among the 27 Brazilian federative units and 6th within the
+Northeast region, but in 26th when considering GDP per capita in 2021. It has a population of 3,974,687, with
+approximately 20.4 percent of people living in rural areas, and 47.4 percent living in poverty in 2023. The HDI in 2021
+ranked 21st among the 27 Brazilian federative units. The biome Caatinga dominates the semi-arid region and spans 193
+of the state’s 223 municipalities, covering 92 percent of its territory, showing greater social vulnerability.
+8.      In Paraíba, climate change affects the well-being of the population, the economy, and the environment, through
+increased droughts, floods, and water scarcity risks. Rainfall patterns are a key climatic feature across Paraíba. The semi-
+arid region is characterized by low and irregular rainfall,7 whereas the coastal region experiences higher precipitation
+throughout the year.8 Climate change studies suggest rising temperature extremes, a reduction in average rainfall, and an
+increase in the number and frequency of dry days.9
+9.      The João Pessoa Metropolitan Region (RMJP) is comprised of 12 municipalities in Paraíba, with an estimated
+total population of 1,380,923. The state capital, João Pessoa, accounts for 64.4% of the population. According to the 2022
+census, it was the fastest-growing capital among Brazil's 20 most populous cities, with a 15.3% increase in 12 years. The
+RMJP's economy is strongly driven by specialized services and tourism, with the Cabo Branco Tourist Hub standing out.
+Other notable sectors include commerce, a concentration of public facilities and services, and, in the agricultural sector,
+sugarcane production and aquaculture.
+10.      The RMJP faces significant challenges in water supply and sanitation. The water supply system in the RMJP faces
+significant challenges, primarily due to high levels of water losses in the distribution networks —currently estimated at
+33% (CAGEPA, 2024)— and increasing demand driven by urban expansion and the growth of tourism, including the
+development of resorts, hotels, and water parks. Sanitation services also face critical gaps. The sewage collection and
+treatment coverage rate stand at 69% (SNIS, 2022), underscoring the need for substantial investments to meet the
+universalization targets established by Brazil’s sanitation legal framework and contribute to an enabling environment for
+economic growth.
+ Relationship to CPF
+11.     The Project is aligned with the Country Partnership Framework (CPF) for Brazil CPF (FY24–FY28). It aligns with
+the existing CPF Higher Level Objectives (HLOs) of: (i) great productivity and employment; (ii) greater inclusion of the poor
+and underserved populations; and (iii) greener economy with reduced vulnerability to climate chocks.
+
+
+
+
+5In     Brazil,    there     are      2.1      million     people      who      have     water     trucks     as     their     main       form     of
+access to water, with 89.2% of this population living in the Northeast region - IBGE (2022 demographic census).
+6 Law N. 14,026/2020 known as the New Legal Framework for Sanitation in Brazil.
+7 In the Semi-arid region, average annual rainfall ranges from 330 to 1,000 mm. This rainfall is concentrated within a short ‘winter’ season, which
+
+rarely exceeds four months per year (generally occurring between January and May in the westernmost areas of the Semi-arid region of Paraíba, and
+somewhat later in the more eastern parts of this region). The dry season, or ‘summer’, is very pronounced in this area.
+8 In the Zona da Mata region, total annual rainfall is higher, ranging from 1,100 to 1,800 mm. There is also some rainfall seasonality in the Zona da
+
+Mata, with the rainiest period, or ‘winter’, generally extending from February to August, although months without rain are rare.
+9 Sources: (i) MARENGO, J. A.; CUNHA, A. P.; NOBRE, C. A. Assessing drought in the drylands of northeast Brazil under regional warming exceeding
+
+4°C. Natural Hazards, v.103, p. 2589-2611; 2020. Available at: https://doi.org/10.1007/s11069-020-04097-3
+
+                                                                                                                                                Page 4
+
+
+
+                                                                                                                                      Official Use Only
+        The World Bank
+        Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+12.      The Project will support Brazil’s Nationally Determined Contribution (NDC) and National Adaptation Plan (NAP).
+In the latest update of NDC,10 Brazil pledged to reduce emissions by 48 percent compared to 2005 levels by 2025 and by
+53 percent by 2030. Also, Brazil aims to achieve climate neutrality by 2050.
+13.      The proposed Project is aligned with the Bank’s Private Capital Mobilized (PCM) strategy, recognizing that
+private sector participation is critical to advancing water security. It will foster this participation through: (i) strengthening
+the enabling environment for private investments, with a focus on building the capacity of entities responsible for
+structuring and regulating Public Private Partnerships (PPP); and (ii) leveraging private sector engagement in the
+procurement of goods and services.
+ C. Proposed Development Objective(s)
+14.      The proposed Project Development Objectives (PDO) of the new operation are to increase water security in
+the State of Paraiba and improve the efficiency and reliability of water and wastewater services.
+
+  Key Results (From PCN)
+15.      The proposed PDO indicators are the following:
+                a. PDO Indicator 1. People provided with water, sanitation and/or hygiene, of which 100% is safely
+                   managed -scorecard indicator-.
+                   Unit: Beneficiaries. Disaggregated by gender, and youth.
+                   Rationale: This climate change (CC) related indicator will measure the number of people who benefit
+                   from new or rehabilitated service that improves hours of supply, continuity, NRW reduction and the
+                   new WWTP.
+                b. PDO Indicator 2. Volume of water recovered as a result of non-revenue water control actions in the
+                   JPMR - cumulative value.
+                   Unit: Cubic meters (m3). Baseline and target: To be defined during appraisal.
+                   Rationale: This CC related indicator reflects improvements in operational efficiency through
+                   sectorization and infrastructure upgrades.
+                c. PDO Indicator 3. Volume of pollution loads (BOD) discharges reduced in water bodies in the JPMR
+                   (Tones per year).
+                   Unit: Tones per year.
+                   Rationale: This CC related indicator captures environmental and public health benefits of the WWTP.
+                d. PDO Indicator 4. Water resources management instruments strengthened.
+                   Unit: Qualitative assessment or composite index
+                   Rationale: Reflects progress in improvements of water resources instruments (information systems,
+                   water licenses and charges, classification of water bodies).
+                e. PDO Indicator 5. People with enhanced resilience to hydrological risks - scorecard indicator.
+                     Unit: Number of people
+                     Rationale: Refers to individuals who benefit from interventions that reduce their vulnerability to droughts
+ D. Concept Description
+16.     The Project will constitute the Phase 1 of the Multiphase Programmatic Approach (MPA) ‘Integrated Water
+Security Program for the Northeast of Brazil’. On March 27, 2025, the Committee for External Financing (COFIEX)
+
+
+10 Brazil. 2023. Adjustments to the National Determined Contribution to the Paris Agreement under the UNFCCC.
+
+
+
+                                                                                                                                   Page 5
+
+
+
+                                                                                                                          Official Use Only
+       The World Bank
+       Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+approved the State of Paraíba's request for a new water project. The Project's design will align with the MPA's Theory of
+Change, PrDOs, and prioritize institutions, instruments, and infrastructure. Notably, the Integrated Water Security
+Program for the Northeast was launched in Joao Pessoa with the support of the State Government in June 2024, reflecting
+the need for a comprehensive regional approach to water security. Phase 1 of the MPA comprises priority initiatives aimed
+at improving water security across Paraíba, strengthening key public sector water institutions, and constructing essential
+infrastructure such as a wastewater treatment plant (WWTP), the sectorisation of the water supply distribution system,
+and the construction of a water transmission main for the Gramame system—all serving the RMJP.
+17.     The Project will build on the on-going Paraiba Water Security Project (PWSP). The Paraiba Improving Water
+Resources Management and Services Provision Project (P165683), or Paraiba Water Security Project (PWSP) was approved
+in 2019 and is underway. It includes actions on WRM, security of dams, the construction of water mains, one contract for
+the sectorization of the water supply network of RMJP, wastewater collection infrastructure for RMJP, and institutional
+strengthening of the state water utility.
+18.      Project Beneficiaries. The Project is expected to benefit the entire population of the State of Paraíba.
+Strengthening WRM policies and instruments will enhance water availability and quality across the state. Investments in
+sanitation infrastructure—including increased wastewater treatment capacity and the sectorization of water distribution
+networks—will directly benefit residents of the João Pessoa Metropolitan Region and the economic growth of the region,
+which has a population of approximately 1,250,000, according to 2022 data from the Brazilian Institute of Geography and
+Statistics (IBGE). Additionally, studies and activities focused on rural sanitation management models will reach the entire
+rural population of the state, estimated at 812,220 inhabitants (IBGE, 2022 Census), contributing to improved service
+delivery and sustainability in rural areas.
+19.     Project Cost, Duration and Financing. The estimated total Project cost is US$73 million, to be financed with a US$
+50 million IBRD loan and US$23 million of counterpart funding. The proposed lending instrument is an IPF to be
+implemented over a five-year period. The Borrower will be the State Government of Paraíba. Project costs by component
+and financing arrangements are presented in Table 1.
+
+                        Table 1. Project Costs and Source of Financing (amounts in US$ thousands)
+                                 Component                                    Project cost   IBRD Loan     Counterpart
+                                                                                                             funding
+    Component 1: Integrated Water Resources Management                           3.5             3.5            --
+    Component 2: Water and Sanitation Services                                   69.3           46.3           23.0
+    Component 3: Project Management                                              0.2             0.2
+                                     Total                                       73.0           50.0          23.0
+
+
+20.      Component 1. Integrated Water Resources Management (US$3.5 million financed by IBRD). This component
+aims to contribute to proactive WRM in the state by strengthening the state WRM institution and consolidating key
+management instruments related to water quantity, quality, and drought resilience. It will focus on expanding surface and
+groundwater monitoring, fostering dialogue on the costs and financial sustainability of the water management system,
+improving water licenses and charges, and establishing water quality standards through a participatory process with
+society, along with the necessary actions to achieve those standards. The component will also focus on increasing the
+state’s capacity for drought management through increased monitoring and warning mechanisms for implementation of
+adequate measures, and the proposition of a state water reuse policy.
+21.      Component 2. Water Supply and Sanitation Services (US$69.3 million: US$46.3 million provided by IBRD; US$23
+million in counterpart funding). This component is designed to advance the modernization and expansion of water supply
+and sanitation services, supporting the state water utility (CAGEPA), the state water services regulatory agency and a
+
+
+                                                                                                                         Page 6
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+recently created unit that will lead the development of a national strategy and plan to support rural water supply and
+sanitation in the state. It encompasses the implementation of water infrastructure projects that will enhance the quality
+of life for residents, improve environmental outcomes, and promote economic growth within the state, particularly in the
+RMJP region.
+22.      Component 3. Project Management (US$0.2 million financed by IBRD). This component will support the Project
+Management Unit (Unidade de Gerenciamento do Projeto, UGP) in strengthening its technical and administrative capacity.
+Activities will include the hiring of consultants and the provision of independent audit services to ensure effective project
+implementation, monitoring, and compliance with fiduciary and safeguard requirements.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+23.     This Project builds on previous efforts to strengthen integrated water resources management and improve water
+and wastewater services in the RMJP. It will provide technical support and invest in water and sanitation infrastructure,
+including sewage system upgrades in João Pessoa, Cabedelo, and Conde, aiming to reduce wastewater spills and enhance
+treatment for local ecosystems. Component 1 offers technical assistance and small monitoring initiatives with minimal
+environmental risks. Component 2 focuses on sanitation, including a 36 km Gramame adductor system, expansion of the
+Baixo Paraíba WWTP, water supply optimization in João Pessoa’s metro area, and rural water studies. Component 3 is
+dedicated to project management and ensuring social and environmental compliance.
+24.     Activities mirror the current Paraiba Water Security Project (PWSP), leveraging lessons learned for improved
+environmental management. All works will occur in urban or peri-urban areas, avoiding sensitive zones and significant
+biodiversity threats. Construction ranges from simple to moderately complex, with WWTP work expected to last about 18
+months. Impacts are projected to be local, temporary, and manageable, with no cumulative negative effects. However,
+WWTP rehabilitation is expected to improve mangrove health but could alter how local populations use the ecosystem.
+WWTP design and procurement should adhere to strict environmental standards, national regulations, NASs, and
+requirements for effluent, sludge management, mangrove protection, and dam safety.
+25.      The Project involves investments to improve water supply and sanitation services in the RMJP and strengthen
+water security in the State of Paraíba, Brazil. While the Project aims to improve living conditions and environmental
+quality, it carries potential for some social impacts. The construction of the WWTP and water supply infrastructure will
+require land acquisition. The scale of these impacts was already identified in the preparation of the Resettlement Action
+Plan, in the previous operation, and has already received No Objection by the Bank.
+26.    The expansion of the WWTP will be located on land owned by the State, but currently occupied by families and
+the mineral extraction industry—quarries 01 and 04—is currently operating, albeit irregular. The RAP covers 49 affected
+
+                                                                                                                         Page 7
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+areas, including: 9 households with residents; 2 households with vacant properties; 5 land squatters; 3 economic activities;
+29 workers; 1 service provider. The project’s focus on improving water and sanitation services is expected to have positive
+impacts on public health. However, potential risks related to community health and safety during construction and
+operation of the WWTP. The mitigation measures will be included in the C-ESMPs.
+27.      A large labor influx is not expected; despite this, these risks will be managed through the (i) Worker Codes of
+Conduct (ii) worker training and community sensitization; (iii) accessible Grievance Mechanism (GM); (iv) contractor
+management clauses and community health and safety management measures. The Northeast region faces
+socioeconomic challenges, including high poverty rates and water scarcity. These contextual factors can exacerbate social
+risks associated with the project. The SEP will be prepared to ensure meaningful consultation with affected communities
+and address their concerns.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Luis Alfonso Alvestegui Justiniano
+   Senior Water Supply and Sanitation Specialist
+
+   Paula Pedreira de Freitas de Oliveira
+   Senior Water Resources Management Specialist
+
+ Borrower/Client/Recipient
+  State Government of Paraiba
+  Joao Azevedo Lins Filho
+  Governor of Paraíba State
+  spg@palacio.pb.gov.br
+
+ Implementing Agencies
+
+
+
+
+                                                                                                                        Page 8
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     Paraiba Water Security Project 2 (Northeast MPA Phase I) (P511557)
+
+
+ AESA - State Water Resources Management Executive Agency - Agência Executiva de Gestão das Águas
+ Porfirio `Loureiro Porfirio `Loureiro
+ President
+ porfirioloureiro@aesa.pb.gov.br
+
+ CAGEPA - State Water and Sanitation Company - Companhia de Água e Esgotos da Paraíba
+ Marcus Vinicius Neves
+ President - Director
+ marcus.neves@cagepa.pb.gov.br
+
+ SEIRH - State Secretariat for Infrastructure and Water Resources
+ Virgiane da Silva Melo
+ SECRETÁRIA EXECUTIVA DE ESTADO DA INFRAESTRUTURA E RECURSOS HÍDRICOS
+ virgiane.amaral@seirhma.pb.gov.br
+ Deusdete Queiroga Filho
+ State Secretary for Infrastructure,Water Resources-SECRETÁRIO DE ESTADO DA INFRAESTRUTURA, DOS REC
+ deusdete.queiroga@seirhma.pb.gov.br
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Luis Alfonso Alvestegui Justiniano, Paula Pedreira de Freitas de Oliveira
+
+Approved By
+
+Practice Manager/Manager:               David Michaud                            02-Sep-2025
+
+Country Director:                       Jorge A. Coarasa                         18-Sep-2025
+
+
+
+
+                                                                                                                    Page 9
+
+
+
+                                                                                                           Official Use Only
+

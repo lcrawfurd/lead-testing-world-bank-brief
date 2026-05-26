@@ -1,0 +1,601 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Chao Phraya Flood Management Plan 2 (P510631)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 08-Apr-2026 | Report No: PIDDC01656
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     Chao Phraya Flood Management Plan 2 (P510631)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID               Operation Name
+Thailand                       P510631                    Chao Phraya Flood Management Plan 2
+Region                         Estimated Appraisal Date   Estimated Approval Date      Practice Area (Lead)
+EAST ASIA AND PACIFIC          06-Nov-2026                17-Feb-2027                  Water
+Financing Instrument           Borrower(s)                Implementing Agency
+Investment Project             The Kingdom of Thailand    Royal Irrigation
+Financing (IPF)                                           Department
+
+Proposed Development Objective(s)
+To improve flood management and strengthen resilience to water-related climate risks in the Lower Chao Phraya
+Basin
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 No
+Is this project Private Capital Enabling (PCE)?           No
+
+SUMMARY
+  Total Operation Cost                                                                                   1,101.53
+
+  Total Financing                                                                                        1,101.53
+             of which IBRD/IDA                                                                             610.00
+  Financing Gap                                                                                                 0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                            610.00
+  Non-World Bank Group Financing
+   Counterpart Funding                                                                                     221.53
+
+
+                                                                                                                 Page 1
+
+
+
+                                                                                                        Official Use Only
+        The World Bank
+        Chao Phraya Flood Management Plan 2 (P510631)
+
+
+         Borrower/Recipient                                                                                                                221.53
+       Other Sources                                                                                                                       270.00
+         Asian Development Bank                                                                                                            140.00
+         Asian Infrastructure Investment Bank                                                                                              130.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                  Concept Review Decision
+High                                                                          The review did authorize the preparation to continue
+
+
+
+
+ 1. This Concept Stage Project Information Document (PID) describes a forthcoming operation to support the Chao
+ Phraya flood management engagement in Thailand. This operation will be prepared as the second phase of the East Asia
+ and Pacific (EAP) Region’s Multiphase Programmatic Approach (MPA) on Water Security and Resilience (P510359). The
+ regional MPA has an overall financing envelope of US$861 million1, and is expected to be approved by the World Bank’s
+ Executive Directors on 31 July 2026.
+
+
+B. Introduction and Context
+
+Regional and Country Context
+
+
+ 2. Water is the cornerstone of development and climate resilience in the EAP region. The EAP region is home to
+ over 2.1 billion people and is one of the world's fastest-growing regions. Water security is integral to sustainable
+ economic growth, supporting 700 million water-dependent jobs, and is essential for healthy populations, food security,
+ and ecosystems2. It is a key driver of economic growth, particularly for agriculture, tourism, and many other sectors,
+ including those with high growth potential3. However, climate change impacts exacerbate the mounting challenges of
+ water stress, poor infrastructure, and fragmented governance. Three EAP countries (Myanmar, Thailand, and Viet Nam)
+
+
+ 1
+     Based on the assumption that the first phase of the MPA will be the Philippines Accelerated Water and Sanitation Project in Selected Areas
+ project (P510359-US$251 million) and the second phase will be this Chao Phraya Flood Management Plan 2 (P510631-US$610 million)
+  2
+    See Water for Shared Prosperity (World Bank, 2024). Water security is defined as “the availability of an acceptable quantity and quality of water
+  for health, livelihoods, ecosystems, and production, coupled with an acceptable level of water-related risks to people, environments, and
+  economies” (Grey and Sadoff 2007).
+ 3
+    The hidden thirst of AI and other growth potential sectors is exceptionally high in EAP, with a significant rise in water demand due to the growth
+ of industries such as data centers and chip manufacturing. This demand comes in addition to existing industries such as semiconductor factories
+ relying on water to cool systems and generate electricity globally. They already consume as much water as Hong Kong, a city of 7.5 million. For chip
+ manufacturing, ultrapure water is used to remove impurities that can damage chips. An average chip manufacturing facility can use 10 million
+ gallons of ultrapure water per day (> 37 million liters/day).
+
+                                                                                                                                                 Page 2
+
+
+
+                                                                                                                                       Official Use Only
+       The World Bank
+       Chao Phraya Flood Management Plan 2 (P510631)
+
+
+ are often ranked globally among the top 10 countries most aﬀected by climate risks4 – particularly water-related risks –
+ having already incurred some of the costliest disasters, with annual losses exceeding US$300 billion. These costs are
+ only expected to grow as the number of people and assets exposed to climate hazards increases. For instance, by the
+ year 2040, annual climate-change exacerbated flood damage is expected to increase by up to 211 percent in Thailand
+ and its neighboring countries due to the expansion or intensification of urban centers (see Figure 1 below), with Bangkok
+ being a regional hotspot of costly flood impacts5.
+
+ 3. Thailand exemplifies many of the region’s water security challenges: it confronts the challenges of too much, too
+ little, and too polluted water, all of which will be exacerbated by climate risks. Thailand is particularly susceptible to
+ floods, storms, coastal erosion, water shortages, and heat stress, which translate to significant economic setbacks,
+ livelihood disruptions, and profound health impacts of the most vulnerable. Floods are, by far, the most damaging
+ climate hazard in Thailand, reflected in its ranking (INFORM index from 2023) as the ninth most exposed country to
+ flood hazards in the world. Climate change-induced flooding is projected to result in average annual losses of US$2.6
+ billion (0.5 percent of Gross Domestic Product (GDP)) by 2030, but a 1-in-50-year flood event in 2030 would cost as
+ much as 10-15 percent of the national GDP. Business as usual is therefore no longer a viable path, and while the costs
+ of required investments are substantial, the costs and risks of inaction are far greater.
+
+
+
+
+Figure 1: Estimated flood damage maps for a 10-year return period for South-east Asia, as well as for (A) Rangoon, (B) Bangkok, (C) Vientiane, (D)
+                                          Phnom Penh, and (E) Can Tho. Source: Tierolf et al., 2021
+
+ 4. Thailand’s water security and climate-related challenges have played a critical role in stalling its remarkable
+ progress in socio-economic development, causing it to fall into a ‘middle-income trap’. Thailand achieved a rapid
+ transition from low-income to upper middle-income status within a generation, evolving from an agrarian economy into
+ a modern, industrialized, and export oriented one. However, job creation and growth have slowed amid weak
+
+
+4
+  Asean, 2020, The Asian: Climate Change – The Time to Act is Now, https://asean.org/wp-content/uploads/2021/08/The-ASEAN-Magazine-Issue-
+5-September-2020.pdf
+5
+  Tierolf et al., 2021, Modeling urban development and its exposure to river flood risk in Southeast Asia, Computers, Environment and Urban
+Systems, Vol. 87: https://www.sciencedirect.com/science/article/pii/S0198971521000272
+
+                                                                                                                                              Page 3
+
+
+
+                                                                                                                                     Official Use Only
+        The World Bank
+        Chao Phraya Flood Management Plan 2 (P510631)
+
+
+  investment and mounting demographic pressures. High inequality remains a key constraint to sustainable and inclusive
+  growth, with Thailand ranking among the most unequal countries globally. Highly monocentric urbanization in Bangkok
+  has exacerbated spatial disparities, with rural areas facing greater vulnerabilities. Water insecurity and climate change
+  impacts could exacerbate these inequalities and downward trends in socio-economic development; it has been
+  estimated that climate change – especially large floods – could reduce Thailand’s GDP by between 7 and 20 percent by
+  2050 without proactive measures6. Thailand’s next development phase will therefore require new drivers of jobs and
+  growth that strengthen competitiveness, build a future-ready workforce, and expand investment in high-quality and
+  climate resilient infrastructure.
+
+
+Sectoral and Institutional Context
+
+
+  5. In 2011, Thailand faced unprecedented flooding. The extended monsoon season of 2011 (lasting from June to
+  mid-December) resulted in flooding across 65 of the 77 provinces, inundating an area of approximately 4.14 million ha,
+  including the Greater Bangkok Metropolitan area, and damaging 1.67 million ha of agricultural land. The 2011 floods
+  killed more than 800 people and affected nearly 13 million people across Thailand7. The economic damages amounted
+  to approximately Thai Baht (THB)1.43 trillion (US$46.5 billion)8, equivalent to 12.6 percent of Thailand’s GDP at the
+  time9. The reconstruction bill alone was THB388 billion, equivalent to 3.4 percent of the GDP. Thailand continues to face
+  serious flooding every year, with notable devastations in 2013, 2014, 2016, 2024 and 2025. In November 2025, Thailand
+  experienced record rainfall in southern provinces, with floods impacting 2 million people and causing 182 deaths10,11.
+  Projections suggest that the number of people affected by floods between 2035–2044 could be 2.5 times higher than
+  in 2011, over which period the return periods of major floods will also shorten dramatically due to climate change12.
+
+  6. The 2011 floods stimulated governmental action towards systematic flood management, particularly in the Chao
+  Phraya Basin. Spurred by recurring floods, the Government has taken action on comprehensive flood governance and
+  master-planning, including the establishment of the Office of National Water Resources (ONWR) in 2017, the adoption
+  of the Water Resources Act in 2018, the preparation of a 20-year water resource management masterplan (2018-2037),
+  and the Royal Irrigation Department’s (RID) comprehensive Chao Phraya River Flood Risk Management Masterplan13.
+  The Chao Phraya basin is Thailand’s largest and most important domestic river system, accounting for 66 percent of the
+  national GDP and housing 40 percent of the country’s population. Approximately 90 percent of the Chao Phraya basin
+  comprises of agricultural lands, concentrated in the southern part of the basin. The megacity of Bangkok, situated in the
+  Chao Phraya delta, contributes around 78 percent of the basin’s share of the national GDP.
+
+ 6
+   World Bank Thailand Country Climate and Development Report, 2025
+ 7
+   Loc et al., 2023, The Great 2011 Thailand flood disaster revisited: Could it have been mitigated by different dam operations based on better
+ weather forecasts?, Environmental Research, 216, 114493: https://www.sciencedirect.com/science/article/pii/S0013935122018205
+ 8
+   Thai flood 2011: Rapid assessment for resilient recovery and reconstruction planning (Vol. 1 of 2): Overview (English). Washington, DC: World
+ Bank. http://documents.worldbank.org/curated/en/677841468335414861
+ 9
+    Dolk et al., 2025, Assessing and managing natural disaster risks for the financial sector in Thailand, World Bank Blogs:
+ https://blogs.worldbank.org/en/allaboutfinance/assessing-and-managing-natural-disaster-risks-for-the-financial-
+ 10
+    Kelly Ng, 2025, 'Once in 300 years' rain hits Thai city as floods ravage South East Asia, BBC: https://www.bbc.co.uk/news/articles/ckg97wx144jo
+ Kocha Olarn and Ross Adkin, 2025, ‘Like a tsunami’: Asia reels from deadly cyclones and monsoon rains, CNN:
+https://edition.cnn.com/2025/12/02/asia/thailand-asia-flooding-disaster-intl-hnk
+ 12
+    Climate Risk Country Profile: Thailand (2021): The World Bank Group and the Asian Development Bank.
+ 13
+    Kasetsart University, Feasibility Study and Prioritization of Chao Phraya River Basin Flood Mitigation Plans, Office of National Water Resources,
+ Bangkok, September 2020
+
+                                                                                                                                                Page 4
+
+
+
+                                                                                                                                      Official Use Only
+      The World Bank
+      Chao Phraya Flood Management Plan 2 (P510631)
+
+
+
+7. The Chao Phraya Flood Management Masterplan consists of nine extensive plans that, when combined, aim to
+provide a 1-in-50-year level of flood protection across the Lower Chao Phraya River Basin. These plans have benefited
+from extensive studies and have incorporated international best practice to develop a clear roadmap for investments in
+flood risk management. The plans (shown in Figure 2) aim to strengthen flood protection and increase the conveyance
+capacity (from 3,425 m3/s to 4,295 m3/s) of existing hydraulic infrastructure within an ambitious timeframe of 2024-
+202914. The estimated combined cost for all nine plans is US$12.3 billion, and includes: (1) Plan 1: Enhancement of the
+lower-eastern basin hydraulic infrastructure (budget ~US$2.75 billion); (2) Plan 2: Construction of Eastern Floodway in
+the eastern part of the basin, comprising Chainat-Pasak and Pasak-Gulf of Thailand canals (budget ~US$4.33 billion); (3)
+Plan 3: Ring road drainage channel construction (budget ~US$2.33 billion); (4) Plan 4: Hydraulic infrastructure
+improvements in the western basin (budget ~US$1.57 billion); (5) Plan 5: Drainage efficiency improvements in the Chao
+Phraya River, including the dredging and strengthening of embankments (budget ~US$75 million); (6) Plan 6: Flood
+protection and flood management plans, including the construction of shelters in areas not protected by embankments
+(budget ~ US$159 million); (7) Plan 7: Drainage channel construction between Bangban and Bangsai (budget ~US$747
+million); (8) Plan 8: Drainage efficiency improvements in the Tha Chin River, including dredging and a flood bypass
+(budget ~US$66 million); and (9) Plan 9: Inundation area management (budget ~US$107 million). It is important to note
+that the numeration of the nine Plans does not imply a requirement for sequential implementation.
+
+8. The implementation of the Chao Phraya Flood Management Masterplan has been challenging, but consensus
+and traction have grown in recent years. Two of the nine plans (Plans 6 and 9, which do not include hydraulic
+infrastructure investments) have been completed, and Plan 7 is in an advanced construction stage. Implementation of
+the most capital-intensive plans did not commence for a long time, due to the constraints of very significant investment
+needs, institutional coordination challenges, and frequent changes in the government. In 2024, the Government started
+advancing the preparations for Chao Phraya Plan 1, and in 2025 for Plan 2. Feasibility studies and detailed engineering
+designs for these investments were prepared in 2017 and updated in 2023, forming the basis for the Government’s
+current readiness to start implementation of infrastructure investments.
+
+
+
+
+14
+  Kasetsart University, Feasibility Study and Prioritization of Chao Phraya River Basin Flood Mitigation Plans, Office of National Water Resources,
+Bangkok, September 2020
+
+                                                                                                                                              Page 5
+
+
+
+                                                                                                                                    Official Use Only
+      The World Bank
+      Chao Phraya Flood Management Plan 2 (P510631)
+
+
+
+
+Figure 2: The 9 Plans that make up the Chao Phraya Flood Management Masterplan. This PCN covers Phase 1 of Chao Phraya Flood Management
+                                                                 Plan 2.
+
+ 9. In addition to enhanced flood risk management infrastructure, Thailand also needs to address gaps in its
+ hydrometeorological capacity and disaster preparedness. The Thai government has invested in improving forecasting,
+ climate‐information services, and early warning systems, especially for flood and drought risks, under the Water
+ Resource Management Master Plan 2018-2037. In addition, Thailand has a legal and institutional framework (e.g.,
+ Disaster Prevention and Mitigation Act of 2007), local basin‐level plans, and systems for monitoring and responding to
+ hydrometeorological hazards. However, several challenges persist. Among these are administrative fragmentation
+ (different ministries and agencies collecting overlapping or inconsistent data), limited standardization of data and
+ warning protocols, and an underestimation of impacts in official assessments. Forecasting and early‐warning systems
+ are still hampered by insufficient observational infrastructure in some areas, delays in data sharing, and limited capacity
+ at local levels to interpret and act on warnings. Climate change is increasing the frequency and intensity of extreme
+ events, making past models less reliable, increasing uncertainty. Moving forward, the government’s strategy includes
+ improving data networks, integrating impact‐based forecasting, enhancing community awareness and local capacity,
+ incorporating nature‐based solutions, and better aligning long‐term water management planning with climate change
+ projections. Success will depend on securing sustained funding, enhancing cross‐agency coordination, ensuring local
+ uptake of early warning and preparedness measures, and keeping pace with rapidly changing climate risks.
+
+ 10. The Government of Thailand has requested development partners to support improved flood management and
+ climate resilience in the Lower Eastern Chao Phraya Basin. Given the size and complexity of investments, the
+ Government has sought support from international development partners. As lead financier for Chao Phraya Flood
+
+
+                                                                                                                                   Page 6
+
+
+
+                                                                                                                           Official Use Only
+      The World Bank
+      Chao Phraya Flood Management Plan 2 (P510631)
+
+
+Management Plan 2 (Eastern Floodway), the World Bank is currently supporting the preparation of priority investments,
+with the Asian Development Bank (ADB) and the Asian Infrastructure Investment Bank (AIIB) as co-financiers. Similarly,
+ADB is the lead financier for Chao Phraya Plan 1 (Lower-eastern basin), with co-financiers including the World Bank, the
+Agence Française de Développement, and the OPEC Fund for International Development. Currently, the Chao Phraya
+Plan 1 and Plan 2 programs are being prepared in parallel, and it has been agreed that the ADB-World Bank Full Mutual
+Reliance Framework (FMRF)15 will be applied to both for facilitating co-financing16. This PCN covers the first operation
+(Phase 1) of Chao Phraya Plan 2 (Eastern Floodway) program, and it will be prepared as the second phase of the EAP
+regional water security MPA. The Government of Thailand has submitted an official letter of intent (dated May 16, 2025)
+to join the EAP regional MPA in support of the Chao Phraya flood management engagement. In December 2025, Thailand
+received an allocation of US$2.3 million from the IBRD Grant Facility for Project Preparation (GFPP) for accelerating the
+preparation of the Chao Phraya Plan 2 program, with priority on readying its Phase 1 for financing.
+
+
+Relationship to CPF
+
+
+11. The Chao Phraya Plan 2 project is closely aligned with the World Bank Group Country Partnership Framework
+(CPF) with Thailand for Fiscal Year (FY) 2019‐2022 (extended to FY2024)17, as well as the drafted CPF for FY2027-2032.
+Over the past two years, the Bank has engaged with Thailand to reopen a lending program to support Thailand’s next
+phase of development. The WBG’s CPF FY2019–2022 was extended in January 2023 for an additional two years, through
+June 30, 2024, following the Performance and Learning Review (Report No. 170788-TH). Discussions are underway for
+a new CPF. This Chao Phraya Plan 2 engagement directly underpins two of the six objectives under the CPF, namely: (i)
+Objective 3 on strengthening the quality of infrastructure investments; and (ii) Objective 4 on addressing climate change
+and improving water resources management.
+
+12. The Chao Phraya flood management engagement is consistent with the World Bank Group Water Strategy
+Implementation Plan (WSIP)18, with the Climate Change Action Plan 2021–2025, and the views and priorities laid out
+in the Thailand Country Climate and Development Report (CCDR). The Chao Phraya Plan 2 (Eastern Floodway) project
+will directly contribute to the pillar on Water for the Planet of the WSIP, through the sixth Scalable Solution on Reducing
+Flood and Drought Risk. Additionally, one of the top priority actions identified in the CCDR is the implementation of the
+Chao Phraya 9 Plans due to the very high direct impacts and co-benefits in the immediate term. The CCDR calls for the
+implementation of the 9 Plans to be complemented by sustainable watershed management through reforestation and
+wetland restoration, climate-smart land use planning, floodplain zoning, and expanding and modernizing early warning
+systems and hydrometeorological services.
+
+
+C. Proposed Development Objective(s)
+
+15
+   ADB & World Bank. 2025. Asian Development Bank and World Bank: Full Mutual Reliance Framework Agreement.
+https://www.adb.org/documents/adb-and-wb-full-mutual-reliance-framework-agreement
+16
+   ADB’s co-financing of Chao Phraya Plan 2 will be in the same proportion of overall external financing as the WB’s co-financing of Chao Phraya
+Plan 1.
+17
+  Thailand-World Bank Group Country Partnership Framework for the Period 2019-2022 (Thai). Washington, D.C.: World Bank Group. Report no.
+125234.http://documents.worldbank.org/curated/en/785021552364994356
+18
+   World Bank. 2025. World Bank Group Water Strategy Implementation Plan: Mission Water for a Water Secure Future (English). Washington, D.C.
+World Bank Group. http://documents.worldbank.org/curated/en/099122425094016453
+
+                                                                                                                                           Page 7
+
+
+
+                                                                                                                                  Official Use Only
+        The World Bank
+        Chao Phraya Flood Management Plan 2 (P510631)
+
+
+
+     13. The project development objective (PDO) is to improve flood management and strengthen resilience to water-
+     related climate risks in the Lower Chao Phraya Basin.
+
+
+Key Results (From PCN)
+
+14. The proposed PDO indicators and targets for the first phase of Chao Phraya Plan 2 are:
+    a. Beneficiaries with enhanced resilience to climate risks (World Bank Group Scorecard) (number, tbc)
+    b. Area benefiting from reduced flood risk (hectares, tbc)
+     Intermediate indicators will be developed during project preparation and will cover citizen engagement, climate
+     change, gender, etc., as well as some component-specific indicators, such as:
+    c. Length of canals with increased flood drainage capacity (kilometers)
+    d. Increased flood conveyance capacity (m3/s)
+    e. Beneficiaries covered by more effective flood early-warning systems (number)
+
+D. Concept Description
+
+15. Chao Phraya Flood Management Plan 2 (Eastern Floodway) Program: The Chao Phraya Plan 2 will reduce flood
+risk by diverting flood flows from the mainstem of the Chao Phraya River and routing them to the Gulf of Thailand,
+through the following interventions (see Figure 2):
+     a. Increasing the capacity of the existing eastern Chainat-Pasak diversion canal from 130 m3/s to 930 m3/s;
+     b. Construction of a new Pasak-Gulf of Thailand canal, with design capacity of 600 m3/s; and
+     c. Installation of associated control structures and facilities19.
+In addition, the program will invest in technical and institutional capacity strengthening that will improve basin-level
+flood modeling and prediction, as well as Early Warning systems and flood response from central to local-level
+institutions. The benefit of Chao Phraya Plan 2 has been estimated at approximately US$600 million annually, with
+US$533 million per year attributed to flood damage reduction.
+
+16. Chao Phraya Plan 2 - Phase 1: The first phase of Chao Phraya Plan 2 will finance the physical works that are
+construction-ready and in compliance with the applicable World Bank policies; institutional strengthening and upgrading
+of technical systems; and the preparatory work needed for Phase 2 investments.
+
+17. The first phase of the Chao Phraya Plan 2 will have the following components (Scope and financing presented below
+are provisional and subject to revisions):
+     a. Component 1: Climate-resilient flood management infrastructure (total cost US$1,051.53 million, GoT
+         financing US$221.53 million, External Loan financing US$830 million). This Component will finance physical
+         works, associated control structures and systems, and other activities for increasing the flood drainage
+         capacity in the eastern Chao Phraya basin. Specifically, it will include:
+
+
+
+
+19
+  The existing Rama VI barrage will be upgraded to regulate higher inflows from the Chainat-Pasak canal, and to route them between three possible
+trajectories to the sea: (1) via the Pasak River to the downstream reaches of the Chao Phraya River mainstem; (2) via the upgraded Rapeepat canal
+network under Plan 1; and (3) via the newly constructed Pasak-Gulf of Thailand canal.
+
+                                                                                                                                            Page 8
+
+
+
+                                                                                                                                   Official Use Only
+      The World Bank
+      Chao Phraya Flood Management Plan 2 (P510631)
+
+
+              i.   Capacity-expansion20 in the construction-ready sections of the existing Chainat-Pasak canal, to increase
+                   its capacity by 800 m3/s;
+            ii.    Construction of selected sections of the new Pasak-Gulf of Thailand canal, with a design capacity of 600
+                   m3/s; and
+           iii.    Construction and installation of associated control structures and operating systems for the parallel
+                   canal system.
+         b. Component 2: Strengthened capacity for climate-smart water and flood management (total cost US$20
+             million, financed by External Loan/Grant). This component will aim to strengthen the capacity of RID and
+             associated institutions in climate-resilient water management, focusing on sustainability, robustness, and
+             long-term effectiveness that go beyond the project’s spatial and temporal scope. Among other things, it
+             will finance: (i) the modernization and expansion of hydromet and telemetry networks; (ii) the
+             upgrading/development of flood forecasting models; (iii) the development of a comprehensive Decision-
+             Support System (DSS) for network operations; and (iv) the development of an asset management system
+             and a digital operations and maintenance (O&M) planning platform. The component will also support
+             interventions to strengthen institutional coordination in the water and emergency management space.
+         c. Component 3: Project Management (total cost US$30 million, financed by External Loan). This
+             component will support project management and implementation via: (i) technical, environmental, and
+             social supervision; (ii) project audits and M&E; (iii) recruitment of a Project Management Consultancy
+             (PMC) to support implementation, M&E, FM, environmental and social (E&S) safeguards, and procurement;
+             and (iv) establishing a Grievance Mechanism.
+
+
+
+
+                                                       Figure 3: Project Theory of Change
+
+
+
+20
+  This will include: (i) conversion of the existing earthen irrigation canal (130 m3/s capacity) into a flood drainage channel (800 m3/s capacity) by
+deepening and enlarging its cross-sectional area; and (ii) construction of a new irrigation canal (130 m3/s capacity) parallel to the flood drainage
+channel - within the existing right of way - to continue serving the irrigation users.
+
+                                                                                                                                                Page 9
+
+
+
+                                                                                                                                      Official Use Only
+      The World Bank
+      Chao Phraya Flood Management Plan 2 (P510631)
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                      Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+ 18. The Environmental risk rating is Substantial, reflecting the large spatial footprint of brownfield construction and
+ rehabilitation works for flood management infrastructure (along the Chainat-Pasak Canal) and some greenfield
+ construction (along the Pasak-Gulf of Thailand Canal), spanning agricultural, rural, peri-urban, urban, and estuarine
+ areas connected to the Gulf of Thailand. Key risks are associated with Component 1, including excavation, dredging,
+ vegetation clearance, large earthworks, construction or upgrading of control structures, and relocation or rehabilitation
+ of public infrastructure and utilities. Potential impacts include changes in hydrological conditions and downstream
+ flows; bank erosion, scouring, and sedimentation at confluence/discharge points; disturbance or loss of terrestrial and
+ aquatic habitats; impacts on biodiversity; deterioration of surface water quality due to sediment mobilization; and
+ generation of large volumes of spoil and dredged materials. Construction-related impacts such as noise, dust, and traffic
+ disruption may affect nearby communities. Additional risks may arise from construction camps, equipment yards, and
+ storage of fuels and materials. Occupational and community health and safety risks, particularly related to infrastructure
+ relocation, will require careful management. Environmental risks under Component 2 are expected to be low, as
+ activities focus on technical systems and institutional strengthening. Overall risks are considered manageable through
+ mitigation measures to be defined during project preparation. The risk rating will be revisited as greenfield activities are
+ further defined.
+
+ 19. Social risk is rated High. Component 1 activities will result in compulsory land acquisition of portions of the Pasak-
+ Gulf of Thailand canal and physical and economic displacement of households and businesses within the right of way of
+ the existing Chainat-Pasak canal including those without formal land titles. Other risks include labor influx risk; Sexual
+ Exploitation and Abuse/Sexual Harassment (SEA/SH) risk; child and forced labor; discrimination in employment of
+ women and vulnerable groups; Occupational Health and Safety risks; and community health and safety risks from
+ increased traffic and road safety, haulage, water contamination and vector borne diseases during excavation/physical
+ works. Some of the existing hydraulic infrastructure is over 90-years old and holds heritage value for Thailand. Civil
+ works including canal dredging and widening carry risk of disturbing below-and above-ground heritage sites in the
+ project corridor. Diversity and sophistication of affected and interested stakeholders require structured and multi-level
+ stakeholder engagement strategies and grievance mechanisms. Exclusion of vulnerable groups in stakeholder
+ consultations (e.g. Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, and Intersex + groups, persons with
+ disabilities, etc.) is also a potential risk. Public consultations already initiated under the national Environmental Impact
+ Assessment process provide a useful foundation for further engagement. The project SEA/SH risk rating has been
+ assessed to be Low, and will be reassessed during preparation to develop a proportionate mitigation plan. RID does not
+
+                                                                                                                        Page 10
+
+
+
+                                                                                                                 Official Use Only
+     The World Bank
+     Chao Phraya Flood Management Plan 2 (P510631)
+
+
+have prior experience in applying the World Bank or other development partners’ safeguards policies. RID E&S capacity
+needs will be included in the project capacity building plan. In addition to the Environmental and Social Impact
+Assessment (ESIA) and Environmental and Social Management Plan, draft Stakeholder Engagement Plan, Resettlement
+Plan(s), and Environmental and Social Commitment Plan will be prepared and disclosed prior to appraisal. Labor
+Management Procedures will be annexed to the ESIA.
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Sanjay Pahuja
+ Senior Water Resources Management Specialist
+
+ Dzung Huy Nguyen
+ Senior Disaster Risk Management Specialist
+
+Borrower/Client/Recipient
+ The Kingdom of Thailand
+
+Implementing Agencies
+ Royal Irrigation Department
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Sanjay Pahuja, Dzung Huy Nguyen
+
+Approved By
+
+Practice Manager/Manager:                Maria Angelica Sotomayor               19-Mar-2026
+
+Country/Division Director:               Melinda Good                           08-Apr-2026
+
+
+                                                                                                                Page 11
+
+
+
+                                                                                                         Official Use Only
+The World Bank
+Chao Phraya Flood Management Plan 2 (P510631)
+
+
+
+
+                                                       Page 12
+
+
+
+                                                Official Use Only
+

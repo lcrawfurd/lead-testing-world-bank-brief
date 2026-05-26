@@ -1,0 +1,1570 @@
+Public Disclosure Authorized
+                                        The World Bank
+                                        DRC Water Supply and Sanitation Access Program (P178389)
+
+                                f
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                    Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                   Appraisal Stage | Date Prepared/Updated: 16-Mar-2023 | Report No: PIDA35284
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               Mar 16, 2023                                                                                      Page 1 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID            Project Name                 Parent Project ID (if any)
+   Congo, Democratic Republic of                 P178389               DRC Water Supply and
+                                                                       Sanitation Access
+                                                                       Program
+   Region                      Estimated Appraisal Date                Estimated Board Date         Practice Area (Lead)
+   EASTERN AND SOUTHERN AFRICA 28-Mar-2023                             12-Jun-2023                  Water
+
+   Financing Instrument                          Borrower(s)           Implementing Agency
+   Investment Project Financing                  Ministry of Finance   Province of Kasai Central,
+                                                                       Province of Kasai,
+                                                                       Province of Kwilu,
+                                                                       Ministry of Hydraulic
+                                                                       Resources and Energy,
+                                                                       Province of Kasai Oriental
+
+   Proposed Development Objective(s)
+
+   To increase access to basic drinking water supply and sanitation services in selected provinces of DRC and to
+   strengthen the capacities of the public and private sector for water and sanitation service delivery
+
+   Components
+   Component 1: Increasing access to and capacities for drinking water supply delivery
+   Component 2: Increasing access to and capacities for sanitation and hygiene service delivery
+   Component 3: Program Management and Learning
+   Component 4: Contingency Emergency Response Component, CERC
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                   400.00
+   Total Financing                                                                                                     400.00
+                             of which IBRD/IDA                                                                         400.00
+   Financing Gap                                                                                                           0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+Mar 16, 2023                                                                                                          Page 2 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                          400.00
+         IDA Credit                                                                                                        400.00
+
+   Environmental and Social Risk Classification
+   Substantial
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+
+          1.        The Democratic Republic of Congo (DRC), the largest and third most populous country in Sub-
+          Saharan Africa, is rich in natural resources. With a total land area of 234 million ha, DRC’s size is
+          equivalent to that of Western Europe. It has a low population density of 16.1 person per km2 and an
+          estimated 89.61 million inhabitants2, of which 54.4 percent live in rural areas.3 The country has vast natural
+          resources, including the world’s third largest hydropower potential, the world’s second largest tropical
+          forest area, mineral endowments that are the richest and most diverse in the world, and more than half
+          of all freshwater resources in Sub-Saharan Africa.4 Since the 2006 elections, the country follows a semi-
+          presidential system, whereby the President is the head of state and the Prime Minister is the head of
+          government, of a pluriform multi-party system. There are 26 provinces and provincial executive power is
+          exercised by elected governors and their provincial ministers.
+
+          2.     DRC is one of the world’s poorest countries, with a per capita gross domestic product (GDP) of
+          US$545,5 roughly one-third of the Sub-Saharan Africa average (US$1,499). Based on the international
+          standard of living on less than US$1.90 a day, 73 percent of households live in poverty (2020). Moreover,
+          the number of poor is growing, with 20 million more poor in 2020 than in 2003. Poverty reduction is
+          hampered by high population growth—on an average three percent annually from 1961 to 2020—
+          combined with weak economic growth, with a real GDP growth rate of 1.6 percent over the same period.
+
+          1
+            World Bank (2020): www.data.worldbank.org (the latest census took place in 1984).
+          2
+            Estimates as per the National Deployment and Vaccination Plan (Ministry of Health, 2021) go as high as 116
+          million.
+          3
+            World Bank (2020): www.data.worldbank.org.
+          4
+            Natural Resources Governance Institute. 2015. Country Strategy Note: Democratic Republic of Congo.
+          5
+            World Bank (2020): www.data.worldbank.org.
+
+Mar 16, 2023                                                                                                             Page 3 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          This has resulted in a 60 percent decline in GDP per capita in 2020 compared to its 1960 level. The impact
+          of global supply chain disruptions, inflation, and higher global food and energy prices, compounded by
+          the aftermath of the pandemic, present socioeconomic challenges. In 2020, the non-mineral GDP
+          contracted by 1.3 percent although GDP growth rebounded to 6.2 percent in 2021 and is estimated to
+          reach 6.6 percent in 2022. Additionally, the humanitarian situation is precarious: half of all children have
+          not received routine immunizations, over 5.2 million people are forcibly displaced, 27 million people are
+          food insecure, and there have been four Ebola outbreaks in the past three years.6 In 2020, DRC’s Human
+          Development Index ranked 175 out of 189 countries and territories, while the 2020 Human Capital Index
+          score was 0.37, which is below the average in Sub-Saharan Africa.
+
+          3.       Conflict and violence continue, particularly in DRC’s part of the Great Lakes Region of Africa 7
+          and lead to persistent fragility. Over the past decade, continuing violence has affected nearly 40 million
+          Congolese.8 Women and girls are especially affected as widespread conflict-related sexual violence
+          compounds other forms of gender-based violence (GBV). Enduring political instability and cycles of
+          conflict have led to weak governance and institutions, hampering reform implementation, service
+          delivery, and private sector growth. The three main themes driving fragility and conflict identified in the
+          World Bank’s 2021 Risk and Resilience Assessment are (a) elite capture and resource extraction
+          perpetuating a nonresponsive system of governance and a poorly redistributive economy; (b) an
+          increasingly younger population lacking prospects for social mobility due to trauma and exclusion; and (c)
+          the interaction between local, regional, and international conflict systems based on the competition for
+          access to land, minerals, and other natural resources.
+
+          4.       Decentralization is enshrined in the 2006 Constitution, however, many key government
+          functions and financial resources have yet to be transferred to provinces. Provincial and local
+          government capacities are severely constrained by lack of resources, poor intergovernmental
+          coordination, and insufficient human resources. Uncertainties and delays surrounding transfer of
+          resources to provinces hamper budget planning and execution at provincial level. A sound public financial
+          management system is lacking, and provinces still lack proper collection of resources, procedures, systems
+          and staff for budget management and execution. The budget execution rate for domestic expenditure on
+          water has been around 14-34 percent in the period 2017-2021, and the execution for water-related
+          investments to be transferred to provinces has been negligible (0-4 percent)9. The slow progress on
+          decentralization severely hampers the ability to deliver services and develop infrastructure for DRC’s
+          citizen.
+
+          5.      Major infrastructure gaps, combined with poor governance, have led to geographic isolation,
+          socioeconomic inequalities, and disparities in poverty rates across provinces, as well as between urban
+          and rural areas. The poor state of access to basic infrastructure services represents a major constraint to
+          sustainable and inclusive growth. Decades of conflict, underinvestment, and lack of connectivity across
+          DRC’s vast territory have resulted in particularly large gaps in access to water supply and sanitation (WSS)
+          services and electricity supply. Lack of access to these services represents a major barrier to doing
+
+
+          6
+            World Bank Group (2022). Country Partnership Framework for the Democratic Republic of Congo for the period
+          FY22-FY26. Washington DC.
+          7
+            Countries include Burundi, DRC, Rwanda, and Uganda.
+          8
+            Office for the Coordination of Humanitarian Affairs data (2021).
+          9
+            Authors analysis of BOOST database based on National Budget data; period 2017-2021
+
+Mar 16, 2023                                                                                                             Page 4 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          business, hampers market development, and adds significant costs to projects. The government has begun
+          the reform of key state-owned enterprises responsible for service delivery, including the national water
+          utility. However, these reforms principally impact urban services, leaving significant governance gaps in
+          rural areas where alternative service provision models are be strengthened.
+
+          6.       Significant gender gaps as well as high prevalence rates of gender-based violence (GBV) are a
+          significant barrier to women’s full engagement in social and economic life in the DRC and remain
+          correlated with violence and insecurity. DRC ranks 149 (out of 153 countries) as measured by the Global
+          Gender Gap Index from the World Economic Forum. Gender gaps exists across all pillars of the World Bank
+          Group (WBG) Gender Strategy10 and national-level indicators of the World Bank’s Africa Human Capital
+          Plan11 show that girls and women in the DRC are highly disadvantaged in terms of empowerment and
+          agency over life choices and access to basic services (water sanitation, education). Women still face
+          discrimination regarding labor force participation as well as land and property ownership. Furthermore,
+          61.5 percent of female-headed households live under the poverty line.12 Women are less involved in the
+          labor market and are also less likely to have skilled jobs,13 only accounting for 24 percent of professional
+          and technical workers. One quarter of STEM14 graduates are female and only 9 percent of graduates from
+          construction and engineering programs are female15. Addressing women’s economic empowerment
+          requires improving security and household agency, increasing educational attainment and skills,
+          increasing access to capital, and supporting women’s productivity.16
+
+          7.       Women and girls in the DRC experience high levels of violence. In the DRC, according to
+          Demographic and Health Survey (DHS), more than half of all women in DRC have experienced physical
+          violence since the age of 15 (52 percent), and 27 percent of women reported they had been victims of
+          physical violence over the past 12 months,17 most often by a family member but also by teachers, police,
+          soldiers, or armed groups. Levels of acceptability of intimate partner violence in the DRC are very
+          elevated, reflecting the significant socialization and internalization of violence against women as an
+          acceptable norm. This level of violence, higher than Sub-Saharan Africa regional and global averages,
+          represents a critical barrier to women’s and girls’ full participation in the social and economic space.1819
+
+          8.      Climate change poses a serious threat to the country’s weak infrastructure and livelihoods. Due
+          to the vast resources of the Congo basin and a high average annual rainfall of over 1500 mm per year, DRC
+          is generally water rich. The total volume of freshwater withdrawn by major economic sectors is 0.2
+
+          10
+             World Bank Group Gender Strategy 2016–2023. World Bank, Washington DC.
+          11
+             Human Capital Plan for Africa. 2019. World Bank, Washington DC.
+          12
+             https://databank.worldbank.org/source/world-development-indicators.
+          13
+             World Economic Forum (WEF). 2020. Global Gender Gap Index.
+          14
+             STEM = science, technology, engineering, mathematics subjects; The Little data Book on Gender. 2019. World
+          Bank, Washington DC.
+          15
+             https://genderdata.worldbank.org (2016)
+          16
+             World Bank. 2021. Women’s Economic Empowerment in the Democratic Republic of Congo. Obstacles and
+          Opportunities. World Bank Washington DC.
+          17
+             Government of the Democratic Republic of Congo DHS (2014).
+          18
+             Demographic and Health Survey, 2013–2014.
+          19
+            World Health Organization, Global and regional estimates of violence against women: prevalence and health
+          effects of intimate partner violence and non-partner sexual violence, 2013.
+
+
+Mar 16, 2023                                                                                                              Page 5 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          percent of the total resource endowment. Long-term forecasts show more intense and frequent rainfall
+          and an increase in daily mean temperature of 1.5–2.5°C warming by 2050. This would lead to more
+          frequent flooding, increased erosion, and prolonged dry spells. Climate change impacts and vulnerabilities
+          already pose significant challenges and risks in key sectors such as agriculture, urban development, water
+          supply and sanitation, electricity, and human health and compound existing risks from conflict and
+          violence. Progressing climate change will impact DRC’s water security in terms of access to services and
+          water-related risks, hence the need for climate-resilient infrastructure and water resources management.
+          The DRC’s Climate Change and Development Report (in preparation) will assess progressing water security
+          risks and make recommendations for climate-resilient infrastructure development.
+
+
+   Sectoral and Institutional Context
+
+          9.       Despite DRC’s rich water resources, the country faces water security challenges, given the low
+          access rates for water, sanitation, and hygiene (WASH) services20. As of 2020, 48 million (53 percent)
+          people lack basic water access, 76 million lack basic sanitation (84 percent), and 73 million lack basic
+          hygiene services (81 percent)21. DRC is, after Nigeria and Ethiopia, the third largest country in terms of
+          unserved population in Sub Sharan Africa. The scale of the challenge is enormous: 8 million people per
+          year need to gain access to water supply, and 10 million people per year to sanitation to achieve universal
+          access by 2030, one of the Sustainable Development Goals. The most recent household survey found that
+          access in rural areas is much lower than in urban areas across all WSS services.22 Most notably, only 19
+          percent of rural households have access to basic water supply and only 9 percent have access to basic
+          sanitation, whereas 18 percent of rural household still practice open defecation as their primary sanitation
+          solution and just 15 percent of rural households have access to basic hygiene services23.. Not only is access
+          higher in urban areas, but wealthy households are also much more likely to have access to water supply
+          (66 percent versus 14 percent) and basic sanitation (30 percent versus 6 percent) than those in the bottom
+          quintile of the total population.
+
+
+
+
+          20
+             World Bank (2017). WASH Poor in a Water-Rich Country: A Diagnostic of Water, Sanitation, Hygiene, and Poverty
+          in the Democratic Republic of Congo. World Bank, Washington, DC.
+          21
+             JMP data www.washdata.org/
+          22
+             UNICEF (2018) DRC Multiple Cluster Indicator Survey (MICS) Household survey.
+          23
+             Definitions are defined through the Joint Monitoring Program (JMP) of UNICEF/WHO (www.washdata.org). JMP
+          uses national data such as Demographic Health Survey (DHS) and the Multiple Cluster Indicator Survey (MICS).
+          “Basic” water supply is defined as access to an improved water source within a 30-minute-roundtrip time. An
+          improved water source includes piped water (tap stand or yard connection), borehole, handpump, protected
+          spring or dug well. JMP defines “safely managed” water supply as a much higher level of service with access on
+          premises, a reliable supply, and free of contamination. Basic sanitation is defined as access to an improved
+          sanitation facilities not shared with other households. An improved facility includes a pit latrine with slab, a
+          ventilated improved pit latrine, a flush toilet, a pour-flush toilet, or a composting toilet. Basic hygiene means an
+          on-plot handwashing facility with water or soap. Safely managed sanitation means that the household has access
+          to a basic service and where excreta are safely disposed of in situ or treated off site.
+
+Mar 16, 2023                                                                                                                Page 6 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          Figure 1: Access to improved water supply (blue), improved sanitation (green), and prevalence of open defecation
+          (orange) (MICS, 2018)
+
+
+
+
+          10.      Water supply and sanitation access and the prevalence of open defecation is uneven
+          geographically with hotspots in the central provinces, and large number of people without services in
+          the eastern provinces. Figure 1 shows the relative access share for water and sanitation, while 1 provides
+          an overview of people without access at the province level. Not considering Kinshasa24, the biggest
+          contributors to the access gap on water are Kwilu, Kongo Central, Kasai, Kasai Central, Kasai Oriental, Nord
+          Kivu and Sud Kivu. The Multi-Phase Programmatic Approach (MPA) focusses on nine provinces25 identified
+          in the World Bank Group (WBG) FY22-26 as focus areas for operational engagements. The provinces under
+          the MPA were selected based on poverty and stunting levels, synergies with other IDA-financed projects
+          such as in electrification, private sector development, health, education, and governance, and the number
+          of people without water and sanitation services. These nine provinces represent 45 percent of the total
+          population, hosting 50 percent of the people without basic water supply, 47 percent of the people without
+          basic sanitation, and 45 percent of people practicing open defecation (2022).
+          11.      The human capital costs of poor WASH services in DRC are high. WASH is closely linked to
+          malnutrition, stunting, and related health problems, such as diarrhea, ranking among the top five risk
+          factors associated with death and disability in DRC26. More than 40 percent, or about 5.6 million children
+          under the age of five, are stunted27. Women and girls are especially affected by the lack of access to
+          improved WASH infrastructure, as they bear the brunt of collecting water from distant sources. Water
+          collection and open defecation, especially at night, increase their exposure to risk of gender-based
+          violence (GBV). As 58 percent of primary schools lack access to water services and 35 percent have no
+          sanitation facilities28, girls’ learning environment and school attendance is affected. A large majority of
+
+          24
+             Figure 1 refers to access to an improved water source, which explains the high access rate in Kinshasa where
+          there are many informal water points being used in absence of a piped service by REGIDESO
+          25
+             Provinces for phase 2 are preliminary identified as Ituri, Kongo Central, Kasai, Kasai Central, Kasai Oriental, Kwilu,
+          Lomami, Nord Kivu, Sud Kivu. They will be confirmed once phase preparation will start.
+          26
+             Skoufias,Emmanuel; Vinha,Katja Pauliina; Sato,Ryoko. 2019. All Hands on Deck: Reducing Stunting through
+          Multisectoral Efforts in Sub-Saharan Africa (English). Washington, D.C: World Bank Group.
+          27
+             Demographic Health Survey (2014)
+          28
+             JMP (2022) www.washdata.org ; no data available on presence of hygiene facilities (water and soap).
+
+Mar 16, 2023                                                                                                                     Page 7 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          girls report that they do not change absorbents at schools due to lack of suitable space and/or dirty
+          toilets29. Without WASH access at home, school, or work, menstrual hygiene management (MHM)
+          remains a challenge for many women and girls and around 15 percent of women, aged 15-49 state they
+          are not participating in work, school, or social activities due to their periods30. Moreover, lack of WASH
+          access in health clinics impacts the quality of care and limits infection prevention and control. In DRC, 46
+          and 47 precent of health centers have no basic water, respectively sanitation service, while the situation
+          is better for hospitals (15 percent and 25 respectively)31.
+          12.      In a context of state fragility and poor governance, three major institutional weaknesses have
+          plagued the sector: institutional fragmentation, weak capacity, and a bias towards investing in urban
+          water services32. The water sector institutional framework is highly fragmented and poorly coordinated.
+          The Ministry of Water Resources and Electricity (Ministère des Ressources Hydrauliques et Electricité,
+          MRHE) is the key government institution for the water supply sector including developing water sector
+          policies, planning access scale up, and overseeing program implementation, and as such is the main
+          custodian of the implementation of the 2015 Water Law. Although foreseen in the law, a national policy
+          on water supply has not yet been approved33. Under the tutelage of the Ministry of Rural Development
+          (Ministère de Développement Rural, MDR) the National Office for Rural Hydraulics (Office National
+          d'Hydraulique Rural, ONHR) assumes tasks for the development of rural water schemes and support to
+          rural water committees, although this entity has no mentioning in the Water Law. The 2015 Water Law
+          also introduced the establishment of new sector institutions, namely the Water Regulatory Agency
+          (ARSPE, Autorité de Régulation du Service Public de l’Eau) responsible for economic and service level
+          regulation and the development of water PPPs, and the Congolese Water Authority (OCE, Office Congolais
+          des Eaux) responsible for water resources management (WRM) functions, although both entities have not
+          yet been established operationally. While OCE is foreseen to have operational task to help set-up basin
+          committees, develop basin plans, manage water allocations, and collect water resources taxes, the
+          Department for Water Resources (DRE, Direction Ressources en Eau) under MRHE remains responsible for
+          policy and regulatory framework, hosting the hydromet data systems, and issuance of water abstraction
+          permits.
+          13.      Despite significant donor investments in the urban water sector through the national water
+          utility REGIDESO (Régie de Distribution d’Eaux) shows weak performance, operational inefficiencies,
+          and poor financial health. This is due to high levels of technical losses, tariffs that do not support cost
+          recovery, low levels of bill collection and limited use of digital technologies for network management and
+          payments. Weak governance manifests through lack of transparency in reporting, non-implementation of
+          performance standards and human resource issues. The national government has significant arrears to
+          REGIDESO, impacting its ability to make investments to maintain assets, much less to invest in new
+          infrastructure. In response, a REGIDESO restructuring strategy was approved by the Government in
+          September 2021. Since December 2022, a competitively recruited General Director is leading the
+
+
+
+          29
+             UNICEF/Catholic Relief Services (2018). Study on the Management of Menstrual Hygiene in DRC.
+          30
+             UNICEF (2018). Multiple Cluster Indicator Survey
+          31
+             JMP (2022) www.washdata.org ; no data available on presence of hygiene facilities (water and soap/alcohol
+          rub).
+          32
+             World Bank. 2017. WASH Poor in a Water-Rich Country: A Diagnostic of Water, Sanitation, Hygiene, and Poverty
+          in the Democratic Republic of Congo. World Bank, Washington, DC.
+          33
+             A draft national water policy and implementation plan has validated in draft, but not approved.
+
+Mar 16, 2023                                                                                                            Page 8 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          transformation process34, that ultimately aims to set-up autonomous subsidiaries (filiales) at the
+          provincial level, with a transfer of water supply assets to provinces.
+          14.      Under the emerging decentralized governance structure, provinces are mandated to take on
+          the water supply and sanitation investments and service delivery but have not yet been equipped to do
+          so. While decentralization was enshrined in the 2006 Constitution, through its 26 provinces and its over
+          1000 decentralized territorial entities (ETDs, Entitées Teritoriales Décentralizées) little progress has been
+          made thus far. Fiscal transfers to the provinces are only slowly materializing and a dedicated fund to
+          support the provinces and ETDs has not been set-up. The Water Law (2015) mandates provinces to
+          organize WSS service delivery in coordination with the ETDs, although only a few by-laws (mésure
+          d’application) have been issued . This includes the establishment of provincial public water supply units35,
+          or Regies Provinciales (RP) de Service Public d’Eau (RP). The RPs are responsible to develop and oversee
+          water supply/infrastructure services through service delegation contracts with operators. These
+          operators could be i) public, such as REGIDESO (Régie de Distribution d’Eaux) or its future subsidiaries, ii)
+          private through various Public Private Partnership (PPP) contracts, or iii) drinking water associations or
+          ASUREPs (Association d'Usagers de Réseau d'Eau Potable36), that are not-for-profit organizations. There
+          is no register of all ASUREPs at provincial or national level, and often rural water committees operate in
+          full informality without technical support or oversight. With support of other partners, RPs have already
+          been established in Kwilu, Kasai Oriental, and Nord-Kivu.
+          15.      While sanitation37 services, such as collection, treatment and disposal, are absent in urban areas
+          due to the lack of governance framework, no investments and weak institutions, the government is
+          addressing basic on-site sanitation access through its National Roadmap for Eradicating Open
+          Defecation38.The Ministry of Environment and Sustainable Development (Ministère de l’Environnement
+          et Développement Durable, MEDD) oversees the sanitation subsector. The MEDD’s Sanitation Department
+          (Département d'Assainissement, DAS) is responsible for sanitation planning and programming and,
+          building on previous programs39, collaborates with the Ministry of Public Health (MSP, Ministère de Santé
+          Public), notably its department for Hygiene and Public Health (Direction Hygiène et Salubrité Publique,
+          DHSP) at provincial level. In 2022, the Government has embarked upon the development of a framework
+          law for sanitation, that would require future implementation decrees to assign clear institutional
+          mandates long the sanitation service chain (liquid sanitation/sludge)40.
+          16.     The Government of DRC (GoDRC) is in the process of reforming both the water supply and
+          sanitation sector and prepared a national program to improve access and sustainability of services. The
+          National Program for Water, Sanitation and Hygiene 2020-2030 (Programme National d’Eau, Hygiène et
+
+
+          34
+             Three phases are foreseen: (a) the regionalization of REGIDESO’s activities into Regional/provincial Directorates
+          with increased autonomy, (b) the creation of a REGIDESO holding company and gradually establishing REGIDESO
+          subsidiaries (filiales), and (c) the opening up of service provision in provincial capitals for various types of PPPs.
+          35
+             In some provinces they are called Regie Provinciales d’Infrastructure, combining multiple sectors (e.g. including
+          energy)
+          36
+             Under a legal not-for-profit organizational form Association Sans But Lucrative (ASBL)
+          37
+             This refers to the safe containment, collection, treatment, disposal/re-use of fecal matter (septage, fecal sludge,
+          wastewater);
+          38
+             MEDD (2019). Feuille de Route de l’éradication de la défécation a l’air libre en RDC 2020-2030.
+          39
+             Notably the National Healthy School and Village Program that ran until 2019.
+          40
+             in DRC sanitation has a much broader definition, including solid water management, drainage, and other
+          environmental health aspects; sanitation is often referred to as liquid sanitation/sludge management.
+
+Mar 16, 2023                                                                                                                   Page 9 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          Assainissement, PNEHA), lays out the policy priorities and desired investments, setting ambitious access
+          targets of 80 percent for urban water, 60 percent for rural water, 70 percent for sanitation and universal
+          access in schools and health centers by 2030. The PNEHA, budgeted at US$ 8 billion of which the majority
+          is for water supply, has several subprograms and involves all relevant ministries. Annual review of results
+          and spending are not systematically tracked. The National Action Committee for Water Supply, Sanitation,
+          and Hygiene (CNAEHA, Committée Nationale d’Action, d’Eau, Hygiène et Assaisinissement), plays a
+          coordinating role involving MRHE, MDR, MEDD, MSP, and Ministry of Education (Ministère d‘Education
+          Primaire, Secondaire et Tertiaire, MEPST).
+          17.      GoDRC expenditure on WASH is extremely low and budget execution rates are compromised
+          due to the incomplete decentralization process, leaving the sector dependent on donor financing. An
+          analysis of expenditure data over the period 2017-2021 reveals that domestic public expenditure on
+          WASH was only 0.23 percent of overall government expenditure (excluding external funds), a mere 0.02
+          percent of GDP and in absolute terms only US$ 9 million on average annually (capital and recurrent
+          expenditure). When including donor-financed expenditure (US$ 70 million on average annually), the share
+          goes up to 0.13 percent of GDP41. Domestic budget execution rates in the same period are extremely low
+          at just 20 percent, mostly due to dysfunctional transfer and execution process of transfers to provinces
+          and ETDs.
+          18.     The water sector is critical to implement the Government’s response to climate change. As
+          indicated in the Nationally Determined Contributions document42, the Government has committed to
+          reducing its greenhouse gas (GHG) emissions by 21 percent43 from 2021 to 2030—a reduction of around
+          650 million tCO2e compared to business-as-usual emissions. Targeted sectors for GHG emissions reduction
+          include agriculture, forestry, land use, and energy. In the energy sector, the main priority is the
+          development of renewable energy sources, mainly hydropower and solar. The operation of water
+          production and distribution is often among the largest energy consumers in small towns and rural areas
+          and accelerating the use of solar-powered solutions for water system operations is part of the mitigation
+          response. The Government’s National Adaptation Plan to Climate Change 2022-202644 identifies the
+          following adaptation priorities (a) conservation of forest ecosystems and biodiversity; and (b) integrated
+          agriculture, fishing, livestock, and rural development, and (c) water and sanitation, including reducing
+          flood risk, drought and erosion impacts. Climate change is driving the increased spread of many
+          communicable diseases, including diarrheal diseases, cholera, and flooding results in increased spread of
+          pathogens. Low-income communities, often impacted most by floods and droughts, are the most
+          vulnerable to the climate-induced impacts of disrupted water and sanitation systems45.
+
+
+          41
+             Based on analysis of BOOST data set from Ministry of Budget and data from Government Platform on Aid
+          Investments
+          42
+             Deputy Prime Minister’s Office, Ministry of the Environment and Sustainable Development. Nationally
+          Determined Contribution -updated version. for Democratic Republic of Congo
+          https://unfccc.int/sites/default/files/NDC/2022-06/CDN%20Revis%C3%A9e%20de%20la%20RDC.pdf with 19
+          percent to be achieved with external support while 2 percent based on national efforts
+          43
+             Of which 19 percent to be achieved with external support while 2 percent based on national efforts.
+          44
+             Deputy Prime Minister’s Office, Ministry of the Environment and Sustainable Development. National Adaptation
+          Plan to Climate Change 2022- 2026 for Democratic Republic of Congo;
+          https://unfccc.int/sites/default/files/resource/DRC-NAP_EN.pdf
+          45
+             Un Water Conference 2023; Conference paper A/CONF.240/2023/4
+          https://documents-dds-ny.un.org/doc/UNDOC/GEN/N23/028/75/PDF/N2302875.pdf?OpenElement
+
+Mar 16, 2023                                                                                                           Page 10 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          19.      The proposed DRC Water Supply and Sanitation Access Program (Programme d’Accès aux
+          Services d’Eau et d’Aissainissement, PASEA) complements past and ongoing water projects financed by
+          the International Development Association (IDA). In 2009, the Cellule d’Exécution des Projets-Eau (CEP-
+          O) was established under REGIDESO, tasked with the implementation of the IDA financed Urban Water
+          Supply project (PEMU) from 2009-202146. In February 2022, CEP-O was transferred to MRHE to strengthen
+          the implementation capacity of its General Secretariat. The ongoing Kinshasa Multi-sector Development
+          and Urban Resilience Project (Kin Elenda)47 as well as the ongoing Access, Governance, and Reform for
+          Electricity and Water sectors project (AGREE)48 are both implemented through CEP-O. Kin Elenda and
+          AGREE project supports REGIDESO’s transformation, investments and support to Regie Provinciales in two
+          provinces49 and intends to build capacity of nascent institutions such as ARSPE and OCE and supports
+          MEDD in the development of the framework sanitation law (see Box 1). Kin Elenda supports the
+          development of the performance contract between the state and REGIDESO, its transformation plan, and
+          the first fecal sludge treatment plant (FSTP) in Kinshasa.
+          20.      PASEA has synergies with other IDA-funded projects concerning renewable-based
+          electrification, increasing private sector engagement, strengthening governance, and improving
+          education and girls’ empowerment. PASEA, through its focus on building decentralized implementation
+          capacity, is fully aligned with the ENCORE50 project supporting decentralization and execution of fiscal
+          transfers to provinces in four overlapping provinces as well as the development policy financing (DPF) for
+          economic governance reform51, that aims to improve sound public financial management and accelerate
+          SOE-reforms, including of REGIDESO (see Box 1).
+          21.      PASEA complements the AGREE project, benefiting from market development for mini-grids or
+          off-grid solar systems in the Kasais that will support sustainable solar pumping systems in rural areas.
+          Specifically, PASEA will leverage the collaboration with the National Rural Electrification Agency (Agence
+          Nationale d’Electrification et des Services Énergétiques en milieux Rural et Péri-Urbain, ANSER) in building
+          the capacity of solar companies, specifically in deepening skills on solar pumping systems and developing
+          maintenances services for ASUREPs. PASEA will help reinforce the goals of the Girls Empowerment
+          Project52, through investing in WASH infrastructure in primary and secondary schools and changing stigma
+          and social norms around menstrual hygiene. PASEA builds on the TRANSFORME53 project as it aims (in
+          phase 2) to facilitate water operators’ access to commercial finance from participating financial
+          institutions under a dedicated water-window of its existing Partial Portfolio Credit Guarantee (PPCG)
+          scheme. Moreover, PASEA aims to support micro, small and medium enterprises (MSME) in sanitation
+          and hygiene with catalytic grants.
+
+
+
+
+          46
+             Projet Eau en Milieu Urbain (PEMU) (P091092)
+          47
+             Kinshasa Multi-sector Development and Urban Resilience Project (Kin Elenda) (P1711141)
+          48
+             Access, Governance, Reform for Electricity and Water (Eau) Sectors (AGREE) (P173506)
+          49
+             Nord Kivu and Kasai Central
+          50
+             Enhancing Collection of Revenues and Expenditure Management Project (ENCORE) (P171762)
+          51
+             DRC Foundational Economic Governance Reform program (Development Policy Financing, DPF) (P179141)
+          52
+             DRC Girls Empowerment Project (P178684); coordination on the targeting of secondary schools will be ensured
+          through the provincial education departments
+          53
+             Empowering Women Entrepreneurs and upgrading MSMEs for Economic Transformation and Jobs in DRC project
+          (P178176)
+
+Mar 16, 2023                                                                                                         Page 11 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          Box 1. Overview of broader economic and governance reforms relevant for water and sanitation and outcomes
+
+               Water and Sanitation reforms under AGREE and Kin Elenda projects (2022-2028)
+
+               Focus of reform and interventions:
+
+                 REGIDESO transformation process with state performance contract and improvement plan(digitalization)
+                 REGIDESO retructuring process:
+                  (i) increasing autonomy and viability of provincial directorates
+                  (ii) estabslishment of holding with subsidairies (filiales); pilots in Nord Kivu and Kasai Central/Kasai
+                 Automatic payments to REGIDESO for water bil of Instances Officielles (public institutions) and ban of free
+                  water
+                 Operationalize basic functions of ARSPE and OCE (staff, operational procedures, regulatory instruments)
+                 Techncial assistance to develop sanitation framework law at national level
+
+
+               ENCORE and Economic Governance Reform DPF (2022-2026)
+
+                  Competetive recruitment of REGIDESO General Manager and Chairman of REGIDESO Board
+                  Enhancement in financial reporting and auditing for REGIDESO
+                  Overall system and human resources improvements for Public Financial Management (PFM)
+                  Capacity building for PFM at provincial level and incentives to realize fiscal transfers to ENCORE pilot
+                   provinces (include the three Kasais provinces)
+
+
+               Envisioned governance and service delivery outcomes:
+
+             Leadership and changed organizational culture in support of REGIDESO transformation
+             Increased transparency and improved financial position of REGIDESO (reduced government debt)
+             More accountable, decentralized management of REGIDESO provincial directorates and successfull pilot of
+               subsidiarization (filiales) under oversigth of Regies Provinciales; readiness for replication in other
+          22. provinces
+                  Development partners support the Government’s efforts in the water and sanitation sector in
+             Updated and
+          a coordinated       cost-reflective
+                            manner.            water tariffs;
+                                        Development           basic functioning
+                                                         partners’                of economic
+                                                                       interventions            regulation through the Donors
+                                                                                         are oordinated
+             IncreasedGroup,
+          Coordination    transparency,
+                                 co-chairedeffectiveness
+                                                by UNICEFandandcredibility in budgeting
+                                                                   the World     Bank. Inand
+                                                                                           thePFM
+                                                                                                water sector, key donors are the
+              Increased  fiduciairy comptencies    for budget   execution   at
+          German Agency for International Cooperation (Deutsche Gesellschaft fürnational and provincial  level
+                                                                                                 Internationale Zusammenarbeit,
+          GIZ), German Development Bank (Kreditanstalt für Wiederaufbau, KFW), African Development Bank
+          (AFDB), USAID (United States Agency for International Development), International Committee of the Red
+          Cross (ICRC), and others have investment in infrastructure development, master planning, and technical
+          assistance (TA) to support the reform, strengthen MRHE, REGIDESO, private operators, and the set-up of
+          several Regies Provinciales. For rural areas, PASEA design draws on lessons from PRISE54, a project financed
+          by AfDB and lessons from ASUREP management of peri-urban systems, implemented through ENABEL,
+          the Belgian technical cooperation agency. PASEA has incorporated lessons from the UNICEF supported
+          National Healthy Schools and Village Program (PNEVA, Programme Nationale Ecoles et Villages
+          Assainisses) and the implementation of MEDD’s Roadmap to End Open Defecation. PASEA complements
+          investments in urban water supply by KFW and AFD in the Kasai region, utilizing production capacity
+          managed by REGIDESO for extensions to peri-urban areas.
+
+          54
+                PRISE = Project for the Reinforcement of Socioeconomic Infrastructure in the Central Region
+
+Mar 16, 2023                                                                                                                    Page 12 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          23.      The MPA responds to pressing institutional challenges, opportunities for the private sector, and
+          to access gaps in water supply and sanitation services in rural and peri-urban areas, requiring a long-
+          term approach. Expanding basic service provision for households, businesses and community institutions
+          is aimed at human capital development and trust building between the state and its citizens. The project
+          will enhance rural water security through provincial WSS investments and WRM measures, technical
+          support and better coordination mechanisms among all involved stakeholders. To increase climate
+          resilience, the MPA will develop MEDD and OCE’s capacities for sub-basin planning and groundwater
+          management. The MPA will design climate resilient infrastructure and support low-carbon solar-based
+          water pumping. The MPA with its learning agenda, allows adaptive implementation, especially for
+          innovative elements and on how to support government-led implementation at scale. The MPA will also
+          engage in longer-term reforms, such as on rural water, private sector development, and urban sanitation,
+          where big gaps exist.
+
+
+
+   C. Proposed Development Objective(s)
+
+
+
+  Development Objective(s) (From PAD)
+  To increase access to basic drinking water supply and sanitation services in selected provinces of DRC and to strengthen
+  the capacities of the public and private sector for water and sanitation service delivery
+
+
+   Key Results
+
+          24.     The proposed PDO-level indicators for phase 1 are:
+                  (a)   People provided with access to at least basic drinking water services (number),
+                        disaggregated by basic drinking water service, safely managed drinking water service,
+                        people in rural areas, people in (peri-) urban areas, female.
+                  (b)   People provided with access to basic sanitation services (number), disaggregated by
+                        people ending open defecation, people in rural areas, people in (peri-) urban areas,
+                        female.
+                  (c)   Provincial Units for Water Supply (Regies Provinciales) are established and fully
+                        operational (number)
+                  (d)   Provinces with governance framework assigning institutional mandates for sanitation
+                        (number)
+                  (e)   Water operators performing satisfactorily as per delegation agreements/contracts
+                        (Percentage)
+                  (f)   Sanitation and hygiene enterprises entering and active in the market (number)
+
+          25.     The proposed Program Development Objective (PrDO) is to scale-up access to basic drinking
+          water supply and basic sanitation services in selected provinces of DRC and to strengthen institutions
+          for water and sanitation service delivery. The Project Development Objective (PDO) for phases 1 and 2
+          are proposed to be the same: to increase access to basic drinking water supply and sanitation services in
+          selected provinces of DRC and to strengthen the capacities of the public and private sector for water and
+
+
+Mar 16, 2023                                                                                                    Page 13 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          sanitation service delivery. Phase 1 focusses on the provinces of Kasai, Kasai Central, Kasai Oriental, and
+          Kwilu, as these provinces have both high absolute numbers of unserved people, including high levels of
+          open defecation, and were identied as priority by the Government. They also offer immediate synergies
+          with the World Bank’s support to provincial decentralization under ENCORE project and AGREE project.
+          Additional five provinces have preliminairy been selected for phase 2, including Ituri, Kongo Central,
+          Lomami, Nord Kivu, and Sud Kivu, underserved provinces in central as well as eastern DRC, the latter
+          affected by conflict and violence. Phase 3 scales-up implementation in the four “phase 1 provinces”, and
+          phase 4 across the five “phase 2 provinces”.
+
+          26.     The proposd PDO for phases 3 and 4 is to increase access to basic drinking water supply and
+          sanitation services in selected provinces of DRC and to strengthen institutions for sustainable service
+          delivery. Table 1 includes the PrDO level results indicators measuring the scale-up in terms of additional
+          number of people provided with access to basic water and basic sanitation services, broken down per
+          phase. These estimates assume the leveraging of US$ 250 million of donor co-financing and US$ 150
+          million of government co-financing under phases 3 and 4. This translates in a projected relative access
+          change across all nine provinces from 32 to 58 percent access to basic water, and from 10 to 32 percent
+          access to basic sanitation55. Although the challenge of universal access is enormous, especially given the
+          high population growth of DRC of around 3 percent, the MPA is expected to build a solid implementation
+          foundation that will - beyond the MPA - allow further acceleration through a nation-wide scale-up
+          program.
+
+                  Table 1. Overview of Program Development Objective Indicators
+                                          Additional people with access to        Estimated % change in provinces
+                                          basic drinking          basic         basic drinking           basic
+                                              water            sanitation           water             sanitation
+                  Phase 1: 4
+                  provinces                 3,000,000          2,000,000      From 14% to 30%      From 4% to 15%
+                  6/2023 - 6/2029
+                  Phase 2: 5
+                  provinces                 3,750,000          2,500,000      From 43% to 49%     From 12% to 20%
+                  7/2026 - 7/2031
+                  Phase 3: 4
+                  provinces                 2,000,000          1,500,000      From 22% to 36%     From 10% to 20%
+                  1/2027 - 6/2032
+                  Phase 4: 5
+                  provinces                 2,500,000          2,000,000      From 47% to 53%     From 16% to 24%
+                  1/2029 - 6/2034
+                  Total: 9 provinces
+                                           12,250,000          8,000,000      From 32% to 58%     From 10% to 28%
+                  6/2023 - 6/2034
+
+
+
+
+          55
+            Estimates are based on Multiple Cluster Indicator Survey, 2018 data and National Institute of Statistics; Coverage
+          estimates are indicative.
+
+Mar 16, 2023                                                                                                               Page 14 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+   D. Project Description
+
+          27.      The overall program framework includes a proposed MPA financing envelope of US$ 1.25 billion
+          over an eleven-year implementation framework. The four phases are simultaneous each with a duration
+          of 5.5 to 6 years. Phase 2 is used for geographic expansion across more provinces, while deploying phases
+          3 and 4 are used to scale-up within the already participating provinces. During phase 1, under the
+          coordination of the Project Coordination Unit (PCU), the second phase 2 will be prepared in the additional
+          five provinces, ensuring for readiness. Also the foundations for a coherent national WASH platform will
+          be prepared, with a financing plan, and sector review mechanism. Phase 2 will be used to prepare for
+          phases 3 and 4, including all assessments reuired to shift to a PforR instrument, aligned with the
+          reinvigorated national program. Each phase preparation will include a province-led validation process to
+          prioritize ETDs, based on criteria such as people without services, level accessibility, the presence of larger
+          villages and growth centers, and some clustering to increase efficiency of implementation. Within each
+          ETD, an area-wide approach will be used to create significant impact. Phase 3 and 4 will be used to select
+          additional ETDs, including those villages that may have more challenging accessibility.
+
+          28.      Phase 1 includes performance based conditions (PBCs) to incentivize improvements in the
+          governance framework, encourage a result-based culture, and emphasize sustainability. PBCs may be
+          continued under phase 2. The first two phases will develop a better enabling environment for private
+          sector growth in rural and peri-urban WSS service provision, and increase the comptencies of PPIUs and
+          provincial actors, and reducing risks that come with scaling-up investments, potentially through a PforR
+          (with IPF component) in phases 3 and 4. Phase 1 will focus on the most underserved provinces of DRC,
+          that represent around 18 percent of the population, host 31 percent of those without water, 23 percent
+          of those without sanitation, and 33 percent of people that practice open defecation. Phase 2, expanding
+          to five other provinces will follow in 2026, with similar activities, ensuring adaptation to the fragility and
+          complex governance context in eastern DRC.
+
+          29.      Informed by evidence-based learning, phase 1 and 2 will develop scalable water supply and
+          sanitation service delivery models, while strengthening national and provincial sector governance and
+          financing (see Table 3). Specifically for the rural water sector, mandates are ambiguous and not aligned
+          with the Water Law. ONHR56 - including its deconcentrated provincial offices - is weakly resourced and
+          other than salary payments of staff, the agency has a poor track record of investment execution57. This
+          results in the de-facto absence of rural water maintenance and institutional support to water operators.
+          Hence, phase 1 and subsequent phases aim to reorganize rural water development and support functions,
+          in line with the Water Law and decentralization. This would mean the integration of rural water
+          investment implementation functions within the Regies Provinciales – as maitre d’ouvrage - and the
+          development of support functions for rural water operators though restructuring of ONHR58. To strenghen
+          financing for rural and peri-urban water supply, phases 1 and 2 aim to establish a water fund to finance
+          capital maintenance, rehabilitation and development of new infrastructure, that could receive different
+
+          56
+             An agency not mentioned in the Water Law, bears responsible for rural water supply development and
+          maintenance support as per its Prime Minister’s establishment decree.
+          57
+             BOOST database 2016-2021 indicates that budget execution for non-salaries has been only CDF 3.8 billion (total
+          for 2018 and 2019), or US$ 2.4 million (in 2018/2019 prices).
+          58
+             Phase 1 will develop a costed implementation plan for strengthening rural water functions/ ONHR evolvement,
+          however, future Development Policy Financing (DPF) operations may be required to support full implementation.
+
+Mar 16, 2023                                                                                                             Page 15 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          sources of finance, namely lease payments of operators (redevence), provincial budget allocations and
+          national budget transfers. Subsequent phases would consolidate the mechanisms and crowd in financing
+          for execution, including domestic resources.
+
+          30.      Phases 1 and 2 of the MPA will follow the same component structure, although interventions
+          adopted to the specific context in the provinces selected, as folows:
+               Component 1: Increasing access to and capacities for drinking water supply service delivery
+              1.1 Increasing access to basic water supply in rural and peri-urban areas
+              1.2 Improving performance of private and not-for profit water operators
+              1.3 Strenghening public institutions and capacity for scaled-up water services
+               Component 2 Increasing access to and capacities for sanitation service delivery
+              2.1 Increasing access to basic sanitation in rural and peri-urban areas
+              2.2 Improving water, sanitation and hygiene in institutions
+              2.3 Developing the private sector for sanitation and hygiene
+              2.4 Strengthening public institutions and capacity for scaled-up sanitation services
+               Component 3 Program management and learning
+               Component 4 Contigency Emergency Response Component (CERC)
+
+          31.     As per the Program framework the components are similar across all program phases. The
+          components are structured along the different services and institutional mandates, with component 1
+          pertaining to water supply and component 2 to sanitation and hygiene, including the improvement of
+          WASH facilities within schools and health centers. In phase 1, a total of 39 ETDs have been selected,
+          validated by the provinces in March 2023. Across these 39 ETDs, there are 12 ETDs where REGIDESO is
+          already operating water systems and where extensions/rehabilitation in the urban centers (or rural
+          growth centers) will be supported. Phase 3 intends to scale-up both within these ETDs to more difficult to
+          reach areas, as well as to additional ETDs.
+
+          32.     Phase 1 introduces five Performance Based Conditions (PBCs) to incentivize important reforms
+          and encourage result orientation for implementation, equating US$ 58 million or 14.5 percent of project
+          funds. Three PBCs are introduced to emphasize and incentive important institutional and governance
+          milestones in water and sanitation that are critical for the PDO achievement and will be a foundation for
+          to scale-up investments under subsequent phases (PBC1, PBC2, PBC5). Two other PBCs are introduced to
+          increase result orientation for sanitation access, critical for the PDO, as well as sustainability aspects
+          important for efficient investments, and – under phases 3 and 4 – the result orientation through potential
+          PforR instruments will be further incentivized. Table 2 and the component description below further
+          explains the rationale and eligible expenditure under the PBCs.
+
+
+
+
+Mar 16, 2023                                                                                                     Page 16 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          Table 2. Overview of Performance Based Conditions and allocation (in US$)
+                     PBC Indicators                                              Scalability formula                 PBC expenditure
+                                                                                                                        allocated
+
+
+                                      PBC 1.1 Adoption of a national water supply              Not scalable            1,000,000
+                             policy                                                             Not scalable            1,000,000
+                     PBC 1            PBC 1.2 Adoption of an implementation plan for
+                             strengthening of rural water mandates
+                                      PBC 2.1 Two Regies Provinciales operational         500,000 per province         1,000,000
+                             (Kasai and Kasai Central)
+                                      PBC 2.2 Four provinces adopt governance             500,000 per province         2,000,000
+                             framework for water supply operators
+               1.3                    PBC 2.3 Four provinces established                  500,000 per province         2,000,000
+                             infrastructure maintenance and development fund for
+                     PBC 2
+                             water supply                                                  250,000 per province         1,000,000
+                                      PBC 2.4 Four RPs have an operational MIS for
+                             montiroing of operators                                       250,000 per province         1,000,000
+                                      PBC 2.5 Four RPs have service delegation
+                             contracts with at least 75% of water operators (year 5)       250,000 per province         1,000,000
+                                      PBC 2.6 Four RPs publish their first annual
+                             monitoring report
+                                      PBC 3 : Number of households that live in             100 per household         24,000,000
+                             villages or neighborhoods (quartier) that are certified as    living in ODF certified
+                     PBC 3
+               2.1           ODF                                                               village/quartier
+                             Cumulative target of households within ODF villages is
+                             240,000 over the duration of the project
+                                      PBC 4.1 Share of WASH facilities in schools and       100,000 per % of           8,000,000
+                             health centers that is functional, accessible, well               achievement
+                             maintained
+                                      PBC 4.2 Share of WASH facilities in schools and       100,000 per % of           8,000,000
+               2.2   PBC 4   health centers that is functional, accessible, well               achievement
+                             maintained
+                             1st monitoring round includes at least 200 and 2nd
+                             monitoring round at least 500 facilities
+                                      PBC 5.1 Four provinces adopt governance             1,000,000 per province       4,000,000
+                             framework assigning institutional mandates for
+                     PBC 5
+               2.3           sanitation                                                     1000,000 per CWIS           4,000,000
+                                      PBC 5.2 Four city-wide inclusive sanitation plans          plan
+                             are endorsed through provincial validation workshops
+                             Total                                                                                     58,000,000
+
+          Component 1: Increasing access to and capacities for drinking water supply service delivery (IDA: US$
+          262 million)
+
+          33.     Component 1 supports the government to implement water sector reforms at national level,
+          improve governance and public sector capacities at provincial level. This component supports the
+          government to implement water sector reforms at national level and improve governance and public
+          sector capacities at provincial level. It will develop climate-resilient infrastructure for water supply
+
+Mar 16, 2023                                                                                                                        Page 17 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          services and strengthens the capacity and performance of domestic private, not-for- profit operators, and
+          of REGIDESO provincial directorates and will deliver qualified water solar pumping technicians for the
+          market. Sustainable yield assessments It consists of three subcomponents.
+
+           34.      Subcomponent 1.1: Increasing access to basic water supply in rural and peri-urban areas (IDA
+           US$ 215.1 million) will finance climate-resilient and low-carbon solar-powered water supply
+           infrastructure development and related preparation, construction, and supervision costs to increase
+           access water services. This subcomponent includes:
+            i. construction of new water supply systems and the expansion and rehabilitation of existing water
+               supply systems including water source intake (boreholes), solar energy systems with back-up
+               generators, water production facilities, storage/reservoirs, conveyance, distribution networks, water
+               kiosks, household connections, bulk and pre-paid meters
+           ii. financing of Design-Build-Operate contracts (DBO) to design, construct and support operation of new
+               water supply systems
+          iii. feasibility and other preparatory technical, environmental, social and financial studies, development
+               of design and bidding documents (including DBOs), construction supervision of water subprojects,
+               implementation support for resettlement action plans (RAP) and indigenous population plans (IPP)
+          iv. implementation costs, including motorbikes, of local ONHR staff to support baseline and preparation
+               studies, construction supervision, and facilitate the establishment of ASUREPs for water scheme
+               operation and technical follow-up support to scheme operators
+
+           35.     Subcomponent 1.2: Improving performance of private and not-for profit water operators (IDA
+           US$ 23.0 million) will include market enabling measures to increase private sector involvement, technical
+           assistance, capacity building, equipment for private and not-for-profit water operators59 and result-based
+           financing to extend service perimeters. This subcomponent includes:
+            i. transaction advisory services to the Regies Provinciales for structuring PPP contracts
+           ii. result-based grants to eligible private and not-for-profit operators to expand water services in
+               unserved areas and/or increase water and energy efficiency; associated technical assistance for fund
+               management and monitoring of results of the grants
+          iii. technical assistance, equipment, and training for local private and not-for-profit operators on water
+               system operations, business planning, and environmental and social compliance of result-based
+               grants for extension subproject; water quality monitoring equipment and training
+          iv. technical assistance to ANSER to prepare solar pumped water system maintenance contract, training,
+               and business coaching for solar energy enterprises to deliver maintenance services
+
+          36.      Subcomponent 1.3 Strengthening public institutions and capacity for scaled-up water services
+          (IDA US$ 23.8 million) will support policy development and institutional strengthening of public entities
+          at national and provincial levels, help operationalize and capacitate Regies Provinciales to fulfill their
+          oversight and monitoring functions, prepare for scale-up of investments under subsequent phases. There
+          are two performance conditions (PBCs) under this component, as summarized in table 2. PBC1 - with two
+          sub-PBCs - relates to the issuance of a Prime Minister’s decree for a national policy on drinking water
+          supply, including an implementation plan to strengthen rural water development functions. The policy
+          will be developed through a multi-stakeholder approach, under leadership of the Prime Minister’s Office,
+
+          59
+            These are also referred to as community-based operators, drinking water associations, or ASUREPs. Annex 4
+          provides a detailed assessment of the functioning and challenges of ASUREPs within the DRC context.
+
+Mar 16, 2023                                                                                                            Page 18 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+            and stipulate, among others, the roles and responsibilities pertaining to rural water supply and a plan to
+            support ONHR’s transformation in line with decentralization. PBC2 - with 6 sub-PBCs - relates to the
+            establishment and strengthening of the Regies Provinciales, their functioning as maitre d’ouvrage, their
+            ability to transparently monitor water operators under service delegation contracts, and the
+            estabslishment of a water supply capital maintenance and development fund. The subcomponent will also
+            develop human resources for water sector jobs and support job-placement in the water sector in high-
+            demand technical areas such as solar-based water systems, with a special focus to attract women. This
+            subcomponent finances the following activities, with expenditures linked to PBC 1 and PBC 2:
+             i. technical assistance and studies to develop a national water policy, a policy implementation plan, with
+                focus on rural water strengthening aligned with the Water Law and decentralization,
+            ii. technical assistance to four Regies Provinciales to recruit and train staff, develop, and implement a
+                provincial governance framework for managing service delegation contracts, operational manuals,
+                establish a maintenance and development fund, develop and install a MIS system60
+           iii. equipment (office equipment, ICT, heavy duty maintenance equipment for water systems), vehicles,
+                training and workshops, and operational costs for four Regies Provinciales and the construction or
+                rehabilitation of office buildings in Kwilu and Kasai province61
+            as well as the following activities (non-PBC linked)
+           iv. a medium-term financing plan for national WASH program, and annual monitoring and review for the
+                national WASH program led by CNAEHA and in collaboration with all relevant ministries
+            v. technical assistance to design and implement public communication and citizen engagement
+                campaigns62 to incorporate feedback of citizens to improve local management of water systems
+           vi. technical assistance to ARSPE for economic regulatory instruments and governance framework for
+                overseeing water operator performance
+          vii. technical assistance and equipment to REGIDESO (Kwilu, Kasai, Kasai Oriental)63 to prepare and
+                implement a performance improvement plan, including NRW and energy efficiency improvements
+         viii. office/ICT/technical equipment and training for ONHR deconcentrated offices in the four provinces
+           ix. technical design studies for scale-up of phase 3 water supply subprojects in four provinces
+            x. technical assistance and groundwater studies to the DRE and OCE for the delineation of sub-basins and
+                the preparation of climate-informed sub-basin water management plans
+           xi. installation of hydromet and groundwater monitoring points in the Kasai sub-basin
+          xii. development and implementation of vocational training and higher education programs on solar-
+                pumped water systems in collaboration with existing education institutes, including stipends and job-
+                placements programs, specifically encouraging women participation.
+
+          Component 2: Increasing access to and capacities for sanitation service delivery (IDA: US$ 105 million)
+
+          37.      Component 2 supports national and provincial government to further develop the legislative,
+          institutional and planning framework for sanitation, while focusing investments on increasing access to
+
+          60
+             The MIS system for provinces is expected to be linked to a national system; it may feed into the data needs of
+          ARSPE, with ARSPE MIS system financed under AGREE project; with support of GiZ, the mWater platform is piloted
+          at several RPs.
+          61
+             AGREE project supports Kasai Central; GiZ supports Kasai Oriental building for the RPs
+          62
+             AGREE project finances dissemination campaigns about the Water Law, targeting government institutions, and
+          civil society.
+          63
+             REGIDESO Kasai Central is supported through the AGREE project
+
+Mar 16, 2023                                                                                                            Page 19 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          basic sanitation, and improving WASH in schools and health centers. Institutional development, business
+          coaching and market development activities are critical to catalyze private sector growth and behavior
+          change communication is needed to create demand for sanitation services, combined with incentives and
+          investments. It includes the following four sub-components.
+
+          38.       Sub-component 2.1: Increasing access to sanitation and hygiene in rural and peri-urban areas
+          (IDA US$ 56.4 million) will finance the implementation of the GoDRC’s roadmap to end open defecation
+          (Feuille de Route – finalization défécation à l'air libre (FDAL)) as well as investments in FSTPs in four cities
+          in the four provinces. Informed by existing experiences of CLTS in DRC64, differentiated approaches will be
+          used for rural and (peri-) urban areas to achieve open defecation free (ODF) villages and neighborhoods
+          (quartiers)65. In rural areas, CLTS is combined with material support to communities to construct more
+          durable latrine solutions (e.g. cement slabs, plastic pans, pit-lining) that are more resilient to climate
+          change and mitigate the spread of pathogens. In peri-urban areas an adapted CLTS approach is combined
+          with sanitation marketing activities and the use of e-vouchers to provide households with subsidies on
+          toilet installation, stimulating the development of local enterprises with skills in toilet installation.
+          Achieving ODF requires an effective community behavior change process facilitated by local facilitation
+          teams, consisting of DAS and DHSP cadres at the health zone (ZdS, zone de santé) and health unit (AdS, aire
+          de santé) level, the set-up of local sanitation committees66 (village/quartier level) with a team of
+          community sanitation mobilizers tasked with door-to-door visits, planning and follow-up67. To increase
+          result orientation, these implementation actors (local cadre and community volunteers) will receive a
+          result-based compensation once villages/quartiers are certified68 as ODF. Under this sub-component, PBC
+          3 is included to incentivize achievement of community wide ODF results, with a total allocation of US$ 24
+          million, based on a scalable approach, with an amount of US$ 100 per household with access to basic
+          sanitation that lives in an ODF certified community (village or quartier) and a target of 240,000 households.
+          The ODF achievements are subject to verification by an independent verification agent (IVA). This
+          subcomponent finances the following activities, with expenditures linked to PBC 3:
+              i. technical assistance to support CLTS training, supervision of material delivery (rural), latrine
+                 construction and monitoring, executing ODF-based compensation payment and ODF celebration
+                 (upon verification by IVA)
+             ii. technical assistance for managing the sanitation e-voucher scheme (urban)
+            iii. technical assistance for identification and on-the-job coaching of toilet installation enterprises
+
+          64
+             The use of CLTS approaches in DRC is well documented; see World Bank. 2021 Progress Toward Healthy Villages:
+          Preliminary Evidence from a Randomized Control Trial of a Community-Driven Water, Sanitation, and Hygiene
+          Program in the Democratic Republic of Congo. Interim results indicate that through the provision of additional
+          materials combined with CLTS, the quality of latrines has improved with statistical significance (e.g. squat holes
+          covered with slab, footrests, elevated latrine).
+          65
+             The (peri-urban) approach will be implemented, as a priority, in the peri-urban areas of the four cities Kikwit,
+          Mubji Mayi, Kananga and Tshikapa, where also pilots on fecal sludge management will take place. An existing
+          sanitation planning tool will be used, with a typology characterization rural remote, rural on-road, rural mixed, and
+          (peri-) urban. https://www.sanplan.app/maps/dem_rep_congo
+          66
+             These are established under existing Community Development Committees (CDC, Comité de Développement
+          Communautaire) that are mostly present in all communities.
+          67
+             These sanitation mobilizers are recruited among existing community mobilization cadres, namely the Relais
+          Commaunitaires (ReCos)or members of the Cellule d’Animation Commaunitaire (CAC)
+          68
+             An independent certification committee at the level of the urban commune or the territory (territoire) is set up,
+          consisting of government cadre and civil society not involved in the implementation of the FDAL activities.
+
+Mar 16, 2023                                                                                                                Page 20 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+                 participating in e-voucher scheme (urban)
+             iv.     materials and goods for toilet construction of latrines provided to participating communities
+                (rural)
+                as well as the following activities:
+              v.     implementation cost for ODF activities in villages and quartiers by local cadre of DAS and DHSP, as
+                well as ODF certification committees (including motorbikes for local cadre)
+             vi.     workshops and training for ODF activities, including for DAS, DHSP, masons, local sanitation
+                committees and community mobilizers
+            vii.     result-based compensation for facilitator teams and community mobilizers operating at village and
+                quartier-level
+           viii.     costs of e-vouchers (subsidies) for toilet installation for eligible households (urban)
+             ix.     feasibility, design and preparation studies for fecal sludge treatment plants (FSTPs), supervision
+                costs of construction and implementation support for resettlement action plan
+              x.     civil works for FSTPs, including works required for producing reusable products.
+
+        39.          Sub-component 2.2: Improving water, sanitation and hygiene in institutions (IDA US$ 35
+        million) will improve access to WASH facilities in selected schools (400) and health centers (200) in the
+        selected ETDs, while focusing on O&M arrangements for sustainability of WASH facilities and empowering
+        girls in menstrual hygiene management (MHM). Schools and health centers will be prioritized in the same
+        villages/quartiers that benefit from water supply interventions to guarantee water access69. Technical
+        designs for the facilities will be inclusive and responsive to the needs of women and girls and people living
+        with disabilities. This subcomponent includes a total allocated amount in PBC-linked expenditures of US$ 16
+        million, equally divided over PBC 4.1 and PBC 4.2. PBC 4 aims for accessible, operational, and well-
+        maintained water points, toilets and handwashing facilities that can continued to be used by patients,
+        students and staff. It will increase accountability of school administration, and hospital management
+        committees70 to ensure that costs of water, soap, toilet maintenance and cleaning are prioritized in budgets
+        and attitudes towards the importance of WASH facilities change. PBC 4.1 and PBC 4.2 are scalable and
+        measure the share of WASH facilities in schools and health centers that is functional, accessible, and well-
+        maintained in two consecutive monitoring rounds, with US$ 100,000 per percent achievement (assuming
+        80 percent as target). The subcomponent finances the following activities, with expenditures linked to PBCs
+               i.    technical design and supervision costs for the construction and/or rehabilitation of water supply
+                 connections (or water points) for health centers and schools, toilet facilities for students and teachers,
+                 and handwashing facilities
+              ii.    new construction and/or rehabilitation of the WASH facilities in schools
+             iii.    technical assistance to develop policies for sustainable operation of WASH facilities in schools and
+                 health centers, including monitoring and feedback systems
+             iv.     training and workshops for O&M committees for WASH facilities in schools and health centers to
+                 ensure sustainable operations
+         as well as the following activities:
+              v.     new construction and/or rehabilitation of the WASH facilities in health centers,
+             vi.     implementation costs for the MESTP-Department of Infrastructure Services (DNAC, Direction
+                 National de Construction) and the MESTP-Department of Life Skills Education (DEVC, Direction
+
+          69
+           Criteria will be defined in the project implementation manual (PIM) and based on baseline assessment results.
+          70
+           Health centers fall typically under the overall management and budget responsibilities of General Referral
+          Hospitals
+
+Mar 16, 2023                                                                                                               Page 21 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+                Education Vie Courante) to supervise construction, set-up O&M committees, and support MHM
+                activities
+           vii.      technical assistance to develop and deliver MHM extra-curricular activities for girls in schools and
+               communities71 and supply of reusable hygienic pads for girls participating in activities.
+
+          40.        Sub-component 2.3: Developing the private sector for sanitation and hygiene (IDA US$ 5.9
+          million) includes market enabling and catalyzing measures to support capacity development of private
+          sector involved in delivery of sanitation and hygiene products and services for peri-urban and rural growth
+          centers. The subcomponent includes:
+             i.      technical assistance for development of marketing and behavioral change communication
+               strategy and tools, and the development of business models and supply chains
+            ii.      training costs for local contractors/enterprises in peri-urban sanitation (sludge emptiers, toilet
+               installation)
+           iii.      catalytic grants for enterprises to develop sanitation and hygiene products and services (such as
+               manufacturing/sales of plastic toilet pans, hygiene products, latrine installation and pit/sludge
+               emptying)
+           iv.       technical assistance for the design, management, and monitoring of the catalytic grant program
+            v.       sludge emptying vehicles and equipment for emptiers to be leased by ETDs to private sector
+
+          41.        Sub-component 2.4: Strengthening public institutions and capacity for scaled-up sanitation
+          services (IDA US$ 13.3 million) will advance institutional reforms, build public sector capacity for
+          sanitation service delivery at national and provincial level, prepare for scale-up of investments under
+          phase 3, and develop a pipeline f PBC5, with an allocated amount of US$ 8 million, equally divided over
+          two scalable sub-PBCs. PBC 5.1 incentivizes provincial governments to issue a decree that stipulates the
+          institutional framework for urban sanitation, while assigning the roles and responsibilities of provinces
+          and city administrations and clarifying the involvement of private sector along the sanitation service
+          chain72. PBC 5.2 incentivizes the development, consultation, and provincial validation73 of city-wide
+          inclusive sanitation (CWIS) for the four cities of Kikwit, Mbuji Mayi and Kananga that will guide
+          investments under phase 3. The subcomponent will also develop human resources for sanitation and
+          hygiene sector jobs and support job-placement for latrine construction, hygiene pad production, FSTP
+          operations and other environmental engineering, with a special focus to attract women The
+          subcomponent finances the following activities, with expenditures linked to PBCs
+             i.      technical assistance for the development of implementation decrees (by-laws) for the foreseen
+               Sanitation Law74
+            ii.      technical assistance to develop provincial legislative and institutional framework for urban
+               sanitation, regulations, and standard contracts (for FSTP operators, licensing regime and leases for
+               sludge emptiers)
+
+
+          71
+             The MHM program is targeting additional 400 schools without infrastructure investments
+          72
+             It would clarify the arrangements for the management of FSTPs, management of networked sanitation with
+          wastewater treatment plants, oversight and regulatory roles, requirements of the private sector in providing
+          emptying services, and roles to support the safe containment at household level.
+          73
+             Given that urban city councils are not yet operational in all cities, a provincial validation workshop, co-led by the
+          mayor’s office of the respective city will be used to adopt the CWIS plan for implementation.
+          74
+             AGREE project already support the development of the Sanitation Law; however, several implementation
+          decrees will be required to clarify technical standards, institutional arrangements, etc.
+
+Mar 16, 2023                                                                                                                    Page 22 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+            iii.      technical assistance to prepare CWIS plans for four cities and for implementation of
+                accompanying measures (e.g. marketing campaigns, customer service centers, operational
+                procedures)
+            iv.       preparation studies to scale-up of (peri-urban) sanitation investments in phase 3, as identified
+                in CWIS plans
+             v.       workshops and materials to support dissemination of sanitation law; consultation and validation
+                workshops for the CWIS plans
+            vi.       equipment for four city sanitation departments to support the CWIS pilots
+                as well as the following activities
+           vii.       technical assistance to develop national rural sanitation MIS and support use in four provinces,
+                including for annual planning and regular MIS-based learning and reviews
+          viii.       technical training and workshops for provincial stakeholders on sanitation institutional
+                framework and regulations and ODF roadmap progress reviews
+            ix.       development and implementation of vocational and higher education programs on hygiene,
+                sanitation and environmental engineering, in collaboration with existing education institutes, including
+                equipment/civil works for training centers, stipends and job-placements programs
+
+          Component 3: Program Management and Learning (IDA: US$ 33 million)
+
+          43.        Component 3: Program Management and Learning (IDA US$33 million). This component will
+          finance project management support for the implementation, coordination, monitoring and evaluation of
+          project, learning agenda activities and knowledge exchanges, capacity development for project
+          management and implementation through a Young Professional program, and the preparation costs for
+          MPA-phase 2 project in additional provinces. It includes:
+              i.     operation of the Project Coordination Unit (PCU) through the provision of technical assistance,
+                training, goods, and financing of operating costs, including technical and financial audits, banking fees
+                and charges, and preparation of ESF instruments and consultations for phase 1
+             ii.     support to relevant national entities75 with a key-role in the coordination and supervision of the
+                Project through training, goods, and financing of operating costs, including reasonable transport and
+                communication allowances for assigned staff to the national coordination team
+            iii.     establishment and operation of the Provincial Project Implementation (PPIUs) in Kasai, Kasai
+                Central, Kasai Oriental and Kwilu, through the provision of technical assistance, training, goods, and
+                financing of operating costs
+            iv.      support to relevant provincial technical entities76 with a role in the provincial coordination of the
+                project through the provision of training, goods and financing of operating costs including reasonable
+                transport and communication allowances for assigned staff to the provincial technical coordination
+                teams
+             v.      project results monitoring platform, including Geographic Information System and remote
+                monitoring applications
+            vi.      costs to operationalize accessible grievance redress mechanism (GRM), to address GBV
+                awareness and provide GBV survivor support services, for implementing Indigenous People Plans
+
+          75
+             This includes at national level: MRHE, MEDD-DAS, MSP-DHSP, MDR, ONHR, REGIDESO, MP-CNEAHA, MEPST-
+          DNAC, MSTP-DEVC, and MoF-CSPP.
+          76
+             This includes at provincial level DAS, DHSP, ONHR, REGIDESO. This support is provided under component 1.3 to
+          the Regies Provinciales, and under component 2.2 to the DNAC and DEVC offices.
+
+Mar 16, 2023                                                                                                            Page 23 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+            vii.    peer-learning among provinces and relevant knowledge exchanges abroad
+           viii.    design, implementation and monitoring of a Young Professional program for fiduciary,
+                environmental, social and technical staff, including reasonable transport and communication
+                allowances for Young Professionals placed within PPIUs
+             ix.    cost for the Independent Verification Agent (IVA) of the PBCs
+              x.    preparation costs for MPA-phase 2, including operating costs, vehicles, and coordinators in the
+                PPIUs for phase 2 provinces; preparation studies (baseline, feasibility, technical, social and
+                environmental) and costs to prepare all environmental and social framework instruments for phase 2
+
+          44.      Component 4: Contingency Emergency Response Component ($0 allocated). A Contingent
+          Emergency Response Component (CERC) with zero allocation may be used to contribute to an emergency
+          response through the timely implementation of activities in response to an eligible national emergency.
+          A CERC is included in the project in accordance with Investment Project Financing (IPF) Policy, paragraphs
+          12 and 13, for Situations of Urgent Need of Assistance and Capacity Constraints. This will allow for rapid
+          reallocation of credit/grant uncommitted funds in the event of an eligible emergency as defined in OP
+          8.00. An Emergency Response Manual will be prepared as an to the Project Implementation Manual (CERC
+          ). The environmental and social instruments required for the CERC are prepared, disclosed, and adopted
+          in accordance with the CERC Manual and the Environmental and Social Commitment Plan (ESCP). For the
+          CERC to be activated, and financing to be provided, the Government will need (a) to submit a request
+          letter for CERC activation, and the evidence required to determine the eligibility of the emergency, as
+          defined in the CERC , an Emergency Action Plan, including the emergency expenditures to be financed;
+          and (b) to meet the environmental and social requirements as agreed in the Emergency Action Plan and
+          ESCP.
+
+
+
+
+  .
+  .
+  Legal Operational Policies
+                                                                       Triggered?
+
+   Projects on International Waterways OP 7.50                        Yes
+
+   Projects in Disputed Areas OP 7.60                                 No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+  Environment and Social are rated Substantial. The risk is based on the project’s anticipated environmental and social
+  risks and impacts which include, but not limited to, potential land acquisition leading to physical and economic
+  displacement of Project Affected People (PAPs), exclusion of vulnerable communities and elite capture, community
+  health and safety risks, potential labor influx, security issues in some provinces, increased pressure on water and
+  natural resources, risks of pollution and degradation of aquatic habitats, occupational health and safety risks for
+  workers during civil works, community health and safety risks for communities around works sites, and GBV/sexual
+
+
+Mar 16, 2023                                                                                                     Page 24 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+  exploitation and abuse (SEA)/sexual harassment (SH) risks. The risk related to the Borrower’s capacity, provincial
+  public institutions, and the private sector is also considered challenging due to varying ESF knowledge and experience
+  among the different actors. Moreover, the project is being implemented over a large geographic area,
+  dispersed/fragmented coverage and activities, in remote areas with some difficulty of access. Risks will be mitigated
+  by developing provincial implementation teams, including E&S specialists.
+  The assessment of the nature and magnitude of E&S risks and impacts describe that they are mostly temporary,
+  predictable, and/or reversible, medium in magnitude and/or in spatial extend, medium to low probability of serious
+  adverse effects, etc. All these adverse potential risks and impacts can be effectively prevented, mitigated, or
+  minimized on-site in a predictable manner through good engineering design and appropriate E&S measures
+
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+          45.     The PASEA program will be anchored within MRHE at the national level and chaired by national
+          program steering committee (NPSC). The program steering committee will be set up by MRHE to provide
+          strategic guidance, approve annual work plans, and facilitate collaboration between the different
+          ministries involved in the program implementation. Chaired by the MRHE general secretary and co-
+          chaired by the general secretaries of MEDD and MDR, this steering committee will comprise
+          representatives from the MoF (CSPP), the MP (CNAEHA), the Prime Ministry, MEPST, MSP, and
+          representatives of the provincial governments. The composition, roles, and responsibilities of the PSC will
+          be stated in a ministerial arrêté and detailed in the Project Implementation Manual (PIM). The PSC will
+          meet twice per calendar year.
+
+          46.      CEP-O, under MRHE, will be responsible for overall project coordination. CEP-O, referred to as
+          the Project Coordination Unit (PCU), will be responsible for coordination and reporting; for financial
+          management and procurement of activities assigned to the national level, and for ESF compliance. CEP-O
+          will also undertake capacity building of Provincial Project Implementation units (PPIUs). Based on its
+          expertise in the water sector, CEP-O will technically lead the project activities on peri-urban water and
+          water PPPs, under component 1, in close coordination with ONHR. CEP-O has ample experience preparing
+          and implementing IDA-financed projects, including the PEMU project (P091092), Kin Elenda (P171141),
+          and AGREE (P173506). It will be strengthened, as deemed necessary, with relevant technical, fiduciary
+          and/or E&S experts for the PASEA MPA, including an additional expert with focus on sanitation, who will
+          be the link between CEP-O and the technical team at MEDD-DAS. To date, CEP-O’s performance has been
+          satisfactory in terms of technical, fiduciary and E&S aspects. Once preparation of phase 2 under the MPA
+          will start, the CEP-O team will be staffed up accordingly to ensure that phase 1 implementation does slow
+          down.
+
+          47.      A national technical coordination team led by MEDD-DAS for sanitation and by MDR-ONHR for
+          rural water supply will assist CEP-O at the national level. For component 1, a technical coordination team
+          will be dedicated to (rural) water supply activities under component 1, co-led by ONHR and CEP-O. The
+          component 1 technical coordination team will consist of civil servants, one from MRHE, one from ONHR
+          with part-time involvement of staff of MDR, REGIDESO and MP. A technical coordination team anchored
+          in MEDD-DAS will lead the implementation of component 2 on sanitation, with support from MSP-DHSP
+          and MEPST staff. The component 2 technical coordination team will be fully involved in procurement
+
+Mar 16, 2023                                                                                                      Page 25 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          process, preparation, and supervision of sanitation activities at national and provincial levels. The team,
+          in close liaison with the sanitation specialist of CEP-O, will consist of civil servants, one from MEDD-DAS
+          and one from MSP-HSP, with part-time involvement of MEPST staff. All members of the national technical
+          coordination team will have a term of reference and be selected in a transparent and merit-based manner,
+          as stipulated in the PIM (see figure 2).
+
+          48.      Each province will establish a provincial steering committee, through a provincial arrêté and
+          will estabslish Provincial Project Implementation Units (PPIUs), that will implement PASEA activities,
+          and in the future could also serve other projects. Chaired by the Governor, the provincial steering
+          committee will have similar composition as at the national level. Hence, it will comprise representatives
+          of Régie Provincial du Service Public de l’Eau, and deconcentrated administration of provincial MRHE,
+          MDR, REGIDESO provincial directorate, ONHR, MEDD-DAS, MSP-DSHP, MEPST, and MP. Under PASEA,
+          provincial governments will estabslish Provincial Project implementation Units (PPIUs) in each province
+          to develop project implementation capacity at the provincial level., with the vision that these PPIUs would
+          also serve implementation of other (non-WASH) projects. The PPIUs will be created by a provincial arrêté
+          and hosted under the Governor office by the Effective date. The PPIUs will be responsible for provincial
+          coordination and reporting, for financial management, ESF and procurement of provincial level executed
+          activities across all components77. The PPIUs will be staffed with a team of consultants selected by CEP-O
+          by the Effective date, as per the agreed staffing plan78. In phases 1 and 2, the technical and fiduciary
+          consultants integrated in the PPIUs will work in pairs with civils servants of the provincial administration,
+          each in their respective fields to build the capacity of provincial administration. During the
+          implementation of phase 1, regular assessments will be carried out to reevaluate whether increased
+          fiduciary responsibility for the PPIUs is feasible. Supported through capacity building measures, including
+          a Young Professional program, the objective is to gradually reduce the reliance on consultants under
+          phases 3 and 4, as the competencies of provincial administration staff (of financial management and
+          procurement units) and of staff of decentralized and deconcentrated technical offices increases. In the
+          medium term, the PPIUs are also expected to recruit staff as social and environmental specialists.
+
+          49.      Provincial technical implementation teams, consisting of civil servants of relevant provincial
+          offices and entities will be assigned to work daily with the PPIU. For component 1, the technical
+          implementation team comprises staff of Régie Provinciale, ONHR and REGIDESO, while for component 2
+          the technical implementation team includes civil servants from provincial MEDD-DAS, MSP-DHSP, and
+          MEPST (part-time) to support the PPIU in the overall planning, implementation, and monitoring. All
+          members of the provincial technical implementation team will have a term of references and be selected
+          in a transparent and merit-based manner, further stipulated in the PIM (see figure 3).
+
+          50.    Provincial Subsidiary Agreements will be signed by the Effective Date between the Ministry of
+          Finance and the Provincial Governments of Kwilu, Kasai Central, Kasai oriental and Kasai. These
+
+          77
+             The procurement assessment will identify a ceiling under which procurement can be carried out by the PPIUs
+          until the MTR when a performance review will be done to evaluate whether the ceiling can be increased.
+          78
+             The staffing plan include a team of consultants selected by the PCU and integrated within the PPIUs. Per
+          province these include: Provincial Project Coordinator/ Operations Engineer (water), Operations Engineer
+          (sanitation), Procurement Specialist, Accountant, Cashier, M&E specialist, Environment specialist (shared with
+          another province), Social/GBV specialist (shared with another province). Staffing needs will be reviewed during
+          implementation.
+
+Mar 16, 2023                                                                                                                Page 26 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+          agreements with the participating provinces will indicate the roles, responsibilities of the provinces in the
+          implementation of provincially assigned activities under the various components of the project, including
+          the fiduciary and ESF compliance roles of the PPIUs in the provinces, as PPIUs will manage sub-accounts
+          of the project’s Designated Accounts.
+
+          51.       Given the many different ministries and technical agencies involved in PASEA phase 1, a
+          Memorandum of Understanding (MoU) will be signed with all entities by the Effective date. The MoU
+          will identify the respective roles and responsibilities of all entities involved in project implementation. In
+          addition to the four participating provincial administrations and the technical entities already mentioned
+          in par 59 to 62 (MRHE, MDR-ONHR, REGIDESO, MP, MEDD-DAS, MSP-DHSP, MEPST-DNAC, MEPST-DEVC)
+          it is foreseen that for specific national-level activities, such as related to the development of the national
+          water supply policy the Prime minister’s office (Primature) will be involved as leading entity to convene
+          multiple ministries (subcomponent 1.3, PBC 1). The Ministry of Finance (MoF), the Ministry of Budget
+          (MoB), and the Ministry of Planning (MP_, specifically the CNAEHA will be co-leading the development of
+          a financing strategy for the national WASH platform (including national MIS system) and specific activities
+          related to water resources management will be led by the MRHE-DRE as well as the OCE (once
+          operational). On economic regulation, ARSPE (once operational) will be technically leading activities under
+          subcomponent 1.3, and on technical assistance to solar energy companies ANSER will technically lead.
+          The MoU will, as part of the provincial roles and responsibilities, list roles and responsibilities of the four
+          city administrations involved in the development of the CWIS plans and the urban sanitation pilots, as
+          well as the ETDs benefitting from the water supply and sanitation activities (communes, secteur,
+          chefferies).
+          Figure 2: Institutional and Implementation arrangement at national level
+
+
+
+
+Mar 16, 2023                                                                                                          Page 27 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+
+
+      Figure 3: Institutional and Implementation arrangement at provincial level
+
+
+
+
+          52.      The capacity development programs under subcomponents 1.3 and 2.4 will be executed in
+          collaboration with existing education institutes based on an assessment of comparative advantages and
+          needs79. INPP and its four provincial branches (Institut National de Préparation Professionnelle) will be
+          involved for the design and delivery of short vocational training courses. For specialized courses (credited)
+          (3-4 months), the National Institute for Construction and Public Works (INBTP, Institut National de
+          Batiment et Travaux Publics) and its three provincial branches80 (IBTP, Institut de Batiment et Travaux
+          Publics) and the University of Kinshasa (Faculty of Polytechnics, Public Health, and the Water School (Ecole
+          de l’Eau).
+
+          53.        Several agreements will be developed as part of the PIM (or specific manuals) to organize
+
+          79
+               Capacity Development Program for WASH sector – Assessment is filled here (project files)
+          80
+               INBTP, Institut National de Bâtiment et Travaux Publics
+
+Mar 16, 2023                                                                                                        Page 28 of 30
+            The World Bank
+            DRC Water Supply and Sanitation Access Program (P178389)
+
+
+            implementation arrangements for specific activities. These include Result-based Grant Agreements for
+            water operators, Catalytic Grant Agreements for WASH enterprises, Community Sanitation Support
+            Agreements, Institutional WASH Facility agreements, and Sanitation Voucher Scheme.
+
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Patrick Goy Ndolo
+      Senior Water Supply and Sanitation Specialist
+
+      Susanna Smets
+      Senior Water Specialist
+
+      Borrower/Client/Recipient
+      Ministry of Finance
+      Josee Miakukila
+      Coordinator
+      j_miakukila@yahoo.com
+      Implementing Agencies
+      Ministry of Hydraulic Resources and Energy
+      Philippe Lumeka
+      Coordinator
+      philumeka@hotmail.com
+
+      Province of Kasai
+      Fidel Tshiamu
+      Directeur de cabinet du Gouverneur
+      fideltshiamu@gmail.com
+
+      Province of Kasai Central
+      Honoré MUTSHIPAYI
+      Ministre Provincial en charge de l’Environnement et Développ
+      Socrate.mutshipayi.sm@gmail.com
+
+      Province of Kasai Oriental
+      Gabriel K ANGUDIA
+      Coordonnateur de la Régie Provinciale de Service Public de l
+      gabrielkangudia5@gmail.com
+
+
+Mar 16, 2023                                                                                                 Page 29 of 30
+          The World Bank
+          DRC Water Supply and Sanitation Access Program (P178389)
+
+
+   Province of Kwilu
+   Alpha LUMA
+   Ministre Provincial de l’énergie
+   mealphaluma@gmail.com
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                       Patrick Goy Ndolo
+   Task Team Leader(s):
+                                       Susanna Smets
+
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                   Issa Diaw                     31-Mar-2023
+
+
+
+
+Mar 16, 2023                                                                       Page 30 of 30
+

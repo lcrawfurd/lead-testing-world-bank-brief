@@ -1,0 +1,436 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Karnataka Water Security and Resilience Program (P506272)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                                Concept Stage | Date Prepared/Updated: 19-Aug-2024 | Report No: PIDPC00133
+
+
+
+
+Public Disclosure Authorized
+        The World Bank
+        Karnataka Water Security and Resilience Program (P506272)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)        Region                        Operation ID                   Operation Name
+                                                                                             Karnataka Water Security
+India                           SOUTH ASIA                    P506272
+                                                                                             and Resilience Program
+Financing Instrument            Estimated Appraisal Date      Estimated Approval Date        Practice Area (Lead)
+Program-for-Results
+                                30-Apr-2025                   01-Aug-2025                    Water
+Financing (PforR)
+Borrower(s)                     Implementing Agency
+                                Revenue Department ,
+Department of Economic          Bangalore Water Supply
+Affairs, Ministry of Finance,   and Sewerage Board,
+Government of India             Bruhat Bengaluru
+                                Mahanagara Palike
+
+Proposed Program Development Objective(s)
+Improve services, and institutional and financial capacities to enhance resilience to water and climate stress in
+Karnataka.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+Is this project Private Capital Enabling (PCE)?               Yes
+
+SUMMARY
+  Government program Cost                                                                                           606.00
+
+  Total Operation Cost                                                                                              606.00
+    Total Program Cost                                                                                              595.00
+    IPF Component                                                                                                    10.00
+    Other Costs (Front-end fee,IBRD)                                                                                  1.00
+  Total Financing                                                                                                   606.00
+
+
+
+                                                                                                                       Page 1
+        The World Bank
+        Karnataka Water Security and Resilience Program (P506272)
+
+
+
+    Financing Gap                                                                                                                                0.00
+
+ FINANCING
+    Total World Bank Group Financing                                                                                                          426.00
+      World Bank Lending                                                                                                                      426.00
+    Total Government Contribution                                                                                                             180.00
+
+ @#&OPS~Doctype~OPS^dynamics@pidpfrconceptdecision#doctemplate
+Concept Review Decision
+The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1.                Karnataka is an economic powerhouse, driven by its urban centers, but increasingly faces adverse
+impacts of climate change, especially floods and drought. Karnataka’s GDP per capita is approximately US$3,000
+(compared to US$1,900 for India), of which 38 percent is contributed by Bengaluru alone.1 The capital city is the engine of
+growth for the state and is also the national hub for the software industry. Karnataka’s rural economy is largely agrarian
+and heavily affected by droughts. As the second most drought-prone state in India, 77 percent of land in the state is
+considered arid or semi-arid. Almost 60 percent of the state experienced drought conditions between 2001 and 2020, and
+23 of the 31 districts face acute water scarcity. The state contains seven river basins but also has high rainfall diversity,
+with an annual 4,000 mm of rain in the west, compared to 500 mm in the east. In addition to the pre-existing precarities
+of water security, Karnataka is witnessing an increasing frequency of extreme weather events including flooding,
+landslides, severe droughts, and erratic monsoon patterns. Cyclones affect coastal districts with higher intensity in
+addition to storm surges, erosion, and landslides have been increasing in the coastal, Malnad, and northern districts.
+
+ Sectoral and Institutional Context of the Program
+
+2.       Bengaluru faces the rising challenge of frequent flood-induced disruptions and economic losses with several
+factors contributing to the flood risk. Bengaluru, the fourth largest city in India, has experienced unprecedented economic
+growth. About one out of six people in Karnataka live in Bengaluru and the population has grown from 4 million in 1991
+to around 14 million in 2024 and is projected to reach 28 million by 20412 without the accompanying infrastructure to
+accommodate these residents in livable conditions in a changing climate. A total of 1,167 flood events3 hit Bengaluru
+between 2013 and 2020, and 372 flood hotspots have been identified. The flood management problem in Bengaluru stems
+largely from the following five factors: (a) Increase in annual rainfall, intensity, and peak flows; (b) incomplete storm water
+
+1 Government of Karnataka (GoK). 2024 Economic Survey of Karnataka 2023-24.
+2 Expert Committee Report, Government of Karnataka, 2010.
+3 Rangwala, L., S. Chatterjee, A. Agarwal, B. Khanna, I. Uri, B. Shetty, R.B. Palanichamy, and A. Ramesh. 2024. Climate Resilient Cities: Assessing
+
+Differential Vulnerability to Climate Hazards in Urban India. New Delhi: WRI India. doi.org/10.46830/ wrirpt.22.00055.
+
+                                                                                                                                                      Page 2
+       The World Bank
+       Karnataka Water Security and Resilience Program (P506272)
+
+
+drain (SWD) network and poor solid waste management; (c) deterioration of Bengaluru’s extensive lake system, because
+of pollution, siltation, and deliberate disconnection between lakes and SWDs (due to raw sewage in SWDs); (d) inefficient
+infrastructure design which has not kept pace with rapid unplanned city expansion; and (e) limited efforts to accommodate
+climate induced peak flows via nature-based solutions (NBS). The lack of adequate disaster risk management (DRM)
+capabilities such as impact-based forecasting, early warning, and emergency operations further impacts flood
+management.
+
+3.       Key infrastructure and services—water, sanitation, drainage—have not kept pace with Bengaluru’s rapid
+expansion and this has exacerbated water stress. The core area of the city has a well-functioning sewer and SWD network
+and reliable water supply. The core area receives 1,450 million liters per day (MLD) of water lifted 300m from the Cauvery
+River. The city’s water demand is 2,100 MLD, leaving a deficit of 650 MLD. Out of nearly 11,000 government city borewells,
+water levels decreased or dried up in almost 5,000 during the 2024 drought. Bengaluru generates 1,500 MLD of
+wastewater, of which only 18 MLD is reused for industrial and commercial use. In a context where every drop counts,
+there are huge water savings opportunities in reducing non-revenue water (NRW), which stands around 27 percent for
+Bengaluru. In 2007, the city expanded to cover the 110 surrounding villages (expanded area). As a result of rapid and
+unplanned development, the city struggled to extend water supply, sewer, and storm water infrastructure and services to
+the expanded areas and residents rely on private borewells, septic tanks, and limited SWDs. The expanded area faces
+acute water stress especially in the dry summer months with declines in groundwater levels across 70 percent of the city’s
+wells while also overlapping with some of the most flood-prone parts of the city.
+4.       Historically known as the ‘city of lakes’, Bengaluru has a vast lake system that is now polluted and disconnected
+but could be rejuvenated to ameliorate water stress by buffering floods and droughts. Bengaluru has 204 cascading
+lakes, of which 21 have been reclaimed for development, including of infrastructure such as a stadium and a bus terminal.
+The remaining 183 lakes are polluted but hold great potential for reintegration into a system where lakes serve as
+balancing reservoirs during floods and droughts. In the absence of a proper sewage system in the expanded areas, raw
+sewage is discharged into SWDs. In an attempt to protect the lakes, the discharge from SWDs is currently diverted away
+from SWDs to downstream water bodies. However, if adequately treated, the wastewater can be used effectively for city
+lakes and water bodies. With support from the Japan International Cooperation Agency (JICA), the GoK is currently
+constructing 14 sewage treatment plans (STPs) in the expanded area, but an additional 9 STPs are needed to prevent all
+the sewage from entering the SWDs and from entering lakes during flooding. Desludging of existing lakes, addition of
+sewage treatment capacity, and upgrading of Bengaluru’s SWD network (860 km of which one-third needs reinforcement
+or strengthening), can create the basis for a rejuvenated lake system and increase the flood discharge capacity of the city.
+5.       Infrastructure is critical, but it cannot alone solve the problem: Addressing the flood and drought risks in
+Bengaluru and larger disaster risks in Karnataka, calls for robust institutions for water-related services and disaster risk
+management, including multi-sectoral and integrated solutions. Karnataka experienced severe floods in 2023 and the
+worst drought in decades in 2024. Increasing weather events call for stronger, coordinated institutions to manage
+disasters with state-of-the-art decision support systems, clear roles and responsibilities, user-oriented climate and disaster
+monitoring services, and public engagement platforms. Although Karnataka has long-standing institutional experience in
+some of these areas, the current institutional setup needs to be aligned with new legal mandates and emerging sector
+needs. Both the Bengaluru Water Supply and Sewerage Board (BWSSB), responsible for water and wastewater, and the
+BBMP, the municipality of Bengaluru responsible for SWDs, have limited staffing capacity and integrated master planning
+is not carried across agencies. Another challenge is the lack of institutional capacity to monitor industrial and municipal
+wastewater, with the Karnataka State Pollution Control Board (KSPCB) facing capacity gaps to systematically monitor and
+control wastewater pollution.
+
+
+
+
+                                                                                                                         Page 3
+          The World Bank
+          Karnataka Water Security and Resilience Program (P506272)
+
+
+6.      BBMP and BWSSB can deliver a climate-resilient city, free of pollution and with high-quality service, only if they
+are financially strong and operationally efficient. There is a huge financing gap in providing water security and resilience
+to the fast-growing city. With regards to BWSSB, the water tariff was last revised in 2014, and around 70 percent of
+BWSSB’s revenue is used to cover electricity bills. The tariff has not been adjusted for inflation or the increasing price of
+energy for a decade. In the past, BWSSB has implemented innovative performance-based contract (PBC) projects on NRW
+reductions, which produced a simple payback of 2.5 years; however, the existing 5,000 km of old pipes needing
+replacement remains unfinanced. Energy efficiency has great potential for generating savings with a calculated payback
+of two to five years; this too remains unfinanced. Solutions are available, but the financial capacity to invest in technologies
+and O&M is arguably the main challenge. BWSSB is exploring opportunities for private sector participation.
+
+7.       Tackling floods, droughts, and other climate-related challenges call for a transformation of flooding and disaster
+risk management for Bengaluru and Karnataka. It is clear climate shocks will increase in both frequency and intensity.
+There is currently no mechanism to quantify the risks and take informed decisions on diversifying disaster risk financing
+(DRF). Since 2009, flood- or drought-related annual estimated losses have been higher than US$ 1.2 billion for every
+affected year, going as high as US$ 4 billion in some years. Between 2008 to 2024, funding from Government of India
+(GoI), primarily via the National Disaster Response Fund (NDRF), was only 8 percent of the total estimated losses for
+droughts and 6 percent for floods. Currently, the only ex ante source of funds that are available to states is the State
+Disaster Risk Management Fund (SDRMF), which for 2021-2026 (15th Finance Commission) is about US$497 million. Most
+of the funds were used for the floods in 2021 and 2022 and the drought in 2023. Private insurance penetration is low in
+the state, in line with the trend across India–less than 10 percent of homes and less than 30 percent of farmers and
+cropped area are insured. Adopting similar approaches for quantifying the needs and leveraging blended finance
+opportunities for financing climate adaptation and mitigation measures can enable Karnataka to meet its climate goals.
+To prepare for this and to safeguard future economic growth in the state, and especially in its capital city, the Government
+of Karnataka, seeks to adopt a three-pronged approach to water security and resilience. First, water- and DRM-related
+infrastructure and services need to improve. Second, institutions must be strengthened to facilitate coordinated, planning
+and delivery of integrated solutions. Third, new financing models need to be introduced and the financial strength of
+service delivery institutions for climate resilience needs to be stronger.
+    Relationship to CAS/CPF
+8.       The Program is consistent with the World Bank Group’s Country Partnership Framework (CPF) FY18–22
+approved by the Board in 20184 (Report 126667-IN). The Program aligns with the World Bank’s mission of ending extreme
+poverty and boosting shared prosperity on a livable planet and, more specifically, with the World Bank’s India Systematic
+Country Diagnostic (SCD).5 The latter highlights that water scarcity is exacerbated by a deterioration of water quality partly
+due to the discharge of untreated sewage into surface water sources. The Program for Results (PforR) also aligns with
+Focus Area 1 of the CPF on Resource Efficient Growth by improving resilience to climate change. The PforR is also
+consistent with India’s Long-Term Strategy,6 which promotes “low-carbon municipal service delivery through resource
+efficiency, management of water, solid, and liquid waste” and highlights the need for “strengthening basic infrastructure
+such as sanitation systems, […] as well as institutional infrastructures such as disaster response teams” for building climate
+resilience. In addition, the Program is aligned with the country’s Nationally Intended Determined Contributions - Towards
+Climate Change,7 which identifies the water sector as vulnerable to climate change and focuses the adaptation strategy
+on the efficient use of water.
+
+4
+    Extended up to December 2024.
+5 World Bank Group. 2018. India Systematic Country Diagnostic: Realizing the Promise of Prosperity. Washington, DC: World Bank.
+
+https://openknowledge.worldbank.org/handle/10986/29879.
+6
+  MoEFCC (Ministry of Environment, Forest and Climate Change). 2022. India’s long-term low-carbon development strategy. Government of India.
+7 https://moef.gov.in/wp-content/uploads/2018/04/revised-PPT-Press-Conference-INDC-v5.pdf.
+
+
+
+                                                                                                                                         Page 4
+          The World Bank
+          Karnataka Water Security and Resilience Program (P506272)
+
+
+    Rationale for Bank Engagement and Choice of Financing Instrument
+
+9.        With this Program, the World Bank can leverage international and national lessons on enhancing water
+security, climate resilience, and DRM and facilitate convergence between six active water-related operations in
+Karnataka. The current operations include the Second Dam Rehabilitation and Improvement Project (P170873), National
+Groundwater Management Improvement (P158119), Rejuvenating Watershed for Agriculture Resilience through
+Innovative Development (P172187), Karnataka Urban Water Supply Modernization Project Additional Financing
+(P176107), National Hydrology Project (P152698), and National Cyclone Risk Mitigation Project (P144726). This Program
+will leverage data and experience, from these projects to inform the design of the proposed interventions.
+
+    C. Program Development Objective(s) (PDO) and PDO Level Results Indicators
+
+    Program Development Objective(s)
+    10.    The proposed PDO is to improve services, and institutional and financial capacities to enhance resilience to
+    water and climate stress in Karnataka.
+
+    PDO Level Results Indicators
+
+      •   People with enhanced resilience to climate risks (Number, gender disaggregated)
+      •   People provided with water and sanitation of which (%) is safely managed (Number, gender disaggregated)
+      •   Operationalization of KSDMA8 with capacities to formulate and execute DRM projects (Yes/No)
+      •   BWSSB enhances cost recovery (percent of O&M and full costs)
+      •   Lakes rejuvenated and able to serve as balancing reservoirs for management of flood and drought (number)
+
+
+    D. Program Description
+
+    PforR Program Boundary
+
+11.     The proposed PforR Program (‘P’, the Program) will support a subset of GoK initiatives on climate resilient and
+disaster risk management, as outlined in the Karnataka State Action Plan on Climate Change (KSAPCC) 2024, which
+contains the state government’s strategic plan to combat climate change across various sectors. KSAPCC contains an
+estimated budget of US$ 6.3 billion (INR 52,827 Cr.) to implement measures in agriculture, forestry, energy, water
+resources and several other sectors between 2025 and 2030. There are four additional elements that represent the PforR
+Program boundary: (a) the Climate Action Plan for Bangalore launched by BBMP in 2023, (b) the Water Policy
+Implementation Roadmap (GoK 2023), (c) the state DRM plan, and (d) Atal Mission for Rejuvenation and Urban
+Transformation (AMRUT 2021) 2.0 scheme designed to provide universal coverage of water supply and sewerage
+management in 500 Indian cities.
+
+12.       The boundaries of the Program are defined as follows:
+•     Services. The Program will cover selected service sectors under the government program, including water, sanitation;
+      storm water drainage, and early warning and forecasting services.
+
+8 Includes the establishment of the Disaster Risk Financing (DRF) Unit within KSDMA.
+
+
+
+                                                                                                                          Page 5
+         The World Bank
+         Karnataka Water Security and Resilience Program (P506272)
+
+
+•     Institutions and state capability. The Program will undertake institutional reforms and capability enhancement for
+      improved delivery of sanitation and drainage services as well as flood and DRM in Karnataka.
+•     Duration. The Program will be implemented over a period of five years (2025-2031).
+•     Financing. The program budget is US$606 million, with US$426 million from IBRD and US$180 million from GoK/GoI.
+•     Implementation responsibility. The Program will be coordinated and managed by the Revenue Department at the
+      state level. The main implementing agencies will be BWSSB and BBMP.
+
+13.      The government program largely overlaps with the PforR. Several guiding principles were used to determine
+the PforR Program boundaries and select the state-level interventions for PforR Program support. First, while the
+government interventions focus on discrete action for climate resilience, the PforR will support interventions under an
+umbrella of water security, climate resilience, and DRM, with infrastructure investments focused on Bengaluru. Second,
+the PforR will support institutional reforms, integrated planning, and enhanced coordination between the four critically
+interlinked institutions, BWSSB, BBMP, the KSNDMC, and KSDMA. Third, the PforR will focus on a range of activities to
+reduce the financing gap required for climate resilience.
+    E. Initial Environmental and Social Screening
+
+20.      The Program, through its investments in tertiary sewage treatment, SWDs, and lake rejuvenation, as well
+institutional strengthening, is likely to result in reduced pollution, reduced damage caused by flooding, droughts and
+cyclones, development of green recreational areas, and better disaster preparedness. These efforts are likely to lead to
+positive environment and social (E&S) impacts and improved community health.
+
+21.      The environment and social risk screening revealed that the likely environment and social effects of the
+program are moderate to substantial. The main environmental risks are: (a) the substantial occupational safety and
+hazard risks for workers and communities due to numerous ( approximate 1,000) work fronts for construction of sewers,
+lining of SWDs within the densely populated in Bengaluru, and potential traffic disruptions; (b) the residual pollution of
+SWDs discharging into lakes downstream if broken manholes of underlying sewers are not readily repaired as planned; (c)
+management of solid wastes in the SWDs to be fully integrated into Bengaluru’s overall solid waste management program;
+(d) minimization of tree-felling; and (e) management of usual construction-related pollution, dust, oil spills, noise, and so
+on. The social risk rating ranges from moderate to substantial. The key social risks are: (a) potential disruptions to and
+impacts on livelihoods of communities/vulnerable groups that have, at several locations, encroached upon the existing
+‘Right of Way’ that will be used for upgradation of SWD network; (b) risks of disruption, safety and GBV/SEA-SH risks to
+communities, particularly in congested urban locations wherein nine STPs are proposed on government lands that have
+already been identified; (c) risk of disruption to citizens if works are not scheduled, planned and implemented with citizen-
+convenience in mind; and (d) inadequate information dissemination and community awareness in disaster management
+situations.
+
+22.      The E&S contextual risk, including any risks to sustainability is moderate as BWSSB is already constructing 14
+STPs in the expanded area of Bengaluru.9 The planned investments under this Program will be undertaken on government
+land but in congested unplanned locations and could experience implementation challenges. The institutional capacity
+and complexity risks are moderate although these will be further assessed. All three IAs have a grievance redressal
+mechanism but will require strengthening of citizen feedback, consultative processes, and proactive public outreach at
+the preparation and implementation phases.
+
+
+
+9 Through JICA funds.
+
+
+
+                                                                                                                        Page 6
+       The World Bank
+       Karnataka Water Security and Resilience Program (P506272)
+
+
+23.    The Environment and Social System Assessment (ESSA), to be carried out by the World Bank during the
+preparation phase, will assess the adequacy of provisions of legal and regulatory framework, implementation capacity,
+and past performance, including processes to adequately manage E&S risks and impacts identified in the Program.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                                                                                  Triggered?
+                                                             Last approved                           Current
+ Projects on International Waterways OP 7.50                      No
+ Projects in Disputed Area OP 7.60                                No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component
+
+
+
+24.     The Social Risk is rated as Low as the proposed interventions are unlikely to have any physical footprint and
+therefore, will not result in adverse impacts on land, community health and safety, Indigenous Peoples/Tribals or cultural
+heritage.
+
+25.     The IPF component focuses on activities such as project management, training; running field pilots on aspects
+such as smart metering; and behavior communication change campaigns. The World Bank’s Environment and Social
+Framework (ESF) shall be applicable for the IPF component. Given the low E&S risks and impacts, a draft Environmental
+and Social Commitment Plan (ESCP), including Labor Management Procedures (LMP) and Stakeholder Engagement Plan
+(SEP), will be prepared, consulted upon, and disclosed before appraisal. The Program will clearly define the sexual
+exploitation and abuse and sexual harassment (SEA/SH) requirements and expectations in the bid and contracting
+documents, as engaging of consultancy firms and contractors for IPF activities may create opportunities for SEA/SH in the
+workplace. Based on the SEA/SH screening tool, the risk rating is Low. The rating will be reassessed at the appraisal stage.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Kristoffer Welsien
+   Senior Water Supply and Sanitation Specialist
+
+   Anup Karanth
+   Senior Disaster Risk Management Specialist
+
+ Borrower/Client/Recipient
+
+
+                                                                                                                        Page 7
+     The World Bank
+     Karnataka Water Security and Resilience Program (P506272)
+
+
+ Department of Economic Affairs, Ministry of Finance, Government of India
+ Manisha Sinha
+ Additional Secretary
+ manisha.sinha@nic.in
+ Simrandeep Singh
+ Director
+ simrandeep.iasjk@nic.in
+
+Implementing Agencies
+ Revenue Department
+ Rashmi Mahesh
+ Principal Secretary
+ secy.dm@gmail.com
+
+ Bangalore Water Supply and Sewerage Board
+ Rajiv K N
+ Chief Engineer Projects
+ rajiv1bwssb@yahoo.com
+
+ Bruhat Bengaluru Mahanagara Palike
+ B. S. Prahallad
+ Engineer in Chief
+ eictabbmp@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+
+
+                                                                            Page 8
+

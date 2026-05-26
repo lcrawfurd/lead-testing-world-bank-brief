@@ -1,0 +1,2448 @@
+Public Disclosure Authorized                                               FOR OFFICIAL USE ONLY
+                                                                                                                             Report No: PADHI01177
+
+                                                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+Public Disclosure Authorized
+                                                                      PROJECT APPRAISAL DOCUMENT
+                                                                                 ON A
+                                                                            PROPOSED CREDIT
+
+                                                                  IN THE AMOUNT OF EUR 127.7 MILLION
+                                                                     (US$150.0 MILLION EQUIVALENT)
+
+                                                                                       TO
+
+                                                                                BURKINA FASO
+
+
+
+
+Public Disclosure Authorized
+                                                                                     FOR A
+
+                                                       BURKINA FASO AGRICULTURAL TRANSFORMATION PROJECT
+
+                                                                              FEBRUARY 16, 2026
+
+
+
+
+                                Agriculture and Food Global Practice
+
+
+
+
+Public Disclosure Authorized
+                                Western and Central Africa Region
+
+
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+
+                                                                                                               Official Use Only
+                         CURRENCY EQUIVALENTS
+
+              (Exchange Rate Effective, December 31, 2025)
+
+                                   Special Drawing Rights (SDR),
+                 Currency Unit =
+                                   EURO
+                       US$1.00= SDR 0.98251
+                       US$1.00 = EUR 0.85128118
+
+                                FISCAL YEAR
+                          January 1 - December 31
+
+
+
+
+  Regional Vice President: Ousmane Diagana
+Regional Practice Director: Chakib Jenane
+         Division Director: Clara Ana Coutinho De Sousa
+        Practice Manager: Elhadji Adama Touré
+      Task Team Leaders: Idriss Serme, Erick Herman Abiassi
+
+
+
+
+                                                                   i
+                 ABBREVIATIONS AND ACRONYMS
+AfDB     African Development Bank
+ATP-BF   Burkina Faso Agricultural Transformation Project
+BDS      Business Development Services
+CCDR     Country Climate and Development Report
+CERC     Contingent Emergency Response Component
+CPF      Country Partnership Framework
+CRI      Corporate Results Indicator
+CSA      Climate-Smart Agriculture
+DA       Designated Account
+DCMEF    Direction Générale du Contrôle des Marchés Publics et des Engagements
+         Financiers (Control Directorate of Public Procurement)
+DGPER    Direction Générale de la Promotion de l’Économie Rurale (General Directorate of
+         Promotion of the Rural Economy)
+DMP      Direction des Marchés Publics (Directorate of Public Procurement)
+E&S      Environmental and Social
+EIRR     Economic Internal Rate of Return
+ESCP     Environmental and Social Commitment Plan
+ESF      Environmental and Social Framework
+ESIA     Environmental and Social Impact Assessment
+EX-ACT   Ex-Ante Carbon-balance-Tool
+FAO      Food and Agriculture Organization of the United Nations
+FCV      Fragility, Conflict and Violence
+FISP     Financial Inclusion Support Project
+FM       Financial Management
+FSRP     West Africa Food System Resilience Program
+GDP      Gross Domestic Product
+GHG      Greenhouse Gas
+GFPP     Grant Facility for Project Preparation
+GoBF     Government of Burkina Faso
+GRM      Grievance Redress Mechanism
+IDP      Internally Displaced Person
+IFC      International Finance Corporation
+IFR      Interim Financial Report
+IPF      Investment Project Financing
+IsDB     Islamic Development Bank
+LMP      Labour Management Procedures
+M&E      Monitoring and Evaluation
+MAERAH   Ministère de l'Agriculture, de l'Eau, des Ressources Animales et Halieutiques
+         (Ministry of Agriculture, Water, Livestock and Fisheries)
+MFD      Maximizing Finance for Development
+MG       Matching Grant
+MIS      Management Information System
+NDC      Nationally Determined Contribution
+NPV      Net Present Value
+PARIIS   Projet d’Appui Régional à l’Initiative pour l’Irrigation au Sahel (Sahel Region
+         Irrigation Initiative Support Project)
+PCM      Private Capital Mobilization
+                                                                                           ii
+PDO       Project Development Objective
+PIM       Project Implementation Manual
+PIU       Project Implementation Unit
+PMP       Pest Management Plan
+PO        Producers’ Organization
+PPSD      Project Procurement Strategy for Development
+PReCA     Projet de Résilience et Compétitivité Agricoles (Agriculture Resilience and
+          Competitiveness Project)
+RAP       Resettlement Action Plan
+RF        Results Framework
+SEP       Stakeholder Engagement Plan
+SME       Small and Medium Enterprise
+SOBIMAP   Société Burkinabé d’Intrants et de Matériels Agro-Pastoraux (Burkina Faso Agro-
+          Pastoral Inputs and Equipment Company)
+SOE       Statement of Expenditure
+SONATER   Société Nationale de l’Aménagement des Terres et de l’Équipement Rural (National
+          Corporation for Land Development and Rural Equipment)
+STEP      Systematic Tracking of Exchanges in Procurement
+UNFCCC    United Nations Framework Convention on Climate Change
+WAAPP     West African Agricultural Productivity Program
+WBG       World Bank Group
+
+
+
+
+                                                                                             iii
+             The World Bank
+            Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+
+                                                            TABLE OF CONTENTS
+
+DATASHEET ......................................................................................................................... vi
+I.    STRATEGIC CONTEXT ..................................................................................................... 1
+      A. Project Strategic Context .................................................................................................................1
+      B. Sectoral and Institutional Context ...................................................................................................1
+II.   PROJECT DESCRIPTION .................................................................................................. 4
+      A. Project Development Objective .......................................................................................................4
+      B. Theory of Change and PDO Indicators .............................................................................................4
+      C. Project Beneficiaries ........................................................................................................................5
+      D. Project Components ........................................................................................................................5
+      E. Roles of Partners ............................................................................................................................12
+      F. Lessons Learned and Reflected in the Project Design....................................................................12
+III. PROJECT IMPLEMENTATION ........................................................................................ 13
+      A. Institutional and Implementation Arrangements ..........................................................................13
+      B. Results Monitoring, Evaluation, and Verification Arrangements ..................................................14
+      C. Disbursement Arrangements .........................................................................................................15
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 15
+      A. Technical, Economic and Financial Analysis ..................................................................................15
+      B. Fiduciary .........................................................................................................................................18
+      C. Environmental, Social and Legal Operational Policies ...................................................................20
+      Grievance Redress Services ................................................................................................................23
+V. KEY RISKS .................................................................................................................... 23
+ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 26
+ANNEX 2: MONITORING & EVALUATION PLAN: ................................................................... 32
+
+
+
+
+                                                                                                                                                           iv
+        The World Bank
+        Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+
+DATASHEET
+
+BASIC INFORMATION
+
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+
+Burkina Faso              Burkina Faso Agricultural Transformation Project
+
+                                                      Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                      Classification
+
+                         Investment Project
+P507256                                               Substantial
+                         Financing (IPF)
+
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                      [✓] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                    [✓] Fragile State(s)
+
+[ ] Performance-Based Conditions (PBCs)                         [ ] Small State(s)
+
+[ ] Financial Intermediaries (FI)                               [ ] Fragile within a non-fragile Country
+
+[ ] Project-Based Guarantee                                     [✓] Conflict
+
+[ ] Deferred Drawdown                                           [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternative Procurement Arrangements (APA)                  [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                  Expected Closing Date
+
+10-Mar-2026                             31-Dec-2031
+
+Bank/IFC Collaboration                  Joint Level
+
+Yes                                     Complementary or Interdependent project requiring active coordination
+
+
+Proposed Development Objective(s)
+
+
+                                                                                                                  vi
+        The World Bank
+        Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+The Project Development Objective (PDO) is to increase production, market access, and climate resilience of
+smallholder farmers along selected value chains in the project areas.
+
+
+
+Components
+
+ Component Name                                                                                           Cost (US$)
+ IMPROVING AGRICULTURAL PRODUCTIVITY AND RESILIENCE TO CLIMATE
+                                                                                                     104,200,000.00
+ CHANGE
+ IMPROVING STORAGE, AGRO-PROCESSING AND ACCESS TO MARKETS                                              23,200,000.00
+ PROMOTING ACCESS TO FINANCE AND PRIVATE SECTOR INVESTMENT                                             63,000,000.00
+ INSTITUTIONAL STRENGTHENING AND PROJECT COORDINATION                                                  25,500,000.00
+ CONTINGENT EMERGENCY RESPONSE COMPONENT (CERC)                                                                 0.00
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+
+Organizations
+
+ Borrower:                       Burkina Faso
+
+ Implementing Agency:            Ministry of Agriculture Livestock and Fisheries
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+
+Is this project Private Capital Enabling (PCE)?               No
+
+
+SUMMARY
+
+  Total Operation Cost                                                                                        215.90
+
+  Total Financing                                                                                             215.90
+             of which IBRD/IDA                                                                                150.00
+
+  Financing Gap                                                                                                 0.00
+
+                                                                                                                   vii
+          The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                                150.00
+
+        IDA Credit                                                                                            150.00
+
+ Non-World Bank Group Financing
+   Counterpart Funding                                                                                         17.90
+
+        National Government                                                                                    10.00
+
+        Local Beneficiaries                                                                                     7.90
+
+   Commercial Financing                                                                                        48.00
+
+        Unguaranteed Commercial Financing                                                                      48.00
+
+
+IDA Resources (US$, Millions)
+
+                                                                                           Guarantee
+                              Credit Amount   Grant Amount            SML Amount                         Total Amount
+                                                                                             Amount
+
+National
+Performance-Based                    150.00               0.00              0.00                0.00           150.00
+Allocations (PBA)
+
+Total                                150.00               0.00              0.00                0.00           150.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+
+Expected Disbursements (US$, Millions)
+
+WB Fiscal
+Year                  2026           2027         2028           2029              2030         2031          2032
+
+Annual                0.80           35.00        32.00          30.00             24.00        20.00         8.20
+Cumulative            0.80           35.80        67.80          97.80         121.80           141.80       150.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+PRACTICE AREA(S)
+
+
+                                                                                                                     viii
+           The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+
+Agriculture and Food                                          Water; Finance, Competitiveness and Innovation
+
+
+
+CLIMATE
+
+
+
+Climate Change and Disaster Screening
+
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                 ⚫ Substantial
+2. Macroeconomic                                                            ⚫ Substantial
+3. Sector Strategies and Policies                                           ⚫ Moderate
+4. Technical Design of Project or Program                                   ⚫ Substantial
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+6. Fiduciary                                                                ⚫ Substantial
+7. Environment and Social                                                   ⚫ Substantial
+8. Stakeholders                                                             ⚫ Moderate
+9. Other                                                                    ⚫ High
+10. Overall                                                                 ⚫ Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+
+POLICY COMPLIANCE
+
+
+
+Policy
+
+
+                                                                                                               ix
+          The World Bank
+          Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes     [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes     [✓] No
+
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                            Relevant
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+LEGAL
+
+Legal Covenants
+
+                                                                                                                      x
+        The World Bank
+       Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+Sections and Description
+The Recipient shall, not later than two (2) months after the Effective Date, or any later date agreed by the Association,
+establish and thereafter maintain, throughout the Project implementation period, a committee (the “Steering
+Committee”) with composition, mandate and resources satisfactory to the Association.
+Without limitation to Section I.A.3(c) of this Schedule, the PIU shall include the following additional key staff:from a
+date no later than three (3) months after the Effective Date, or any later date agreed by the Association, a security
+specialist, and a GBV/SEA/SH consultant
+Without limitation to Section I.A.3(c) of this Schedule, the PIU shall include the following additional key staff: from a
+date no later than six (6) months after the Effective Date, or any later date agreed by the Association, and an internal
+auditor
+Without limitation to Section I.A.3(c) of this Schedule, the PIU shall include the following additional key staff: from a
+date no later than nine (9) months after the Effective Date, or any later date agreed by the Association, an external
+auditor; and other staff as and when may be specified in the ESCP.
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+
+Conditions
+
+Type                           Citation                       Description                      Financing Source
+                                                              The Recipient has
+                                                              established the Project
+                                                              Implementation Unit, with
+Effectiveness                  Section I.A.3 of Schedule 2    key staff, in accordance         IBRD/IDA
+                                                              with Section I.A.3 of
+                                                              Schedule 2 to this
+                                                              Agreement
+                                                              The Recipient has prepared
+                                                              and adopted a Project
+                                                              Implementation Manual, in
+Effectiveness                  Section I.C of Schedule 2                                       IBRD/IDA
+                                                              accordance with Section I.C
+                                                              of Schedule 2 to the
+                                                              Financing Agreement.
+                                                              No withdrawal shall be
+                                                              made for payments under
+                                                              Category (2) until and
+                                                              unless the Recipient has: (i)
+                                                              adopted the Matching
+Disbursement                   Section III.B.1(b)                                              IBRD/IDA
+                                                              Grants Manual; and (ii)
+                                                              entered into two Matching
+                                                              Grant Agreements with
+                                                              Eligible Beneficiaries; all in
+                                                              form and substance
+
+
+                                                                                                                        xi
+       The World Bank
+      Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+                                                          satisfactory to the
+                                                          Association.
+                                                          No withdrawal shall be
+                                                          made for payments under
+                                                          Category (3) until and
+                                                          unless the Recipient has
+Disbursement                Section III.B.1(c)            prepared and adopted the     IBRD/IDA
+                                                          Insurance Premium
+                                                          Subsidies Manual, in form
+                                                          and substance satisfactory
+                                                          to the Association.
+
+
+
+
+                                                                                                  xii
+            The World Bank
+           Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+
+ I. STRATEGIC CONTEXT
+ A. Project Strategic Context
+   1. Agriculture remains the cornerstone of Burkina Faso’s economy, employing over 90 percent of the rural
+      population and accounting for about 18.5 percent of the gross domestic product (GDP)1. Cotton production,
+      about 14 percent of total exports, remains a key livelihood source for rural communities in the sector. Although
+      gold mining now brings the most export income and government revenue, agriculture remains vital for economic
+      stability and growth. However, the pace of agricultural transformation has been sluggish, with limited progress in
+      shifting from subsistence farming to higher-value, market-oriented production. The slow progress is largely
+      attributed to persistent challenges, including security crises, climate shocks, and the resulting displacement of
+      millions, all of which have hampered structural change and growth in the sector.
+   2. The government of Burkina Faso (GoBF) has prioritized territorial recovery and economic revitalization through
+      its Stabilization and Development Action Plan (2023–2025), which was centered on restoring security, rebuilding
+      state capacity, and addressing humanitarian needs. Recent progress includes restoring state control, supporting
+      internally displaced people’s return, and improving economic conditions. Opportunities for sustainable agriculture
+      are emerging, though challenges around weak institutions, limited resources, and poor infrastructure persist.
+      Through the Lijeeguoli Initiative (2024–2032), the GoBF aims to boost productivity, competitiveness, and effective
+      management in agropastoral and fisheries sectors. The Burkina Faso Agricultural Transformation Project (ATP-BF)
+      will help implement this initiative by enhancing productivity, climate resilience, market access, storage, processing,
+      and private investment in order to promote growth, food security, and jobs.
+B. Sectoral and Institutional Context
+
+   3. Burkina Faso’s agricultural sector is primarily characterized by subsistence production systems. Most of the
+      cultivated land is covered by millet, sorghum, maize, rice, and fonio, which are the main staple foods. Other
+      significant crops include cowpeas, onions, mangoes, and cash crops such as cotton, groundnuts, soybeans, and
+      sesame. These production systems are characterized by very low productivity and limited diversification. As a
+      result, Burkina Faso suffers from food and nutrition insecurity. According to the 2021 Demographic and Health
+      Survey, 22.6 percent of children are stunted, 10.6 percent wasted, and 56 percent of women aged 15-49 are
+      anemic, with higher rates among pregnant women. The agricultural sector needs profound agricultural
+      transformation to boost production, diversification and value addition to strengthen food and nutrition security,
+      and boosting rural incomes. Tailored support will be needed for the recovery of rural communities’ as security
+      improves by helping farmers from Bankui and Yaadga regions resume farming activities, re-engage with the sector
+      and build resilience.
+   4. Institutions supporting agriculture remain weak. The Ministry of Agriculture, Water, Livestock and Fisheries
+      (Ministère de l'Agriculture, de l'Eau, des Ressources Animales et Halieutiques, MAERAH) is facing capacity
+      constraints in key areas including extension services, planning, as well as monitoring and evaluation (M&E) systems.
+      There are few structured organizations and platforms, particularly Producers’ Organizations (POs), which offer
+      services like advocacy, technical support, access to credit facilitation, market access, and support for specialized
+      activities such as reforestation and empowering women farmers. Existing POs are generally weak in organizational
+      management, basic infrastructure, and business planning, limiting their ability to provide effective support to their
+      members. Few organizations have the skills or capacity to engage with local private market actors as contracting
+      parties under defined trading rules and quality standards. This challenge is further exacerbated by the limited
+
+1 https://documents1.worldbank.org/curated/en/099070725193540162/pdf/P507242-d1d2d1e3-c63b-49ba-a5da-c9994d3e747a.pdf
+
+
+                                                                                                                          1
+             The World Bank
+             Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+         access to equipment and the lack of technical skills among spot traders and small processors, which prevents them
+         from evolving into competitive aggregators.
+    5. Fertilizer and improved input usage in Burkina Faso remains among the lowest in Sub-Saharan Africa, with only
+       17 kg/ha used in 2024. Adoption of improved seeds and basic farm equipment is similarly limited, leading to low
+       labor productivity and yields. High costs, limited distribution points, and insufficient extension services hinder
+       smallholder farmers' access to inputs, while weak distribution systems and inadequate quality control exacerbate
+       the issue. Locally produced equipment is often poor in quality, and access to mechanized services for tillage and
+       harvesting is restricted. Additionally, a lack of adequate storage facilities contributes to post-harvest losses
+       exceeding 30 percent. Regulatory frameworks for seeds and fertilizers are in place, including the 2007 fertilizer
+       regulation (Law n° 026-2007/AN of November 20, 2007) establishing fertilizer control in Burkina Faso focused on
+       quality, health, consumer, and environmental protection, as well as authorization for importers and distributors.
+       In July 2025, the law was updated (Law No. 010-2025/ALT of July 04, 2025) to cover more fertilizing products, to
+       grant Burkina Faso Agro-Pastoral Inputs and Equipment Company (Société Burkinabè d'Intrants et de Matériels
+       Agro-pastoraux, SOBIMAP) an import monopoly, and mandating MAERAH for quality control before market
+       distribution. Seed regulation is governed by Law n° 010-2006/AN of 31 March 2006, which established a national
+       committee for seed policy, certification, and variety registration. This law is currently being revised to align with
+       recent sector developments.
+    6. Legal Framework for Land Tenure Rights: Law No. 015-2025/ALT of 21 October 2025 on agrarian reorganization in
+       Burkina Faso, forms the basis of a land tenure law. The law restricts among others foreign land ownership
+       (foreigners cannot possess full ownership rights on rural land but can benefit from long term agricultural leases of
+       18–99 years) and introduces local commissions as well as conflict resolution mechanisms. The local commissions
+       (or ad hoc commissions) play a key role in the supervision and formalization of customary land rights, through the
+       creation of Rural Land Possession Certificates, securing the use and transmission of land, while facilitating land
+       management and mobilization for development projects. Challenges in Burkina Faso’s land tenure system
+       include weak implementation of land laws despite reforms, conflicts between customary and state systems,
+       insecurity from terrorism and resource competition, and significant disparities affecting women, youth, and
+       migrants, hindering equitable access and investment, with most rural land lacking formal registration.
+
+    7. Access to credit and private investment capital is limited for smallholder farmers2 and agri-entrepreneurs. This
+       restricts acquisition of improved inputs, value addition and development in downstream industries, especially for
+       rice and maize. Only 4 percent of total credit is allocated to agriculture, largely for cotton, and commercial banks’
+       interest rates are high, placing a financial burden on borrowers. Collateral requirements exclude small farmers.
+       Limited access to credit also constrains investment in value chains such as maize and poultry feed processing. Rice
+       processing equipment is insufficient to process the national production, and quality improvements have been
+       minimal. Scaling up and diversifying these industries will require improved access to finance, alongside targeted
+       reforms, and greater private sector engagement.
+    8. Agricultural insurance in Burkina Faso faces a complex set of challenges that limit its effectiveness, scale, and
+       impact on farmer resilience. Most agricultural insurance initiatives are small-scale pilots, with only a few thousand
+       farmers covered at any time (in the 2025 rainy season, only 22,000 producers in Burkina Faso were enrolled
+       in index-based climate insurance - including 41 percent of women)3. Premiums are sometimes unaffordable for
+       women, especially for those who face liquidity and credit constraints. In addition, women-led businesses in Burkina
+       Faso have lower access to and use of insurance compared to men, due to a combination of factors such as insurance
+
+2
+  Smallholder farmers in Burkina Faso refer to small-scale, family-focused producers who rely primarily on family labor and cultivate limited areas of land (generally
+less than 2 hectares).
+3 DGPER, Annual report, 2025.
+
+
+                                                                                                                                                                         2
+              The World Bank
+              Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+           products not addressing women’s specific risks, lower financial account ownership, and limited control over
+           financial tools. These challenges are compounded by lower financial literacy, reduced trust in financial institutions,
+           and less tailored information reaching women entrepreneurs4.
+      9. Climate change threatens agricultural production in Burkina Faso through droughts, floods, and erratic rainfall,
+         causing crop losses and reduced rural incomes. The sector’s reliance on rainfall makes crops vulnerable, and while
+         farmers adopt adaptive practices such as crop rotation, agroforestry, and soil conservation, these measures alone
+         are insufficient. Agriculture is central to Burkina Faso’s climate strategy, with Nationally Determined Contributions
+         (NDCs) aiming for significant greenhouse gas (GHG) reductions by 2030 (unconditional GHG emission reductions of
+         20.67 percent and conditional reductions of 30.87 percent), land rehabilitation, and expanded renewable energy
+         access through the Mission 300 initiative. The National Adaptation Plan (NAP) and updated NDCs target agriculture,
+         livestock, and natural resources, coordinated by various ministries and research institutes. Key challenges for its
+         implementation include insecure land tenure, limited finance and technical capacity, policy gaps, market
+         distortions, environmental degradation, technological limitations, knowledge gaps, and security risks.
+      10. Gender disparities are a significant barrier to agricultural productivity. Most economically active women in
+          Burkina Faso work in rural areas, primarily in food production, yet female-headed households experience the
+          lowest returns on labor, with productivity 16 percent lower than male-owned farms for all crops and 22 percent
+          lower for food crops5. As a result, female-managed farms experience less crop diversification, and reduced market
+          engagement, highlighting the need for more inclusive approaches to extension, technology dissemination, and
+          infrastructure design6. Women account for 55 percent of the agricultural labor force but own just 17 percent of
+          land compared to 41 percent for men, largely due to customary practices and limited knowledge of land rights 7.
+          Fewer women hold bank accounts. In 2024, only 23.26 percent of women had a bank account compared to 34.18
+          percent of men. Data suggests women's access to formal credit is limited to roughly 4.84 percent–5 percent8. Major
+          obstacles include lack of collateral (land ownership), high interest rates, and multiple responsibilities (farm work,
+          childcare) that hinder business expansion. The matching grant (MG) scheme under component is intended to
+          improve women access to finance. The grants will represent only a smaller share of the overall investment costs
+          (between 30 and 40 percent, to be increased when beneficiaries are women). Women generally have less access
+          to inputs, equipment, and extension services, and mostly use traditional tools. They have limited control over
+          family resources, less crop diversification, and are excluded from contract farming due to lack of land, labor,
+          financial resources, and support services. Nutrition and care burdens fall disproportionately on women, influencing
+          their ability to adopt Climate-Smart Agriculture (CSA) practices or engage in value-added activities.
+        Box 1: Lijeeguoli initiative: An opportunity to build on Burkina Faso’s emerging private sector champions in Agriculture. In
+        recent years, several local enterprises have demonstrated leadership in transforming Burkina Faso’s agricultural sector and
+        elevating standards through partnerships with smallholder farmers. Notable rice brands such as Kokuma, Faso Malo, and Neema
+        have improved urban market offerings by sourcing through contractual agreements with growers - providing them with critical
+        inputs, access to loans, and technical assistance. Agroserv has positioned itself as the leading producer of maize flour and a key
+        supplier of grits to the brewery sector. Mango exports are likewise advancing, with Société Nouvelle Ranch du Koba investing in
+        improved export packing and processing capabilities, joined by other emerging actors including FRUITEQ, Sanlé Séchage Export,
+        and Rose Eclat. Financial innovation is also underway, exemplified by Yelen Assurance’s pioneering use of satellite-based index
+        insurance for smallholder producers of maize, millet, and sorghum, offering crucial protection against drought and rainfall
+        shortfalls.
+
+
+4 https://documentsinternal.worldbank.org/Search/40068416
+5https://www.econstor.eu/bitstream/10419/273649/1/182048226X.pdf
+6 https://documentsinternal.worldbank.org/Search/34264389
+7
+    https://documents1.worldbank.org/curated/en/099062524130526315/pdf/P177349-b99447b0-f84f-4e0f-a767-e64a0d05e45b.pdf
+8 https://www.tandfonline.com/doi/full/10.1080/02255189.2024.2415583?src=exp-
+
+la&utm_#:~:text=The%20choice%20of%20Burkina%20Faso,consequence%20of%20gender%2Dbased%20inequalities.
+                                                                                                                                        3
+              The World Bank
+             Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+    11. ATP-BF is aligned with the World Bank Group (WBG) AgriConnect initiative as it aims to have a transformative
+        impact on Burkina Faso’s agriculture with direct impacts on job creation and improvement of food security. This
+        ambitious goal will be achieved by addressing the critical underlying structural constraints facing agricultural
+        activities and building upon other initiatives in the sector, including the WBG-financed operations. The proposed
+        activities are fully aligned with the three pillars of the AgriConnect framework: (a) foundational infrastructure,
+        clustered around irrigation and aggregation facilities, with connection to transport/logistics and energy networks;
+        value-chain based structuring of smallholder organizations coupled with farmers development skills; support to
+        establishing the digital public infrastructure for value chains coordination and climate services; (b) reforms and
+        regulatory measures, focusing on institutional realignment of extension services with the introduction of AgTechs9,
+        as well improved regulations on norms, quality and traceability; and (c) mobilizing of private capital, through
+        deepening existing derisking mechanism and introducing new financing modalities and instruments to increase
+        access to financial services for the underserved. The activities supported by the project are also aligned with the
+        six AgriConnect scalable solutions: (a) aggregation models; (b) AgTech solutions; (c) physical infrastructure; (d)
+        skills, extension & research; (e) financial ecosystem for farmers; and (f) policy reforms.
+
+ II. PROJECT DESCRIPTION
+
+ A. Project Development Objective
+      12. The Project Development Objective (PDO) is to increase production, market access, and climate resilience of
+          smallholder farmers along selected value chains in the project areas.
+    13. Key PDO indicators are: (a) people fed as result of increased agricultural/food production (number, Corporate
+        Results Indicator, CRI); (b) farmers and agri-value chains actors having increased market access/linkages or trade
+        (number); and (c) farmers and/or agri-value chain actors adopting improved agricultural technology (including
+        climate-smart agriculture) (number).
+
+ B. Theory of Change and PDO Indicators
+    14. The Theory of Change in Figure 1 presents the project’s results chain. The PDO objective will be achieved through:
+        (i) adoption of modern technologies (including improved seed varieties, mechanization and CSA technologies) and
+        development of irrigated land; (ii) support to diversification; (iii) strengthening POs and facilitation of access to
+        markets; (iv) agro-processing enterprise development and improved access to finance; and (v) institutional
+        strengthening of both public sector agencies, private enterprises and financial institutions to facilitate technology
+        adoption, service delivery, and access to finance. In the long term, the project will build Burkina Faso’s capacity
+        for food self-sufficiency, improved resilience to climate shocks, and support more job creation in the targeted value
+        chains.
+    15. The Theory of Change in Figure 1 is based on the results chain and outlines the logical link between activities and
+        expected outcomes. It summarizes the activities, the outputs and outcomes as measurement of the PDO,
+        contributing to high level outcome of people with improved food security) and the country’s long-term goals.
+
+
+
+
+9AgTech refers to companies using innovations in agriculture aimed at improving efficiency, profitability and resilience. It includes devices, sensors, robotics
+
+automation, and artificial intelligence. In the context of Africa, AgTechs help structure smallholder farmers, facilitate their access to technologies, services and
+markets.
+
+
+                                                                                                                                                                       4
+              The World Bank
+              Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+                                              Figure 1: Project Theory of Change
+   16. Low agricultural production, vulnerability to climate change, and weak market linkages—driven by limited access
+       to inputs, technology, finance, and infrastructure—are constraining food security, jobs, and inclusive growth for
+       farmers and agri-value-chain actors.
+
+
+
+
+    :
+          A
+
+
+
+      ,   A
+      A
+              A
+  :
+
+
+
+
+      A
+
+   :A     A
+  F A
+
+
+   : ns tu onal
+  trengthening
+   and project
+  coordina on
+
+
+
+
+C. Project Beneficiaries
+   17. The project is expected to reach about 150,000 direct beneficiaries with a focus on smallholder farmers as key
+       players in the structural transformation of the sector. The majority of these beneficiaries are farmers including
+       women, youth and internally displaced persons (IDPs), POs and agriculture-related small and medium enterprises
+       (SMEs). Other direct beneficiaries include the public institutions involved in project implementation that would
+       benefit from increased capacity, primarily the public agriculture services. The project is also expected to benefit
+       rural communities through targeted functional and technical skills development programs and the creation of job
+       opportunities resulting from investments in lowland and irrigation schemes development, and the promotion of
+       private sector investment in the targeted value chains. The positive externalities from enhancing climate resilience
+       will also ensure a broader local community impact, hence making local communities’ members indirect
+       beneficiaries of the project. Project interventions will be tailored to address specific needs of beneficiaries’ groups
+       (IDPs, women and youth).
+
+ D. Project Components
+
+   18. Project geographic scope and commodity focus. The project will focus on four of the seventeen regions of Burkina
+       Faso10. These regions were selected based on their agricultural potential, prevalence of targeted value chains and
+       the scalability of Burkina Faso Agriculture Resilience and Competitiveness Project (Projet de Résilience et
+
+
+10 Tannounyan, Guiriko, Bankui, and Yadga.
+                                                                                                                            5
+             The World Bank
+            Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+         Compétitivité Agricoles, PReCA
+         – P167945) interventions. The
+                                                          Figure 2: Top Ranked 5 food security crops in Burkina Faso and averages scores for West Africa
+         frequency of terrorist attacks                                                            (Source: IFC HEATMAP)
+         and associated fatalities has
+                                                    Region average
+         declined across all four regions                            Maize
+                                                    Country scrore
+         in 202511, most notably within             Region average
+         urban and peri-urban zones,                                 Rice
+                                                    Country scrore
+         resulting in enhanced safety               Region average
+         and more reliable transit                                   Millet
+                                                    Country scrore
+         through these areas, presenting            Region average
+         an opportunity to use increased                       Groundn Cotton
+                                                    Country scrore
+
+
+                                                                  ut    seed
+         agricultural productivity, value           Region average
+
+         addition, and climate resilience           Country scrore
+
+         to mitigate socioeconomic                                 0                   2                  4                  6                8                 10                 12
+                                                                      Score for the 5 top food security crops in Burkina Faso and comparison with the average score in West Africa
+         drivers of insecurity. The
+         project will start in more secure
+         zones and progressively expand activities as the security situation improves. Key project investments such as
+         irrigation, storage facilities and aggregation centers will be concentrated in these regions, where supporting
+         infrastructures (energy, rural roads) will be co-located. The project’s priority value chains are rice and maize, the
+         main staple crops of Burkina Faso in terms of consumption, production, number of farmers involved in the value
+         chains, and private sector interest. These two value chains are selected based on existing market demand and
+         supply conditions, key competitiveness drivers and the business environment (Burkina Faso HEATMAP12). These
+         value chains have also been selected for their financial profitability, their potential for job creation and/or their
+         importance for export/import substitution. This list is meant to be adjustable as a function of the private sector
+         appetite and the changing sector environment, both domestic and external, and based on the specific factors that
+         have determined their selection in the first place. For the targeted value chains the project will support private
+         sector through MGs and derisking instruments (aggregators, agribusiness, agro-dealers, agro-industries, agro-
+         processors, exporters, business development services-BDS) with high impact in terms of smallholder farmer
+         participation in the supply chains and contributing to the PDO.
+     19. Rice: Domestic rice production covers only about half of national demand, driving costly imports and vulnerability
+         to price shocks. Less than 10 percent of roughly 500,000 ha of suitable lowlands and under 5 percent of 233,500
+         ha irrigable land are developed for rice. Rainfed yields average around 2 tons/ha. Irrigated rice accounts for about
+         23 percent of the area but over half of production, reflecting higher yields (4–7 tons/ha). Constraints include weak
+         seed systems, fertilizer access, mechanization, post-harvest losses, suboptimal milling (60–62 percent yields),
+         limited market organization, and access to credit. Under the National Rice Development Strategy (2021-2030)13,
+         Burkina Faso plans to develop new irrigation schemes and lowlands, rehabilitate degraded sites, and invest in
+         soil/water conservation to unlock high-yield potential. The country aims to increase rice production by 200 percent
+         by 2030 (3 million metric tons/year). The project will contribute to an increase in volume of 300,000 metric
+         tons/year.
+     20. Maize: Maize is the second largest agricultural crop after sorghum, and a staple crop for food security and
+         marketing. The government aims to achieve a production of 2.4 million tons of maize for the 2025-2026 wet season.
+
+
+11 https://acleddata.com/conflict-data
+12
+   Heatmap is a data-driven tool developed by the International Finance Corporation (IFC) for prioritizing investment opportunities in food security value chains and
+based on more than 60 country and crop specific quantitative and qualitative datapoints from public and in-house WBG data.
+13 https://riceforafrica.net/wp-content/uploads/2021/09/burkinafaso_sndr2021-2030.pdf
+
+
+                                                                                                                                                                                6
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+      Maize yields vary widely, ranging from less than 3 t/ha in food-production areas to more than 4 t/ha in cotton-
+      production areas. The major challenges in maize production are (a) frequent contamination by aflatoxins due to
+      insufficient post-harvest practices; (b) low productivity compared to international standards; (c) high dependence
+      on rainfall conditions; and (d) weak link with markets and low level of processing. The country aims to increase
+      maize production by 50 percent by 2030 (3.6 million metric tons/year) by using hybrid maize varieties and increase
+      the use of crop specific fertilizer recommendations. The project will contribute to an increase in volume of 500,000
+      metric tons/year.
+COMPONENT 1: IMPROVING AGRICULTURAL PRODUCTIVITY AND RESILIENCE TO CLIMATE CHANGE (TOTAL US$104.2 MILLION EQUIVALENT;
+IDA FINANCING US$96.3 MILLION, COUNTERPART FUNDING: US$7.9 MILLION)
+  21. The focus of Component 1 is to increase use of solar powered equipment, strengthen farmers’ resilience to climatic
+      shocks, and diversify crop production in response to effective market demand. Expected outcomes from this
+      component include improved farm-level productivity, increased volume and quality of marketable products,
+      diversification of production including vegetable production, and improved nutrition. Project support will initially
+      be delivered through the national extension service and agriculture sector institutions, gradually transitioning to
+      partnerships with cooperatives, aggregators, processors, and AgTech firms that have demonstrated effective
+      outreach and contracting with smallholder farmers. ATP-BF will utilize the organization assessment and tracking
+      tool developed under IFC’s Agriculture Leadership Program (ALP) to identify organizations with the necessary
+      governance and management capacity. Potential partner cooperatives and private organizations will be identified
+      through an initial value chain ecosystem mapping effort, which will inform a database and pipeline of promising
+      entities for scaling up of ATP-BF’s successes. Support under this component is proposed to be organized around
+      the following subcomponents.
+
+  22. Subcomponent 1.1: Enhancing access to agricultural inputs and improved technologies. To improve rice and maize
+      productivity, this subcomponent aims to support and incentivize the adoption of CSA technologies and practices
+      that deliver triple wins of increased productivity, enhanced resilience to climate shocks, and reduced GHG
+      emissions. Key activities to be financed under this subcomponent include: (a) strengthening institutional and
+      commercial input supply systems (for example, seeds, plants and fertilizers) to improve availability and timely
+      access to high-quality inputs by using the existing e-voucher mechanism. This includes assessing current systems,
+      enhancing quality control mechanisms, and expanding the production and distribution of improved planting
+      materials, certified seeds, fertilizers, and agrochemicals.; (b) improving advisory service delivery by local extension
+      teams, local agro-dealers, technology suppliers, and aggregators, including support for capacity building and
+      outreach—particularly targeting technologies having strong potential impact on women farmers; and (c) enhancing
+      adoption of appropriate mechanization and digital technologies including labor saving technologies for women,
+      and facilitating access to climate forecasting, early warning systems and pest/disease monitoring tied to climate
+      change. Targeted technologies and services will be adapted to local production environments, customized to
+      farmer capacities and resources (with special attention to labor-saving, GHG emission reduction, affordable
+      technologies for women), and driven by market demand. To this end, ATP-BF will progressively partner with existing
+      service providers and foster the creation of cooperative, SME, and AgTech-led services.
+  23. The project will also support maize and rice POs and aggregator networks involved in extension as part of their
+      business model to facilitate technology transfer, technology sourcing and demonstration, farmer training,
+      improved availability and access to germplasms and inputs that are more productive and adapted to climate
+      change, and efficient advisory service delivery. This will include: (a) strengthening of selected POs and private
+      network field agents through training in group dynamics to promote good governance; and (b) strategic planning,
+      operational and business management, and marketing plans. In delivering these training courses, IFC will provide
+
+                                                                                                                           7
+         The World Bank
+        Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+      expertise and training modules through its ALP, which will work with national extension to adapt modules and
+      introduce its stakeholder tracking tool to assess and monitor capacity progress.
+  24. Subcomponent 1.2: Supporting diversified production, lowland development and irrigation schemes. To
+      strengthen the resilience of rice-based and maize-based cropping systems, and enhance farmers ability to address
+      mono-cropping related risk, this subcomponent aims at supporting productive land development by increasing the
+      provision of irrigation services, including the use of solar-powered irrigation systems, and promoting crop rotation
+      combining rice and maize production with high value crops (for example, horticulture) year-round. The project will
+      finance 3,900 ha of new solar pumping irrigation schemes and 1,800 ha of lowlands development with special focus
+      on integrated soil fertility, CSA practices with a special attention to women and youth through MGs planned under
+      Subcomponent 3.1. Women-led CSA demonstration plots will be established and farmers’ field days for women
+      will be organized to promote adoption of improved agricultural technologies. The procurement of development of
+      irrigated land works will be selected competitively using international competition. As an exception, in security
+      challenging zones where private contractors are not expected to operate, the National Corporation for Land
+      Development and Rural equipment (Société Nationale de l'Aménagement des Terres et de l'Equipement Rural,
+      SONATER) will be contracted directly as a public enterprise in accordance with the provisions of Clause 3.22 (c) of
+      the Procurement Regulations, September 2025 edition. To manage potential conflicts of interest with MAERAH,
+      the following measures will be taken: (a) the SONATER contract will be awarded on the basis of the World Bank's
+      standard forms of works contract; (b) the contract will be concluded in areas with security challenges where private
+      operators may have difficulty securing the sites; (c) a supervision engineer will be hired by the PIU to supervise
+      works; (d) a third-party monitoring agent will be appointed to supervise execution and address any conflict of
+      interest; and (e) SONATER will sign subsequent contracts only if performance is satisfactory. In this regard, the
+      project will support acquisition of equipment for SONATER to reinforce its capacity to perform irrigation land
+      development works.
+  25. The project will provide support to water user associations to ensure that irrigation water is optimally utilized. For
+      all project investments land tenure rights will be secured in collaboration with the relevant land tenure department.
+      About 20 percent of irrigated areas will be allocated to women, while 30 percent of beneficiaries of irrigated land
+      are expected to be women. Support to women’s leadership in Water Users Associations will also be provided. Due
+      attention will be paid to operations and maintenance arrangements, both during project implementation and after
+      project completion, to avoid the pitfalls in that area encountered in many past irrigation operations. Activities will
+      be implemented in close coordination with the on-going World Bank-financed Water Security Project (BFWSP,
+      P177094). A successful shift in favor of more diversified production, together with sustained increases in the
+      productivity of staples, would not only generate increased productivity and better incomes for farmers, but it will
+      also result in improved nutrition and food security, foster biodiversity, and strengthen resilience of the production
+      systems to climate change. The project will also explore the multipurpose use of water by farmers (irrigation,
+      drinking water and livestock). Building on the experience of other projects, particularly PReCA (P167945),
+      irrigations studies are being conducted so that implementation can begin promptly after project approval.
+COMPONENT 2: IMPROVING STORAGE, AGRO-PROCESSING AND ACCESS TO MARKETS (TOTAL US$23.2 MILLION EQUIVALENT IDA
+FINANCING)
+  26. Under Component 2, the project will support producers, off-takers and processors to better access domestic and
+      export markets, reduce the risks associated with diversification (for example, for production of perishable such as
+      fresh fruits and vegetables), diminish post-harvest and marketing losses, and increase the range and quantity of
+      locally produced agricultural commodities for both rural and urban markets. The focus will be on supporting agri-
+      related women groups, cooperatives, and SMEs. This will be done in synergy with IFC, as well as with other World
+      Bank - financed projects supporting value chains development and private sector investments (for example, West
+
+                                                                                                                          8
+         The World Bank
+        Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+      Africa Food System Resilience Program-FSRP, P172769 and Burkina Faso Entrepreneurship, Skills and Technology
+      Project-ESTP, P177005).
+  27. Subcomponent 2.1: Developing market access and infrastructure. This subcomponent will finance the following
+      activities: (i) a comprehensive territorial market ecosystem study, inspired by the model co-developed by IFC and
+      World Bank in the region, will be conducted under this subcomponent. The study will map existing infrastructure,
+      identify gaps relative to target production zones and anticipated market flows, and integrate value chain actor
+      assessments. To facilitate linkages, this subcomponent has a twin focus: (a) ensuring agri-food quality and safety is
+      integrated in the food trade; and (b) improving access to market information and communication between market
+      actors to coordinate logistics and facilitate equitable trading practices for processed products and access to
+      advisory services for agri-SMEs; (ii) developing and updating quality norms and standards and methods to make
+      them applicable in the food system; (iii) training of producers on sanitary and Phytosanitary Standards (SPSs) (with
+      a special emphasis on women processors) to effectively engage/participate in specific markets by meeting the
+      processors needs in terms of commodity standards (for example, through support by BDS to integrate these
+      standards in the contracting process); (iv) training of processors on quality standards and safety of marketed
+      products; (v) developing market intelligence (including market information systems); (vi) introducing farmers and
+      SMEs to digital technologies facilitating post-harvest activity planning, product tracking and aggregation, and
+      product traceability to monitor conformity to standards. IFC’s ALP and the Africa Adaptation Acceleration Program
+      (AAAP) initiative will coordinate with the Project Implementation Unit (PIU) to transfer best practices in cooperative
+      commercial management and digitally supported aggregation technologies respectively, with the objective of
+      building local enterprises (BDS and AgTech) to sustainably support the sector and create job opportunities for
+      youth; and (vii) developing small to medium scale climate-resilient marketing and storage facilities that will be
+      managed by POs and benefitting SMEs as under ongoing projects (PReCA and FSRP-Burkina Faso). This
+      infrastructure consists of, two solar-powered 500 metric ton cold rooms, fifteen 250-ton grain storage warehouses
+      with drying areas, fifteen 250-ton storage warehouses for input storage and twenty onion storage warehouses to
+      reduce post-harvest losses and spoilage and extend products’ “seasonal marketing window”, especially for
+      perishable products and climate-resilient market facilities (four aggregation points), ensuring that these facilities
+      are demand-driven by end-beneficiaries and optimally utilized and maintained. To facilitate the transport of
+      commodities from producing areas to end markets, the project will rely on investments planned on roads under
+      the Sikasso- Korhogo-Bobo-Dioulasso (SKBo) Basin of Integration Project - P181499 and Secondary Cities Urban
+      Mobility and Development Project - P177918.
+  28. Subcomponent 2.2: Supporting agro-processing and value addition. This subcomponent aims to: (a) increase
+      returns to investments in the selected value chains through agro-processing and (b) promote adoption, acquisition
+      and sustained use of climate-resilient processing, packaging and handling technologies and practices to improve
+      output, efficiency, competitiveness of targeted agro-processing activities and adaptation of processors to extreme
+      climate events. Activities to be financed under this subcomponent include: (a) training of processors in processing
+      techniques and packaging with a particular emphasis on youth and women; (b) construction and equipment of
+      maize and rice processing units; and (c) training of manufacturers of processing equipment. SME performance will
+      be tracked to identify those showing promise for expansion and scale, that could benefit from IFC upstream
+      advisory and other investment pathways.
+
+COMPONENT 3: PROMOTING ACCESS TO FINANCE AND PRIVATE SECTOR INVESTMENT (TOTAL US$63.0 MILLION EQUIVALENT; IDA
+FINANCING US$15.0 MILLION, UNGUARANTEED FINANCING: US$48.0 MILLION)
+
+  29. Subcomponent 3.1: Promoting access to finance and leveraging green financing opportunities. This
+      subcomponent focuses on (a) broadening the availability and affordability of financial services—especially for
+      underserved groups such as Micro, Small, and Medium Enterprises (MSMEs), women, and youth—and (b)
+                                                                                                                          9
+       The World Bank
+      Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+    mobilizing resources for investments that support environmental sustainability, climate resilience, and low-carbon
+    growth. Key activities to be financed under this subcomponent include: (a) providing MGs with a focus on
+    beneficiaries adopting CSA technologies; (b) strengthening the national agricultural insurance programs; and (c)
+    expanding the scope of the existing partial portfolio credit guarantee mechanism in the country for private capital
+    mobilization (PCM) developed with World Bank support.
+30. Matching Grants (MG). The project will establish an MG mechanism that will provide partial support (blended
+    finance) to farmers and agri-business operators. The grants will represent only a smaller share of the overall
+    investment costs (between 30 and 40 percent, to be increased when beneficiaries are women, youth or IDPs), and,
+    therefore, for financial closure, beneficiaries will mobilize the remaining resources either with their own capital or
+    loans from financial institutions. The MG mechanism will target (a) smallholder producers, POs, women groups,
+    cooperatives, and SMEs that need financing to create, acquire, upgrade and/or modernize their existing agriculture
+    production, storage and processing facilities and (b) all other private sector players and entrepreneurs involved in
+    the selected agriculture value chains with similar needs.
+31. The project will finance a total of 800 MGs through two dedicated windows: (a) Window 1: about 400 small MGs
+    of up to US$4,000 for IDPs with 80 percent of sub-project financing requirements supported by the project and the
+    remaining 20 percent by beneficiaries, and (b) Window 2: about 400 medium MGs of up to US$10,000 with 30
+    percent of a given sub-project’s financing requirements supported by the project and the remaining 70 percent by
+    beneficiaries and financial institutions. Over time, Window 2 could broaden its impact by supporting larger national
+    private sector companies that can serve as key drivers in developing and strengthening priority value chains. The
+    eligibility and selection criteria of the beneficiaries, and the accessibility to the MGs predicated on the kind of
+    investments to be undertaken, as well as procedures to be followed all along the investment cycle, will be detailed
+    in the Project Implementation Manual (PIM). The MG scheme will be managed by the PIU in close collaboration
+    with MAERAH regional directorates. PCM of US$3 million has been added to the financing table based 20 percent
+    of 400 beneficiaries’ contribution for window 1 (US$4,000*0.2*400= US$320,000) and 70 percent of 400
+    beneficiaries’ contribution for window 2 (US$9,571*0.7*400= US$2,680,000).
+
+32. Agriculture insurance. To protect farmers and cooperative production assets, the project will work with the
+    General Directorate of Promotion of the Rural Economy (Direction Générale de la Promotion de l'Economie Rurale,
+    DGPER) to strengthen the national agricultural insurance program, through (a) strengthening data collection to
+    enhance the design of the index insurance products as tools to manage climate risks; (b) providing insurance
+    premium subsidies to agricultural producers (the project will support the subsidy which is equal to 50 percent of
+    the premium - further details will be provided in the PIM); and (c) capacity building and awareness raising of all
+    stakeholders along the agriculture insurance value chain. This risk-sharing mechanism will provide a sustainable
+    continuation of activities initiated through MG funding and ensure that the risk due to climate-induced
+    unpredictability in yields and incomes is duly considered. A differentiated premium subsidy will be established to
+    increase the use of insurance services by women. The project will provide technical support to MAERAH to
+    implement a one-stop window for agricultural risk management.
+
+33. Partial portfolio credit guarantee scheme. Acknowledging the importance of de-risking and mobilizing additional
+    financing from banks and microfinance institutions, the project will leverage the existing agriculture window of the
+    partial portfolio credit guarantee scheme established under the Financial Inclusion Support Project in Burkina Faso
+    (FISP - P164786) to facilitate access to credit and increase PCM. The project will coordinate with FISP to add new
+    eligibility criteria to the agriculture window that are aligned with the objectives of the Lijeeguoli initiative without
+    additional endowment to the window. The project will also provide capacity building activities for selected
+    beneficiaries to make better use of the existing financing opportunities with special emphasis on women-focused
+
+                                                                                                                         10
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+      financial literacy and coaching. Guidance for women to access partial credit guarantee will also be provided.
+
+
+  34. Subcomponent 3.2: Promotion of private investment. Activities to be financed under this subcomponent include:
+      (a) provision of tailored technical assistance and capacity building to BDS providers so that they can in turn
+      strengthen traceability, participation and management skills of client investors to develop their business plans and
+      coach them to ensure the success of their projects; (b) promoting access to market for processed products through
+      certification, traceability, participation to both national and international fairs; (c) promoting contract farming
+      along the targeted value chains; and (d) supporting activities aided at dissemination of the law on the Agricultural
+      Investment Code. The project will leverage IFC’s experience in supporting private investment projects across the
+      value chains and conducting deep dives on investment opportunities.
+
+COMPONENT 4: INSTITUTIONAL STRENGTHENING, AND PROJECT COORDINATION (TOTAL: US$25.5 MILLION EQUIVALENT; IDA FINANCING
+US$15.5 MILLION, COUNTERPART FUNDING US$10.0 MILLION)
+  35. Subcomponent 4.1: Support to institutional strengthening will finance (a) assessing public institutional and
+      training needs and financing critical capacity-building initiatives to meet those needs including training extension
+      workers to better serve women producers and (b) establishing a robust planning and M&E system and an
+      Management Information System (MIS), integrated with similar systems across other relevant ministries.
+  36. Subcomponent 4.2: Support to project coordination, monitoring and evaluation will finance, among others: (a)
+      the operational costs for project management both at the central and regional level; (b) the environmental and
+      social (E&S) activities designed to monitor and comply with the requirements of the World Bank’s Environmental
+      and Social Framework (ESF); (c) project fiduciary management and M&E activities; (d) communication and
+      knowledge management activities; and (e) citizen engagement activities and the project’s grievance redress
+      mechanism (GRM).
+COMPONENT 5: CONTINGENT EMERGENCY RESPONSE COMPONENT (CERC) (US$0)
+  37. A CERC with zero allocation may be used to contribute to an emergency response through the timely
+      implementation of activities in response to an eligible national emergency. A CERC is included in the project in
+      accordance with the World Bank Investment Project Financing (IPF) Policy (paragraphs 12 and 13, for Situations of
+      Urgent Need of Assistance and Capacity Constraints). This will allow for rapid reallocation of uncommitted funds in
+      the event of an eligible emergency as defined in the World Bank Operational Policy on Rapid Response to Crises
+      and Emergencies (OP 8.00). A Contingent Emergency Response Manual will be prepared as an annex to the PIM.
+      The E&S instruments required for the CERC are prepared, disclosed, and adopted in accordance with the CERC
+      Manual and the Environmental and Social Commitment Plan (ESCP). For the CERC to be activated, and financing to
+      be provided, the government will need to: (a) submit a request letter for CERC activation, and the evidence required
+      to determine the eligibility of the emergency, as defined in the CERC annex, an Emergency Action Plan, including
+      the emergency expenditures to be financed; and (b) meet the E&S requirements as agreed in the Emergency Action
+      Plan and ESCP.
+
+
+
+
+                                                                                                                       11
+          The World Bank
+          Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+E. Roles of Partners
+ Name of Partner                        Nature of Involvement /Description
+ African Development Bank (AfDB)        ATP-BF will work with AfDB supported projects for the choice of sites where
+                                        storage, processing, and marketing infrastructures will be constructed.
+                                        Beneficiary lists and information on irrigation sites to be developed will also be
+                                        shared to avoid duplication.
+ West African Development Bank          ATP-BF will work with West African Development Bank - funded project for the
+                                        choice of sites where storage, processing, and marketing infrastructures will be
+                                        constructed to avoid duplication.
+ Islamic Development Bank (IsDB)        ATP-BF will share beneficiary lists and information on irrigation sites to be
+ International Fund for Agricultural    developed to avoid duplication.
+ Development (IFAD)
+ Kreditanstalt für Wiederaufbau
+ (KfW) Development Bank
+
+
+ F. Lessons Learned and Reflected in the Project Design
+   38. The design reflects international consensus on agriculture development and draws on the specific operational
+       experiences from World Bank -funded projects in Burkina Faso and other countries, as well as reviews by external
+       bodies. Lessons from significant World Bank-funded projects include first those from the PReCA. ATP-BF’s design
+       drew also from various other projects in Burkina Faso and West Africa: (a) the Burkina Faso Agricultural Productivity
+       and Food Security Project (PAPSA, P114236), the Burkina Faso Agri-Sylvo-Pastoral Value Chains Support Project
+       (PAFASP, P081567) and the Mali Support to Agro-industrial Competitiveness Project (PCDA, P151449) - all these
+       projects supported irrigation and food crops destined for the market; (b) the West Africa Agricultural Productivity
+       Program (WAAPP, P095214), which facilitated new technology adoption through Farmer Field Schools; (c) the
+       region wide Food System Resilient Project (FSRP, P172769), the Sahel Irrigation Initiative Support Project (Projet
+       d’Appui Régional à l’Initiative pour l’Irrigation au Sahel, PARIIS, P154482); and (d) the Financial Inclusion Support
+       Framework (FISF, P147776) that aimed to accelerate and increase the effectiveness of reforms and other country-
+       led actions to achieve national financial inclusion goals. ATP-BF also incorporates insights from the Independent
+       Evaluation Group (IEG) review of the World Bank’s experience in agriculture and agri-business sectors, emphasizing
+       the importance of supporting production, processing, market access, and capacity building.
+
+   39. Key lessons considered in project design are as follows:
+    a) Project alignment with past and ongoing initiatives to address gaps and scale up successful pilot projects.
+       Ensuring alignment with national initiatives is important to avoid duplication and isolated efforts. The project
+       builds on sector interventions by MAERAH, focusing investments in high-potential areas within targeted zones to
+       address constraints, achieve economies of scale, and stimulate overall economic activities.
+    b) An integrated, demand-driven approach is necessary for effective results. The project aims to increase
+       productivity, value addition, and climate resilience comprehensively along selected value chains in the project
+       areas. Investments will be promoted jointly within the different segments of selected value chains from
+       production to marketing in an integrated fashion based on end-users demands.
+    c) Supporting private investments in targeted value chains to enhance agri-SMEs' access to finance is critical. It
+       involves: (i) selecting promising proposals; (ii) assisting investors in developing detailed proposals that meet
+       financing institutions’ requirements; (iii) de-risking lending by using the existing partial loan guarantees; and (iv)
+       assisting investors in launching their activities successfully. These activities are integral part of the project design.
+
+
+
+                                                                                                                             12
+             The World Bank
+            Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+     d) Strengthening government capacity is key for successful project implementation. The project will strengthen
+        government capacity to deliver public services such as planning, research, sanitary control, and M&E while
+        promoting private service providers involvement.
+     e) Considering the role of women and youth, and the needs of IDPs, is vital for project design. Women, youth and
+        IDPs play significant roles along the selected value chains. Offering opportunities to facilitate their access to assets,
+        finance, and jobs, thereby improving their welfare is therefore required. In this regard, the project will increase
+        economic opportunities for women and youth by promoting postharvest technology and developing
+        entrepreneurial skills. Women, youth, and marginalized groups such as IDPs will be involved in decision-making
+        processes, fostering a sense of shared responsibility and mutual benefit.
+     f)   nhancing beneficiaries’ capacities regarding all aspects of investment implementation (technical, financial,
+        organizational, and management) is crucial for value chain development and competitiveness. World Bank
+        experiences highlight the need for activities to improve beneficiaries’ capacities all along the supply chain to
+        achieve competitiveness and development, such as supporting production volume and quality, strong
+        communication, efficient market infrastructure, and technical expertise. Enhancing these capacities is integral to
+        the project's activities.
+     g) Adaptive management and local capacity building are critical in fragility, conflict and violence (FCV) contexts.
+        Adaptive management requires ongoing monitoring and readiness to adjust to changes. Flexibility and
+        responsiveness are key to managing projects successfully in unstable settings. Implementing conflict-sensitive
+        practices ensures that projects do not exacerbate existing tensions. Training programs, mentorship, and
+        collaborative planning empower local stakeholders, enabling them to take ownership of project activities and
+        continue project objectives beyond external involvement.
+
+ III. PROJECT IMPLEMENTATION
+ A. Institutional and Implementation Arrangements
+    40. MAERAH will have overall responsibility for ATP-BF’s implementation; it will liaise closely with the inistry of
+        Trade and Industry for private sector development and agro-processing. The project will contribute to the
+        implementation of the Lijeeguoli Initiative. The initiative’s National PIU is housed in MAERAH's ‘Steering and
+        Support’ Budget Program 080. The project is implemented under the responsibility of a coordinator who works
+        under the authority of the National Coordinator of the Lijeeguoli Initiative. A dedicated PIU will be established for
+        this project and in accordance with the provisions of the general regulations for development projects and
+        programs implemented in Burkina Faso.
+    41. ATP-BF will have the same Steering Committee (SC) as the Lijeeguoli Initiative. The SC will be chaired by
+        MAERAH’s Secretary General and serve as a guidance body. It will have appropriate representative membership
+        and will meet at regular intervals. It will approve the Annual Work Plans and Budgets (AWPB) and progress reports.
+        The project implementation structure will consist of a PIU at national level, based in Ouagadougou, and regional
+        units based in MAERAH’s regional directorates in the four regions covered by the project. ATP-BF’s PIU will be fully
+        integrated into MAERAH’s structure as advocated by the authorities and operate in close synergy with the PIUs of
+        other operations contributing to the Lijeeguoli initiative14. The PIU will work in close coordination with MAERAH’s
+        technical directorates (DGADI, DGPER, DGPV, DGFOMR) at central and regional levels, as well as with partner
+        government agencies (SONATER, SOBIMAP) involved in project implementation. To facilitate project
+        implementation, there will be Focal Points in MAERAH’s central directorates and partner agencies, as well as in key
+        directorates of the Ministries in charge of Industry and Commerce, and Dumu Ka Fa, the fund facility in charge of
+        implementation of the project MG scheme. The PIU will sign technical agreements with the above entities to carry
+
+
+14 Those projects include IFAD and AfDB supported operations under preparation with specific dedicated PIU under the Lijeeguoli initiative.
+
+
+                                                                                                                                              13
+        The World Bank
+       Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+     out project activities within their respective mandates. Concerning project readiness for implementation, a draft
+     PIM has been prepared, and the Grant Facility for Project Preparation (GFPP) grant will be used to conduct
+     technical, E&S safeguards studies and proceed with project staff recruitment to have them onboard before project
+     effectiveness.
+ 42. ATP-BF’s oordinator and high-level staff will be appointed or competitively recruited. The Project Coordinator
+     signature will be required to commit project funds. S/he will be assisted by a team of high caliber, competitively
+     recruited staff, covering technical, fiduciary and safeguards functions deemed critical for proper project
+     implementation and management. MAERAH has been responsible over the past decade, and is still responsible
+     currently, for implementing several important World Bank-funded projects, including PARIIS (closed FY 2024) and
+     the ongoing PReCA, Livestock Resilience and Competitiveness Project (PRECEL, P178598), FSRP-BF, Regional Sahel
+     Pastoralism Support Project II (PRAPS2-BF, P173197)and Burkina Faso Water Security Project (BFWSP, P177094).
+     MAERAH’s reasonable track record in managing these projects is evidence that it has acquired a degree of capacity
+     to support ATP-BF’s PIU from technical, financial management (FM), safeguards and M&E viewpoints. However,
+     there are still weak areas where improvement is needed, particularly in terms of fiduciary management.
+     Subsequently, detailed implementation arrangements will be worked out as part of the preparation of the PIM to
+     ensure that MAERAH and other ministries maintain sufficient implementation capacity, promote complementarity
+     and avoid overlapping between the different projects under their watch. The PIM will compile all ATP-BF’s
+     operational procedures, encompassing the administrative, fiduciary, procurement, M&E and social and
+     environmental safeguards procedures. It will include detailed Terms of Reference (ToRs) for all PIU staff. Drawing
+     on the experience of other World Bank-financed projects, similar sections of the PIM will be prepared for the MGs
+     scheme.
+B. Results Monitoring, Evaluation, and Verification Arrangements
+ 43. A comprehensive M&E system will be implemented to provide quality data to inform the Results Framework (RF)
+     and allow the government and the World Bank to react immediately if any issues arise regarding project
+     implementation. The M&E system will serve as a day-to-day management tool to guide project implementation,
+     and as a mechanism for periodic assessment of project performance to gauge project impact. It will combine
+     collection of quantitative data on the RF performance indicators with provision of qualitative information on
+     project impacts that cannot be fully assessed quantitatively. The system will comprise regular quantitative data
+     collection with periodic qualitative surveys on key thematic areas such as the underlying causes of inequalities,
+     such as cultural values, social norms, and decision-making power. This will support project supervision by ensuring
+     that baseline and follow-up survey data on the key performance indicators are available and regularly updated.
+     The M&E system will be designed to link technical and financial data regarding project implementation, so that it
+     helps establish a comprehensive project MIS.
+ 44. In undertaking M&E activities, to collect data in areas difficult to reach due to insecurity or conflict, the project will
+     use geo-enabled methods supplemented by community discussions. Such monitoring will be provided by national
+     non-governmental organization (NGOs) or firms, hired and trained by the PIU, to collect just-in-time information
+     via mobile apps/tablets, building on geo-tagging of activities.
+ 45. The specialized M&E manual will provide details about the definition of the RF performance indicators, and the
+     methodology and instruments to be used for data collection, the institutional arrangements for M&E functions
+     (identification of actors and definition of their respective responsibilities), the GRM, and the mechanism to be used
+     for disseminating information. It will inform the communications strategy to be developed and implemented by
+     the PIU. A baseline survey will be conducted during the first year of the project to establish the RF reference data
+     and verify targets. Beneficiaries will be surveyed subsequently in year 3 (mid‐term) and year 6 (project end) to track
+
+
+                                                                                                                            14
+        The World Bank
+        Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+     changes in their livelihood conditions because of project performance. M&E reports will be issued every six months
+     for physical implementation and results monitoring.
+
+
+C. Disbursement Arrangements
+ 46. One Designated Account (DA) will be established at the Central Bank of West African States (Banque Centrale
+     des États de l’Afrique de l’Ouest, BCEAO) to facilitate project disbursements. Funds will be transferred to a
+     transactions account, which will be opened at the Banque de Dépôt du Trésor (BDT) or in a commercial bank that
+     meets World Bank standards after formal authorization from the Ministry of Economy and Finance, as outlined in
+     paragraph 5 of the IDA Disbursement Directives for Borrowers (disbursement conditions). This account will be
+     managed by the PIU. Cash withdrawals from the transactions account will require joint authorization by the Project
+     Coordinator and the project’s FM specialist.
+ 47. Disbursements will be made in accordance with the Disbursement Guidelines for IPF, dated February 2017.
+     Withdrawal application requests will be prepared by the project’s FM Specialist, signed by an authorized signatory
+     (or signatories) designated in a letter signed by the Minister of Finance, and submitted to the World Bank for
+     processing. Applications will be submitted electronically through the World Bank’s e-Disbursements tool,
+     accessible at the Client Connection web-based portal. The Authorized Signatory Letter, signed by the GoBF will
+     grant designated signatories the authority to obtain Secure Identification Credentials from the World Bank for
+     submitting applications electronically.
+ 48. Flow of Funds. Funds will be disbursed into the DA. The project will use FundsChain, an online tracking tool made
+     available by the World Bank, for purposes of supporting the Recipient’s financial reporting to the World Bank on
+     the use of Credit proceeds during project implementation.
+ 49. Disbursement of funds related to the MGs component will be subject to a specific manual. The PIU will prepare
+     an MG manual to regulate the activities of the MG. This manual will include: (a) the selection criteria of
+     beneficiaries; (b) the selection and evaluation process; (c) the modalities of disbursement of the IDA contribution;
+     (d) the reporting and supporting documents required from the beneficiaries; and (e) the auditing and archiving of
+     the supporting documents
+ 50. Disbursements of IDA funds for IPF activities will be based on Statements of Expenditures (SOEs). Upon financing
+     effectiveness, an initial advance will be deposited into the DA based on the cash forecast to cover project
+     expenditure for the first quarter. The DA will be replenished monthly using SOEs. Other disbursement methods,
+     such as reimbursement, direct payment, and special commitment, will also be available. Detailed instructions on
+     the withdrawal of funds will be outlined in the Disbursement and Financial Information Letter, and operational
+     details for the DAs will be provided in the Project’s Financial and Accounting Manual.
+
+
+IV. PROJECT APPRAISAL SUMMARY
+A. Technical, Economic and Financial Analysis
+
+Rationale for Project Technical Design
+ 51. The project will support MAERAH’s core mandate of delivering public goods and services for the agriculture
+     sector. Primarily, it will focus on strengthening MAERAH’s role in providing advisory and research services related
+     to CSA practices under Component 1. These efforts will underpin irrigated and lowland agricultural production in
+     the primary irrigated perimeters targeted by the project, as well as in small community and privately managed
+     systems. Component 1 will address the needs for public support at both the production level and the downstream
+                                                                                                                       15
+         The World Bank
+        Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+      agri-processing stages of the targeted value chains. Additionally, the project will enhance MAERAH’s broader
+      public service delivery in the agriculture sector in a large array of activities, including investment planning and
+      coordination, data collection, statistical analysis and M&E, development of sanitary and food safety standards,
+      packaging norms and regulations, and support for environmental management, climate change adaptation and
+      mitigation, biosecurity, pollution control, and related services.
+  52. The project will address several market failures that currently hinder the sustainable and inclusive
+      development of the targeted agricultural value chains. These market imperfections include weak or absent
+      formal linkages between farmers and off-takers, inadequate storage and market infrastructure to access market
+      outlets, imbalances in bargaining power, and persistent knowledge gaps that limit the socio-economic progress
+      of small producers and processors—such as limited access to market demand data and market signals. Under
+      Component 2, the project will support marketing infrastructure (drying areas, storage facilities) and agri-
+      processing activities, and the development of attendant norms and standards, and market intelligence, to better
+      access markets. Additionally, the project through the MG scheme under Component 3 will provide the financial
+      support needed by producers and SMEs to fund their operations and mobilize the funding of the financial
+      community.
+  53. Project-financed investments will contribute significantly to both climate change adaptation and mitigation.
+      Numerous studies over the past two decades have consistently highlighted the substantial cost of climate change
+      to the global economy and its negative impact on poverty reduction and shared prosperity. For example, the
+      Stern Review on the Economics of Climate Change (2006) estimated that, without action, climate change could
+      cause a 7 percent loss in Africa’s GDP by the end of the twenty-first century. The review also emphasized that
+      such a climate-driven GDP reduction could greatly increase the number of people living below the US$2 per day
+      poverty line by 2100 compared to a scenario without climate change. These forecasts underscore the urgency of
+      addressing climate change. Consequently, the rationale for including strong climate change adaptation and
+      mitigation measures in the project is compelling for both the Borrower and the World Bank. Through the adoption
+      of CSA practices, the project will reduce GHG emissions per unit of agricultural output, enabling increased
+      agricultural production at lower emissions levels than under a business-as-usual scenario. These practices will
+      also help producers adapt more effectively to increasingly erratic and adverse weather patterns anticipated under
+      current and future climate change trends.
+Project Development Impact and Economic Justification
+  54. Approach. The project spans a six-year implementation period, with benefits assessed over a 20-year time horizon.
+      The economic analysis applies a ‘with and without project’s cost-benefit comparison (Cost Benefits Analysis-CBA),
+      using a 6 percent discount rate to evaluate the economic viability of the project. Long-term impacts are expected
+      to include enhanced food security, improved rural livelihoods, and increased private investment in agri-food
+      systems contributing to the structural transformation of the agricultural sector in a fragile and conflict-affected
+      setting.
+  55. Justification for public sector provision and World Bank value-addition. Burkina Faso’s agricultural sector faces
+      systemic constraints driven by market failures, institutional weaknesses, and climatic vulnerabilities. These include
+      limited access to finance for smallholders and agribusinesses, underinvestment in public goods such as irrigation
+      and storage infrastructure, and insufficient capacity to adopt climate-resilient technologies. The high risks and long
+      investment horizons associated with agricultural transformation, especially in fragile and conflict-affected regions,
+      discourage private sector engagement without public support. Moreover, the benefits of interventions such as CSA,
+      land rehabilitation, and rural infrastructure development often extend beyond individual producers, generating
+      positive externalities including reduced environmental degradation, improved food security, and social stability.
+
+                                                                                                                         16
+             The World Bank
+             Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+         These public goods are typically underprovided in the absence of government intervention. Public sector financing
+         is therefore essential to address these failures, reduce entry barriers, and crowd in private investment.
+    56. Financial models and economic analysis results. The economic analysis carried out for the ATP-BF considers the
+        incremental benefits generated by a diverse typology of financial models and beneficiaries across various segments
+        of the targeted value chains. The analysis includes: (a) Type 1 Irrigation, which supports lowland irrigation schemes
+        dedicated to rice cultivation and off-season crops, targeting subsistence-oriented producers and enhancing their
+        production stability; (b) Type 3 Irrigation focuses on organized producer groups engaged in rice and horticulture,
+        providing them with improved access to irrigation infrastructure and technical services to scale up their activities;
+        and (c) Type 4 Irrigation which consists of hydro-agricultural developments downstream of dams, serving a mix of
+        production systems ranging from community-managed plots to commercially oriented farms, with a focus on
+        optimizing water use efficiency and boosting land productivity. In addition to irrigation, the project incorporates
+        models on enhancing post-harvest management and value addition (agro-processing and storage) and activities
+        under the MG mechanism and other financial facilities15 for farmers, SMEs and large-scale agribusinesses involved
+        in the targeted value chains (rice and maize). Based on the total project cost of US$215.9 million (including US$150
+        million IDA financing), the results of the analysis indicate a Net Present Value (NPV) of US$92.4 million and an
+        Economic Internal Rate of Return (EIRR) of 13.7 percent. Sensitivity analysis showed that a 20 percent increase in
+        costs (including operational costs) and a 20 percent reduction in all project benefits yielded an EIRR of 11.6 percent
+        and 11.2 percent respectively.
+    57. Greenhouse Gas (GHG) mitigation benefits. The environmental externalities of the project were estimated using
+        the latest version of the Ex-Ante Carbon-balance Tool (EX-ACT). The tool provides estimations of the impact of
+        Agriculture, Forestry and Other Land Use (AFOLU) projects and policies on the carbon balance. The carbon balance
+        using the EX-ACT tool is defined as the net balance across all GHGs expressed in CO2 equivalents (CO2e) that will be
+        emitted or sequestered due to project implementation (with project), as compared to a business-as-usual scenario
+        (without project)16.
+    58. The direct CO2 impact of the project activities for the accounting duration of 20 years (that is, 6 years
+        implementation + 14 years capitalization period) is estimated at 290,559 tons CO2-eq over a total land area of 5,700
+        hectares (of which 3,900 hectares are under irrigation schemes), corresponding to - 1.7 tCO2-eq per hectare and
+        per year. Key mitigation gains stem from the conversion of annual to perennial cropland, which sequesters -405,126
+        tCO₂-eq, and from the transition of previously unused or less productive land categorized as ‘other land-use’ into
+        more efficient systems, contributing -193,606 tCO₂-eq. These land-use shifts increase biomass and soil carbon
+        storage, creating long-term carbon sinks. However, these benefits are partially offset by project-related emissions.
+        The introduction of flooded rice systems which are associated with methane (CH₄) emissions results in 233,406
+        tCO₂-eq over the 20-year period. Additionally, increased use of agricultural inputs including fertilizers, pesticides
+        and mechanization contributes 74,767 tCO₂-eq.
+    59. The net environmental benefit has been included in the economic valuation in line with the World Bank
+        guidelines17. The GHG emissions results have been valued using the social price of carbon, using the gradually
+        increasing estimates at both low and high ranges (respectively an average of US$71 and US$141 / tCO2-eq) and
+        current market price estimate at US$32 /tCO2-eq18. The full economic potential of the project when higher social
+
+
+15 The purpose is (i) to promote adoption, acquisition and sustained use of improved and efficient technologies; and (ii) finance micro-projects and sub-projects by
+
+leveraging the existing agriculture window such as Dumu Ka Fa Fund.
+16 EX-ACT is a land-based accounting system developed by Food and Agriculture Organization of the United Nations (FAO). It estimates CO e stock changes, i.e., emissions
+                                                                                                                                       2
+or sinks of CO2) expressed inequivalent tons of CO2 per hectare and year.
+17 Based on the World Bank 2024 Guidance note on shadow price of carbon in economic analysis.
+18 https://markets.businessinsider.com/commodities/co2-european-emission-allowances
+
+
+                                                                                                                                                                       17
+             The World Bank
+             Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+          prices of carbon are considered would generate a NPV of US$111.7 million and an EIRR of 15.1 percent over the
+          20-year period.
+      60. Paris Alignment. The project is aligned with the goals of the Paris Agreement on both adaptation and mitigation.
+          It is consistent with Burkina Faso’s NDC to the United Nations Framework Convention on Climate Change (UNFCCC)
+          2026-203019. The project is also aligned with Burkina Faso’s National Climate Change Adaptation Plan (NAP) 2024-
+          202820, and the G5 Sahel Region Country Climate Development Report (CCDR)21 on climate resilience and reducing
+          of GHG emissions. The NAP highlights that the agriculture, water resources and transport sectors are highly
+          vulnerable to the impacts of climate change like damage from floods and soil erosion. The CCDR highlights the
+          importance of investing in greener food production systems. On adaptation, the project design addresses climate
+          risks appropriately and according to the local vulnerabilities, including unreliable precipitation and temperature
+          increases. The design includes expanding access to irrigation and climate-resilient seeds, promoting the adoption
+          of CSA practices among beneficiaries, increasing crop diversification, promoting agriculture insurance for climate
+          risks, and implementing integrated soil management. On mitigation, crop production and soil management
+          practices conform to CSA approaches with low risk of the project negatively affecting Burkina Faso’s low-GHG
+          emissions development pathway. Activities include the use of solar-powered solutions for irrigation and agro-
+          processing, combining the use of mineral and organic fertilizers and promoting conservation agriculture practices,
+          extension services, and training and capacity building. Most project activities are considered universally aligned
+          under the eligible activity categories of “Crop and livestock production using CSA approaches”, “Agri-food value
+          chain” and “Education and capacity building”. The remaining activities, for example the MG mechanism and credit
+          guarantee scheme, are not likely to lead to a significant increase in GHG emissions. In summary, the activities
+          adequately reduce the adaptation and mitigation risks to the project outcomes to acceptable and low levels
+          respectively, and the operation is aligned with the Paris Agreement.
+     B. Fiduciary
+     Financial Management
+        61. An FM assessment was undertaken to evaluate and recommend the appropriate project FM arrangements.
+            These arrangements are in accordance with the FM Manual for World Bank IPF Operations (March 1, 2010 re-
+            issued on September 7, 2021). For the implementation of this project, the government decided to set up a new
+            PIU. The objective of the assessment was to determine: (a) whether the new PIU has adequate FM arrangements
+            in place (planning, budgeting, accounting, internal control, funds flow, financial reporting, and auditing
+            arrangements) to ensure that project funds will be used for their intended purposes in an efficient and
+            economical manner; (b) that project financial reports will be prepared accurately, reliably, and in a timely
+            manner; (c) that the project’s assets will be safeguarded; and (d) that the project will be subject to acceptable
+            audit arrangements.
+        62. The assessment observed that the ATP-BF as new PIU has no FM arrangements in place and will need to
+            establish them from scratch. The assessment noted: (a) lack of manual of administrative, accounting, and
+            financial procedures; (b) no FM staff (FM specialist, accountant, internal auditor and so on) in place; (c) no
+
+
+
+19 Burkina Faso’s Nationally Determined Contribution to the UNFCCC (2026-2030); December 2025. URL:
+
+https://unfccc.int/sites/default/files/2026-01/BKF-CDN%203.0_BURKINA%20FASO.pdf
+
+20  Burkina Faso National Climate Change Adaptation Plan (NAP); Ministry of Environment and Fishery Resources; March 2025. URL:
+https://unfccc.int/sites/default/files/resource/NAP2_BurkinaFaso_2025.pdf
+21 World Bank Group. 2022. G5 Sahel Region Country Climate and Development Report. CCDR Series. © Washington, DC: World Bank. URL;
+
+https://openknowledge.worldbank.org/entities/publication/50936c70-3771-5618-8b3e-52e7c01be5f8
+                                                                                                                               18
+       The World Bank
+       Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+      accounting software; and (d) lack of experience with external auditors and the production of financial statements
+      for audit purposes.
+  63. To establish a strong PIU and FM capacity, the following should be done: (a) recruit a skilled and experienced
+      team by Credit effectiveness (FM staff: Head of Administrative and Financial Section, at least one accountant or
+      more depending on the workload); (b) acquire accounting software (e.g. TOM2PRO, SUCCESS) to handle the
+      project accounting system; (c) prepare a new manual of procedures to ensure that all project activities are
+      covered by appropriate procedures; (d) submit unaudited Interim Financial Reports (IFRs to the World Bank
+      every semester, using the format agreed in the Disbursement and Financial Information Letter (DFIL); (e) have
+      the project annual accounts audited by an independent external auditor to be recruited in compliance with terms
+      of references acceptable to the World Bank; (f) limit advances to the DA to a maximum amount of three month
+      forecast, with a ceiling for direct payments set at US$100,000, and (g) prepare a manual of procedures to cover
+      MGs activities.
+  64. The FM risk is considered Substantial as the new ATP-BF PIU will leverage existing capacity and FM of the
+      MAERAH in terms of World Bank financed projects management. In addition, the implementation of the
+      aforementioned mitigating actions will further reduce the FM risk of the project.
+Procurement
+  65. Project procurement will be carried out in accordance with World Bank’s ‘ rocurement egulations for F
+      Borrowers’ dated September 2025. The attendant Guidelines on Preventing and Combating Fraud and
+      Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants are dated October 15, 2006, and they
+      were revised in January 2011 and July 1, 2016. Systematic Tracking of Exchanges in Procurement (STEP) will be
+      the platform for preparing, submitting, reviewing, and clearing procurement plans and prior review procurement
+      activities. STEP will also be used for uploading documents and evaluation reports for post-review contracts. For
+      this project, it is planned to set up the ATP-BF’s PIU that will contribute to the implementation of the Lijeeguoli
+      Initiative. The newly created ATP-BF’s PIU will be responsible for all procurement activities under the project and
+      will play a crucial role in the project's planning and procurement management. It will be responsible for the day-
+      to-day management of the project. Coordination of procurement activities will be ensured by the Procurement
+      Specialist who will be recruited. All project procurement prior review documents will be submitted to the World
+      Bank by the ATP-BF’s PIU.
+  66. The procurement capacity assessment showed that MAERAH has good capacity for procurement; but it
+      identified several weaknesses. An assessment of MAERAH’s procurement capacity has been completed in
+      accordance with the World Bank Procurement Risk Assessment and Management System (PRAMS). The
+      assessment shows that MAERAH has been responsible over the past decade, and is still responsible currently,
+      for implementing several important World Bank-funded projects, as indicated earlier. Its good track record in
+      managing these projects is evidence that it has acquired sufficient capacity to support ATP-BF’s PIU from a
+      procurement viewpoint. While MAERAH has previously managed and is managing the implementation of the
+      World Bank-financed agricultural portfolio, additional support and resources will be provided to ensure
+      increased capacities. Consistent with the institutional arrangements for project implementation in Burkina Faso,
+      the ATP-BF PIU’s procurement specialist will work with the Directorate of Public Procurement (Direction des
+      Marchés Publics, DMP) and the Control Directorate in charge of Public Procurement (Direction du Contrôle des
+      Marchés et des Engagements Financiers, DCMEF) that are familiar with World Bank procurement procedures.
+      But bid committee members are not trained in the World Bank’s procurement procedures, and there are
+      significant time delays in the procurement process.
+  67. The assessment rated the procurement risk as Substantial; it will be reassessed as Moderate if the identified
+      constraints are addressed. The country’s overall context is characterized by two major difficulties (a) high
+                                                                                                                  19
+              The World Bank
+             Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+           insecurity in some of the areas in which project activities will be conducted; and (b) the country’s current fluid
+           political situation. The procurement annex22contains a full summary of the completed procurement assessments
+           and suggested measures to address the inadequacies and risks identified. The main risks identified are the
+           following: (a) administrative routines may result in procurement delays, potentially affecting project
+           implementation; (b) procurement in fragile areas with few bidders can restrict competition and possibly increase
+           prices and collusion risks; and (c) insufficient capacity can lead to poor contract management and administration
+           of big contracts. In this context, the following mitigation measures for project procurement are proposed: (a)
+           hiring, on a competitive basis, a procurement specialist experienced and familiar with World Bank procurement
+           procedures and policies, to be incorporated into the ATP-BF’s PIU; (b) developing a section on procurement
+           procedures as part of the PIM to clarify the role of each team member involved in the procurement process,
+           define the maximum delay for each procurement stage (specifically with regard to review and approval systems,
+           and signing of contracts), and define measures to fast-track procurement; and (c) reinforcing the procurement
+           capacity by the training of the DMP, DCMEF, PIU and the bid committee on World bank procurement procedures
+           with external training courses.
+     68. Summary of the Project Procurement Strategy for Development (PPSD). The PPSD and the Procurement Plan
+         detailing the first 18 months of implementation have been prepared by the Borrower and approved by World
+         Bank. The project plans procurement of goods such as fertilizers, acquisition of agricultural development works
+         brigade for the benefit of SONATER, acquisition of agricultural equipment that will be procured by PIU in
+         accordance with World Bank's procurement arrangements. The most important activities will be the
+         procurement of development of irrigated land works selected competitively using international and national
+         competition. Exceptionally, in security challenging zones where private contractors are not expected to operate,
+         SONATER will be directly contracted as a public enterprise in accordance with Clause 3.22(c) of the
+         Procurement. The contract will use World Bank’s droit-civil standard contract forms. To avoid any conflict-of-
+         interest risks, SONATER performance and deliverables will be closely monitored by a third-party monitoring
+         agent. Consultant services involve the selection of consultants for on-site monitoring and control of the
+         development work of irrigated land, technical study of the construction/rehabilitation of approximately 300 km
+         of rural tracks and roads, conducting feasibility studies for the development of irrigated areas and the
+         mobilization of agricultural water (preliminary and detailed design studies), E&S studies, etc. The different
+         approaches, selection methods, pre-qualification needs, estimated costs, prior review requirements, and
+         timeframe are agreed between the recipient and the World Bank in the Procurement Plans. During
+         implementation, the Procurement Plans will be updated as required and at least annually, to reflect actual
+         project implementation needs and improvements in institutional capacity. While open national competition is
+         generally the preferred method, in some areas the market and security situation might require other options.
+
+ C. Environmental, Social and Legal Operational Policies
+     Environmental and Social Policies
+    69. Project activities could generate some adverse E&S risks and impacts; these risks will be mitigated by appropriate
+        project interventions. The risks are, among others, health risks for communities, risks of construction site accidents
+        and traffic accidents, risk of drowning in irrigation canals, risk of soil and land degradation during construction,
+        biodiversity risks associated with habitat destruction, risk of water and soil pollution by solid and liquid waste from
+        living bases and construction sites; occupational Health and Safety of workers; exclusion from the project’s benefits
+        of certain category of people such as women, youth, people with disabilities, some rural communities, internal
+        displaced populations. The E&S risk classification is rated as substantial at this stage due to mentioned potential
+
+22 Filed in the project documents.
+
+
+                                                                                                                            20
+               The World Bank
+              Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+            risks and impacts such as those regarding Occupational Health and Safety (OHS), child labor, Sexual Exploitation
+            and Abuse (SEA) and Sexual Harassment (SH), pollution from civil works, land acquisition, restrictions on land use
+            and involuntary resettlement issues and so on. The project will involve direct and contracted workers as well as
+            primary supply workers. A screening process will be described in PIM to capture risks and impacts associated with
+            expected activities. Appropriate mitigation measures will be outlined in required instruments and implemented
+            throughout the project implementation cycle life to ensure that the E&S risks and impacts associated with expected
+            activities are fully assessed and all risks and impacts are mitigated and addressed appropriately. In this regard, the
+            following documents have been prepared, validated and disclosed both in the country and on World Bank web site:
+            ESCP23, Stakeholder Engagement Plan (SEP)24, Labor Management Procedures (LMP)25, Pest Management Plan
+            (PMP)26. The Environmental and Social Impact Assessments (ESIAs) and Resettlement Action Plans (RAPs) for
+            subprojects will be prepared and implemented during project implementation.
+
+      70. Gender. Project success is dependent on project activities addressing gender gaps. This will require among others:
+          (a) integrating the gender actions within the various implementation manuals (defining when these actions take
+          place, how and who is responsible); (b) including gender actions within the detailed operational plans with a clear
+          budget allocation for the gender actions and targets; (c) having gender indicators in the overall results chain to be
+          able to track progress (fully integrated and defined in the M&E manual to guide M&E staff); (d) recruiting gender
+          experts and including gender capacity building activities in the project overall capacity building plan (including for
+          PIU members and MAERAH staff); (e) integrating gender in the overall project evaluation and conducting specific
+          dedicated gender qualitative evaluation as needed; and (f) developing a communication strategy for the project
+          that includes women’s specificities. The project is in line with and contributes to the country’s gender priorities
+          identified in the Country Partnership Framework (CPF, report number 123712-BF). The priority interventions in the
+          CPF focus on supporting women's employment in agribusiness value chain, promoting decentralized management
+          of natural resources with a focus on non-timber products used by women and reserving 30 percent of labor-
+          intensive public works and training opportunities for young women. Project gender interventions will be guided by
+          the project’s Gender Action Plan. The main gender actionable interventions are the following among others, under
+          each component: (a) Component 1: the main gender identified gap is in the lower productivity for female headed
+          households in producing and exporting food and other crops; the component actionable points are defined as part
+          of the special focus on women farmers in MAERAH’s extension and advisory services; (b) Component 2: agri-food
+          storage and processing is a key domain of women’s activities in Burkina Faso; the project objective is to give women
+          the wherewithal and the skills provision on leadership and entrepreneurship to contribute effectively to the
+          running of project-funded facilities; (c) Component 3: to address the results chain’s limited access to finance and
+          financial services, MGs will be targeted to address women’s constraints; and (iv) Component 4: MAERAH’s capacity
+          building activities will pay special attention to women’s needs in agriculture support advisory and research services.
+          These gender actions are based on the project’s engagement with the wider community and particularly with men
+          to improve understanding of gender roles and the benefits of women’s economic empowerment. The gender entry
+          points are reflected in the project RF that incorporates gender sensitive indicators including CRI. Two important
+          indicators that capture targeted gender interventions are (a) farmers and/or agri value chain actors adopting
+          improved agricultural technology (including climate smart agriculture – CRI); and (b) people using insurance
+          services. Based on the above the project is expected to contribute to women being “beneficiaries of actions to
+          expand and enable economic opportunities” (World bank Score Card)”.
+
+
+
+23 https://www.agriculture.bf/wp-content/uploads/2026/02/PEES-PATA-version-negociee.docx, disclosed on February 5, 2026.
+24
+     https://www.agriculture.bf/wp-content/uploads/2025/12/Stakeholder-Engagement-Plan-SEP-Dec-2025.pdf, disclosed on December 22, 2025.
+25 https://www.agriculture.bf/wp-content/uploads/2025/10/PGMO-PATA.pdf, disclosed on October 14, 2025.
+26 https://www.agriculture.bf/wp-content/uploads/2025/10/BF_PGPP_PATA.version-definitive.pdf, disclosed on October 24, 2025.
+
+
+                                                                                                                                           21
+       The World Bank
+      Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+71. Citizen Engagement. The project will be beneficiary oriented. It will use three pathways to conduct citizen
+    engagement activities. Building on initial consultations during preparation, consultations with beneficiaries and
+    project-affected persons (PAPs) will continue throughout the life of the project. Results will be systematically
+    documented, analyzed and used to inform program implementation. Results will be shared with communities,
+    closing the feedback loop. The second citizen engagement pathway is the GRM: the project will establish an
+    effective and efficient GRM with the capacity to receive and respond to grievances on time. The third citizen
+    engagement pathway involves collecting, recording, and reporting on inputs received from beneficiaries through
+    beneficiary satisfaction surveys. The project will explore ways to involve beneficiaries and PAPs in the
+    administration of these surveys, including securing their collaboration, providing them with oversight
+    responsibilities and giving them the attendant resources and decision-making powers. These efforts will focus on
+    activities such as strengthening POs and the development of business plans. The corresponding beneficiary
+    feedback indicators in the RF will be “respondents expressing satisfaction with project delivered activities and
+    services” and “grievances addressed within the project approved timeline.” The PIM and SEP will spell out the
+    timeline for addressing and resolving grievances captured through the GRM.
+72. Nutrition. The project has nutrition-explicit long-term goals and activities, with the following project activities
+    supporting the nutrition goals: (a) under Component 1, the diversified production will improve the nutrition status
+    and healthy diets of beneficiaries, especially among women, and fill the gaps in the poor state of nutrition and
+    dietary diversity of the targeted farming communities. Nutrition education for farmers (including female farmers)
+    will be provided, particularly regarding food safety and dietary diversity to complement crop diversification
+    activities; furthermore, research on agriculture and nutrition will be strengthened, in particular, by conducting
+    research on post-harvest handling methods that will be the most effective in retaining nutritional value, or linking
+    soil health status with the nutrient density in crops; and (b) under Component 2: the post-harvest management or
+    phytosanitary-related capacity building to be undertaken as part of the construction and operation of storage and
+    agri-processing facilities will contribute to improving nutrition activities; in particular, training or capacity building
+    on food safety and nutrition will be provided to actors along the value chain to reduce food-borne or water-borne
+    diseases and support safer food systems. The project impact on nutrition and food security will be tracked through
+    appropriate diet and nutrition-related indicators.
+73. Maximizing Finance for Development. The project is aligned with the World Bank Maximizing Finance for
+    Development approach and private investment generated through the project is counted towards Private Capital
+    Mobilization. The following activities are potential MFD-enabling justifying the MFD-EP tag: under Component
+    2 the project supports agri-related women groups, cooperatives, and SMEs to expand market access and increase
+    returns to investments by financing a) training on sanitary and Phytosanitary Standards to effectively
+    engage/participate in specific markets; b) training of processors on quality standards and safety of marketed
+    products; c) training of processors in processing techniques and packaging with a particular emphasis on youth and
+    women d) market intelligence; e) introducing farmers and SMEs to digital technologies facilitating post-harvest
+    activity planning, product tracking and aggregation, and product traceability; f) construction and equipment of
+    maize and rice processing units, and g) training of manufacturers of processing equipment. Under subcomponent
+    3.2 the project aim to create an enabling environment that attracts, retains, and expands private investment—
+    both domestic and foreign —by a) strengthening traceability, participation and management skills of client
+    investors to develop their business plans and coach them to ensure the success of their projects, (b) promoting
+    access to market for processed products through certification, traceability, participation to both national and
+    international fairs, (c) promoting contract farming along the targeted value chains, and (d) dissemination of the law
+    on the Agricultural Investment Code. The following activities under component 3 are confirmed as PCM: a) MGs
+    to farmers and agribusinesses mobilizing US$ 3 million has been added to the financing table based 20 percent of
+    400 beneficiaries’ contribution for window 1 (US$ 4,000*0.2*400= US$ 320,000) and 70 percent of 400
+
+                                                                                                                           22
+        The World Bank
+       Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+     beneficiaries’ contribution for window 2 (US$ 9,571*0.7*400= US$ 2,680,000) and (b) Agricultural insurance
+     mobilizing US$45.0 million has been added to the financing table based on private premium flows, derived from
+     an expected 150,000 beneficiaries paying an average US$10 premium (US$1.5 million) and an indicative market
+     leverage of 1:30 for private risk-bearing capacity mobilized relative to subsidized premiums and technical
+     assistance. There is no PCM attributable to the project under the partial portfolio credit guarantee scheme given
+     absence of any formal commitment associated with this scheme. The Total PCM from the project is therefore US$
+     48 million.
+
+
+  Legal Operational Policies
+@#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+Legal Operational Policies                                                          Triggered?
+Projects on International Waterways OP 7.50                                         Yes
+Projects in Disputed Area OP 7.60                                                   No
+
+
+
+
+  74. OP/BP 7.50 on International Waterways is applied to the project, as several planned activities will take place
+      within the Volta River Basin, which is an international waterway. Following the required notification process and
+      assessment, it was determined that the project would not result in significant adverse impacts. Consistent with
+      the Policy, all other riparian countries were formally notified, and no objections to the project were received.
+      The notification process was completed and received management approval to proceed with the project on
+      December 17, 2025.
+Grievance Redress Services
+
+  75. Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+      supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the
+      Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in
+      order to address project-related concerns. Project affected communities and individuals may submit their
+      complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses the Inspection Panel,
+      which determines whether harm occurred, or could occur, as a result of Bank non-compliance with its policies
+      and procedures, and the Dispute Resolution Service, which provides communities and borrowers with the
+      opportunity to address complaints through dispute resolution. Complaints may be submitted to the AM at any
+      time after concerns have been brought directly to the attention of Bank Management and after Management
+      has been given an opportunity to respond. For information on how to submit complaints to the Bank’s Grievance
+      Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how to submit complaints to
+      the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+
+V. KEY RISKS
+
+ 76. The overall risk rating for the proposed operation is Substantial. This reflects the substantial implementation risk
+     to PDO achievement in the context of Burkina Faso’s fragile environment with limited technical and institutional
+
+                                                                                                                      23
+       The World Bank
+      Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+    capacity to manage large programs, high political, governance, and security risks; substantial macroeconomic and
+    institutional capacity and sustainability risks; and substantial risks related to technical design, sector strategies,
+    stakeholders, fiduciary, and E&S.
+77. Political and governance risks are rated Substantial. Persistent insecurity may lead to constraints on civil space
+    and affect the country’s stability. The focus on security-related issues could potentially delay key investments in
+    project’s areas mainly due to conflict in neighboring countries and displaced people. The implementation risk will
+    be mitigated by ensuring the governance and leadership of the project implementation is clearly defined, and by
+    supporting communication on the expected impact of the government program on citizens.
+78. Macroeconomic risks are rated Substantial. These risks arise from potential external and domestic shocks and
+    fiscal policy setbacks. Burkina Faso has experienced shrinking fiscal space due to increased current expenditures,
+    especially for security matters. In addition, financing sources have become scarcer or more costly, placing
+    additional constraints on public finances and reducing the share of budget allocated to the agriculture sector.
+    Activities partially mitigating such risks include the Internation Monetary Fund Program and the World Bank’s
+    technical assistance on tax expenditure under the Sustainable Development Finance Policy, which aims to expand
+    fiscal space.
+79. Institutional capacity and sustainability risk is rated Substantial. Burkina Faso is a country with limited technical
+    and institutional capacity. Capacity weaknesses at the national and regional levels will be remedied through a well-
+    designed and diversified capacity-building program as well as technical assistance to support implementation.
+80. Technical design of project risk is rated Substantial. This is mainly on account of the multiple interventions
+    identified along the targeted value chains that required coordination among the various stakeholders. The
+    coordination of activities across several domains in which implementing entities lack technical expertise is a
+    daunting challenge, as experience has shown. This risk will be mitigated by creating “intersectoral” Steering and
+    Technical Committees, which will be responsible for ensuring that adequate technical support and implementation
+    capacity are available across the array of activities supported under the project. In addition, flexibility in reallocating
+    funds and the option to drop some activities if needed will be considered during implementation. A WBG
+    implementation support team representing expertise across multiple Global Practices will also be put into place to
+    provide the necessary technical base for implementation.
+81. Fiduciary risk is rated Substantial. This is due to limited involvement of MAERAH's procurement and internal
+    control units, which may slow down the execution of activities. In addition, the project involves a multitude of
+    actors and beneficiaries which may lead to weak compliance with the World Bank requirements particularly in
+    areas that are facing security issues. To mitigate this risk, a coordination and accountability mechanism will be put
+    in place to strengthen collaboration between MAERAH and the PIU as is the case under ongoing projects. In
+    addition, the project will competitively recruit FM specialists (accountants, internal auditors) as well as
+    procurement specialists with qualifications and experience required for World Bank projects.
+82. Environment and social risks are rated Substantial. The environmental risk is rated as “Substantial” due to the civil
+    work activities that will be financed by the proposed project. Project activities may generate negative
+    environmental impacts associated with agricultural intensification, irrigation development, and infrastructure and
+    may exacerbate conflicts over land use and increasing pressure on already degraded natural resources. Involuntary
+    resettlement may occur. The project implementing agency, including some key stakeholders, is already familiar
+    with the World Bank's E&S safeguard procedures, although additional support may be required to reinforce their
+    capacity for risks and impacts management based on the ESF requirements. The anticipated impacts as well as the
+    guidelines for dealing with them have been defined in the following E&S required instruments on preparation
+    process (see Heading C - E&S Section above).
+
+                                                                                                                            24
+       The World Bank
+      Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+83. Other: Security risks are rated High. Security risks could have a negative impact on the project implementation. To
+    address this risk, a Security Management Plan will be developed latest three months after project effectiveness.
+    This plan will help the project to mainstream security into project activities. The project will prioritize areas that
+    are less prone to conflict. The strategy will consider the flexibility to select alternative sites based on the security
+    situation. The government will appoint a security specialist to closely monitor the security situation in the project
+    areas. This will be in addition to a portfolio-wide risk monitoring approach to be implemented by the World Bank
+    to better identify and tackle specific FCV risks to ensure effective and safe implementation of supported operations.
+
+
+
+
+                                                                                                                         25
+       The World Bank
+       Burkina Faso Agricultural Transformation Project (P507256)                                                                                PROJECT APPRAISAL DOCUMENT
+
+
+
+ANNEX 1. RESULTS FRAMEWORK
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+
+PDO Indicators by PDO Outcomes
+
+
+   Baseline                   Period 1                  Period 2                 Period 3                Period 4                  Period 5              Closing Period
+   Increase production
+   People fed as a result of increased agricultural/food production (Number of people) CRI
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          500,000                   1,200,000                1,900,000               2,600,000                 3,300,000             4,000,000
+     ➢People fed as a result of increased agricultural/food production - Female (Number of people) CRI
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          330,000                   680,000                  1,030,000               1,380,000                 1,730,000             2,080,000
+     ➢People fed as a result of increased agricultural/food production - Youth (Number of people) CRI
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          150,000                   320,000                  490,000                 660,000                   830,000               1,000,000
+   Market access
+   Number of farmers and agri-value chains actors having increased market access/linkages or trade (Number)
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          15,000                    30,000                   45,000                  60,000                    75,000                90,000
+     ➢Number of farmers and agri-value chains actors having increased market access/linkages or trade - Female (Number)
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          4,500                     9,000                    13,500                  18,000                    22,500                27,000
+     ➢Number of farmers and agri-value chains actors having increased market access/linkages or trade - Youth (Number)
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          3,750                     7,500                    11,250                  15,000                    18,750                22,500
+   Climate resilience
+   Farmers and/or agri value chain actors adopting improved agricultural technology (including climate smart agriculture). (Number) (Number)
+   Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028                Dec/2029                  Dec/2030              Dec/2031
+   0                          15,000                    30,000                   45,000                  60,000                    75,000                90,000
+     ➢Farmers and/or agri value chain actors adopting improved agricultural technology (including climate smart agriculture) - Female (Number)
+
+
+
+                                                                                                                                                                             Page 26
+
+
+                                                                                                                                                                          Official Use Only
+       The World Bank
+       Burkina Faso Agricultural Transformation Project (P507256)                                                                               PROJECT APPRAISAL DOCUMENT
+
+
+   Jun/2025                Dec/2026                  Dec/2027                  Dec/2028                  Dec/2029                   Dec/2030            Dec/2031
+   0                       5,000                     10,000                    15,000                    20,000                     25,000              30,000
+     ➢Farmers and/or agri value chain actors adopting improved agricultural technology (including climate smart agriculture) - Youth (Number)
+   Jun/2025                Dec/2026                  Dec/2027                  Dec/2028                  Dec/2029                   Dec/2030            Dec/2031
+   0                       3,750                     7,500                     11,250                    15,000                     18,750              22,500
+
+
+Intermediate Indicators by Components
+
+
+   Baseline                  Period 1                 Period 2                Period 3                   Period 4                 Period 5              Closing Period
+   IMPROVING AGRICULTURAL PRODUCTIVITY AND RESILIENCE TO CLIMATE CHANGE
+   Area provided with new/improved irrigation and drainage services (Hectare(Ha))
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        1,500                   3,000                      4,800                    5,700                 5,700
+     ➢Irrigated land developed with the support of the project (Hectare(Ha))
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        1,000                   2,000                      3,000                    3,900                 3,900
+     ➢Lowland developed/rehabilitated with the support of the project (Hectare(Ha))
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        500                     1,000                      1,800                    1,800                 1,800
+     ➢Irrigated land area cultivated by women (Hectare(Ha))
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        260                     520                        780                      780                   780
+   Increase in the production of targeted value chains (Metric ton)
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        160,000                 320,000                    480,000                  640,000               800,000
+     ➢Rice production (Metric ton)
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        60,000                  120,000                    180,000                  240,000               300,000
+     ➢Maize production (Metric ton)
+   Jun/2025                  Dec/2026                 Dec/2027                Dec/2028                   Dec/2029                 Dec/2030              Dec/2031
+   0                         0                        100,000                 200,000                    300,000                  400,000               500,000
+   Farmers reached with agricultural assets and services (Number)
+
+
+
+                                                                                                                                                                            Page 27
+
+
+                                                                                                                                                                         Official Use Only
+    The World Bank
+    Burkina Faso Agricultural Transformation Project (P507256)                                          PROJECT APPRAISAL DOCUMENT
+
+
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                            20,000                  40,000            60,000     80,000     100,000            120,000
+  ➢Female (Number)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                            5,000                   12,000            19,000     26,000     33,000             40,000
+  ➢Youth (Number)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                            5,000                   10,000            15,000     20,000     25,000             30,000
+  ➢IDPs (Number)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                            750                     1,600             2,450      3,300      4,150              5,000
+Increased yields for targeted agricultural value chains (Metric ton)
+Jun/2025                                                                                                        Dec/2031
+0                                                                                                               0
+  ➢Irrigated rice (Metric ton)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+3.61                         4.00                    4.50              5.00       5.50       6.00               6.00
+  ➢Lowland rice (Metric ton)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+2.31                         2.50                    3.00              3.50       4.00       4.00               4.00
+  ➢Maize (Metric ton)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+2.90                         3.10                    3.30              3.60       4.00       4.50               4.50
+IMPROVING STORAGE, AGRO-PROCESSING AND ACCESS TO MARKETS
+Storage facilities built or rehabilitated (Number)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                            0                       20                40         50         50                 50
+Volume of market sales for targeted commodities (Percentage)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2028   Dec/2029   Dec/2030           Dec/2031
+-                            -                       -                 -          -          -                  -
+  ➢Rice (Percentage)
+Jun/2025                     Dec/2026                Dec/2027          Dec/2027   Dec/2029   Dec/2030           Dec/2031
+32                           40                      50                55         60         75                 75
+  ➢Maize (Percentage)
+
+
+                                                                                                                              Page 28
+
+
+                                                                                                                           Official Use Only
+    The World Bank
+    Burkina Faso Agricultural Transformation Project (P507256)                                             PROJECT APPRAISAL DOCUMENT
+
+
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+13                       20                      35                       50         60         70                 70
+Volume of processed products in targeted value chains (Metric ton)
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+119,227                  150,000                 250,000                  350,000    400,000    450,000            500,000
+  ➢Rice (Metric ton)
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+103,227                  120,000                 200,000                  250,000    300,000    350,000            400,000
+  ➢Maize (Metric ton)
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+16,000                   30,000                  50,000                   100,000    100,000    100,000            100,000
+PROMOTING ACCESS TO FINANCE AND PRIVATE SECTOR INVESTMENT
+People using insurance services (Number of people) CRI
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       30,000                   70,000     100,000    150,000            150,000
+  ➢People using insurance services - Female (Number of people) CRI
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       20,000                   30,000     45,000     50,000             50,000
+  ➢People using insurance services - Youth (Number)
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       15,000                   25,000     30,000     37,500             37,500
+Businesses using insurance services (Number of businesses) CRI
+
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       50                       100        150        200                200
+  ➢Businesses using insurance services - Women-led (Number of businesses) CRI
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       20                       40         60         70                 70
+Matching grants funded by the project (Number)
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       400                      800        800        800                800
+  ➢Female (Number)
+Jun/2025                 Dec/2026                Dec/2027                 Dec/2028   Dec/2029   Dec/2030           Dec/2031
+0                        0                       100                      300        300        300                300
+  ➢Youth (Number)
+
+
+                                                                                                                                 Page 29
+
+
+                                                                                                                              Official Use Only
+    The World Bank
+    Burkina Faso Agricultural Transformation Project (P507256)                                                       PROJECT APPRAISAL DOCUMENT
+
+
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         100                      200          200          200                  200
+  ➢IDPs (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         200                      400          400          400                  400
+Beneficiaries having access to financial services with the project support (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         250                      500          750          1,000                1,200
+  ➢Female (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         100                      200          280          320                  360
+  ➢Youth (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         70                       130          180          220                  250
+Private capital mobilized with the support of the project (Amount(USD))
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         10,000,000               20,000,000   30,000,000   36,000,000           48,000,000
+Jobs created as a result of project support to targeted value chains (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          50                        200                      400          600          800                  10,000
+  ➢female (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         1,000                    1,500        2,000        2,500                3,000
+  ➢Youth (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          0                         500                      1,000        1,500        2,000                2,500
+INSTITUTIONAL STRENGTHENING AND PROJECT COORDINATION
+Direct project beneficiaries (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          25,000                    50,000                   80,000       110,000      140,000              150,000
+  ➢Female (Number)
+Jun/2025                   Dec/2026                  Dec/2027                 Dec/2028     Dec/2029     Dec/2030             Dec/2031
+0                          10,000                    20,000                   25,000       30,000       40,000               45,000
+  ➢Youth (Number)
+
+
+                                                                                                                                             Page 30
+
+
+                                                                                                                                          Official Use Only
+    The World Bank
+    Burkina Faso Agricultural Transformation Project (P507256)                                                          PROJECT APPRAISAL DOCUMENT
+
+
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2029   Dec/2030           Dec/2031
+0                       10,000                    20,000                     25,000               30,000     35,000             37,500
+  ➢IDPs (Number)
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2028   Dec/2030           Dec/2031
+0                       500                       1,000                      2,500                3,500      4,500              5,000
+Capacity Building (Number of staff trained) (Number)
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2029   Dec/2030           Dec/2031
+0                       20                        100                        150                  200        250                300
+  ➢Female (Number)
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2029   Dec/2030           Dec/2031
+0                       10                        25                         50                   100        120                150
+  ➢Youth (Number)
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2029   Dec/2030           Dec/2031
+0                       10                        20                         40                   60         80                 100
+Respondents expressing satisfaction with project delivered activities and services (Percentage)
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2029   Dec/2030           Dec/2031
+0                       30                        40                         60                   60         80                 80
+Grievances addressed within the project approved timeline (Percentage)
+Jun/2025                Dec/2026                  Dec/2027                   Dec/2028             Dec/2029   Dec/2030           Dec/2031
+0                       80                        80                         90                   90         100                100
+CONTINGENT EMERGENCY RESPONSE COMPONENT (CERC)
+
+
+
+
+                                                                                                                                              Page 31
+
+
+                                                                                                                                           Official Use Only
+          The World Bank
+          Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+ANNEX 2: MONITORING & EVALUATION PLAN:
+
+PDO Indicators by PDO Outcomes
+ PDO Outcome 1: Increase production
+ People fed as a result of increased agricultural/food production (Number of people) CRI
+
+                                  This indicator will measure the total number of people who benefited from increased
+ Description
+                                  agricultural/food production.
+ Frequency                        Annually
+ Data source                      Reports /surveys
+                                  Data will be collected from various sources, including reports, existing datasets, and primary data
+                                  collection efforts. The number of people fed will be estimated by converting the additional
+                                  production due to the Program into kilocalories, using the FAO West Africa Food Composition
+ Methodology for Data
+                                  Table (2012). This total will then be divided by the minimum recommended caloric intake (2,000
+ Collection
+                                  kilocalories) multiplied by 365. The number of women and youth is estimated by applying the
+                                  share of women (51.3percent based on RGPH-2019) and youth (25percent based on EPA data) in
+                                  the population.
+ Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+ Collection
+
+ PDO Outcome 2: Market access
+
+ Farmers and agri-value chains actors having increased market access/linkages or trade (number)
+                                  This indicator counts the number of unique farmers and agri–value chain actors (e.g., producer
+                                  organizations, aggregators, processors, input suppliers, logistics providers) who, due to project
+ Description
+                                  support, have gained new or strengthened access to markets, formal commercial linkages, or
+                                  demonstrable trade transactions that enable selling/purchasing at improved terms.
+ Frequency                         Annual
+ Data source                      MIS and annual surveys
+ Methodology for Data
+                                  Yearly surveys administrated with beneficiaries
+ Collection
+ Responsibility for Data
+                                   Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+ Collection
+ PDO Outcome 3: Increased adoption of improved agricultural technology (including climate smart agriculture) (number)
+ Farmers and/or agri value chain actors adopting improved agricultural technology (including climate smart agriculture).
+ (Number)
+                                  The indicator measures the number of project beneficiaries who have adopted improved
+                                  agricultural technology (including climate smart agriculture). that lead to increased productivity
+ Description                      together with improved resilience to climate variability and mitigation of the effects of climate
+                                  change. CSA are implemented in reference to beneficiaries’ “integrated landscape management.
+                                  They are area specific. Their definition will be included in the PIM.
+ Frequency                        Annual
+ Data source                      survey report
+ Methodology for Data             Survey will be conducted annually in the project targeted areas to measure the uptake of
+ Collection                       climate-smart agricultural technologies and services by project beneficiaries.
+ Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+ Collection
+
+
+Intermediate Results Indicators by Components
+
+
+
+
+                                                                                                                               Official Use Only
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+
+ Component 1: Improving agricultural productivity and resilience to climate change
+
+Area provided with new/improved irrigation and drainage services (Ha)
+                                This indicator measures the total area of land provided with irrigation and drainage services
+Description                     under the Project, including (i) the area provided with new irrigation and drainage services, and
+                                (ii) the area provided with improved irrigation and drainage services, expressed in hectares (ha).
+Frequency                       Every 6 months
+Data source                     Surveys
+Methodology for Data
+                                Annual surveys on agricultural land and drainage services
+Collection
+Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Irrigated land area cultivated by women (ha)
+Description                     This indicator measures the total irrigated land area cultivated by women (percentage)
+Frequency                       Every 6 months
+Data source                     Surveys
+Methodology for Data
+                                Annual surveys on agricultural land and drainage services
+Collection
+Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Area of lowland developed/rehabilitated with the support of the project (Ha))
+Description                     This indicator measures the total area of lowland developed or rehabilitated under the project,
+Frequency                       Every 6 months
+Data source                     Agricultural land and production surveys
+Methodology for Data            Surveys
+Collection
+Responsibility for Data
+                                 Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Farmers reached with agricultural assets and services (Number)
+                                This indicator measures the number of farmers who were provided with agricultural assets or
+                                services as a result of project support. Farmers are people engaged in agricultural activities or
+                                members of an agriculture-related business targeted by the project. The indicator is
+                                disaggregated by men and women.
+                                Agricultural assets and services include: crops, livestock, Fisheries, aquaculture, agroforestry,
+                                timber, and non-timber forest products.
+                                Assets include physical assets, biological assets, and farm and processing equipment. Biological
+                                assets include animal breeds (e.g., livestock, Fisheries) and genetic material of livestock, crops,
+Description
+                                trees, and shrubs (including fiber and fuel crops).
+                                Services include research, extension, training, education, ICTs input supply (e.g., fertilizers,
+                                pesticides, labor), production-related services (e.g., soil testing, animal health/veterinary
+                                services), phyto-sanitary and food safety services, agricultural marketing support services (e.g.,
+                                price monitoring, export promotion), access to farm and post-harvest machinery and storage
+                                facilities and irrigation and drainage facilities.
+                                Services also include provision of financial resources for agriculture and agricultural-related
+                                activities.
+Frequency                        Annual
+Data source                      Progress reports, MIS
+Methodology for Data
+                                 Farm and market surveys
+Collection
+Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+
+
+
+
+                                                                                                                             Official Use Only
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+Collection
+
+Increased yield for targeted agricultural Value chains (Metric tons/ha)
+
+Rice yield (Metric tons/ha)
+                                  This indicator measures the yield per hectare of irrigated rice obtained through project
+Description
+                                  intervention.
+Frequency                         Annual
+Data source                       Annual Survey data
+Methodology for Data              Yearly crop surveys administrated with representative sample of targeted project beneficiaries
+Collection                        and control group
+Responsibility for Data
+                                   Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Maize yield (Metric tons/ha)
+Description                       This indicator measures the yield per hectare of maize obtained through project intervention.
+Frequency                         Annual
+Data source                       Annual Survey data
+Methodology for Data              Yearly crop surveys administrated with representative sample of project beneficiaries and
+Collection                        control group
+Responsibility for Data
+                                   Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Increase in the production of targeted value chains (Metric ton)
+                                  This indicator will measure the net additional quantity of rice and maize produced by project-
+Description                       supported farmers or areas during the reporting period, compared to the baseline, attributable
+                                  to the project’s interventions
+Frequency                         Annually
+Data source                       Reports /surveys
+Methodology for Data              Data will be collected from various sources, including reports, existing datasets, EPA data and
+Collection                        primary data collection efforts.
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+
+ Component 2: Improving storage, agro-processing and access to markets
+
+Storage facilities built or rehabilitated (Number)
+                                  This indicator measures the total number of warehouses built or rehabilitated for target crops
+Description
+                                  with project support.
+Frequency                         Annual
+Data source                       PIU reports
+Methodology for Data
+                                   PIU reports
+Collection
+Responsibility for Data            Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Volume of market sales for targeted commodities (Metric tons)
+Description                       This indicator measures the volume of agricultural output that is sold to the market.
+Frequency                         Baseline, midline and end of project
+Data source                       Farmers and value chain actors
+Methodology for Data
+                                   Farm and market surveys
+Collection
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+
+
+
+
+                                                                                                                               Official Use Only
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+Collection
+Volume of processed products in targeted value chains (metric tons)
+                                 This indicator measures the total quantity of raw maize grain and paddy rice that is transformed
+Description                      into finished products (e.g., milled rice, maize flour/grits) within a defined period, expressed in
+                                 metric tons (MT)
+Frequency                        Six months
+Data source                      PIU reports
+Methodology for Data
+                                  PIU reports
+Collection
+Responsibility for Data          Ministry of Agriculture, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+
+Component 3: Promoting access to finance and private sector investment
+
+People using insurance services (Number of people) CRI
+                                 This indicator measures number of people using insurance services as a result of project
+Description
+                                 intervention.
+Frequency                        Annual
+Data source                       Farmers, value chain actors, insurance service providers
+Methodology for Data
+                                  Farm and market surveys
+Collection
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Businesses using insurance services (Number of businesses) CRI
+                                 This indicator measures number of businesses using insurance services as a result of project
+Description
+                                 intervention.
+Frequency                        Annual
+Data source                      Businesses, value chain actors, insurance service providers
+Methodology for Data
+                                  Businesses and market surveys
+Collection
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Matching grants funded by the project (Number)
+                                 This indicator measures the number of MGs involving a partial subsidy provided to producers,
+Description                      producers organization or private sector firms supported by the project to help finance their
+                                 business plans regarding their production or agriculture-related activities.
+Frequency                        Annual
+Data source                      PIU reports
+Methodology for Data
+                                  PIU reports
+Collection
+Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Beneficiaries having access to financial services with the project support (Number)
+                                 This indicator measures the number of beneficiaries having access to financial services with the
+Description
+                                 project support
+Frequency                        Annual
+Data source                      PIU reports
+Methodology for Data
+                                 Annual survey and PIU reports
+Collection
+Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+
+
+
+
+                                                                                                                              Official Use Only
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+Collection
+Private capital mobilized with the support of the project (USD)
+                                 This indicator measures the funds from private sector entities that are invested in beneficiaries’
+Description                      activities owing to the support or facilitation provided by the project. This can include direct
+                                 investments, co-financing, guarantees, and other financial instruments.
+Frequency                        Annual
+Data source                      PIU reports
+Methodology for Data
+                                 Annual survey
+Collection
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Jobs created as a result of project support to targeted value chains (number)
+                                 This indicator measures the number of jobs attributable to project interventions within the
+                                 specified value chains. It typically includes (i) assistance, financing, or jobs to operate and
+Description                      maintain project-supported assets and services (ii) jobs created in the various segments of the
+                                 value chains due to project-induced changes in demand, supply, productivity, or market access
+                                 (e.g., upstream suppliers and downstream distributors)
+Frequency                        Annual
+Data source                      PIU reports
+Methodology for Data
+                                 Annual survey
+Collection
+Responsibility for Data
+                                 Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Component 4: Institutional strengthening and project coordination
+
+Direct project beneficiaries (Number)
+                                 It measures individuals or groups who receive direct services or benefits from the project, such
+Description
+                                 as training, financial support, or infrastructure improvement
+Frequency                        Annual
+Data source                      PIU reports
+Methodology for Data
+                                  PIU reports
+Collection
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Capacity Building (Number of staff trained) (Number)
+                                 It measures the number of staff from the Ministry of Agriculture, Livestock and Fisheries who
+Description
+                                 receive training with the support of the project
+Frequency                        Annual
+Data source                      PIU reports
+Methodology for Data
+                                  PIU reports
+Collection
+Responsibility for Data           Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Respondents expressing satisfaction with project delivered activities and services (Percentage)
+                                 This indicator measures the percentage of beneficiaries who report satisfaction with services
+                                 provided in project areas based on formal surveys. It is expected that a survey to measure this
+Description
+                                 indicator will be conducted twice during the project. The sample size should be representative of
+                                 the total number of beneficiaries.
+Frequency                        At mid-term and at the end of the project
+
+
+
+
+                                                                                                                              Official Use Only
+         The World Bank
+         Burkina Faso Agricultural Transformation Project (P507256)
+
+
+Data source                     Activity reports
+Methodology for Data            Survey to be carried out during the different evaluations (mid-term and final). The survey
+Collection                      development will be led by the Regional Coordination Unit.
+Responsibility for Data          Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+Grievances addressed within the project approved timeline (Percentage)
+                                Measures the percentage of complaints or grievance addressed/dealt with/ in a timely and
+Description
+                                satisfactoy manner.
+Frequency                       Monthly
+Data source                     PIU reports
+Methodology for Data
+                                PIU reports
+Collection
+Responsibility for Data         Ministry of Agriculture, Water, Livestock and Fisheries, supporting institutions, and PIU
+Collection
+
+
+
+
+                                                                                                                             Official Use Only
+

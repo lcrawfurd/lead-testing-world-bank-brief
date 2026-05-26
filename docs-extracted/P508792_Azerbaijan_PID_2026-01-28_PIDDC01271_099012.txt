@@ -1,0 +1,450 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                 Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                Concept Stage | Date Prepared/Updated: 28-Jan-2026 | Report No: PIDDC01271
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID               Operation Name
+Azerbaijan                     P508792                    Azerigas Gas Leak Detection and Repair Facility
+Region                         Estimated Appraisal Date   Estimated Approval Date       Practice Area (Lead)
+EUROPE AND CENTRAL             23-Mar-2026                23-Apr-2026                   Energy & Extractives
+ASIA
+Financing Instrument           Borrower(s)                Implementing Agency
+Investment Project             Azerigas                   State Oil Company of the
+Financing (IPF)                                           Republic of Azerbaijan
+                                                          (SOCAR)
+
+Proposed Development Objective(s)
+The development objective is to reduce fugitive methane emissions from the gas distribution network operated by
+Azerigas, and to strengthen Azerigas' asset management capacity.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 No
+Is this project Private Capital Enabling (PCE)?           No
+
+SUMMARY
+  Total Operation Cost                                                                                           15.00
+
+  Total Financing                                                                                                15.00
+
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  Non-World Bank Group Financing
+   Trust Funds                                                                                                   15.00
+      Trust Funds                                                                                                15.00
+
+
+
+
+                                                                                                                    Page 1
+
+
+
+                                                                                                            Official Use Only
+        The World Bank
+        Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                               Concept Review Decision
+Moderate                                                                   The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+
+    1. Azerbaijan’s economy is heavily dependent on fossil fuels, with oil and gas accounting for about 90 percent of
+    exports, 49 percent of its fiscal revenue, and one-third of gross domestic product. The 2000–2010 surge in oil and
+    gas production led the country to upper-middle-income status in 2009. During 2022-2023, high energy prices have
+    yielded significant fiscal revenues enabling the government to support growth in non-oil and gas sector through
+    increased fiscal spending, particularly in public investment. However, exposure to global energy prices remains a
+    fundamental risk for Azerbaijan’s economic development. The Azerbaijan 2030: National Priorities for Socio-Economic
+    Development1 (Azerbaijan 2030) and the Republic of Azerbaijan Social and Economic Development Strategy for 2022-
+    20262 lay out an ambitious program for economic diversification including notable energy transition investments.
+
+    2. While the hydrocarbon-fueled growth model has delivered substantial gains, Azerbaijan today acknowledges
+    its limits and as a part of the strategy to diversify the economy is shifting toward a clean energy transition. Global
+    climate action, particularly net zero emission pathways in key oil and gas importing economies, has increased the
+    urgency for Azerbaijan to diversify its economy through low-carbon activities and has led the Government of
+    Azerbaijan (GoA) to position the country as a clean energy producer and exporter. Azerbaijan aims to replicate its
+    success story in oil and gas through the establishment of green energy corridors for clean energy exports from Central
+    Asia and the South Caucasus to Türkiye and Europe establishing itself as a reliable exporter of RE.2
+
+    3. The GoA has clearly recognized the changing global energy landscape. Its Presidency of the 29 th Conference of
+    the Parties (COP) in 2024 and the adoption of a Nationally Determined Contribution (NDC)3 demonstrate its
+    commitment to a clean energy transition while remaining a leading energy exporter. In the power sector, the GoA’s
+    goal is to increase the share of RE sources in installed generation capacity from 20 percent, including large hydropower
+    plants (HPPs), in 2024 to 30 percent by 20304. Azerbaijan is particularly vulnerable to the impacts of climate change,
+    especially to heatwaves, droughts and higher-frequency and higher-intensity floods. Awareness about these events
+    has increased in recent years, as the GoA has started taking action toward climate change mitigation and adaptation.
+
+
+1 Approved in 2021, https://president.az/en/articles/view/50474
+2 The Green Corridor Initiative is part of a memorandum of understanding (MoU)signed with Romania, Hungary, and Georgia to export green energy
+
+supplies to Europe and builds upon the World Bank’s Enhancing Energy Security through Power Interconnection and Renewable Energy Program
+(P179950) approved on May 21, 2024.
+3 Azerbaijan aims to reduce greenhouse gas (GHG) emissions by 35 percent by 2030 and 40 percent by 2050 (compared to 1990).
+4 The capacity of the power plants on renewable energy sources, including large HPPs is 1687.8 MW, which is 20.3 percent of the total capacity.
+
+https://minenergy.gov.az/en/alternativ-ve-berpa-olunan-enerji/azerbaycanda-berpa-olunan-enerji-menbelerinden-istifade
+
+                                                                                                                                          Page 2
+
+
+
+                                                                                                                                 Official Use Only
+        The World Bank
+        Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+    4. Azerbaijan has set out a compelling vision for developing a green energy corridor embedded in national
+    strategies and aligned with international commitments. Azerbaijan has a large untapped RE potential, particularly in
+    onshore and offshore wind energy.5 The development of large regional transmission infrastructure, such as the Black
+    Sea Submarine Cable, could allow Azerbaijan to leverage these extensive resources to pivot its global role on the
+    energy stage toward being an exporter of green energy. However, as set out in the Azerbaijan Country Climate and
+    Development Report,6 the clean energy transition must be accelerated to meet the country’s NDC targets and
+    economic ambitions.
+
+    5. Cutting methane emissions is one of the fastest and most cost-effective tools available to limit global warming.
+    Due to the high global warming potential of methane compared to carbon dioxide, reducing methane emissions has
+    a significant impact on global warming. Azerbaijan’s energy-related methane emissions have increased quickly and
+    are about 6% above 1990 levels. As the country continues to develop, so does its need for energy provision. However,
+    inefficiencies in the system cause ‘easily avoidable’ emissions such as fugitive methane emissions from leaks in the
+    country’s legacy oil and gas infrastructure.
+
+    6. The Presidential Administration, the Cabinet of Ministers, and the Ministry of Energy (MoE) are the sector’s
+    main governing institutions. The oil and gas sector is almost entirely state controlled, with state-owned enterprises
+    such as SOCAR7 (oil and gas production and transmission) and its business unit Azerigas (gas distribution and supply)
+    as the key operators in the country. SOCAR produces oil and gas from onshore and offshore fields in the Azerbaijan
+    segment of the Caspian Sea. It operates the country's only oil refinery, one gas processing plant, and several oil and
+    gas export pipelines throughout the country. The company also owns fuel filling stations in several countries. SOCAR
+    Upstream or “Azneft” is responsible for exploration, development, and production of onshore and offshore oil and
+    gas fields, transportation, processing, refining and sale of oil, gas, condensate and other related products. SOCAR has
+    several fully owned producing assets and has a participating interest in all production sharing agreements with private
+    companies. SOCAR is a profitable company that serves as a major source of revenues for the state.
+
+    7. Azerigas is a separate business unit within SOCAR, with unbundled accounts, responsible for distribution and
+    sales of natural gas to the domestic market. The gas distribution system spans 73,000 km, serving approximately 2.6
+    million customers across the country. Gas distribution in Azerbaijan is a regulated business; gas sales prices are
+    proposed by SOCAR, reviewed by the Azerbaijan Energy Regulatory Authority (AERA), but ultimately decided by the
+    Tariff (Price) Council, chaired by the Minister of Economy. Currently the weighted average gas sales price is about 155
+    manat/1000 m3. Negotiated gas purchase prices are based on the cost of gas supply from various fields, and currently
+    average about 135 manat/1000 m3.
+
+    8. Azerbaijan is in the process of unbundling and reforming its gas sector. In 2025, the Government of Azerbaijan
+    took important steps that are crucial for gas sector reform, including the creation of an independent regulator for gas
+    under AERA, and the adoption of a new tariff model for gas that would allow Azerigas to recover the cost of necessary
+    maintenance and replacement in the future. Specifically, a new Law on Gas Supply (No. 233-VIIQ) was passed by the
+    National Assembly (Milli Majlis) on July 8, 2025, and signed by the President of Azerbaijan on August 19, 2025. The
+    Law provides for two critical policy reform steps in the gas sector of Azerbaijan, specifically:
+
+
+5 Offshore wind technical potential is estimated at 35 GW in shallow waters and 122 GW for deep waters (World Bank Group, Offshore Wind Roadmap
+
+for Azerbaijan, 2022).
+6 Azerbaijan’s 2030 emissions target (−35 percent compared to 1990) and its target of 30 percent RE in the power generation mix by 2030 would
+
+require ramping up annual investments in clean energy quickly over the next decade to about US$0.8–1.0 billion per year by 2030. World Bank Group,
+Azerbaijan - Country Climate and Development Report (English). Washington, D.C.
+7 The State Oil Company of the Republic of Azerbaijan (SOCAR)
+
+
+
+                                                                                                                                             Page 3
+
+
+
+                                                                                                                                    Official Use Only
+        The World Bank
+        Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+         i.    Unbundling of the gas sector to establish a clear distinction between storage, transmission, distribution, and
+               retail, and their functional and operational separation by separate legal entities. The deadline for the full
+               implementation of unbundling was set for January 1, 2027; and
+
+         ii.   Gas tariffs regulation and setting authority to be fully transferred to the energy regulatory agency (AERA).
+               The deadline for the regulatory transitional period was set for July 1, 2028. The counterparts informed that a
+               special purpose law is being drafted in follow up to the new gas law, which will provide the legal background
+               for the establishment of a new interim authority for gas tariffs regulation during the transitional period
+               (however, not yet named publicly). From July 1, 2028, onwards AERA is expected to take full control of tariffs
+               setting and regulation across all levels of the gas sector.
+
+    9. More than 60 percent of the distribution network of Azerigas is a legacy from the Soviet era, and long past its
+    technical lifetime. Leaks are significant and must be urgently repaired to reduce the financial burden of lost gas. In
+    fact, all legacy assets would require replacement to avoid further gas leaks, but the full replacement cost of the
+    distribution network is estimated at Manat 1.526 billion. Azerigas would like to replace its distribution network in
+    batches starting with the most urgent parts first and has made plans to use the outcomes of the gas leak baseline
+    program that the company is currently undertaking to inform investment decisions. However, these plans can only
+    commence after investment decisions have been made, which stands to be a multi-year endeavor. As such, interim
+    efforts to address leakage remain critical and necessary to not only reduce the financial burden caused by lost gas,
+    but also to address the emissions released before replacement.
+
+    10. SOCAR is keen to rehabilitate Azerigas’ assets and to turn the company into a technically and financially healthy
+    utility, but Azerigas needs short-term financial support to commence gas leak repair activities. Therefore, SOCAR
+    has committed to ensure the long-term sustainability of Azerigas by establishing, with the proposed project’s support,
+    a mechanism for Azerigas to retain a portion of financial savings resulting from gas leak repairs for reinvestment into
+    the proposed financial facility for further rehabilitation of Azerigas’s gas distribution system beyond the horizon of
+    proposed Global Flaring and Methane Reduction Partnership (GFMR) grant, thus maximizing the impact of the
+    proposed project. SOCAR indicated that they are interested in and willing to consider follow-up financing by the World
+    Bank and other financiers for modernization of Azerigas’s gas assets that are beyond repair, which will also be included
+    in letter of commitment that SOCAR will send to the Bank. Additionally, both AERA and MoE confirmed that the full
+    implementation of the new law would allow Azerigas not only to become technically and financially healthy, but also
+    financially independent, which in turn may open the floor for so much needed investments and commercial financing.
+    AERA also expressed its support for potential structural investments and concurs with modernization needs of
+    Azerigas.
+
+    11. The proposed project aligns with the World Bank Group’s (WBG’s) Country Partnership Framework (CPF) for
+    Azerbaijan for the period FY25-29.8 The project will contribute to Higher Level Outcome 1: Increased Resilience and
+    Sustainability. Azerbaijan’s economy remains heavily dependent on fossil fuels. The proposed project will help
+    Azerbaijan accelerate its transition from a hydrocarbon-based economy to a greener and more climate resilient one.
+    The government recognizes the limits of the hydrocarbon-fueled growth model and has set a goal to diversify the
+    economy and shift away from hydrocarbons. This will require, among other things, investing in reducing emissions.
+    The urgent need to accelerate the transition to greener economies to create new economic opportunities and
+    overcome the limits of the current fossil fuel-dependent model in a sustainable and inclusive way was also discussed
+    in the Systematic Country Diagnostic Update.9
+
+8 Report No 195625-AZ; discussed by the WBG Board of Executive Directors on January 29, 2025.
+9 June 27, 2022; https://openknowledge.worldbank.org/server/api/core/bitstreams/1d57e70f-6b61-55ac-b1cd-af641fd05e6c/content
+
+
+
+                                                                                                                                   Page 4
+
+
+
+                                                                                                                           Official Use Only
+        The World Bank
+        Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+    12. The proposed project is in line with Azerbaijan’s climate change strategies and sectoral decarbonization
+    pathways. As identified in the World Bank’s Azerbaijan Country Climate and Development Report (CCDR)10, the
+    reduction of methane emissions will play an important role in achieving the country’s NDC targets, which seek to
+    reduce GHG emissions by 40 percent by 2050 compared to 1990.
+
+ C. Proposed Development Objective(s)
+ The development objective is to reduce fugitive methane emissions from the gas distribution network operated by
+ Azerigas, and to strengthen Azerigas' asset management capacity.
+
+ Key Results
+
+     Baseline                                                          Closing Period
+     Cumulative fugitive methane emissions reduced from the gas distribution network operated by Azerigas (cubic meter)
+     June/2026                                                         June/2029
+     0                                                                 107,657,000
+     Azerigas is ‘OGMP 2.0 ready’ (text)
+     June/2026                                                         June/2029
+     No                                                                Yes
+
+
+      The project assumes that 80% of current methane emissions can be reduced over a period of 8 years through the
+      proposed 3-year GFMR grant funding and the financing Facility (753,600,000 cubic meter, cumulative). This is
+      equivalent to 14,067,000 tonnes CO2e.
+
+ D. Concept Description
+
+    13. Azerigas has initiated a program to repair leaks in the gas distribution network, including low pressure gas
+    pipelines, pressure reduction stations, gas flow meters, connectors etcetera. The program will cover the entire legacy
+    gas distribution network. The program will be part of a larger set of initiatives spearheaded by Azerigas addressing gas
+    losses more broadly, including administrative losses due to inaccurate and missing metering, such as a full-scale roll-
+    out of a ‘digital factory’ comprising a supervisory control and data acquisition (SCADA) system, smart meters, and
+    predictive maintenance systems. The Azerigas Gas Leak Detection and Repair (LDAR) Facility will be established as a
+    recipient-executed trust fund (RETF) project with funding by the GFMR grant of US$ 15 million and implemented by
+    Azerigas for methane leak detection and repair activities that will be conducted by Azerigas in the gas distribution
+    system it operates. The proposed financial Facility will start with the savings accumulated during the initial period of
+    GFMR grant. SOCAR will be the Recipient of the grant and holder of the grant and Facility accounts, and Azerigas will
+    be the Beneficiary and the implementing entity responsible for day-to-day implementation and project management.
+    The scope of the project has been informed by a pilot project initiated by Azerigas in the larger Sumqayit area based
+    on its existing LDAR practices. Repair activities will be proposed and executed by Azerigas on a rolling basis and upon
+    pre-agreed eligibility criteria and will be prioritized based on the estimated cost, complexity, potential for emission
+    reduction, and other relevant aspects, with the goal to maximize efficiency of the grant funds. Detailed criteria for
+    activity prioritization will be developed by Azerigas together with the Bank prior to approval of the project.
+
+    14. The proposed financial facility will enable activities that would otherwise not be prioritized due to budget
+    constraints. At the same time, a clear technical and financial commitment to operational excellence from the
+
+10 World Bank Group, Azerbaijan – Country Climate and Development Report, 2023.
+
+
+
+                                                                                                                                  Page 5
+
+
+
+                                                                                                                          Official Use Only
+      The World Bank
+      Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+   beneficiary Azerigas and its mother company SOCAR will ensure that the grant funds will be used for significant
+   emissions abatement. To guarantee longer-term impact, a key aspect of the proposed financial Facility will be that
+   majority of financial benefits from gas savings resulting from leak repair to the recipient will be re-invested into the
+   facility to mobilize additional capital to the initial GFMR grant, to further reduce methane emissions. Azerigas, with
+   Bank support, will develop a protocol for measurement, reporting and verification (MRV) of leak repairs prior to
+   approval of the project, including the establishment of a methane emission baseline, to determine the volume of
+   abated methane emissions. The methane will be valued at the Azerigas purchase price, which is currently 135 manat
+   per 1000 m3.
+
+   15. The detailed scope of repair work eligible for funding by the grant and the financial Facility will be developed
+   by Azerigas prior to approval of the project. It is envisaged that this will include the purchase and installation of
+   cluster meters, methane emission detection and metering equipment, small spare parts (e.g. connectors, valves, small
+   pipe sections), adequate clothing and PPE for LDAR crews, as well as contract services for the leak repair program,
+   capacity building activities to carry out monitoring, reporting and verification of emissions in line with the OGMP 2.0
+   standard, and digital solutions (e.g. the integration of leak data in the GIS system). Funds will be allocated from the
+   GFRM grant and from the financial Facility on a regular basis to carry out a series of activities to repair gas leaks based
+   on pre-defined criteria. These criteria will include but not be limited to: (1) a ‘whitelist’ of standard replicable leak
+   repair activities pre-assessed as eligible for grant funding, such as for example replacement of certain types of
+   connectors; and (2) an appropriate threshold for the estimated cost per tonne of methane emissions abated through
+   the proposed activities. In practice this means that repair interventions will be on the low end of the cost-abatement
+   curve. It is estimated that the repair activities funded by the Facility will be conducted from July 2027 through July
+   2035 (over an eight-year (8) period), while the GFMR Grant will finance the activities during the first three (3) years.
+
+   16. Based on the above, the proposed Project is suggested to finance the following activities grouped into three
+   components:
+
+   Component 1. Equipment for gas leak detection and repair. This component will finance the procurement and
+   installation of cluster meters, methane emission detection and metering equipment, small spare parts (e.g.,
+   connectors, valves, small pipe sections), adequate clothing and PPE for LDAR crews.
+
+    Component 2. Technical services for LDAR activities. This component will finance the procurement of contractual
+    services for the leak detection activities.
+
+    Component 3. Capacity building for Azerigas. This component will finance activities aimed at advancing Azerigas’s
+    capacities in conducting monitoring, reporting and verification of emissions in line with the OGMP 2.0 standard, and
+    digital solutions (e.g., the integration of leak detection and repair data in the GIS system).
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                       Triggered?
+ Projects on International Waterways OP 7.50                                            No
+ Projects in Disputed Area OP 7.60                                                      No
+
+
+
+
+                                                                                                                         Page 6
+
+
+
+                                                                                                                 Official Use Only
+     The World Bank
+     Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+ 17. The environmental and social risks estimated at concept stage are due to the implementation of physical works
+ for fixing gas leakages in the existing gas distribution network and include those related to the generation of some
+ amounts of waste, temporary disturbance to communities and habitats due to noise, fume and vibration, and safety
+ risks if safety measures are not implemented properly. Labor and OHS risks are relatively low as the project will only
+ involve minor repair works. Overall, the project will lead to improved community safety, due to capturing gas leaks in
+ the existing network. An additional positive externality is that gas leak detection and repairs in the gas distribution
+ sector is a labor-intensive process involving a large number of field staff walking along the pipe and carrying out simple
+ repair works; the accelerated program of leak detection and repair unlocked by this operation is expected to generate
+ significant additional local employment over the extended program period through 2035.Based on the above, the
+ project is assessed as Moderate risk both from the environmental and from the social side.
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Sandu Ghidirim
+ Senior Energy Specialist
+
+ Robert Van Der Geest
+ Senior Gas Specialist
+
+Borrower/Client/Recipient
+ Azerigas
+
+ Azerigas
+
+Implementing Agencies
+ State Oil Company of the Republic of Azerbaijan (SOCAR)
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+                                                                                                                       Page 7
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     Azerbaijan Gas Leak Detection and Repair Facility(P508792)
+
+
+
+Task Team Leader(s):                    Sandu Ghidirim, Robert Van Der Geest
+
+Approved By
+
+Practice Manager/Manager:               Zubin Bamji                            24-Apr-2025
+
+Country Director:                       Rolande Simone Pryce                   28-Jan-2026
+
+
+
+
+                                                                                                     Page 8
+
+
+
+                                                                                             Official Use Only
+

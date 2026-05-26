@@ -1,0 +1,454 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                 Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                Concept Stage | Date Prepared/Updated: 29-Jun-2025 | Report No: PIDDC01346
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)        Operation ID                Operation Name
+Djibouti, Djibouti, Ethiopia,   P511492                     Horn of Africa - Groundwater for Resilience Project,
+Ethiopia, Horn of Africa,                                   Phase II
+Kenya, Kenya, Somalia,
+Somalia
+Region                          Estimated Appraisal Date    Estimated Approval Date        Practice Area (Lead)
+MIDDLE EAST AND NORTH           26-Jan-2026                 16-Mar-2026                    Water
+AFRICA
+Financing Instrument            Borrower(s)                 Implementing Agency
+Investment Project              Ministry of Economy and     Ministry of Agriculture,
+Financing (IPF)                 Finance                     Water, Fisheries, Livestock,
+                                                            in charge of Halieutic
+                                                            Ressources
+
+Proposed Development Objective(s)
+To increase the sustainable access and management of groundwater in rural Djibouti.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   To be decided
+Is this project Private Capital Enabling (PCE)?             To be decided
+
+SUMMARY
+  Total Operation Cost                                                                                             40.00
+
+  Total Financing                                                                                                  40.00
+             of which IBRD/IDA                                                                                    40.00
+  Financing Gap                                                                                                     0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+                                                                                                                     Page 1
+
+
+
+                                                                                                           Official Use Only
+        The World Bank
+        Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+      International Development Association (IDA)                                                                                   40.00
+         IDA Credit                                                                                                                 40.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                   Concept Review Decision
+Substantial                                                                    The review did authorize the preparation to continue
+
+
+
+ Other Decision (as needed)
+
+ B. Introduction and Context
+
+ Country Context
+
+1. Djibouti, though small in land area and population, holds significant strategic importance in the Horn of Africa.
+   Geopolitically, Djibouti’s location at the crossroads of key maritime routes—particularly the Bab-el-Mandeb Strait, a
+   chokepoint between the Red Sea and the Gulf of Aden—has made it a vital platform for international trade and
+   regional connectivity, particularly for landlocked neighbor, Ethiopia1, which relies heavily on Djibouti’s deep-water
+   port. In addition to port services, Djibouti’s economy has evolved around logistics, telecommunications, and banking
+   sectors that remain central to its development. Djibouti’s stability and strategic location near conflict zones have made
+   it a key host for foreign military bases, boosting international security efforts and generating significant fiscal
+   revenues. Additionally, Djibouti has emerged as a place of refuge for displaced populations from neighboring states,
+   such as Somalia, Ethiopia, and Yemen, reinforcing its humanitarian significance in a volatile region.
+
+2. In the last two decades, Djibouti saw steady economic growth, attaining lower-middle-income status with a per
+   capita GDP of over US$3,200. Driven by its port services, logistics, and infrastructure development, Djibouti has
+   attracted considerable investment and experienced a steady GDP growth rate averaging 4.4 percent annually from
+   2000 to 2021. Key drivers of this growth include strategic infrastructure investments, Djibouti's advantageous geo-
+   strategic location, and a stable macroeconomic framework. These strengths have attracted substantial foreign direct
+   investment, amounting to US$2.3 billion between 2000 and 20202.
+
+3. Despite the economic progress, Djibouti faces persistent challenges of poverty and inequality. As of 2017, 21 percent
+   of households lived below the national poverty line, and 44 percent fell below the international lower-middle-income
+   threshold3. Inequality in Djibouti is one of the highest in the MNA region with a Gini index of 41.6 in 20174. In 2023,
+   the country ranked 175 out of 193 countries and territories in the Human Development Index (HDI). The
+
+
+
+1 World Bank (2023). Djibouti, Ethiopia, Kenya, Somalia - Horn of Africa Initiative: Regional Economic Corridor Project
+2 The World Bank (2024). Djibouti Country Economic Memorandum.
+3 World Bank (2024). Country Climate and Development Report: Republic of Djibouti.
+4 World Bank (2022). Poverty & Equity Brief Djibouti. https://databankfiles.worldbank.org/public/ddpext_download/poverty/987B9C90-CB9F-
+
+4D93-AE8C-750588BF00QA/previous/Global_POVEQ_DJI.pdf
+
+                                                                                                                                          Page 2
+
+
+
+                                                                                                                               Official Use Only
+        The World Bank
+        Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+    unemployment rate—particularly among youth, women, and those outside the capital—is more than three times the
+    MENA average.
+
+4. The rural-urban divide in Djibouti critically impacts social welfare and economic development. Policies must address
+   rural needs and enhance infrastructure for inclusive growth. Due to the country's economic and infrastructural
+   development centered around the capital, 79% of the population are residing in urban areas, primarily in Djibouti City.
+   In contrast, only 21% of the population5 lives in rural areas which face significant challenges such as higher poverty
+   rates and limited access to essential services like education and healthcare. Rural livelihoods, mainly agriculture and
+   pastoralism, are increasingly threatened by environmental factors like droughts, further increasing rural-urban
+   disparity and prompting migration to urban areas.
+
+
+ Sectoral and Institutional Context
+
+5. Djibouti faces critical water challenges from both scarcity and flooding, affecting development, job opportunities,
+   food security, and livelihoods. With an arid climate and average annual rainfall of just 225 mm, the country has
+   extremely limited renewable water resources—only 185 cubic meters per person per year, far below the 500 cubic
+   meter absolute scarcity threshold. Recurrent droughts, such as those from 2008–2011 and 2021–2022, have severely
+   impacted over 100,000 people, halved livestock herds, and caused GDP losses of up to 4% annually6. At the same time,
+   flooding is becoming more frequent, with four major events in Djibouti City over the past two decades affecting up to
+   200,000 residents and causing up to $47 million or 1.1% of GDP in a single event in 2023. Climate change will further
+   increase these risks, as described in detail in the Country Climate and Development Report for Djibouti (2024). The
+   application of the Bank’s Climate and Disaster Risk Screening Tool (Water Rapid Screening Assessment) corroborated
+   these findings.
+
+6. Access to drinking water has long been a major challenge for Djibouti given its unfavourable climatic conditions.
+   The rate of access to safe drinking water remains weak with only 47 percent of the population in rural areas having
+   access to basic drinking water compared to 83 percent in urban areas7. Djibouti has made important investments in
+   urban water supply by establishing desalinization capacity and a pipeline connection to deliver water from Ethiopia8
+   that together provide half of water supply and could deliver more at full capacity. However, the rural water supply
+   situation in Djibouti remains very challenging. Limited water supply affects daily life, with communities often relying
+   on distant or unreliable sources, leading to increased workloads, particularly for women and children who are typically
+   responsible for water collection. Insufficient water supply hinders agricultural and livestock productivity, threatening
+   the livelihoods of pastoralists and farmers.
+
+7. Groundwater is Djibouti’s sole water resource and remains the primary source in rural areas. However, it is
+   increasingly overexploited, and its quality is deteriorating. Years of extraction at rates far exceeding those in
+   neighboring countries have led to serious depletion. Djibouti is abstracting annually 133% of its renewable
+   groundwater, compared to 7% in Ethiopia and 18% in Kenya9. The quality of groundwater is also deteriorating; salinity
+   levels are high: in 2005, more than half of the country’s boreholes recorded salinity above 900 milligrams per liter
+
+5 World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects, retrieved from
+
+https://data.worldbank.org/indicator
+6 The 2021-2022 drought led to substantial food insecurity, affecting 37.1% of rural households and 9.7% of urban households. World Bank. 2024.
+
+Djibouti - Climate and Health Vulnerability Assessment.
+7 Djibouti CPF FY22-FY26
+8 Djibouti imports about 30 percent of its water from Ethiopia
+9 World Bank (2024). Country Climate and Development Report: Republic of Djibouti.
+
+
+
+                                                                                                                                            Page 3
+
+
+
+                                                                                                                                   Official Use Only
+        The World Bank
+        Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+    (mg/L), with some reaching up to 1,200 mg/L10. Many rural communities rely on shallow local aquifers, which are
+    recharged by rainfall and highly vulnerable to drought. During the severe drought from 2008 to 2011, nearly all
+    traditional shallow wells and 80 percent of community wells across the country were either temporarily or
+    permanently out of service.
+
+8. Djibouti’s water security is closely tied to its regional relationships, particularly with Ethiopia, due to the
+   transboundary nature of key water resources, especially groundwater. Djibouti shares important groundwater
+   resources with its neighbors. The Afar Rift Valley /Afar Triangle Aquifer—one of only two major aquifers in Djibouti—
+   extends across the borders of Ethiopia and Eritrea, making shared management essential. In recent years, regional
+   cooperation has expanded with the development of a cross-border pipeline that currently supplies Djibouti with six
+   million cubic meters of water annually—roughly one-quarter of urban water use. This pipeline has significantly
+   boosted Djibouti’s water supply and strengthened hydrological and economic ties between the two countries. While
+   the pipeline has additional unused capacity, its long-term reliability will partly depend on climate conditions in
+   Ethiopia. Ensuring long-term water security will require cooperation and integrated management of these
+   transboundary resources.
+
+9. Djibouti's water management is fragmented and constrained by limited capacity. This hinders effective oversight
+   and research on groundwater resources. The Ministry of Agriculture, Livestock, and the Sea (Ministère de
+   l’Agriculture, de l’Eau, de la Pêche, de l’Élevage et des Ressources Halieutiques, MAEP-RH) serves as the lead agency
+   responsible for water resource studies and development. The National Water Board of Djibouti (Office National de
+   l’Eau et de l’Assainissement de Djibouti - ONEAD) manages urban water supply infrastructure under MAEP-RH's
+   supervision, while the National Water Resources Council (NECC) coordinates and plans national water. Additionally,
+   the Centre for Research and Studies of Djibouti (Centre d'Études et de Recherche de Djibouti - CERD) is tasked with
+   scientific research related to drinking water management and the search for new water sources.
+
+10. The Direction de l’Hydraulique Rurale (Rural Hydraulic Directorate) of the MAEP-RH is responsible for rural water
+    supply and groundwater management. Despite its importance, the Directorate struggles with significant resources
+    and capacity constraints, limiting its ability to realize comprehensive studies, exploration, and drilling activities. It is
+    responsible for planning and executing rural water supply projects, which involves developing and maintaining
+    infrastructure, ensuring the provision of potable water, and supporting irrigation efforts. Additionally, the Directorate
+    oversees the operation and maintenance of these rural water systems. The Directorate struggles to fulfill its roles
+    effectively. Reasons are lack of sufficient data and information on aquifers, insufficient staffing and enforcement
+    capabilities, along with coordination challenges among various entities involved in water management, including
+    many NGOs and development partners. With rural water being free of charge, the Directorate is fully dependent on
+    budget transfers.
+
+11. The Intergovernmental Authority on Development (IGAD) plays a crucial role in fostering regional cooperation and
+    development in Eastern Africa. Established in 1986, IGAD focuses on peace, security, and economic development
+    among its member states. In the sectoral context, IGAD enhances agricultural productivity and addresses climate
+    change challenges through regional initiatives. As one of the Implementing Agency of Phase I of the Program, IGAD
+    plays a crucial role in enhancing regional collaboration and capacity for groundwater management. IGAD's Water Unit
+    directs regional activities, such as assessing transboundary aquifers. It is working closely with Project Implementation
+    Units in participating member states to prioritize, define, and validate regional initiatives. The IGAD-Platform for
+    Groundwater Collaboration (I-PGWC) helps member states prioritize actions for groundwater knowledge, information
+
+10 Water is considered to become significantly unpalatable at levels greater than 1,000 mg/l) (WHO 2022a   )
+
+                                                                                                                           Page 4
+
+
+
+                                                                                                                   Official Use Only
+       The World Bank
+       Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+    sharing, capacity building, and policy harmonization. The Groundwater Information System (GWIS) allows countries
+    to generate and share data on transboundary aquifers, adding value to inform decision-making and joint planning.
+    IGAD’s coordination ensures consistency, fosters trust, and supports institutional capacity across member states for
+    long-term groundwater management. By facilitating cross-country dialogue on groundwater use, particularly in areas
+    with planned investments, IGAD ensures collaborative management of shared resources, thereby enhancing the
+    region's ability to manage groundwater resources effectively and fostering resilience and sustainable development.
+
+
+ Relationship to CPF
+
+12. The proposed Project is closely aligned with the World Bank Group (WBG) Country Partnership Framework (CPF)
+    2022-2025 for Djibouti. The Project reflects the WBG’s commitment to supporting Djibouti in reducing poverty,
+    promoting inclusion, and advancing human capital development. It will contribute to the CPF’s focus on supporting
+    government and public institutions’ efforts to strengthen basic service delivery and social inclusion. Additionally, the
+    Project targets vulnerable populations, including rural communities, women, and girls, ensuring equitable access to
+    essential services and opportunities. The Project also contributes to the implementation of the World Bank Group’s
+    Middle East and North Africa Climate Roadmap (2021-2025). It is part of the CMU’s Engagement Area on Rural
+    Resilience and will directly contribute to the scorecard indicators number of people provided with water, sanitation,
+    and hygiene services, and number of people with enhanced resilience to climate risks. These indicators will also inform
+    the development of the Project’s framework.
+
+13. The Project is also aligned with the Government’s Vision 2035. This government- long-term strategy to build the
+    country’s future is based on five core pillars: (i) Peace and national unity: Strengthening unity, peace and solidarity;
+    (ii) Good governance: Reinforcing good governance and democracy; (iii) A diversified economy: Promoting competitive
+    and healthy economic growth; (iv) Investing in human capital: Building a hardworking, healthy and educated
+    workforce; and (v) Regional integration: Increasing trade and commerce with regional partners. The Project will
+    contribute to all its pillars and in particular the pillars (ii), (iv) and (v).
+ C. Proposed Development Objective(s)
+ To increase the sustainable access and management of groundwater in the Horn of Africa's borderlands.
+
+
+  Key Results (From PCN)
+14. Key results include better access to water supply for human consumption and improved resilience to droughts for
+    rural communities. The Projects will enhance Djibouti’s knowledge on their groundwater resources and provide
+    valuable information and tools for planning and implementation of groundwater management projects. At the
+    national level, the Project will result in increased capacities for water and groundwater management, as well as for
+    transboundary cooperation in the management of shared water resources,
+
+ D. Concept Description
+       The proposed Project aims to improve groundwater management at local, national, and regional scale, improve
+       rural water supply and enhance rural livelihoods. Aligned with the HoAG4R Program, the Project has two main
+       components: the first supports groundwater use through infrastructure and community-led initiatives; the
+       second strengthens national and regional capacities for water management and coordination.
+
+
+
+                                                                                                                        Page 5
+
+
+
+                                                                                                                Official Use Only
+       The World Bank
+       Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+15. Component 1. Develop innovative groundwater-based infrastructure for resilient livelihoods. This component aims
+    to finance resilient rural and small-town groundwater and water harvesting infrastructures and support the
+    development of resilient livelihoods through the implementation of community-based inclusive groundwater
+    management models and income generating activities. This component will include the following subcomponents:
+        • Subcomponent 1.a: Supporting groundwater infrastructure development. This subcomponent will finance
+            infrastructure solutions specifically designed to meet local needs, including the construction of new
+            boreholes, the construction of surface water harvesting systems, and the piloting of solar desalination units
+            for brackish groundwater. Comprehensive studies to be conducted under component 2 will inform the site
+            selection and detailed planning of these activities. In developing groundwater infrastructure, we will leverage
+            important insights and lessons learned from Phase I, where a thorough assessment of typical borehole failures
+            was conducted. This includes using a resilient design checklist and salinity guidelines, to inform the selection
+            and guide design of interventions and financing a design and supervision to ensure the proper use of these
+            instruments.
+        • Subcomponent 1.b: Support O&M of the financed schemes for long term sustainability. Community
+            engagement is vital for operation but often cannot guarantee the adequate maintenance of the rural water
+            systems. Phase I showed greater success with private sector involvement. This subcomponent will develop
+            O&M models based on agreements between communities and private operators. Local governments will
+            closely monitor O&M performance using standardized protocols.
+        • Subcomponent 1.c: Promote local economic development. This subcomponent will invest in economic
+            development and livelihoods enhancement, particularly for women. The Project will support income-
+            generating activities, such as (a) developing date palm perimeters and production to combat malnutrition
+            and supply the national market, (b) investing in livestock production (caprine and ovine) to combat
+            malnutrition and supply the regional market; and (c) creating small jobs for maintenance and repairs to ensure
+            the functionality of past investments, fostering a market for small repair craftsmen.
+
+
+16. Component 2. Build the national institutional capacity and water resources information base for sustainable and
+    inclusive groundwater management. This component is designed to enhance Djibouti's ability to explore, manage,
+    and plan its water resources, while also broadening the nation's knowledge base in this area. It will build capacities
+    for the integrated use of surface and groundwater resources, providing valuable insights and support for infrastructure
+    development and management activities outlined in Component 1. The activities are structured into two
+    subcomponents:
+
+        •   Sub-component 2.a: Building institutional capacity on water resources exploration, management and
+            planning. This includes developing a comprehensive Water Master Plan (2025-2040), financing equipment and
+            infrastructure of the Rural Hydraulic Directorate, implementing a targeted capacity-building program and
+            promoting transboundary cooperation.
+        •   Sub-component 2b: Strengthening Djibouti’s water resources knowledge base. This subcomponent will
+            finance detailed studies to improve the understanding and characterization of the transboundary Afar Rift
+            Aquifer and the groundwater resources of Somalia Borderlands. Further the potential for surface water
+            harvesting of the Tadjoura Region and Somalia Borderland will be assessed. The sub-component also will
+            support the development of a national groundwater monitoring network and information management
+            system. For the assessment of the transboundary water resources, active engagement of IGAD is required.
+
+17. Component 3. Project Management, M&E, Knowledge Management, and Learning. This component will
+    complement the other components by financing the operational costs of the Project Management Unit within the
+
+                                                                                                                        Page 6
+
+
+
+                                                                                                                Official Use Only
+      The World Bank
+      Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+   Ministry of Agriculture, as well as project coordination, fiduciary, environmental and social risk management,
+   monitoring and evaluation and reporting. The component would also be responsible for knowledge management and
+   learning, and evidence-based policy input
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                    Triggered?
+ Projects on International Waterways OP 7.50                                        Yes
+ Projects in Disputed Area OP 7.60                                                  No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Chris Fischer
+  Senior Water Specialist
+
+  Safaa Bahije
+  Water Resources Specialist
+
+ Borrower/Client/Recipient
+  Ministry of Economy and Finance
+  Ali Gadileh
+  Director
+  aligadileh@yahoo.fr
+
+ Implementing Agencies
+  Ministry of Agriculture, Water, Fisheries, Livestock, in charge of Halieutic Ressources
+  Ibrahim Elmi
+  General Secretary
+  ibrahimelmimed@gmail.com
+
+ FOR MORE INFORMATION CONTACT
+
+
+
+                                                                                                              Page 7
+
+
+
+                                                                                                      Official Use Only
+     The World Bank
+     Horn of Africa - Groundwater for Resilience Project, Phase II(P511492)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Chris Fischer, Safaa Bahije
+
+Approved By
+
+Practice Manager/Manager:                Michael Haney                        05-Jun-2025
+
+Country Director:                        Stephane Guimbert                    29-Jun-2025
+
+
+
+
+                                                                                                    Page 8
+
+
+
+                                                                                            Official Use Only
+

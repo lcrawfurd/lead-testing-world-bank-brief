@@ -104,8 +104,23 @@ PROJECT_NAMES = {
 }
 
 
+EXTRACTED_DIR = ROOT / "docs-extracted"
+
+
 def extract_text(pdf_path: Path) -> str:
-    """Run pdftotext -layout and return UTF-8 text. Empty on failure."""
+    """Return extracted text for a PDF.
+
+    Prefers a pre-extracted .txt file in docs-extracted/ (much faster,
+    works without `pdftotext` installed, and lets CI run this script
+    against the committed text corpus). Falls back to running
+    pdftotext on the PDF if no extracted file exists.
+    """
+    txt_path = EXTRACTED_DIR / (pdf_path.stem + ".txt")
+    if txt_path.exists():
+        try:
+            return txt_path.read_text(encoding="utf-8", errors="replace")
+        except OSError as e:
+            print(f"  !! reading {txt_path} failed: {e}", file=sys.stderr)
     try:
         out = subprocess.run(
             ["pdftotext", "-layout", "-nopgbrk", str(pdf_path), "-"],

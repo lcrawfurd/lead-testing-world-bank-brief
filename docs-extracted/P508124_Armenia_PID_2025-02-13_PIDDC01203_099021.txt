@@ -1,0 +1,423 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 13-Feb-2025 | Report No: PIDDC01203
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Armenia, Armenia               P508124                      Armenia: Water and Irrigation Services Enhancement
+                                                            Program
+Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+EUROPE AND CENTRAL             16-Apr-2025                  25-Jun-2025                   Water
+ASIA
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Republic of Armenia           Ministry of Territorial
+Financing (IPF)                                             Administration and
+                                                            Infrastructure
+
+Proposed Development Objective(s)
+The Project Development Objective (PDO) is to provide improved access to efficient and financially sustainable
+irrigation and rural WSS services in selected areas of Armenia.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   To be decided
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                           175.00
+
+  Total Financing                                                                                                175.00
+             of which IBRD/IDA                                                                                   80.00
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                  80.00
+  Non-World Bank Group Financing
+
+                                                                                                                    Page 1
+      The World Bank
+      Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+     Counterpart Funding                                                                                           20.00
+       Borrower/Recipient                                                                                          20.00
+     Other Sources                                                                                                 75.00
+       FRANCE: French Agency for Development                                                                       75.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                    Concept Review Decision
+Substantial                                                     The review did authorize the preparation to continue
+
+
+
+
+Other Decision (as needed)
+
+B. Introduction and Context
+
+Country Context
+
+ 1.     Armenia has made significant strides since gaining its independence from the Soviet Union in 1991, with a
+ transformed economy with sustained growth, ambitious reforms supporting a market-oriented environment. From
+ 2000 to 2022, average annual growth was 6.3 percent, reducing poverty from 32.1 percent to 23.7 percent. However,
+ growth has been volatile. After the Velvet Revolution, growth reached 7.6 percent in 2019, but the economy contracted
+ by 7.2 percent in 2020 due to the COVID-19 pandemic and the military conflict with Azerbaijan. The economy recovered
+ in 2021 and was further fueled by inflows of people, money transfers, and re-routed trade, with growth averaging 10.7
+ percent in 2022-23, before decelerating to a projected 5.5. percent for 2024. Poverty in Armenia has steadily decreased
+ over the last decade, with extreme poverty nearing 1.1 percent. Access to basic services like water and heating remains
+ more limited in rural areas.
+
+ 2.     Climate change poses significant economic and social risks for Armenia, with the annual average temperature
+ rising faster than the global average (2.38°C in Armenia since 1960, compared to 1.5°C globally). Over the next fifty
+ years, temperature increases in Armenia are expected to surpass the global average. Warmer temperatures and
+ extreme weather events will damage infrastructure, impact human health and productivity, and harm sectors like
+ agriculture, forestry, and tourism. The agriculture sector is particularly vulnerable due to changes in land productivity,
+ water availability, and growing season timing. Droughts, worsened by limited water resources and rising temperatures,
+ are a major concern, especially in the Ararat Valley, Vayk, and Syunik. Nearly 98% of Armenia's land is at risk of longer
+ drought episodes, further stressing the agriculture sector.
+
+ 3.    The agricultural sector lost ground in the economy in value added and employment share, while industry and
+ the service sector have become more important drivers of growth. Agriculture's GDP peaked at US$2.1 billion in 2014
+ but fell 16% to US$1.7 billion in 2018. Between 2012 and 2019, agriculture’s share of GDP and employment dropped
+
+                                                                                                                       Page 2
+         The World Bank
+         Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+  from 37% to 24%1. However, from 2020 to 2022, agricultural output grew by 22% after years of decline. Services have
+  been the main driver of per capita growth since 2000, with services (excluding trade) growing 28% and industry 8% in
+  2022. Services' share of GDP rose from 46% in 2012 to 53% in 2021, driven by ICT, tourism, and healthcare. The industrial
+  sector’s share also increased from 16% to 26.9% during this period.
+
+ Sectoral and Institutional Context
+
+  4.     Irrigated agriculture plays a crucial role in Armenia’s economy, providing livelihoods for over 250,000 people
+  and contributing 80% of agricultural output. However, the sector's contribution to GDP has declined from 16% in 2015
+  to 8% in 2023. Armenia has 208,000 hectares of irrigable land, of which 95,000 hectares are irrigated, highlighting the
+  importance of effective water management. The irrigation infrastructure, largely inherited from the Soviet era, no longer
+  meets modern demands due to outdated technology, system deterioration, and the impacts of climate change. As a
+  result, the sector faces inefficiencies, with only 25% system-level efficiency, compared to 70-85% in modern systems,
+  and half of the water being lost in distribution networks. This limits irrigation, reduces agricultural productivity, and
+  causes economic losses. Modernizing infrastructure and improving management could enhance water productivity by
+  up to 40%, without requiring additional water resources, which is critical for the sector’s future growth and food security.
+
+  5.    The irrigation sector in Armenia faces significant institutional and operational challenges that hinder effective
+  water delivery for agriculture. The Water Committee (WC) struggles with inadequate technical capacity, poor planning,
+  and a lack of project management resources, while sector monitoring and asset management are underdeveloped, with
+  outdated tools like GIS and CMMS. Water User Associations (WUAs), responsible for local irrigation, have not received
+  support since 2015 and face issues such as large service areas, outdated infrastructure, poor farmer participation, and
+  financial instability. Similarly, the Water Supply Agency (WSA), which provides bulk water to WUAs, suffers from
+  outdated infrastructure, low tariffs, insufficient maintenance funding, and a lack of modern asset management systems
+  and skilled staff. Both WUAs and WSA need urgent reforms, including infrastructure modernization, tariff restructuring,
+  and improved financial and operational management to ensure long-term sustainability and efficiency in the sector.
+
+  6.    Armenia has made significant strides in improving its water supply and sanitation (WSS) services over the past
+  two decades, largely through phased Public-Private Partnership (PPP) reforms that have enhanced operational
+  performance, service quality, and financial stability. Currently, most WSS services are managed by "Veolia Djur," a
+  subsidiary of Veolia, under a lease contract lasting until 2031. However, about 650,000 people in 579 rural settlements
+  remain outside this contract, relying on aging, small-scale networks, spring or groundwater sources, and community-
+  managed systems with limited municipal oversight. These areas face challenges such as deteriorating infrastructure,
+  inadequate water storage and disinfection, sparse metering, and a lack of reliable data and skilled personnel, with
+  sanitation services also underdeveloped. Despite the improvements, the policy landscape for these rural settlements is
+  inadequate, with low tariffs hindering sector development and Veolia’s sustainability, while the Water Code exempts
+  local services from tariff regulation and licensing. The Water Committee (WC) and Public Services Regulatory
+  Commission (PSRC) lack authority to oversee local governance bodies, leading to poor maintenance and limited service
+  expansion. To address these gaps and ensure long-term sustainability, legal, policy, and institutional reforms are needed,
+  with a focus on improving rural WSS services and infrastructure.
+
+  7.     Armenia faces significant challenges in water information management, hindering the effective operation of
+  irrigation and water supply services. There is no regulatory framework for managing or sharing data, despite the Water
+
+
+1 Data as of January 2021 of ILOSTAT (dashboard), International Labour Organization, Geneva, https://ilostat.ilo.org/.
+
+
+
+
+                                                                                                                         Page 3
+         The World Bank
+         Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+    Committee producing key data on water infrastructure. Water User Associations manage separate irrigation data,
+    leading to fragmented and inefficient data systems. Although a Water Infrastructure Information System (WIIS) was
+    developed to integrate this data, it remains incomplete, preventing integration across irrigation, drinking water, and
+    wastewater sectors. This fragmentation results in poor planning, resource allocation, and inefficient service delivery.
+    Outdated infrastructure and limited technical capacity further exacerbate these issues, causing rapid deterioration of
+    investments. Strengthening water information management is critical to improving Armenia's water sector and ensuring
+    more sustainable and efficient services.
+
+    8.     The Government of Armenia (GoA) launched an ambitious Government Program in 2021, which concludes in
+    2026, to tackle water sector reforms. The five-year Government program (2021-2026) and its associated Action Plan,
+    which comprised numerous actions related to water including: (i) improving irrigation system performance; (ii)
+    enhancing efficiency, ensuring water savings, enhancing the crop yield, expanding irrigable lands, use of new
+    technologies; (iii) improving the quality of services delivered in the irrigation water sector; (iv) improving WSS services
+    in settlements not serviced by the Lessee; (v) strengthening local water institutions; (vi) elaborating the draft Law on
+    Irrigation Water, to regulate the role of WUAs in developing irrigated agriculture in Armenia; and (vii) exploring models
+    of Public Private Partnerships in irrigation and water resources management. However, since 2021, progress has been
+    limited and most of the program objectives are not yet realized. This operation, therefore, aims to fill these gaps and
+    support the government to achieve the objectives set out in Action Plan. Furthermore, in May 2024, the Prime Minister
+    declared that Armenia’s water sector needs urgent investment to address priority issues such as low efficiency of water
+    use, cost recovery of water services, water losses, groundwater issues, lake Sevan quantity and quality issues, additional
+    storage, etc. Given the urgency to tackle these priority challenges, the GoA requested the World Bank to consider
+    financing a water sector Multi-phase Programmatic Approach (MPA) which focuses on securing reliable irrigation and
+    potable rural water supply services in priority areas.
+
+    Relationship to CPF
+    9.     The proposed project is fully aligned with Armenia Country Partnership Framework (CPF) 2025-20292 and with
+    its High-Level Objective (HLO) 3: More Resilient Economy, CPF Objective 5: More Climate Resilient Economic Activity.
+    HLO 3 focuses on increasing the resilience of Armenia’s economy by prioritizing climate adaptation in key economic
+    sectors, with particular emphasis on supporting sustainable and resilient irrigation services for the agriculture sector
+    and enhancing and expanding water supply services in underserved areas. Objective 5 emphasizes strengthening the
+    institutional governance of the water sector. The proposed project aligns directly with this objective, as it centers on
+    enhancing climate-resilient irrigation systems and water supply services, while also strengthening institutional capacities
+    to ensure sustainable and effective water resource management.
+    10. The program is consistent with the World Bank's vision, fits into its Global Challenge Programs (GCPs), and
+    advances the achievement of Sustainable Development Goal (SDG) 6 on clean water and sanitation for all; and SDG 4
+    on end hunger, achieve food security and improved nutrition and promote sustainable agriculture. Water security
+    and climate adaptation is the first of the World Bank GCPs that contributes to the creation of a world free of poverty on
+    a livable planet. The water GCP aims to strengthen water security, increase access to safe water supply and sanitation,
+    and invest in the scale-up of sustainable water management and disaster risk reduction solutions. Within the framework
+    of the SDG 4, the project supports Armenia in advancing towards the target of implementing resilient agricultural
+    practices that increase productivity and production and strengthen capacity for adaptation to climate change.
+
+
+
+2
+    Expected Bank Board Approval on January, 2025
+
+                                                                                                                           Page 4
+      The World Bank
+      Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+ Simultaneously, withing SDG 6, it supports the advancement towards the target of universal and equitable access to
+ safe and affordable drinking water, sanitation, and hygiene (SDG 6.1. and SDG 6.2).
+C. Proposed Development Objective(s)
+
+11. The proposed PrDO of the Program is to provide improved access to efficient and financially sustainable irrigation
+and rural WSS services in selected areas of Armenia.
+12. The proposed Project Development Objective (PDO) of Phase 1 IPF of the MPA is to provide improved access to
+efficient and financially sustainable irrigation and rural WSS services in selected areas of Armenia..
+
+Key Results (From PCN)
+
+13.     The Program will focus on three key results areas: (i) improved access to efficient irrigation and rural WSS
+services; and (ii) improved irrigation and rural WSS financial and operational cost recovery for enhanced fiscal
+sustainability of the sector. Additional intermediary indicators will be identified during project preparation to regularly
+monitor progress and identify additional steps and adjustments to achieve the program development objective (PrDO).
+Additional intermediary indicators will be identified during project preparation to regularly monitor progress and
+identify additional steps and adjustments to achieve the program development objective (PrDO). The preliminary
+Program Results Chain is presented in Figure 1.
+14.     At the end of the 10-year Program, the following outcomes are expected: (i) 95,000 new people gaining access
+to improved irrigation and drainage services; (ii) approximately 115,000 new people gaining access to safely managed
+rural WSS services; (iii) at least 50 percent of the irrigation schemes achieving 70% cost recovery for operation and
+maintenance expenses from bulk irrigation tariff revenues; and (iv) a 15% increase in cost recovery ratio for rural WSS
+services that were part of the program.
+
+D. Concept Description
+15. The MPA program is structured as a 10-year engagement through two phases to achieve the PrDO. The PDO for
+each phase and PrDO target the same topics, and the phases are progressive; each phase maintains a similar structure
+and builds towards the achievement of the overall program development objective. The structure of the MPA is
+uninterrupted and overlapping to ensure that the Program's activities continue without a gap in the rollout of the key
+activities. The total Program includes: (i) a six-year Phase 1 (2025-2031) with focused investments in enhancing the
+institutional capacity of critical water sector entities, revision to the methodology and structure of irrigation and WSS
+tariffs, completing core water sector strategies, finalizing all infrastructure investment feasibility and design stage
+documents for all proposed investments in irrigation and RWSS, civil works to modernize 2-3 irrigation schemes, technical
+and institutional assessment of Vorotan-Arpa-Sevan Conveyance Tunnel and construction/rehabilitation of selected
+settlements for rural water supply on a pilot basis using performance-based conditions; and (ii) a six-year Phase 2 (2029-
+2035) to scale-up and expand infrastructure investments in systems selected from remaining irrigation schemes and
+priority settlements for rural WSS with a focus on operational and financial efficiency, and climate adaptation. The second
+phase will start preparation after the second or third year of implementation of Phase 1, and implementation of Phase 2
+should start in 2029, at the fourth year of implementation of Phase 1.
+16.    Phase 1 will focus on the following components:
+
+17.    Component 1: Water Sector Reform and Institutional Strengthening will provide support to the Ministry of
+Territorial Administration and the Water Committee to develop and approve a comprehensive national water strategy
+and a standalone ten-year national irrigation and WSS strategy. This subcomponent will also examine all existing legal
+
+                                                                                                                        Page 5
+       The World Bank
+       Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+ frameworks for water sector management in Armenia including the Water Code, the WUA law, and other related
+ legislative acts. The component will also include (i) a review of tariffs and subsidies and development of an
+ implementation plan for revised tariff roll out, (ii) support for the transformation of central and regional units of the
+ Water Supply Agency (WSA) or “JRAR” into a more efficient and customer-oriented irrigation service provider, (iii)
+ support for the institutional and organizational strengthening of the Ministry of Territorial Administration and the Water
+ Committee to enhance their planning, monitoring, and financial management of the irrigation sector, (iv) support for the
+ development of a national program of support for existing Water User Organizations including O&M, water allocation,
+ water use efficiency, financial, and governance related functions of WUAs; and (v) finance the establishment of a National
+ Irrigation Water Accounting and Adaptation Center. IWAAC will provide essential information, tools, and applications
+ required for climate-adaptive water management, such as water accounting, crop monitoring, weather and climate
+ information, weather forecasting services for farmers, flood and drought monitoring, groundwater monitoring in Ararat
+ artesian basin, and irrigation management planning, among others.
+
+18.     Component 2. Rural Water Supply and Sanitation Enhancement will focus on enhancing access, efficiency, and
+financial sustainability of the WSS subsector. It will do so by improving regulatory frameworks and institutional capacity
+to advance the sector reform and promote sustainable service delivery, duly accounting for current and expected climate
+change impacts. It will furthermore support the Government of Armenia in improving access to safely managed WSS in
+unserved rural settlements through rehabilitation and construction of water supply infrastructure, in conjunction with
+establishing community-driven water supply service provision. The main activities under this component focus on
+developing the capacity of water supply institutions at all levels of government, supporting policy improvements and
+drinking water tariff reform, implementing a subsector-wide monitoring program, supporting the government in building
+its technical and contract management capacity to allow it to strengthen its relationship with private sector operators,
+and identifying and preparing for future rural water supply investments, including those investments identified for Phase
+2 of the program.
+
+19.      Component 3. Modernizing Irrigation Infrastructure & System Management. will finance rehabilitation and
+modernization of selected irrigation systems at main, secondary, and tertiary canal levels currently managed jointly by
+WSA at the large main canal and reservoirs level and by WUAs at the secondary and tertiary distributary level. In
+cooperation with the Water Committee, a sample of nine irrigation schemes are short-listed for consideration under the
+project (see Table 1) from which 2-3 schemes will be selected for financing under Phase 1, under a Framework Approach.
+The activities to be carried out in schemes selection include detailed feasibility studies, including Economic and Financial
+Analysis, and Environmental and Social Impact Assessment for rehabilitation/modernization. Final selection of schemes
+will be based on technical feasibility, estimated investment cost, financial and economic viability, and allocated budget.
+The following structures will be considered for rehabilitation and/or reconstruction/modernization across the selected
+schemes: headworks; inverted syphons; aqueducts, secondary and tertiary network (pipeline or lined); water
+control/distribution; outlets; mudflows; flood protection; flow and/or volumetric measurement structures, bridges,
+maintenance roads, and related pump stations with aim of identifying technological advancements that can modernize
+selected systems (e.g., conversion from pumping to gravity or transition from gravity to pressurized pipe networks, where
+feasible, or construction of daily regulating reservoirs to improve water supply for canals during periods of low flow or low
+water levels), and other required ancillary structures. Wherever feasible, the project will maximize elevation to convert
+from pumped to gravity systems, to reduce energy consumption and minimize GHG emissions. While a large part of the
+rehabilitation/modernization will involve reconstruction/modernization of original systems, the feasibility and detailed
+design studies will systematically examine the opportunities to consider water control and delivery structures, that are
+operated to maintain a constant canal water levels over time – regardless of the flow rate. This shall also include
+automation of headworks or introduction of Supervisory Control and Data Acquisition (SCADA) to monitor and control
+water distribution of the larger canal systems.
+
+                                                                                                                        Page 6
+       The World Bank
+       Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+20.     Component 4: Project Management. An interim WISE Project Coordination Team (PCT) will be housed within the
+Water Committee and will assume primary responsibility for project implementation, including implementation of civil
+works and related procurement and financial management (FM), compliance with agreed environmental and social
+management measures, and project monitoring and evaluation (M&E). This component will finance staff costs;
+coordination of the project-financed activities with other ongoing International Financial Institution (IFI) projects in the
+water sector; design, implementation, and reporting of baseline and project completion surveys; and the preparation of
+assessment studies (e.g., pre-feasibility and feasibility studies), detailed engineering designs, and construction supervision.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                       Policies                                                      Triggered?
+ Projects on International Waterways OP 7.50                                            Yes
+ Projects in Disputed Area OP 7.60                                                       No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+21.      The overall Environmental and Social (E&S) risk is Substantial. The E&S risk classification reflects the proposed
+activities under Phase 1 of the MPA. The following Environmental and Social Standards (ESSs) 1, 2, 3, 4, 5, 6, 8 and 10 are
+considered relevant for the operation. The main environmental, social, health, and safety risks and impacts are associated
+with the activities under components 2 and 3 which aim to improve access to water supply and sanitation services in rural
+areas through the rehabilitation and construction of infrastructure, as well as the rehabilitation and modernization of
+irrigation systems. The risks will be mitigated through the preparation, implementation, and monitoring of E&S
+instruments and capacity-building for project staff and service providers. Specific risks under Phase 2 of the MPA are
+generally unknown and will be assessed during the preparation of this phase in the future.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Ranu Sinha
+   Senior Water Resources Management Specialist
+
+   Arusyak Alaverdyan
+   Sr Agricultural Spec.
+
+   Poolad Karimi
+   Senior Irrigation Specialist
+
+ Borrower/Client/Recipient
+
+                                                                                                                          Page 7
+     The World Bank
+     Armenia: Water and Irrigation Services Enhancement Program(P508124)
+
+
+ Republic of Armenia
+ Suren Minasyan
+ Head of International Cooperation Department
+ suren.minasyan@minfin.am
+
+Implementing Agencies
+ Ministry of Territorial Administration and Infrastructure
+ Martiros Nalbandyan
+ Deputy Chairman of Water Committee of MTAI
+ martiros.nalbandyan@gov.am
+ Vache Terteryan
+ Deputy Minister
+ vache.terteryan1962@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Ranu Sinha, Arusyak Alaverdyan, Poolad Karimi
+
+Approved By
+
+Practice Manager/Manager:                Winston Yu                            31-Jan-2025
+
+Country Director:                        Rolande Simone Pryce                  13-Feb-2025
+
+
+
+
+                                                                                             Page 8
+

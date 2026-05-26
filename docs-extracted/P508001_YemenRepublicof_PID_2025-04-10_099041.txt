@@ -1,0 +1,522 @@
+Public Disclosure Authorized
+                                                                    The World Bank
+                                                                    Strengthening Climate and Water Information Management                 Project Information Document (PID)
+                                                                    Systems(P508001)
+
+
+
+
+Public DisclosurePublic
+                  Authorized         Public Disclosure Authorized
+
+
+
+
+                        Disclosure copy
+                                                                                   Project Information Document/
+                                                                                  Identification/Concept Stage (PID)
+
+                                                                               Concept Stage | Date Prepared/Updated: 20-Jan-2025 | Report No: PIDDC01116
+
+
+
+
+Public Disclosure Authorized
+                               The World Bank
+                               Strengthening Climate and Water Information Management                    Project Information Document (PID)
+                               Systems(P508001)
+
+
+
+                         BASIC INFORMATION
+
+                         A. Basic Project Data
+
+
+                         Operation Name                                          Operation Short Name
+                         Strengthening Climate and Water Information
+                                                                                 CWIMS
+                         Management Systems
+                         Operation ID                                            Financing Instrument
+                         P508001                                                 Investment Project Financing (IPF)
+                         Beneficiary country/countries                           Region
+                         Yemen, Republic of                                      Yemen, Republic of
+                         Environmental and Social Risk Classification
+
+
+
+
+Public Disclosure copy
+                         Low
+                         Date PID Prepared                                       Estimated Date of Approval
+                         17-Sep-2024                                             14-May-2025
+                         Borrower(s)                                             Implementing Agency
+                         Food and Agriculture Organization FAO                   Urban Water - Project Management Unit
+
+
+                         PROJECT FINANCING DATA (US$, Millions)
+                         SUMMARY
+
+                           Total Operation Cost                                                                                     4.78
+
+                           Total Financing                                                                                          4.78
+
+                           Financing Gap                                                                                            0.00
+
+
+                         DETAILS
+                          Non-World Bank Group Financing
+                            Trust Funds                                                                                             4.78
+                               Special Financing                                                                                    4.78
+
+
+                         B. Introduction & Context
+                         Country Context
+                         Yemen has long been the poorest country in the Middle East and North Africa and has for many years been
+                         experiencing one of the world’s worst humanitarian crises. Socioeconomic conditions in Yemen have deteriorated
+
+                                                                                                                                      Page 1
+                               The World Bank
+                               Strengthening Climate and Water Information Management                              Project Information Document (PID)
+                               Systems(P508001)
+
+
+                         sharply over the past decade, due to declining remittances, trade disruptions, severe fuel supply shortages, and reduced
+                         humanitarian operations amidst the ongoing crisis. The economy has been devastated by the protracted conflict that
+                         started in early 2015, leading to severe food insecurity and destroying critical infrastructure. The impact of armed
+                         conflict has been exacerbated by multiple shocks both due to economic shocks and climate hazards. This includes rising
+                         prices, drought, floods, the COVID-19 pandemic, a cholera epidemic, a locust invasion, and the escalation of conflict in
+                         the Red Sea in 2024. About 80 percent of Yemeni households are in need of humanitarian assistance (World Bank 2023),
+                         with roughly half (15.3 million people) requiring emergency support to access clean water and meet basic sanitation
+                         needs (OCHA 2022).
+                         Living conditions in Yemen are dire, especially for the many people displaced by conflict. Today, 17.6 million people
+                         face acute food insecurity (around half of the population), and over 18.2 million people rely on humanitarian assistance
+                         (OCHA, 2023). Approximately 74 percent of the population was below the national poverty line in 2022. The latest
+                         Humanitarian            Response Plan for Yemen suggests           that an estimated 4.5 million          people, 14 percent
+                         of the population, are internally displaced people (IDPs). A World Bank phone surveys conducted in 2022 and 2023 in
+                         21 governorates estimated that 25 percent of households were displaced. Over 89 percent of IDPs have no source of
+                         income. They are surviving on less than USD 40 per month, which is insufficient to cover household expenses. Public
+                         revenues are under immense stress, as the country's Gross Domestic Product (GDP) per capita has shrunk by 54 percent
+
+
+
+
+Public Disclosure copy
+                         between 2015 and 2023. The fiscal revenues of the Internationally Recognized Government (IRG), including grants,
+                         declined by over 30 percent in 2023 (World Bank, 2024).
+                         The conflict has fragmented the country along largely historical lines. While it is generally recognized that there are
+                         four major conflicts over political control between national, subnational, and international forces, there are two major
+                         conflicting parties. These are the Houthi movement based in Sana’a, and the Internationally Recognized Government
+                         of Yemen (IRG) based in Aden. The IRG shares power with the Southern Transitional Council (STC), with other actors
+                         including the IRG-aligned Joint Resistance Forces and the Hadramawt Elite Forces. This has resulted in a complex mosaic
+                         of territorial controls, the boundaries of which are constantly shifting but which largely reflect the division of the country
+                         prior to unification in 1990 (International Crisis Group 2022). The Houthi control an estimated one-third of the territory,
+                         which is home to about two- thirds of the population and includes the mountainous areas with the highest rainfall and
+                         upper reaches of the main water management areas.
+                         The conflict has resulted in fragmented institutions and new governance arrangements. These new governance
+                         arrangements are often fused with informal practices and traditional norms. As a result of this, national institutions
+                         have been weakened and parallel institutions have emerged in both Sana’a and Aden, with limited oversight of
+                         decentralized entities. Public sector salaries have been sporadic, undermining the ability of institutions to deliver
+                         services, such as water, health care, and education. The humanitarian sector has become a de facto service provider,
+                         often overshadowing state institutions, creating parallel systems, and frequently bypassing national institutions,
+                         eroding their legitimacy and capacity. Despite these challenges and limited resources, however, some local authorities
+                         and institutions have taken on greater roles in service delivery, particularly in southern and eastern Yemen.
+                         Some institutions established with World Bank support prior to the conflict, such as the Urban Water Project
+                         Management Unit (UW-PMU), the Social Fund for Development (SFD) and the Public Works Project
+                         (PWP), have proven more resilient and effective in delivering services and infrastructure. After a decade of
+                         humanitarian assistance there is a need to shift support towards development-focused programs that
+                         strengthen institutional capacity and resilience, with geographically discrete           initiatives offering the most viable
+                         pathway to rebuilding governance in the short term.
+                         Climate change is compounding persistent development challenges related to water scarcity and the impacts of the
+                         conflict. Yemen is the most vulnerable country in the Middle East and North Africa (MENA) region to the impacts of
+                         climate change and is ranked 27th globally. It is also the least prepared country in MENA to manage the impacts
+                         associated with climate change. Global climate models forecast a future for Yemen which is characterized by warmer
+
+
+                                                                                                                                                    Page 2
+                              The World Bank
+                              Strengthening Climate and Water Information Management                            Project Information Document (PID)
+                              Systems(P508001)
+
+
+                         temperatures and higher annual average precipitation, with more frequent, intense rainfall events resulting in flash
+                         floods and longer dry periods. These changes could be an asset to the country if accompanied by targeted investments
+                         to make optimum use of the increased resources. Under optimistic scenarios, a projected average annual GDP growth
+                         of 1.5 percent by 2040 is possible. However, in the absence of appropriate investments, these climate shocks can further
+                         debilitate the weakened economy with annual GDP projected to decline by an of 3.9 percent by 2040 under more
+                         pessimistic scenarios and limited investments. These losses are primarily driven by reductions in crop production and
+                         fisheries, limitations on labor productivity, and the deterioration of health and connectivity infrastructure.
+
+                         Sectoral and Institutional Context
+                         ctedWater has long been a critical constraint to Yemen’s social and economic development, with competition for
+                         limited resources often fueling local conflicts. Yemen is one of only four countries facing low per capita income and
+                         experiencing absolute water scarcity, with water security issues stemming from the complex interplay between
+                         development, conflict, and climate change. Before the conflict, 70 to 80 percent of rural disputes were linked to water
+                         (UNDP 2023; Heffez, Adams 2013). According to the Ministry of the Interior (Small Arms Survey 2010), at least 4,000
+                         people were killed annually in violent land and water conflicts. High population growth rates are worsening the
+
+
+
+
+Public Disclosure copy
+                         situation, with per capita water availability decreasing by about 60 percent since 1990, equivalent to 65 cubic meters
+                         per person in 2020. Access to improved drinking water has declined by up to 50 percent, and service delivery has
+                         become even more unreliable since the onset of the conflict, forcing people to rely on costly and often unsafe
+                         alternatives like private water trucks. Water utilities have largely halted operations due to infrastructure damage, fuel
+                         shortages, electrical outages, and staff unpaid for over five years. Additionally, the number of sewage system failures
+                         has risen, contributing to the cholera crisis, which has led to millions of suspected cases and thousands of deaths since
+                         2016.
+                         Yemen’s water development and management were historically local affairs and water governance continues to be
+                         characterized by strong decentralization. Significant investments were made in building the capacity of the institutional
+                         framework of the water sector following unification. These investments have provided a strong foundation for
+                         addressing many of the country’s development challenges associated with water scarcity, but the capacity of the
+                         institutional framework has deteriorated significantly since 2015 due to the conflict. This has resulted in fragmented
+                         governance, weakened service delivery, and increased reliance on humanitarian aid. Under the IRG, the Ministry of
+                         Water and Environment (MWE) oversees the National Water Resources Authority (NWRA) which is responsible for
+                         water resource management, urban water services through Local Water and Sanitation Corporations (LWSCs) and
+                         autonomous utilities, while the General Authority for Rural Water Supply Projects (GARWSP) manages rural water
+                         supply through local branches. The Environment Protection Authority (EPA) under MWE continues to handle water
+                         pollution control, and the Ministry of Agriculture and Irrigation (MAI) is responsible for irrigation and watershed
+                         management. In areas controlled by the Houthis, the governance of the water sector has been restructured, with the
+                         NWRA under the Ministry of Agriculture and Irrigation (MAI), while urban and rural water supply and sanitation
+                         institutions have been transferred to the Ministry of Electricity and Energy and environmental sector placed under the
+                         Ministry of Health.
+                         A series of Project Management Units (PMUs) established in the 1980s and 1990s have taken a stronger role in
+                         administering external financing and implementing investments. Created in response to low rates of implementation
+                         and disbursement prior to the conflict, these PMUs have had a lasting impact on how the sector continues to operate
+                         and channel external financing. Many of these were established with World Bank support and have continued to play
+                         a critical role in implementing internationally financed projects through the United Nations and other implementing
+                         agencies. For example, the UW-PMU, PWP, and SFD all play pivotal roles in mitigating the country’s critical
+                         infrastructure and service delivery challenges. The UW-PMU coordinates donor- funded programs aimed at improving
+
+
+                                                                                                                                               Page 3
+                               The World Bank
+                               Strengthening Climate and Water Information Management                           Project Information Document (PID)
+                               Systems(P508001)
+
+
+                         access to safe drinking water and building resilience against water scarcity, while the PWP emphasizes labor-intensive
+                         infrastructure development, creating short-term employment opportunities while constructing essential community
+                         assets, including water infrastructure, and the SFD operates as a versatile development and humanitarian agency,
+                         integrates community-based approaches to empower local actors, strengthen resilience, and deliver services in
+                         marginalized and rural areas. Therefore, these institutions contribute significantly to Yemen's recovery and
+                         development efforts despite the ongoing conflict and have emerged as pockets of resilience, offering potential entry
+                         points for long-term capacity building and institutional recovery.
+                         Ensuring adequate data and information is critical for optimizing decision making and building resilience in the water
+                         sector under Yemen’s uncertain and resource constrained future. Hydro-meteorological data and services are
+                         recognized as key building blocks to support actions that (1) safeguard life and property during by extreme weather and
+                         climate events; (2) build better resilience to the consequences of natural disasters; (3) enable more effective
+                         management of scare water resources ; and (4) underpin responsible climate action. Ensuring the provisioning and use
+                         of adequate information are therefore central to effective planning and decision making in the water sector, including
+                         the development basin and sub-basin management plans, infrastructure development, regulatory compliance,
+                         managing risks and uncertainties, guiding operations, evaluating and encouraging innovation, and making rapid and
+                         effective decisions during droughts, floods, or crisis events. Before the conflict, efforts were initiated to establish a
+
+
+
+
+Public Disclosure copy
+                         National Water Resources Management Information System (NWRMIS). However more than 70 percent of the hydro-
+                         meteorological stations (out of an original 193) are either not operational, destroyed or stolen (FAO 2017) and there is
+                         no functional hydrometeorological monitoring network to provide the detailed information on the quantity and quality
+                         of water to inform decision making. The network is challenged by the conflict, the absence of operational funds needed
+                         for periodic maintenance and calibration, a lack of qualified personnel, and coordination between relevant institutions.
+                         Therefore, addressing these challenges and ensuring the provisioning and use of adequate information are central to
+                         effective decision making, basin and sub-basin management plans, infrastructure development, regulatory compliance,
+                         managing risks and uncertainties, guiding operations, evaluating, and encouraging innovation, and making rapid and
+                         effective decisions during droughts, floods, or crisis events.
+                         A Series of Projects (SoP) is proposed to address the complex, long term challenges of the water sector in
+                         Yemen. These will be structured around the principles of the World Bank Group Strategy for Fragile, Conflict and
+                         Violence affected states that emphasizes the importance of engaging early, staying engaged and continuously adapting.
+                         It                     also                    recommends                       prioritizing                  institutions
+                         and policies for development, and the promotion of transparency and accountability. This requires medium-term
+                         approaches that build trust through continuity and retain the flexibility to react to rapidly shifting socioeconomic and
+                         political constellations, as well as close coordination and alignment with other development partners. The Series of
+                         Project framework provides flexibility to adapt to changing circumstances and emerging needs, ensuring relevance and
+                         effectiveness. Projects of the series will be designed to complement and reinforce each other, foster long-term
+                         sustainability by addressing root causes and building resilience and promotes collaboration and coordination among
+                         stakeholders, maximizing impact and avoiding duplication of efforts.
+                         The first project of the SoP is this Recipient Executed Trust Fund (RETF). This SOP-1, financed through the Yemen Fund
+                         and an expected implementation period of two years, will provide the foundation for developing a comprehensive
+                         Climate and Water Information Management System to inform investments relating to urban water security in Aden
+                         and the food security nexus in Wadi Hajer. The second and third projects proposed in the SoP would build on early
+                         lessons learned from the implementation of the SOP-1 in the pilot basins. Investments included in the SOP series will
+                         follow an area-based approach, gradually scaling-up interventions into additional water basins which will be selected
+                         based on the overall enabling environment conditions and technical criteria. The proposed second project in the series,
+                         the Yemen Improved Water Management and Irrigation for Sustainability and Efficiency Project (Yemen I- WISE,
+                         P505506), is subject to confirmation of IDA availability but planned for delivery in Q1 FY26. The subsequent project in
+
+
+                                                                                                                                                Page 4
+                               The World Bank
+                               Strengthening Climate and Water Information Management                             Project Information Document (PID)
+                               Systems(P508001)
+
+
+                         the series will continue to follow the area-based approach for scale-up and will build on lessons from the first and
+                         second projects in the series. The timeline for the subsequent projects are subject to IDA availability and a conducive
+                         operating environment.
+                         The Aden-Tuban and Wadi Hajer basins have been selected as priorities because of the reach and impact of the
+                         distinct water security challenges they face:
+                             • The Aden-Tuban Basin is one of the largest and most water scarce areas of Yemen, with total area of 7360 Km2
+                                  and consists of seven sub-basins. The Aden-Tuban basin faces major water resource challenges, driven by
+                                  climate change, overuse, and unsustainable management. The basin is experiencing extreme water stress, with
+                                  water demand greatly exceeding available supply. Key issues include declining rainfall, groundwater depletion
+                                  of about one meter per year, sea water intrusion, and soil degradation. Droughts have dried streams, while
+                                  extreme weather events heighten flood risks. The traditional irrigation systems cause high water losses. Within
+                                  the basin, Aden is grappling with a severe water shortage. Water tables are declining, wells are running dry and
+                                  groundwater is becoming increasingly salinized due to seawater intrusion. Despite attempts to secure new
+                                  freshwater supplies, these efforts have largely proved unsuccessful. The inability of Aden Local Corporation to
+                                  supply water to Aden city is affected by conflict, as well as low water tariffs and collection rates (12 percent),
+                                  non-revenue water, and inefficiencies in the distribution network. The private sector has filled the water supply
+
+
+
+
+Public Disclosure copy
+                                  gap, but there are continued quality concerns and high costs which are related to the additional cost of the
+                                  desalination of the brackish water abstracted from the existing wells. Coupled with limited sanitation coverage
+                                  and treatment of wastewater, these conditions have the potential to impose long term impacts on human
+                                  health and capital development.
+                             • Wadi Hajer is the only wadi in Yemen with a perennial flow and situated in the Governates of Hadramout and
+                                  part of Shabwa at 540 to 545 km east of Aden. The groundwater table is deep in the upper catchment, except
+                                  near the wadi bed. The Wadi is 150 km long with a catchment area of about 9,160 km2, and an annual runoff
+                                  to the sea of about 470 million cubic meters (MCM). The groundwater occurrence is sporadic which is largely
+                                  explained by the area’s large elevation differences, causing a high hypsometric position and deep erosion of
+                                  the carbonate rocks. Agriculture in Wadi Hajer relies heavily on spate irrigation, one of the oldest forms of
+                                  irrigation in arid and semi- arid lands. Despite this, local crop production covering only 25 percent of crop-based
+                                  food needs. The key challenges and development needs in Wadi Hajer include protecting and managing water
+                                  resources, addressing the impact of flash floods, exploring storage options, including dams, weirs, and diversion
+                                  structures to channel water. Additionally, improving irrigation canals and agricultural infrastructure is crucial.
+                                  Improving food security will also need the provision of agricultural inputs, machinery, and irrigation tools,
+                                  establishment of greenhouses, packaging factories, and food manufacturing facilities, including those needed
+                                  to improve honey production. All these will need training programs on agricultural technologies and honey bee
+                                  breeding with demonstration fields for crop production.
+
+
+
+                         Relationship to CPF
+                         The proposed project is aligned with the Yemen Country Engagement Note (CEN) 2022-2023 (Report No 169022-YE),
+                         the World Bank’s Fragility, Conflict, and Violence(FCV) Strategy 2020-2025, and the IDA 20 and 21 programs.
+                         The FCV Strategy emphasizes the importance of preserving institutional capacity and human capital, which are essential
+                         for Yemen’s future recovery. This includes safeguarding scarce water resources, vital for human development. It also
+                         ensures access to energy for clean drinking water, safe schools, and healthcare services. The project also strengthens
+                         the link between water and agriculture, fostering ministerial-level coordination in line with the CEN’s focus on
+                         integrated sector approaches, particularly connecting water and food security. Furthermore, the project will generate
+
+
+                                                                                                                                                  Page 5
+                               The World Bank
+                               Strengthening Climate and Water Information Management                             Project Information Document (PID)
+                               Systems(P508001)
+
+
+                         critical data to support the Advisory Services and Analytics (ASA) agenda outlined in the CEN, which will guide the World
+                         Bank's future operational engagement in Yemen.
+
+
+
+                         C. Development Objective
+                         Development Objective
+                         The proposed Project Development Objective (PDO) is strengthening the data and information systems for climate
+                         resilient decision making in selected water basins.
+                         Key Results
+                         PDO indicator 1: Climate and Water Information Management System developed and operational
+                         PDO indicator 2: Decision support system operationalized in at least two basins.
+                         PDO indicator 3: Mechanism for inter-institutional coordination in place in two basins.
+
+
+
+
+Public Disclosure copy
+                         D. Preliminary Description
+                         Activities/Components
+                         This first      project in the proposed SOP will provide      the data and information needed              to inform climate
+                         resilient decision making and address the longer-term challenges facing the water scarcity and food security in
+                         Yemen. This project is to be financed through a small US$4.78m Recipient Executed grant provided through the Yemen
+                         Multi-Donor Trust Fund. The proposed project has three, mutually reinforcing components, as described below:
+                         Component 1: Developing a Climate and Water Information Management System (CWIMS) (USD 2 million). This
+                         component will finance the development and operationalization of a comprehensive, scalable, information system to
+                         manage hydrological and meteorological data with a focus on climate hazard risks. The activities under this component
+                         will include the following:
+                         (i) Data recovery, capture and curation. This sub-component will finance an inventory of existing data and information
+                         relating to climate and water in Yemen. This will include document and data recovery, collecting and digitalization of
+                         available records and building a consolidated database as well as links to existing initiatives, such as the FAO dashboard,
+                         the HR Wallingford groundwater information system, the Yemen Water Sector Coordination Group, and others. A
+                         review of the data sharing and dissemination policies and agreements will be conducted. Additionally, the status of
+                         existing hydro-meteorological monitoring stations will be reviewed and a plan for a comprehensive monitoring system
+                         and assessment of capacity will be carried out building on previous studies.
+                         (ii) Design and Development of the Climate and Water Information Management System. The CWIMS will be designed
+                         and developed with the capacity to cover all the basins in Yemen. This would include protocols and procedures for
+                         identification, systematization and sharing of data from existing databases by relevant decentralized institutions. Data
+                         integration and interoperability among stakeholders will be achieved by developing standardized data formats,
+                         protocols, and Application Programming Interfaces (APIs) within a unified data framework or software. The updated
+                         CWIMS architecture will include plans for investments in new observation stations, data collection, management,
+                         processing, quality assurance, sharing mechanism, and technical requirements. These plans will be informed by
+                         considerations around financial sustainability and scaled according to the resources available for CAPEX but also
+                         sustained operation and maintenance.
+
+
+
+                                                                                                                                                  Page 6
+                               The World Bank
+                               Strengthening Climate and Water Information Management                            Project Information Document (PID)
+                               Systems(P508001)
+
+
+                         (iii) Capacity Building. The CWIMS will be operationalized with specific capacity building of all the decentralized
+                         branches and offices of the relevant institutions, which include but are not limited to MWE, MAI, NWRA, the Civil
+                         Aviation and Meteorological Authority (CAMA), RSC, and water research centers. The operationalization would include
+                         development of cloud-based data repository, web-based visualization tool, and decision support system which will be
+                         deployed in pilot basins as part of Component 2. This should allow decentralized institutions to share and have access
+                         to all existing water resources databases that have been produced over the years, as well as up-to-date data that is
+                         being collected under existing infrastructure.
+                         Component 2: Climate Resilient Decision Making (USD 2.2 million). This component will pilot the development and
+                         application of specific decision support tools in two basins, the Aden-Tuban basin and the Wadi Hajer basin. The CWIMS
+                         will be used to facilitate a consultative process of decision making around key investments for these two basins. This
+                         process will systematize the existing data from the targeted two basins that is being held and produced by different
+                         relevant institutions under a cloud-based data repository with a web-interface and be used to provide inputs for policy
+                         using integrated data tools and outputs. Based on the available data in the repository, a Decision Support System (DSS)
+                         at basin level will be developed with the objective to provide stakeholders such as policymakers, water managers,
+                         environmental agencies, and local communities with analytical, data-driven insights to make informed and effective
+                         decisions about the management of water resources. These insights will focus on the following:
+
+
+
+
+Public Disclosure copy
+                         (i) Supporting Investment Planning in Water Supply and Sanitation in the Aden-Tuban Basin. The decision support
+                         system would look at facilitating a consultative process among a wide range of stakeholders to quantify, among others:
+                         (i) the different water supply options, including projections of long-term demand and climate implications; (ii)
+                         infrastructure needs in wastewater management; (iii) identification of measures and investments at the level of the
+                         Local Water Corporation for more efficient water supply and sanitation services, (iv) identification of climate hazard
+                         risks and impacts on WSS infrastructure, and (v) identification of capacity building needs for key stakeholders.
+                         (ii) Supporting Investment Planning in Improving Watershed Management and Irrigation Services in the Wadi Hajer
+                         Basin. The decision support system would facilitate a data informed consultative process among a wide range of
+                         stakeholders to, among others: (i) prepare a basin management plan, including water resources governance and
+                         management arrangements; (ii) identification of key water resources management infrastructure investments, (iii)
+                         identification of irrigation efficiency and agricultural production opportunities, and (iv) identification of capacity
+                         building needs for key stakeholders.
+                         (iii) Capacity Building for basin level of institutions. Strengthening the capacity of basin-level institutions involved in
+                         data sharing, data management, and the maintenance and use of CWIMS and DSS is essential for their sustainability.
+                         This includes equipping them to produce robust decision-support outputs and to continuously refine these processes.
+                         Key interventions would include: (i) practical training on software and DSS usage, raw field data entry, data verification,
+                         and data management in accordance with data sharing rules and regulations; (ii) study tours to learn from international
+                         best practices in developing water information systems; (iii) coordination workshops across relevant institutions to
+                         facilitate smoother data sharing; (iv) technical support for creating end-user products; (v) acquisition of the necessary
+                         hardware and software.
+                         Component 3: Project management and coordination (USD 0.58 million). This component will finance direct and
+                         indirect costs for project implementation and coordination. These costs include project management staff and
+                         personnel, office rent, and travel costs, including vehicles. Additionally, the component will cover project monitoring
+                         costs (Third Party Monitoring - TPM) and the cost of audits.
+
+
+
+
+                         Environmental and Social Standards Relevance
+
+
+                                                                                                                                                 Page 7
+                               The World Bank
+                               Strengthening Climate and Water Information Management                           Project Information Document (PID)
+                               Systems(P508001)
+
+
+
+                          E. Relevant Standards
+                          ESS Standards                                                                       Relevance
+                          ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                                              Relevant
+                          Impacts
+                          ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+                          ESS 2: Labor and Working Conditions                                                 TBD
+                          ESS 3: Resource Efficiency and Pollution Prevention and Management                  Not Currently Relevant
+                          ESS 4: Community Health and Safety                                                  Not Currently Relevant
+                          ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Not Currently Relevant
+                          ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                                              Not Currently Relevant
+                          Resources
+
+
+
+
+Public Disclosure copy
+                          ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                                              Not Currently Relevant
+                          Traditional Local Communities
+                          ESS 8: Cultural Heritage                                                            Not Currently Relevant
+                          ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+
+
+                          Legal Operational Policies
+                          Safeguard Policies                                      Triggered?               Explanation (Optional)
+
+                          Projects on International Waterways OP 7.50             No
+
+                          Projects in Disputed Area OP 7.60                       No
+
+
+                          Summary of Screening of Environmental and Social Risks and Impacts
+                          The potential environmental and social risks and impacts of the project are expected to be low, based on the nature of
+                          the activities outlined under the project components. Social risks may include the capture of project benefits by well-
+                          connected beneficiaries, a lack of awareness and training among targeted institutions regarding the use of digital
+                          equipment and cloud systems, and insufficient awareness about potential Sexual Exploitation and Abuse/Sexual
+                          Harassment (SEA/SH) issues, along with reluctance among project workers to sign the Code of Conduct. All social risks
+                          can be mitigated and incorporated into the agreed instruments prior to commencement.
+
+                         Contact Point
+
+                         World Bank
+                         Naif Mohammed Abu-Lohom
+                         Senior Water Resources Management Specialist
+
+                                                                                                                                              Page 8
+                               The World Bank
+                               Strengthening Climate and Water Information Management   Project Information Document (PID)
+                               Systems(P508001)
+
+
+                         Chris Philip Fischer
+                         Chris Philip Fischer
+                         Elvira Cusiqoyllor Broeks Motta
+                         Elvira Cusiqoyllor Broeks Motta
+                         Borrower/Recipient :
+
+                         Food and Agriculture Organization FAO
+
+                         Hussein Gadain
+
+                         Country Representative
+
+                         Hussein.gadain@fao.org
+
+
+
+
+Public Disclosure copy
+                         Implementing Agency :
+
+                         Urban Water - Project Management Unit
+
+                         Arzaq Aqrabi
+
+                         General Manger
+
+                         Arzaq.aqrabi@gmail.com
+
+
+
+
+                         For more information, contact:
+                         The World Bank
+                         1818 H Street, NW
+                         Washington, D.C. 20433
+                         Telephone: (202) 473-1000
+                         Web: http://www.worldbank.org/projects
+
+
+
+
+                                                                                                                     Page 9
+

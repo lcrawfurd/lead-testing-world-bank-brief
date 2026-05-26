@@ -1,0 +1,2470 @@
+Public Disclosure Authorized                                               FOR OFFICIAL USE ONLY
+                                                                                                                           Report No: PADHI01406
+
+                                                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+Public Disclosure Authorized
+                                                                      PROJECT APPRAISAL DOCUMENT
+                                                                                 ON A
+                                                                            PROPOSED GRANT
+
+                                                                   IN THE AMOUNT OF SDR 21.1 MILLION
+                                                                       (US$ 29 MILLION EQUIVALENT)
+
+                                                                                    TO THE
+
+                                                                             UNION OF COMOROS
+
+
+
+
+Public Disclosure Authorized
+                                                                                     FOR A
+
+                                        COMOROS - ACCELERATED ACCESS TO WATER, SANITATION AND HYGIENE (WASH) MPA
+
+                                                     AS PHASE IV OF THE MULTI-PHASE PROGRAMMATIC APPROACH
+
+                                               ACCELERATING ACCESS TO WATER, SANITATION AND HYGIENE SERVICES IN
+                                                          THE EASTERN AND SOUTHERN AFRICA REGION
+
+                                                     WITH AN OVERALL FINANCING ENVELOPE OF US$1,580 MILLION
+                                                          APPROVED BY THE BOARD ON SEPTEMBER 30, 2025
+
+
+
+
+Public Disclosure Authorized
+                                                                                MARCH 24, 2026
+
+                                Water Global Practice
+                                Eastern and Southern Africa Region
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+
+                                                                                                                                         Official Use Only
+                         CURRENCY EQUIVALENTS
+
+               (Exchange Rate Effective February 28, 2026)
+
+                                Currency Unit = KMF
+
+                                          US$1= KMF 420
+
+                                      US$1.44 = SDR 0.73
+
+                               FISCAL YEAR
+                         January 1 - December 31
+
+
+
+
+  Regional Vice President: Ndiame Diop
+Regional Practice Director: Anna Wellenstein
+        Division Director: Fily Sissoko
+        Practice Manager: Soma Ghosh Moulik
+      Task Team Leaders: Lewnida Sara, Ousmane Yida Yaya-Bocoum
+
+
+
+
+                                                                  Official Use Only
+                         ABBREVIATIONS AND ACRONYMS
+
+AFD          Agence française de développement
+ARSEE        Agence de Régulation des Secteurs de l’Energie et de l’Eau
+AUDA-NEPAD   African Union Development Agency – New Partnership for Africa’s Development
+CERC         Contingent Emergency Response Component
+CNWRP        Comoros National Water Resilience Project
+DGEAH        Direction Générale pour l'Eau, l'Assainissement et l'Hygiène (General Directorate for Water,
+             Sanitation, and Hygiene)
+DGEME        Direction Générale de l'Energie, des Mines et de l'Eau (General Directorate of Energy, Mines
+             and Water)
+E&S          Environmental and social
+ESCP         Environmental and Social Commitment Plan
+GCP          Global Challenge Program
+GDP          Gross Domestic Product
+GHG          GreenHouse Gas
+GRID         Green, Resilient, and Inclusive Development
+LMP          Labor Management Procedures
+MBJs         More and Better-Paid Jobs
+MEEH         Ministère de l'Energie, de l'Eau et des Hydrocarbures (Ministry of Energy, Water and
+             Hydrocarbons)
+M&E          Monitoring and evaluation
+MPA          Multi-Phase Programmatic Approach
+NDC          Nationally Determined Contributions
+NRW          Non-revenue water
+O&M          Operations and maintenance
+PIU          Project Implementation Unit
+POM          Project Operations Manual
+PPPs         Public private partnerships
+RCRP         Regional Climate Resilience Project
+SDGs         Sustainable Development Goals
+SEA/SH       Sexual and Exploitation and Abuse and Sexual Harassment
+SEP          Stakeholder Engagement Plan
+SONEDE       Société Nationale d'Exploitation et de Distribution des Eaux (National Water Company)
+SPC          Shadow Pricing of Carbon
+UNDP         United Nations Development Programme
+UNICEF       United Nations Children’s Fund
+WASH         Water, Sanitation, and Hygiene
+WSS          Water and sanitation services
+WBG          World Bank Group
+
+
+
+
+                                                                                                Official Use Only
+          The World Bank
+          Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+
+                                                            TABLE OF CONTENTS
+
+DATASHEET ........................................................................................................................... ii
+I.    STRATEGIC CONTEXT ...................................................................................................... 9
+      A. Country Context ................................................................................................................................ 9
+      B. Sectoral and Institutional Context .................................................................................................... 9
+      C. Relevance to Higher Level Objectives ............................................................................................. 12
+      D. Multiphase Programmatic Approach.............................................................................................. 13
+Figure 1: MPA Program Results Chain .................................................................................. 14
+Updated MPA Framework Matrix ........................................................................................ 15
+II.   PROJECT DESCRIPTION.................................................................................................. 19
+      A. Project Description.......................................................................................................................... 19
+      B. Project Components ....................................................................................................................... 22
+      C. Project Beneficiaries ....................................................................................................................... 25
+      D. Rationale for Bank Involvement and Role of Partners ................................................................... 25
+      E. Lessons Learned and Progress on Learning Agenda ....................................................................... 26
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 27
+      A. Institutional and Implementation Arrangements ........................................................................... 27
+      B. Results Monitoring and Evaluation Arrangements ......................................................................... 27
+      C. Sustainability ................................................................................................................................... 28
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 28
+      A. Technical, Economic and Financial Analysis ................................................................................... 28
+      B. Fiduciary .......................................................................................................................................... 31
+      C. Legal Operational Policies ............................................................................................................... 33
+      D. Environmental and Social ............................................................................................................... 34
+V.    GRIEVANCE REDRESS SERVICES ..................................................................................... 36
+VI. KEY RISKS...................................................................................................................... 36
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 38
+Annex 1: Verification Protocol for Performance Based Conditions ........................................ 46
+
+
+
+
+                                                                                                                                                                               i
+
+
+                                                                                                                                                                   Official Use Only
+      The World Bank
+      Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Comoros                  Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA
+                                                     Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                     Classification
+                         Investment Project
+P514166                                              Moderate
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padmpaprocessing#doctemplate
+Financing & Implementation Modalities
+[✓] Multiphase Programmatic Approach (MPA)                      [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                    [✓] Fragile State(s)
+[✓] Performance-Based Conditions (PBCs)                         [✓] Small State(s)
+[ ] Financial Intermediaries (FI)                               [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                     [ ] Conflict
+[ ] Deferred Drawdown                                           [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                  [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                 Expected Closing Date                     Expected Program Closing Date
+31-Mar-2026                            31-Mar-2031                               11-Sep-2033
+Bank/IFC Collaboration
+No
+
+
+@#&OPS~Doctype~OPS^dynamics@padmpa#doctemplate
+MPA Program Development Objective
+The PrDO for the MPA is to increase access to climate-resilient drinking water supply, sanitation and hygiene services in
+participating countries in the Eastern and Southern Africa (AFE) Region
+
+MPA FINANCING DATA (US$, Millions)
+
+
+
+                                                                                                                        ii
+
+
+                                                                                                            Official Use Only
+      The World Bank
+      Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+MPA Program Financing Envelope                                                 2,131.00
+
+
+Proposed Development Objective(s)
+Increase access to climate-resilient drinking water supply, sanitation and hygiene services in Comoros, and strengthen
+sector governance
+
+Components
+ Component Name                                                                                             Cost (US$)
+ Component 1: Strengthening Platforms to Accelerate Access to WASH                                         850,647.00
+ Component 2: Advancing Reforms, Governance, and Regulation                                              2,191,000.00
+ Component 3: Improving Service Delivery Performance                                                     1,750,000.00
+ Component 4: Increasing Access to Climate-Resilient WASH Infrastructure                                23,208,353.00
+ Component 5: Project management                                                                         1,000,000.00
+ Component 6: Contingent Emergency Response Component (CERC)                                                      0.00
+
+
+Organizations
+Borrower:                        Union of the Comoros
+Implementing Agency:             Ministry of Water, Energy and Hydrocarbons
+
+
+MPA FINANCING DETAILS (US$, Millions)
+
+Board Approved MPA Financing Envelope                                         2,593.50
+MPA Program Financing Envelope:                                                2,131.00
+
+     of which Bank Financing (IBRD):                                           240.00
+
+     of which Bank Financing (IDA):                                            1,269.00
+
+     of which Other Financing sources:                                         622.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   No
+
+Is this project Private Capital Enabling (PCE)?             No
+
+
+                                                                                                                     iii
+
+
+                                                                                                          Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+
+SUMMARY
+
+ Total Operation Cost                                                                                      29.00
+
+ Total Financing                                                                                           29.00
+              of which IBRD/IDA                                                                            29.00
+
+ Financing Gap                                                                                              0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                             29.00
+
+        IDA Grant                                                                                          29.00
+
+
+IDA Resources (US$, Millions)
+
+                                                                                    Guarantee
+                          Credit Amount       Grant Amount      SML Amount                          Total Amount
+                                                                                      Amount
+
+National
+Performance-Based                   0.00              4.00              0.00                 0.00               4.00
+Allocations (PBA)
+
+Global and Regional
+Opportunities                       0.00             25.00              0.00                 0.00           25.00
+Window (GROW)
+
+Total                               0.00             29.00              0.00                 0.00           29.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year                   2026            2027            2028            2029            2030             2031
+
+Annual                 1.00            4.50            8.00             8.50            5.50             1.50
+Cumulative             1.00            5.50            13.50           22.00           27.50            29.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+
+                                                                                                                  iv
+
+
+                                                                                                     Official Use Only
+      The World Bank
+      Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+Water
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                 ⚫ Substantial
+2. Macroeconomic                                                            ⚫ Moderate
+3. Sector Strategies and Policies                                           ⚫ Moderate
+4. Technical Design of Project or Program                                   ⚫ Moderate
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+6. Fiduciary                                                                ⚫ Substantial
+7. Environment and Social                                                   ⚫ Moderate
+8. Stakeholders                                                             ⚫ Substantial
+9. Overall                                                                  ⚫ Substantial
+Overall MPA Program Risk                                                    ⚫ Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+
+Does the project require any waivers of Bank policies?
+
+
+                                                                                                        v
+
+
+                                                                                            Official Use Only
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+ [ ] Yes   [✓] No
+
+
+
+ ENVIRONMENTAL AND SOCIAL
+
+
+ Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+                                  E & S Standards                                                Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                   Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                          Relevant
+ESS 2: Labor and Working Conditions                                                Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                 Relevant
+ESS 4: Community Health and Safety                                                 Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement     Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                   Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                   Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                           Relevant
+ESS 9: Financial Intermediaries                                                    Not Currently Relevant
+ NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+ environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+ Summary (ESRS).
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+ LEGAL
+ Legal Covenants
+ Sections and Description
+ Schedule 2.Section I.A.3(a) of Schedule 2 to the Financing Agreement. No later than three (3) months after the Effective
+ Date, the Recipient shall expand the scope of the steering committee (“Project Steering Committee” or “PSC”) to
+ include this Project and thereafter maintain the PSC throughout the implementation of the Project with composition
+ and mandate acceptable to the Association.
+ Schedule 2.Section I.A.4 of Schedule 2 to the Financing Agreement. No later than three (3) months after the Effective
+ Date, the Recipient shall expand the scope of the technical committee (“Technical Committee”) to include this Project
+ and thereafter maintain the Technical Committee throughout the implementation of the Project, with composition and
+ mandate acceptable to the Association (including representatives from SONEDE and MEEH), which shall provide
+ technical support to the PIU, as further described in the POM.
+
+
+                                                                                                                       vi
+
+
+                                                                                                            Official Use Only
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Section I.A.2(b) of Schedule 2 to the Financing Agreement: Without limitation to the provisions of paragraph (a) above,
+the PIU shall recruit and/or appoint: (i) not later than three (3) months after the Effective Date, an accountant to
+support the existing financial management team; and (ii) not later than six (6) months an independent agent to review
+the statements prior to and after the payment of Resettlement Costs and an external auditor, all under terms and
+conditions acceptable to the Association.
+Section I.B.1 of Schedule 2 to the Financing Agreement: The Recipient, not later than two (2) months after the Effective
+Date, shall prepare and adopt a Project operations manual (“Project Operations Manual” or “POM”) in form and
+substance satisfactory to the Association, containing detailed guidelines, methods and procedures for the
+implementation of the Project, including: (a) the different roles and responsibilities in the implementation of the
+Project, including the various mechanisms for ensuring close coordination and collaboration between various Project
+stakeholders; (b) budget and budgetary control; (c) flow of funds, disbursement procedures and banking arrangements,
+including with regard to the payment of Resettlement Costs and performance-based conditions (“PBC”); (d) financial,
+procurement and accounting procedures; (e) Personal Data collection and processing in accordance with applicable
+national law and good international practice; (f) monitoring and evaluation arrangements, including with regard to the
+payment of Resettlement Costs; (g) the Annual Work Plans and Budget for the first year of Project implementation; (h)
+corruption and fraud mitigation measures; (i) a grievance redress mechanism; (j) environmental and social aspects; (k)
+the list of PBC and related Verification Protocol, the respective roles and responsibilities in the achievement of the PBCs
+and the related accounting, financial management, auditing and reporting arrangements; and (l) such other
+arrangements and procedures as shall be required for the effective implementation of the Project, in form and
+substance acceptable to the Association.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                           Citation                        Description                    Financing Source
+                                                               For payments under
+                                                               Category (3) with respect
+                                                               to any PBC, as set forth in
+                                                               Schedule 3 to this
+                                                               Agreement, for which a
+                                                               withdrawal request has
+                                                               been submitted, until and
+                                                               unless the Recipient has
+                                                               also submitted: (i)
+                               Section III.B.1(b) of
+Disbursement                                                   evidence, in form and          IBRD/IDA
+                               Schedule 2
+                                                               substance satisfactory to
+                                                               the Association, of the
+                                                               Eligible PBC Expenditures
+                                                               paid, as presented in the
+                                                               IFR and verified pursuant to
+                                                               the Verification Protocol
+                                                               and the POM; and (ii)
+                                                               supporting documentation
+                                                               confirming the
+
+                                                                                                                        vii
+
+
+                                                                                                             Official Use Only
+     The World Bank
+     Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                                                        achievement of the
+                                                        respective PBC or PBCs in
+                                                        form and substance
+                                                        satisfactory to the
+                                                        Association, as further
+                                                        elaborated in Schedule 3
+                                                        and as set forth in the
+                                                        Verification Protocol and
+                                                        the POM.
+                                                        For Emergency
+                                                        Expenditures under
+                                                        Category (4) unless and
+                                                        until all of the following
+                                                        conditions have been met
+                                                        in respect of said
+                                                        expenditures: (i) (A) the
+                                                        Recipient has determined
+                                                        that an Eligible Crisis or
+                                                        Emergency has occurred,
+                                                        and has furnished to the
+                                                        Association a request to
+                           Section III.B.1(c) of
+Disbursement                                            withdraw Financing             IBRD/IDA
+                           Schedule 2
+                                                        amounts under Category
+                                                        (4); and (B) the Association
+                                                        has agreed with such
+                                                        determination, accepted
+                                                        said request and notified
+                                                        the Recipient thereof; and
+                                                        (ii) the Recipient has
+                                                        adopted the CERC Manual
+                                                        and Emergency Action
+                                                        Plan, in form and substance
+                                                        acceptable to the
+                                                        Association.
+
+
+
+
+                                                                                                            viii
+
+
+                                                                                                  Official Use Only
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+ I. STRATEGIC CONTEXT
+
+1.     This Project Appraisal Document (PAD) covers phase IV of the Accelerating Access to Water, Sanitation and
+Hygiene Services in the Eastern and Southern Africa Region Multiphase Programmatic Approach (MPA) (P512763), with
+an overall IDA/IBRD financing envelope of US$1,580 million, approved by the World Bank’s Executive Directors on
+September 30, 2025.
+
+ A. Country Context
+
+2.        The Union of the Comoros, a small island developing state located in the Indian Ocean between Madagascar
+and the East African coast, faces severe structural challenges stemming from its small market size, geographic isolation,
+institutional fragility, and high vulnerability to climate change. With an estimated population of about 870,000
+inhabitants distributed across all islands, the country’s development trajectory is constrained by limited natural resources,
+fiscal fragility, and frequent climate shocks. Nearly 90 percent of the population live in climate-vulnerable low-lying coastal
+areas exposed to cyclones, flooding, erosion, and saline intrusion. Cyclone Kenneth of 2019 caused damages equivalent
+to nearly 25 percent of Gross Domestic Product (GDP), revealing systemic weaknesses in resilience of infrastructure and
+delivery of public services. Growth has been persistently subdued. Accordingly, the country has an opportunity to
+strengthen its resilience and responsiveness to shocks by establishing pre-positioned funding mechanisms that will
+enhance future crisis response efforts. Since independence in 1975, Comoros has averaged just 2.6 percent annual GDP
+growth (1980–2023), with per capita income hovering at about US$1,530.1 Growth accelerated to 3 percent during 2020–
+2023. Low economic growth has resulted in high poverty rates at 38.2 percent of the population in 2023 (using the lower
+middle-income poverty rate threshold) (KMF 41,495 per capita per month). However, Comoros’s economic growth rose
+to 3.4 percent in 2024, fueled by private consumption and the services sector, as tourism related activities grew by 4.5
+percent and is expected to average 3.8 percent over 2025–2027.
+
+3.      Climate change poses significant risk to the Comorian economy that depends heavily on remittances,
+subsistence agriculture, and public expenditure, with limited fiscal space for capital investment. Comoros remains
+exposed to high risk of coastal floods, extreme heat and cyclone hazards as well as rising temperatures and sea levels.
+Coupled with cyclones and more extreme precipitation events, this will lead to increased sea level surges and a higher risk
+of coastal inundation.2 Agriculture in Comoros is the largest employer and second largest sector and accounted for 31.6%
+of GDP between 2011 and 20173. Hence, addressing climate vulnerabilities along with systemic service and governance
+weaknesses in the water and sanitation sector is critical for strengthening national resilience, protecting public health,
+and enabling sustainable development.
+
+ B. Sectoral and Institutional Context
+4.      Water insecurity continues to define the landscape throughout the territory of the Comoros. The islands
+experience water insecurity differently with each island experiencing distinct yet interlinked challenges that are
+increasingly exacerbated by climate change. In Grande Comores, the largest island with an estimated population of 379
+367 inhabitants, the absence of permanent rivers makes communities almost entirely dependent on shallow aquifers and
+rainwater harvesting. Frequent pump failures, saline intrusion driven by sea level rise, and limited storage capacity
+
+
+1 2025. World Bank. “The Union of Comoros Economic Update.” June.
+2 2025, World Bank. Climate Country Risk Profile Comoros.
+3 World Bank 2019: Towards a more united and prosperous Union of Comoros.
+
+
+                         Official Use Only                                                                               Page 9
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+translate into daily struggles for thousands of families. Despite having the nation’s richest network of rivers and streams,
+estimated at 47000 m3/day4, Anjouan, the second largest island with a population of 327 382 inhabitants, suffers from
+dilapidated network and inadequate and poor water supply to its inhabitants. Moheli, the smallest island with a population
+of 51 567 inhabitants5, derives its main sources of drinking water from small river catchments and springs located in upland
+zones. Decades of limited maintenance and deforestation in catchment areas have severely reduced the reliability of these
+systems while rising temperatures and increasingly erratic precipitation patterns threaten water quality and supply. Across
+all islands, power outages from mostly diesel-fuel small thermal generators in addition to some hydropower generation
+in Anjouan, limited maintenance capacity, and uncoordinated institutional responsibilities compound these problems.6
+
+5.       While the physical and hydrogeological characteristics of the islands differ, the underlying patterns are
+consistent. Dwindling water sources, unreliable access, undersized water distribution systems, and inadequate
+management structures leave households, especially women and children, bearing the brunt of water insecurity that is
+increasingly exacerbated by climate change. This insecurity directly affects livelihoods and social stability, with women
+spending hours each day in the search for water, sacrificing time for education, childcare, and income-generating
+activities. Farmers report crop losses during dry seasons due to inadequate irrigation, while households spend significant
+resources on water trucking, delivered by privately-owned water trucks.
+
+6.       While an estimated 80 percent of households have access to basic drinking water, service reliability and quality
+remain low. In urban centers, intermittent supply and high non-revenue water (NRW) constrain service continuity. In rural
+areas, many community water systems are non-functional due to poor operation and maintenance. Sanitation access
+remains limited—only 36 percent of households have access to basic sanitation, and the country lacks any wastewater or
+fecal sludge treatment facility, with reports of raw sewage being directly discharged to local streams and to the ocean.
+These deficiencies contribute to high rates of waterborne diseases, especially affecting women and children. Climate
+change is expected to exacerbate Operations and Maintenance (O&M) as well as public health challenges by increasing
+rainfall variability, saltwater intrusion, and storm intensity.
+
+7.      In rural areas, water supply schemes currently operate through a mix of community-based management and
+limited utility involvement, with municipalities nominally owning assets and community committees handling day-to-day
+operations and fee collection. Capital investments have largely been financed by donor projects and community/diaspora
+contributions, whilst O&M is funded through locally set tariffs - typically per-container charges in community-run systems
+that are insufficient for full cost recovery, resulting in chronic underfunding and uneven service quality.
+
+8.       Recent Water Security Diagnostics undertaken for Comoros found that, while women remain the primary
+managers of household water, bearing the greatest burden of scarcity, their representation in formal water governance
+remains extremely limited, with fewer than 15 percent of local committee members being women. The diagnostics
+further found that, in several communities, women have begun organizing water-user groups to advocate for repairs and
+equitable distribution.7 Strengthening gender inclusion in governance and identifying targeted measures to enhance
+women’s participation and leadership in decision-making is therefore a critical component of water security reform.
+
+
+
+
+4 Consultation 2005
+5 2017 census
+6 2025. “Stakeholder Engagement Report: Comoros Water Security Diagnostics—Community Consultations.” October.
+7 These include Sima, Mremani, and Nioumachoi.
+
+
+                        Official Use Only                                                                            Page 10
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+9.      The national water utility, (Société Nationale d'Exploitation et de Distribution des Eaux, (SONEDE8), established
+in 2018 with the mandate of managing the state’s water resources, employs over 500 staff across the national territory.
+As a relatively young utility operating in a fragmented governance environment, SONEDE faces ongoing institutional
+capacity challenges related to internal governance, professional development systems, and technical expertise required
+to sustainably deliver climate-resilient services. Within this context, gender imbalances are pronounced: although women
+make up 26 percent of the workforce, they are largely concentrated in customer service and human resources, with very
+limited representation in technical and managerial functions9. This structural underrepresentation underscores the
+importance of strengthening institutional systems to support inclusive, merit-based professional advancement and sector
+sustainability.
+
+10.     Support of the World Bank for the water, sanitation, and hygiene (WASH) sector in Comoros is critical in
+promoting provision of climate resilient WASH services in the country. The Comoros National Water Resilience Project
+(CNWRP, P504691, US$20 million, approved in June 2024) is financing climate-resilient infrastructure for the production,
+storage and distribution of water in the capital city. The project provides significant technical assistance to the national
+water utility, as well as the consolidation of the currently fragmented institutional mandate for WASH into one entity, the
+Direction Générale pour l'Eau, l'Assainissement et l'Hygiène (General Directorate for Water, Sanitation, and Hygiene
+(DGEAH)).
+
+11.      While the Water Code of 2021 establishes the legal foundation for an Integrated Water Resources Management
+(IWRM) framework, implementation remains partial, with overlapping responsibilities, fragmented authority, and
+weak enforcement mechanisms. As a result, water governance operates through a mosaic of systems, national utility
+services, municipal oversight, and community committees, each functioning largely in isolation. This fragmented water
+governance creates gaps in operations, uneven coverage, undermines equity and accountability, and weakens system
+resilience to shocks and climate variability.
+
+12.     The expected establishment of the DGEAH within the Ministère de l'Energie, de l'Eau et des Hydrocarbures
+(Ministry of Energy, Water and Hydrocarbons (MEEH)), as the national entity responsible for policy formulation,
+coordination, and planning, will for the first time provide a dedicated government counterpart for sector leadership.
+Though a decree for its establishment has been prepared, its approval and ratification remain delayed. Enhanced
+momentum and traction under the newly appointed sector leadership is expected to hasten the process. SONEDE, on the
+other hand, will benefit from a dedicated performance improvement program under the CNWRP, aimed at enhancing
+operational efficiency, reducing NRW, modernizing billing and collection systems, and improving financial transparency.
+The program includes capacity building in asset management, preventive maintenance, and customer relations, laying the
+groundwork for sustained improvements in institutional performance.
+
+13.     In parallel, a set of strategic studies and technical analyses, financed under the sister project, the Regional
+Climate Resilience Project (RCRP – P180171) have been launched. These include detailed engineering studies for
+alternative water sources for the capital city, Moroni, additional water storage capacity, replacement of dilapidated
+distribution infrastructure, and solarization of pumping stations. These studies will provide a robust analytical base for
+investments and policy decisions to strengthen climate resilience while also improving mitigation outcomes.
+
+14.     Based on the findings of the studies, priority infrastructure works will be undertaken under the CNWRP to
+rehabilitate and expand production, storage, and distribution systems of the capital city, Moroni. These are aimed at
+
+8 The government created SONEDE in 2018 as a stand-alone water utility mandated to provide clean drinking water services to the people of Comoros
+
+under Presidential Decree No. 18-079/PR.
+9 HR Data from SONEDE collected through the Equal Aqua questionnaire in 2024
+
+
+                         Official Use Only                                                                                               Page 11
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+improving water reliability, reducing leakages, and enhancing climate resilience. Complementary investments will include
+the acquisition of O&M equipment, digital tools, and smart meters, to further strengthen the operational capacity of
+SONEDE. Other priority investments to be undertaken include the development of a Water Master Plan, which will guide
+medium to long-term infrastructure planning for the capital; and for sanitation, a feasibility study for the country’s first
+fecal sludge treatment plant to prepare for a sanitation investment in the future.
+
+15.       While these efforts represent important progress, significant challenges remain. The regulatory framework for
+the water sector in Comoros has historically been characterized by fragmented institutional arrangements and limited
+oversight capacity. Water supply and sanitation access and service provision remain unequal and unregulated throughout
+the islands. In rural areas, many water schemes suffer from recurrent breakdowns due to the absence of professionalized
+management and insufficient funding for maintenance. Tariff setting and performance monitoring of the national water
+utility, SONEDE, have been managed directly by ministerial decree, with limited mechanisms for independent oversight or
+consumer protection. This institutional gap has contributed to persistent challenges in service delivery, including
+widespread dissatisfaction among users regarding water quality, reliability, and affordability.
+
+16.     Recognizing these challenges, the government in June 2025 signed a decree establishing a new regulatory
+agency—Agence de Regulation des Secteurs de l’Energie et de l’Eau (ARSEE)—an independent administrative authority
+with a cross-sectoral mandate covering energy, water, and sanitation. ARSEE is tasked with strengthening sector
+governance by developing and enforcing a coherent and transparent regulatory framework—spanning licensing and
+authorizations, tariff setting and review, performance and quality of service standards, and consumer protection—while
+coordinating with relevant ministries and utilities to ensure consistent application of sector laws. This nascent agency has
+the potential of bringing about a significant improvement in sector governance, including a more coherent and transparent
+framework for regulation, tariff setting, and quality assurance. The agency faces considerable capacity constraints and will
+require concerted support to effectively fulfill its oversight functions, foster accountability, and ensure that sector reforms
+translate into tangible improvements for consumers.
+
+ C. Relevance to Higher Level Objectives
+
+17.      Water is critical for setting the necessary conditions, enabling the essential catalysts, and developing the
+strategic pillars laid out in the “Plan Comores Emergent 2030,” or the Comoros Emergence Plan. Climate adaptation is
+part of the ambition laid out in the Plan, which aims to make Comoros "a country resilient to shocks in all dimensions of
+sustainable development" by 2030. The water sector is also identified as a vulnerable sector in the country’s Nationally
+Determined Contributions (NDCs), which highlight the need to ensure the population’s access to improved water
+sources.10 The project will contribute to the objectives of the Plan and the NDCs by strengthening the country’s capacity
+to cope with and adapt to climate change impacts (tropical storms, floods, droughts, and heatwaves) through improved
+water supply and storage solutions, and by supporting activities to enhance the sector’s institutional capacity. The
+project’s support to the development of a national sanitation policy and strategy are also well-aligned with national
+priorities outlined in the PCE on human capital and economic development.
+
+18.     The project is closely aligned with the World Bank Group (WBG) Country Partnership Framework (CPF) (Report
+no. 145699-KM, FY20-24) for the Union of the Comoros, discussed by the Board on July 16, 2020, extended to FY25 with
+the Performance Learning Review, as approved by the Board on September 27, 2023. Under Focus Area 1 “Crisis
+Response and Building Resilience,” the project will support both (a) objective 1 on building human capital, by increasing
+access to water supply services and by developing a sanitation strategy, and (b) objective 2 on disaster recovery and
+
+10
+  National Determined Contribution (NDC), Updated. Union of the Comoros, 2021-2030. https://unfccc.int/sites/default/files/NDC/2022-
+06/CDN_r%C3%A9vis%C3%A9e_Comores_vf.pdf
+                         Official Use Only                                                                                             Page 12
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+resilience, by increasing climate change resilience of the country’s water supply systems and the sector’s institutions. In
+particular, the project will contribute to bolstering the national institutional capacity to prepare for and manage natural
+events through resilient designs and preparation of emergency response plans for SONEDE. The Multi Phase Approach
+(MPA) program also supports the learning agenda and leveraging partnerships.
+
+19.       The project aligns with key World Bank Group priorities and frameworks, including the Global Challenge
+Program on Water Security and Adaptation, the Water Strategy FY25–30, the Climate Change Action Plan 2021–2025,
+and the Africa Climate Business Plan. It accelerates access to WASH as a core GCP pillar while advancing mitigation
+through renewable energy in off-grid rural areas and improving energy and water efficiency in urban systems via NRW
+reduction and other measures. It fully aligns with the World Bank Group Water Strategy Implementation Plan by advancing
+Pillar 1 (Water for People) through resilient drinking water, sanitation and hygiene and urban service optimization, and
+Pillar 3 (Water for Planet) through reduced flood/drought risk and strengthened sustainable water resources
+management. On adaptation, it enhances climate-resilient designs and safeguards water and sanitation infrastructure
+against flooding, droughts, and landslides, mainstreaming climate considerations toward 2025 targets. The operation also
+tackles institutional and physical constraints to service delivery, strengthens sector governance, and embodies the GRID
+approach by integrating climate adaptation, gender inclusion, and citizen engagement into WASH services.
+
+20.    The project is consistent with the WBG Small States Strategy. The project supports Comoros in building resilience
+and adapting to climate change, fosters regional cooperation with other small states to leverage shared knowledge and
+good practices, and strengthens government capacity through technical assistance and training. It is also aligned with the
+WBG Gender Strategy 2024–30, narrowing gender gaps by reducing women’s and girls’ time burdens for water collection,
+expanding economic opportunities via professional development, and enhancing agency by empowering women in water
+system oversight, while mitigating GBV risks through safer, closer-to-home water access.
+
+21.      The project is aligned with the goals of the Paris Agreement on both mitigation and adaptation to climate
+change. The project is aligned with Comoros’ National Adaptation Plan of Action (NAPA) and NDCs, namely, to reconcile
+structural transformation and diversification of the economy with sustainable performance management of natural
+resources and resilience. Project activities are aligned with the country’s prioritization of investments in resilient
+infrastructure and institutions managing rising temperatures, sea level rise, erratic precipitation patterns and floods,
+intensifying drought, and tropical cyclone risks in the water sector.
+
+ D. Multiphase Programmatic Approach
+
+  i.    Higher-Level Objective (all Phases)
+
+22.     The Project is part of the Africa East and South (AFE) WASH MPA (P512763) which aims to contribute to the
+higher-level goals of enhancing climate resilience, increasing human capital, promoting gender equality, and protecting
+the environment for a livable planet. Increased WASH access contributes to improved work productivity, public health,
+increased resilience to climate change and the protection of the environment.
+
+  ii.   Rationale for using MPA
+
+23.     The WASH AFE MPA, approved by the Board on September 30, 2025, provides a regional framework for
+adaptive, long-term engagement in participating countries. The WASH AFE MPA is informed by the wide consensus in
+the sector on the need to move beyond business-as-usual approaches to a strategic vision that employs a systems change
+
+
+                      Official Use Only                                                                             Page 13
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+approach to accelerate access rates and sustain gains towards the achievement of the Sustainable Development Goal 6.
+At the WASH Leadership Summit, held in Addis Ababa in November 2023, participating AFE countries endorsed this vision.
+
+24.     The Union of the Comoros is among the countries that supports the five principles of the systems change
+approach. These are (a) government-led planning, coordinating, and monitoring platforms to support national WASH
+investment programs, (b) tackling governance-related bottlenecks in the sector, (c) making service delivery more efficient
+by offering incentives, (d) boosting investments and private sector participation, and (e) embedding resilience to climate
+change and other shocks across the entire water service chain, from water resources management to last-mile service
+delivery, and the closely related sanitation chain, from containment to final disposal or reuse of human waste and
+wastewater.
+
+25.      The MPA supports each country and phase to build on earlier phases by establishing institutional foundations,
+piloting reforms, and scaling up resilient service delivery. This phased approach enables continuous learning, incremental
+capacity building, and strategic sequencing of reforms and investments, thus ensuring sustainability and impact over the
+long term.
+
+                                         Figure 1: MPA Program Results Chain
+
+
+
+
+                     Official Use Only                                                                             Page 14
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                                                                 Updated MPA Framework Matrix
+
+                                                                                                                Estimated                         Estimated
+                                                                                  Estimated      Estimated                         Estimated
+                             Sequential or                               IPF or                                 Other                             Environmental
+Phase #   Operation ID                       Phase’s Proposed DO*                 IBRD Amount    IDA Amount                        Approval
+                             Simultaneous                                PforR                                  Amount                            & Social Risk
+                                                                                  ($ million)    ($ million)                       Date
+                                                                                                                ($ million)                       Rating
+          Regional           Simultaneous    To improve                  IPF              0.00          10.00               5.00   30 September   Moderate
+          WASH-                              governance and build                                                                  2025
+          Tanzania,                          institutional capacities
+          Burundi, South                     for climate-resilient
+          Sudan,                             water supply and
+   1
+          Democratic                         sanitation service
+          Republic of                        delivery in participating
+          Congo;                             countries in the
+          P506439                            Eastern and Southern
+                                             Africa region.
+          Tanzania;          Simultaneous    To increase and sustain     PforR            0.00         200.00           122.00     30 September   Moderate
+          P508698                            access to at least basic                                                              2025
+                                             water supply,
+   2
+                                             sanitation and hygiene
+                                             services in all rural
+                                             districts.
+          Burundi;           Simultaneous    To increase access to       IPF              0.00          80.00           10.00a     17 November    Substantial
+          P507207                            climate resilient water                                                               2025
+                                             supply and sanitation
+   3                                         services and to
+                                             strengthen the
+                                             capacity of water
+                                             operators
+
+
+
+                      Official Use Only                                                                           Page 15
+     The World Bank
+     Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                             Simultaneous    To increase access to
+                                            climate-resilient
+                                            drinking water supply,
+        Comoros;                                                                                                    31 March
+4                                           sanitation and hgiene    IPF         0.00      29.00             0.00                  Moderate
+        P514166                                                                                                     2026
+                                            services in Comoros,
+                                            and strengthen sector
+                                            governance
+        South Sudan;         Simultaneous   —                        IPF         0.00      85.00             0.00   March 2026     High
+5
+        P512161
+        Democratic           Simultaneous   —                        IPF         0.00     200.00        300.00      July 2026      High
+        Republic of
+6
+        Congo;
+        P513301
+        Regional WASH        Simultaneous   —                        IPF         0.00      10.00             0.00   July 2026      Moderate
+        - Ethiopia,
+        Federal
+        Republic of
+7
+        Somalia,
+        Madagascar,
+        and Comoros,
+        Malawi
+        Ethiopia;            Simultaneous   —                        PforR       0.00     200.00        185.00      September      Substantial
+8
+        P508078                                                                                                     2026
+        Federal              Simultaneous   —                        IPF         0.00      50.00             5.00   September      High
+9       Republic of                                                                                                 2026
+        Somalia
+        Madagascar           Simultaneous   —                        IPF         0.00     100.00         30.00      September      High
+10
+                                                                                                                    2026
+
+11      Malawi               Simultaneous   —                        IPF         0.00     100.00         25.00      January 2027   Substantial
+
+
+                      Official Use Only                                                            Page 16
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+   12       Angola                Simultaneous        —                             IPF                240.00               0.00            210.00      March 2027      Substantial
+
+
+   13       Zambia                Simultaneous        —                             PforR                 0.00            200.00              50.00     May 2027        Substantial
+
+
+   14       Mozambique            Simultaneous        —                             PforR                 0.00             75.00              56.50     July 2027       Substantial
+
+            Regional WASH         Simultaneous        —                             IPF                   0.00             10.00                0.00    July 2027       Moderate
+            - Angola,
+   15
+            Zambia and
+            Mozambique
+
+ Total                                                                                                 240.00           1,369.00            998.50
+
+                                                                     Total Program Envelope                                           US$2,607.50
+
+                                                      Board Approved Financing Envelope                                               US$1,580.00
+
+    * Include country name in case of multiple borrowers.
+    If there are changes in the MPA Program framework, the subsequent phase’s PAD would include the original program framework as well as the revised one
+
+
+Previous Approved Versions
+                                                                                                                                      Estimated                          Estimated
+                                                                                                 Estimated         Estimated                             Estimated
+                                      Sequential or         Phase’s Proposed                                                          Other                              Environmental
+Phase #        Operation ID                                                       IPF or PforR   IBRD Amount       IDA Amount                            Approval
+                                      Simultaneous          DO*                                                                       Amount                             & Social Risk
+                                                                                                 ($ million)       ($ million)                           Date
+                                                                                                                                      ($ million)                        Rating
+               Regional WASH-          Simultaneous         To improve            IPF                       0.00             10.00               5.00    30 September    Moderate
+               Tanzania, Burundi,                           governance and                                                                               2025
+               South Sudan,                                 build institutional
+               Democratic                                   capacities for
+     1
+               Republic of                                  climate-resilient
+               Congo; P506439                               water supply and
+                                                            sanitation service
+                                                            delivery in
+
+                         Official Use Only                                                                                            Page 17
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                                                participating
+                                                countries in the
+                                                Eastern and
+                                                Southern Africa
+                                                region.
+             Tanzania;           Simultaneous   To increase and     PforR             0.00   200.00         122.00       30 September   Moderate
+             P508698                            sustain access to                                                        2025
+                                                at least basic
+                                                water supply,
+    2
+                                                sanitation and
+                                                hygiene services
+                                                in all rural
+                                                districts.
+             Burundi; P507207   Simultaneous    To increase         IPF               0.00    80.00             10.00a   17 November    Substantial
+                                                access to climate                                                        2025
+                                                resilient water
+                                                supply and
+    3                                           sanitation
+                                                services and to
+                                                strengthen the
+                                                capacity of water
+                                                operators
+
+Total                                                                                 0.00   290.00         137.00
+
+                                                          Total Program Envelope                        US$427.00
+
+                                                Board Approved Financing Envelope                      US$1,580.00
+
+
+
+
+                     Official Use Only                                                                Page 18
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+ iii.    Key Results of the Program
+
+26.      The Program Development Objective (PrDO) is to increase access to climate-resilient drinking water supply,
+sanitation and hygiene services in participating countries in the Eastern and Southern Africa (AFE) Region. The project
+directly contributes to the PrDO of the MPA. The project is fully aligned with the four pillars under the WASH AFE MPA:
+the Program Pillar 1- National Platforms to Accelerate Access to WASH, maps with Project Component 1; the Program
+Pillar 2—Addressing Sector Governance aligns with Project Component 2; Program Pillar 3—Service Provider Performance
+Improvement and Pillar 4—Leveraging Finance to Increase WASH Access directly maps to Project Components 3 and 4.
+
+27.     The Project Development Objective (PDO) is to increase access to climate-resilient drinking water supply,
+sanitation and hygiene services in Comoros, and strengthen sector governance.
+
+28.     Progress towards achievement of the PrDO will be measured through three PrDO-indicators, that are also PDO-
+indicators at the project level. A fourth project specific indicator has been added to measure progress towards improved
+water service delivery.
+
+ •      PrDO/PDO Indicator 1: Number of people with access to water supply services. Disaggregated by gender, youth,
+        and sub sector (percentage basic and safely managed).
+ •      PrDO/PDO Indicator 2: Number of people with access to sanitation services. Disaggregated by gender, youth, and
+        sub sector (rural-urban) and level of service (percentage basic and safely managed).
+ •      PrDO/PDO Indicator 3: Number of beneficiaries with enhanced resilience to climate risks, disaggregated by gender,
+        youth, of which people benefiting from climate-resilient infrastructure.
+ •      PDO Indicator 4: Strengthened sector governance measured through operationalization of the new water regulator
+        and preparation, adoption and publication of new tariff strategy
+
+29.     The Program Framework delivers a systematic and climate change informed approach to WSS access expansion
+in selected countries in the AFE region. The regional and country-level WASH Platforms will assist each country to
+implement their national roadmaps towards achieving universal access. Countries will join the MPA based on expressed
+interest and readiness.
+
+ II. PROJECT DESCRIPTION
+
+ A. Project Description
+
+ 30.     Building on the foundations created under the CNWRP, the new operation will expand its geographical scope
+ beyond the capital city of Moroni to reach additional communities across the country (mapped to Pillar 4 of the MPA,
+ Financing Climate-Resilient WSS Infrastructure). This expansion aims at addressing persistent challenges by providing
+ targeted support for resilient water and sanitation services in both urban and rural settings. In light of ongoing
+ challenges related to the reliability and adequacy of water supply for critical public infrastructure, the project will
+ include targeted investments to strengthen water supply systems serving priority facilities, including the new El-
+ Maarouf National Hospital, with the objective of ensuring continuous, safe, and climate-resilient water services. Outside
+ of the capital city, the project will prioritize investments in climate resilient community-managed rural water supply
+ schemes. It will also support capacity building for rural water operators and village water committees, equipping them
+ with the technical, managerial, and financial skills needed to sustain and improve service delivery.
+                       Official Use Only                                                                            Page 19
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+
+ 31.      WASH sector governance fragmentation remains a hindrance to sector progress. Building on progress initiated
+ under CNWRP, the Project will support the establishment of a government-led National WASH Platform11 that builds
+ upon the institutional foundations laid under the Comoros National Water Resilience Project and adapt lessons from
+ Ethiopia’s One WASH approach12. The platform will formalize coordination among line ministries with some level of
+ responsibility for WASH (water, health, education, and finance ministries) through a National WASH Steering Committee
+ and a National WASH Technical Team to align policy, planning, and implementation. Establishment activities will
+ include: (i) constituting committees at the national level with approved TORs; (ii) preparing a National WASH Investment
+ Plan (covering rural, urban, and institutional WASH) and citywide inclusive sanitation plans to guide prioritized, climate-
+ resilient investments and (iii) instituting a joint sector review calendar and a partner coordination forum to align
+ technical assistance and implementation support. The activity will systematize and scale governance progress initiated
+ under CNWRP by anchoring the platform under DGEAH and using the Steering and Technical Committees created under
+ CNWRP as the basis for the platform’s governance structure. It will further build on sector strategies and policies, and
+ the Grand Moroni master plan to be developed under CNWRP, to expand into a national investment plan and citywide
+ inclusive sanitation planning.
+
+ 32.      The project will support the operationalization of the new water regulator. The newly formed Agence de
+ Regulation des Secteurs de l’Energie et de l’Eau is a laudable step towards governance reforms and more accountable,
+ transparent and effective oversight of utilities, particularly in setting and approving tariffs and establishing service
+ standards, which are currently managed through ad hoc ministerial orders. The project will support the
+ operationalization and capacity building for the agency, by financing essential start-up activities that directly address
+ stakeholder grievances and governance gaps identified in the Light Water Security Diagnostics. Beyond the founding
+ legal instrument, the nascent agency will be in need of a governing body as well as minimum operating budget. Activities
+ will include: (i) tariff-setting strategy with methodologies balancing cost recovery and affordability; (ii) service quality
+ standards (continuity, pressure, water quality); (iii) a public-facing consumer feedback and grievance redress
+ mechanism; and (iv) performance reporting and enforcement protocols, including compliance monitoring against
+ standards; (v) the development and promulgation of regulatory instruments. Further, the Agency will benefit from
+ exposure to well-functioning regulators in the region under the regional knowledge pillar of the MPA.
+
+ 33.      The Project includes Performance-Based Conditions (PBCs) to incentivize improvements in the governance
+ framework, to encourage a result-based culture, and emphasize sustainability. PBCs will be introduced with
+ disbursements to be made upon their achievement and against eligible expenditures to ensure attainment of the
+ institutional milestones that underpin the Project's governance and sustainability objectives. Specifically, the PBCs will
+ target (i) Operationalization of ARSEE and the development, adoption and publication of a Tariff Strategy and (ii)
+ establishment and operationalization of DGEAH. Verification will be based on documentation submitted by the
+ Recipient in accordance with the Verification Protocol (Annex 1).
+
+ 34.     The project will support the WBG’s Jobs Framework (mapped to Pillar 3 of the MPA, Improving Service
+ Provision Performance). To help address persistent skills gaps in the water and sanitation (WASH) sector, the project
+ will design, develop, and implement competency-based vocational courses for plumbers, masons, electricians,
+ technicians, and local councils, with a strong focus on constructing and managing climate-resilient infrastructure.
+ Delivery will be anchored in partnerships with accredited technical institutes, SONEDE, and local nongovernmental
+
+11 A government-led, multi-stakeholder coordination mechanism that brings together all actors working on water, sanitation, and hygiene to plan,
+
+finance, implement, and monitor the sector in a harmonized way.
+12 Ethiopia’s One WASH National Program (OWNP) is a government-led sector-wide approach launched in 2013 that aligns the water, health,
+
+education, and finance sectors under “one plan, one budget, and one reporting system”
+                          Official Use Only                                                                                               Page 20
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+ organizations and community-based organizations, and will include hands-on learning through practical modules and a
+ training-of-trainers program to sustain delivery capacity. The operation will integrate digital tools for course delivery
+ and credentialing, and promote regional knowledge sharing to reinforce a robust, inclusive WASH skills ecosystem
+ nationwide. To improve labor market signaling and service quality, the project will establish a publicly accessible
+ database of qualified professionals, linked to verifiable credentials issued by partner institutions and
+ SONEDE-supervised assessments.
+
+ 35.     The project is aligned with the WBG approach to private sector development and job creation. First, it
+ supports establishing the WASH infrastructure foundation for jobs, which is required for people and businesses to
+ thrive. Second, the project supports business-enabling policies and incubation activities, a predictable regulatory
+ environment, and associated skill development, enabling the domestic private sector to grow and provide jobs in water
+ operations. WASH projects are significant drivers of temporary and full-time employment through construction works
+ and multiplier effects in management and services. These projects are labor-intensive, generating direct employment
+ during construction, maintenance, and management as well as indirect jobs across associated supply chains. Moreover,
+ WSS investments will create induced jobs, such as through time savings from better WASH access. Induced jobs will also
+ be created in other sectors that use water and sanitation as inputs and through productivity improvements. Following
+ WBG guidelines for assessing more or better jobs, the project is estimated to create 1,357 more and better paid jobs
+ (MBJs).
+
+ 36.       Unmanaged solid and plastic waste degrades surface and coastal water quality through waste leakage into
+ waterways and coastal areas from direct dumping, leachate, and microplastics, increasing health risks and
+ undermining WASH investments. The Project will build upon findings of an earlier assessment of land-based plastic
+ pollution13 to support government’s integration of solid waste management into its sanitation strategy to address
+ critical upstream drivers of contamination, protect drinking water sources, and promote human capital through reduced
+ incidences of water-borne diseases. The proposed project will support the preparation of a study to assess the
+ challenges and opportunities related to solid waste management in the country. This study will engage communities
+ and local governments to identify context-appropriate solutions for improved collection, segregation, and safe disposal
+ of solid waste, with the aim of informing future interventions. Further, the project will support strategic pilot
+ interventions in community-based waste management, such as facilities for waste segregation, small-scale composting,
+ decentralized, low-tech sorting and recycling centers and deposit return schemes.
+
+ 37.     The project will support hygiene campaigns to help mitigate perennial outbreaks of cholera and reduce the
+ incidence of other water-borne diseases (mapped to Pillar 3 of the MPA). The Union of the Comoros has faced several
+ cholera outbreaks, with the last official declaration of an outbreak made by the Government on February 2, 2024,
+ affecting all islands, with Anjouan and the capital city of Moroni as the epicenters. The proposed campaign will enhance
+ and build on previous interventions undertaken under World Bank-financed health programs.
+
+ 38.      To strengthen institutional capacity and leverage regional knowledge for improved WASH outcomes, the
+ project will support the national platform approach to consolidate government-led efforts to achieve universal,
+ sustainable, and climate-resilient WASH services (mapped to Pillar 1 of the MPA). The initiative will support
+ institutional capacity development for key stakeholders on policy implementation, climate risk management, gender,
+ and inclusion in WASH. The project will also facilitate South-South knowledge exchange, enabling participating countries
+ to share best practices and lessons learned in climate-resilient WASH service provision.
+
+
+13 World Bank. Assessment of Land Based Sources of Plastic Pollution from Cities in the Western Indian Ocean: Institutional and Policy Assessment
+
+Report for Comoros. July 2024. Project Reference No 0002002010
+                          Official Use Only                                                                                                Page 21
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+ B. Project Components
+39.   Component 1: Strengthening Platforms to Accelerate Access to WASH (US$850,647). This consists of two
+subcomponents.
+
+          o         Subcomponent 1A: Support for establishment of a national WASH platform and investment planning
+                    (US$300,000). This subcomponent will support (a) the establishment and operationalization of a national
+                    WASH sector platform, with structured working groups focusing on specific thematic areas such as
+                    policy/regulation, water supply, sanitation and hygiene, and gender and inclusion in WASH, (b) joint
+                    annual sector reviews and reporting mechanisms and (c) development of a national WASH investment
+                    plan. The multi-stakeholder nature of joint sector reviews will provide a key mechanism for ensuring
+                    accountability and incorporating the perspectives of service users and citizens alike. Further, the Platform
+                    will consider investment planning and resource allocation aligned with national climate adaptation
+                    priorities (recognizing current and future climate scenarios) and support institutional readiness to shocks
+                    and support evidence-based decision making through data collection and analysis. The creation of a
+                    national platform fully aligns with the government's priority of having a unified framework for all WASH
+                    initiatives and investments throughout the territory of the Comoros.
+
+          o         Subcomponent 1B: Support for regional benchmarking and sector data system strengthening
+                    (US$550,647). This subcomponent, in alignment with the regional MPA efforts to benchmark sector
+                    performance across the participating countries, will support (a) capacity building and regional
+                    benchmarking for the national utility, government stakeholders, and civil society actors14; and (b)
+                    development of data collection tools and harmonization of sector data for sector monitoring in close
+                    collaboration and coordination with ongoing initiatives, including the International Benchmarking
+                    Network for water and sanitation utilities.
+
+40.    Component 2: Advancing Reforms, Governance, and Regulation (US$2,191,000). This consists of two institutional
+development and resilience boosting subcomponents.
+
+          o         Subcomponent 2A: Support for the operationalization and capacity building of the newly created
+                    regulatory agency, the Agence de Regulation des Secteurs de l’Energie et de l’Eau (US$1,471,000). This
+                    includes support for construction of independent regulator offices, provision of reasonable operating
+                    costs,15 and provision of technical assistance for the development and adoption of comprehensive
+                    regulatory strategies and instruments, including tariff-setting methodologies, service quality standards,
+                    and enforcement protocols for both piped and non-piped water services. The subcomponent will align
+                    with, and draw from, support from the regional MPA to foster transparent, accountable, and resilient
+                    sector governance through support for the development of utility performance tracking and mechanisms
+                    for consumer feedback and grievance redress.
+
+          o         Subcomponent 2B: Support for the Ministry in charge of Water via the Direction Générale pour l’Eau,
+                    l’Assainissement et l’Hygiène (DGEAH) (US$720,000). To strengthen Comoros’ water and sanitation
+                    sector, the project will prioritize deepening institutional capacity and governance within DGEAH. Building
+                    on the foundational support of the Comoros National Water Resilience Project, it will provide advanced
+                    capacity building through structured training, professional certification, and peer learning with regional
+
+
+14 SONEDE, line ministries with direct responsibility for water and sanitation, municipalities, civil society actors in the water sector
+15 Incremental operating costs based on approved annual work plans and budgets
+
+
+                           Official Use Only                                                                                               Page 22
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                  agencies. The project will also enhance institutional alignment by supporting stronger coordination
+                  mechanisms between DGEAH and key stakeholders, including local governments, sector ministries, and
+                  development partners. The subcomponent will also support expansion of existing DGEME offices to
+                  accommodate recruited DGEAH staff as envisaged under CNWRP. For SONEDE, ongoing institutional
+                  strengthening measures will be enhanced, including for promotion of equitable career progression by
+                  supporting sex-disaggregated monitoring of promotion outcomes and improved access for qualified
+                  female staff to training and certification required for cadre advancement.
+
+41.      Component 3: Improving Service Delivery Performance (US$1,750,000) will build on ongoing utility improvement
+activities under the CNWRP to enhance the efficient management of rural water systems and strengthen community trust
+in SONEDE. This component consists of two subcomponents:
+
+         o        Subcomponent 3A: Vocational training for job creation and climate resilience (US$1,350,000). This
+                  subcomponent will support the design, development, and implementation of vocational training courses
+                  targeting water and sanitation sector professionals, including plumbers, masons, electricians, technicians
+                  and local councils for construction and management of climate resilient water and sanitation
+                  infrastructure. The subcomponent will support the establishment of a publicly available database of
+                  qualified professionals, enhancing employment opportunities while promoting a skilled workforce
+                  capable of supporting the country’s transition to a climate-resilient WASH sector.
+
+         o        Subcomponent 3B: Support for citizen engagement for improved service delivery (US$400,000). This
+                  subcomponent will strengthen citizen engagement mechanisms to improve the performance and
+                  accountability of rural water services and enhance community trust in SONEDE. It will support capacity
+                  building of rural water committees to serve as local liaison platforms between communities and service
+                  providers, including facilitating structured feedback on service issues and supporting timely referral of
+                  complaints. Particular attention will be given to embedding women’s meaningful participation and
+                  leadership within the committees to promote inclusive service governance. Further, the subcomponent
+                  will support the engagement of communes in hygiene promotion and awareness campaigns, including for
+                  household water treatment to help mitigate perennial outbreaks of incidences of water-borne diseases,
+                  including cholera, diarrhea and typhoid especially during climate exacerbated extreme weather events.
+                  The campaigns will enhance and build on previous interventions undertaken under World Bank-financed
+                  health programs for positive human development outcomes.
+
+42.     Component 4: Increasing Access to Climate-Resilient WASH Infrastructure (US$23,208,353). This component
+consists of two subcomponents described below, as well as compensation costs that would be required as part of
+resettlement of Project Affected Persons (PAPs)
+
+         o        Subcomponent 4A: Climate-resilient water supply infrastructure for Grande Comores, Moheli, and
+                  Anjouan (US$20,973,353). This component will build on CNWRP investments to expand household
+                  connections to newly developed water sources in Moroni, including economically strategic areas such as
+                  Ourovéni—the site of the second port—where a single standpipe currently serves more than 2,000
+                  inhabitants.16 It will finance climate-resilient infrastructure to identify new water sources, store, and
+                  distribute water. Across all islands, the project will support additional household connections and public
+                  taps, construct new and rehabilitate existing water points, and provide complementary infrastructure
+
+
+16 GWSP – Comoros Light Water Security Diagnostics, October 2025.
+
+
+                         Official Use Only                                                                           Page 23
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                    such as storage facilities to reduce service interruptions and use energy more efficiently17 and displace
+                    water boiling using the best locally available treatment technology. From an emissions standpoint, the 20-
+                    year project emissions are 16,530 tCO2e while the baseline emissions are 119,067 tCO2e (including 36,593
+                    tCO2e from water boiling displacement) resulting in an emissions reduction of 102,537 tCO2e thus -5,127
+                    tCO2e net annually, equivalent to 86 percent annual reduction. Additionally, in Grande Comores, the
+                    project will finance enhanced water supply to the newly constructed El Maarouf Hospital, to match the
+                    enhanced bed capacity and corresponding heightened water requirements.
+
+The following PBCs will be part of this sub-component for a total amount of US$1 million and are expected to provide the
+incentives critical to improvements in the governance framework and attainment of institutional milestones.
+               ▪    PBC 1 &2 - ARSEE (US$500,000). The PBCs related to ARSEE aim to establish the foundational conditions
+                    for effective sector regulation by ensuring that the regulatory authority is functional, adequately staffed,
+                    and equipped with the regulatory tools necessary to perform its mandate. The milestones for these PBCs
+                    are: (i) Staffing of ARSEE's Directorate General (US$200,000) and (ii) Adoption and Publication of a Tariff
+                    Strategy (US$300,000).
+
+               ▪    PBC 3 & 4 - DGEAH (US$500,000). These PBCs target the formal creation and initial operationalization of
+                    the DGEAH, critical for translating government policy into sector direction, planning, and coordination.
+                    The associated milestones are: (i) — Legal Establishment of DGEAH (US$250,000) and (ii) Appointment of
+                    Key DGEAH Officials (US$250,000).
+
+          o         Subcomponent 4B: Climate-resilient improved sanitation and solid waste management (US$1,235,000).
+                    This subcomponent will increase access to safe, climate-resilient sanitation facilities in high-traffic public
+                    areas in urban areas through the design and construction of climate resilient18, gender appropriate, public
+                    sanitation facilities in areas identified through community engagement. In addition, the design of public
+                    sanitation facilities will incorporate menstrual health and hygiene (MHH)-responsive standards, including
+                    adequate privacy, lighting, water access, and safe disposal mechanisms. This subcomponent will also
+                    support studies to investigate the impact of poor solid waste management practices on water quality and
+                    sanitation and based on regional best practice, propose cost-effective, context-appropriate solutions,
+                    including possible private sector engagement for improved solid waste management. Further, the
+                    subcomponent will support strategic pilot interventions in community-based waste management, such as
+                    facilities for waste segregation, small-scale composting, decentralized, low-tech sorting and recycling
+                    centers and deposit return schemes. Pilot locations will be prioritized in the catchments and supply zones
+                    of water sources financed under Subcomponent 4A to reduce pollution and protect infrastructure
+                    performance.
+
+          o         Subcomponent 4C: Resettlement Compensation for all works contracts (US$1,000,000). To facilitate
+                    smooth implementation, and as approved by management on February 14, 2026, the project will
+                    finance any necessary environmental and social impact studies, as well as the cost of involuntary
+                    resettlement. The project will finance the construction, rehabilitation, and expansion of water supply and
+                    sanitation infrastructure across urban and rural areas, including new water points, public taps, storage
+                    facilities, and climate-resilient sanitation facilities as well as new offices for the newly created regulation
+                    agency. These activities may potentially require land acquisition that could result in small-scale physical
+
+17 All new and rehabilitated public taps will integrate disability-inclusive design approaches.
+18 These facilities would also reduce fugitive GHG emissions
+
+
+                           Official Use Only                                                                                Page 24
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                 and/or economic displacement of individuals or communities, as well as temporary restrictions on land
+                 use.
+
+43.     Component 5: Project management (US$1 million). This component will finance the costs of project
+management, including for staff of the PIU, financial and technical audits, ESF instrument preparation and compliance
+control, monitoring and evaluation of project activities, and training.
+
+44.     Component 6: Contingent Emergency Response Component (CERC) (US$0 million). Following an eligible crisis or
+emergency, the Recipient may request the World Bank to re-allocate project funds to support emergency response and
+reconstruction. This component will draw from uncommitted grant resources from other project components to cover
+emergency response.
+
+ C. Project Beneficiaries
+
+45.      The project benefits four principal groups. These are (a) residents that benefit from investments in water
+infrastructure and sector governance, resulting in improved access to water supplies; (b) people benefiting from
+vocational training in water-related disciplines, (c) SONEDE, which will benefit from increased institutional capacity and
+efficiency; and (d) the government, including the sector regulator, which will benefit from a stronger institutional
+framework for the country’s water sector. All the activities will be carried out with the objective of increasing the resilience
+of communities and infrastructure against the impacts of climate change, in particular floods and droughts. In total, the
+project will target 200,900 direct beneficiaries for new or improved services, equivalent to 40,180 households.
+
+ D. Rationale for Bank Involvement and Role of Partners
+
+46.      This is the second water operation in Comoros financed by the World Bank in the last two years. The World
+Bank is uniquely positioned to leverage the necessary technical and institutional reform expertise to support
+improvements in WSS in Comoros, and to bring together other development partners supporting the sector to align
+financing. The project will build on the achievements of the ongoing project and continue to strengthen the utility’s and
+government’s institutional capacity to manage WSS investments and service delivery. In addition to solid experience with
+water sector operations, the World Bank has an extended engagement in countries across the region and across sectors
+(including Disaster Risk Management, Social Protection, Environment) and is well placed to incorporate the lessons and
+experience from past engagements in the design of the project.
+
+47.      Several development partners are already engaged and investing in the water and sanitation sector in Comoros,
+principally outside of Grand Moroni. The French Development Agency (Agence française de développement, AFD) is
+currently the most active donor in the water sector in Comoros, supporting three projects, focusing on water supply
+studies on Moheli and Grande Comore; and a governance-focused project that is financing technical assistance and
+capacity building of the MEEH. The United Nations Development Programme (UNDP), in a project mapped to the Ministry
+of Agriculture, Fishing, Environment, Tourism and Artisans, is also investing in small town and rural water supply across all
+islands. The MPA will leverage analytical work done under the AFD and UNDP projects, particularly around institutional
+strengthening, to operationalize the new structures being created. The Saudi Fund for Development is rehabilitating and
+re-equipping the three water sources and two of the three existing reservoirs in Moroni. For sanitation, the United Nations
+Children’s Fund (UNICEF) is active and is spearheading support for ending open defecation through Community-Led Total
+Sanitation approaches that have had varying degrees of success across the country. UNICEF is also in the process of
+finalizing a WASH bottleneck analysis (WASHBat), which is expected to highlight critical institutional actions that are
+needed to support the sector.
+                      Official Use Only                                                                                  Page 25
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+48.      The Government of the Union of Comoros has reaffirmed its strong confidence in the World Bank’s technical
+expertise, policy dialogue, and convening capacity in the water sector. The Government has formally mandated the
+World Bank to lead partner coordination, tasking it to steer sector dialogue, align a consolidated annual work plan to
+national priorities, and provide a platform for systematic information-sharing among development partners. This role
+reflects the Government’s continued reliance on the World Bank to anchor sector reforms, crowd in financing, and
+harmonize external support to enhance complementarities and avoid duplication. Using its convening power, the World
+Bank is well-placed to coordinate planned activities with existing interventions of development partners in Comoros to
+build synergies and enhance project impacts.
+
+ E. Lessons Learned and Progress on Learning Agenda
+
+49.     Project implementation will draw upon experience from other sectors in Comoros and from water supply
+projects across Africa and Asia, including in other fragile contexts. The project builds upon and complements other
+regional and national programs financed both by the World Bank and other development partners supporting investments
+in the Comoros. Specifically, the project will be informed by diagnostics and technical and environmental studies on water
+supply and the Comoros National Water Resilience Project (P504691).
+
+50.     The following key lessons informed the project design:
+
+        o   Building the institutional capacity of service providers and strengthening sector coordination are critical for
+            the sustainable delivery and scaling of WASH services. The design draws on Ethiopia’s One WASH National
+            Program - a government-led, sector-wide approach that aligns water, health, education, and finance actors
+            under one plan, one budget, and one reporting system, supported by a pooled financing mechanism.
+            Experience from Ethiopia shows that embedding targeted technical assistance linked to clear performance
+            metrics, while anchoring it in a national coordination platform and joint planning cycle, accelerates on-the-job
+            learning, improves operational and financial performance of utilities and service units, and enhances
+            accountability for results.
+
+        o   Prioritizing and sequencing interventions are key to addressing the short and medium-term priorities of the
+            water sector, while working towards long-term goals. The project will address sector priorities related to
+            critical water supply infrastructure needs as well as capacity building the institutional foundations to enhance
+            and sustain service delivery across the islands in Comoros. Strengthening the sector’s institutional capacity,
+            including the skills and the efficiency of SONEDE and its coordination with the Ministry of Energy, Water and
+            Hydrocarbons, will be key to addressing the sector’s short-term priorities, while building stronger governance
+            towards the achievement of long-term goals. Prioritizing and sequencing interventions maximizes efficiency
+            and development impacts.
+
+        o   Reinforcing coordination and synergies across sectors is essential to optimize investment impact. The
+            project will seek collaboration with the World Bank’s Education team on technical and vocational training
+            support, as well as building on the Urban team’s institutional and policy assessment for Solid Waste
+            Management. The need for collaboration in the sector has also been highlighted by interactions with all major
+            WSS donors active in Comoros. The project will ensure continued collaboration across sectors and across the
+            portfolio in Comoros. The project PIU will continue to collaborate closely with institutions involved, including
+            urban development and disaster risk management. The project will further support the strengthening of the
+            government’s role in coordinating the WASH sector.
+
+
+                     Official Use Only                                                                               Page 26
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+51.     Learning agenda. Experience gained through project implementation will position Comoros to contribute to
+regional and global knowledge on development challenges common to small island states, including rural
+professionalization pathways, regulatory frameworks for nascent utility sectors, and island-specific approaches to climate
+and water resilience. To systematically capture and disseminate these lessons, DGEAH, SONEDE, and ARSEE will document
+knowledge notes or case studies capturing institutional development milestones, implementation challenges, and adaptive
+measures taken. These knowledge products will be shared with the broader development community through institutional
+websites and regional forums, with the lessons learned being used to inform adjustments and strengthen adaptive
+management.
+
+
+ III. IMPLEMENTATION ARRANGEMENTS
+
+
+ A. Institutional and Implementation Arrangements
+
+52.      The Project implementation will be managed by the existing PIU under the MEEH. The PIU is performing
+satisfactorily in implementation of the CNWRP. It is responsible for overall project management along with environmental
+and social standards (ESS), procurement, and budgeting. The established PIU has a project coordinator, and specialists in
+procurement, financial management, environmental and social standards, monitoring and evaluation, and
+communications. Additional limited staff will be considered to support implementation and monitoring in Anjouan and
+Moheli. It is expected that these staff will be recruited within three months of grant effectiveness.
+
+53.      The PIU will further be supported by the established Technical Committee and Steering Committee created
+under the CNWRP. The Steering Committee—co-chaired by the Secretaries General of the Ministry of Finance, Budget
+and Banking Sector and the Ministry of Energy, Water, and Hydrocarbons—provides strategic oversight, approves annual
+plans and budgets, reviews implementation, and ensures stakeholder coordination. The Technical Committee—led by the
+Director General of Energy, Mines, and Water—coordinates technical inputs including validation of designs and advice on
+sustainable water resources and infrastructure development. Membership includes key central and local government
+entities, the utility SONEDE, civil society, and observers drawn from financial and technical partners. AUDA-NEPAD is the
+implementing agency of the MPA’s regional phases and will help participating countries prepare for and implement
+relevant reforms.
+
+ B. Results Monitoring and Evaluation Arrangements
+
+54.      The MEEH will be responsible for project monitoring and evaluation (M&E) and reporting. A dedicated PIU M&E
+specialist will lead the collection, consolidation, analysis, and reporting on project performance data using the results
+framework indicators and targets and provide periodic information on progress towards higher level outcomes. The PIU
+will prepare and share with the World Bank semi-annual progress reports, a midterm report, and a completion report.
+Throughout the project implementation, M&E data will be used to assess progress and identify potential issues that need
+to be addressed to ensure achievement of intended impacts, including lessons learned that can inform and strengthen
+future operations.
+
+
+
+
+                     Official Use Only                                                                             Page 27
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+ C. Sustainability
+
+55.      The project is rooted in the government’s commitment to strengthening the resilience of the water sector to
+climate shocks. The project is supporting capacity building of the utility and the MEEH which will strengthen their ability
+to manage investments, operate and maintain water supply systems, maintain services, and respond to the impacts of
+climate change. An improved enabling environment, including clear roles and institutional frameworks, adoption of a new
+tariff-setting mechanism for urban and rural water systems, and support for rural water users associations in revenue
+collection and enhanced competency and cost recovery of SONEDE will also contribute to the sustainability of project
+investments19.
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+
+ A. Technical, Economic and Financial Analysis
+
+Technical
+
+56.     To sustainably address the nation’s water supply challenges across Grande Comore, Anjouan, and Mohéli, the
+project goes beyond replacing defunct assets to include a focus on strengthening operations and maintenance (O&M)
+to ensure reliable, climate-resilient services. Consistent with global good practice, the approach integrates institutional,
+regulatory, and technical dimensions to break the cycle of weak management and unsustainable investments.
+
+57.     Building on preparation advanced under ongoing projects and programs, the project will carry forward and
+scale key investment and technical assistance packages on all islands. The project will roll out investments in priority
+areas where the government has existing studies and safeguards reports ready to underpin investments, thereby enabling
+faster mobilization and early contracting.
+
+58.      The project relies on proven, well-tested water supply technologies and incorporates climate risk screening and
+resilience measures appropriate to Comoros’ island contexts. Investments are aligned with government priorities and
+have been selected in close coordination with the line ministry, as well as with beneficiary input to ensure they respond
+to expressed needs.
+
+59.     Investment cost estimates are based on the best available evidence and recent experience in Comoros and will
+be refined as designs are finalized and procurement advances across multiple islands. Given the government’s limited
+experience with large-scale, multi-island water supply programs, estimates are conservatively framed and the project is
+structured with flexibility to adjust scope and sequencing as market prices, site conditions, and logistics considerations
+evolve.
+
+60.      Paris Alignment Assessment and Reduction of Risks: On mitigation, proposed activities are on the Universally
+Aligned List including the construction of sanitation facilities as well as water supply household connections and water
+source diversification. There are no activities planned that pose a transition or carbon lock-in risk, and the project
+holistically contributes to a more climate-resilient and energy efficient WASH services and institutions. On adaptation,
+proposed activities address client’s and beneficiaries’ capacity to adapt to droughts, floods, extreme heat and cyclones –
+all of which Comoros is highly vulnerable to. Specifically, activities supported under the project will address these risks by
+
+19 SONEDE’s financial and operational performance is being monitored under the CNWRP
+
+
+                        Official Use Only                                                                              Page 28
+            The World Bank
+            Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+building institutional capacity and enhancing water supply and storage solutions, efficiency improvements to use less
+water and less energy, as well as the integration of robust climate-informed methodologies into O&M and asset
+management. Resilient design guidelines from floods, droughts, and high winds would be adhered to for infrastructure
+construction likewise taking into account current and future climate scenarios. Thus, residual climate risks are reduced to
+an acceptable level and are not likely to have material impact on the operation and its development objectives.
+
+Economic
+
+61.       Benefits of investments to accelerate access to water, sanitation, and hygiene are likely to be substantial.
+Benefits come through six main channels: (a) reduced time and monetary costs of receiving water; (b) reduced health
+expenditures and time lost from work from access to safe drinking water; (c) reduced health costs due to access to safe
+public toilets; (d) reduced costs of reconstructing infrastructure and facilities following future natural disasters due to use
+of resilient approaches to construction; (e) higher lifetime incomes of people benefiting from vocational training; and (f)
+more efficient delivery of water and sanitation services due to provision of capacity building support for water sector
+institutions. Currently available data allows for calculations of net present values (NPVs) and economic internal rates of
+return (EIRR) only for the investments in water supply infrastructure. All other benefits are described qualitatively.
+Additional benefits will be quantified as data becomes available.
+
+62.     Benefits of investments in climate-resilient water supplies are likely to be significant. An estimated 200,000
+people, in 40,000 households across the islands, are expected to gain access to improved drinking water supplies.
+Currently, it is assumed that one member of each household saves an average of 1.5 hours a day collecting water.
+
+▪       Capital and maintenance costs. A total of US$21 million will be spent to provide improved drinking water supplies. The
+annual cost for maintenance is estimated to be 5 percent of the capital cost over a period of 20 years.
+▪       Discount rate. A discount rate of 6 percent was used, in line with World Bank guidance. 20
+▪       Benefits. The main quantifiable benefits associated with access to improved water sources are time savings for
+households that now have access to piped water supplies close to their residences
+
+The main data and assumptions underlying the analysis are: (a) construction period begins in year 1 of the project and lasts two
+years, and (b) the benefits start to flow from year two and continue for 20 years.
+
+                   Table 1: Summary of the NPVs and EIRRs for drinking water investments under the project
+                    Base case        Scenario 1 (costs up   Scenario 2 (benefits     Scenario 3 (costs up by
+                                     by 10%)                down by 10%)             10% and benefits down
+                                                                                     by 10%)
+     NPV           US$20.2 million       US$16.5 million          US$14.5 million         US$10.8 million
+     EIRR           14.4 percent          12.4 percent            12.2 percent             10.2 percent
+
+GHG Accounting and Shadow Price of Carbon
+
+63.      A greenhouse gases accounting assessment estimated the project’s total carbon dioxide (CO 2) emissions over
+the 20-year evaluation period at 119,067 tons without the project and 16,530 tons with the project, resulting in total
+net CO2 emissions of -102,537 tons, corresponding to annual net emissions of -5,127 tons. The decrease in CO2 emissions
+is attributed to improvements in energy efficiency and reductions in the need to boil water for drinking.
+
+20
+     World Bank. “Discounting Costs and Benefits in Economic Analysis of World Bank Projects.” OPSPQ May 9, 2016.
+                            Official Use Only                                                                           Page 29
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+64.     The economic analysis incorporated the impact of the project on GHG emissions. That analysis used a social cost
+of carbon of US$61 per ton in 2027, increasing annually to reach US$92 per ton in 2046 for the Low Shadow Price of
+Carbon; and used a social cost of carbon of US$122 per ton in 2027, increasing to US$186 per ton in 2046 for the High
+Shadow Price of Carbon. The social cost of carbon is adopted based on the low and high scenarios derived from the 2017
+World Bank guidance note on the shadow price of carbon in economic analysis and adjusted to the 2022 Consumer Price
+Index (CPI).21
+
+65.    The total financial benefits from GHG emissions reductions during the economic life of the project are estimated
+to be US$1.8 million and US$2.4 million in the low and high SPC scenarios, respectively. These results have been
+incorporated in the economic analysis to calculate the NPV and EIRR. With the low-SPC scenario, the NPV of the project is
+US$20.8 million and IRR of 14.9 percent, in the high-SPC scenario the corresponding figures are US$21.56 million and 15.2
+percent, respectively. These figures represent a change between 3.2 to 6.5 percent in the NPV value and an increase
+between 0.3 to 0.5 percentage points in the IRR, compared to the NPV and IRR without consideration of the SPC.
+
+Nonquantifiable benefits
+
+66.      Non-quantifiable benefits of improving drinking water supply and sanitation are likely to be significant,
+indicating that the values presented in the table above are conservative. Access to improved drinking water sources
+results in reduced incidence of water-related diseases such as infectious hepatitis, cholera, and diarrhea, and reduced
+expenditures on bottled or tankered water. For society, healthier people are more likely to be more productive, pay higher
+taxes, and be happier. These in turn increase the prosperity of society as a whole and enhance social and political stability.
+Having access to enough water to meet one’s needs has important health benefits, as it allows people to drink more water,
+and wash hands, clothes, dishes, and surfaces more often. Improved access to drinking water also leads to increased value
+of residential and commercial property, and wider economic benefits. Finally, the construction and maintenance of water
+supply systems creates both short-term and long-term jobs.
+
+67.      Benefits of investments in climate-resilient improved sanitation are likely to be substantial. The project will
+support construction of public toilets in three busy urban areas, each serving about 300 people per day. Having access to
+better sanitation reduces illness, expenditure on health care, and lost time from work. The construction and maintenance
+of toilets create jobs. Well-managed and maintained public toilets can generate revenue for their operators. Finally, safe
+public toilets allow women and girls greater freedom and economic opportunity.
+
+68.      Benefits of using climate resilient infrastructure techniques are likely to exceed costs. Use of climate-resilient
+technologies in construction of water and sanitation systems will reduce the costs of repair and rebuilding following an
+extreme weather event. While requiring higher initial capital expenditures, lower costs of maintaining the infrastructure,
+including avoiding the need to reconstruct the facilities, over its 20-year design life are expected to significantly exceed
+the initial investment. Constructing resilient water supply networks also contributes to water security, by reducing the
+probability that the system is out of use due to damage from a natural event.
+
+69.     Increased lifetime income for people benefiting from vocational training. Some 1,000 members of water user
+associations will benefit from training in operations and maintenance of water systems. An estimated 100 individuals are
+expected to benefit from the vocational skills training. Studies undertaken by the World Bank show that by equipping
+youths with on-demand, practical skills, increases their employability and earn higher lifetime incomes.22 By aligning
+
+21 Shadow Price of Carbon in Economic Analysis Guidance Note; November 2017, World Bank. URL:
+
+https://thedocs.worldbank.org/en/doc/911381516303509498-0020022018/original/2017ShadowPriceofCarbonGuidanceNoteFINALCLEARED.pdf
+22 The World Bank. “Youth Unemployment and Vocational Training.” Background Paper for the World Development Report 2013.
+
+
+                        Official Use Only                                                                                 Page 30
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+education with labor market needs, they contribute to sustainable jobs. Finally, vocational training creates skilled
+technicians and operators crucial for operation and maintenance of the water and sanitation infrastructure.
+
+70.      More efficient delivery of water and sanitation services. Provision of capacity building support for water sector
+institutions is expected to lead to more responsive citizen engagement. It will also result in reduced non-revenue water,
+better billing and collection performance, therefore leading to higher revenues for SONEDE which can be used to support
+operations and maintenance and further investment in facilities.
+
+71.     Estimated more and better-paid jobs (MBJs). The estimation of MBJs was conducted through a three-step
+process, as outlined in the accompanying table. First, the project's net present value (NPV) was annualized to determine
+the total annual income generated from time savings attributed to improved WASH access. Second, the numeraire wage
+was calculated using both macroeconomic and micro-household data specific to Comoros. Finally, the annualized NPV was
+divided by the numeraire wage to estimate the number of MBJs created. The analysis suggests that the project will
+generate the equivalent of 1,357 additional and better-paid jobs each year. It is important to note that this figure is
+conservative, as the economic analysis did not account for all quantifiable benefits associated with enhanced drinking
+water supply and sanitation services.
+
+                 Table 2: Estimates of More and Better-Paid Jobs for MBJ Estimate for Comoros WASH MPA
+
+No       Variables                                                                                                   Values
+1        Net Present Value (NPV) in USD23                                                                         20,167,866
+2        Annualized NPV (18 years, discount rate 6%)                                                               1,758,327
+5        Comoros Gross Domestic Product (GDP) in 202524                                                        1,471,000,000
+6        Comoros, labor share of GDP                                                                                    0.41
+7        Labor income                                                                                            608,994,000
+8        Population of Comoros (2024)25                                                                              910,000
+9        Employment-to-population ratio                                                                               0.4875
+10       Number of workers                                                                                           443,625
+11       Income per worker                                                                                             1,373
+         More and Better-Paid Jobs (MBJs)                                                                              1,357
+
+ B. Fiduciary
+Financial management.
+
+72.     Overall, the Financial Management (FM) arrangements that are to be applied in managing the Project were
+assessed as adequate (will meet the World Bank’s minimum requirements under Bank Policy and Directive) and
+financial management residual risk was assessed as Moderate. The FM assessment was conducted26 to evaluate whether
+the project meets the minimum FM requirements as per Bank Policy and directives. The assessment was conducted at the
+Ministry of Energy, Water and Hydrocarbon (MEEH) level that will implement the project. The MEEH has recent experience
+in implementing World Bank-financed projects. The MEEH is implementing Comoros Solar Energy Access Project
+
+23 Result from the Economic and Financial Analysis of the project
+24 World Bank macro projections for Comoros in 2025
+25 World Bank WDI/Data360 reports
+26 The assessment was carried out in accordance with the Directives and Policy for IPFs issued on September 30, 2018 and the World Bank
+
+Guidance on FM in World Bank IPF Operations issued on February 28, 2017.
+                          Official Use Only                                                                                               Page 31
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+(P17764627) and Comoros National Water Resilience Project (P504691)28 with separate PIUs. The proposed PIU is the
+existing one implementing the Comoros National Water Resilience Project (P504691). MEEH is supported by qualified
+consultants for the implementation of the ongoing project. No major FM weaknesses were noted during the
+implementation, and the performance was deemed satisfactory, last supervision mission took place in November 2025.
+
+73.     To further improve the Project’s FM arrangements and to reduce the residual FM risk, the MEEH will (i) within
+two months after the effective date, develop the project operations manual (POM) with comprehensive FM procedures
+that addresses contract management, fixed assets management systems, PBC considerations, flow of funds and controls
+over compensations payment, (ii) within three months of the effective date, recruit an accountant to support the existing
+team based on TOR agreed with the World Bank, to perform the FM tasks related to the project, (iii) within six months
+after the effective date, recruit an independent agent to review the compensations statement prior to payment, as well
+as the effective payment processes of these compensations.
+
+74.      In addition, the following project FM arrangements will be considered for the project’s implementation. The
+MEEH will open two Designated Accounts (DA) denominated in KMF at an acceptable bank, to receive the project proceeds
+from the World Bank, with a separate account for performance-based conditions. The IDA funds (non PBCs related) will
+be disbursed on transaction basis using the following methods: reimbursement, advances, direct payments, and special
+commitments. The PIU will prepare quarterly unaudited interim financial reports (IFRs) including progress report of PBCs
+activities and provide such reports to the World Bank within 45 days of the end of each calendar quarter. The project
+financial statements will be audited annually by acceptable private external auditors recruited with agreed TOR no later
+than six months after the effective date. The project audit report will be submitted to the World Bank no later than six
+months after the end of each fiscal year.
+
+75.     Disbursements against PBCs. The allocated amount of the financing under PBCs will be disbursed through the
+achievement of PBCs. Once PBCs are achieved, verification will be performed based on the PBC verification protocol
+detailed in the POM. Verification of expenditures will be part of external audit intervention. Once the verification of PBC
+conditions and related eligible expenses is confirmed, the PBC allocation will be disbursed through direct payment into a
+dedicated account. The POM will include procedures related to the PBC and provide details on the entire process, from
+the identification of PBCs and their verification up to the point of payment. This includes but is not limited to reporting
+arrangements, supporting documentation to provide roles and responsibilities, verification protocols, and payment.
+Moreover, the POM section will detail what is considered as an eligible PBC expenditure and modalities for compliance
+with terms of the legal agreement.
+
+76.     Use of the World Bank platform FundsChain. As part of its commitment to enhancing transparency and
+accountability in project financing, the World Bank is offering borrowers and clients access to FundsChain, an innovative
+blockchain-based platform that optimizes real-time tracking of disbursements and complements existing financial
+management systems in support of digitization, transparency, and efficiency. The FundsChain platform has been
+introduced to the client and is available at no additional cost. The client is encouraged to adopt the platform, which can
+be customized to align with existing financial management systems and the project’s operational context.
+
+
+
+
+27 P177646 Comoros Solar Energy Access Project, 48 million USD, signed in June 2022 and effective in September 2022, 55 percent disbursed as of
+
+January 13, 2026, closing in May 2027
+28 P504691 Comoros National Water Resilience Project, 20 million USD, signed in July 2024 and effective in August 2024, 9 percent disbursed as of
+
+January 13, 2026, closing in June 2029
+                          Official Use Only                                                                                                Page 32
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Procurement
+
+77.     The project procurement risk is Substantial. The PIU has experience with the World Bank’s New Procurement
+Framework. The project will address any procurement capacity gaps by training the PIU’s procurement officers, who have
+already been involved in the implementation of the preceding similar Project. The World Bank procurement team will
+continue to provide coaching and continuous hands-on support to the PIU.
+
+78.     Procurement under the project will be guided (i) by the Procurement Regulations for IPF Borrowers’ seventh
+edition, September 2025; and (ii) by the World Bank’s Anti-Corruption Guidelines: ‘Guidelines on Preventing and
+Combatting Fraud and Corruption’ revised as of July 1, 2016, as well as provisions stipulated in the Financing Agreement.
+The project’s procurement manual will be set up and updated as necessary based on and in accordance with these
+documents.
+
+79.      All goods and non-consulting services will be procured in accordance with the requirements set forth or referred
+to in Section VI. Approved Selection Methods: Goods, Works and Non-Consulting Services of the Procurement Regulations
+mentioned above. All consulting services will be procured in accordance with the requirements set forth or referred to in
+Section VII. Approved Selection Methods: Consulting Services of the Procurement Regulations, as well as according to the
+PPSD and the Procurement Plan approved by the World Bank.
+
+80.     With World Bank guidance and support, the PPSD was developed during project preparation.
+
+81.     The PPSD and the project-level Procurement Plan covering the first twelve to eighteen months of project
+implementation was prepared and approved by the World Bank on February 10, 2026. The Procurement Plan specifies
+for each contract (a) a brief description of the activities/contract, (b) the selection methods and the market approach
+options to be applied, (c) the estimated cost, (d) time schedules, (e) the World Bank’s review requirements, and (f) any
+other relevant procurement information. Any updates of the Procurement Plan will be submitted for the World Bank’s
+approval with the corresponding update in the PPSD. The project will be using the World Bank’s online procurement
+planning and tracking tools, Systematic Tracking of Exchanges in Procurement (STEP), to prepare, clear, and update its
+Procurement Plan and to carry out all procurement transactions.
+
+ C. Legal Operational Policies
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+ Legal Operational Policies                                                          Triggered?
+ Projects on International Waterways OP 7.50                                         No
+ Projects in Disputed Area OP 7.60                                                   No
+
+
+
+
+                     Official Use Only                                                                            Page 33
+           The World Bank
+           Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+D. Environmental and Social
+
+82.       Environmental risk is rated as "Moderate." Overall, the project will bring positive development impacts with
+respect to people’s access to water improvement. Potential environmental risks and impacts are expected under
+Components 4, they are linked to the rehabilitation and the construction of water supply infrastructure for Grande
+Comores, Moheli, and Anjouan. Key anticipated direct, indirect, and cumulative risks and impacts associated with project
+activities will entail disruption of traffic in the project area due to trench excavation work to install drinking water
+distribution pipes, OHS risks for workers, community health and safety risks for communities around works sites, waste
+generation including reservoir sludge, risks related to chemical water treatment, risks of pollution, disturbance of aquatic
+habitats at water intake sites, inadequate wastewater management that can promote the proliferation of insects, risk of
+waterborne diseases if water distributed to communities is not well treated and stored appropriately in reservoirs, road
+safety concerns due to construction activities, waste generation including reservoir sludge, risks related to chemical water
+treatment, risks of pollution, inadequate wastewater management that can promote the proliferation of insects, risk of
+waterborne diseases if water distributed to communities is not well treated and stored appropriately in reservoirs. Risks
+to biodiversity and habitats are expected to be limited. The social risk rating has been classified as moderate, and the
+initial Sexual and Exploitation and Abuse and Sexual Harassmen SEA/SH risk screening as moderate. Project activities will
+have positive social impacts by improving people’s access to water. Potential adverse risks and impacts on the
+communities and population are likely to be temporary, site-specific, reversible, and could be mitigated. The expected
+social risks and impacts of the Project are mainly related to community health and safety risks associated with the
+expected civil works, including traffic accidents and other road safety risks, and the transmission of diseases such as STDs;
+labor risks, particularly as they relate to the potential discrimination of workers, especially of migrant workers, as well as
+the risk of child labor and unfair working conditions; risks associated with the intensification of SEA/SH, particularly
+considering that some interventions may require the engagement of foreign companies / workers with specializations not
+available at the local labor market; potential land acquisition and access restrictions, which could lead to economic
+displacement and disruption to livelihoods, with probably physical displacement even considered limited; and risk of elite
+capture of project benefits. Activities under components 1, 2 and 3 are not expected to lead to significant adverse risks
+and impacts. The risk rating takes into account the capacity of stakeholders involved in project, especially the Ministry
+responsible for the water sector, SONEDE and Comorian Environmental authorities to manage potential environmental
+and social risks and impacts and to implement ESF. The project will be managed with existing PIU who already have
+Environmental specialist, and Social specialist to manage E&S risk management of the project. The World Bank team will
+provide training on the standards of the World Bank’s new Environment and Social Framework during implementation to
+strengthen the Borrowers capacity to develop and implement environmental and social (E&S) measures. The Borrower
+has prepared appropriate assessments to manage the environmental and social risks. The Project’s Stakeholder
+Engagement Plan (SEP) was disclosed in-country on February 3, 2026 and on the World Bank’s website on March 6, 2026,
+while the Environmental and Social Commitment Plan (ESCP) and the Labour Management Procedures (LMP) were
+disclosed in-country and on the World Bank’s website on March 13, 2026. The outcome of the E&S assessments will be
+considered in the design and implementation of project activities, and no activities or bidding processes will commence
+before the appropriate assessments and mitigation measures are in place. The project will use the existing Labor
+Management Procedures and Resettlement Framework developed under the CNWRP. As the nature of activities are
+similar it is proposed that the project will update and use also the existing SEAH action plan developed under the CNWRP.
+
+83.     Data protection. Comoros has a national Personal Data Protection law which sets out core principles such as
+lawfulness, fairness, and purpose limitation29. The nation is also a signatory to the African Union Convention on Cyber
+Security and Personal Data Protection (Malabo Convention), which sets regional standards for data protection. In the
+context of the project, large volumes of personal and sensitive data may be collected and used in ways not yet fully
+
+29
+     https://justice.gouv.km/texte/loi-du-26-juin-2014-portant-protection-des-donnees-a-caractere-personnel/
+                            Official Use Only                                                                          Page 34
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+governed by national law or routinely managed within social and health information systems. To guard against data abuse,
+the project will incorporate good international practices, including data minimization (collecting only what is necessary),
+data accuracy (correcting or erasing unnecessary or inaccurate data), use limitations (restricting use to legitimate
+purposes), data retention limits, transparent notices to data subjects, and opportunities for data subjects to correct
+information. Practically, these principles will be applied through assessing and strengthening data standards for water
+supply, establishing data-sharing protocols, rules or regulations, training, sharing global experience, and defining unique
+identifiers for water supply clients.
+
+84.      Gender. Institutional patterns within SONEDE show limited female representation in technical and higher-level
+positions, indicating constraints in upward mobility. There is equally limited training and mobility pipeline for women,
+with the absence of core gender-supportive policies and mentorship programs constraining retention and advancement.30
+Promotion data show a persistent imbalance: women accounted for only 10 of 32 promotions in 2024 and 8 of 27
+promotions in 2025 (approximately 30 percent). National data on women’s representation in leadership positions in
+Comoros are scarce. Regional comparators indicate low female representation, with women accounting for about 29
+percent of senior and middle management positions in Madagascar and 27 percent in Tanzania. In Comoros, the only
+available proxy – women holding 16.7 percent of parliamentary seats – likewise suggests structural constraints in women’s
+access to leadership, reinforcing the need to address advancement barriers within SONEDE. Institutional data from
+SONEDE indicate that this imbalance is driven by: (a) absence of structured and targeted training pathways for women;
+(b) lack of formally documented, merit-based promotion procedures; and (c) advancement and length of service are tied
+to professional cadre status, which requires formal qualifications and certifications that women have had limited access
+to. To address these drivers, the project will support: (a) formal documentation and publication of transparent, merit-
+based promotion criteria; (b) establishment of a structured review mechanism to ensure promotion decisions are
+consistent with documented criteria and principles of equity; (c) annual sex-disaggregated tracking and reporting of
+promotion outcomes; (d) review and clarification of the skills, qualifications, and certification requirements for
+advancement and cadre mobility; (e) dedicated access for qualified female staff to certification and training required for
+higher-grade positions and cadre progression; and (f) development and adoption of a SONEDE Gender Strategy that
+institutionalizes equitable career progression and monitoring mechanisms.
+
+85.     Citizen engagement. The project will build on existing mechanisms to strengthen two-way communication
+between SONEDE and service users, with the objective of improving service delivery and institutional accountability. Rural
+water committees will be formalized and strengthened to act as community liaison platforms, facilitate feedback on
+service performance, and support referral of grievances through established channels. Women’s meaningful participation
+and leadership in these committees will be promoted to ensure inclusive local governance. At the utility level, complaint
+management systems will be strengthened through improved tracking, standard operating procedures, and quarterly
+monitoring of performance against the 72-hour resolution target.
+
+86.      Climate Co-benefits. The project is rooted in the need to address climate-related risks through a multiscale
+approach, by integrating the need to adapt to increasing climate change impacts across the project’s components and
+subcomponents. The project integrates activities that will contribute to Comoros’ adaptation to various climate change
+vulnerabilities (particularly floods, drought, and sea-level rise), and thus climate co-benefits will result from, among others:
+(i) drought and flood resilience measures through water source protection and increased storage solutions to help cope
+with more frequent and intense climate extremes; and (ii) strengthened institutional level capacity to plan and respond
+to increasing climate shocks.
+
+
+30 Equal Aqua 2024 : Résultats de l’enquête sur l’égalité des sexes en matière de RH
+
+
+
+
+                          Official Use Only                                                                              Page 35
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+
+
+ V. GRIEVANCE REDRESS SERVICES
+
+
+87.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed to address project-
+related concerns. Project affected communities and individuals may submit their complaint to the Bank’s independent
+Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm occurred, or could
+occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute Resolution Service, which
+provides communities and borrowers with the opportunity to address complaints through dispute resolution. Complaints
+may be submitted to the AM at any time after concerns have been brought directly to the attention of Bank Management
+and after Management has been given an opportunity to respond. For information on how to submit complaints to the
+Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how to submit
+complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+ VI. KEY RISKS
+
+88.      The overall risk of the proposed project is Substantial. The most significant risks to the project are linked to the
+institutional capacity for implementation and sustainability of project investments, Political and Governance and
+Stakeholder risks due to the operating context, data protection under unclear governance, and fiduciary aspects. These
+risks are expected to decline with mitigation measures currently ongoing under CNWRP.
+
+89.      Institutional capacity for Implementation and sustainability risk is Substantial. Given the still fragmented nature
+of the WASH sector pending the creation and operationalization of DGEAH; a new regulatory agency that is yet to be fully
+functional and the ongoing financial and operational challenges faced by SONEDE, there are substantial risks for both
+implementation and sustainability of investments. In the long term, however, technical assistance to the various
+institutions will strengthen the long-term sustainability of the associated project investments for improved service
+delivery. These measures are expected to strengthen institutional performance and improve service delivery.
+
+90.      Political and Governance risk is rated Substantial, reflecting the country's fragile, small island state context, which
+is characterized by fragmented sector governance, weak institutional capacity, limited private sector presence, and
+potential political resistance to tariff and regulatory reform. To mitigate these risks, Performance-Based Conditions (PBCs)
+will incentivize critical institutional milestones — including the operationalization of the national water directorate and
+the adoption of a national tariff strategy — while dedicated support to the regulatory agency (ARSEE) will strengthen
+sector oversight.
+
+91.      Stakeholder risk is rated Substantial, driven by community-level risks that include elite capture in the
+management of rural water systems and the underrepresentation of women in formal water governance roles. To address
+these risks, multi-level grievance redress mechanisms and structured annual community engagement sessions will ensure
+inclusive participation and accessible recourse, with targeted measures to promote women's leadership in water
+governance throughout project implementation.
+
+92.     Fiduciary risk is Substantial. Potential risks relate to weak FM capacity, lack of transparency and accountability in
+the use of public funds and low performance monitoring system. The project will use the existing PIU under the CNWRP.
+Though the PIU is already established, training on implementation of World Bank-financed projects remains ongoing.
+                      Official Use Only                                                                                  Page 36
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Continued regular capacity building, close monitoring and support from the World Bank will be applied as a mitigation
+measure. Fiduciary risk is mainly attributed to risk in procurement.
+
+
+
+
+                    Official Use Only                                                                          Page 37
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+
+                                                               VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                                                   Closing Period
+   Increase access to climate-resilient drinking water supply, sanitation and hygiene services in Comoros, and strengthen sector governance
+   Number of people with access to water supply services (Number)
+   Jun/2026                                                                                   Mar/2031
+   0                                                                                          200,000
+     ➢Disaggregated by gender, youth, and sub sector (percentage basic and safely managed) (Percentage)
+   Jun/2026                                                                                   Mar/2031
+   0                                                                                          50
+   Number of people with access to sanitation services (Number)
+   Jun/2026                                                                                   Mar/2031
+   0                                                                                          900
+     ➢Disaggregated by Disaggregated by gender, youth, and sub sector (rural-urban) and level of service (percentage basic and safely managed) (Number)
+   Jun/2026                                                                                   Mar/2031
+   0                                                                                          450
+   Number of beneficiaries with enhanced resilience to climate risks (Number)
+   Jun/2026                                                                                   Mar/2031
+   0                                                                                          200,900
+     ➢disaggregated by gender, youth, of which people benefiting from climate-resilient infrastructure (Number)
+   Jun/2026                                                                                   Mar/2031
+   0                                                                                          100,450
+   Strengthened sector governance measured through operationalization of the new water regulator and preparation, adoption and publication of new tariff strategy (Yes/No)
+   Jun/2026                                                                                   Mar/2031
+   No                                                                                         Yes
+
+
+
+
+                                                                                                                                                                             Page 38
+
+
+                                                                                                                                                                       Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Intermediate Indicators by Components
+
+   Baseline                                                                                Closing Period
+   Component 1: Strengthening Platforms to Accelerate Access to WASH
+   National WASH platform operational (Yes/No)
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   National investment plan for the water and sanitation sector prepared and validated (Yes/No)
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   Component 2: Advancing Reforms, Governance, and Regulation
+   Regulator critical staff appointed (Yes/No) PBC
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   Adoption and publication of Tariff Strategy (Yes/No) PBC
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   Key ministry staff receive professional certification (Yes/No)
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   Decree establishing DGEAH approved and published (Yes/No) PBC
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   DGEAH key staff appointed (Yes/No) PBC
+   Jun/2026                                                                                Mar/2031
+   No                                                                                      Yes
+   Change in share of women among total annual promotions within SONEDE (Percentage)
+   Jun/2026                                                                                Mar/2031
+   30                                                                                      40
+   Component 3: Improving Service Delivery Performance
+   Curriculum for vocational training courses developed under the project (Yes/No)
+   Jun/2026                                                                                Mar/2031
+
+
+
+
+                                                                                                                Page 39
+
+
+                                                                                                            Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+   No                                                                                   Yes
+   At least one structured community engagement session conducted annually in each project-supported area and relevant feedback integrated in implementation (Yes/No)
+   Jun/2026                                                                             Mar/2031
+   No                                                                                   Yes
+   Behaviour Change Communications Campaign developed and implemented (Yes/No)
+   Jun/2026                                                                             Mar/2031
+   No                                                                                   Yes
+   Component 4: Increasing Access to Climate-Resilient WASH Infrastructure
+   New household connections as a result of the project (Number)
+   Jun/2026                                                                             Mar/2031
+   0                                                                                    10,000
+   New community water points constructed under the project (Number)
+   Jun/2026                                                                             Mar/2031
+   0                                                                                    375
+   Ablution blocks constructed under the project (Number)
+   Jun/2026                                                                             Mar/2031
+   0                                                                                    3
+   Study to improve solid waste management completed (Yes/No)
+   Jun/2026                                                                             Mar/2031
+   No                                                                                   No
+   People benefitting from climate-resilient infrastructure under the Project (Number)
+   Jun/2026                                                                             Mar/2031
+   0                                                                                    200,900
+   Component 5: Project management
+   Component 6: Contingent Emergency Response Component (CERC)
+
+
+Performance-based Conditions (PBC)
+
+   Period                                                                                Period Definition
+   Period 1                                                                              One (1) year after effective date
+   Period 2                                                                              Two (2) years after effective date
+   Period 3                                                                              Three (3) years after effective date
+
+
+
+
+                                                                                                                                                                        Page 40
+
+
+                                                                                                                                                                    Official Use Only
+     The World Bank
+     Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Baseline                                      Period 1               Period 2                         Period 3
+1:Regulator critical staff appointed (Yes/No )
+No                                            Yes
+0.00                                          200,000.00             0.00                             0.00
+PBC allocation                                200,000.00             As a % of Total PBC Allocation   20%
+2:Adoption and publication of Tariff Strategy (Yes/No )
+No                                                                                                    Yes
+0.00                                          0.00                   0.00                             300,000.00
+PBC allocation                                300,000.00             As a % of Total PBC Allocation   30%
+3:Decree establishing DGEAH approved and published (Yes/No )
+No                                            Yes
+0.00                                          250,000.00             0.00                             0.00
+PBC allocation                                250,000.00             As a % of Total PBC Allocation   25%
+4:DGEAH key staff appointed (Yes/No )
+No                                                                   Yes
+0.00                                          0.00                   250,000.00                       0.00
+PBC allocation                                250,000.00             As a % of Total PBC Allocation   25%
+
+
+
+
+                                                                                                                       Page 41
+
+
+                                                                                                                   Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+Subcomponent 4A: Climate resilient water supply infrastructure for Grande Comores, Moheli, and Anjoun
+Increase access to climate-resilient drinking water supply
+                         Number of people with access to water supply services. Disaggregated by gender, youth,
+Description              and subsector (percentage basic and safely managed). Each household connection serves five people, each
+                         community water point serves 400 people.
+Frequency                Quarterly
+Data source              Construction supervision reports and SONEDE
+Methodology for
+                         SONEDE to maintain records of household connections and operations of standpipes
+Data Collection
+Responsibility for
+                         PIU
+Data Collection
+
+
+Subcomponent 4B: Climate-resilient improved sanitation and solid waste management
+Increase access to sanitation and hygiene services
+                            Number of people with access to sanitation services. Disaggregated by gender, youth, and sub sector (rural-urban) and
+Description
+                            level of service (percentage basic and safely managed). Each ablution block serves 300 people per day
+Frequency                   Quarterly
+Data source                 Construction supervision reports and SONEDE
+Methodology for Data
+                            SONEDE to maintain records of operations of ablution blocks
+Collection
+Responsibility for Data
+                            PIU
+Collection
+
+
+Subcomponent 4B: Climate-resilient improved sanitation and solid waste management
+Climate resilient water supply and sanitation infrastructure
+                         Number of people with access to sanitation services. Disaggregated by gender, youth, and sub sector (rural-
+Description              urban) and level of service (percentage basic and safely managed). Each ablution block serves 300 people per
+                         day
+Frequency                Quarterly
+Data source              Construction supervision reports and SONEDE
+Methodology for
+                         SONEDE to maintain records of operations of ablution blocks
+Data Collection
+Responsibility for
+                         PIU
+Data Collection
+
+
+Component 4: Increase access to climate-resilient drinking water supply, sanitation, and hygiene services
+Increase access to sanitation and hygiene services
+Description              Number of people with access to water supply, sanitation, and hygiene services
+Frequency                Quarterly
+Data source              Construction supervision reports and SONEDE
+Methodology for
+                         SONEDE to maintain records of water supply and sanitation services
+Data Collection
+Responsibility for
+                         Construction supervision reports and SONEDE
+Data Collection
+
+
+Subcomponent 2A: Support for the operationalization and capacity building of the newly created regulatory agency
+Strengthen sector governance
+Description            Regulator operational and a tariff-setting strategy adopted and published
+Frequency              Quaterly
+
+
+                                                                                                                                           Page 42
+
+
+                                                                                                                                   Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Data source            Information from the regulator, website
+Methodology for
+                       Discussion
+Data Collection
+Responsibility for
+                       PIU
+Data Collection
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+                                         Component 1: Strengthening Platforms to Accelerate Access to WASH
+National WASH platform operational
+Description                 WASH Platform established and operational
+Frequency                   Quarterly
+Data source                 Progress reports
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+National investment plan for the water and sanitation sector prepared
+Description                 National investment plan for the water and sanitation sector prepared
+Frequency                   Quarterly
+Data source                 Progress reports
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+                                            Component 2: Advancing Reforms, Governance, and Regulation
+Regulator critical staff appointed
+Description                 Key staff appointed
+Frequency                   Quarterly
+Data source                 Progress reports
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+Adoption and publication of Tariff Strategy
+Description                 Tariff strategy adopted and published
+Frequency
+Data source                 Minutes, website
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+Decree establishing DGEAH approved and published
+Description                 Approval of decree establishing DGEAH and publication
+Frequency
+Data source                 Decree, Gazettement
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+DGEAH key staff appointed
+Description                 Key officials appointed
+Frequency
+
+
+
+                                                                                                                   Page 43
+
+
+                                                                                                             Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Data source                 Ministry
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+Key ministry staff receive professional certification
+Description                 Key staff of the ministry receive professional certification
+Frequency                   Quarterly
+Data source                 Progress reports
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+Change in share of women among total annual promotions within SONEDE
+Description                 Share of women among total annual promotions
+Frequency                   Quarterly
+Data source                 SONEDE
+Methodology for Data        “Promotion” is defined as a formal upward change in in grade, salary scale, managerial responsibility, or professional
+Collection                  cadre status within SONEDE’s human resources classification system
+Responsibility for Data
+                            PIU
+Collection
+                                                 Component 3: Improving Service Delivery Performance
+Curriculum for vocational training courses developed under the project
+Description                 Curriculum for vocational training courses developed
+Frequency                   Quarterly
+Data source                 Progress reports
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+Behavior change communications campaign developed and implemented
+                            Behavior change communications campaign developed and implemented. Implementation includes messages in
+Description
+                            newspapers and on television and other activities identified as part of the campaign
+Frequency                   Quarterly
+Data source                 Progress reports
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU
+Collection
+At least one structured community engagement session conducted annually in each project-supported are and relevant feedback integrated in
+implementation
+Description                 Citizen engagement indicator
+Frequency                   Annual
+Data source                 PIU
+Methodology for Data
+                            Discussions with the PIU
+Collection
+Responsibility for Data
+                            PIU, with input from SONEDE
+Collection
+                                      Component 4: Increasing Access to Climate-Resilient WASH Infrastructure
+New household connections as a result of the project (Number)
+Description                 New household connections as a result of the project (Number)
+Frequency                   Quarterly
+Data source                 Reports from the supervising engineers on construction progress and SONEDE on connections
+Methodology for Data        Reports as noted above
+
+
+
+                                                                                                                                              Page 44
+
+
+                                                                                                                                      Official Use Only
+        The World Bank
+        Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+Collection
+Responsibility for Data
+                           PIU
+Collection
+New community water points constructed under the project (Number)
+Description                New community water points constructed
+Frequency                  Quarterly
+Data source                Reports from the supervising engineers on construction progress and SONEDE on connections
+Methodology for Data
+                           Reports as noted above
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Ablution blocks constructed under the project
+Description                Ablution blocks constructed under the project
+Frequency                  Quarterly
+Data source                Reports from the supervising engineers on construction progress and SONEDE on connections
+Methodology for Data
+                           Reports as noted above
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Study to improve solid waste management prepared
+Description                Study to improve solid waste management prepared
+Frequency                  Quarterly
+Data source                Consultant reports
+Methodology for Data
+                           Review of the consultant reports
+Collection
+Responsibility for Data
+                           PIU
+Collection
+People benefiting from climate resilient infrastructure constructed under the project (Number)
+Description                Climate indicator
+Frequency                  Quarterly
+Data source                Reports from the supervising engineers on construction progress and SONEDE on connections
+Methodology for Data
+                           Reports as noted above
+Collection
+Responsibility for Data
+                           PIU
+Collection
+
+
+
+
+                                                                                                                             Page 45
+
+
+                                                                                                                       Official Use Only
+         The World Bank
+         Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                                            Annex 1: Verification Protocol for Performance Based Conditions
+Overview
+The project includes four Performance-Based Conditions (PBCs) under Component 4A, designed to incentivize governance reforms and institutional
+milestones in the WASH sector. A total of US$1,000,000 is allocated to these PBCs. Disbursement is contingent upon verified achievement of each PBC, as
+documented by the Project Implementation Unit (PIU) and confirmed by the World Bank Task Team.
+
+ #           PBC                Definition / Description of Achievement         Protocol to Evaluate         Protocol to Evaluate           Protocol to Evaluate Achievement
+                                                                                Achievement (Data               Achievement                            (Procedure)
+                                                                                       Source)               (Verification Entity)
+ 1   Regulator (ARSEE)        The Agence de Régulation des Secteurs de         Signed Arrêté from         Project Implementation      1. PIU collects signed Arrêté from MEEH
+     critical         staff   l'Énergie et de l'Eau (ARSEE), has had its       the     Minister      of   Unit (PIU) under the        published in the official gazette 2. The PIU
+     appointed                Directorate General formally staffed.            Energy, Water and          MEEH, with review and       notifies the World Bank Task Team of the
+     (US$200,000         —    Achievement requires the appointment of at       Hydrocarbons               confirmation by the World   achievement and submits the documentary
+     Target: One year         least four key positions.                        (MEEH) published in        Bank Task Team.             evidence. 3. The World Bank Task Team reviews
+     after effective date)                                                     the official gazette.                                  the submitted documentation to confirm that
+                                                                                                                                      the minimum required staff positions have
+                                                                                                                                      been filled and that appointments are formally
+                                                                                                                                      valid. 4. Upon confirmation, the World Bank
+                                                                                                                                      authorizes disbursement of the allocated
+                                                                                                                                      amount.
+ 2   Adoption         and     ARSEE has formally adopted and published a       Arrêté adopting the        Project Implementation      1. Upon adoption of the Tariff Strategy, the PIU
+     publication of a         Tariff Strategy for the water and sanitation     strategy published in      Unit (PIU) under MEEH,      collects documentary evidence of the formal
+     Tariff Strategy by       sector. Achievement requires that the            Official Gazette and       with      review     and    adoption (Arrêté) and confirms public
+     ARSEE (US$300,000        strategy is: (1) approved by ARSEE through an    ARSEE          official    confirmation by the World   availability (a working URL to ARSEE website
+     — Target: Three          official regulatory decision; (2) submitted to   website.                   Bank Task Team.             and Official Gazette). 2. The PIU notifies the
+     years after effective    the Council of Ministers for validation (3)                                                             World Bank Task Team of the achievement and
+     date)                    Adopted by the Arrêté of the Minister (MEEH)                                                            provides the relevant documentation, including
+                              (4). Published in the Official Gazette, the                                                             copies of the adopted strategy and link to
+                              ARSEE website.                                                                                          publicly available documents and official
+                                                                                                                                      gazette. 3. The World Bank Task Team reviews
+                                                                                                                                      the submitted documentation to confirm that
+                                                                                                                                      the strategy has been formally adopted and is
+
+
+                                                                                                                                  Page 46
+
+
+                                                                                                                                                                    Official Use Only
+       The World Bank
+       Comoros - Accelerated Access to Water, Sanitation and Hygiene (WASH) MPA (P514166)
+
+
+                                                                                                                                  publicly accessible. 4. Upon confirmation, the
+                                                                                                                                  World Bank authorizes disbursement of the
+                                                                                                                                  allocated amount.
+3   Decree establishing     The Government of the Union of Comoros has     Signed          decree     Project Implementation      1. Upon approval and publication of the decree,
+    DGEAH       approved    formally approved and published in the         published in the           Unit (PIU) under MEEH,      the PIU collects a copy of the signed decree and
+    and         published   official gazette, a decree establishing the    Official Gazette.          with      review     and    the Official Gazette. 2. The PIU notifies the
+    (US$250,000         —   Direction Générale de l'Eau et de                                         confirmation by the World   World Bank Task Team of the achievement and
+    Target: One year        l'Assainissement et de l'Hygiène (DGEAH) as                               Bank Task Team.             submits the documentary evidence, including a
+    after effective date)   the national entity responsible for WASH                                                              copy of the published decree in the official
+                            sector policy formulation, coordination, and                                                          gazette. 3. The World Bank Task Team reviews
+                            planning.                                                                                             the submitted documentation to confirm the
+                                                                                                                                  decree has been duly approved and published,
+                                                                                                                                  granting DGEAH its legal mandate. 4. Upon
+                                                                                                                                  confirmation, the World Bank authorizes
+                                                                                                                                  disbursement of the allocated amount.
+4   DGEAH key staff         Following the legal establishment of the       Signed Arrêté from         Project Implementation      1. . PIU collects signed Arrêté from MEEH
+    appointed with clear    DGEAH, at least 3 key officials of the         the     Minister      of   Unit (PIU) under MEEH,      published in the official gazette 2. The PIU
+    mandates                Directorate General have been formally         Energy, Water and          with      review     and    notifies the World Bank Task Team of the
+    (US$250,000         —   appointed. Achievement requires that key       Hydrocarbons               confirmation by the World   achievement and submits the documentary
+    Target: Two years       DGEAH leadership and technical positions are   (MEEH) published in        Bank Task Team.             evidence. 3. The World Bank Task Team reviews
+    after effective date)   filled through official appointment.           the official gazette.                                  the submitted documentation to confirm that
+                                                                                                                                  the minimum required staff positions have
+                                                                                                                                  been filled and that appointments are formally
+                                                                                                                                  valid. 4. Upon confirmation, the World Bank
+                                                                                                                                  authorizes disbursement of the allocated
+                                                                                                                                  amount.
+
+
+
+
+                                                                                                                              Page 47
+
+
+                                                                                                                                                                Official Use Only
+

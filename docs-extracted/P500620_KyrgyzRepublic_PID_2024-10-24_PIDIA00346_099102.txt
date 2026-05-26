@@ -1,0 +1,530 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                 Project Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                                Appraisal Stage | Date Prepared/Updated: 24-Oct-2024 | Report No: PIDIA00346
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                      Operation ID                  Operation Name
+                                                                                         Kyrgyz Republic: Water
+Kyrgyz Republic, Kyrgyz        EUROPE AND CENTRAL                                        Supply and Sanitation
+                                                           P500620
+Republic                       ASIA                                                      Universal Access Program-
+                                                                                         1 Project
+Financing Instrument           Estimated Appraisal Date    Estimated Approval Date       Practice Area (Lead)
+Investment Project
+                               14-Oct-2024                 19-Dec-2024                   Water
+Financing (IPF)
+Borrower(s)                    Implementing Agency
+                               State Institution for the
+                               Development of Drinking
+Kyrgyz Republic
+                               Water Supply and
+                               Wastewater Disposal
+
+Proposed Development Objective(s)
+The project development objective (PDO) is to increase access to water supply and sanitation services and improve the
+service delivery capacity in selected areas of the Kyrgyz Republic.
+
+Components
+Water Supply Investments
+Sanitation Development
+Performance-Based Service Improvement Program
+MPA Program Structuring and Management and Institutional Development Support
+Contingent Emergency Response
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  Yes
+Is this project Private Capital Enabling (PCE)?            Yes
+
+SUMMARY
+  Total Operation Cost                                                                                          165.00
+
+
+
+                                                                                                                   Page 1
+        The World Bank
+        Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+
+    Total Financing                                                                                              165.00
+                of which IBRD/IDA                                                                                 86.00
+    Financing Gap                                                                                                   0.00
+
+ DETAILS
+   World Bank Group Financing
+      International Development Association (IDA)                                                                 86.00
+        IDA Credit                                                                                                78.50
+        IDA Shorter Maturity Loan (SML)                                                                             7.50
+   Non-World Bank Group Financing
+      Other Sources                                                                                               70.00
+        Asian Infrastructure Investment Bank                                                                      50.00
+        OPEC FUND                                                                                                 20.00
+      Trust Funds                                                                                                   9.00
+        Trust Funds                                                                                                 9.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+Substantial
+
+
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+ B. Introduction and Context
+ Country Context
+
+1. The Kyrgyz Republic is a lower-middle-income country with strong but volatile economic growth. Over the last
+20 years, the country's economic growth pattern has been uneven, with an average Gross Domestic Product growth rate
+of 3.13 percent. A third of the 7.1 million inhabitants live below the poverty line.1 Although the economic growth reached
+6.3 percent in 2022 (much stronger than expected), driven by gold production, agriculture, and the services sector, the
+country growth forecast is less optimistic, with a moderate 4 percent in 2024 and persistent vulnerability to market
+fluctuations and external shocks due to the economy's heavy dependence on resource-based commodities and
+
+
+1 https://data.worldbank.org/indicator/SI.POV.NAHC?locations=KG
+
+
+
+                                                                                                                      Page 2
+        The World Bank
+        Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+remittances. The country's development objectives outlined in the National Development Strategy 2018-20402 aspire to
+a strong, self-sufficient, and developed state by 2040.
+2. The country's economy is highly vulnerable to climate change and heavily dependent on climate-sensitive sectors.
+The water, energy, and agricultural sectors are the most vulnerable to climate change and face a wide variety of natural
+and climate-related hazards, such as droughts, floods, and mudslides. The country ranked 52nd in German Watch's annual
+Climate Risk Index, and the most at-risk country in the Central Asia region,3 and urgently needs a strategic approach toward
+climate adaptation and resilience. Climate vulnerability disproportionally affects the poor and vulnerable, with women
+and children being at the highest risk, especially in rural areas, due to limited access to essential services. Climate change
+will also increase sanitation-related risks to public health and, with floods and droughts expected to become more intense
+and frequent, will exacerbate the spread and transmission of water-related diseases through increased exposure to flood
+waters contaminated with poorly managed sewage.
+3. The infrastructure and services deficit is hindering the Kyrgyz Republic's development. The country's infrastructure
+quality is relatively poor compared to its regional peers.4 While there has been an increase in investments, leading to
+universal access to electricity5 and significant improvements in water and transport coverage, quality of services remains
+a major challenge, particularly in rural areas. Water and sanitation investments have historically lagged behind, at one
+percent of the total country investments compared to 54 percent in energy and 39 percent in transport projects (between
+2000 and 2018). Although the country's development strategy strongly focuses on infrastructure financing, more
+investments are needed in climate-vulnerable sectors.
+4. The country's economic transformation and growth requires a higher investment efficiency and a greater focus on
+institutions. The country’s vision and development objectives are generally inclusive and largely reformist. However, the
+country's development strategy remains vulnerable to political instability and social unrest. Future development would
+require a shift from the current drivers of growth into new, more inclusive, and sustainable sources, such as energy, water,
+and agricultural resources. However, these sectors suffer from policy uncertainty and institutional capacity gaps that
+further encroach into the limited fiscal space with subsidized utilities and services. Thus, stronger institutions, a stable
+regulatory environment, and robust tariff policies are among the key reforms needed to increase investment financing
+efficiency and harness the transformative potential of infrastructure and services.
+ Sectoral and Institutional Context
+5. Water supply and sanitation (WSS) are essential enablers of socio-economic growth and human capital in the Kyrgyz
+Republic. Access to WSS is an important contributor to health and education outcomes in the country. Poor access to
+water supply has been associated with intestinal helminth and protozoa infections,6 and global studies indicate that at
+least 60 percent of diarrheal deaths are associated with poor access to water, sanitation, and hygiene (WASH). 7 Further,
+access to WSS is among the key factors affecting children's retention in schools, particularly during winter in rural
+settlements, where extremely low temperatures prevent children from accessing outside toilets and handwashing
+facilities.
+6. The country has made substantial progress in increasing access to WSS in the past two decades. With an estimated
+90.8 percent access to basic water services, the absolute number of unserved people decreased by more than two-thirds
+between 2000 and 2022, due to the persistent water supply infrastructure investments, including in the enabling policies,
+
+
+2 Kyrgyz Republic. 2018. National Kyrgyz Republic Development Strategy
+3 https://www.germanwatch.org/sites/germanwatch.org/files/Global%20Climate%20Risk%20Index%202019_2.pdf
+4 Sustainable Infrastructure for Low-Carbon Development in Central Asia and the Caucasus: Hotspot Analysis and Needs Assessment. 2022. OECD.
+5 Multiple Indicator Cluster Survey. 2019. National Statistical Committee of Kyrgyz Republic
+6 https://www.sciencedirect.com/science/article/abs/pii/S0001706X10001816
+7 https://www.sciencedirect.com/science/article/pii/S1438463918310484
+
+
+
+                                                                                                                                         Page 3
+        The World Bank
+        Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+institutions, and regulations (PIR). Between 2001 and 2013, the Government of the Kyrgyz Republic (GoKR) implemented
+the Taza-Suu Rural Water Supply Program with support from the World Bank,8 Asian Development Bank (ADB), and the
+Department for International Development of the United Kingdom. As a result, a cumulative 80 percent of the 1,819
+villages in the country are now served with functioning water systems, though some expansion is needed. Similar trends
+have been observed in access to basic sanitation, currently at 92.6 percent.9 These access improvements have led to
+notable progress in public health: according to the Multiple Indicator Survey Cluster Snapshot of 2018, there has been a
+steady decline in the infant and child mortality rate under five years old (from 28 to 20 deaths per 1,000 children) since
+2000, which is highly correlated to WSS access. Thus, further investments and universal access to WSS have the potential
+to significantly reduce the burden of public health disease on human capital and the country's economy.
+7. In parallel, the GoKR carried out a series of capacity-building activities and pilots to enhance the PIR, with extensive
+technical support from the World Bank. At the policy level, the Water Code was enacted in 2005, the Program for
+Development of Drinking WSS Systems for Populated Localities (PDDWSSSPL) until 2026 was developed, and the design
+norms and standards (‘SNiPs) were updated in 2023 to better align the sector's institutional framework with the local
+government structures, promote quality infrastructure development, and enhance WSS service delivery efficiency and
+cost recovery. Further, a rural WSS information system (SIASAR) was introduced, and extensive training programs were
+implemented through multiple investment projects, targeting key sector institutions at the central and local levels, with
+more than 1,000 sector professionals trained over the last ten years.
+8. However, the lack of reliability and the low quality of services remains challenging, particularly in rural areas. Poor
+infrastructure performance, low tariffs, and operational inefficiency significantly affect WSS service quality and
+sustainability. Though addressing the access gap, most of the sector investments are not transformed into sustainable
+services but enter into a recurrent cycle of reinvestment, requiring significant repairs and replacements, particularly in
+small towns and rural areas. Data from SIASAR indicate that less than one-third of WSS service providers (municipal or
+community-led) are fully operational, and only nine percent are financially sustainable.10 Recently established municipal
+water enterprises (MWEs) perform better than the community drinking water user unions (CDWUUs) but struggle with
+poor service management due to the lack of qualified staff and high turnover. Further, due to the low tariffs and low
+willingness to pay for services, the operators' balance sheet in most villages is characterized by high volumes of debt and
+uncollected arrears from unpaid water bills. This situation is exacerbated by the lack of metering, which leads to poor
+water consumption practices. As a result, infrastructure performance is relatively low, with high non-revenue water (NRW)
+(above 50 percent) and related poor water and service quality.
+9. The situation with sanitation is dire, and the official figures mask prevailing service access limitations. In rural areas,
+pit latrines and septic tanks are the most common containment solutions and fall primarily under the responsibility of
+households, many of whom lack the financial resources11 and technical knowledge to construct and safely operate their
+sanitation facility. Fecal sludge emptying and transport is managed by private or municipal tankers that dispose of the
+sludge in either an inoperative wastewater treatment facility or a dumping site, with most of the excreta ending up in the
+environment without treatment. The lack of sanitation systems is among the main contributing factors to poor public
+health. Schools and health centers are required to have functioning sanitation facilities. However, many of these facilities,
+usually outdoors, require significant upgrades and lack a sustainable operation and maintenance (O&M) structure. Aiyl
+
+
+
+
+8 US$69.5 million were provided under the Rural Water Supply and Sanitation Project (RWSSP-1 and 2, P110267)
+9 https://www.sdg6data.org/en/country-or-area/kyrgyzstan
+10 Based on SIASAR data for 2019-2020.
+11 The implementation of the results-based incentive grant scheme for sanitation improvement in households under the Sustainable Rural Water
+
+Supply and Sanitation Development Project showed low commitment of the households due to high costs (at least US$1,000).
+
+                                                                                                                                          Page 4
+           The World Bank
+           Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+Okmotus (AOs)12 are responsible for financing the continued operation of these facilities, but they lack the resources to
+do so.
+10.     The poor performance of WSS services is particularly critical for women, who bear the burden of water provision
+at the household level, yet they are not an integral part of policy development and decision-making. In the Kyrgyz
+Republic, as is generally the case in developing countries, women are most likely to be responsible for fetching water for
+households, and girls are nearly twice as likely as boys to bear the responsibility and spend more time doing it each day (a
+disparity which could be exacerbated with climate change induced droughts).13,14 However, women are underrepresented
+in the WSS sector in the Kyrgyz Republic. There are no women in managerial or technical positions, as confirmed by the
+evidence from the ongoing World Bank-financed projects. This gender gap is mainly explained by sociocultural norms in
+what is a male-dominated sector, few female role models in managerial positions, low salaries,15 lower enrollment of
+women in the science, technology, engineering, and mathematics fields, low access to information and capacity
+development16, and the likelihood of pursuing technical careers.17
+11. The country is undergoing a series of PIR reforms to enhance service delivery and accelerate access to WSS. In early
+2024, the sector structure was consolidated at the central level to combine policy, strategy development, and investment
+planning under the new Ministry of Water Resources, Agriculture, and Processing Industry (MWRAPI). A State Institution
+for the Development of Drinking Water Supply and Wastewater Disposal (SIDDWSWD)18 under the existing Water
+Resources Service replaced the Department of Drinking Water Supply and Wastewater Disposal (DDWSWD) on the overall
+sector mandate, including policy development and service regulation. Consultations are ongoing for the proposed
+delegated service delivery model that aggregates the management, operation, and maintenance of WSS services into
+district water and sanitation service providers (DWSSPs), with two pilots currently being established in Naryn and Suzak
+districts through government financing. The sector restructuring is expected to streamline human resources and technical
+capacity, leverage economies of scale, and promote financial efficiency. The aggregation at the district level will help
+optimize revenues and finance necessary investments to improve operational efficiency and extend services to unserved
+areas. These water sector changes are aligned with the ongoing administrative-territorial reform19 on the consolidation of
+AOs, which started in 2022 with pilots in the Issyk-Kul and Naryn regions and halved the number of AOs in 2024.
+12. Further PIR improvements are required to reduce the sector's fragmentation, develop the service delivery functions
+and enhance the climate resilience and financial sustainability of WSS services. Although WSS is now consolidated under
+a single ministry, the Community Development and Investment Agency (ARIS) still manages a large part of the
+infrastructure investments, though SIDDWSWD is gradually increasing its role in investment management. Water tariffs
+are agreed with the Anti-Monopoly Regulation Service (the entity responsible for economic regulation) under the Ministry
+of Economy and Commerce and approved by local Keneshes.20 MWRAPI is in the process of mainstreaming infrastructure
+investment planning (with the establishment of an investment coordination unit) and playing a role in defining cost
+recovery tariffs at the DWSSP level. Drinking water quality regulation is under the Ministry of Health. Service provision is
+decentralized to urban WSS utilities in the cities and district capitals through municipal vodokanals and in rural areas
+through MWEs and CDWUUs, many of which lack the capacity to manage WSS services. Thus, it is critical that the
+regulatory instruments operationalizing the new WSS law, including a clear set of guiding principles for service delegation,
+cost-reflective tariff setting, and service regulation, are adopted.
+
+12 Local self-governance bodies
+13 https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2022---special-focus-on-gender
+14
+     National Statistical Committee and UNICEF. 2019. Kyrgyzstan Multiple Indicator Cluster Survey 2018, Survey Findings Report. Bishkek
+15 Anecdotal evidence suggests that the average salary of the rural service provider staff is 2-3 times less than the average salary of a teacher.
+16 Practical Outlook on Gender Issues in the Water Resources Sector (2020). http://cakn.online/wp-content/uploads/collection_eng.pdf
+17 World Bank Gender Data Portal. 201 - in the Kyrgyz Republic, only 18 percent of engineering graduates are women, the lowest in Central Asia.
+18 The DDWSWD was transferred to the MWRAPI by resolution #98 of the Cabinet of Ministers dated March 7, 2024.
+19 Decree #370 of the President of the Kyrgyz Republic, dated December 29, 2023.
+
+
+
+                                                                                                                                                     Page 5
+         The World Bank
+         Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+13. The GoKR intends to secure potable water supply to all by 2030 and improve sanitation in priority areas in line with
+its National Development Strategy, the 2018-2026 PDDWSSSPL of the Kyrgyz Republic and its successor. At the current
+investment pace, in the most optimistic scenario, the country would likely cover only 88 percent of rural settlements with
+basic access to water by 2030. Such a scenario does not consider the risk of falling back, which is high for rural water
+supply systems with no sound management structures and sustainable operational financing mechanisms. Thus, fully
+realizing the country's universal WSS access goals requires (i) an accelerated implementation strategy to deliver at least
+twice the current annual sector investment and (ii) sector reforms focused on service delivery capacity to enhance the
+sustainability of WSS. Lessons from the implementation of multiple investment programs, including World Bank-financed
+WSS projects in the country,21 point to the need for (i) a better alignment between investment models and financing
+mechanisms to incentivize improvements in operational, financial, and climate sustainability; (ii) a results-oriented
+institutional capacity development approach to enable skills development on investment planning and implementation,
+and improve service delivery; and (iii) improvements to the regulatory framework to enable cost-reflective tariffs.
+14. Achieving universal access and enhancing climate resilience will require a significant scale-up and consistency in the
+WSS investments through a program focused on closing the access gap and strengthening the sustainability of prior and
+new investments within the next ten years. Several development partners, including the Asian Infrastructure Investment
+Bank (AIIB), the Islamic Development Bank (IsDB), the Organization of Petroleum Exporting Countries (OPEC) Fund, the
+ADB, and the Swiss Agency for Development and Cooperation (SDC), are willing to step up their engagement and join the
+World Bank in this transformative program through blended parallel or co-financing arrangements within the fiscal limits
+for the country. The World Bank financing will include capacity building and program management interventions to de-
+risk the project at all stages, improve readiness, and crowd in more financing as needed. These include preparation and
+implementation of designs, safeguards, and fiduciary arrangements for the program.
+
+ C. Proposed Development Objective(s)
+ Development Objective(s) (From PAD)
+ 15. PrDO statement. The proposed PrDO of the WASUAP is to provide universal access and improve the sustainability
+ of water supply and sanitation services in the Kyrgyz Republic.
+ 16. PDO Statement. The project development objective (PDO) is to increase access to WSS services and improve the
+ service delivery capacity in selected areas of the Kyrgyz Republic.
+
+ Key Results
+ 17. PrDO Level indicators. At the end of the 10-year Program, the outcomes will be measured by the following
+ indicators:
+      • People provided with at least basic water (of which % is safely managed (Baseline: 90.8%, target: >99%); 22
+      • People provided with at least basic sanitation (of which % is safely managed) (Baseline 92.6%, target: 95%);
+      • Percentage of the water supply and sanitation service providers achieving and maintaining an operating cost
+        coverage ratio of at least 100 percent (Baseline: 9%, target: 50%); and
+      • People with enhanced resilience to climate risks in the Kyrgyz Republic as a result of program interventions
+         (Baseline: 0, target: 300,000).
+
+
+
+21 Sustainable Rural Water Supply and Sanitation Development Project (P154778); Climate Resilient Water Services Project (P173734)
+22 The JMP classifies countries estimated to have achieved >99% service coverage as ‘nearly universal’, recognizing the physical, and economic and
+
+financial limitations for last-mile coverage.
+
+                                                                                                                                             Page 6
+        The World Bank
+        Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+
+ 18. PDO Level Indicators. The following PDO indicators will measure the achievement of the first phase objectives and
+ progress toward the PrDO at the end of the Project.
+      (i) Outcome 1: To increase access to improved WSS services:
+           • People provided with at least basic water (Number), of which % is (safely managed, female)
+           • People provided with at least basic sanitation (Number), of which % is (safely managed, female)23
+           • People with enhanced resilience to climate risk (Number)
+      (ii) Outcome 2: To improve the service delivery capacity:
+      • Water supply service providers with an operating cost coverage ratio of at least 100% (Percentage)
+
+  D. Project Description
+19. The MPA is structured as a 10-year engagement through three IPF operations/phases to achieve the PrDO. The
+Project Development Objective (PDO) for each phase and PrDO target the same topics, and the phases are progressive;
+each phase maintains a similar structure and builds towards the achievement of the overall PrDO. The structure of the
+MPA is uninterrupted to ensure that the Program's activities continue without a gap in the rollout of the key activities.
+The total Program's estimated cost is US$400 million, with a proposed IDA financing envelope of US$200 million. This
+includes (i) a five-year Phase 1 (2024-2029) of focused investment covering unserved and underserved rural settlements,
+piloting the aggregated district-level service delivery structure and enhancing the capacity using performance-based
+grants (PBGs), few and simpler sanitation interventions, complemented by extensive analysis and design of more complex
+sanitation solutions, including paving the way for potential private sector engagement; (ii) a four-year Phase 2 (2028-
+2032) to scale-up the investments, shifting to water supply infrastructure upgrade and expansion, priority sewerage
+investments and scale-up the service delivery models, with a focus on operational and financial efficiency, and climate
+adaptation; and (iii) a three-year Phase 3 (2031-2034) to scale-up sanitation investments and consolidate the water supply
+improvements, with an emphasis on knowledge exchange and appropriation of the policies, plans, and tools developed
+under the previous two phases.
+20. Phase 1 (US$165 million) will cover the first batch of the Program's WSS infrastructure investments in unserved and
+underserved settlements in the least served regions and districts within those regions without ongoing or planned
+investments. Phase 1 will finance the construction and upgrade of water supply systems, and priority household and social
+institutions' sanitation infrastructure (containment). Phase 1 will include a PBG-structured capacity-building program for
+four DWSSPs to enable them to independently expand and enhance the quality of services within their district. The project
+will also finance improvements to existing fecal sludge management (FSM) services led by both private and municipal
+operators and the design of sanitation interventions to be implemented in the subsequent phases. Phase 1 envisages the
+establishment of a learning program to document lessons and inform the program implementation. Further, the project
+will finance program structuring support, including outreach and mobilization, to help attract financing for the subsequent
+phases.
+
+Project Components
+21. Component 1 – Water Supply Investments (US$117.0 million, of which US$36.5 million IDA credit, US$7.5 million
+IDA shorter maturity loan, US$50.0 million co-financing credit from the AIIB, US$3.0 million parallel financing grant
+from AIIB and US$20.0 million co-financing credit from the OPEC Fund) will finance the construction and upgrade of
+water supply systems in 109 rural villages and small towns in Chui, Issyk-Kul, and Osh regions, benefitting around
+373,000 people. Specifically, Subcomponent 1.1 – Water Supply Access to the Unserved will finance the design and
+
+23 All the sanitation beneficiaries are expected to benefit from water supply improvements. To prevent double counting, these will be counted in
+
+the overall number of water beneficiaries. To track progress on sanitation, this indicator is maintained at the PDO level.
+
+                                                                                                                                              Page 7
+       The World Bank
+       Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+construction of climate-resilient water supply systems in 33 currently unserved settlements (around 66,000 beneficiaries);
+and Subcomponent 1.2 – Water Supply Upgrades will finance the design, rehabilitation, and upgrade of water supply
+systems in 76 villages and district centers in Aksu, Alai, Kara-Kulja, Kara Suu, Panfilov, Sokuluk, and Uzgen districts (around
+307,000 beneficiaries). Engineering designs for this component will be funded through the US$ 3.0 million AIIB grant.
+22. Component 2 – Sanitation Development (US$28 million IDA credit) will finance priority onsite sanitation
+investments, including household and public sanitation infrastructure, FSM services improvements, and technical
+assistance (TA) to design more complex sewerage improvements. Specifically, the project will finance: (a) the construction,
+rehabilitation/retrofitting of decentralized sanitation systems, including toilet upgrades for vulnerable households and
+selected public institutions (schools, kindergartens, hospitals, and health centers), in all 109 target settlements; (b) TA,
+equipment, and works for FSM services improvement; (c) the implementation of a sanitation marketing and behavioral
+change strategy to incentivize the adoption and use of improved WASH and behaviors; and (d) TA for the design of
+sewerage systems in priority settlements, aiming to reduce environmental pollution and enhance the resilience of
+sewerage infrastructure to the impacts of climate change, such as increased flooding, and extreme weather events.
+23. Component 3 – Performance-based Service Improvement Program (US$15 million, of which US$6 million IDA credit
+and U$S9 million SDC grant) will (i) provide PBGs for DWSSPs to finance WSS service improvements (including NRW
+reductions) and enhance the sustainability and drought resilience of WSS services, and (ii) finance the professional and
+vocational development program (PVDP). Sub-component 3.1 – Service Delivery Improvements will finance PBGs for four
+DWSSPs (out of the ten planned for Phase 1) and will cover the start-up activities and operational and structural
+investments that are critical to enabling the operational and financial efficiency of the DWSSPs, and the resilience of water
+supply systems against climate variability. Funding for the PBGs will cover activities from the DWSSPs’ institutional and
+service development plans and will focus on increasing service management capacity, innovative solutions for service
+expansion and climate resilience, asset management and operations, digital solutions for customer services and feedback,
+tariff-setting procedures, financial management, and service monitoring and reporting. Sub-Component 3.2 – Professional
+and Vocational Development Program will finance the establishment of a national water training center hosted at the
+SIDDWSWD, with a dedicated certificate-oriented, long-term capacity development program in response to the need to
+create a pipeline of water sector professionals with the skills to plan and manage efficient and sustainable water services.
+The PVDP will also carry out extensive outreach and provide training scholarships to attract women to the water
+sector and enhance their technical and leadership skills.
+24. Component 4 – MPA Program Structuring and Management and institutional development support (US$9 million,
+of which US$8 million IDA credit, and US$1 million grant parallel financing from AIIB, and in-kind counterpart financing)
+will finance TA and institutional capacity building for the establishment of a program management framework and WSS
+infrastructure development capacity, including: (a) TA and training for the development of the program management tools
+to enhance coordination and program implementation efficiency, and the M&E systems for program results tracking,
+sector coordination, and annual reviews; (b) TA for the preparation of investment packages, engineering design, and E&S
+instruments for future interventions planned for the subsequent phases of the MPA; (c) Incremental operating costs, TA,
+and equipment for program management; (d) TA, equipment, and services to support a knowledge development program
+and communications strategy for the MPA; (e) TA for the preparation of service contract agreements between the
+operator and asset owner and the PBG independent verification; and (f) TA for targeted policy regulations, particularly
+focused on the implementation of the new service aggregation model and tariff framework.
+25. Component 5 – Contingent Emergency Response (CERC - US$0). This component will provide preparedness and rapid
+response measures to address disaster, emergency, and/or catastrophic events in accordance with the applicable CERC
+Manual.
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+
+                                                                                                                          Page 8
+       The World Bank
+       Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+ Legal Operational Policies                                                           Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+26. The Project’s environmental and social risk was assessed as Substantial at the Concept stage and remains the same
+at the Appraisal stage, with Substantial for the Environment and Moderate for Social. Environmental and Social
+Standards (ESSs) 1, 2, 3, 4, 5, 6, 8, and 10 are considered relevant for the Project. The overall environmental and social
+impacts of the Project investments are expected to be generally positive. Improved WSS services, including their
+sustainability and climate change resilience, will benefit the public at large as well as vulnerable groups. They will also
+have direct benefits to public health through a reduction in the transmission of water-borne diseases. The Project's
+environmental risks and impacts are mainly associated with the construction of new and rehabilitation of water supply
+schemes and infrastructure under Component 1 and the construction and/or rehabilitation and/or retrofitting of a
+contaminant sanitation system (i.e., toilet and septic tank upgrades for vulnerable groups and selected public institutions
+such as schools, kindergartens, health centers, etc.) under Component 2. Such construction is expected to be small and
+medium scale with site-specific impacts. The project will utilize groundwater as the main supply, and its use will need to
+be managed to ensure sustainable withdrawal rates.
+
+ E. Implementation
+
+ Institutional and Implementation Arrangements
+
+27. The institutional and implementation arrangements are built on the experience in the previous projects and aligned
+with ongoing institutional reforms to strengthen the sustainability of service delivery. Key institutions involved in the
+implementation include the MoF, the MWRAPI and its SIDDWSWD, DWSSPs, and local self-government bodies (AOs) at
+the local level. The SIDDWSWD will coordinate the project and establish the required capacity at the regional and local
+level for service delivery, including implementing reforms and the PBGs to establish autonomous service providers and,
+where feasible, public-private partnerships. The existing PIU of the SIDDWSWD responsible for the implementation of the
+ongoing CRWSP will be expanded and further strengthened to manage the proposed program. At the district level,
+technical teams will be established within the DWSSPs to support project implementation, and M&E.
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Odete Duarte Muximpua
+   Senior Water Supply and Sanitation Specialist
+
+   Verena Schaidreiter
+   Water Supply and Sanitation Specialist
+
+
+
+                                                                                                                       Page 9
+     The World Bank
+     Kyrgyz Republic: Water Supply and Sanitation Universal Access Program (P500620)
+
+
+Borrower/Client/Recipient
+ Kyrgyz Republic
+
+Implementing Agencies
+ State Institution for the Development of Drinking Water Supply and Wastewater Disposal
+ Azamat Shadmanov
+ Director
+ enesay24.info@yandex.ru
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Odete Duarte Muximpua, Verena Schaidreiter
+
+Approved By
+
+Practice Manager/Manager:               Winston Yu                            06-May-2024
+
+Country Director:                       Hugh Riddell                          24-Oct-2024
+
+
+
+
+                                                                                            Page 10
+

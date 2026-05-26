@@ -1,0 +1,818 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 12-May-2026 | Report No: PIDPA00252
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                         Operation ID                   Operation Name
+                               WESTERN AND CENTRAL                                           ALAFIA I - Nourishing
+Benin                                                         P509225
+                               AFRICA                                                        Benin's Future Program
+Financing Instrument           Estimated Appraisal Date       Estimated Approval Date        Practice Area (Lead)
+Program-for-Results
+                               12-May-2026                    16-Jun-2026                    Health
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               Agence Nationale de
+Republic of Benin              l’Alimentation et de la
+                               Nutrition (ANAN)
+
+Proposed Program Development Objective(s)
+To improve the utilization of quality integrated nutrition, health, and child development services in targeted areas.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     No
+Is this project Private Capital Enabling (PCE)?               No
+
+SUMMARY
+  Total Operation Cost                                                                                              300.80
+    Total Program Cost                                                                                           285.80
+    IPF Component                                                                                                   15.00
+  Total Financing                                                                                                   300.80
+
+  Financing Gap                                                                                                       0.00
+
+FINANCING
+  Total World Bank Group Financing                                                                                  150.00
+    World Bank Lending                                                                                           150.00
+
+
+                                                                                                                        Page 1
+        The World Bank
+        ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+
+    Total Government Contribution                                                                                                          130.80
+
+    Total Non-World Bank Group Financing                                                                                                     20.00
+      Trust Funds                                                                                                                           20.00
+
+ @#&OPS~Doctype~OPS^dynamics@ffiprocessing#doctemplate
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+ B. Introduction and Context
+
+
+  Country Context
+
+1. Benin, a coastal West African country of about 13 million, has recorded strong and sustained economic growth in
+   recent years, positioning it among the fastest growing economies in the subregion. Gross domestic product (GDP)
+   growth reached 7.5 percent in 2024, the highest rate since 1990, driven by robust performance across services,
+   industry, and agriculture.1 Benin’s growth performance has been supported by rising private investment; expanding
+   exports; and continued public investment in transport, energy, and logistics infrastructure, which have helped
+   strengthen Benin’s role as a regional trade and transit hub.2 At the same time, fiscal consolidation efforts have
+   strengthened macroeconomic stability, with the fiscal deficit meeting the West African Economic and Monetary Union
+   convergence target of 3 percent of GDP and public debt declining to just over half of GDP. These trends have
+   contributed to improved access to international capital markets.
+
+2. Despite this strong macroeconomic performance, economic growth has not translated into rapid poverty reduction
+   or corresponding improvements in job creation, labor productivity, and human capital accumulation, particularly
+   in rural and northern regions. The relationship between growth and poverty reduction remains weaker than the Sub-
+   Saharan Africa average, reflecting persistent structural constraints related to low labor productivity, limited job
+   creation in higher-value sectors, and uneven access to basic services.3 More than three-quarters of total employment
+   remains vulnerable and concentrated in low-productivity informal activities, with only marginal improvement over
+   the past decade.4 Rural areas bear a disproportionate share of this burden, with vulnerable employment particularly
+   affecting women and youth: Women account for especially high shares of informal and precarious work, while the
+   majority of young people remain engaged in jobs with limited productivity and earnings potential, especially in
+
+
+1 World Bank. Benin: Macro Poverty Outlook, 2024.
+2 World Bank. Benin Country Partnership Framework (FY23–FY27), 2023.
+3 National Institute of Statistics and Economic Analysis (Institut National de la Statistique et de l’Analyse Économique, INSAE). Enquête Harmonisée
+
+sur les Conditions de Vie des Ménages (EHCVM), 2021–2022.
+4 World Bank. Benin Systematic Country Diagnostic Update, 2023.
+
+
+
+                                                                                                                                                Page 2
+        The World Bank
+        ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+    agriculture and related activities where access to inputs, markets, and skills remain insufficient.5 These structural
+    dynamics are inseparable from Benin’s human capital challenges, particularly underinvestment in health, nutrition,
+    and education, which continue to constrain productivity growth and poverty reduction.
+
+3. The First 2,000 Days of life — from conception to a child's second birthday — represent the most critical and
+   irreversible window for human capital formation, and one where accelerating and deepening investment holds the
+   greatest transformative potential for Benin's development trajectory. A child born in Benin today is estimated to
+   achieve only about 42 percent6 of their potential productivity under current conditions, a deficit largely sealed before
+   a child ever sets foot in a classroom. This is driven in significant part by chronic undernutrition: 36.5 percent of
+   children under five were stunted in 2022,7 suffering irreversible cognitive and physical damage from prolonged
+   nutritional deprivation concentrated in these earliest years, with economic costs of undernutrition estimated at up to
+   16.5 percent of GDP annually.8 These deficits do not resolve over time — they compound. Benin’s 2025 Human Capital
+   Index+ (HCI+) score of 125 out of 325, below both the Sub-Saharan Africa regional average of 126 and the lower-
+   middle-income country average of 153, confirms that gaps rooted in the first 2,000 days persist through primary
+   school, where completion rates stood at only 77 percent in 2013, through tertiary education and working life, where
+   a pronounced gender gap leaves women’s earning potential roughly 13 percent lower than that of men. Spanning
+   nutrition, education, and labor market outcomes, micronutrient deficiencies not only undermine learning outcomes
+   and drive retention and progression challenges across all levels of schooling, but also diminish adult labor productivity
+   — compressing the earnings and economic contribution of a workforce that never fully recovered from deprivation in
+   its earliest years. Addressing this intergenerational cycle therefore requires simultaneous, sustained action across
+   multiple sectors — not sequentially, and not through isolated projects — underscoring the central role of nutrition
+   investments in supporting inclusive employment and long-term growth.
+
+4. Compounding these structural human capital deficits is the growing insecurity in the wider Sahel region, which has
+   begun to spill into northern Benin, further weakening communities’ resilience, disrupting access to services, and
+   worsening nutritional outcomes. This instability has disrupted livelihoods, strained basic services, and threatened
+   the recent development gains in Benin and neighboring countries. Insecurity and displacement are also well-
+   documented drivers of gender-based violence (GBV): as community protection mechanisms break down and
+   household economic stress intensifies, women and girls face heightened risks of intimate partner violence, sexual
+   violence, and early marriage — risks that compound their nutritional vulnerability and further constrain their access
+   to health and nutrition services. Moreover, the share of the population facing severe food insecurity has risen from
+   10.4 percent in 2014–2016 to 15.8 percent in 2021–2023,9 disproportionately affecting northern regions and forcibly
+   displaced populations. This deterioration is driven by the convergence of household’s inability to afford nutritious
+   foods due to insecurity, unemployment, low and unstable informal sector wages, high food prices, climate shocks, and
+   structurally weak food systems. Together, these compounding stressors push households to reduce meal frequency
+   and dietary diversity, especially during lean seasons, heat waves, and crises, directly worsening nutritional outcomes
+   and labor productivity.10
+
+5 INSAE. EHCVM, 2021–2022.
+6 World Bank. The Human Capital Index (HCI) 2024 Update.
+7 INSAE. EHCVM, 2021–2022.
+8 World Bank. Investing in Nutrition: The Foundation for Development, 2022.
+9 Food and Agriculture Organization of the United Nations. GIEWS Country Brief: Benin, October 2022; World Food Programme (WFP). Benin
+
+Country Brief, 2025.
+10 Akimabera, F., and S. C. Rodrigue Dossou-Cadja. 2019. “Pouvez-vous m’entendre? Sur les changements climatiques: Inégalites et Vulnérabilité-
+
+Genre au Bénin.” Revue d’Analyse des Politiques Économiques et Financières 4 (1): 93–126; Blom, S., A. Ortiz-Bobea, and J. Hoddinott, 2022. “Heat
+Exposure and Child Nutrition: Evidence from West Africa.” Journal of Environmental Economics and Management 115: 102698.
+https://doi.org/10.1016/j.jeem.2022.102698.
+
+                                                                                                                                              Page 3
+        The World Bank
+        ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+
+5. Recognizing the central role of nutrition and early childhood development (ECD) in building human capital,
+   productivity, and resilience, the Government of Benin (GoB) has elevated nutrition as a national development
+   priority. This commitment is reflected in the National Food and Nutrition Policy (La Politique nationale de
+   l’alimentation et de la nutrition, PNAN, 2024–2033), which articulates a multi-sectoral, life cycle approach spanning
+   pregnancy, early childhood, school age, and adolescence. Nutrition objectives are embedded within the GoB’s broader
+   development vision, including Benin Vision 2060 and the Government Action Program, which emphasize human
+   capital development as a cornerstone of economic transformation, social inclusion, and resilience.11 However, the
+   scale, complexity, and multi-sectoral nature of Benin’s nutrition challenge require sustained investments and
+   institutional strengthening beyond the scope of traditional stand-alone operations to deliver in advancing the GoB’s
+   1,000 Days+ Agenda. Past interventions have been constrained by fragmented financing arrangements, uneven
+   service quality, limited coordination across sectors, and persistent capacity constraints at decentralized levels, limiting
+   effectiveness, coverage, and sustainability.12 Addressing these structural challenges calls for a phased, programmatic
+   approach that can build foundational systems, strengthen coordination, incorporate learning over time, and
+   progressively scale effective interventions nationwide.
+
+6. In this context, the ALAFIA:13 Nourishing Benin’s Future Multi‑Phase Programmatic Approach (MPA) (P512948)
+   through a One World Bank Group (WBG) approach, provides an appropriate framework to support Benin’s
+   long‑term nutrition, human capital, and jobs agenda. ALAFIA is deliberately designed to break new ground: while the
+   GoB has made important strides in addressing human capital deficits in the school-age population, most notably
+   through its Integrated National School Feeding Program (Programme nationale d’alimentation scolaire intégré,
+   PNASI), which has expanded access to food for children above five, the critical First 2,000 Days has remained
+   comparatively underserved. ALAFIA and its first phase anchor a long-term GoB strategy that addresses this gap head-
+   on, bringing together multi-sectoral nutrition interventions with the support of other WBG practices and development
+   partners, community resilience, and private sector engagement into a single, coherent program — a regional first.
+   Because intervening effectively in the First 2,000 Days requires testing and refining approaches that are not yet fully
+   established at scale in the Beninese context, a traditional stand-alone project would be insufficient. The MPA structure
+   is uniquely suited to this challenge: it allows the Government and the WBG to learn as they go — systematically
+   capturing implementation evidence, adjusting course across phases, and building a knowledge base that informs scale-
+   up and replication. Consistent with the subnational stunting profile, Phase I prioritizes communes in regions with the
+   highest stunting burden and service delivery gaps, while Phase II will progressively expand coverage nationwide,
+   informed by that accumulated learning — ensuring that each phase delivers not only results on the ground but a
+   scalable model for sustained impact.
+
+
+
+
+  Sectoral and Institutional Context
+
+
+
+
+11 GoB. Programme d’Action du Gouvernement; Benin Vision 2060.
+12 Benin Country Partnership Framework (FY23–FY27), 2023.
+13 ALAFIA means ‘health and well-being’ in Arabic and widely embraced across West Africa as an expression of wellness.
+
+
+
+                                                                                                                         Page 4
+           The World Bank
+           ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+7. Despite sustained policy attention and investments, Benin continues to face persistently poor nutrition outcomes,
+   particularly among women and children. Stunting remains a critical concern, reflecting chronic deficits in diet quality,
+   health, and care practices during the first 1,000 days of life. Stunting prevalence among children under five increased
+   from 34 percent in 2014 to 36.5 percent in 2022, compared to 23.6 percent among structural peers and 32 percent
+   across Sub-Saharan Africa. There are marked geographic disparities in stunting outcomes with rates significantly
+   higher in the northern regions with pockets in the southern regions, underscoring the need for a phased approach
+   that prioritizes communes with high rates of stunting in Phase I before scaling up geographically in Phase II. Studies
+   have shown that stunting prevalence exceeds 40 percent in several northern and central regions. Stunting also
+   contributes to approximately 45 percent of under-five mortality, estimated at 77.9 per 1,000 live births in 2023,
+   compared to 45.6 among structural peers. Moreover, anemia remains pervasive, affecting 72 percent of children ages
+   6–59 months and 58 percent of women of reproductive age, with increasing rates among adolescent girls
+
+8. Climate change is a key risk multiplier, deepening and accelerating malnutrition burden in Benin. The country is
+   highly exposed to rising temperatures, increasing rainfall variability (including floods and droughts), sea level rise, and
+   heat stress, with impacts most pronounced in northern regions where poverty, food insecurity, and malnutrition are
+   already concentrated. Temperatures have increased by 0.78°C between 1971 and 2020 and are expected to increase
+   by 0.28°C per decade by mid-century, with higher impacts in the northern regions.14 Seasonal shifts and climate shocks
+   directly affect agricultural productivity, food availability, and household incomes, while also placing additional
+   pressure on health, nutrition, and social protection systems.15 For instance, climate-induced harvest failures and
+   prolonged lean seasons are closely associated with acute spikes in wasting among children under five, while repeated
+   shocks over time, which deplete household coping strategies, reduce dietary diversity, and increase food insecurity,
+   also entrench stunting, reinforcing intergenerational cycles of malnutrition. Benin ranks 150 out of 187 on climate
+   vulnerability and readiness, in part due to low scores in projected change of cereal yields and agricultural capacity,16
+   reflecting how deeply climate change is undermining the food and nutrition security of its population.
+
+9. Malnutrition, and in particular high stunting rates in Benin, are driven by four interrelated and binding constraints.
+   First, service delivery remains uneven and insufficient, particularly in rural and northern areas. Geographic and
+   financial barriers, shortages of skilled frontline health personnel, and variable service readiness—including persistent
+   medication and supplementation stockouts—limit access to quality Reproductive, Maternal, Neonatal, Child,
+   Adolescent Health and Nutrition (RMNCAH-N) services. Frontline health professionals, including skilled community
+   relays (CRs) and skilled community health workers (CHWs), lack the competencies and incentive structures needed to
+   deliver high-quality, integrated care. The ALAFIA I - Nourishing Benin’s Future Program (the Program) addresses these
+   gaps by strengthening community health delivery systems using the GoB’s 2020 National Community Health Policy
+   (Politique nationale de la santé communautaire, PNSC) and supporting frontline worker capacity under Results Area
+   (RA) 1 (RA1). In addition to their roles as service delivery agents, there is an opportunity to leverage CRs and CHWs as
+   active “engagement agents” within communities. As trusted local actors, they can serve as two-way communication
+   channels, gathering community concerns, identifying barriers to access, and relaying feedback to inform adaptive
+   management at the commune and program levels. This engagement function will be strengthened as part of the
+   capacity-building efforts supported under the Program, with further operational detail to be provided through a
+   dedicated Citizen Engagement and Inclusion Plan to be developed after effectiveness. By integrating this role, the
+   Program aims to strengthen community accountability and ensure more responsive, needs-driven service delivery.
+
+14
+     World Bank. Climate Risk Country Profile: Benin, 2025.
+15 World Bank. Country Climate and Development Report: Benin, 2023; Vincent, E., Y. Ibouraïma, G. M. K. Emeric, and A. Adam. 2018. “Agriculture
+
+and Food Security Under Threat of Change Climate in Benin.” African Journal of Agricultural Research 13 (27): 1389–1399.
+https://doi.org/10.5897/AJAR2014.8748; World Bank. Benin Climate and Health Vulnerability Assessment, 2026 (forthcoming).
+16 Notre Dame University. 2023. Benin | ND-GAIN Index. https://gain-new.crc.nd.edu/country/benin#vulnerability.
+
+
+
+                                                                                                                                            Page 5
+        The World Bank
+        ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+
+10. Second, social and gender norms constrain the adoption of effective nutrition and care practices.17 Women’s
+    decision‑making power over food, health, and household resources remains limited, which when combined with time
+    and mobility constraints undermines uptake of services and adoption of recommended practices. Only 42 percent of
+    infants are exclusively breastfed until six months and only 28 percent of children ages 6–23 months achieve minimum
+    dietary diversity. Economic barriers further compound this: A healthy diet costs approximately US$4 per household
+    per day, beyond the reach of at least 60 percent of households.18 Poor water, sanitation, and hygiene (WASH)
+    conditions further drive child morbidity and higher malnutrition rates, with 47 percent of households practicing open
+    defecation and only 10 percent having access to a handwashing facility with soap and water.19 The nutritional
+    consequences of these dynamics are particularly acute for adolescent girls. Anemia prevalence among this group has
+    worsened significantly, rising from 41.6 percent in 2012 to 57.4 percent in 2017, a trajectory that signals a deepening
+    micronutrient crisis among a population whose nutritional status has direct intergenerational consequences. This
+    deterioration reflects not only dietary gaps but also the intersection of gender norms, limited agency, and inadequate
+    targeting of adolescent-specific nutrition interventions — dynamics that are further compounded by harmful practices
+    such as female genital mutilation (FGM) that directly affect women's nutritional status and their capacity to support
+    healthy pregnancies and child development. The Program responds through an integrated package of nutrition,
+    health, and childhood development services that include social and behavioral change communication (SBCC)
+    targeting women and caregivers, alongside WASH-nutrition linkages under RA1.
+
+11. Third, food systems and community delivery mechanisms are insufficiently equipped to deliver affordable, diverse,
+    and nutritious foods and nutrition services at scale. Dietary diversity scores among women of reproductive age and
+    children under five remain well below recommended thresholds, with pronounced rural-urban gaps.20 Last-mile
+    distribution of nutritious and fortified foods is fragmented, and nutrition-focused micro, small, and medium
+    enterprises (MSMEs) face persistent constraints in access to finance, quality assurance, and supply chains with only
+    40.9 percent of businesses having access to bank credit and 42 percent citing finance as their primary constraint. 21
+    Women-owned enterprises are particularly excluded, with only 12.4 percent formalized. Evidence from comparable
+    regional programs points to the potential of MSME-centered food systems approaches, for example, West Africa Food
+    System Resilience Program (FSRP), an MPA covering Burkina Faso, Chad, Ghana, Mali, Niger, Sierra Leone, Senegal,
+    and Togo (Phase 1: P172769; Phase 2: P178132), which demonstrates that targeted technical assistance (TA) and
+    catalytic finance can improve MSME performance and expand household access to nutritious foods. Moreover, the
+    school feeding program illustrates the broader quality gap in food systems delivery. While the GoB has prioritized
+    retention by scaling the PNASI with WFP support to reduce short-term hunger and stabilize attendance, meal quality
+    remains a critical gap. Recent studies show that even with expanded PNASI coverage, micronutrient deficiencies
+    among school-age children remain high, with no significant difference in dietary diversity between schools with and
+    without canteens. This reflects the same last-mile nutritional quality failure that characterizes broader food systems
+    gaps in Benin. The Program (Results Area 2 [RA2]) addresses these market-side gaps through business development
+    services and phased financing for MSMEs in Phase I, building toward blended finance instruments in Phase II,
+
+
+17 INSAE and UNICEF. MICS 2021–2022, Benin.
+18 World Bank. The Cost and Affordability of Healthy Diets in Africa, 2023.
+19 WHO and UNICEF. Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene: Benin Country Profile, 2024.
+20 Sagbo, H., and P. Kpodji. 2023. “Dietary Diversity and Associated Factors Among School-Aged Children and Adolescents in Lokossa District of
+
+Southern Benin: A Cross-Sectional Study.” BMJ Open 13 (10): e066309. doi: 10.1136/bmjopen-2022-066309. PMID: 37899163; PMCID:
+PMC10618987; Darboux, A. J., V. Agueh, and R. Y. Santos. 2022. “Assessment of the Nutritional Status and Dietary Intake of Women of Childbearing
+Age in the City of Comè, Benin.” Pan Afr Med J 41: 350. doi: 10.11604/pamj.2022.41.350.33393. PMID: 35909427; PMCID: PMC9279902.
+21 World Bank. 2025. Enterprise Survey: Benin 2024. Washington, DC: World Bank Group.
+
+https://www.enterprisesurveys.org/en/data/exploreeconomies/2024/benin.
+
+                                                                                                                                                 Page 6
+       The World Bank
+       ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+    complemented by the WBG-financed Women Entrepreneurship Development and Access to Finance Program
+    (WEDAF) (P500561) alongside IFC planned activities.
+
+12. Fourth, weak governance and fragmented coordination undermine multi-sectoral nutrition delivery. The
+    establishment of ANAN, under presidential decree in 2023, reflects strong political commitment. This reform builds
+    on Benin’s long‑standing engagement in multi-sectoral nutrition governance, including the Food and Nutrition Council
+    (Conseil de l’Alimentation et de la Nutrition) and participation in the Scaling Up Nutrition (SUN) Movement since 2011.
+    However, operational capacity and accountability mechanisms, particularly at the municipal level, remain uneven. The
+    Program supports the strengthening of ANAN’s coordination role and invests in municipal-level accountability systems
+    under RA1.
+
+13. The proposed ALAFIA: Nourishing Benin’s Future MPA (P512948) and its first phase (P509225) aim to improve
+    nutrition and human capital outcomes in Benin, driving a long-term transformation for the well-being of its
+    population. Drawing on the WBG’s Investment Framework for Nutrition 2024, the Program is anchored in high-
+    priority, evidence-based ‘best-buy’ interventions across four target groups: (a) antenatal interventions through
+    micronutrient supplementation; (b) perinatal interventions such as skilled birth attendance and early initiation and
+    support for exclusive breastfeeding; (c) infancy and childhood interventions including micronutrient supplementation,
+    growth monitoring, and infant and young child feeding (IYCF) counseling; and (d) cross-cutting interventions for the
+    general population such as cash transfers, staple food fortification, and interventions to reduce obesity and unhealthy
+    diets. Through two interconnected pillars, the Program will scale up these best-buys focusing on a multi-sectoral
+    convergence approach, strengthening community resilience, and catalyzing private sector engagement, while building
+    the institutional foundations for sustained impact across the country. The Program is transformational not only in its
+    holistic, life-course design—spanning preconception through early childhood and beyond—but also in its embodiment
+    of the One WBG approach, bringing together the World Bank, the International Finance Corporation (IFC), and a range
+    of complementary sectoral programs under a single, coherent framework. By simultaneously addressing multiple and
+    interrelated constraints, from access to quality nutrition and health services to community food systems, governance,
+    and financing, the Program seeks to unlock Benin’s human capital potential while leveraging the full strengths of the
+    WBG. It builds on over a decade of World Bank engagement with the GoB through multi-sectoral nutrition and ECD
+    operations—including the Benin Multisectoral Food Health Nutrition Project (P143652, 2014–2019) and the Early
+    Years Nutrition and Child Development Project (P166211, 2019–2024)—which demonstrated that the effectiveness
+    and sustainability of a life-course continuum depend on several interrelated factors: scaling up evidence-based
+    interventions, fostering community ownership, building decentralized capacity, and strengthening multi-sectoral
+    coordination at the institutional level.
+
+
+
+  PforR Program Scope
+
+14. The Program-for-Results (PforR) focuses on high-impact nutrition, health, and local food system interventions with
+    the greatest potential to advance Benin’s human capital and nutrition objectives under the National Multisectoral
+    Nutrition and Food Strategy (SNAN 2026–2030). As Phase I of the proposed Multiphase Programmatic Approach, the
+    PforR concentrates on two core results areas—improving utilization of integrated nutrition, health, and child
+    development services, and strengthening community resilience and access to nutritious foods—in up to 46 priority
+    communes. These areas and geographic focus were selected based on the burden of stunting and anemia, poverty
+    and food insecurity, vulnerability to climate and security shocks, and gaps in service delivery and local food systems,
+    particularly in northern regions. The design builds on recent analytical work and operational experience of the World
+
+
+                                                                                                                       Page 7
+       The World Bank
+       ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+   Bank Group in Benin’s health, nutrition, food systems, and social protection sectors, and is complemented by close
+   collaboration with the International Finance Corporation to support women- and youth-led agri-food enterprises and
+   inclusive local market development.
+
+
+
+
+                                           Table 1: Summary of Program Boundary
+
+                                                     Program Supported by the
+                        Government program                                                    Reasons for Nonalignment
+                                                                 PforR
+Objective         By 2033, Benin will be a country MPA: To reduce stunting
+                  where every person enjoys food among children under five
+                  security and optimal nutritional years of age.
+                  status.                          Phase I: To improve utilization
+                                                   of quality integrated nutrition,
+                                                   health and child development
+                                                   services in targeted areas.
+Duration          SNAN: 2026–2030; PNAN: 2024– Phase I: 2026–2031                   Supporting first phase using SNAN. A follow-
+                  2033                             Phase II: 2030–2035              on SNAN will be prepared for 2031–2035,
+                                                                                    and lessons learned from the Phase I
+                                                                                    midterm review as well as the SNAN
+                                                                                    Midterm Evaluation in 2028 will be critical.
+Geographic        Nationwide                       Phase I: up to 46 communes       Priority engagement for the WBG
+coverage                                           reached
+                                                   Phase II: nationwide
+Results areas     Four SPs operationalized by      RA1: Increase utilization of     These RAs align directly to operationalize the
+                  four programs supported          quality integrated nutrition, GoB’s four strategic priorities. RA1 aligns
+                  through RA1, RA2, and IPF        health, and child                primarily with SP2 through its package of
+                  component: SP1: Institutional    development services.            maternal, neonatal, child, and adolescent
+                  Support Program for Improving                                     health services; SBCC promotion; and
+                  Food Environments;               RA2: Enhance community           deployment of frontline health
+                  SP2: Nutrition Program for       resilience and access to         professionals. RA2 aligns with SP1 by
+                  Pregnant Women and Early         quality, nutritious food         strengthening food systems governance and
+                  Childhood Development;           supply through local             supply chains for essential nutrition
+                  SP3: Integrated National School engagement and private            products, with SP3 through its support to
+                  Feeding Program (PNASI); and     sector partnerships.             integrated school health and nutrition
+                  SP4: Program to Combat                                            programs and improvement of school meals,
+                  Malnutrition and Food                                             and with SP4 through its support to climate-
+                  Insecurity.                                                       adapted family gardens, small-scale
+                                                                                    livestock, and women- and youth-led agri-
+                                                                                    food micro-businesses targeting vulnerable
+                                                                                    communities.
+Overall financing US$890 million                   US$285.8 million:
+                  (Total estimated cost of the     US$140.0 million (IDA)
+                  SNAN)                            US$15.0 million (GFF)
+                                                   US$130.8 million (GoB)
+
+
+                                                                                                                               Page 8
+       The World Bank
+       ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+                                                   Program Supported by the
+                       Government program                                               Reasons for Nonalignment
+                                                            PforR
+
+
+
+
+15. The Program-for-Results (PforR) supports Results Areas that are fully aligned with Benin’s National Multisectoral
+    Nutrition and Food Strategy (SNAN) 2026–2030 and is nested within the Government’s broader national nutrition
+    program. All Results Areas supported under the PforR correspond to Government budget lines and program codes,
+    ensuring alignment with national planning and expenditure frameworks. The design reflects lessons from previous
+    World Bank operations and analytical work in Benin and leverages close collaboration with the International Finance
+    Corporation (IFC). The Program is organized around two mutually reinforcing Results Areas, summarized below.
+
+Results Area 1: Increase utilization of quality integrated nutrition, health and child development services
+
+16. Results Area 1 focuses on strengthening delivery systems and service utilization across the life course, with particular
+    emphasis on the first 1,000 days of life. The Program supports integrated delivery of nutrition, maternal and child
+    health, and early childhood development services through community platforms, primary health care facilities, and
+    schools. Interventions include maternal and adolescent nutrition, infant and young child feeding, micronutrient
+    supplementation, prevention and management of acute malnutrition, post-natal care, and early childhood
+    stimulation, complemented by behavior change communication and strengthened frontline capacity.
+
+17. Under this Results Area, the PforR links disbursements to tangible improvements in service readiness, coordination,
+    and utilization. Key Disbursement-Linked Indicators incentivize: (i) functional multisectoral coordination platforms at
+    the commune level, (ii) expanded access to preventive nutrition supplementation for pregnant and breastfeeding
+    women and young children, (iii) increased use of post-natal care services, and (iv) strengthened frontline delivery of
+    integrated nutrition services. These results are supported by upstream technical assistance under the Investment
+    Project Financing (IPF) component, including training, monitoring and evaluation systems, communal governance
+    support, and supply chain strengthening.
+
+Results Area 2: Enhance community resilience and access to quality nutritious food supply through local engagement
+and private sector partnerships
+
+18. Results Area 2 addresses the food system and livelihood drivers of malnutrition by strengthening community resilience
+    and engaging local private sector actors. The Program supports climate-resilient nutrition gardens, small-scale
+    livestock, and women- and youth-led agri-food microenterprises to improve the availability, affordability, and quality
+    of nutritious foods in targeted communes. Activities include biofortification, food safety and quality improvements,
+    clean cooking solutions, and community early warning and response systems for climate and food security shocks.
+
+19. Disbursement-Linked Indicators under this Results Area incentivize the adoption of improved practices by women- and
+    youth-led agri-food businesses, aligned with national food safety standards, and expanded access of households and
+    schools to climate-resilient food production systems. Private sector engagement is deliberately sequenced, with
+    upstream advisory support in Phase I and potential scaling and investment under Phase II.
+
+IPF Component and Program Boundary
+
+
+
+                                                                                                                        Page 9
+       The World Bank
+       ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+20. The IPF component finances upstream technical assistance essential to the success and sustainability of the PforR,
+    including support to multisectoral coordination mechanisms, digital monitoring and evaluation systems, nutrition
+    financing and accountability, and last-mile supply chain strengthening. It does not finance service delivery or civil
+    works. In line with PforR policy, certain activities are excluded from the Program boundary, including direct financing
+    of school feeding (which is supported through parallel programs), high-value contracts above World Bank thresholds,
+    land acquisition or resettlement, and activities with unmanaged environmental or social risks.
+
+Program Beneficiaries
+
+21. Phase I of the ALAFIA Multiphase Programmatic Approach is expected to directly benefit women, children,
+    adolescents, and youth in up to 46 targeted communes, with a strong focus on populations facing high levels of
+    malnutrition, food insecurity, climate vulnerability, and insecurity-related displacement. Primary beneficiaries include
+    pregnant and breastfeeding women; children under five years of age, particularly during the first 1,000 days; and
+    adolescent girls, who will benefit from expanded access to integrated nutrition, health, and early child development
+    services. Phase I will also directly support women- and youth-led agri-food micro, small, and medium enterprises, as
+    well as households and schools, through climate-resilient gardens, small livestock, and improved local food
+    production, processing, and distribution practices. By strengthening community-level delivery systems, local food
+    supply chains, and multisectoral coordination, the Program is expected to generate broader community-wide benefits
+    and lay the foundation for national scale-up under Phase II.
+
+                                     Table 2. Key Outcomes of DLI-Supported Actions
+
+ DLI                                 Key Outcomes Supported under the Program
+ DLI# 1: Communes with a             Strengthens commune-level coordination across nutrition, health, water,
+ functional CCLS-TP providing        sanitation, social protection, and food systems by operationalizing multisectoral
+ multisectoral coordination of       platforms. This DLI supports institutionalized local leadership, planning, and
+ community-based                     accountability, reducing fragmentation and improving delivery of integrated
+ interventions in accordance         services in targeted communes.
+ with the National Community
+ Health Policy (Percentage)
+ DLI#2:                              Expands access to preventive nutrition interventions for pregnant and breastfeeding
+ Beneficiaries newly reached         women and children aged 6–23 months during the critical first 1,000 days. This DLI
+ with Small Quantity Lipid-Based     contributes to reducing micronutrient deficiencies and improving early childhood
+ Nutrient Supplements (SQ-LNS)       growth and development outcomes through scaled, integrated service delivery.
+
+ DLI#3: Women in post-partum         Increases utilization of post-natal care as a key entry point for delivering integrated
+ receiving at least one post-natal   health and nutrition services to mothers and newborns, including micronutrient
+ care (PNC) visit within six (6)     supplementation, breastfeeding support, and early identification of growth and
+ weeks of delivery at a health       health risks.
+ facility (Percent).
+
+ DLI#4: Skilled Frontline            Strengthens the quality and reach of community- and facility-based service delivery
+ Professionals trained and           by improving skills and deployment of frontline health and community workers. This
+ actively delivering integrated      DLI supports consistent delivery of integrated nutrition, health, and child
+ nutrition services (Number)         development interventions at scale
+
+
+                                                                                                                        Page 10
+          The World Bank
+          ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+
+    DLI#5: Women- and youth-led          Improves availability and quality of nutritious foods at the community level by
+    agri-food microenterprises that      supporting women- and youth-led agri-food microenterprises to adopt improved
+    have adopted improved                production, processing, or distribution practices aligned with national food safety
+    production, processing, or           standards, strengthening local food systems and livelihoods.
+    distribution practices in line
+    with national food safety
+    guidelines (Number)
+    DLI#6: Households and schools        Enhances dietary diversity, food security, and climate resilience by expanding access
+    with access to climate‑resilient     to community- and school-based food production systems, with particular benefits
+    gardens or small livestock           for children, adolescents (especially girls), and vulnerable households.
+    (Number)
+
+C. Proposed Program Development Objective(s)
+
+Program Development Objective (s)
+
+22. The development objective for Phase I of the MPA is to improve utilization of quality integrated nutrition, health and
+    child development services in targeted areas.
+
+PDO/PrDO level indicators
+
+•      Prevalence of stunting among children under five (percentage)
+•      Children aged 0–59 months who receive age-appropriate ECD or stimulation services through the FARN22 (Number)
+•      Women in post-partum receiving at least one post-natal care (PNC) visit within six (6) weeks of delivery at a health
+       facility (Percentage)
+•      Prevalence of anemia among women of reproductive age (15–49 years) (percentage)
+
+    D. Environmental and Social Effects
+
+23. Given the nature and scope of activities supported under Phase I of the ALAFIA Multiphase Programmatic Approach,
+    adverse environmental and social impacts are expected to be limited, site-specific, and manageable. An
+    Environmental and Social Systems Assessment (ESSA) has been conducted and confirms that the six core principles
+    applicable to Program-for-Results financing are relevant and that Benin’s environmental and social management
+    systems are generally adequate to manage the associated risks, while identifying areas where system strengthening
+    is required.
+
+24. The Program provides an opportunity to strengthen national and local environmental and social systems in three key
+    areas: (i) building institutional capacity—particularly within agencies responsible for nutrition, environment, and local
+    governance—and strengthening monitoring, risk screening, and mitigation measures, including safe food handling and
+    waste management practices; (ii) improving the application of environmental and social management tools and
+    procedures to ensure consistent and effective risk management; and (iii) strengthening grievance redress mechanisms
+
+
+
+22
+     FARN stands for Foyers d'Apprentissage et de Récupération Nutritionnelle
+
+                                                                                                                          Page 11
+       The World Bank
+       ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+    and safeguards for vulnerable groups through improved institutional practices and capacity building. A summary of
+    the ESSA is provided in the PAD annex.
+
+25. Environmental and social risks associated with the Investment Project Financing (IPF) component, which supports
+    technical assistance and capacity building, are assessed as Moderate. Impacts are expected to be minimal and
+    manageable, as the IPF does not finance civil works and focuses on policy support, systems strengthening,
+    digitalization, and institutional development. The Government will implement appropriate instruments—consistent
+    with the Environmental and Social Framework—to address identified risks, including those related to occupational
+    health and safety, stakeholder engagement, and labor conditions.
+
+26. Grievance Redress. Communities and individuals who believe they are adversely affected by the Program may submit
+    complaints through the Program’s grievance mechanism or directly to the World Bank’s Grievance Redress Service
+    (GRS), which ensures that concerns are promptly reviewed and addressed. Program-affected individuals and
+    communities may also submit complaints to the World Bank’s Accountability Mechanism (AM), which provides
+    independent recourse through problem-solving and compliance review functions. Information on how to access these
+    mechanisms is publicly available through the World Bank.
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                           Triggered?
+ Projects on International Waterways OP 7.50                                          No
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component
+
+
+27. The Investment Project Financing (IPF) component will finance analytical work, policy and regulatory support, digital
+    systems development, and capacity building to strengthen multisectoral nutrition governance, monitoring and
+    evaluation, food safety, supply chains, and local implementation capacity. No civil works are planned under the IPF.
+    Environmental and social risks associated with the IPF component are therefore assessed as Moderate, reflecting the
+    potential for localized and indirect downstream impacts as policies, systems, and practices are strengthened, as well
+    as the need to ensure inclusive participation of vulnerable groups. Social risks relate primarily to stakeholder
+    engagement, institutional capacity, and the risk of exclusion if systems are not adequately strengthened. Risks related
+    to sexual exploitation and abuse and sexual harassment (SEA/SH) are assessed as low, given the focus on technical
+    assistance and capacity building; nevertheless, appropriate mitigation measures will be incorporated, including codes
+    of conduct for project personnel, capacity building for implementing agencies, and provisions within the grievance
+    redress mechanism to safely receive and address SEA/SH-related complaints.
+
+28. The Technical Assistance (TA) finances analytical work, policy/regulatory support, and capacity building with no civil
+    works, resulting in low overall E&S risk at the concept stage. Furthermore, the downstream impacts resulting from
+    the TA are anticipated to be largely positive, given the emphasis on sound design and robust quality assurance. ESS1
+    applies for proportional risk management across the TA. Key relevant standards and risks include: ESS2 for direct and
+    contracted workers, addressing fair terms, non-discrimination, OHS for office/travel/events, SEA/SH provisions,
+    worker data protection, and access to a confidential workers’ GM; ESS3 on a limited basis for e-waste from IT
+    upgrades; ESS4 for community health and safety risks linked to consultations/trainings and travel (road/traffic safety,
+
+                                                                                                                      Page 12
+       The World Bank
+       ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+    communicable disease, venue safety/crowd management, SEA/SH, and where digital activities are involved
+    cybersecurity, data privacy, and inclusion); and ESS10 for inclusive engagement through a SEP with an accessible GM
+    and consideration of disadvantaged/vulnerable groups and plausible downstream effects. All TA activities will be
+    subject to the application of Environmental and Social Standards 1 (ESS1), specifically paragraphs 14-18, as well as the
+    guidance provided in the Operations Environmental and Social Review Committee (OESRC) Advisory Note on Technical
+    Assistance (May 21, 2019). An Environmental and Social Commitment Plan (ESCP) will be developed for the IPF/TA,
+    which will include measures for stakeholder engagement (SEP) and address potential labor risks associated with the
+    procurement of consultants. The IPF component will be implemented by the newly created agency ANAN. The
+    Borrower will assign dedicated staff, including an E&S specialist, to implement and monitor ESF measures throughout
+    the project lifecycle. At this stage of preparation, there is no assurance that the Program’s implementing partners
+    have adequate familiarity with ESF. Targeted capacity building will therefore be required for ANAN, ABE, and other
+    relevant agencies and implementing partners to effectively manage E&S risks and impacts under the Program, which
+    addresses the sensitive domain of nutrition.
+
+E. Financing
+
+29. The ALAFIA Program supports implementation of Benin’s National Multisectoral Nutrition and Food Strategy (SNAN
+    2026–2030) by complementing government financing and strengthening the public expenditure framework for
+    nutrition. The SNAN has an estimated total cost of approximately US$890 million over 2026–2030, of which the ALAFIA
+    Program supports a defined slice focused on service delivery, community resilience, and systems strengthening. Phase
+    I of the Multiphase Programmatic Approach is financed through a combination of International Development
+    Association (IDA) credit and Global Financing Facility (GFF) grant resources, reflecting a balanced financing structure
+    that supports results-based implementation while mobilizing catalytic funding.. World Bank financing for Phase I totals
+    US$170 million, comprising US$155 million under the Program-for-Results (PforR) component and US$15 million
+    under the Investment Project Financing (IPF) component. The PforR supports a defined portion of the Government
+    program with a financing envelope of US$285.8 million, complemented by the IPF component for technical assistance
+    and systems strengthening. In line with the World Bank’s PforR policy, high-risk and high-value activities are excluded,
+    including activities with significant adverse environmental or social impacts and high-value contracts. Government
+    resources constitute a substantial share of overall Program financing and are fully integrated within national budget
+    processes. While school feeding represents a major cost driver within the SNAN, direct financing of food purchases
+    for school meals is excluded from the Program; instead, ALAFIA I focuses on strengthening local production, micro,
+    small, and medium enterprises, households, and schools to sustainably improve access to nutritious foods, laying the
+    foundation for scale-up under Phase II.
+
+                                          Program Financing for ALAFIA I
+                                                                Amount                    Amount
+                        Source                               (US$, Millions)           (US$, Millions)       % of Total
+                                                                 PforR                      IPF
+International Development Association (IDA– Credit)               140.00                    10.00             88.24%
+
+Global Financing Facility (GFF) – Grant                            15.00                    5.00              11.76%
+
+Total Program Financing                                           155.00                    15.00            100.00%
+
+
+       Program Expenditure Framework (PEF)
+
+                                                                                                                       Page 13
+     The World Bank
+     ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+
+ 30. The Program will support a gradual reorientation of public expenditures toward priority nutrition, health, and
+     resilience interventions, within Benin’s results-based, medium-term public financial management framework.
+     Benin has been engaged since the mid-2010s in a WAEMU-aligned results-based budgeting process, which
+     strengthens budget credibility, improves visibility of sector priorities, and facilitates multi-year planning. Program
+     resources will finance a mix of investments and recurrent expenditures aligned with the Program’s Results Areas,
+     including service delivery capacity, systems strengthening, and performance-linked activities. Over the Program
+     period, a significant share of expenditures represents incremental spending to scale up priority interventions,
+     complemented by ongoing government expenditures, including staff time and operating costs of participating
+     entities.
+
+ 31. The consolidation and execution of Program expenditures are anchored in the institutional architecture established
+     under the Agence Nationale de l’Alimentation et de la Nutrition (ANAN), a public institution with legal personality
+     and financial autonomy, reporting directly to the Presidency. ANAN serves as the national multisectoral
+     coordination body for nutrition financing, planning, and monitoring, and plays a central role in rationalizing sectoral
+     expenditures that were previously fragmented across multiple ministries. This institutional arrangement
+     strengthens expenditure efficiency, improves coordination across sectors, and enhances accountability for results.
+                      ALAFIA MPA Phase I Program Expenditure Framework by Results Areas 2026-2031 (US$M)
+                                             GoB.                          IDA                           GFF
+        Government
+                         Program
+          program                                                                                                         Total
+                           RA R     Imp.     Budget            Implementing Budget             Imp.     Budget
+           pillars                                    Amount                         Amount                      Amount
+                                   Agency     code               . Agency    code             Agency     code
+
+                                    ANAN      010      66.6       ANAN       010      53.0    ANAN       010      11.0    130.6
+
+         Pillars 1 & 2     RA 1    CNLS-TP    046       0.0      CNLS-TP     046      36.0    CNLS-TP    046      01.0    37.0
+
+                                   ANSSP      046       5.1       ANSSP      046      25.0    ANSSP      046      03.0    33.1
+
+           Pillar 2        RA 2     MAEP      036      59.1       MAEP       036      26.0    MAEP       036      00.0    85.1
+
+      Total for PforR                                  130.8                         140.0                       15.00    285.8
+
+      Total for IPF                                                                   10.0                        5.0      15.0
+      Grand Total                                      130.8                         150.0                       20.00    300.8
+
+      Source: Government of Benin and World Bank mission estimates
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Fatima Barry
+ Senior Health Specialist
+
+Borrower/Client/Recipient
+
+
+                                                                                                                                  Page 14
+     The World Bank
+     ALAFIA I - Nourishing Benin's Future Program (P509225)
+
+
+ Republic of Benin
+
+Implementing Agencies
+ Agence Nationale de l’Alimentation et de la Nutrition (ANAN)
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Fatima Barry
+
+Co- Team Leader(s):                     Djaoudath Alidou Dramane
+
+Approved By
+
+Practice Manager/Manager:               Moulay Driss Zine Eddine El Idrissi   30-Apr-2026
+
+Country/Division Director:              Karine Bachongy                       12-May-2026
+
+
+
+
+                                                                                            Page 15
+

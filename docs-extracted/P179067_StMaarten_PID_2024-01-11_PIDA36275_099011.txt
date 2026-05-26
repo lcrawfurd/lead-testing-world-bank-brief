@@ -1,0 +1,460 @@
+Public Disclosure Authorized
+                                         The World Bank
+                                         SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+                                f
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                     Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                    Appraisal Stage | Date Prepared/Updated: 05-Jan-2024 | Report No: PIDA36275
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               Aug 14, 2023                                                                                       Page 1 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                      Project ID            Project Name                 Parent Project ID (if any)
+   St Maarten                                   P179067               SINT MAARTEN:
+                                                                      WASTEWATER
+                                                                      MANAGEMENT PROJECT
+   Region                      Estimated Appraisal Date               Estimated Board Date         Practice Area (Lead)
+   LATIN AMERICA AND CARIBBEAN 15-Jan-2024                            29-Feb-2024                  Water
+
+   Financing Instrument                         Borrower(s)           Implementing Agency
+   Investment Project Financing                 Government of Sint    National Recovery
+                                                Maarten               Program Bureau
+
+   Proposed Development Objective(s)
+
+   The objectives of the Project are to: (i) increase access to safely managed sanitation services; and (ii) improve
+   sustainability and resilience of wastewater management.
+
+   Components
+   Wastewater infrastructure investment
+   Technical assistance for sustainable and resilient wastewater management
+   Project management
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                   -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                     25.00
+   Total Financing                                                                                                        25.00
+                            of which IBRD/IDA                                                                              0.00
+   Financing Gap                                                                                                           0.00
+
+
+  DETAILS     -NewFinEnh1
+
+
+
+
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                                 15.00
+         National Government                                                                                              15.00
+
+
+Jan 5, 2024                                                                                                            Page 2 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+      Trust Funds                                                                                                                                          10.00
+         Sint Maarten: Hurricane Irma Recon., Rec., & Res. Prg TF                                                                                          10.00
+
+   Environmental and Social Risk Classification
+   Substantial
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+   B. Introduction and Context
+   Country Context
+
+   1.     Sint Maarten's economy is largely based on tourism. Restaurants, hotels, and other tourism-related sectors
+   account for about 45 percent of the country’s Gross Domestic Product (GDP), and tourism accounted for 73 percent of
+   foreign exchange income, with tourism creating employment for approximately one-third of the employed population1.
+   Sint Maarten primarily caters to cruise tourists, with the island’s only deep-water port located in Philipsburg. About 80
+   percent of the visitors to the island are short-stay cruise tourists.
+
+  2.      Sint Maarten is vulnerable to natural disasters and adverse climatic events due to its location within the
+  hurricane belt. For the past decades, the country has been exposed to high winds and numerous hurricanes, including
+  notably intense storms: Donna in 1960 (Category 3 of the Saffir-Simpson scale), Hugo in 1989, Lenny in 1999, Luis in 1995
+  (Category 4), Gonzalo in 2014 (Category 1) and Irma in 2017 (Category 5). Due to the small size of the country, a single
+  storm has the potential to impact the entire population directly. High winds, rainfall, and flooding are the principal risk
+  factors while the country is also vulnerable to earthquakes. Low laying urban areas are prone to flashfloods because of
+  heavy rainfalls, with topographic characteristics and little consideration for stormwater drainage as contributor factors.
+  In addition, coastal areas are exposed to flood risk from sea level rise and storm surge.
+
+ 3.      The Sint Maarten Recovery, Reconstruction, and Resilience Trust Fund (SXM Trust Fund) was established in
+ 2018. Sint Maarten made substantial efforts to address the most urgent needs following Hurricane Irma. Nevertheless,
+ recovery needs were massive, and the country had limited capacity to manage large-scale reconstruction and resilience
+ building. In April 2018, to support rapid and sustainable recovery from Hurricane Irma, the Government of the Netherlands
+ established the SXM Trust Fund for up to EUR470 million, which is managed by the World Bank. The Government of Sint
+ Maarten (GoSM) established the National Recovery Program Bureau (NRPB), which serves as the Project Implementation
+ Unit (PIU) for the preparation and implementation of the activities within the trust fund since July 2018.
+
+   Sectoral and Institutional Context
+
+   4.    While 96 percent of the households in Sint Maarten have access to piped water supply, sewerage network
+   coverage is low. Prior to the Hurricane Irma and COVID-19 pandemic, Sint Maarten experienced rapid economic
+   development along with population growth for a four decades. However, this growth was not followed by sufficient
+
+
+              1 National Recovery and Resilience Plan, Government of Sint Maarten, June 2018. Labor Force Survey 2017: tourism-based economy includes
+
+              wholesale and retail industries, hotels, restaurants, and catering.
+
+
+Jan 5, 2024                                                                                                                                             Page 3 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+   investment in wastewater infrastructure. As a result, existing public sewerage network coverage is severely limited, and
+   covers only a few districts and neighborhoods of Sint Maarten, leaving significant areas and percentage of the population
+   uncovered. Although GoSM has made several wastewater investments over the time, it is estimated that less than 11
+   percent of the properties in the country (approx. 2,000 properties) are connected to the sewerage network.
+
+   5.      89 percent of households rely on mostly septic tanks or direct discharges to gutters which lead to water bodies.
+   The population that is not connected to the sewerage network relies on septic tanks prone to overflow or direct
+   discharges into the closest water bodies. Removal of the sludge from septic tanks relies on householders’ initiative and
+   is paid to private companies that provide such services. The fees for sludge removal pay for the transport and disposal of
+   the sludge still represent a hindrance for many people, resulting in irregular removal of sludge from the septic tanks in
+   most places. As a result, those tanks are prone to overflow, causing the discharge of untreated effluent directly into open
+   gutters that flow into lower areas, ponds and lagoons such as the Great Salt Pond and eventually released into the sea.
+   In this context, expanding the sewage network to connect more properties has been recognized as a priority for
+   protecting the health of the population and mitigating pollution of the island’s surface and coastal waters.
+
+   6.      Sint Maarten’s wastewater treatment infrastructure requires an upgrade to satisfy existing treatment
+   requirements and deal with future loads. The country’s single municipal biological WWTP is located on A. T. Illidge Road
+   and it is designed to service the eastern part of the island, including the Greater Philipsburg area, Cul de Sac, Upper
+   Prince’s Quarter and the Lower Prince’s Quarter areas. The WWTP has the nominal capacity to treat 4750 m 3 of
+   sewerage/day (up to 60,000 population equivalents) and is currently operating at approx. 50 percent of its design
+   hydraulic load. An unknown part of these flows originates from the intrusion of stormwater, and incidentally from cruise
+   ships docking at Sint Maarten. Additionally, it receives about 450 m3/d of household septic sludge delivered by trucks to
+   the plant. Treated wastewater is discharged into the Great Salt Pond which is connected to the Fresh Pond via a floodgate,
+   a small water body further connected to the sea via a blocked canal that is occasionally used for water discharge during
+   large rainfall events.
+
+   7.     Climate-change exacerbated extreme weather events are contributing to the direct or indirect discharge of
+   untreated wastewater, leading to land, surface water and sea pollution. After storms and hurricanes, septic systems
+   tend to overflow and sludge collection and transport to the country’s wastewater treatment plant can eventually
+   interrupt for a considerable period, leading to land, surface water, and coastal water pollution. Even without extreme
+   weather events, in the most densely developed areas of Sint Maarten, significant amounts of septic systems are
+   saturated, leading to groundwater pollution and sewage runover to public roads and private properties. Clean surface,
+   coastal and bathing waters, and rich biodiversity constitute the island’s major assets, which are essential for the
+   development of a tourism-based economy. However, this richness is acutely threatened by the pollution created by these
+   discharges of untreated wastewater. Research analysis has confirmed the unsatisfactory state of the surface/coastal
+   waters, with medium to elevated levels of phosphorus and nitrogen and presence of fecal coliform bacteria, indicating
+   sewerage pollution of coastal waters.
+
+   8.      There are multiple reasons for inadequate sanitation in Sint Maarten. The unsatisfactory status of wastewater
+   management in Sint Maarten results from several socio-economic, technical, and institutional issues, including (i) budget
+   deficits which leave no room for capital expenditures, or budget allocation prioritized for other projects; (ii) lack of a
+   wastewater financing model and no tariff or billing system for the provision of public wastewater services(currently there
+   are no tariffs or connection fees being charged to the customers connected to the sewer system) ; (iii) absence of a
+   formally adopted sewerage development master plan; (v) limited capacity - insufficient data, fragmented knowledge and
+
+
+Jan 5, 2024                                                                                                        Page 4 of 10
+              The World Bank
+              SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+   lack of clearly defined roles and responsibilities among the main stakeholders active in the water sector; and (vi) limited
+   public awareness regarding wastewater pollution, in part due to the absence of comprehensive and continuous water
+   quality monitoring of surface waters (ponds, lagoons, and channels) and along Sint Maarten’s beaches.
+
+   9.     The SXM Trust Fund will support the Government of Sint Maarten efforts for increasing access to safely managed
+   sanitation services and improving the sustainability and resilience of such services, through an Investment Project
+   Financing (IPF) operation of US$25 million including grant of US$10 million from Sint Maarten: Hurricane Irma
+   Reconstruction, Recovery and Resilience Trust Fund, and Government contribution of US$15 million. The project will
+   support the upgrade and expansion of wastewater system and improvement of wastewater management services in the
+   country. The infrastructure work will upgrade existing WWTP and extend the sewerage connections to enable connection
+   of approximately 10,500 new customers. The project will also support the creation of a framework for sustainable
+   provision of efficient, and resilient wastewater services, through the strengthening the capacities of the line Ministry for
+   Public Housing, Spatial Planning, Environment, and Infrastructure (VROMI) for efficient management of wastewater
+   services, improvement of legal and regulatory framework, and the development of wastewater management strategies.
+
+   C. Proposed Development Objective(s)
+  Development Objective(s) (From PAD)
+
+   10.    The objectives of the Project are to: (i) increase access to safely managed sanitation services; and (ii) improve
+   sustainability and resilience of wastewater management
+
+   Key Results
+
+   11.        The progress toward the PDOs achievement will be assessed through the following indicators:
+
+         a.    People provided (out of which female) with access to safely managed sanitation services
+         b.    Volume of BOD removed by wastewater treatment before discharge
+         c.    Institutional and financial model for wastewater management has been adopted and is effective
+         d.    Wastewater system operator has prepared water safety crisis and management program for extreme weather
+               events (risks and measures)
+
+   D. Project Description
+
+   12.        The Project will include three components:
+              (i)    Wastewater infrastructure investment,
+              (ii)   Technical assistance for sustainable and resilient sanitation management, and
+              (iii)  Project management.
+
+
+   Component 1: Wastewater infrastructure investment (US$20 million)
+
+   13.   The component will finance all stages of infrastructure development, including identification, design,
+   supervision, and construction of new or upgrade/rehabilitation of existing wastewater collection, treatment, and
+   disposal infrastructure. The component would include the preparation of Feasibility Studies, Environmental Impact
+
+
+
+Jan 5, 2024                                                                                                         Page 5 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+   Assessments, and other project documentation necessary to secure required permits, detailed designs, bidding
+   documents, supervision and contracting of construction works.
+   Component 1 will include two sub-components:
+
+   Sub-component 1.1: Wastewater collection This first sub-component aims at improving the coverage and resilience of
+   wastewater collection. This will be done through:
+
+   (i)     Expansion of the existing sewerage network, including transport pipelines, collection pipelines, pumping stations,
+   house sewerage connection and other structures, to enable the connection for residents and commercial enterprises. The
+   priority project area will be Greater Cul de Sac, and if more funds become available later, the sewerage network could be
+   expanded to other priority areas that may include Greater Philipsburg and Lower Prince`s Quarter.
+
+   (ii)    Rehabilitation of critical parts of the existing sewage system to improve its climate resilience and operational
+   efficiency
+
+   Sub-component 1.2: Upgrade of existing A. T. Illidge Road WWTP. This sub-component will include the necessary
+   rehabilitation and upgrade of the existing A. T. Illidge Road WWTP. The rehabilitation and expansion work will include
+   upgrades of both wastewater treatment and sludge treatment lines, necessary upgrade of equipment needed for
+   measurement and analysis of wastewater, improved energy efficiency, upgrade of SCADA, etc.
+
+   Component 2: Technical assistance for sustainable and resilient wastewater management (US$3 million)
+
+   14.   Component aims at creating the framework for the provision of sustainable and resilient wastewater services in
+   Sint Maarten, and will include the following activities:
+   a)    Capacity strengthening of the line Ministry (VROMI) for planning, regulation, and supervision of wastewater services
+   through training, knowledge transfers, and IT support, including preparation of a roadmap for improving VROMI capacity.
+
+   b)     Strengthening of the policy, legal, and regulatory framework for sustainable and resilient wastewater service
+   provision (building on existing plans and ordinances) . This would include: the development and adoption of a financially
+   viable wastewater management model, and development and adoption of cost recovery principle, support for contracting
+   the private sector for operation of the wastewater system, and establishment of an enabling policy framework that would
+   enhance the service provider’s operational, financial, and institutional capacity to cope with climate- and non-climate
+   related disasters and shocks.
+
+   c)     Support to GoSM in preparing and processing a long-term contract with a private operator for the operation of the
+   country’s public wastewater management system. This contract is expected to go beyond project closing date and
+   represents a long-term institutional solution for wastewater management.
+
+   d)     Development of a national sanitation strategy for Sint Maarten and mid/long-term implementation plans for phased
+   expansion of a wastewater management system. This comprehensive sanitation strategy would include plans for safe
+   management of sanitation for the entire population of Sint Maarten, especially those in the neighborhoods that will take
+   time to be connected or will not be connected to the formal sewerage network.
+
+   e)      Management of fecal sludge from septic tanks, including– the review and development of locally appropriate
+   standards for safe containment, collection, and treatment of fecal sludge; licensing, and monitoring and optimization of
+   fecal sludge emptying service providers.
+
+Jan 5, 2024                                                                                                      Page 6 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+   f)     Development of a focused technical analysis on understanding the effects of wastewater pollution on coastal water
+   quality, which would feed in to design of a seawater quality monitoring system and the identification of additional measures
+   for reduction of surface and seawater pollution.
+
+   g)     Development of a system for monitoring seawater quality in coastal areas/beaches and the surface water quality of
+   inland ponds. The objective of this activity is to develop a conceptual design and baseline for surface and seawater quality
+   monitoring, with a particular focus on bathing waters quality monitoring, which would provide adequate information on
+   the status of Sint Maarten’s coastal waters, and existing inner ponds (primarily Fresh Pond and Great Salt Pond).
+
+
+   15.    This component will allow the creation of adaptative capacity and resilience at the institutional level towards
+   climate change in the wastewater management sector, setting the foundations for a quick response and recovery from
+   climate-related hazards in the sector. It establishes adaptive strategies, including national wastewater plans focused on
+   climate adaptation. Strengthening institutional capacity involves knowledge creation, skill development, and
+   implementing a surface water quality monitoring system. This enhances responsiveness, improves decision-making, and
+   allocates resources effectively to address climate-related challenges.
+
+   Component 3: Project management (US$2 million)
+
+   16.     Under this Component, the Project will support the project management and coordination capacity of the NRPB
+   as a Project Implementation Unit (PIU), including support to the PIU on: (i) project operating cost, monitoring and
+   evaluation activities; (ii) environmental and social risk mitigation measures; (iii) training of PIU and Gov staff; (iv) annual
+   audits for the project and providers; and (v) establishment of citizen engagement measures and grievance redress
+   mechanisms for the project activities.
+
+    17.    Project beneficiaries Approximately 10,500 people in priority areas will directly gain new sewerage access and
+    consequently safe sanitation services. Furthermore, the broader population of Sint Maarten, through improved policy and
+    regulatory environment, will enjoy better septic tank management, improved water quality in coastal and inland water
+    bodies, and increased environmental safety. Notably, the tourism-based economy, a crucial sector, will gain cleaner
+  .coastal waters essential for sustainable hospitality industry development.
+  .
+  Legal Operational Policies
+                                                                          Triggered?
+
+   Projects on International Waterways OP 7.50                           No
+
+   Projects in Disputed Areas OP 7.60                                    No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+    18.     The Environmental and Social risk classification is Substantial. The project is expected to contribute to reduced
+    pollution and promote health and wellbeing of communities and tourists, however, it is also associated with potential E&S
+    risks and impacts during the construction and operation stages. The environmental risk rating is Substantial. The key
+    potential environmental risks and impacts are: (i) pollution from the management and disposal of dewatered sludge and
+
+Jan 5, 2024                                                                                                           Page 7 of 10
+            The World Bank
+            SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+      other construction waste; (ii) increased energy consumption of the upgraded wastewater system; (iii) occupational health
+      and safety (OHS) risks; (iv) risks related to climate change and natural disasters; (v) noise, dust and release of odors; and
+      (vi) traffic risks to road users during sewer network activities. The social risk rating is Moderate. The risks are likely to be:
+      (i) potential temporary interruptions to the normal operation of businesses along planned civil works route that could
+      cause loss or reduction of income; (ii) cost implications for new residences and commercial businesses to connect to the
+      expanded sewer network and the introduction of tariffs, that can create resistance among stakeholders if adequate
+      engagement is not undertaken; (iii) noise, dust and altered traffic patterns as a result of the civil works and, finally, (iv)
+      OHS risks consistent with civil works.
+
+      19.     The NRPB has developed draft E&S instruments to manage the above E&S risks and impacts. These are: (i) a
+      Stakeholder Engagement Plan (SEP); (ii) Labor Management Procedures (LMP); (iii) Table of Contents (ToC) for an
+      Environmental and Social Management Plan (ESMP) for the sewer network; (iv) Terms of Reference (ToR) for an
+      Environmental and Social Assessment (ESA) and ESMP for the WWTP; and (v) a draft Environmental and Social
+      Commitment Plan (ESCP) which will be finalized during project negotiations. The draft documents have been submitted
+      for World Bank review and once cleared, they will be disclosed prior to appraisal for the purposes of consultations. The
+      initial consultations will take place during project preparation and will continue, as necessary, during project
+      implementation. The instruments will be finalized incorporating feedback from stakeholders and the technical designs
+      once available. To manage the implementation of the project, the NRPB has a dedicated team of six qualified full time E&S
+      specialists. The team has experience in implementing several projects administered by the World Bank. At this stage, it is
+      expected that the current E&S team will be sufficient to manage the E&S aspects throughout the project life cycle.
+      However, the human resources needs and E&S expertise required for this project will continue to be assessed during
+      project implementation.
+
+      E. Implementation
+
+      Institutional and Implementation Arrangements
+
+      20.    The project implementation will be carried out by the NRPB which acts as a Project Implementation Unit (PIU).
+      The PIU would work closely with VROMI to execute the Project Components and ensure that the policies and procedures
+      set out in the operations manual are adhered to. It would have overall responsibility for ensuring compliance with fiduciary
+      agreements and procurement guidelines, social and environmental standards, and monitoring, reporting, and evaluation
+      of processes and results. It would coordinate technical designs of the projects with relevant ministries and agencies and
+      conduct consultative and reporting functions.
+
+      21.    VROMI, as one of the key stakeholders and implementing partners on behalf of GoSM, will be responsible for
+      making policy decisions related to planning and strategic development of wastewater management. VROMI will also
+      ensure sustainable financing of wastewater management, commitment to O&M, and providing technical input during
+      project design and implementation. NRPB will work closely with VROMI to ensure that the technical input and policy advice
+      from VROMI is properly incorporated into project implementation.
+
+      22.   The PIU is responsible for producing semi-annual reports to monitor progress under the Project. The PIU will be
+      responsible for tracking the advancement of the Program against the indictors detailed in the results framework.
+  .
+
+
+
+
+Jan 5, 2024                                                                                                                Page 8 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Stjepan Gabric
+   Senior Water Resources Management Specialist
+
+   Farah Altagracia Dorval
+   Water Supply and Sanitation Specialist
+
+   Borrower/Client/Recipient
+   Government of Sint Maarten
+
+
+
+
+   Implementing Agencies
+
+   National Recovery Program Bureau
+   Claret Connor
+   Director
+   c.connor@nrpbsxm.org
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                            Stjepan Gabric
+   Task Team Leader(s):
+                                            Farah Altagracia Dorval
+
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                        Ogo-Oluwa Oluwatoyin Jagha   11-Jan-2024
+
+Aug 14, 2023                                                                           Page 9 of 10
+          The World Bank
+          SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+
+Aug 14, 2023                                                      Page 10 of 10
+

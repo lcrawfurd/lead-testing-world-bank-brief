@@ -1,0 +1,988 @@
+Public Disclosure Authorized
+                                                                    FOR OFFICIAL USE ONLY
+                                                                                                  Report No: RES42298
+
+                                                      INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+Public Disclosure Authorized
+                                                                    RESTRUCTURING PAPER
+                                                                            ON A
+                                                         PROPOSED PROGRAM RESTRUCTURING
+                                                                           OF THE
+                                             SUSTAINABLE RURAL WATER SUPPLY AND SANITATION PROGRAM
+                                                              APPROVED ON JUNE 26, 2018
+
+                                                                           TO THE
+
+
+
+
+Public Disclosure Authorized
+                                                             UNITED REPUBLIC OF TANZANIA
+
+
+
+
+                               Water Global Practice
+                               Eastern and Southern Africa Region
+
+
+
+
+Public Disclosure Authorized
+                                               Regional Vice President: Hafez M. H. Ghanem
+                                                      Country Director: Mara K. Warwick
+                                              Acting Regional Director: Catherine Signe Tovey
+                                              Acting Practice Manager: Fook Chuan Eng
+                                                  Task Team Leader(s): Ruth Kennedy-Walker and Toyoko Kodama
+     The World Bank
+     Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+                                      ABBREVIATIONS AND ACRONYMS
+
+
+CBWSO                   Community-Based Water Supply Organization
+CWS                     Community-Wide Sanitation
+DLI                     Disbursement-Linked Indicator
+DLR                     Disbursement-Linked Result
+FCDO                    Foreign Commonwealth and Development Office of the United Kingdom
+GoT                     Government of Tanzania
+HCF                     Health Care Facility
+IA                      Implementing Agency
+IPF                     Investment Project Financing
+LGA                     Local Government Authority
+MoEST                   Ministry of Education, Science and Technology
+MoH                     Ministry of Health
+O&M                     Operation and Maintenance
+PDO                     Program Development Objective
+PforR                   Program-for-Results
+QA&QC                   Quality Assurance and Quality Control
+RUWASA                  Rural Water Supply and Sanitation Agency
+SWASH                   School Water Sanitation and Hygiene
+WP                      Water Point
+        The World Bank
+        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+DATA SHEET (Sustainable Rural Water Supply and Sanitation Program - P163732)
+BASIC DATA
+Project ID                          Financing Instrument                          IPF Component
+P163732                             Program-for-Results Financing                 Yes
+Original Environmental Assessment Category (IPF            Current Environmental Assessment Category (IPF
+Component)                                                 Component)
+ Partial Assessment (B)                                    Partial Assessment (B)
+
+ Approval Date                                             Current Closing Date
+ 26-Jun-2018                                               31-Jul-2024
+
+Organizations
+
+ Borrower                                                  Responsible Agency
+ United Republic of Tanzania
+
+
+
+Program Development Objective(s)
+The project development objective is to increase access to rural water supply and sanitation services in participating
+districts and strengthen the capacity of select sector institutions to sustain service delivery.
+
+
+OPS_TABLE_PDO_CURRENTPDO
+Summary Status of Financing (US$, Millions)
+
+                                                                              Net
+                Approval                      Effectiveness    Closing
+Ln/Cr/TF                      Signing Date                                    Commitment         Disbursed Undisbursed
+                Date                          Date             Date
+
+IDA-62950       26-Jun-2018     07-Sep-2018      15-Jul-2019    31-Jul-2024             350.00      182.01         160.01
+
+
+
+Policy Waiver(s)
+Does the Program require any waivers of Bank policies applicable to Program-for-Results operations?
+No
+
+
+
+
+                                                                                                              Page 1 of 20
+        The World Bank
+        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+I. PROGRAM STATUS AND RATIONALE FOR RESTRUCTURING
+
+A      Program Status
+
+1. The Tanzania Sustainable Rural Water Supply and Sanitation Program (SRWSSP) is a US$350 million Program-for-
+   Results (PforR) operation that is supporting the implementation of Water Sector Development Program Phase 2 in
+   Tanzania. The Program was approved on June 26, 2018, with an IDA credit of SDR 243.4 million (US$350 million
+   equivalent), and became effective on July 15, 2019. The current closing date is July 31, 2024. To date, the Program
+   has disbursed 53 percent (US$182.0 million equivalent). The second-year results have been verified, and a Results
+   Achievement Notification Letter was received on April 5, 2022. Since two of the Disbursement-linked Results (DLRs)
+   surpassed the allocations, the Government of Tanzania (GoT) requested a restructuring of the Program to reallocate
+   funds to these overachieved disbursement-linked indicators (DLIs) with an official letter, dated April 5, 2022.
+
+2. The Program Development Objectives (PDO) of SRWSSP are to increase access to rural water supply and sanitation
+   services in participating districts and strengthen the capacity of selected sector institutions to sustain service
+   delivery. It covers 86 districts in 17 regions that have low access to improved water supply and sanitation, high
+   stunting rates, and high poverty rates. It has three Results Areas and an IPF component. Each result area and
+   associated DLIs are summarized as below:
+       (i) Results Area 1- Sustainable access to improved water services in rural areas (US$105 million), providing
+             increased access to well-designed, properly constructed, and well-managed rural water supply services (both
+             new1 and rehabilitated) and sustaining existing water points to ensure they remain functional and provide
+             adequate service levels (DLI #1&2).
+       (ii) Results Area 2- Increased access to improved sanitation services in rural areas (US$75 million), achieved
+             through promotion of hygiene practices and improved sanitation at household level; construction and
+             rehabilitation of institutional water, sanitation, and hygiene (WASH) facilities at primary schools and health
+             care facilities; and Community-Wide Sanitation (DLI #3, 4, and 5).
+       (iii) Results Area 3 - Strengthening of the capacity of sector institutions to sustain service delivery in rural areas
+             (US$150 million), through better data management for reporting and decision-making; strengthening of
+             technical and financial capacities of Community-based Water Supply Organizations (CBWSOs); and
+             establishment and operationalization of the Rural Water Supply and Sanitation Authority (RUWASA) (DLI #6,
+             7, and 8).
+       (iv) Investment Project Financing (IPF) component (US$20 million) to provide technical support to address
+             capacity gaps and institutional deficiencies.
+
+3. The Program is in its third year of implementation, and both progress towards achieving the PDO and overall
+   implementation progress are rated Satisfactory (S). For Results Area 1 (Sustainable access to improved water
+   services in rural areas), more than 3.3 million people have gained access to improved water supply with adequate
+   pressure and closer to their houses, surpassing the program end target of three million (Table 1). Results of the
+   sustainably functioning public water points (WPs) and household connections as of June 30, 2021, are 26,363 and
+   25,079, respectively. These numbers are lower than those recorded for the first year because for a local government
+   authority (LGA) to be qualified for disbursement under DLI 2, it needs to sustain at least 75 percent of the recorded
+   number of WPs at the baseline as well as new WPs verified in year one. While there were over 37,000 functioning
+   water points that met all eligible criteria for functioning WPs, 35 out of 86 LGAs did not meet the 75 percent
+             The World Bank
+             Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+       threshold. Furthermore, some villages were reclassified from rural to urban areas, and the water points in those
+       areas were not reported because they were no longer under RUWASA’s service coverage. Nevertheless, within the
+       first two years of implementation, the overall number of people with access to improved water supply has already
+       surpassed the end program target.
+
+                                               Table 1: Results to date compared with target for Program
+
+      Results        DLIs and PDO indicators2                                                            Yr 1                  Yr 2          End Program
+      areas                                                                                                                                  Target
+      Results        DLI1 and PDO indicator: Number of people                      Target             450,000              1,140,000
+                                                                                                                                                   3,000,000
+      area 1         with access to improved WS                                    Actual            1,831,543             3,370,353
+                     DLI2 and PDO indicator: Number of                             Target              33,611                36,371
+                     sustainably functioning water points                                         (Public) 36,831            26,363                  45,000
+                                                                                   Actual
+                                                                                                   (HHC) 47,496              25,079
+      Results        DLI3 and PDO indicator: Number of people                      Target             400,000              1,300,000
+      area 2         with access to an improved sanitation                                                                                         4,000,000
+                     facility                                                      Actual            2,602,650             4,670,260
+                     DLI4: Number of public primary schools                        Target                100                   450
+                     with access to improved sanitation and                                                                                           1,500
+                     hygiene facilities                                            Actual                185                   637
+                     DLI5 and PDO indicator: Number of villages                    Target                 50                   350
+                     that achieve and sustain community-wide                                                                                          1,250
+                                                                                                  (achieved) 72                246
+                     sanitation                                                    Actual
+                                                                                                  (sustained) 0                 42
+      Results        DLI6: Number of villages with CBWSO with                      Target              550                    1,330
+                                                                                                                                                      3,667
+      area 3         improved O&M capacity                                         Actual             1,228                   3,475
+                     DLI7 and PDO indicator: Number of                             Target                 86                    86
+                     participating districts submitting accurate                                                                                        86
+                     and complete M&E data                                         Actual                 54                    59
+                     DLI8: RUWASA support                                                                                                       Tech. support
+                                                                                                                           Audit Unit
+                                                                                                                                              agreement signed
+                                                                                                      Agency              and QA&QC
+                                                                                   Target                                                     and implemented
+                                                                                                    established           mechanism
+                                                                                                                                                 with 50% of
+                                                                                                                          operational
+                                                                                                                                                  CBWSOs
+                                                                                                     Agency
+                                                                                                   established;
+                                                                                                  Audit Unit and
+                                                                                   Actual
+                                                                                                     QA&QC
+                                                                                                   mechanism
+                                                                                                   operational
+
+     4. For Results Area 2 (Sustainable access to improved sanitation services in rural areas), 4.67 million people have
+        gained access to improved sanitation facilities3, which surpassed the program end target of four million people.
+
+
+2Noted where DLI is also a PDO indicator.
+3Types of “improved sanitation facilities” in the Program are flush/pour flush toilets, ventilated improved pit latrines, pit latrines with intact slabs, or composting
+toilets.
+             The World Bank
+             Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+           Cumulatively, there are now 215 villages that have achieved and sustained community-wide sanitation (CWS),4
+           which is slightly below the yearly target (350). The reason for this is lack of coordination of targeting interventions
+           between the Implementing Agencies (IAs) at community level, and this will be resolved in future years through
+           better intervention planning. Results in school WASH (SWASH) and WASH in Health Care Facilities (HCFs) are also
+           making steady progress. To date, 873 HCFs and 644 primary schools have been provided with improved sanitation
+           and hand washing facilities through the Program (program end target is 1500 each).5
+
+     5. Result Area 3 (Strengthen the capacity of sector institutions to sustain service delivery in rural areas) has
+        continued to progress, albeit slower than anticipated in some DLIs. Cumulatively, 3,475 villages (program end
+        target 3,667) were under the management of registered CBWSOs with improved operation and maintenance
+        (O&M) capacity for water supply services. RUWASA was established in June 2019 with established and operational
+        audit unit and quality assurance and quality control (QA&QC) mechanisms. While all IAs struggle to improve data
+        collection and management – only 59 out of 86 districts managed to submit timely, accurate and complete sector
+        monitoring and evaluation data, RUWASA was able to spearhead and upgraded a data management system, which
+        is expected to result in improved reporting.
+
+     6. The IPF component has been slow to implement with disbursement to date at 19 percent of the allocated
+        financing. Eight contracts, representing approximately 24 percent of the IPF funding, have been signed and are
+        under implementation. Eight more packages are under advanced preparation (representing approximately 33
+        percent of the IPF funding). Many of the activities envisaged to be completed by Strategic Program Support
+        Consultant for the Program, which was deemed critical for the successful implementation of the parent Program,
+        have been completed through other project activities. Therefore, the support required by this consultancy has
+        substantially changed and thus the ToRs are being re-written. As the previous consultancy was at the technical
+        evaluation stage, those consultants that bid on the first tender will be requested to submit bids for the revised
+        ToR. The ToR for the critical Program support to the National Sanitation Campaign is being reviewed by the World
+        Bank. It is envisaged that the procurement for this activity will be completed by October 2022 and the consultants
+        onboarded. A reassessment of the IPF component by IAs was recently completed to utilize the support on activities
+        to further strengthen institutional capacities and priority studies that are critical to provide sustainable services.
+        These include support to: i) creation of joint coordination mechanism and strategy among the IAs on selection and
+        implementation of LGA and Village WASH projects (DLI 5); ii) data management and Rural Sector Data
+        Management System (RSDMS) (DLI 7); iii) training of regional/ district level IAs to strengthen the accuracy,
+        timeliness and completeness of data (DLI 7); iv) consultancy to support FSM service delivery strategy and Program
+        pilots (DLI 8); v) support to design and construction of climate resilient water supply infrastructure (DLI 1 and 2);
+        vi) improved asset management (RUWASA); vii) feasibility study for the design, installation and operation of pre-
+        paid water meters in rural Tanzania under a PPP scheme (DLI 10); and viii) required capacity building to the 8 new
+        regions, amongst others. Now that these activities have been agreed the procurement plan will be updated and
+        process begin soonest to catch up with the pace of implementation. All activities proposed to be supported under
+        the IPF will be completed by the closing date of the parent Program.
+
+
+
+
+4 A village is considered to have achieved CWS status if (i) the village is free of open defecation (no human faeces visible on the ground within the village); (ii) at least
+50 percent of households in the village have access to an improved sanitation facility; (iii) at least 25 percent of households in the village have access to a
+handwashing facility; and (iv) all public primary schools on the village have improved sanitation and handwashing facilities.
+5 During the first year, nearly all HCFs were provided with handwashing facilities for the fight against coronavirus pandemic. However, they were not permanent as
+
+the guidelines required. Therefore, they were not verified in the first year.
+     The World Bank
+     Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+7. The second-year results have been verified, and a Results Achievement Notification Letter was received on April
+   5, 2022. For two DLRs (DLR 1 and 3), the year 2 results and associated disbursements have exceeded their
+   respective allocations (Table 2).
+             The World Bank
+             Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+                                                      Table 2: Available program funds and disbursements/verified results by DLR
+
+    DLR     DETAIL                          UNIT               Amount of          Unit Rates    Year 1           Year 1           Financing        Year 2            Year 2            Amount
+                                                               Financing per      (SDR)         Verified         Disbursed        available        Verified          Required          available (+
+                                                               DLR as per                       Results          (SDR)            after Year 1     Results (SDR)     Disbursement      or -)
+                                                               original FA                      (Number)                          disbursement                       (SDR)
+                                                               (SDR)                                                              (SDR)
+    1       Number of people with           PP                 52,150,000           17          1,831,543        31,136,231       21,013,769       1,538,810         26,159,770        -5,146,001
+            access to an Improved
+            Water Supply System
+
+    2       Number of Sustainably           WPs                20,850,000          114          36,831           4,198,734        15,568,537.2     26,363            3,005,382         12,512,817.2
+            Functioning Water
+            Points
+    2.1     # of HH connections             HH connections                         22.8/26       47,496          1,082,908.8                       25,079            50,158
+    3       Number of people with           PP                 13,900,000          3             2,602,650       7,807,950        6,092,050        2,067,610         6,202,830         -110,780
+            access to an Improved
+            Sanitation Facility
+    4       Number of schools with          SCHOOLS            20,850,000          13,900           185          2,571,500        18,278,500         452             6,282,800         11,995,700
+            Improved Sanitation and
+            Hygiene Facilities
+    5       Number of villages that         VILLAGES           17,400,000          11,136               72       801,792          16,598,208       174               1,937,664         14,587,464
+            achieve and sustain
+                                            VILLAGES                                1,740       -                                 0                42                73,080
+            Community-Wide
+            Sanitation Status
+            (CWSS)
+    6       # CBWSOs with IMPROVED          VILLAGES           76,500,000          10,432           578          6,029,696        56,908,704       234                2,441,088        12,969,120
+            O&M Capacity (LEVEL I)
+            # CBWSOs with IMPROVED          VILLAGES                               10,432           -            -                                 48                 500,736
+            O&M Capacity (LEVEL II Only)
+
+            # CBWSOs with IMPROVED          VILLAGES                               20,864       650              13,561,600                        1965               40,997,760
+            O&M Capacity (LEVEL I + II)
+    7       Number of Participating         DISTRICTS          13,900,000          15,985               54       863,190          13,036,810       59                943,115           12,093,695
+            Districts submitting
+            Accurate and Complete
+    8       Agency Establish and                               13,900,000                                        5,560,000        8,340,000                                            8,340,000
+            Operationalized
+    TOTAL                                                      229,450,000                                       73,613,602                                            88,594,383
+
+
+
+
+6Originally, there was no unit payment cost agreed for household connections. Therefore, it was weighted 20% of the public water points in Year 1. In Year 2, a unit payment was further revised to be
+based on the average number of people in a household (5 people).
+         The World Bank
+         Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+    8. Based on disbursement of the year 2 verified results the program will be 95 percent disbursed (total SDR 220.65
+       million). A letter of request for Additional Financing was received on February 16, 2022. The letter proposed the
+       expansion of the Program to all regions of the country (from current 17 to 8 more regions) and requested US$400
+       million of additional IDA financing coupled with US$240 million of counterpart funding from the government. An
+       Additional Financing for the program of US$150 million in IDA Financing is currently under preparation with a proposed
+       Board Date in FY23. As mentioned above, the activities proposed under the IPF component of the Program is being re-
+       evaluated to ensure the activities supported still align to the Program’s critical needs.
+
+B   Rationale for Restructuring
+
+    9. The proposed Level II restructuring was requested by GoT through an official letter dated April 5, 2022. The
+       requested restructuring is based on the year 2 verified results whereby DLR 1 and 3 do not have enough funds
+       available to fully disburse up to the results achieved. Therefore, it is proposed to reallocate funds from DLR 5 & 6
+       to provide the required funding for DLR 1 & 3 up to the results achieved in year 2.
+
+    10. This restructuring paper seeks approval of the reallocation of budget from DLR 5 & 6 to DLR 1 & 3. Once the
+        restructuring has been completed a disbursement of SDR 69,211,727 (US$ 95 million equivalent) will be made
+        against achievement of all the year 2 verified results (as per Table 2). The proposed additional financing of US$150
+        million IDA funds along with US$100 million of government counterpart funds will then top up all DLRs and provide
+        required funds for future years of the Program.
+
+    11. This constitutes the first restructuring of the SRWS Program and there are currently no outstanding audit or
+        financial reports.
+
+
+II. DESCRIPTION OF PROPOSED CHANGES
+
+
+    12. The following change to the Program is proposed:
+    a) Reallocation of funds from DLR 6 to DLR 1 and DLR 5 to 3. The proposed restructuring will reallocate budget
+       across the DLRs. Funds from DLR 6 which has not been fully utilized will be reallocated to DLR 1 and funds from
+       DLR 5 to DLR 3. To facilitate the disbursement for year two, SDR 5,146,001 (approximately US$ 7,029,437) of IDA
+       funds will be reallocated from DLI 6 to DLI 1 and SDR 110,780 (US$ 151,325) from DLI 5 to DLI 3. After reallocation,
+       DLI 6 will have a balance of SDR 51,762,703 (US$ 70,728,568.7) of which SDR 43,939,584 (US$ 60,039,057) is
+       required for the year 2 verified results, leaving SDR 7,823,119 (US$ 10,689,511.51) in this DLR after the year 2
+       disbursement (Table 3). DLI 5 will have a balance of SDR 16,487,428 (US$ 22,521,827) of which SDR 2,010,744
+       (US$ 2,746,676) is required for the year 2 verified results, leaving SDR 14,476,684 (US$ 19,775,150) in this DLR
+       after the year 2 disbursement.
+          The World Bank
+          Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+                             Table 3: Impact of proposed reallocation on DLI 6 to DLI 1 and DLI 5 to DLI 3
+                                                                                                                           Unit: SDR
+
+ DLR   Detail                  Amount of         Year 1       Financing      Amount to     Funds          Year 2         Funds
+                               Financing (DLR    Disbursed    available      be            available      Required       available
+                               allocation) as                 after Year 1   reallocated   after          disbursement   after year 2
+                               per original FA                disbursement                 proposed                      disbursement
+                                                                                           reallocation
+ 1     Number of people        52,150,000        31,136,231   21,013,769     5,146,001     26,159,770     26,159,770                  -
+       with access to an
+       Improved Water
+       Supply System
+ 3     Number of people        13,900,000        7,807,950    6,092,050      110,780       6,202,830      6,202,830                   -
+       with access to an
+       Improved
+       Sanitation Facility
+ 5     Number of               17,400,000        801,792      16,598,208     -110,780      16,487,428     1,937,664      14,476,684
+       villages that
+       achieve and
+       sustain
+                                                              0                                           73,080
+       Community-Wide
+       Sanitation Status
+       (CWSS)
+ 6     # CBWSOs with           76,500,000        6,029,696    56,908,704     -5,146,001    51,762,703     2,441,088      7,823,119
+       IMPROVED O&M
+       Capacity (LEVEL II
+       Only)
+       # CBWSOs with                             -                                                        500,736
+       IMPROVED O&M
+       Capacity (LEVEL I
+       + II)
+       # CBWSOs with                             13,561,600                                               40,997,760
+       IMPROVED O&M
+       Capacity (LEVEL II
+       Only)
+
+
+
+Economic Results of Program and Results Areas
+
+Program Economic Justification. Overall, the economic analysis indicates that the restructuring will yield higher benefits to the
+program than its design at Board Approval.
+                                           The World Bank
+                                           Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+    III. SUMMARY OF CHANGES
+
+
+                                                                                                   Changed   Not Changed
+
+    Reallocation between and/or Change in DLI                                                          ✔
+
+    Change in Implementing Agency                                                                                ✔
+
+    Change in Program's Development Objectives                                                                   ✔
+
+    Change in Program Scope                                                                                      ✔
+
+    Change in Results Framework                                                                                  ✔
+
+    Change in Loan Closing Date(s)                                                                               ✔
+
+    Change in Cancellations Proposed                                                                             ✔
+
+    Change in IPF Component                                                                                      ✔
+
+    Change in Disbursements Arrangements                                                                         ✔
+
+    Change in Disbursement Estimates                                                                             ✔
+    Change in Systematic Operations Risk-Rating Tool
+                                                                                                                 ✔
+    (SORT)
+    Change in Safeguard Policies Triggered                                                                       ✔
+
+    Change in EA category (IPF Component)                                                                        ✔
+
+    Change in Legal Covenants                                                                                    ✔
+
+    Change in Institutional Arrangements                                                                         ✔
+
+    Change in Implementation Schedule                                                                            ✔
+
+    Other Change(s)                                                                                              ✔
+
+
+IV. DETAILED CHANGE(S)
+
+
+    OPS_DETAILEDCHANGES_COMPONENTS_TABLE
+
+
+
+
+.
+                                The World Bank
+                                Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+                                                                                       ANNEX 1: RESULTS FRAMEWORK
+
+
+
+.
+
+.
+                                                                                                 Results framework
+
+
+
+    Program Development Objectives(s)
+    The project development objective is to increase access to rural water supply and sanitation services in participating districts and strengthen the capacity
+    of select sector institutions to sustain service delivery.
+
+    Program Development Objective Indicators by Objectives/ Outcomes
+    RESULT_FRAME_TBL_PDO
+
+
+
+
+                                        Indicator Name                         DLI    Baseline                        End Target
+
+
+    Sustainable Access to improved water services in rural areas
+    People provided with access to improved water sources (CRI,
+                                                                                     0.00                            3,000,000.00
+    Number)
+                     People provided with access to improved water sources -
+                                                                                     0.00                            1,500,000.00
+                     Female (RMS requirement) (CRI, Number)
+                     People provided with access to improved water sources -
+                                                                                     0.00                            3,000,000.00
+                     rural (CRI, Number)
+
+    Number of sustainable functioning water points (Number)                          31,811.00                       43,811.00
+    Number of participating districts submitting accurate and
+                                                                                     0.00                            86.00
+    complete sector M&E data (Number)
+    Increased access to improved sanitation services in rural areas
+
+
+                                                                                                                                                          Page 10 of 20
+                              The World Bank
+                              Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+RESULT_FRAME_TBL_PDO
+
+
+
+
+                                      Indicator Name                              DLI    Baseline    End Target
+
+
+People provided with access to improved sanitation services (CRI,
+                                                                                        0.00        4,000,000.00
+Number)
+                  People provided with access to improved sanitation services -
+                                                                                        0.00        2,000,000.00
+                  Female (RMS requirement) (CRI, Number)
+Number of villages that achieve and sustain community-wide
+                                                                                        0.00        1,250.00
+sanitation (Number)
+
+ PDO Table SPACE
+
+Intermediate Results Indicators by Result Areas
+RESULT_FRAME_TBL_IO
+
+
+
+
+                                      Indicator Name                              DLI    Baseline    End Target
+
+
+Sustainable access to improved water services in rural areas
+Number of public primary schools with access to improved
+                                                                                        0.00        1,500.00
+sanitation and hygiene facilities (Number)
+Number of villages with a COWSO with imporved O&M capacity
+                                                                                        0.00        3,667.00
+for water supply services (Number)
+Increased access to improved sanitation services in rural areas
+Number of health facilities and dispensaries with access to
+                                                                                        0.00        1,500.00
+improved sanitation and hygiene facilities (Number)
+Increase in access to handwashing facilities among the target
+                                                                                        8.00        30.00
+population (Percentage)
+Strengthen the capacity of sector institutions to sustain service delivery in rural areas
+Number of COWSO with female members in leadership positions
+                                                                                        550.00      3,667.00
+(Number)
+
+
+                                                                                                                   Page 11 of 20
+                         The World Bank
+                         Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+   RESULT_FRAME_TBL_IO
+
+
+
+
+                               Indicator Name                   DLI    Baseline                                     End Target
+
+
+Enrolment ratio of female students for the Water institute
+                                                                      28.00                                        35.00
+(Percentage)
+
+Agency established and operational (Text)                             None                                         5.00
+
+  IO Table SPACE
+
+
+                                                                      Disbursement Linked Indicators Matrix
+DLI IN00857755 ACTION
+
+
+
+
+DLI 1                                      Number of people with access to an improved water supply
+
+Type of DLI                                Scalability                  Unit of Measure    Total Allocated Amount (USD)          As % of Total Financing Amount
+
+Output                                     Yes                          Number                                75,000,000.00 0.00
+Period                                     Value                                           Allocated Amount (USD)                Formula
+Baseline                                   0.00
+
+Year 1                                                                                                        11,200,000.00
+
+Year 2                                                                                                        17,300,000.00
+
+Year 3                                                                                                        17,300,000.00
+
+Year 4                                                                                                        17,300,000.00
+
+Year 5                                                                                                        11,900,000.00
+
+Year 6                                                                                                                    0.00
+
+
+
+                                                                                                                                                            Page 12 of 20
+                        The World Bank
+                        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+DLI IN00857756 ACTION
+
+
+
+
+DLI 2                                     Number if sustainably functioning water points
+
+Type of DLI                               Scalability                  Unit of Measure      Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Output                                    Yes                          Number                                 30,000,000.00 0.00
+Period                                    Value                                             Allocated Amount (USD)             Formula
+Baseline                                  0.00
+
+Year 1                                                                                                          5,200,000.00
+
+Year 2                                                                                                          5,500,000.00
+
+Year 3                                                                                                          6,000,000.00
+
+Year 4                                                                                                          6,400,000.00
+
+Year 5                                                                                                          6,900,000.00
+
+Year 6                                                                                                                 0.00
+DLI IN00857757 ACTION
+
+
+
+
+DLI 3                                     Number of people with acces to an imporved sanitation and hygiene facility
+
+Type of DLI                               Scalability                  Unit of Measure      Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Output                                    Yes                          Number                                 20,000,000.00 0.00
+Period                                    Value                                             Allocated Amount (USD)             Formula
+Baseline                                  0.00
+
+Year 1                                                                                                          2,000,000.00
+
+
+                                                                                                                                                          Page 13 of 20
+                        The World Bank
+                        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+Year 2                                                                                                           4,500,000.00
+
+Year 3                                                                                                           4,500,000.00
+
+Year 4                                                                                                           4,500,000.00
+
+Year 5                                                                                                           4,500,000.00
+
+Year 6                                                                                                                   0.00
+DLI IN00857758 ACTION
+
+
+
+
+DLI 4                                     Number of public primary schools with access to improved sanitation and hygiene facilities
+
+Type of DLI                               Scalability                  Unit of Measure      Total Allocated Amount (USD)        As % of Total Financing Amount
+
+Output                                    Yes                          Number                                  30,000,000.00 0.00
+Period                                    Value                                             Allocated Amount (USD)              Formula
+Baseline                                  0.00
+
+Year 1                                                                                                           2,000,000.00
+
+Year 2                                                                                                           7,000,000.00
+
+Year 3                                                                                                           7,000,000.00
+
+Year 4                                                                                                           7,000,000.00
+
+Year 5                                                                                                           7,000,000.00
+
+Year 6                                                                                                                   0.00
+
+
+
+
+                                                                                                                                                           Page 14 of 20
+                        The World Bank
+                        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+DLI IN00857759 ACTION
+
+
+
+
+DLI 5                                     Number of villages that acheive and sustain community-wide sanitation status
+
+Type of DLI                               Scalability                  Unit of Measure     Total Allocated Amount (USD)         As % of Total Financing Amount
+
+Output                                    Yes                          Number                                 25,000,000.00 0.00
+Period                                    Value                                            Allocated Amount (USD)               Formula
+Baseline                                  0.00
+
+Year 1                                                                                                         1,000,000.00
+
+Year 2                                                                                                         5,000,000.00
+
+Year 3                                                                                                         5,000,000.00
+
+Year 4                                                                                                         7,000,000.00
+
+Year 5                                                                                                         7,000,000.00
+
+Year 6                                                                                                                   0.00
+DLI IN00857760 ACTION
+
+
+
+
+DLI 6                                     Number of villages with a COWSO with improved O&M capacity for water supply services
+
+Type of DLI                               Scalability                  Unit of Measure     Total Allocated Amount (USD)         As % of Total Financing Amount
+
+Output                                    Yes                          Number                               110,000,000.00 0.00
+Period                                    Value                                            Allocated Amount (USD)               Formula
+Baseline                                  0.00
+
+Year 1                                                                                                        16,400,000.00
+
+
+                                                                                                                                                           Page 15 of 20
+                        The World Bank
+                        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+Year 2                                                                                                        23,400,000.00
+
+Year 3                                                                                                        23,400,000.00
+
+Year 4                                                                                                        23,400,000.00
+
+Year 5                                                                                                        23,400,000.00
+
+Year 6                                                                                                                 0.00
+DLI IN00857761 ACTION
+
+
+
+
+DLI 7                                     Number of participating districts submitting accurate and complete sector M&E data
+
+Type of DLI                               Scalability                  Unit of Measure     Total Allocated Amount (USD)        As % of Total Financing Amount
+
+Output                                    Yes                          Number                                20,000,000.00 0.00
+Period                                    Value                                            Allocated Amount (USD)              Formula
+Baseline                                  0.00
+
+Year 1                                                                                                         4,000,000.00
+
+Year 2                                                                                                         4,000,000.00
+
+Year 3                                                                                                         4,000,000.00
+
+Year 4                                                                                                         4,000,000.00
+
+Year 5                                                                                                         4,000,000.00
+
+Year 6                                                                                                                 0.00
+
+
+
+
+                                                                                                                                                          Page 16 of 20
+                        The World Bank
+                        Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+DLI IN00857762 ACTION
+
+
+
+
+DLI 8                                     Agency established and operational
+
+Type of DLI                               Scalability                 Unit of Measure     Total Allocated Amount (USD)     As % of Total Financing Amount
+
+Output                                    No                          Number                               20,000,000.00 0.00
+Period                                    Value                                           Allocated Amount (USD)           Formula
+Baseline                                  0.00
+
+Year 1                                                                                                      4,000,000.00
+
+Year 2                                                                                                      4,000,000.00
+
+Year 3                                                                                                      4,000,000.00
+
+Year 4                                                                                                      4,000,000.00
+
+Year 5                                                                                                      4,000,000.00
+
+Year 6                                                                                                              0.00
+
+
+
+
+                                                                                                                                                      Page 17 of 20
+                           The World Bank
+                           Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+                                                              ANNEX 2: PROGRAM ACTION PLAN
+
+
+..
+      PAP_NOT_CHANGE_TBL
+
+
+
+
+      Action
+      Description                    Source                   DLI#    Responsibility         Timing               Completion Measurement
+
+      Timely transfer of
+     Program funds to
+     IAs including the                                               MoWI,                                       Within 2 months after fund
+     districts and the                                               MoHCDGEC, and                               receipt in the Project Holding
+     RSs                           Other                             MoEST             Recurrent   Yearly        Pooled Account.
+      The MoHCDGEC
+     and the MoWI to
+     establish and
+     operationalize                                                                                              Establishment and
+     CDMTs for the                                                                                               operationalization of Central Data
+     NSC and rural                                                                                               Management Teams for the
+     water supply,                                                   MoWI and                                    National Sanitation Campaign and
+     respectively                  Technical                         MoHCDGEC          Due Date    16-Dec-2019   rural water supply.
+      Procurement of
+     the Strategic
+     Program Support
+     Consultant                    Fiduciary Systems                 MoWI              Recurrent   Continuous    SPSC is selected and onboard.
+      Implement all the
+     recommendations
+     of the ESSA and
+     adopt the ESSA
+     Environmental
+     and Social PAP
+     covering the                                                                                                Verification at project sites during
+     following:                    Other                             MoWI              Recurrent   Continuous    project implementation.
+      Grievance and
+     complaint-
+     handling
+     mechanisms
+     established and               Environmental and Social          MoWI and PO-                                Submission of the annual
+     operational                   Systems                           RALG              Recurrent   Yearly        complaint-handling report.
+      Develop and
+     implement a
+     Gender Action
+     Plan.                                                           MoWI              Due Date    30-Jun-2020
+      (a) Activate the
+     asset
+     management
+     module of the
+     system to record
+     all district assets.                                            MoWI, PO-RALG,
+     (b) Train all                                                   MoHCDGEC, and
+     accounting staff at                                             MoFP              Due Date    30-Jun-2021
+
+
+                                                                                                                                       Page 18 of 20
+           The World Bank
+           Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+both central and
+local government
+on the use of
+IPSAS.
+(c) Include
+subdonor code in
+Epicor to earmark
+funding from each
+instrumen
+ Set aside Program
+resources for
+monitoring and
+supervision at all
+levels of                                       MoFP, MoWI,
+implementation.                                 MoHCDGEC,        Recurrent    Continuous
+ Conduct tailor-
+made training
+courses
+specifically to
+address weakness
+identified in areas
+of procurement
+and contract
+management for
+technical staff at                              PO-RALG and
+districts.                                      PPRA             Due Date     30-Jun-2020
+Establish records
+keeping/managem                                                                             Establishment of the system that
+ent system        Fiduciary Systems             PO-RALG/districts Due Date    16-Dec-2019   is satisfactory to the Bank team.
+ Adherence to the
+standard
+processing times
+throughout
+Program
+implementation.
+Prepare internal
+procedures
+manual to be used
+by all districts                                PO-RALG/districts Recurrent   Continuous
+ Carry out
+procurement and
+performance                                     PO-
+(value for money)                               RALG/PPRA/Agen
+audits annually.                                cy             Recurrent      Yearly
+ Conduct tailored
+training to
+procurement and
+user department
+staff to address
+weakness in these                               MoWI and PO-
+areas—MOWI and                                  RALG             Due Date     30-Jun-2020
+
+
+
+                                                                                                                 Page 19 of 20
+               The World Bank
+               Sustainable Rural Water Supply and Sanitation Program (P163732)
+
+
+
+
+    PO-RALG should
+    approach the
+    PPRA to facilitate.
+
+.
+
+
+
+
+                                                                                 Page 20 of 20
+

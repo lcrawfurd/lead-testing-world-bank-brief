@@ -5,24 +5,49 @@ post](https://www.cgdev.org/) auditing how the World Bank's active
 water supply and sanitation portfolio handles lead in drinking water.
 
 **Headline finding:** across the Bank's active drinking-water-supply
-portfolio (81 projects tagged with the WWC sector code), not one
-commits to ongoing lead testing in the drinking water it delivers. A
-single \$30 million sanitation project in Ghana ran a baseline
-groundwater test against WHO guidelines, found lead above threshold,
-and committed to no follow-up monitoring.
+portfolio (81 projects tagged with the WWC sector code, ~\$3 billion
+in water-attributable commitments), not one commits to ongoing lead
+testing in the drinking water it delivers. A single \$30 million
+sanitation project in Ghana ran a baseline groundwater test against
+WHO guidelines, found lead above threshold, and committed to no
+follow-up monitoring.
 
-**A note on portfolio figures.** This pipeline defaults to the
+**A note on portfolio figures.** The pipeline defaults to the
 strictest defensible filter — WWC (Water Supply) only — to capture
-the drinking-water-relevant universe. The WB's own internal "water
-supply portfolio" figure is **\$8.7 billion across 105 projects**,
-combining WWC + WWA (sanitation) and weighting commitments by
-`sector_percent`. The API returns `sector_percent = 0` for every
-project sampled, so the pipeline sums full commitments and produces
-a larger dollar total (\$17.0B at WWC-only) than the Bank's
-weighted figure. The headline finding (zero confirmed drinking-water
-lead testing) holds at any of these denominators. The blog uses
-the Bank's own figure where the rhetorical context calls for it,
-and the pipeline's own figure where the data lineage matters.
+the drinking-water-relevant universe.
+
+Most Bank projects are multi-sector. A typical "water supply" project
+might also be tagged with sanitation, public administration, or urban
+development codes; only a small fraction of the project's commitment
+is actually allocated to water. The pipeline therefore writes two
+dollar totals per project:
+
+- `Total_Commitment_USD` — full project commitment (a ceiling)
+- `Weighted_Commitment_USD` — sector-percent-weighted share allocated
+  to water sectors
+
+The WB Projects API populates `sector_percent` for about half of
+active water projects (39 of 81 in our universe). For the other half
+the API returns 0 across all sectors. The pipeline imputes a
+**proportional share by sector-code count**: if a project carries
+five sector tags and one is WWC, we attribute 20% of the commitment
+to water. This is a structural lower bound — better than dropping the
+project (which undercounts) or assuming 100% (only 2 of 81 projects
+are genuinely single-sector water).
+
+Resulting totals for the WWC-only universe of 81 projects:
+
+| Method | Total |
+|---|---|
+| Unweighted (full commitment per project) | \$17.0B |
+| Hybrid-weighted (audit headline) | **\$3.4B** |
+
+For reference, the WB's internal "water supply portfolio" figure is
+\$8.7B across 105 projects, using a slightly broader universe
+(WWC + WWA) and the Bank's internal sector-percent weighting that
+covers projects where the public API doesn't populate the field.
+Headline findings (zero confirmed drinking-water lead testing) hold
+at any denominator.
 
 To reproduce the broader universes:
 
@@ -66,8 +91,12 @@ re-runs only redo what's stale.
 ├── requirements.txt            Python dependencies
 ├── .gitignore
 │
-├── docs-expanded/              PDFs for the broader project set (auto-downloaded)
+├── docs-expanded/              PDFs for the broader project set (auto-downloaded; gitignored)
 │   └── _manifest.csv           One row per downloaded doc with metadata
+├── docs-extracted/             Plain-text extracted from every PDF
+│                               (committed — lets CI and replicators run
+│                               the search/tables pipeline without needing
+│                               the 1 GB of PDFs or a `pdftotext` install)
 │
 ├── scripts/                    Analysis pipeline
 │   ├── fetch_wb_projects.py        Build the project universe via WB API

@@ -1,0 +1,670 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Hai Phong City Resilience Development Project(P507658)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                 Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 23-Dec-2025 | Report No: PIDDC01539
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     Hai Phong City Resilience Development Project(P507658)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Viet Nam                       P507658                      Hai Phong City Resilience Development Project
+Region                         Estimated Appraisal Date     Estimated Approval Date        Practice Area (Lead)
+EAST ASIA AND PACIFIC          04-Feb-2026                  27-May-2026                    Transport
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Socialist Republic of Viet   Hai Phong City Project
+Financing (IPF)                Nam                          People's Committee
+
+Proposed Development Objective(s)
+The project development objectives (PDO) are to improve Hai Phong’s connectivity within the Northwest-Southeast
+economic corridor, enhance Re River water quality, reduce flood risk in Hai Phong’s historical city center area, and
+upgrade capacity for urban resilience management in selected areas of Hai Phong city.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                            408.82
+
+  Total Financing                                                                                                 408.82
+             of which IBRD/IDA                                                                                 272.95
+  Financing Gap                                                                                                     0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                272.95
+  Non-World Bank Group Financing
+
+
+
+                                                                                                                     Page 1
+
+
+
+                                                                                                            Official Use Only
+          The World Bank
+          Hai Phong City Resilience Development Project(P507658)
+
+
+        Counterpart Funding                                                                                         135.87
+          Borrower/Recipient                                                                                        135.87
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                       Concept Review Decision
+High                                                               The review did authorize the preparation to continue
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+    1. Hai Phong, Viet Nam’s third largest city and a major port, is pivotal to the country’s economic growth. Ho Chi Minh
+       City, Ha Noi, and Hai Phong cities are the country’s economic powerhouses and crucial manufacturing bases for
+       electronics, textiles, and automotive components. Situated 106 km southeast of Ha Noi, the capital of Viet Nam, Hai
+       Phong is the second largest economic, political, and cultural hub in the Northern Delta region, with a population of
+       approximately 4.7 million (as of 2024) after the recent merger of Hai Duong Province with Hai Phong City. It comprises
+       Hong Bang, Hai An, An Duong, and Thuy Nguyen areas located along the Cam River, which flows through the city
+       center toward the Gulf of Tonkin. It is the only city in the northern Viet Nam with rail, road, air, inland waterways,
+       and maritime transportation modes and features a deep-water port. Driven by robust growth in imports and exports,
+       Hai Phong has emerged as a pivotal economic engine in Vietnam. In 2024, the city achieved a trade surplus of US$8.2
+       billion, with exports reaching US$36.3 billion - a 19.5 percent increase over the previous year, and imports reaching
+       US$28.1 billion, an increase of 4.6 percent over 2023.1 Maritime transport contributes approximately 15-20 percent
+       of Hai Phong's GDP through port services, logistics, and related activities.
+
+    2. Hai Phong has ambitious plans to expand its urban areas, industrial parks and coastal economic zones, but these
+       will need complementary infrastructure improvements. Hai Phong is undergoing significant urban expansion, with
+       the development of new urban areas such as Thuy Nguyen new city north of Cam River, which will host the city's new
+       administrative center. To accommodate the growing population, Hai Phong has approved 31 housing investment
+       plans for 36,600 units and plans to build an additional 33,500 social housing units by 2030 for low-income and
+       industrial workers. Hai Phong also aims to become a modern international logistics hub by 2030, focusing on
+       multimodal transport development.2 Accordingly, plans are underway to construct 15 new industrial parks covering
+       6,700 hectares by 2025 and a 20,000-hectare coastal economic zone, featuring key infrastructure projects like Tien
+       Lang Airport and Nam Do Son Port.3 Hai Phong is also developing eco-industrial parks and investing in renewable
+       energy projects, including waste-to-energy and offshore wind power, to support its green transition.4 All this will
+
+1
+  Hai Phong 2024: https://haiphongnews.gov.vn/news/haiphong-2024-breakthroughs-in-economic-growth-and-sustainable-
+ct11027.html.
+2
+  Vide Resolution No. 45-NQ/TW.
+3
+  https://theinvestor.vn/hai-phong-city-eyes-20000-hectare-coastal-economic-zone-d6590.html
+4
+  https://en.vietnamplus.vn/hai-phong-becomes-increasingly-attractive-to-domestic-foreign-investors-post239684.vnp
+
+                                                                                                                          Page 2
+
+
+
+                                                                                                                 Official Use Only
+          The World Bank
+          Hai Phong City Resilience Development Project(P507658)
+
+
+        need transport infrastructure, interconnectivity, and urban services well aligned with the planned industrial and
+        urban development.
+
+    3. With major infrastructure initiatives such as the Hai Phong–Ha Noi–Lao Cai–Kunming/Guangxi Economic Corridor
+       and the Hai Phong Free Trade Zone (FTZ), Hai Phong is poised to be a vital growth engine for Vietnam’s economy,
+       focusing on high-value, innovation-driven industries. The Hai Phong – Ha Noi–Lao Cai–Kunming/Guangxi Economic
+       Corridor is a potentially transformative infrastructure initiative designed to enhance connectivity between Vietnam's
+       key northern port and Southwest China. The corridor will significantly increase freight capacity and unlock three
+       primary strategic opportunities: optimizing Vietnam's domestic logistics; accelerating bilateral trade between
+       Vietnam and China; and providing a new land-sea route for China's bordering provinces, primarily Yunnan and
+       Guangxi, to access global markets via Vietnam. Collectively, these improvements can lower logistics costs, boost trade
+       throughput, and foster deeper, more localized regional economic integration.
+
+    4. Hai Phong city has achieved notable successes but needs focused investment to holistically address its transport
+       and urban challenges for sustained development. The Resolution of the 16th City Party Congress (2020 - 2025)
+       outlined three key urban development directions, reflected in the Adjusted Construction Master Plan to 2035 and
+       the Master Planning of Dinh Vu - Cat Hai Economic Zone. To sustain its industrial and urban growth and make it an
+       attractive investment destination,5 the city’s master plan emphasizes three economic pillars: industry, sea trade and
+       tourism. However, improvements are needed in road infrastructure to reduce congestion and road crashes,
+       interconnectivity between road, rail and sea modes to enhance freight and logistics movement, drainage systems to
+       control flooding along with adequate urban spaces and climate resilience aspects. For instance, the North-South axis,
+       linked with Ring Road 3, could be a marine economic corridor connecting North Cam River, Cat Bi Airport, and Lach
+       Huyen Port. Strengthening links to the North, especially via National Highway (NH) 10 and the Ben Rung Bridge to
+       Quang Ninh, is also critical. Similarly, enhancing the Northwest-Southeast corridor can create an important marine
+       economic and public transport link for Hai Phong city, aiding the development of ports, freight traffic, industrial parks,
+       and service centers from Dinh Vu - Cat Hai in the South to Vie Nam Singapore Industrial Park (VSIP) and Ben Rung in
+       the North.
+
+    5. With a 125 km coastline, Hai Phong is highly vulnerable to extreme climate events. Over the past few years, rising
+       temperatures, unpredictable rainfall, and higher tidal levels have intensified urban flooding—especially in low-
+       lying historical city center. The city regularly faces typhoons, tropical depressions, rising tides, thunderstorms, and
+       increasingly severe issues such as seawater intrusion, saline groundwater, and red tides. Climate change is causing
+       the rainy and typhoon seasons now to start earlier, end later, and bring stronger storms, causing extensive damage.
+       Hai Phong ranks among the 13 major port cities globally with the highest projected property damage from climate
+       change by 2070.6 Rising sea levels are degrading the ecological environment, disrupting livelihoods and socio-
+       economic activities and threatening freshwater sources. Coastal erosion and salinity intrusion - reaching up to 45 km
+       inland - are particularly severe in areas like Do Son and Cat Hai, impacting rivers such as Re and Hon Ngoc in An Duong
+       and Thuy Nguyen.
+
+    Sectoral and Institutional Context
+
+    6. Despite its strategic location as an important traffic hub and the main gateway to the sea for Northern provinces,
+       Hai Phong faces significant infrastructure challenges that limit the efficiency of its transport systems. Hai Phong’s
+       port system comprises three main areas, including: Lach Huyen international port cluster, Cam River port cluster
+
+5
+    Hai Phong, Quang Ninh attract 7.82 billion USD in FDI in 2024, January 16, 2025.
+6
+    Green Growth Study in Hai Phong, Vietnam - OECD 2016.
+
+                                                                                                                             Page 3
+
+
+
+                                                                                                                     Official Use Only
+          The World Bank
+          Hai Phong City Resilience Development Project(P507658)
+
+
+        (upstream of the Cam River) and Dinh Vu port cluster (downstream of the Cam River). The Lach Huyen International
+        Gateway Port can accommodate large container ships and handled 150 million tons of cargo in 2024. In April 2025,
+        Hai Phong also inaugurated the Hateco Hai Phong International Container Terminal, once it is fully operational, Hai
+        Phong Port’s market shares in container and non-container cargo in the region are expected to reach 40 percent, and
+        60 percent respectively.7 While Lach Huyen and Dinh Vu ports benefit from favorable geographic and maritime
+        conditions, their full potential will be realized with availability of a direct Northwest-Southeast regional transport
+        corridor, which is also important for the planned conversion of Thuy Nguyen into a new urban center. The city's
+        railway system is outdated and lacks interconnectivity to ports. There is one single-track meter gauge rail line from
+        Hai Phong to Hanoi which plays vital role in freight movement to and from the Lach Huyen port. However, outdated
+        infrastructure and poor integration with Hai Phong’s port facilities limit its effectiveness. There are plans for a new
+        standard gauge rail line from Lao Cai-Hanoi-Hai Phong that will connect to China’s Kunming-Hekou railway fostering
+        the economic corridor’s development by facilitating trade and enhancing connectivity to Hai Phong Port. A
+        groundbreaking ceremony for the greenfield railway line is expected to occur in December 2025, and construction is
+        expected to be completed by 2030.
+
+    7. Hai Phong’s transport sector is vital for its economy. While roads are the dominant form of transport, they are
+       increasingly congested, lack connectivity, and prone to crashes. In 2022, the total transport revenue of Hai Phong
+       reached approximately U$4.42 billion. Road transport accounted for about a third of this revenue. In recent years,
+       Hai Phong's logistics services have achieved an annual growth rate of 20 to 23 percent, contributing 13 to 15 percent
+       of the city's GRDP.8 The city has a total road length of approximately 300 km, with mostly radial roads carrying heavy
+       traffic passing through the city center. The road network lacks regional connectivity, particularly a Northwest –
+       Southeast corridor that connects several important industrial zones and urban areas to the seaport clusters.9 At
+       present, there is only one national highway (National Highway 10) that acts as the main regional transport corridor
+       for the city. Despite investments, the road network is overloaded, especially on routes connecting seaports, leading
+       to increased logistics costs, traffic disruptions, and increased air pollution. The National Highway 5 (NH 5), a radial
+       route with a large volume of heavy trucks, is a major cause of fatal traffic crashes, environmental pollution, and traffic
+       congestion in the historic inner city of Hai Phong, which is located mainly to the south of Cam River, is increasingly
+       congested and includes offices, commercial and entertainment centers, markets, schools, hospitals, and traffic hubs
+       (bus stations, railway stations, etc.) with a dense population.10 As such, diverting inter-city truck passage by
+       developing bypass / ring road and regional transport corridors can help alleviate congestion (alongside the
+       development of the Lao Cai-Hanoi-Hai Phong railway), decrease crashes and lessen pollution. To improve efficiency
+       of the city’s transport system as well as foster intermodal transportation among road, rail, and maritime transport
+       modes, there is a need for a marine economic corridor, connecting the breakthrough directions of urban space
+       development with each other, and with the existing gateways (NH 10, Cat Bi airport, Tan Vu - Lach Huyen Port Cluster,
+       NH 5, Hanoi - Hai Phong Expressway, etc.).
+
+    8. The Re River is crucial for Hai Phong’s water supply and sustained urban and industrial development, yet it is
+       experiencing pollution. The river, located in the west of the city, spans over 10 km from Rang River in Hai Duong to
+       Cai Tat tidal dam in Hai Phong and is part of the main water supply axis of the An Kim Hai irrigation system. It is vital
+       for irrigation in An Duong and Hong Bang areas, supplying water to an aquaculture lagoon in Hai An area, and
+
+7
+  https://en.vietnamplus.vn/first-commercial-ship-docks-at-new-berths-in-hai-phong-post317555.vnp.
+8
+  https://en.nhandan.vn/hai-phong-strives-to-become-modern-logistics-hub-post140223.html.
+9
+  The Hai Phong city’s road network hasn’t developed on the Northern and Eastern sides of the Cam River as it requires long bridges
+to negotiate the extensive water bodies and construction of the roads in soft soils.
+10
+   The three areas of Hong Bang, Ngo Quyen, and Le Chan have the highest population density in the city - ten times higher than the
+city average.
+
+                                                                                                                                Page 4
+
+
+
+                                                                                                                       Official Use Only
+       The World Bank
+       Hai Phong City Resilience Development Project(P507658)
+
+
+     providing raw water to An Duong and Vat Cach plants. The river is expected to supply over 50 percent of Hai Phong
+     city's clean water demand, including three industrial zones: Nomura, Trang Due, and An Duong.11 However, the Re
+     River is experiencing increasing pollution caused by urbanization and increased economic activities within the
+     catchment area. 12 Approximately 9,000 m³ of domestic wastewater is released into the Re River each day, which
+     impacts the river's raw water quality and causes it to exceed the permissible limits set by national water quality
+     standards. The river is also suffering from residential encroachment along its embankment, further exacerbating the
+     pollution in the river through illegal discharge of wastewater from the residents. Being an important landscape axis
+     for the development of An Duong urban area, priority infrastructure on both sides of the Re River would be needed
+     to collect wastewater from key discharge points along the river, prevent illegal wastewater discharge and to prevent
+     further encroachment.
+
+ 9. Hai Phong faces frequent flooding due to an inadequate drainage system. The historical city center of Hai Phong
+    experiences severe flooding due to rainfall and high tides in the Cam/Tam Bac Rivers. Although Hai Phong has a dense
+    drainage system for direct storm water drainage to external rivers, urban development has reduced permeable areas
+    and surface water reservoirs, making gravity drainage ineffective during heavy rain and high tides. Rapid urbanization
+    and industrial growth also produce significant wastewater, necessitating collection and treatment to protect water
+    sources like Re, Hon Ngoc, and Da Do rivers. The outdated drainage system in the historical city center of Hai Phong
+    fails to drain water into Tam Bac River during rainfall and high tides, leading to frequent flooding. A comprehensive
+    solution involving rehabilitation of the culvert network, increased storage/regulation capacity (e.g., Tam Bac
+    Lake/river), and additional forced discharge capacity is needed to address urban drainage challenges, support
+    economic development of the most vibrant urban area of the city and improve water standards. Without these
+    measures, future urban areas like Thuy Nguyen may also face flooding challenges.
+
+ 10. The Hai Phong City People's Committee (HPCPC) oversees municipal infrastructure policy and planning, budget
+     allocation and coordination with national government agencies. The Department of Construction (DOC) handles
+     planning, implementation, maintenance, and management of the city's road network, besides public transport
+     licensing and management, and other municipal infrastructure services including drainage and wastewater
+     management. The complex coordination between municipal and national agencies affects the release of funds for
+     capital improvements - in 2024, only 56 percent of allocated capital was disbursed by October. The city’s debt
+     servicing capacity is limited by high public investment needs and reliance on unstable revenues13- for instance, the
+     2025 budget relies heavily on sources like land use fees and import-export taxes. Its 2026–2030 investment plan
+     exceeds VND 92.4 trillion (~USD 3.7 billion), mostly from its own budget.
+
+ 11. Hai Phong's urban institutional framework has undergone significant reforms to support its rapid development,
+     but financial challenges may hinder implementation. Effective July 1, 2025, Hai Duong province merged with Hai
+     Phong city, all district administrative units were terminated, and wards were consolidated into about one third in
+     number. This was part of a major institutional reform across the country. The city’s governance involves multiple
+     layers of both new local and city authorities, leading to potential inefficiencies and overlaps in responsibilities,
+     particularly in urban planning and infrastructure management and development. In 2023, Hai Phong showed strong
+     fiscal performance, collecting ~$4.3 billion (98 percent of the state target) with domestic revenue exceeding
+
+
+11
+    Hai Phong City Water Supply Master Plan to 2025, with a Vision to 2050.
+12
+    In An Duong area, 301 out of 430 wastewater discharge points into irrigation works, affect the Re River. In addition, 12 concentrated
+sewage discharge points from residential areas and markets, and 720 households along the river, directly discharge wastewater into
+it.
+13
+    Hai Phong: Medium-term public investment plan for the period 2026, Vietnam.vn, 2024.
+
+                                                                                                                                    Page 5
+
+
+
+                                                                                                                            Official Use Only
+       The World Bank
+       Hai Phong City Resilience Development Project(P507658)
+
+
+     projections by 36 percent. However, the effective implementation of integrated urban strategies requires strong
+     coordination among various governmental bodies, which is challenging given the existing institutional framework.
+
+ Relationship to CPF
+ 12. The proposed project is well aligned with both the current and upcoming Country Partnership Framework (CPF)
+     for Viet Nam. The proposed project directly addresses Focus Area 3 (Ensure Environmental Sustainability and
+     Resilience) of the current Country Partnership Framework (CPF) for Viet Nam. It is also well aligned with the latest
+     draft14 of the proposed CPF for FY 2023-27, as it would contribute directly to both objective 1 - strengthen climate
+     resilience and promote sustainable growth of infrastructure, and objective 2 - accelerate economywide emission
+     reduction for green growth.
+
+ 13. The proposed project is consistent with The World Bank’s Viet Nam Country Climate and Development Report
+     (CCDR). With proposed interventions towards improved urban sustainable development in Hai Phong and
+     surrounding areas, it would contribute to the Viet Nam CCDR, 202227 specifically, Priority Package #2, which
+     emphasizes the need to upgrade infrastructure assets to climate-resilient design standards, ensure effective land-
+     use planning, strengthen and enforce policies and regulations for industry resilience, and invest in digital technologies
+     for improving weather-risk management and early warning systems. The proposed project will also support the
+     climate mitigation objectives of the Viet Nam CCDR and Nationally Determined Contributions (NDC) as it will help
+     shift bulk cargo from roads in Hai Phong and surrounding regions, thus mitigating air pollution. This would help
+     connect inland economic activities with ports in the coastal provinces and thus facilitate inter-modal connectivity
+     and trade.
+
+ 14. The proposed project is aligned with the goals of the Paris Agreement on both mitigation and adaptation.
+     Assessment and reduction of mitigation risks: The proposed project interventions for development of Ring Road 3
+     under Component 1 will result in reduced GHG emissions as these would: (a) reduce journey lengths and travel times
+     along NH 5 and NH 10, (b) ease traffic congestion on city roads and environmental pollution in inner-city areas, and
+     (c) facilitate industrial development, connect areas in the north through the new highway and promote integration
+     of northern region with ports and economic centers in the south. The wastewater collection and treatment activities
+     under Component 2 will contribute to net emission reductions by adopting treatment technologies that reduce GHG
+     emissions (e.g., sequencing batch reactor (SBR) technology) and measures to optimize energy efficiency in the
+     operation of the treatment plant and pumping stations. Assessment and reduction of adaptation risks: The project
+     design will consider Hai Phong’s vulnerability to the risks of extreme climate events (extreme heat, intense rainfall
+     and high tide) and urban flooding and incorporate targeted adaptation measures to manage and mitigate them. For
+     instance, bridge designs have been informed by the most extreme climate project scenario, Representative
+     Concentration Pathway (RCP) 8.5, ensuring high levels of resilience. Overall. infrastructure improvements on the
+     proposed project road will also strengthen transport network redundancy, thereby enhancing the resilience of the
+     transport network to climate-related shocks. The proposed project interventions will improve the water quality of
+     Re River, lead to reduced flooding in the historical city center, and enhance the water security of communities,
+     enhancing their resilience and adaptive capacity to climate impacts. In addition, the proposed institutional
+     strengthening activities will enhance the implementation agency’s capacities in urban flood management and
+     environment monitoring, thereby helping them mainstream disaster resilience and management. Therefore, the
+     residual climate physical risks are moderate.
+
+
+
+14
+   Draft Country Partnership Framework for Vietnam for the period FY 23-27 (Concept Note), This may undergo significant change
+following the review process.
+
+                                                                                                                          Page 6
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Hai Phong City Resilience Development Project(P507658)
+
+
+ 15. The proposed project is aligned with the Water Security and Climate Adaptation (WSCA) Global Challenge Program
+     (GCP). Component 2 contributes to the Pillar 1 - Achieving universal access to safe water supply and sanitation of the
+     WSCA GCP by improving wastewater collection and management in the city. Components 2 and 3 of the proposed
+     project are in alignment with Pillar 3 - Reducing Impacts of Floods and Droughts and Managing Water Resources
+     Sustainably of the WSCA GCP. Component 4 is designed to support the development of systems to guide the future
+     development of the city in a climate sensitive manner.
+
+ 16. The proposed project is in conformity with national and Hai Phong city master plans. It will support Viet Nam’s
+     National Climate Change Strategy by contributing to its objective of modernizing transport networks by 2050. With
+     its focus on infrastructure and monitoring systems to address climate resilience, rising sea levels and flooding, and
+     ensure the security of water supply resources, it is aligned with Viet Nam’s Climate Change Adaptation National Plan
+     (2021-30), Hai Phong’s city master plan15 and major national projects on city development16 and coastal erosion.17
+
+ C. Proposed Development Objective(s)
+ The project development objectives (PDO) are to improve Hai Phong’s connectivity within the Northwest-Southeast
+ economic corridor, enhance Re River water quality, reduce flood risk in Hai Phong’s historical city center area, and
+ upgrade capacity for urban resilience management in selected areas of Hai Phong city.
+
+
+  Key Results (From PCN)
+ 17. The outcomes of the proposed project will be measured through the following outcome indicators:
+           i.   Outcome indicator 1 – People benefiting from improved access to sustainable transport infrastructure
+                and services (number, sex-and age disaggregated) (Corporate Scorecard Indicator)
+          ii.   Outcome indicator 2 – People provided with water, sanitation, and/or hygiene, of which (%) is safely
+                managed (number, sex-and age disaggregated) (Corporate Scorecard Indicator)
+         iii.   Outcome indicator 3 – Beneficiaries with enhanced resilience to climate risks (number, sex-and age
+                disaggregated) (Corporate Scorecard Indicator)
+         iv.    Outcome indicator 4 - Operationalization of integrated flood risk management system for the historical
+                city center of Hai Phong (Yes/No)
+
+ D. Concept Description
+
+ 18. The proposed project aims to improve resilience of Hai Phong city through multisectoral investments in transport
+     connectivity, sanitation improvement, urban inundation reduction, and urban resilience capacity. These four areas
+     of investment are complementary and mutually reinforcing.
+
+
+15
+   Including the adjustment and supplementation of the Master Plan on socio-economic development of Hai Phong City to 2025, with
+orientation to 2030, including the goal on construction of Hai Phong, approved by the Prime Minister on July 6, 2018; Decision of the
+Prime Minister dated September 15, 2020, approving the planning task of Hai Phong city in the 2021-2030 period, with a vision to
+2050; adjusted master construction master plan of Hai Phong city to 2040, with a vision to 2050 which has been submitted for approval,
+meeting the goals set out in the Decision of the Prime Minister dated May 15, 2018 approving the task of adjusting the master plan of
+Hai Phong city to 2035, with a vision to 2050, among others.
+16
+   Viet Nam Cities Development Project (2021-30) approved by the Prime Minister on March 25, 2021.
+17
+   Project on Prevention and control of riverbank and coastal erosion by 2030 approved by the Prime Minister on July 6, 2020.
+
+                                                                                                                                 Page 7
+
+
+
+                                                                                                                         Official Use Only
+       The World Bank
+       Hai Phong City Resilience Development Project(P507658)
+
+
+     (a) Enhanced regional connectivity. Development of the Northwest-Southeast marine economic axis is essential: (i)
+         for fostering intermodal transportation between road, rail, and maritime transport modes, promoting logistics
+         development, and creating new connections between industrial parks and existing gateways; (ii) to reduce truck
+         traffic through the city center, reducing urban congestion and crash occurrence; (iii) for removing sub-optimal
+         connections with the existing national and provincial road network; and (iv) for embedding elements of safety
+         and resilience in design.
+     (b) Infrastructure upgrades to ensure environmental sanitation improvements, reduced wastewater discharges
+         into key river while improving and protecting public spaces. Properly designed and managed environmental
+         sanitation improvement and flood control systems can: (i) enhance resilience to rising tides and other climate
+         events, by strengthening stormwater drainage management; (ii) reduce the volume of pollutants discharged to
+         Re River, benefiting communities alongside; and (iii) enhance urban public green spaces along the Re River and
+         Tam Bac River through integrated infrastructure upgrades.
+     (c) Urban resilience capacity enhancement as a foundational element for sustainability. Structural investments in
+         urban connectivity, water environment improvement, and urban inundation reduction will not be sustainable
+         without stronger systems and institutions that can effectively and efficiently plan, maintain, and operate them.
+         This requires the development of systems and capacity that will enable experts and decision makers to better
+         predict flood events and undertake real time monitoring of water and air quality.
+
+ 19. The proposed project will be undertaken using the Investment Project Financing (IPF) instrument. To support the
+     achievement of the PDO, the proposed project will comprise the following components:
+
+ 20. Component 1: Thuy Nguyen Integrated and Resilience Urban Infrastructure Development (estimated cost:
+     US$284.6 million; IBRD loan US$207.4 million). This component will support the development of a new greenfield
+     18 km-long Ring Road 3 (RR3) from the intersection with the Bui Vien Road in Hai An area in the South to the
+     intersection with National Highway 10 in the Northwest. The RR3 route will intersect Hanoi – Hai Phong Expressway,
+     cross the Cam River and Ruot Lon River, pass along the Vietnam Singapore Industrial Park (VSIP), and intersect the
+     National Highway 5 and Provincial Road 359. It will act as an extension of the Hanoi-Hai Phong Expressway to create
+     better connections from the north to the Lach Huyen port, Cat Bi airport and Hai Phong’s industrial parks/economic
+     zones, resulting in lower net GHG emissions due to reduced truck traffic through the city center. It will include: (a)
+     construction of the RR3 to the TCVN 13592-2022 standards of an urban primary main street including 32 m-wide two
+     major bridges of a total length of about 3.5 km over the Cam River and the Ruot Lon River, which will have a design
+     life of 100 years and considering Representative Concentration Pathway (RCP) 8.5 scenarios; (b) implementation of
+     road safety and climate resilience measures including road safety audits, soil treatments, bio-engineering methods
+     etc.; (c) engineering design and construction supervision; and (d) support for acquisition of right-of-way and land
+     required for the project including compensation for resettlement and site clearance. The RR3 will have phased
+     construction with the first phase consisting of (a) 2x10.5 m wide main carriageway, 5 m wide median, and 2x0.5 m
+     wide paved shoulders in a 68 m wide right-of-way, (b) grade-separated intersections for crossings with Ha Noi – Hai
+     Phong expressway and NH 5, and (c) at-grade crossings for the rest of the intersections. The second phase will include
+     capacity expansion of the ring road18 and construction of grade-separated intersections for crossings with NH 10,
+     Provincial Road 359, and road at Vu Yen Island. Only the first phase is included in the scope of the proposed project.
+     The second phase is proposed for implementation during 2027-2030 and Hai Phong PMU has proposed IBRD
+     additional financing to support the potential scale-up.
+
+
+
+18
+ The final cross-section will have 2x15 m main carriageway, 2x7 m frontage road, 5 m central median and 2x2 m median between
+main carriageway and frontage road (specifications of an urban primary street as per TCVN 13592-2022)
+
+                                                                                                                          Page 8
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Hai Phong City Resilience Development Project(P507658)
+
+
+ 21. Component 2: Re River Environmental Improvement (estimated cost: US$63.04 million; IBRD loan US$49.2
+     million). This component would help improve environmental sanitation in the catchment area of Re River. It would
+     include support for: (a) Re River infrastructure upgrades through: (i) construction of a 14.1 km-long and 3.5 m-wide
+     river management road along Re River to create space for arrangement and maintenance of the wastewater
+     collection system, and (ii) construction and upgrade of 11 km of embankment, (b) Re River basin environmental
+     sanitation improvement consisting of: (i) construction of the An Duong 1 Waste Water Treatment Plant (WWTP) with
+     a capacity of 10,000 m3; (ii) building a 17.3 km-long wastewater interceptor sewer (Primary sewers) and 1.4 km of
+     pressure mains to the An Duong 1 WWTP; (iii) building 12 wastewater pumping stations along the Re River
+     management road; (iv) construction of 11.6 km-long tertiary sewer for the wastewater collection network (including
+     tertiary sewers and households connections), and (v) procurement of equipment for a flood risk management, water
+     quality, and air environment.
+
+ 22. Component 3: City Center Flood Reduction (estimated cost: US$18 million; IBRD loan US$16.4 million). To reduce
+     flood risk in the historical city center, an urban resilience strategy of delay, store and discharge will take an integrated
+     approach for identification and optimization of priority interventions. Given unique spatial, tidal and terrain patterns
+     in Hai Phong, this strategy will support the city addressing its flood risk in a manner that is environmentally friendly,
+     with dependence on nature-based solutions, and does not cause negative impacts to areas outside of the city center.
+     The component will implement the “delay” and “discharge” part of the overall resilience strategy by expanding and
+     upgrading the secondary and tertiary combined sewers system. The “storage” portion of the resilience strategy will
+     be implemented through utilization of green infrastructure and nature-based solutions. Specifically, two new sluice
+     gates will be constructed at the joints of existing Tam Bac River with Thuong Ly river and Cam River, thus transforming
+     it into a regulation lake of 10.1 ha for meeting the increasing storm water regulation demand. A new connecting box
+     culvert to the existing Tam Bac Lake will help to increase the total area to 14.3 ha and effective regulating capacity19
+     of about 150,000m3. A pumping station, with planned capacity of 12m3/s, will optimize the use of the new regulation
+     lake to pump excess stormwater into the Cam River. About 5 km combined sewers will be upgraded to meeting the
+     technical drainage standards of Viet Nam.
+
+ 23. The component will also invest in environmental remediation measures to reduce wastewater discharge into the
+     Tam Bac River, while improving and protecting public spaces. In addition to improving the environmental sanitation
+     conditions in the city center, the upgrading of wastewater collection and treatment will contribute to improved
+     surface water quality. A comprehensive investment package of new tertiary and secondary sewers, 16 new CSOs, 5
+     new wastewater pumping stations and existing Lan Be pumping station upgrade, interceptors along Tam Bac River
+     and wastewater transmission to the existing Vinh Niem wastewater treatment plant (WWTP) is planned to collect
+     and treat approximately 3,000m3 wastewater daily.
+
+ 24. Component 4: Systems and Capacity Development to Improve Urban Resilience (estimated cost: US$42.5 million;
+     IBRD loan US$0 million). This would include the following sub-components:
+       i.   Sub-Component 4.1: Urban Flood Management Capacity Enhancement. This will support the development
+            of a system that will enable technical experts and decision-makers to better predict and respond to flood
+            events through: (a) creating and calibrating a dynamic hydraulic model for flood forecasting and early-warning
+            scenarios for An Duong, Hong Bang, Thuy Nguyen, Le Chan, Ngo Quyen and Dong Hai areas, (b) and
+            operationalization of an integrated flood risk management system for the historical city center areas, including
+            operating procedures for sluice gates and stormwater pumping station when extreme conditions are
+
+19
+  Effective regulating capacity is estimated at 70% (under real operational conditions) of the regulating capacity (215,000m3)
+derived from MIKE hydraulic modelling.
+
+                                                                                                                                 Page 9
+
+
+
+                                                                                                                         Official Use Only
+       The World Bank
+       Hai Phong City Resilience Development Project(P507658)
+
+
+            predicted, (c) establishing a framework and information system for improving the O&M of the flood control
+            structures for An Duong, Hong Bang, Thuy Nguyen, Le Chan, Ngo Quyen and Dong Hai areas, and (d) providing
+            training, workshops and technical assistance to Hai Phong city officials to enhance their capacity for flood risk
+            management, including incorporating nature-based solutions into flood control infrastructure.
+      ii.   Sub-Component 4.2: Urban Environment Monitoring Improvement. This will support development of real
+            time monitoring of water and air quality, comprising: (a) Influence and effluence quality and quantity
+            monitoring for An Duong 1 WWTP and water quality at Tam Bac sluice gates constructed under the project,
+            (b) Air quality monitoring for An Duong 1 WWTP, and (c) Support to improve the arrangements for the
+            operation and maintenance of the wastewater services in the city.
+     iii.   Sub-Component 4.3: Project Management. This will support the overall management and implementation of
+            the project to ensure quality construction, compliance with the Bank’s environment and social standards,
+            procurement and financial management procedures.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                          TBD
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+The Project’s environmental risk is rated Substantial. The project involves construction of urban roads, bridges, river
+embankments, drainage systems, wastewater facilities, and sluice gates within the project area. Construction-phase
+risks include air and noise pollution, dust and emissions, impacts on water quality and aquatic habitats, partial loss of
+river protection forest leading to erosion, dredging and disposal of excavated materials, and potential soil and water
+pollution. Operation-phase risks include traffic-related pollution, odor and sludge management at wastewater treatment
+systems, occupational health and safety concerns, and pollution risk from system failure. These impacts are moderate to
+substantial but largely reversible and can be mitigated through sound design, construction practices, and ESMP
+measures. The project’s social risk rating is High, primarily due to significant land acquisition and resettlement (LAR),
+permanently affecting approximately 120 hectares of lands from 2,600 households. Of these approximately 1,350 will
+need to be relocated. Beyond LAR, the project is expected to cause major disruptions to urban livelihoods and business
+activities during sewer system and road improvement works; risks associated with land acquisition for developing
+resettlement sites and potential delays in site development; substantial impacts from labor influx, community health
+and safety concerns, and traffic safety issues; disproportionate impacts on households that squat or encroach for
+livelihoods or residential purposes; relocation of a significant number of graves. Construction activities may further pose
+community health and safety risks, while operational phases carry risks like traffic accidents and other hazards.
+Furthermore, the influx of labor could give rise to risks including sexual exploitation and abuse/sexual harassment (SEA-
+SH), spread of sexually transmitted and communicable diseases. Additionally, there may be uneven access to project
+benefits among disadvantaged households who may face difficulties connecting to the domestic sewage system.
+
+                                                                                                                        Page 10
+
+
+
+                                                                                                                 Official Use Only
+     The World Bank
+     Hai Phong City Resilience Development Project(P507658)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Pratap Tvgssshrk
+ Senior Transport Specialist
+
+ Cuong Duc Dang
+ Sr Urban Spec.
+
+ Phyrum Kov
+ Senior Water Supply and Sanitation Specialist
+
+Borrower/Client/Recipient
+ Socialist Republic of Viet Nam
+
+Implementing Agencies
+ Hai Phong City Project People's Committee
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Pratap Tvgssshrk, Cuong Duc Dang, Phyrum Kov
+
+Approved By
+
+Practice Manager/Manager:                Benedict L.J. Eijbergen              29-Nov-2025
+
+Country Director:                        Mariam J. Sherman                    23-Dec-2025
+
+
+
+
+                                                                                                   Page 11
+
+
+
+                                                                                            Official Use Only
+The World Bank
+Hai Phong City Resilience Development Project(P507658)
+
+
+
+
+                                                                Page 12
+
+
+
+                                                         Official Use Only
+

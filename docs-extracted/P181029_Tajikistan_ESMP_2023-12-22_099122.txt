@@ -1,0 +1,1578 @@
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                               JSC “Rogun HPP”
+                               State Enterprise “Directorate for Flooding Zone of Rogun HPP”
+                               Project Management Group for Energy Facilities Construction under the President of the
+                               Republic of Tajikistan
+
+
+                               ROGUN HYDROPOWER PROJECT –
+                               UPDATED ENVIRONMENTAL AND
+
+
+
+Public Disclosure Authorized
+                               SOCIAL IMPACT ASSESSMENT
+                               Volume III: Environmental and Social Management Plan
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               DECEMBER 2023                                                                     PUBLIC
+JSC “Rogun HPP”
+State Enterprise “Directorate for Flooding Zone of Rogun HPP”
+Project Management Group for Energy Facilities Construction under the President of the
+Republic of Tajikistan
+
+
+
+
+ROGUN HYDROPOWER PROJECT –
+UPDATED ENVIRONMENTAL AND SOCIAL
+IMPACT ASSESSMENT
+Volume III: Environmental and Social Management Plan
+
+
+TYPE OF DOCUMENT (VERSION) PUBLIC
+
+
+PROJECT NO. 70097413
+OUR REF. NO. VOL3-ESMP-REV03-ENGLISH
+
+
+DATE: DECEMBER 2023
+
+
+
+
+                                                                                   PUBLIC
+JSC “Rogun HPP”
+State Enterprise “Directorate for Flooding Zone of Rogun HPP”
+Project Management Group for Energy Facilities Construction under the President of the
+Republic of Tajikistan
+
+
+
+
+ROGUN HYDROPOWER PROJECT –
+UPDATED ENVIRONMENTAL AND SOCIAL
+IMPACT ASSESSMENT
+Volume III: Environmental and Social Management Plan
+
+
+WSP
+WSP House
+70 Chancery Lane
+London
+WC2A 1AF
+Phone: +44 20 7314 5000
+
+
+WSP.com
+
+
+
+
+                                                                                   PUBLIC
+QUALITY CONTROL
+
+ Issue/revision     First issue            Revision 1             Revision 2               Revision 3
+
+ Remarks
+
+ Date               September 2023         October 2023           November 2023            December 2023
+
+ Prepared by        Ed Taylor              Di Scott               Matt Goodwin             Matt Goodwin
+
+ Checked by         Di Scott               Angela Boitsidis       Matt Goodwin             Ed Taylor
+
+ Authorised by      Angela Boitsidis       Angela Boitsidis       Angela Boitsidis         James McNally
+
+ Project number     70097413               70097413               70097413                 70097413
+
+ Report number      Vol3-ESMP-Rev00        Vol3-ESMP-Rev01        Vol3-ESMP-Rev02          Vol3-ESMP-Rev03
+
+ File reference     Vol3-ESMP-Rev00        Vol3-ESMP-Rev01        Vol3-ESMP-Rev02          Vol3-ESMP-Rev03
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume I          PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                     December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ
+      CONTENTS
+
+
+1     INTRODUCTION                                                                                            1
+
+2     APPLICABLE STANDARDS AND GUIDELINES                                                                     2
+
+3     ENVIRONMENTAL AND SOCIAL MANAGEMENT                                                                     3
+
+3.1   OVERVIEW                                                                                                3
+
+4     MANAGEMENT AND IMPLEMENTATION                                                                           5
+
+5     ENVIRONMENTAL AND SOCIAL MANAGEMENT                                                                     9
+
+6     MONITORING                                                                                            23
+
+7     TRAINING, AWARENESS AND COMPETENCE                                                                    25
+
+8     MANAGEMENT OF CHANGE                                                                                  26
+
+9     INCIDENTS, NON-CONFORMANCES, AND CORRECTIVE ACTIONS                                                   27
+
+10    ESHS REPORTING                                                                                        28
+
+11    ESTIMATED COSTS                                                                                       30
+
+
+
+
+      TABLES
+      Table 5-1     Mitigation Measures                                                                       9
+      Table 6-1     Typical Monitoring Programme                                                             24
+      Table 11-1      ESHS Staffing for Construction and Operation                                           31
+      Table 11-2 Estimated Annual Cost for ESHS Management and Staffing                                      32
+      Table 11-3 Costs for ESHS Management and Implementation                                                32
+      Table 11-4 Estimate Costs of Resettlement Program                                                      33
+
+
+      Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+      Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+      Project Management Group, JSC “Rogun HPP”, DFZ
+Table 11-5 Total Cost of ESHS and Resettlement Programs                                                33
+
+
+
+
+FIGURES
+Figure 3-1 - Outline Project ESMP                                                                       4
+Figure 4-1 Current Organizational Structure                                                             7
+Figure 4-2 Future Organizational Structure                                                              8
+Figure 10-1 ESHS Performance Reporting                                                                 28
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ
+1        INTRODUCTION
+1.1.1.   The Government of Tajikistan has established the Project Management Group (PMG) for Energy
+         Facilities Construction under the President of the Republic of Tajikistan, which is the implementing
+         entity for construction of the Project to oversee the construction and operation of Rogun Hydropower
+         Project (HPP).
+1.1.2.   Some activities during the continued construction and expanded operation of Rogun HPP and the
+         completion of the resettlement program (collectively, the Project) could result moderate or major
+         significant effects on environment and social resources if they are not managed or controlled. These
+         have been identified and described in Volume 1, Chapter 8: Impact Assessment.
+1.1.3.   Measures to ensure significant adverse effects are avoided, mitigated, or otherwise reduced to
+         acceptable levels have also been identified. These shall be implemented in compliance with the
+         laws of the Republic of Tajikistan and the ESHS standards of the World Bank and a number of
+         international financial institutions (IFIs) ((‘the Applicable Standards’). A detailed overview of the
+         Applicable Standards is provided in Volume I, Chapter 2: Administrative Framework.
+1.1.4.   The project organization is complex, and all parties will be required to ensure that proper planning,
+         construction, and operating procedures are implemented throughout the procurement, mobilization,
+         construction, and operation phases of the HPP and throughout planning and implementation of the
+         resettlement program.
+1.1.5.   This Environmental and Social Management Plan (ESMP) summarizes the measures that must be
+         taken to ensure that potential impacts are avoided, reduced, or otherwise mitigated during all
+         phases of the Project.
+1.1.6.   The principal objective of the ESMP is to “operationalize” the commitments to ESHS management
+         and mitigation that are identified in the ESIA, in particular in Volume 1, Chapter 8: Impact
+         Assessment and in the management plans in Volume 3. This in turn will maximize the benefits to,
+         and minimize the negative impacts on, the people and the environment within the Project’s area of
+         influence.
+1.1.7.   Decommissioning of the Project infrastructure will be subject to a full decommissioning plan in line
+         with requirements in place at the appropriate time. Consequently, ESHS actions associated with the
+         decommissioning phase of the Project are not included in the ESMP.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 1
+2        APPLICABLE STANDARDS AND GUIDELINES
+2.1.1.   The Applicable Standards include the following:
+         Republic of Tajikistan law, including international agreements to which Tajikistan is a party
+         The World Bank (WB) Environmental and Social Framework (ESF) (2018) including the ten E&S
+         standards (ESS), as well as the WB Group General Environmental, Health, and Safety (EHS)
+         Guidelines (2007) and relevant Industry Sector EHS.
+         The European Investment Bank (EIB) Environmental and Social Framework (ESF), consisting of the
+         E&S policy (2022) and revised E&S standards (2022).
+         EIB Environmental, Climate, and Social (ECS) Guidelines on Hydropower Development (2019).
+         The European Bank for Construction and Development (EBRD) Environmental and Social Policy
+         and Performance Requirements (PRs) (2019).
+         Asian Development Bank (ADB): Safeguard Policy Statement (SPS) (2009) and associated
+         safeguard documents.
+         Asian Infrastructure Investment Bank (AIIB): Environmental and Social Framework (2019, 2021, and
+         2022).
+         Environmental and social standards, objectives and goals prescribed by other development financial
+         institutions, including the Islamic Development Bank, the Eurasian Development Bank (EDB); the
+         Saudi Fund for Development (SFD), and the Kuwait Fund for Arab Economic Development
+         (KFAED).
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 2
+3        ENVIRONMENTAL AND SOCIAL MANAGEMENT
+
+3.1      OVERVIEW
+3.1.1.   The management of the Project will be guided by project-specific policies and procedures that
+         provide a coherent and cohesive structure to the management of ESHS risks. Collectively, these will
+         comprise the Project’s and the various parties’ respective Environmental and Social Management
+         Systems (ESMSs). The key objectives of these systems are:
+         To ensure all activities and persons responsible anticipate and take action to avoid impacts or risks
+         to communities and the environment or to reduce them to acceptable levels.
+         To help ensure that Rogun JSC and all contractor activities comply with the Applicable Standards.
+         To identify and assess E&S risks and impacts, both adverse and beneficial.
+         To adopt a mitigation hierarchy to anticipate and avoid, or where avoidance is not possible, to
+         minimize, and, where residual impacts remain, to compensate or offset for risks and impacts to
+         workers, affected communities, and the environment.
+         To promote and provide means for adequate engagement with affected communities throughout the
+         Project life cycle on issues that could potentially affect them, and to ensure that relevant
+         environmental and social information is disclosed and disseminated.
+         To ensure sufficient organizational capacity and competency exists at all levels within the Project’s
+         organization structure throughout the project lifecycle.
+         To set out a process for monitoring and review the effectiveness of the procedures and policies and
+         to take steps to promote continual improvement.
+         To ensure that change is managed.
+         To set out formal reporting and documentation requirements, and responsible parties.
+         To set out a requirement for Management Review.
+3.1.2.   The management program will include a number of discrete management plans prepared by various
+         parties to address the potential impacts their actions may cause. Plans to be developed by the
+         various parties, as outlined in this ESMP, are illustrated in Figure 3-1.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 3
+         Figure 3-1 - Outline Project ESMP
+
+
+3.1.4.   Project procedures and policies will draw on the elements of the established business management
+         process of implementing a Plan-Do-Check-Act (PDCA) cycle.
+3.1.5.   These policies and procedures, ESMP and supporting plans will be “live” documents and tools
+         against which E&S performance can be monitored.
+3.1.6.   Continual improvement of these tools will be achieved through the continual assessment of E&S
+         management performance against the relevant policies, objectives, and specific targets.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 4
+4        MANAGEMENT AND IMPLEMENTATION
+4.1.1.   As of March 2023, approximately 12,000 workers employed for construction and operation of the
+         HPP and a few hundred for resettlement planning and implementation. This will rise to 15,000 to
+         20,000 in coming years. About 95 percent of the workforce is Tajik and the remainder expatriates.
+         Construction of the HP will be complete in 2029, with the resettlement program continuing through at
+         least 2032 and possibly slightly longer. The reservoir will reach full supply level in 2036.
+4.1.2.   The current organization will change when international financing becomes available for continued
+         construction and operation.
+4.1.3.   The organizations currently responsible for ESHS management of the Project are presented in
+         Figure 4-1 and include:
+             ▪   Project Management Group (PMG) for Energy Facilities Construction under the
+                 President of Tajikistan (PMG) coordinates the key parties involved in the Project, including
+                 liaison with international lenders.
+             ▪   Employer/Owner – OJSC Rogun HPP (Rogun JSC) is responsible for ongoing and future
+                 operation of Rogun HPP and for ongoing construction of the HPP. Rogun JSC provides
+                 supervision of some construction contractors, including the Lot 3 EPC Contractor, Lot 4 early
+                 works contractors, other smaller contractors, and of the Employer’s Representative,
+                 Tractebel-ELC. Rogun JSC is ultimately accountable for all parties’ compliance with
+                 Tajikistan Law and, in future, International Standards.
+             ▪   Employer’s Representative – a consortium of Tractebel and ElectroConsult (Tractebel
+                 ELC or Tractebel) provides supervision of the Lot 2 EPC Contractor, including construction
+                 and ESHS.
+             ▪   EPC Contractor for Lot 1: Voith Hydro GmbH & Co (Voith Hydro) is responsible for
+                 delivery and installation of two runners for the two early generating units in 2024, installation
+                 of four new generating units from 2025 to 2029, an. installation of the balance of plant and
+                 control equipment. Voith Hydro will mobilize to site beginning in 2024.
+             ▪   EPC Contractor for Lot 2: WeBuild (formerly Salini Impregilo SpA) is responsible for
+                 design, procurement, and construction of the coffer dam and main dam, including treatment
+                 of the dam base (salt layer, grout curtain, drainage curtain).
+             ▪   EPC Contractor for Lot 3: TajikGidroElectroMontazh (TGEM) is responsible for tunnels
+                 and spillways on the right bank that provide adequate flood discharge capacity as the height
+                 of the main dam increases and lower tunnels can no longer be used for that purpose. Works
+                 under this contract that are not yet completed will be completed by a new Lot3A contractor
+                 (see below) and this contract will be terminated.
+             ▪   EPC Contractor for Lot 4 is to be appointed when financing is available, expected to be
+                 awarded in 2024. The contractor will be responsible for completion of left bank works.
+             ▪   Lot 4 ‘early works’ contractors: two main contractors, EMZ and Tunnel Sadd Ariana
+                 (Ariana), are implementing preparatory tunnelling and other works in advance of
+                 appointment of the Lot 4 EPC Contractor. Both contractors will be terminated and vacate the
+                 site upon appointment of the EPC Contractor. ESHS performance of the early works
+                 contractors is supervised by Rogun JSC.
+             ▪   Other non-EPC contractors – A number of smaller contractors (approx. 20 plus) are
+                 undertaking various preparatory and maintenance works, including Lot 4 preparatory works.
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 5
+                 Most of these contractors will also complete their work or have it taken over by EPC
+                 Contractors in 2024.
+             ▪   State Enterprise, Directorate of Flooding Zone of Rogun HPP (DFZ) is responsible for
+                 developing and implementing the resettlement and livelihood restoration program, which is
+                 responsible for resettling over 46,000 people. DFZ employs two main contractors, one for
+                 construction at new resettlement sites and another for demolition of relocated villages. DFZ
+                 also employs the Forestry Agency within the Committee for Environmental Protection, which
+                 carries out land clearance works in advance of flooding, and another contractor that
+                 transports property of resettled households to designated resettlement sites. ESHS
+                 performance of DFZ’s contractors ESHS performance is supervised by DFZ, which has no
+                 dedicated ESHS staff but does have engineering capability, including occupational health
+                 and safety. Contractors also have personnel (typically site managers) responsible for safety.
+4.1.4.   A new organizational structure for Rogun HPP will prevail once there is a commitment to
+         international financing which is expected in 2024 (See Figure 4-2). The changes will include:
+         In preparation of financing, PMG will modify the existing Lots 1 and 2 EPC contracts as needed to
+         include ESHS requirements equivalent to those required by World Bank Standard Procurement
+         Documents (SPD) for civil works. PMG has appointed Mott MacDonald to develop and negotiate
+         modifications for Lots 1 and 2 (but not yet for DFZ contracts). PMG will execute the modifications as
+         soon as practicable after financing is available.
+         Also, in preparation of financing, PMG is tendering and selecting EPC contractors for Lots 3A and 4,
+         which will be awarded as soon as practicable after financing is available. As noted, Lot 3A will
+         include all works not yet completed by TGEM and Lot 4 will include all remaining left bank works.
+         The Lot 3 EPC contract, early works contracts, and other contracts for works not assumed by Lot 3A
+         and Lot 4 EPC Contractors will be terminated, and the contractors will demobilize and leave the site.
+         The current Employers Representative, which is responsible only for Lot 2 at present, will be
+         replaced a Project Management Consultant (PMC). The PMC will supervise engineering and ESHS
+         performance of all four EPC contractors, and any other lesser contractors who remain on the site.
+4.1.5.   Similarly, DFZ will modify its construction contracts to include appropriate ESHS requirements and
+         will take an active role in managing ESHS performance.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 6
+Figure 4-1      Current Organizational Structure
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 7
+Figure 4-2      Future Organizational Structure
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                     Page | 8
+5        ENVIRONMENTAL AND SOCIAL MANAGEMENT
+5.1.1.   The Project has, as part of the lender process, conducted a standalone ESIA which is additional to the Government of Tajikistan regulatory
+         environmentally permitting requirements. The ESMP incorporates all mitigation measures identified within this ESIA.
+5.1.2.   Enhancement measures may also be identified to increase the positive benefits generated by the Project. The summary of mitigation measures is
+         presented in Table 5-1.
+5.1.3.   The Project and EPC contractor(s) will develop the additional management plans as set out in Figure 3-1, continue engaging with its key stakeholders
+         around the Project, its impacts and mitigation measures whilst addressing grievances submitted.
+5.1.4.   The Project will also undertake monitoring activities during the construction phase and oversee the implementation of the Project’s E&S commitments.
+         These will be incorporated and continuously updated.
+5.1.5.   The ‘effective date’ is the date when the agreement and transaction become legally binding, and the terms outlined in the contract begin to apply.
+
+
+         Table 5-1        Mitigation Measures
+                                                         Potential
+                      Activity or                                                                                    Indicators / Target
+          #                           Receptor           Adverse         Mitigation Measures /Enhancement                                  Responsible Body   Indicative Timeframe
+                      Issue                                                                                          Outcome
+                                                         Effects
+              1.   Procurement and Project Preparation
+          1           Construction    ▪ Lot 1 contract   Unacceptable    ▪ Modification of existing EPC and DFZ      Contracts with        ▪ PMG and JSC      ▪ Modified contracts agreed by
+                      contracts                          ESHS impacts.     contracts to include ESHS requirements    appropriate ESHS        Rogun (in part     parties: within 30 days of WB
+                                      ▪ Lot 2 contract                     consistent with World Bank World Bank     requirements            through Mott       Board approval.
+                                      ▪ DFZ contracts                      Standard Procurement Documents                                    MacDonald)
+                                                                                                                                                              ▪ Modified contracts executed:
+                                                                           (SPDs), including relevant requirements
+                                                                           (that is, relevant to the contractor’s                          ▪ DFZ                within 30 days after effective
+                                                                           activities) of Chapter 8, ESMP, SEP,                                                 date.
+                                                                           LMP, GAP, etc.)
+                                                                         ▪ Negotiations and agreement with EPC
+                                                                           Contractors
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                            PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                         December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                             Page | 9
+                                                Potential
+             Activity or                                                                                    Indicators / Target
+ #                           Receptor           Adverse         Mitigation Measures /Enhancement                                  Responsible Body   Indicative Timeframe
+             Issue                                                                                          Outcome
+                                                Effects
+
+                                                                ▪ Execution of modified contracts
+ 2           Bidding         ▪ Lot 3A           Unacceptable    ▪ As required by SPDs, include relevant     Contracts with        ▪ PMG              ▪ Tendering prior to World
+             documents         contract                           requirements for ESHS documentation       appropriate ESHS                           Bank Board approval.
+                                                ESHS impacts.
+                                                                  and performance (from ESIA & ESMP,        requirements.         ▪ JSC Rogun
+                             ▪ Lot 4 contract                     SEP, LMP, ESCP, GAP) in bidding                                                    ▪ Contracts negotiated within
+                                                                                                                                                       60 days of WB Board
+                             ▪ New DFZ                            documents for construction contracts.
+                                                                                                                                                       approval.
+                               contracts                        ▪ Require proposals to include:                                                      ▪ Contracts awarded before
+                                                                  o Management Strategies and                                                          effective date.
+                                                                    Implementation Plan (MSIP) for
+                                                                    management manage risks of
+                                                                    preconstruction phase (design
+                                                                    and construction of camps,
+                                                                    warehouses, workshops, site
+                                                                    preparation, etc.), including:
+                                                                     o OHS
+                                                                     o Labor management
+                                                                     o Worker COC and GRM
+                                                                     o Hazmat management
+                                                                     o Air quality/dust
+                                                                     o Layout of site(s)
+                                                                     o Construction standards for
+                                                                       accommodations/
+                                                                       workshops, etc.
+                                                                  o ESHS key personnel for the
+                                                                    project (that is, not corporate
+                                                                    level):ESHS manager, OHS
+                                                                    manager, environmental
+                                                                    manager, labor manager, ESHS
+                                                                    specialists, at least one safety
+                                                                    officer per 50 workers
+                                                                ▪ ESHS Performance Security of at least
+                                                                  one percent of the total contract value
+                                                                ▪ Minimum acceptable score for ESHS
+                                                                  (pass/fail)
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                            PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                         December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                            Page | 10
+                                                     Potential
+             Activity or                                                                                             Indicators / Target
+ #                              Receptor             Adverse           Mitigation Measures /Enhancement                                    Responsible Body         Indicative Timeframe
+             Issue                                                                                                   Outcome
+                                                     Effects
+
+                                                                       ▪ MSIP and key personnel considered in
+                                                                          evaluation factors for award.
+                                                                       ▪ ESHS specialist briefs evaluation panel
+                                                                          on ESHS scoring.
+                                                                       ▪ ESHS specialist(s) appointed as
+                                                                          member of evaluation panel
+
+ 3           Cleanup            ▪ Lot 3 contract     Contamination     As needed, modification of contracts to       ▪ Contracts with      JSC Rogun and PMG        ▪ Contracts modified: within 30
+             standards                               of reservoir      include standards for cleanup and site          cleanup                                         days after effective date
+                                ▪ Non-EPC            (2027)            rehabilitation prior to demobilization.         standards
+                                   contracts
+                                                                                                                     ▪ No contamination
+                                                                                                                       of reservoir
+
+ 4           Primary supplier   ▪ Lot 1 – 4 EPC      Risk to primary   ▪ Primary suppliers (of concrete and steel    ▪ Contracts with      EPC Contractors          ▪ Prior to effective date
+             contracts             Contractors       supply workers       liners) to complete labor management         appropriate         (supervised by PMC)
+                                   plus TGM                               declaration form (see LMP).                  requirements.       and TGM (supervised
+                                                                                                                                           by JSC Rogun)
+                                ▪ DFZ                                  ▪ If unsatisfactory response, confirm         ▪ Primary suppliers
+                                   contractors (if                        modification of supplier labor practices     in compliance
+                                   primary                                or change of supplier.                       (workers
+                                   supplier                                                                            protected)
+                                   identified in                       ▪ If no response, identify alternative
+                                   future)                                source.
+                                                                       ▪ PMC to verify
+ 5           PMC Contract       All contractors      ▪ Contractor      ▪ TOR to include requirement to               PMC contract          Modify TOR, select and   ▪ TOR modified: prior to
+                                                        ESHS              supervise non-EPCs until demobilized.      includes non-EPC      award contract: PMG         tendering.
+                                                        performance                                                  supervision           and JSC Rogun
+                                                        not            ▪ PMC appointed                                                                              ▪ PMC appointed: within 30
+                                                        supervised.                                                                                                    days of WB Board approval
+
+                                                     ▪ Unacceptable
+                                                        impacts
+
+ 6           DFZ                DFZ Contractors      Unacceptable      ▪ Modification to contracts to include        ▪ Contracts with      PMG and DFZ              ▪ Contracts modified: 90 days
+             construction                            impacts              relevant requirements from Chapter 8         appropriate                                     after effective date
+             and demolition                                               and ESMP, SEP, LRPF, LMP, GAP                requirements
+             contracts
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                            PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                         December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                            Page | 11
+                                                   Potential
+              Activity or                                                                                       Indicators / Target
+ #                              Receptor           Adverse          Mitigation Measures /Enhancement                                  Responsible Body          Indicative Timeframe
+              Issue                                                                                             Outcome
+                                                   Effects
+
+                                                                                                                ▪ No unacceptable
+                                                                                                                  impacts
+
+ 7            Preparation for   All parties        ▪ Insufficient   Appointment of ESHS managers,               ▪ Adequate staffing ▪ PMG                       ▪ PMG, JSC Rogun, DFZ: 180
+              ESHS                                    ESHS          specialists, and staff in accordance with                                                      days after effective date
+              management                              staffing      section 7 below.                            ▪ ESHS              ▪ JSC Rogun
+                                                                                                                  management
+                                                                                                                                    ▪ DFZ                       ▪ Contractors: before
+                                                   ▪ Poor ESHS                                                                                                     preconstruction and
+                                                      management                                                                    ▪ Contractors                  mobilization
+                                                   ▪ Unacceptable
+                                                      impacts
+
+
+     2.   Demobilization of Contractors
+
+ 2a. Remediation
+
+ 8        e   Remedial          ▪ Construction     Contamination    ▪ Inspection to identify contaminated       ▪ ID areas of         ▪ Inspection/ID: JSC      ▪ Inspection: prior to WB Board
+              planning for         camp 1          of reservoir        areas, including asbestos in               concern               Rogun                      approval.
+              contaminated                                             construction and wastes
+              areas (camps,     ▪ Right bank                                                                    ▪ Approved            ▪ Repository/ies          ▪ Cleanup plans: see row 17.
+              workshops,
+                                   and left bank                    ▪ Identification of repository for            decontamination/      identified/developed:
+                                                                                                                                                                ▪
+                                   1110                                contaminated material, including           containment           JSC Rogun (with
+              etc.) to be
+                                   inundation                          asbestos                                                         CEP)
+              inundated            zone
+                                                                    ▪ Development and approval of cleanup                             ▪ Plan development:
+                                                                       plans                                                            JSC Rogun,
+                                                                                                                                        Contractors
+                                                                                                                                      ▪ Plan approvals: JSC
+                                                                                                                                        Rogun, PMC, CEP
+
+ 2b. Contamination
+
+ 9            Cleanup of        Reservoir          Contamination    ▪ Camps/facilities/accommodations/etc.      ▪ Decontamination/ ▪ Sites cleared: Lot 3       ▪ Cleared: within 90 days of
+              Construction                         of reservoir        cleared in accordance with cleanup         containment           EPC and non-EPCs           effective date (repeated until
+              Camp 1.                                                  plans.                                                           and JSC Rogun              verified)
+                                                                                                                ▪ No contamination
+                                                                    ▪ Cleanup verified by inspection.             of reservoir        ▪ Verification and        ▪ Verification: 15 days after
+                                                                                                                                        acceptance: JSC            clearance
+                                                                    ▪ Site accepted for handover.                                       Rogun and CEP
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                        PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                     December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                        Page | 12
+                                                   Potential
+                Activity or                                                                                     Indicators / Target
+ #                                  Receptor       Adverse         Mitigation Measures /Enhancement                                   Responsible Body        Indicative Timeframe
+                Issue                                                                                           Outcome
+                                                   Effects
+
+                                                                                                                                                              ▪ Handover: within 180 days
+                                                                                                                                                                 after effective date
+
+ 10             Cleanup of          Reservoir      Contamination   ▪ Contamination cleared or contained in      ▪ Removal/            ▪ Sites cleared/        ▪ Cleared: within 90 days of
+                working area on                    of reservoir       accordance with cleanup plans.              decontamination       contained: Lots 2 &      effective date (repeated until
+                left bank.                         (2027)                                                                               3 EPCs, non-EPCs.        verified)
+                                                                   ▪ Removal of all facilities and equipment    ▪ No contamination
+                                                                                                                  of reservoir        ▪ Verification: JSC     ▪ Verification: 15 days after
+                                                                   ▪ Verification/acceptance of clearance                               Rogun and CEP            clearance
+                                                                                                                                                              ▪ Handover: within 180 days
+                                                                                                                                                                 after effective date
+
+ 11             Cleanup of          Reservoir      Contamination   ▪ Removal of contaminated                    ▪ Removal/            ▪ Sites cleared/        ▪ Cleaned: within 120 days of
+                Rogun JSC                          of reservoir       materials/decontamination                   decontamination,      contained: JSC           effective date (repeated until
+                areas to be                        (2027)                                                         site clearance        Rogun:                   verified)
+                inundated                                          ▪ Removal of all facilities and equipment
+                                                                   ▪ Verification/acceptance of clearance       ▪ No contamination ▪ Verification: CEP        ▪ Verification: 15 days after
+                                                                                                                  of reservoir                                   clearance
+
+ 12             Clearance of        Reservoir      Contamination   ▪ Removal/Decontamination of septic          ▪ No contamination ▪ Removal/demolition:      ▪ As required by CEP
+                resettled                          of reservoir       systems/ latrines                           of reservoir          DFZ demolition
+                villages                                                                                                                contractor
+                                                                   ▪ Demolition of structures, removal of
+                                                                      debris                                                          ▪ Release: DFZ and
+                                                                                                                                        CEP
+                                                                   ▪ Authorization to remove debris and
+                                                                      demobilize for site.
+                                                                   Note: no significant change from present
+                                                                   course
+ 2c. Asbestos
+
+ 13             Identification of   Lots 1-4 EPC   Exposure to     ▪ Investigate to identify any presence /     ▪ ID areas of         ▪ Inspection: JSC       ▪ See row 8.
+                asbestos            Contractors    asbestos           potential presence of asbestos sitewide     concern               Rogun
+                sitewide                                              and at all resettlement sites—see row 8
+                                                                   ▪ Production of Asbestos Register
+
+      3.   ESHS Management Planning
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                      PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                   December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                      Page | 13
+                                               Potential
+             Activity or                                                                                    Indicators / Target
+ #                             Receptor        Adverse          Mitigation Measures /Enhancement                                  Responsible Body     Indicative Timeframe
+             Issue                                                                                          Outcome
+                                               Effects
+ 3a. Update Management Plans
+
+ 14          PMG and JSC       ▪ EPC           ▪ Ineffective    Development and implementation of ESHS      ▪ Effective ESHS      PMG and JSC Rogun    ▪ Plans and guidelines
+             Rogun ESHS          Contractors     ESHS           management plans:                             management                                   disclosed prior to or WB
+             Management
+                               ▪ Communities     management     ▪ Stakeholder engagement and GRM            ▪ No unacceptable                              Board review.
+             Plans
+                               ▪ Environment   ▪ Unacceptable   ▪ Biodiversity management and No net          impacts                                  ▪ Implementation: after
+                                                 impacts           Loss Plan                                                                               effective date
+                                                                ▪ Labor Management Plan including
+                                                                   worker GRM and COC
+                                                                ▪ Community health, safety, security Plan
+                                                                ▪ Cultural heritage management plan and
+                                                                   chance finds procedure.
+                                                                ▪ Gender action plan
+                                                                ▪ Fish stock, habitat, and fisheries plan
+ 3b. Standards & Guidelines
+
+ 15          PMG and JSC       Lots 1-4 EPC    ▪ Ineffective    Development of guidelines (to include       ▪ Effective           PMG and JSC Rogun    ▪ Guidelines developed and
+             Rogun EPC         Contractors       planning       standards and minimum requirements) and       management          (through Tractebel       approved: prior to effective
+             Contractor                                         plans for Contractor ESHS program/plans       programs            and/or PMC)              date: .
+             Guidelines and                    ▪ Poor           to manage:
+                                                 performance                                                ▪ No unacceptable                          ▪
+             Standards                                          ▪ OHS                                         impacts
+                                               ▪ Unacceptable
+                                                 impacts        ▪ Labor, including GRM and COC
+                                                                ▪ Traffic
+                                                                ▪ Erosion control
+                                                                ▪ Materials and wastes
+                                                                ▪ Emergency preparedness/response
+                                                                ▪ ESHS training, including
+                                                                   SEA/SH/GBVAccommodations
+                                                                ▪ Air quality/dust
+                                                                ▪ Water/wastewater
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                   PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                   Page | 14
+                                               Potential
+             Activity or                                                                                     Indicators / Target
+ #                            Receptor         Adverse            Mitigation Measures /Enhancement                                 Responsible Body        Indicative Timeframe
+             Issue                                                                                           Outcome
+                                               Effects
+
+                                                                  ▪ Noise and vibration
+                                                                  ▪ Explosives and blasting
+ 16          DFZ contractor   ▪ Resettled      ▪ Noncompliant ▪ Development of guidelines (standards         ▪ Contractors         ▪ Guidelines: DFZ       ▪ Guidelines: 30 days after WB
+             ESHS               households       housing/           and minimum requirements) for              aware of                                       Board approval
+             Guidelines                          infrastructure     contractor plans to manage:                responsibilities    ▪ House building
+                              ▪ Construction                                                                                         requirements: DFZ     ▪ Requirements on resettlers:
+                                contractor     ▪ Unacceptable       o OHS                                    ▪ Safe and stable       to impose                30 days after effective date.
+                                                 construction       o Air quality/dust                         houses                requirements.
+                              ▪ Responsible      impacts                                                                                                   ▪ Infrastructure: 30 days after
+                                ministries                          o Labor                                  ▪ Safe and stable     ▪ Infrastructure           effective date
+                                                                    o Drainage                                 infrastructure        requirements: DFZ
+                                                                                                                                     to collaborate with
+                                                                    o Worker GRMs
+                                                                                                                                     Ministries
+                                                                    o Emergency response
+                                                                    o Waste
+                                                                  ▪ Requirements imposed on resettled
+                                                                    households for construction of new
+                                                                    houses to meet Tajik building
+                                                                    standards.
+                                                                  ▪ Infrastructure required to be designed
+                                                                    and constructed in compliance with
+                                                                    Tajik building standards
+
+ 3c. New Management Plans/Strategies
+
+ 17          ESHS Program
+                              Lot 2 EPC
+                                               Substandard        ▪ New program/plans or modifications to    ▪ Effective ESHS      ▪ Plan changes: Lot 2   ▪ New/Proposed changes:
+             Update                            ESHS                 existing ESHS plans to be developed in     controls during       EPC                      within 3 days after contract
+                                               management           accordance with JSC Rogun guidelines       construction                                   modification (see row 1)
+                                                                    (see row 15), including:                                       Approval: PMC
+                                               Unsafe
+                                                                                                                                                           ▪ Plans approved: within 6
+                                                                    o Occupational Health, Safety, and                                                        months of effective date
+                                               conditions             Security Plan                                                                           (when acceptable)
+                                                                    o Labor Management Plan,
+                                                                      including Workers GRM and CoC
+                                                                    o Workers Accommodation Plan
+                                                                    o Retrenchment Management Plan
+                                                                    o Subcontractor Management Plan
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                      PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                   December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                      Page | 15
+                                              Potential
+             Activity or                                                                                   Indicators / Target
+ #                           Receptor         Adverse         Mitigation Measures /Enhancement                                   Responsible Body   Indicative Timeframe
+             Issue                                                                                         Outcome
+                                              Effects
+                                                                 o Traffic Management Plan
+                                                                 o Erosion Control Plan
+                                                                 o Waste Management Plan
+                                                                 o Emergency Preparedness &
+                                                                   Response plan
+                                                                 o ESHS training
+                                                                 o Air Quality & Dust Management
+                                                                   Plan
+                                                                 o Water & Wastewater
+                                                                   Management Plan
+                                                                 o Noise & Vibration Management
+                                                                   Plan
+                                                                 o Blasting & Explosives
+                                                                   Management Plan
+                                                                 o
+                                                                 o Borrow Pit/Quarry Management
+                                                                   Plan
+                                                                 o Demolition & Asbestos
+                                                                   Management Plan
+                                                                 o Stockpile Management Plan
+                                                                 o Site Rehabilitation and
+                                                                   Demobilization Plan
+                                                                 o
+                                                                 o Hazardous Materials
+                                                                   Management Plan
+                                                                 o Site Rehabilitation and
+                                                                   Demobilization Plan
+                                                                 o GHG Reduction Plan
+                                                                 o Vehicle & Equipment
+                                                                   Maintenance Plan
+                                                              Plans to require mitigation in accordance
+                                                              with Volume 1, Chapter 8 and guidelines in
+                                                              row 16
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                         PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                      December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                         Page | 16
+                                                       Potential
+                 Activity or                                                                                            Indicators / Target
+    #                              Receptor            Adverse            Mitigation Measures /Enhancement                                     Responsible Body         Indicative Timeframe
+                 Issue                                                                                                  Outcome
+                                                       Effects
+         4.   Preconstruction and Construction Phase
+    18           Land allocation   Lots 1, 3A, and 4   Exposure of        ▪ Verification that previously used land      Uncontaminated         ▪ Verification: JSC      ▪ Verification: 15 days after
+                 for camps         EPC Contractors     workers to            has been cleared and released (see         land, suitable for       Rogun and CEP             clearance
+                                                       contamination         above)                                     facilities
+                                                                                                                                               ▪ Allocation: JSC        ▪ Allocation: immediately after
+                                                                          ▪ Allocation of land for                                               Rogun                     verification
+                                                                             shops/accommodations/facilities
+
+    19           Preconstruction   Lots 1, 3A, and 4   ▪ Substandard      ▪ If needed, modifications to MSIP to fully   ▪ MSIP addresses       ▪ MSIP change            ▪ MSIP changes: within 30
+                 phase             EPC Contractors       ESHS                address risks during pre-construction         all pre-              requirements: JSC         days after appointment
+                 (contractor                             management          phase.                                        construction          Rogun
+                 facility/site                                                                                             phase risks.                                 ▪ Preconstruction mobilization:
+                 preparation)
+                                                       ▪ Unsafe           ▪ Pre-construction-phase mobilization                                ▪ MSIP changes: EPC         after MSIP approved.
+                                                         conditions          authorization                              ▪ No unacceptable        Contractors
+                                                                                                                                                                        ▪ Implementation: throughout
+                                                                                                                           risks and impacts
+                                                       ▪ Air, water,      ▪ MSIP implemented (dust, drainage,              to workers,         ▪ MSIP final approval:      preconstruction phase
+                                                         soil pollution      hazmats, land-clearing, traffic, safety,                            PMC1
+                                                                             etc.)
+                                                                                                                           community, or                                ▪ ESHS plans prepared: 30
+                                                                                                                           environment.        ▪ Design and                days after preconstruction
+                                                                          ▪ Accommodations designed and                 ▪ Effective ESHS         construction: EPCs        mobilization
+                                                                             constructed to meet IFC/EBRD
+                                                                             guidelines.
+                                                                                                                           controls during     ▪ Plan preparation:      ▪ Plans approved: TBD (when
+                                                                                                                           construction          EPCs                      acceptable)—prior to
+                                                                          ▪ Workshops, warehouses, etc., designed                              ▪ Plans approved:           mobilization for construction
+                                                                             and constructed to meet international
+                                                                             standards.                                                          PMC.
+
+                                                                          ▪ Development of ESHS management
+                                                                             program/plans in accordance with JSC
+                                                                             Rogun guidelines (see row 15), to
+                                                                             cover, as needed, :
+
+
+
+
+1
+    If there are delays in PMC appointment prior to mobilization of Contractors, JSC Rogun may require Tractebel to assume PMC responsibilities until the appointed PMC can assume
+      its responsibilities.
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                                 PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                              December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                                 Page | 17
+                                              Potential
+             Activity or                                                                                Indicators / Target
+ #                           Receptor         Adverse         Mitigation Measures /Enhancement                                Responsible Body   Indicative Timeframe
+             Issue                                                                                      Outcome
+                                              Effects
+                                                                 o Occupational Health, Safety, and
+                                                                   Security Plan
+                                                                 o Labor Management Plan,
+                                                                   including Workers GRM and CoC
+                                                                 o Workers Accommodation Plan
+                                                                 o Retrenchment Management Plan
+                                                                 o Subcontractor Management Plan
+                                                                 o Traffic Management Plan
+                                                                 o Erosion Control Plan
+                                                                 o Waste Management Plan
+                                                                 o Emergency Preparedness &
+                                                                   Response plan
+                                                                 o ESHS training
+                                                                 o Air Quality & Dust Management
+                                                                   Plan
+                                                                 o Water & Wastewater
+                                                                   Management Plan
+                                                                 o Noise & Vibration Management
+                                                                   Plan
+                                                                 o Blasting & Explosives
+                                                                   Management Plan
+                                                                 o Borrow Pit/Quarry Management
+                                                                   Plan
+                                                                 o Demolition & Asbestos
+                                                                   Management Plan
+                                                                 o Stockpile Management Plan
+                                                                 o Site Rehabilitation and
+                                                                   Demobilization Plan
+                                                                 o Hazardous Materials
+                                                                   Management Plan
+                                                              ▪ Plans to require mitigation in
+                                                                 accordance with Volume 1, Chapter 8.
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                      PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                   December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                      Page | 18
+                                              Potential
+             Activity or                                                                                      Indicators / Target
+ #                           Receptor         Adverse          Mitigation Measures /Enhancement                                     Responsible Body        Indicative Timeframe
+             Issue                                                                                            Outcome
+                                              Effects
+
+                                                               ▪ Plans to identify mitigations to be
+                                                                  applied (see Volume 1, Chapter 8),
+                                                                  locations, responsibilities, frequencies,
+                                                                  etc.),
+                                                               ▪ Plans approved
+ 20          ESHS Program    Lot 2 EPC        Substandard      ▪ As needed, new program/plans or              Effective ESHS        ▪ Plan changes: Lot 2   ▪ New/Proposed changes:
+             Update                           ESHS                modifications to existing ESHS plans        controls during         EPC                      within 30 days after contract
+                                              management          for:                                        construction                                     modification (see row 1)
+                                              Unsafe                                                                                ▪ Approval: ER/PMC
+                                              conditions
+                                                                  o OHS                                                                                     ▪ Plans approved: within
+                                                                  o Labor, including GRM and COC                                                               6nmonths of effective date
+                                              Air, water
+                                                                  o Traffic
+                                                                  o Erosion control
+                                                                  o Materials and wastes
+                                                                  o Emergency
+                                                                    preparedness/response
+                                                                  o ESHS training
+                                                                  o Accommodations
+                                                                  o Air quality/dust
+                                                                  o Water/wastewater
+                                                                  o Noise and vibration
+                                                               ▪ Explosives and blasting
+                                                               ▪ Plans approved
+ 21          PMC             PMC and          ▪ Poor ESHS      ▪ Mobilize to site.                            ▪ Contractor ESHS     PMC                     ▪ Mobilization: as specified in
+             Mobilization    Contractors        performance                                                     performance                                    TOR (to overlap Tractebel)
+                                                               ▪ Review and approval of Contractor              supervised.
+                                              ▪ Unacceptable      ESHS management programs/plans
+                                                impacts                                                       ▪ Contractor
+                                                                                                                compliance with
+                                                                                                                ESHS standards
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                   PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                   Page | 19
+                                                        Potential
+                  Activity or                                                                                          Indicators / Target
+ #                                    Receptor          Adverse          Mitigation Measures /Enhancement                                    Responsible Body      Indicative Timeframe
+                  Issue                                                                                                Outcome
+                                                        Effects
+ 22               ESHS                EPC and DFZ       ▪ Ineffective    ▪ Approval of EPC Contractor                  ▪ Contractor          ▪ EPCs: PMC           ▪ Approval: within 30 days of
+                  Supervision         Contractors         ESHS              management program/plans                     compliance                                  effective date
+                                                          management                                                                         ▪ DFZ contractors:
+                                                                       ▪ Supervision of ESHS performance               ▪ ESHS                  DFZ                 ▪ Supervision and
+                                                        ▪ Unacceptable ▪ Employment of Ecological Clerk of               management                                  enforcement: throughout pre-
+                                                          ESHS                                                           programs                                    construction and construction
+                                                          impacts           Works.                                       implemented
+                                                                         ▪ Enforcement of ESHS requirements in
+                                                                            contracts and application of remedies
+                                                                            (warnings, written notices, removal,
+                                                                            suspension, withholding of payment,
+                                                                            etc.) in accordance with contracts
+
+ 4a. Mitigation
+
+ 23               Reservoir                             ▪ Slope          ▪ Investigate and survey the banks of the     ▪ No unacceptable     ▪ Rogun JSC           ▪ Investigation: within 3 months
+                  Instability Risks   ▪   Reservoir       instability       reservoir to establish slopes at risk of     impacts                                     of effective date.
+                                                          risks             instability due to the varying water
+                                                                            levels.
+                                                        ▪ Landslides
+                                                                         ▪ Undertake intervention works to
+                                                                            stabilize the slopes where possible.
+
+ 24               Soil                ▪   Environment   ▪ Loss of soil   ▪ All new land-clearing and land              ▪ No unacceptable     ▪ Rogun JSC           ▪ Implementation: within 3
+                  Conservation                                              disturbing activities kept to a minimum.     impacts                                     months of effective date.
+                                                                         ▪ Before inundation, former arable land
+                                                                            should be made available to
+                                                                            communities to recover topsoil for use
+                                                                            elsewhere.
+                                                                         ▪ As per mitigation in accordance with
+                                                                            Volume 1, Chapter 8.
+
+      5.   Construction
+ 25               Contractor          EPC and DFZ       ▪ Project        ▪ Mobilization of equipment and workers       ▪ Effective ESHS      ▪ Approval and        ▪ Mobilization: after ESHS
+                  Mobilization        Contractors         delays                                                         controls              authorization for     plans approved.
+                                                                                                                                               EPCs: PMC
+                                                                                                                       ▪ No unacceptable
+                                                                                                                         impacts
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                             PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                          December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                             Page | 20
+                                                 Potential
+              Activity or                                                                                         Indicators / Target
+ #                               Receptor        Adverse             Mitigation Measures /Enhancement                                    Responsible Body     Indicative Timeframe
+              Issue                                                                                               Outcome
+                                                 Effects
+
+                                                 ▪ Ineffective                                                                           ▪ Mobilization:
+                                                    ESHS                                                                                     Contractors
+                                                    controls
+                                                 ▪ Unsafe
+                                                    conditions
+                                                 ▪ Unacceptable
+                                                    impacts on
+                                                    workers,
+                                                    communities,
+                                                    environment
+
+ 26           Construction       Contractors     ▪ Poor ESHS         Implementation of management                 ▪ Ineffective ESHS     ▪    EPC and DFZ     ▪ Throughout mobilization and
+              (and demolition)                      management       program/plans (see rows 19 and 20)              management               Contractors         construction (and demolition)
+                                                 ▪ Unacceptable                                                   ▪ Unacceptable
+                                                    impacts                                                          impacts
+
+ 27
+              ESHS               See row 22
+              supervision
+
+      6.   HPP Operation
+ 28           Update of          Rogun HPP       ▪ No                Appoint consultants to complete studies to   ▪ Improved             ▪    JSC Rogun       ▪     TBD
+              studies                               recognition of   update information on seismicity,               understanding
+                                                    risks            climate/hydrology, and sedimentation            and mitigation of
+                                                                                                                     risks
+                                                 ▪ Inefficient
+                                                    operation                                                     ▪ Efficient
+                                                                                                                     operation
+
+ 29           ESHS Planning      ▪ Workers       ▪ Poor ESHS         ▪ Update current program/plans and/or        ▪ Effective ESHS       ▪ Development: JSC   ▪ Plans developed: 90 days
+                                                    management          develop new program/plans for:               management              Rogun                after effective date.
+                                 ▪ Communities
+                                                 ▪ Unacceptable         o ESHS Policy Statement                   ▪ No unacceptable      ▪ Approval: WB       ▪ Plans approved: when
+                                 ▪ Environment      impacts             o OHS                                        impacts                 (Lender)             acceptable
+                                                                        o Labor, including GRM and COC
+                                                                        o Waste and materials
+                                                                          management
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                       PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                    December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                       Page | 21
+                                                     Potential
+              Activity or                                                                                          Indicators / Target
+ #                               Receptor            Adverse            Mitigation Measures /Enhancement                                 Responsible Body   Indicative Timeframe
+              Issue                                                                                                Outcome
+                                                     Effects
+                                                                            o Air quality (underground)
+                                                                            o Watershed management
+                                                                            o Emergency planning and
+                                                                              response
+                                                                        ▪ Plans are to become part of the
+                                                                            Cascade dam and reservoir operating
+                                                                            plan.
+                                                                        ▪ Approval of program/plans
+ 30           ESHS                                                      Implementation of management plans,                                                 ▪ Row 24 plans: after approval,
+              Implementation                                            including:                                                                              throughout operation
+                                                                        ▪ Program/plans in row 29                                                           ▪ Row 12 plan: after effective
+                                                                        ▪ Plans from row 14 (SEP, GAP, BMP                                                      date, throughout operation
+                                                                            and No Net Loss, Fisheries)
+
+      7.   Resettlement Program
+ 31           RPF                Current and         Resettlers worse   Completion of updated LRPF                 ▪ Compliance with         ▪   DFZ        ▪    Prior to WB board approval
+                                 future resettlers   off than before                                                 ESS5
+ 32           RAP 2              Ongoing                                ▪    Completion of updated RAP2            ▪ Resettlers no           ▪   DFZ        ▪    Updated RAP2: Before
+                                 resettlement
+                                                                        ▪    Implementation of RAP2
+                                                                                                                     worse off                                   effective date
+                                 program
+                                                                        ▪    Completion audit in accordance with                                            ▪    Implementation: through
+                                                                             LRPF                                                                                2025
+                                                                                                                                                            ▪    Completion audit: in
+                                                                                                                                                                 accordance with RAP2
+ 33           RAP 3, 4, et al.   Future                                 Development and implementation of future                             ▪   DFZ        ▪    In accordance with LRPF
+                                 resettlement                           RAPs in accordance with RPF
+                                 program
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                                    PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                                 December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                                    Page | 22
+6        MONITORING
+6.1.1.   Monitoring of the effects of construction and operational activities on workers, communities, and the
+         environment will enable the effectiveness of ESHS mitigation to be evaluated and improved.
+         Supervision by the PMC and by DFZ will verify that contractors are complying with the ESHS
+         requirements of their contracts and their management programs and plans or allow actions to bring
+         them back into compliance.
+6.1.2.   JSC Rogun’s ESHS management plans (see rows 14 and 29 in Table 5-1) will establish
+         requirements for monitoring, including what is to be monitored, how it will be monitored, where and
+         when monitoring will take place, who will conduct the monitoring, and what records will be kept of
+         monitoring results. The plans will also specify response actions for conditions or actions that are not
+         in compliance with the ESCP and/or approved management plans.
+6.1.3.   It is not possible at this stage to define contractors’ monitoring requirements with any precision. That
+         will be defined in JSC Rogun's management plan guidelines (see row 15the contractors’ ESHS
+         management plans (see rows,19 and 20 in Table 5-1), which will have to be approved by the PMC
+         (acting on behalf of JSC Rogun and PMG). The management plans will requirements for what is to
+         be monitored by the contractor, how it will be monitored, where and when monitoring takes place,
+         who will conduct the monitoring, and what records will be kept of monitoring results. The plans will
+         also specify response actions for conditions or actions that are not in compliance with contracts
+         and/or approved management plans.
+6.1.4.   Monitoring will range from more or less continuous observation of site conditions (e.g., visible dust
+         (aboveground) or haze (belowground), safety of working conditions, vehicle conditions, etc.) by
+         ESHS managers and staff as well as site managers and supervisors to scheduled or unscheduled
+         inspections (e.g., of workplace safety or of drainage control) to measurements of specific
+         parameters (e.g., atmospheric gasses) by specialists to continuous recording of various
+         parameters/conditions. Monitoring may also include interviews with workers or supervisors and/or
+         review of records. Each management plan will specify the multiple methods that will be used (see
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 23
+6.1.5.   Table 6-1 for examples) and the frequency of monitoring. If possible, the PMC and possibly
+         contractors will use the CCTV system operated by JSC Rogun to enhance their monitoring
+         capabilities.
+6.1.6.   In addition to the “self-monitoring” by JSC Rogun and Contractors that is required by their
+         management plans, the PMC will supervise EPC Contractor ESHS performance and compliance
+         with ESHS requirements of their Contracts and DFZ will monitor its contractors’ ESHS performance
+         and compliance with their contracts.
+6.1.7.   Actions arising from all inspections will be collated into a centralized Corrective Action Register
+         (CAR) for monitoring follow up and close out of the findings of the inspection. Instances of
+         noncompliance will be addressed as described in contracts and in section 9 below. The CAR will be
+         reviewed monthly as part of ESHS progress meetings, and the closeout rate will be monitored
+         during weekly ESHS meetings.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 24
+Table 6-1        Monitoring Program to be Defined in Management Plan
+
+ Type of Monitoring         Objective                     Responsible party                          Approximate Frequency         Output
+
+ Continuous observation     Identify issues of concern
+                                                          All parties:
+                                                                                                     Continuous
+                                                                                                                                      ▪     Issues recorded/ reported as
+                            (visible dust, unsafe              ▪ Site managers                                                              appropriate.
+                            conditions)                        ▪ Supervisors                                                          ▪     Actions taken
+                                                               ▪ ESHS managers and staff
+                                                               ▪ PMC
+
+ OHS routine workplace      Targeted inspection of work
+                                                              ▪   Contractors’ site managers
+                                                                                                     Daily (selected locations)
+                                                                                                                                      ▪     Conditions/ practices
+ inspection                 practices and conditions          ▪   Contractors’ ESHS managers                                                observed.
+                                                              ▪   Contractors’ safety managers and                                    ▪     Improvements needed.
+                                                                  officers                                                            ▪     Actions taken.
+                                                              ▪   PMC
+
+
+ Routine environmental      Targeted inspection of
+                                                              ▪   Contractors’ site managers
+                                                                                                     Occasional
+                                                                                                                                      ▪     Environmental inspection
+ site inspection            implementation and                ▪   Contractors’ ESHS managers and                                            register
+                            effectiveness of mitigation           specialists                        Weekly                           ▪     Actions taken.
+                            measures                          ▪   PMC                                Daily
+
+ Routine labor inspection   Assess labor management
+                                                              ▪   Contractors’ HR managers and
+                                                                                                     Weekly spot checks, records
+                                                                                                                                      ▪     Labor register
+                            practices
+                                                                  specialists
+                                                                                                     reviews                          ▪     Actions taken
+                                                              ▪   PMC
+
+ Security Inspection        Assess Security Management
+                                                              ▪   ESHS managers
+                                                                                                     Weekly
+                                                                                                                                      ▪     Security inspection register
+                            and practices                     ▪   PMC                                                                 ▪     Actions taken
+
+ Routine accommodation      Condition of workers’
+                                                              ▪   Contractors’ HR specialists
+                                                                                                     Weekly.
+                                                                                                                                      ▪     Accommodation inspection
+ and amenities (kitchens,   accommodations                    ▪   PMC                                                                       checklist.
+ sanitation, etc.)                                                                                                                    ▪     Actions taken
+ Inspection
+
+
+
+
+Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III                                                                    PUBLIC | WSP
+Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                                                                                 December 2023
+Project Management Group, JSC “Rogun HPP”, DFZ                                                                                                                    Page | 25
+7        TRAINING, AWARENESS AND COMPETENCE
+7.1.1.   All personnel employed or visiting Project sites will be trained on relevant ESHS topics, including the
+         jobs or activities they are to perform, the risks and impacts their actions may cause, and the
+         measures they and others must take to avoid or minimize the ESHS risk and impacts.
+7.1.2.   The PMC will develop and provide induction training to all who visit the HPP construction site and
+         the DFZ or their contractors (as required by DFZ) will develop and provide such training to those
+         who visit DFZ construction or demolition sites. Each management plan developed by Contractors
+         and JSC Rogun (see Figure 3-1) will include requirements for training site managers, ESHS
+         managers and specialists, and supervisors and others who may be exposed to or cause risks and
+         impacts.
+7.1.3.   Training will include formal training sessions as well as regular “toolbox talks” undertaken prior to
+         commencement of daily construction activities. All training will be documented, including the topic,
+         trainees, trainer, location, date, and time of each session. Some training, such as for drivers or
+         blasters, may require issuance of a certificate or license.
+7.1.4.   Induction training will include, but not necessarily limited to:
+         Definition of the environment.
+         Need for environmental protection and management.
+         Impact of construction activities on the environment.
+         Adequate mitigation measures against such impact.
+         Emergency Preparedness and Response Plan.
+         Code of Conduct and social responsibility during construction, such as being considerate to local
+         communities, community health, with a focus on the prevention of sexually transmitted infections,
+         and gender specific requirements.
+         Project policies and objectives.
+         The Project ESMP.
+         Health and safety plans and procedures.
+         Key occupational health and safety (OHS) hazards and controls on site.
+         Current applicable regulations.
+         Grievance mechanisms.
+7.1.5.   Additional specialist training will be provided as needed, including as required by Tajik regulatory
+         requirements, to ensure understanding and effective implementation of Project ESHS requirements.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 26
+8        MANAGEMENT OF CHANGE
+8.1.1.   An effective change management will underpin every element of the Project’s management
+         systems. This includes a number of elements that are specifically designed to check and identify
+         changes in E&S performances, risk profile, and management effectiveness in order to ensure that
+         issues are recognized and that actions are taken to address the issues, including changes to the
+         systems.
+8.1.2.   This ESMP as well as the management plans prepared by JSC Rogun and contractors are intended
+         to be “live” documents that will be revised, revised, and updated on a regular basis to ensure they
+         remain relevant and are effectively mitigating the risks identified in this ESIA and during Project
+         performance.
+8.1.3.   JSC Rogun will review and, if necessary, update its management plans on an annual basis.
+         Changes will be submitted to and approved by the World Bank and/or other Lenders as appropriate.
+8.1.4.   Construction contractors, both EPC Contractors and DFZ’s contractors, will review and update their
+         plans on a semi-annual basis (that is, twice per year) or as required by the PMC or DFZ,
+         respectively. Changes will be submitted for review and approval by the PMC or DFZ, as appropriate,
+8.1.5.   This ESMP will be reviewed and updated by PMG on at least a bi-annual basis. If there are material
+         changes to Tajikistan legal requirements or Lender requirements, the ESMP will be updated within
+         90 days of the changes.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 27
+9        INCIDENTS, NON-CONFORMANCES, AND CORRECTIVE
+         ACTIONS
+9.1.1.   If monitoring observations, inspections, or reviews of records (by the Contractor or by the PMC or
+         DFZ) reveal that Contractors or others are not complying with applicable requirements, including
+         ESHS requirements of the contract and approved management plans, this will be documented and
+         followed up until there are satisfactory responses and compliance. Instances of noncompliance with
+         ESHS requirements will be addressed immediately or as soon as practicable, with required
+         response actions commensurate to the risk of the nonconformance (which could range from simple
+         non-use of proper PPE to life-threatening misuse of equipment).
+9.1.2.   All but the most minor instances of noncompliance will be documented and repeat violations will
+         always be documented. All parties (that is, PMC, DFZ, and Contractors) will implement a graduated
+         system of penalties for workers and contractors who repeatedly violate ESHS requirements,
+         including proper use of PPE. The process shall begin with verbal warning, proceeding to written
+         notice, and continuing through dismissal of personnel for repeated violations.
+9.1.3.   Similarly, a graduated system of penalties should be applied to supervisors and managers, and to
+         companies, if there are repeated instances of safety or other violations or issues associated with
+         work or workers under their supervision.
+9.1.4.   To ensure compliance, the PMC and DFZ should apply the full range of remedies that are allowed
+         by the respective contracts, up to and including removal of personnel or withholding payment for
+         interim certificates until works are completed in compliance with contract requirements, including
+         ESHS requirements.
+9.1.5.   It is important that ESHS managers and personnel have the authority to suspend works immediately
+         if breaches of ESHS requirements are observed that could lead to injury, property damage, or
+         serious environmental harm. In such a case, only the project manager and/or the ESHS manager
+         would have the authority to allow work to resume, and only then if the issue(s) had been resolved.
+9.1.6.   In addition, all personnel must be aware that they may refuse to undertake a task if they are in fear
+         of serious injury of death. In such a case, the supervisor and project manager must investigate and
+         order appropriate action to reduce the risk or change the job.
+9.1.7.   In addition to actions taken to resolve and investigate incidents, contractors will also need to submit
+         reports as specified in the next section.
+
+
+
+
+         Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+         Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+         Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 28
+10        ESHS REPORTING
+10.1.1.   ESHS performance will be reported as follows, and as shown in Figure 10-1:
+          EPC Contractors will submit monthly reports to the PMC and the PMC will summarize these reports
+          and their own ESHS supervision activities in their own monthly reports to JSC Rogun.
+          Infrastructure construction and demolition contractors will submit monthly reports to DFZ.
+          JSC Rogun and DFZ will submit quarterly reports to PMG.
+          PMG will submit semiannual (twice per year) reports to the World Bank and other Lenders.
+
+
+
+
+                    EPC Contractors                               Infrastructure and
+                                                                      Demolition                         CEP
+                                                                      Contractors
+CEP                            PMC
+
+
+                          JSC Rogun                                            DFZ
+
+
+
+                                                       PMG
+
+
+                                                    Lenders
+
+          Figure 10-1     ESHS Performance Reporting
+
+
+10.1.2.   Reports by the PMC and by contractors will be as required in the respective contracts and in
+          contractors’ approved management plans. Contractors’ monthly reports will be required to include at
+          least the following details of environmental, social, and health and safety performance, some of
+          which may be in addition to what may be required by the contracts:
+          ▪   Status of violations and corrective actions reported as outstanding in the previous month’s report
+          ▪   Summary of activities undertaken and completed in the previous month, including ESHS-related
+              training.
+          ▪   Workforce: number of workers (including subcontract workers), number of local vs other
+              Tajikistan vs foreign, number women and men, number of new hires, and number of terminations
+              and reasons
+
+
+          Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+          Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+          Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 29
+          ▪   Summary of ESHS monitoring/supervision activities: person-days by ESHS specialists, number
+              of inspections, areas visited, etc.)
+          ▪   Results of ESHS supervision actions: issues identified, and actions taken (warnings or
+              dismissals, stop work orders, requirements for safety equipment or new PPE, other actions)
+          ▪   Description of environmental issues observed (spills, improper materials storage, improper
+              waste management, etc.) and actions taken to bring into compliance.
+          ▪   Description of consultations with local authorities and local community members, including who
+              participated, reasons, and outcomes.
+          ▪   Description of environmental issues observed (spills, improper materials storage, improper
+              waste management, etc.) and actions taken to bring into compliance.
+          ▪   Description of consultations with local authorities and local community members, including who
+              participated, reasons, and outcomes.
+          ▪   Summary of stakeholder grievances received during period and to date, number resolved during
+              period and to date, and number outstanding. For grievances not resolved as of the end of the
+              period, the report should provide a description of grievance, reason for lack of resolution, and
+              actions to be taken in the coming period.
+          ▪   Summary of worker grievances received during period and to date, number resolved during
+              period and to date, and number outstanding. For grievances outstanding over 30 days, the
+              report should provide a description of grievance, reason for lack of resolution, and actions to be
+              taken in the coming period.
+          ▪   Activities to be undertaken in the next month and any issues that are expected to be
+              encountered.
+10.1.3.   Reports by the PMC to JSC Rogun, by JSC Rogun to PMG, and by DFZ to PMG will summarize the
+          above for contractors they supervise, with some emphasis on workforces, occurrence and resolution
+          of violations, and grievance management, and will describe their own supervision own activities. In
+          addition, DFZ will report to PMG a summary of resettlement activities undertaken and completed in
+          the previous month and to be undertaken in the next month.
+10.1.4.   Throughout construction, PMG will submit a quarterly report to the World Bank and other Lender(s)
+          that summarizes ESHS performance on the Project, as specified in the ESCP.
+10.1.5.    In addition to scheduled reports, significant issues and events will be reported immediately (i.e.,
+          within 24 hours) by the contractors to the PMC to JSC Rogun, by JSC Rogun and DFZ to PMG, and
+          by PMG to Lender(s). Such issues and events will include severe injuries or fatalities to workers,
+          damage to private property or injuries to community members, significant spills or releases of
+          hazardous substances to the environment, protests or incidents of unrest associated with the
+          Project, and other incidents as defined in the ESCP.
+10.1.6.   Any such incident will be investigated to identify root causes and actions taken to prevent
+          recurrence. Investigations and actions taken will be documented in root cause analyses, which will
+          be submitted to the World Bank and other Lender(s) within two weeks unless additional time is
+          granted for further investigation and action.
+
+
+
+
+          Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+          Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+          Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 30
+11        ESTIMATED COSTS
+11.1.1.   As previously noted, PMG will oversee the ESHS performance of JSC Rogun and DFZ; DFZ will
+          supervise ESHS performance of its contractors; JSC Rogun will oversee the PMC’s supervision; and
+          the PMC will in turn supervise the EPC Contractors. All of this is intended ensure that all parties are
+          fully implementing the required mitigation measures during the procurement, preconstruction,
+          construction, and operation phases. These measures include training for workers, so they are
+          familiar with their own personal responsibilities as well as their employers’.
+11.1.2.   The first level of monitoring during construction will be conducted by the contractors in routine
+          management of ongoing activities. This will be supplemented by nearly continuous monitoring by the
+          PMC and DFZ and periodic monitoring by JSC Rogun and PMG.
+11.1.3.   In addition, there will be independent third-party audits of various aspects of ESHS performance by
+          all parties during construction, as follows:
+          OHS performance: to be conducted at least twice a year for two years after the effective date and
+          annually thereafter (a total of 11 from H2 2024 through 2029)2
+          Audit of environmental performance: to be conducted at least annually through 2029 and at
+          contractor demobilization (a total of six audits from 2024 through 2029)
+          Audit of labor management practices: to be conducted biannually (every two years) through the end
+          of construction in 2029 (a total of four audits from 2025 through 2029)
+11.1.4.   Overall, staffing for ESHS management and implementation by most organizations is considered to
+          be significantly understaffed at present. This is not the case for the Lot 2 EPC Contractor, whose
+          staffing is generally considered adequate or nearly adequate for current responsibilities.
+11.1.5.   Similarly, staffing by the Employer’s Representative, Tractebel, would be considered adequate if a
+          few more specialists were added, especially expatriates.
+11.1.6.   These two organizations’ current (and in the case of Tractebel, augmented) staffing levels were
+          therefore used to extrapolate required staffing for future supervision by the PMC and future
+          implementation by contractors.
+          PMC: Tractebel currently has 10 HSE staff to supervise Lot 2 ESHS performance. These 10
+          managers and staff supervise the ESHS performance of the approximately 4,000 employees of the
+          Lot 2 EPC Contractor and subcontractors. These 10 staff include an expat HSE manager, a local
+          deputy, a local administrator, and seven local shift HSE specialists (three for 15-day shifts of
+          daytime workers and one for each of the four day-night shifts). An additional HR specialist will be
+          needed to supervise subcontractors’ labor management (this is not currently required, and it is
+          assumed that an HR manager already handles labor management of direct employees’ ), an
+          additional expat administrative support person is also reported to be needed, and an expat
+          environmental manager would also be advisable, as this is function is somewhat overlooked at
+
+
+
+
+          2
+              An independent OHS expert, financed by the Technical Assistance grants, has been appointed to conduct semiannual
+               audits beginning in H2 2023, and this will continue after the effective date.
+
+
+          Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III            PUBLIC | WSP
+          Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                         December 2023
+          Project Management Group, JSC “Rogun HPP”, DFZ                                                            Page | 31
+          present. In addition, an additional HSE specialist for each of the four day/night shifts would be
+          advisable as well. This would come to a total of 17 managers and staff, including three expats, to
+          supervise 4,000 workers. If this ratio of 17:4,000 is applied to an expected workforce of all EPC
+          Contractors of 16,000, the PMC will require up to 68 ESHS staff. This would include six to eight
+          expats, including ESHS manager, safety manager, environmental manager, and additional
+          specialists.
+          EPC Contractors: There are currently 54 ESHS managers and specialists employed by WeBuild
+          and its main subcontractor, including five expatriate employees. These are responsible for the
+          activities of 4,000 workers. While adequate for WeBuild itself, the subcontractor has insufficient
+          safety officers, and would need an additional 10 or more to reach a minimum ratio of one safety
+          officer per 100 workers. However, this is balanced by the fact that WeBuild staffing includes 11
+          laboratory personnel, and it is doubtful the other EPC Contractors will need that level of staffing for
+          laboratory work, so this estimate is considered high. Again, extrapolating the 54 ESHS personnel
+          for a workforce of 4,000 to a workforce of 16,000 results in a total of up to 216 ESHS personnel
+          required once all EPC Contractors are in place, including 20 expatriates.
+11.1.7.   ESHS staffing for construction and operation is presented in Table 5-1. Staffing and costs shown
+          here are for ESHS management planning, implementation, and supervision of the construction
+          program (including the biodiversity “Clerk of Works” required by the Biodiversity Management Plan).
+          Required DFZ staffing for the resettlement program are provided in the RPF.
+          Table 11-1           ESHS Staffing for Construction and Operation
+
+           Nominal position           PMG    JSC Rogun        JSC Rogun      DFZ      PMC      EPCs    DFZ
+                                             (construction)   (Operation)                              Contractors
+
+           ESHS Manager               1      1                1              1        2        4       1
+
+           Safety/HSE specialist      1      2                1              0        47       168     1
+
+           Environmental specialist   1      2                1              0        6        16      0
+
+           Social specialist          1      1                1              0        1        4       0
+
+           Labor specialist           1      1                1              1        6        16      0
+
+           Administrator              1      1                1              1        6        8       0
+
+           ESHS advisor               0.5    0.5              0              0        0        0       0
+
+           OHS advisor                0.5    0                0              0        0        0       0
+
+           Total                      7      8.5              6              3        68       216     2
+
+
+
+
+           Local/Tajik                6      8                6              3        56       196     2
+
+           Expatriate                 1      0.5              0              0        12       20      0
+
+
+
+11.1.8.   Rough estimates of payroll and other costs for managers and staff were used to arrive at an annual
+          cost for ESHS personnel (costs are assumed to be inclusive of salary, benefits, travel costs,
+
+
+          Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III        PUBLIC | WSP
+          Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                     December 2023
+          Project Management Group, JSC “Rogun HPP”, DFZ                                                        Page | 32
+          accommodations, etc.). In addition to approximate office overheads for the expense of purchasing
+          computers, office equipment, supplies, instruments, vehicles etc. This was estimated at $5,000 per
+          employee. This is shown in Table 11-2.
+
+          Table 11-2        Estimated Annual Cost for ESHS Management and Staffing
+
+           Category of                   Number of         Average payroll        Estimated office     Annual payroll
+           manager/staff                 managers and      and other cost         overheads            and other costs
+                                         staff
+
+           Local/Tajik                   277               $62,500                $1,385,000           $17,312,500
+
+           Expatriate                    33.5              $250,000               $170,000             $8,375,000
+
+           Total                         310.5                                    $1,555,000           $25,687,500
+
+
+
+11.1.9.   Assuming costs are incurred from 5.5 years from the second half of 2024 through 2029, the total
+          cost for ESHS management and staffing through HPP construction would be $141,281,250 .
+11.1.10. Other costs of ESHS management and implementation are estimated in Table 11-4Table 11-3. In
+          general, these would include costs for ESHS planning that is done by appointed consultants (as
+          opposed to staff whose costs are accounted for above), the audits mentioned in paragraph 11.1.3
+          and for the relatively few capital items that would be required.
+
+          Table 11-3        Estimated Costs for ESHS Planning and Implementation
+
+           Cost element                                 Party incurring cost           Cost/Expense
+
+           Development and update of management         JSC Rogun, DFZ, Contractors    $1,500,000
+           programs/plans                               (development through
+                                                        appointed consultants)
+
+           Cleanup of Construction Camp 1, Left and     JSC Rogun, Lots 1 and 3        $2,000,000
+           Right Banks, and other areas in advance of   Contractors, non-EPC
+           inundation by 2027                           Contractors
+
+           Wastewater treatment                         JSC Rogun, Contractors         $3,000,000
+
+           Waste treatment/ management                  JSC Rogun, Contractors         $2,000,000
+
+           Tunnel ventilation (other than Lot 1)        Contractors                    $1,000,000
+
+           Safety equipment, instruments, laboratory    JSC Rogun, Contractors         $2,000,000
+           testing, etc.
+
+           Third party audits (21)                      PMG                            $2,100,000
+
+           Total                                                                       $13,600,000
+
+
+
+11.1.11. It is important to note that ESHS performance during construction should be considered an integral
+          part of the works, not as a separate component of the construction process. This makes it
+
+
+
+
+          Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III        PUBLIC | WSP
+          Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                     December 2023
+          Project Management Group, JSC “Rogun HPP”, DFZ                                                        Page | 33
+        inappropriate to estimate the costs of mitigating impacts as if it could be separated from construction
+        without mitigation.
+11.1.12. The EPC Contractors who will undertaking all works will be international firms with a demonstrated
+        track record of ESHS performance, including integration of good international industry practice into
+        normal construction practices.
+11.1.13. In addition, although some measures may be considered “mitigation” and required by the ESMP,
+        they are not considered separately since they are essential to the successful completion of the
+        works. This would include such things as ventilation of the powerhouse or removing debris from the
+        reservoir since both are essential to successful operation.
+11.1.14. The PMC is expected to recognize the characteristics of these paragraphs and consider that a
+        milestone eligible for payment is to be3 considered complete only if it is completed in compliance
+        with all requirements of the respective contract, including ESHS requirements. Thus, the PMC is
+        expected to recommend payment of interim payment certificates only if the milestone is complete in
+        compliance with ESHS requirements of the contract, which would include the approved
+        management plans. The same would be true for DFZ contracts.
+11.1.15. The costs of the resettlement and livelihood restoration program are estimated in detail in the RPF
+        and summarized in Table 11-4
+
+        Table 11-4       Estimated Costs of Resettlement Program
+
+          Cost element                                     Cost/Expense
+
+          RAP2/LRP2 2018-2025 (1605 households)            $83,900,000
+
+          Future RAPs/LRPs                                 $296,400,000
+
+          Total                                            $380,300,000
+
+11.1.16. The total cost of ESHS management staffing, other ESHS program costs, and the resettlement
+        program costs are shown in Table 11-5. As can be seen, over 70 percent of costs are estimated to
+        be for resettlement of households, and most of the remainder for employment and managers and
+        staff to implement the ESHS programs of PMG, JSC Rogun, DFZ, and contractors.
+
+        Table 11-5       Total Estimated Cost of ESHS and Resettlement Programs
+
+          Cost element                               Cost/Expense
+
+          Management and Staffing                        $141,281, 250
+
+          Other ESHS Costs                                 $13,600,000
+
+          Resettlement Program Costs                      $380,300,000
+
+          Total                                           $535,181,250
+
+
+
+
+        Rogun Hydropower Project – Updated Environmental and Social Impact Assessment – Volume III    PUBLIC | WSP
+        Project No.: 70097413 | Our Ref No.: Vol3-ESMP-Rev03-English                                 December 2023
+        Project Management Group, JSC “Rogun HPP”, DFZ                                                    Page | 34
+WSP House
+70 Chancery Lane
+London
+WC2A 1AF
+
+wsp.com
+
+
+
+                   PUBLIC
+

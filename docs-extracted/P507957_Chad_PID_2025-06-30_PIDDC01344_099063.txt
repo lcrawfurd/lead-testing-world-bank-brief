@@ -1,0 +1,673 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Chad Water Security Project(P507957)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 30-Jun-2025 | Report No: PIDDC01344
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+       The World Bank
+       Chad Water Security Project(P507957)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                    Operation Name
+Chad                           P507957                         Chad Water Security Project
+Region                         Estimated Appraisal Date        Estimated Approval Date       Practice Area (Lead)
+WESTERN AND CENTRAL            26-Jan-2026                     16-Apr-2026                   Water
+AFRICA
+Financing Instrument           Borrower(s)                     Implementing Agency
+Investment Project             Ministry of Water and           Societe Tchadienne des
+Financing (IPF)                Energy                          Eaux (STE)
+
+Proposed Development Objective(s)
+Enhance access to water services in selected regions of Chad
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+Is this project Private Capital Enabling (PCE)?                To be decided
+
+SUMMARY
+  Total Operation Cost                                                                                              100.00
+
+  Total Financing                                                                                                   100.00
+             of which IBRD/IDA                                                                                  100.00
+  Financing Gap                                                                                                       0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                  100.00
+       IDA Grant                                                                                                    50.00
+       IDA Shorter Maturity Loan (SML)                                                                              50.00
+
+
+                                                                                                                       Page 1
+
+
+
+                                                                                                             Official Use Only
+            The World Bank
+            Chad Water Security Project(P507957)
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                                                      Concept Review Decision
+Substantial                                                                                                       The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+         1. Chad's fragile economy has led to increased poverty and consumption inequality. Nationally, poverty rose by
+         2.5 percentage points from 42.3 percent in 2018 to 44.8 percent in 2022, with an additional 1.2 million people falling
+         under the poverty line, for a total of 7.8 million. Rural areas are the most affected, with half of rural residents
+         classified as poor. Regions like Chari Baguirmi and Kanem saw dramatic increases in poverty. Extreme poverty also
+         grew by 2.6 percentage points between 2023 and 2024, reaching 36.5 percent, bringing an additional 688,000 people
+         into extreme poverty. Inequality slightly increased, with the Gini index rising from 33.6 in 2018 to 34.3 in 2022. Chad's
+         Human Development Index of 0.394 is the fifth lowest globally and third worst in Sub-Saharan Africa.1 It also ranks
+         near the bottom on the World Bank Human Capital Index (0.3).
+         2. Chad’s economy has remained resilient despite the conflict in neighboring Sudan. In 2024, its gross domestic
+         product (GDP) was estimated at $18.5 billion, driven by increased oil production and public investment. The
+         agricultural sector contributed 40 percent of GDP in 2023, showing recovery from the 2022 floods that affected
+         approximately 465,030 hectares of farmland. However, the effects of the 2024 flood pose a risk to recent progress,
+         with the lean season expected to be particularly challenging due to flood damage.
+         3. Chad is characterized by significant fragility, conflict, and violence (FCV) and faces several drivers of fragility.
+         Chad is emerging from a period of political transition, with a presidential election held in May 2024 and legislative
+         elections held in December 2024. The country has faced escalating violence in the Lake Chad basin since 2015 due to
+         attacks by Boko Haram, culminating during elections. The northern regions experienced violence related to gold
+         exploitation and rebellions, while inter-communal violence increased in the East and South due to competition over
+         natural resources, forced displacement, and climate change. Despite its economic challenges, Chad has hosted over
+         720,000 refugees and more than 220,000 Chadian returnees have entered eastern Chad since the beginning of the
+         conflict in Sudan in April 2023, straining the country's resources and leading to poverty, food insecurity, and pressure
+         on basic services.2
+         4. Chad ranked 189 out of 193 on the Gender Inequality Index in 2022. Only 40.5 percent of women participate in
+         the labor force.3 Women face higher poverty rates and fewer livelihood opportunities than men.4 Despite being
+
+
+1
+  UNDP (2024). Human Development Report 2023-24.
+2
+  WHO, Sudan conflict – Situation in refugee-hosting countries, December 2024.
+3
+  World Bank, World Development Indicators database. Estimates are based on data obtained from International Labour Organization and United Nations Population Division.
+4
+  A technical study on gender and climate change conducted as part of the ALBIA project, “Etude sur le genre et l’impact du changement climatique sur les femmes et les mécanismes d’adaptation aux changements
+climatiques », March 2020
+
+
+
+                                                                                                                                                                                                                  Page 2
+
+
+
+                                                                                                                                                                                                     Official Use Only
+            The World Bank
+            Chad Water Security Project(P507957)
+
+
+         crucial to agricultural production, women are restricted to traditional subsistence farming with limited access to
+         resources. Inequalities also impact their access to tenure security, financial services, and knowledge, affecting
+         household productivity and economic mobility.
+         5. Chad is highly vulnerable to climate change, especially droughts, floods and heat spells. Although climate models
+         suggest marginal changes in predicted precipitation, dry and wet spells are likely to become more frequent, extreme,
+         and prolonged. For example, the heavy rains witnessed in the 2024 floods were estimated to be responsible for the
+         loss of over 157,000 hectares of crops (FAO)5 and more than 7,000 heads of livestock. Floods, water scarcity, and
+         extreme heat all have a high hazard level classification, according to ThinkHazard,6 and are exacerbated by climate
+         change. Due to a combination of changing weather patterns and desertification, it is expected that agro-ecological
+         zones will shift, affecting ecosystems, biodiversity, water systems and agriculture. According to the Country Climate
+         Development Report (CCDR) of the G5 Sahel, if no adaptation policies are adopted, the impacts of climate hazards,
+         including insufficient rains and frequent flooding, will mainly be felt through six main channels (rainfed crop yields,
+         livestock yields, heat-labor productivity, human health-productivity, flooding damages, and road and bridges
+         damages) and could cause the poverty rate to increase by 10.6 percentage points by 2050.
+         6. Water is central to Chad’s economy and livelihoods, with the majority of economic activity and employment
+         relying on water-dependent sectors. In 2022, the gross value added (GVA) of water-dependent sectors reached 83.7
+         percent, up from 74.8 percent in 2012.7 This increase is mainly driven by the agricultural sector, whose share of GDP
+         increased from 31.8 percent in 2012 to 40.3 percent in 2022, reflecting its growing importance to the Chadian
+         economy. Water-dependent sectors employ a significant share of the population, at 82.73 percent of the workforce.
+         The rural population relies significantly on natural resources, with most people involved in agriculture, livestock,
+         fishing, small commerce, and crafts. Agriculture and pastoralism account for 73 percent of household income.8 This
+         underscores the central role of water for both economic production and livelihoods in Chad.
+         7. Chad is a notable exception globally in terms of energy access. Despite its substantial fossil fuel reserves and
+         excellent solar resources, Chad has one of the lowest electricity access rates worldwide at 11 percent, compared to
+         an average of 48 percent in Sub-Saharan Africa. The limited availability of electricity significantly hampers economic
+         development prospects and adversely impacts living standards. Furthermore, electricity access is predominantly
+         confined to urban areas and is often unreliable. The national power grid consists of isolated city-based systems that
+         are not interconnected, hindering electrification efforts beyond these cities. Consequently, there are notable
+         disparities in electricity access between urban and rural regions, with access rates at 20 percent and less than 1
+         percent, respectively.
+
+    B. Sectoral and Institutional Context
+
+       8. Chad is endowed with important water resources. The country boasts average annual inflow of surface water to
+       Lake Chad of 25.6 billion9 cubic meters. The country’s hydrographic network is divided between the Logon and Chari
+       basins with their vast floodplains, the Batha basin with Lake Fitri, the Mayo-Kebbi basin with its lakes and Lake Chad.
+       In addition to these large bodies of water, there are smaller ones, sometimes quite numerous and locally important
+       for the populations: the ouaddis of Kanem and Ouaddaï, natural and artificial ponds, flood plains, a few artificial
+       reservoirs, the oases of Borkou Ennedi Tibesti (BET) and the lakes of BET (Saharan bioclimatic zone). Chad's
+       sedimentary formations include sands and sandstones, which contain continuous aquifers: (i) unconfined aquifers (the
+
+5
+  https://reliefweb.int/report/chad/floods-chad-july-2024-impact-floods-agriculture-and-livelihoods-diem-impact-assessment-fao-july-30-2024
+6
+  https://www.thinkhazard.org/en/report/50-chad
+8 Chad Poverty Assessment, 2021
+8 Chad Poverty Assessment, 2021
+9
+  Lake Chad Basin Commission records between 2001 and 2024.
+
+
+
+                                                                                                                                                      Page 3
+
+
+
+                                                                                                                                              Official Use Only
+            The World Bank
+            Chad Water Security Project(P507957)
+
+
+       “water table”), and (ii) deep captive or semi-captive aquifers that are artesian under certain conditions. The country's
+       groundwater resource is estimated to be between 3.5 and 9.5 billion cubic meters per year.10
+       9. Despite their economic importance, water-related sectors face major challenges, making improved water
+       management crucial for productivity and resilience. Despite the country’s relatively high-water endowment,
+       communities suffer from severe water shortages and frequent droughts, among others because of the uneven
+       distribution of its water resources (heavily concentrated in the southwest); seasonal rainfall (marked by a short rainy
+       season); climate change (especially rising temperatures and shifting rainfall patterns); and lack of water infrastructure,
+       particularly in rural areas. Only 0.6 percent of cultivated land in Chad is irrigated, highlighting the need to improve
+       water-use efficiency to support agricultural productivity. Furthermore, 20.9 percent of firms11 report inadequate
+       access to water, which is well above the regional average, highlighting their vulnerability to water shortages. Given
+       the large share of the economy and employment linked to water-dependent sectors, addressing water management
+       issues is essential to support economic growth and improve resilience, especially in the face of climate change and
+       the increasing demand for water resources.
+       10. Climate adaptation is central to achieve water security in Chad. Water availability for economic activities is
+       projected to decline in the future while demand will increase due to a combination of population growth and climate
+       change. Decreasing rainfall levels and increasing temperatures pose a risk to rural households who are dependent on
+       agriculture. Additionally, persistent drought has led to desertification in the northern part of Chad, reducing agro-
+       pastoral areas and causing a southward shift in transhumance patterns, increasing tensions between farming and
+       herding communities. Adaptative measures are required to secure water resources and various water uses.
+       11. Access to drinking water and basic sanitation in Chad is a major concern. While efforts to increase access to
+       water in Chad are ongoing, access rates remain below the regional average. Access to safely managed sanitation
+       services peaks at 13 percent, while access to at least basic water services reaches 52 percent.12 According to the
+       household living conditions and informal sector survey in Chad,13 64.4 percent of households have access to drinking
+       water during the dry season, up from 62.7 percent in 2018. There are significant disparities: urban access is 86.3
+       percent, while rural access is 56.9 percent. One third of the population relies on boreholes—accessed via hand-pumps
+       or standpipes—as their primary source of water throughout both the dry and rainy seasons. Open wells are used by
+       about one-fifth of households in both seasons. Tap water (often groundwater source pumped from borehole) is
+       common, though of limited access, in urban areas (30.8 percent) while hardly available in rural areas (1.3 percent).
+       Approximately 20 percent of households travel over 500 meters to obtain water, with this proportion rising to 27
+       percent in rural areas. 89.8 percent of households can reach the primary source of drinking water within less than 30
+       minutes, including 88 percent of poor and rural households. On the other hand, the majority of Chadian households
+       have very low access to sanitation, with a very high prevalence of open defecation (63 percent), particularly in rural
+       areas (78 percent).
+       12. Challenges in the water and sanitation sector significantly impact the country's development and human
+       capital. Access to drinking water and sanitation is a priority in the Government’s ‘Vision 2030: The Chad Connection,’
+       aimed at supporting the Sustainable Development Goals (SDGs). However, the financing needs to expand access to
+       drinking water and improve access to sanitation are massive. Approximately 40 percent of villages, two-thirds of semi-
+       urban centers, and 20 percent of urban centers lack public water facilities. The lack of adequate sanitation and
+       wastewater disposal and treatment – leading to increased contamination of surface and groundwater as well as soils
+       – combined with inadequate drainage, increases the potential impact of floods and generates significant health and
+
+10
+   Atlas of Chad 2013 - Rural Development and Spatial Planning Information System Program
+11
+   Power-BI – Water security dashboard for Chad.
+12
+   JMP 2022 country profile
+13
+   Source : Enquête sur les conditions de vie des ménages et de secteur informel au Tchad - ECOSIT5, 2022
+
+
+
+                                                                                                                             Page 4
+
+
+
+                                                                                                                     Official Use Only
+              The World Bank
+              Chad Water Security Project(P507957)
+
+
+         economic costs, particularly affecting the poorest populations and the country’s human capital. The national urban
+         water utility, the Société Tchadienne des Eaux (STE), has long been in a dire situation and requires a turnaround to
+         restore its financial viability and ensure sustainable urban water services. Additionally, the impacts of climate change
+         and socio-economic pressures necessitate proper monitoring and management of water resources. Addressing these
+         challenges is crucial for adaptation to climate change and improving climate-sensitive public health outcomes,
+         reducing economic losses, and achieving sustainable development in Chad.
+         13. Chad’s advanced legal framework for the water sector remains unevenly applied. Responsibilities for
+         infrastructure development, sector monitoring, and regulation are concentrated in the Ministry in charge of Water.
+         Delegating public services to municipalities has not delivered expected efficiency and quality gains. The sanitation law
+         has a limited impact due to the lack of resources and programs. Recognizing its negative impacts on public health, the
+         Government adopted a national sanitation policy in 2017. Both central and local authorities face challenges due to
+         inadequate financing and weak management instruments. Since the 1990s, service types have evolved. Population
+         growth has shifted the rural/urban distinction to a more nuanced approach. Rural areas include villages and small
+         towns with up to 10,000 inhabitants (semi-urban), while urban areas are towns with over 10,000 inhabitants, including
+         those within the operating perimeter of the national water utility STE. STE manages urban drinking water, while rural
+         boreholes are managed by communities and small systems (small towns) by NGOs, private entities, or communities.
+         14. Chad has faced challenges in reforming its water and electricity sectors since the 2000s, and efforts to involve
+         the private sector have failed. For an extended period, urban water and electricity services were jointly managed by
+         the Société Tchadienne d’Eau et d’Electricité, STEE, achieving limited outcomes. In 2000, the government delegated
+         services to a private consortium (Vivendi) under a 30-year contract starting with a management contract, transitioned
+         to an affermage, and eventually moved to a concession. This contract concluded in 2004 after failure from the
+         Government to fulfill its obligations, leading to the division of STEE into a water company (STE) and an electricity
+         company (Société Nationale d’Electricité, SNE) around 2010 – 2011. In May 2013, STE entered into a three-year service
+         contract with a private operator (AQUATECH INTERNATIONAL) supported by a World Bank-financed project (Chad
+         Urban Development Project – P072027 – PADUR). However, the agreement proved ineffective, resulting in the
+         termination of World Bank support to the reform. Since then, efforts to build the foundation of a reform have
+         remained weak. Given these unsuccessful attempts, it is crucial for Chad's administration to demonstrate its
+         commitment to the urban water reform to ensure sustainability of the investments. The government of Chad has
+         expressed its willingness to have reforms including the participation of the private sector. Sustainable arrangements
+         should be widely proposed to avoid repeating past failures.
+         15. Based on previous experiences with public-private partnerships in water utilities, it is important to discuss key
+         factors for successful water sector reform with relevant parties to guide future engagement of the World Bank.
+         Previous shortcomings in water sector reforms have been primarily due to the limited capacity of involved actors to
+         achieve the desired outcomes and inadequate government involvement to ensure the continuity of engaged reforms
+         after project completion. Effective government engagement through actionable measures and an understanding of
+         the issues at stake and the stakeholders' (Ministry of Water and Electricity, Ministère de l’Eau et de l’Électricité, (MEE)
+         and STE) final objectives are critical for success. Therefore, well-structured communication programs supported by
+         capacity building initiatives and identification of no-regret investment programs are vital for engaging the government
+         in developing a strong and sustainable reform agenda that may involve the private sector in the long term. These
+         aspects need to be handled clearly and carefully in high-level interactions with the counterpart.
+         16. Chad's energy sector may see changes with the World Bank’s renewed involvement after a decade. Funded with
+         US$460 million in IDA grants, the program14 aims to boost access from 11 percent to 30 percent by 2027 and at least
+
+14
+     PIRECT P168185 ; PAEET : P174495 ; RESPIT P179267
+
+
+
+                                                                                                                               Page 5
+
+
+
+                                                                                                                       Official Use Only
+            The World Bank
+            Chad Water Security Project(P507957)
+
+
+       53 percent by 2030 as per the "Emergency Energy Access Plan." It aligns with the “M300 initiative,” supported by the
+       World Bank and African Development Bank, that seeks to electrify 300 million Africans by 2030 and increase Chad's
+       national access rate to 90 percent, involving the private sector and necessary reforms. Energy is critical to operate
+       water systems to pump, transport and treat water (and wastewater) – due to the lack of sustainable energy access,
+       many areas depend on manual wells or diesel pumps, further affecting water systems reliability as diesel is expensive
+       and often unavailable. Therefore, the proposed Water Security Project should identify synergies for comprehensive
+       solutions addressing the strong interlinkages between the water and electricity sectors in Chad. Alternative energy
+       sources, primarily solar and wind, must be proposed in the short term for water systems to ensure sustainability and
+       affordability.
+       17. Chad's vulnerability to climate change and water security challenges require an integrated approach for
+       boosting economic development and reducing fragility. Chad's poverty is linked to communities' reliance on natural
+       resources, causing landscape degradation, especially in rural areas. Climate change and infrastructure deficits worsen
+       this dependence. The project aims to boost socio-economic development by: (i) Increasing water availability for
+       household and productive uses to enhance economic growth and livelihoods; (ii) Protecting and sustaining water
+       resources via watershed ecosystems development; (iii) Enhancing population resilience to climate change and (iv)
+       conducting reforms to enhance the sustainability of the STE and rural drinking water systems as well. The project
+       design will be informed by existing analytical works15 and lessons from Chad Local Development and Adaptation
+       Project (P171611), Sahel Irrigation Initiative support Project (SIIP) – P154482 and Regional Sahel Pastoralism Support
+       Project II – P173197.
+
+     C. Relation to CPF
+
+       18. The proposed Project is well aligned with the World Bank Group’s goals of ending extreme poverty and boosting
+       shared prosperity in a sustainable manner, on a livable planet. Project activities will promote poverty reduction,
+       support access to water services, and improve climate resilience. Particular attention will be devoted to benefiting the
+       poorest and most vulnerable groups, especially in provinces hosting displaced people.
+       19. The project is contributing to the country partnership framework (CPF) outcomes 2, 4, and the two cross-cutting
+       outcomes to “Strengthening Resilience and Adaptation” and “More and Better Jobs through Private Sector
+       Development””. The project intends to provide resilient water services for people, livestock and agricultural
+       production. It will improve the sub-basin landscape by soil regeneration activities and ecosystems restoration. It also
+       has the potential of Maximizing Finance for Development.
+       20. The proposed Project will also contribute to Chad's National Development Plan 2025 – 2030 “Chad Connection
+       2030 - a land of the future.” In particular, the Project is aligned with the water sector agenda, which has the ambition
+       to guarantee universal access to drinking water and achieving significant progress in access to sanitation to improve
+       health conditions, fuel essential economic activities and strengthen human capital.
+       21. The proposed Project will also contribute to the World Bank FCV strategy to address conflict drivers identified
+       in the Sahel Regional Risk and Resilience Assessment (RRA) and the Chad prevention and resilience allocation (PRA)
+       eligibility note as well as to mitigate the spillovers of FCV. The proposed activities aim to enhance water services in
+       both urban and rural areas, which would contribute to addressing shortcomings in service delivery and governance
+       that have eroded confidence in institutions over the years. Further, improvements to water resources management
+
+
+15
+  Existing analytical works: (i) Chad Water and Sanitation Sector Note – World Bank June 2019, (ii) Chad Water Security Diagnostic – World Bank 2025, (iii) Development of a 2025-2030 priority investment program by Chad
+Urban Water utility STE to improve access to drinking water for urban and peri urban populations – May 2025
+
+
+
+                                                                                                                                                                                                                   Page 6
+
+
+
+                                                                                                                                                                                                     Official Use Only
+     The World Bank
+     Chad Water Security Project(P507957)
+
+
+  and coordination among water users would contribute to better regulation of competition over natural resources,
+  specifically water, that is increasingly scarce and under pressure from climate change and people.
+  22. Paris Alignment. The proposed Project is consistent with the country’s updated Nationally Determined
+  Contribution (NDC), submitted in October 2021, which identifies water and sanitation as critical components of its
+  climate adaptation strategy. All planned project activities are on the Universally Aligned list. The Project will contribute
+  to climate change mitigation by increasing water use efficiency, reducing the water sector’s dependence on grid
+  power, and maximizing the use of solar power in water sourcing and distribution. As for adaptation, decreased reliance
+  on open defecation through better access to sanitation in public spaces will reduce surface and groundwater
+  contamination—thereby enhancing communities’ resilience to floods and droughts by improving the quality of surface
+  and groundwater. The nature-based solutions to be implemented will contribute to both mitigation and adaptation
+  (see paragraph 26). No specific risks with respect to mitigation and adaptation are identified at this stage.
+  23. The project is aligned with the World Bank Maximizing Finance for Development (MFD) approach and private
+  investment generated through the project is counted towards Private Capital Enabling (PCE). Subcomponents 1.1 &
+  1.2 (Urban & Rural Water Supply) have MFD-e potential. Solar-powered infrastructure reduces dependence on public
+  utilities and supports future private O&M or service models; subcomponents 2.1 & 2.2 (Nature-based Solutions &
+  Irrigation) have MFD-e potential. Investments in aquifer recharge and irrigated perimeters can attract private Agri-
+  investment downstream; subcomponent 3.3 that will provide technical assistance to create enabling conditions and
+  pipeline for smaller scale water PPPs and PCM over time. The service model's value will be estimated during project
+  preparation, with an intermediate indicator included in the results framework.
+
+
+C. Proposed Development Objective(s)
+Enhance access to water security in selected provinces of Chad
+
+
+Key Results (From PCN)
+     • Provide access to safely managed drinking water supply to the population of project area.
+        Indicator: People provided with safely managed water
+     • Provide access to at least basic drinking water supply to the population of the project area. Indicator: People
+        provided with at least basic water
+     • Provide access to drought and flood resilient water infrastructure. Indicator: people provided with flood and
+        drought resilience water infrastructure
+     • Improve water source/ecosystems conservation. Indicator: Terrestrial areas covered by protected areas
+
+
+D. Concept Description
+  24. An integrated approach is required to address Chad’s vulnerability to climate change and water security
+  challenges. The proposed Project will enhance resilience to droughts and floods, expand access to water services
+  (water supply, Sanitation, Irrigation, livestock watering), including through an investment program for multi-purpose
+  rainwater harvesting and storage infrastructure and protect water resources at the sub-basin level. It will support
+  climate-resilient investments in water supply, sanitation, irrigation, conservation, operations, and reforms to improve
+  sector performance, such as improving the performance of the STE. By addressing immediate water-related concerns
+  and building long-term resilience, the Project aims to foster stability, reduce water-related conflicts, and stimulate
+  economic growth in vulnerable regions.
+
+                                                                                                                         Page 7
+
+
+
+                                                                                                                 Official Use Only
+   The World Bank
+   Chad Water Security Project(P507957)
+
+
+25. To meet its objectives, the Project will focus on: (i) the provision of drinking water services in selected urban and
+rural locations, (ii) the construction of latrines in public settings such as schools and health centers, (iii) the
+construction of multi-purpose including irrigation, water mobilization infrastructure (infiltration and expansion weirs,
+water abstraction disposals) and (iv) watershed restoration.
+26. The Project will prioritize regions with limited access to reliable water sources, including Wadi Fira, Ennedi East,
+Ennedi West, Mayo Kebbi East, and Mayo Kebbi West. These areas lack perennial watercourses and depend on
+discontinuous and poorly understood aquifers. Borkou province and N'Djamena city are also included due to their
+particularly low access to safe drinking water services. The selection of provinces is also based on poor access rate,
+climate vulnerability, area affected by refugee’s crisis, readiness of existing activities.
+
+
+
+
+27. Component 1: Development of water and sanitation infrastructure (US$71 million). This component will support
+the development of resilient water and sanitation services in both urban and rural areas. The infrastructure to be built
+will account for climate change considerations in their design and location, avoiding areas prone to both floods and
+landslides. Water catchment infrastructure will be located upstream of pollution zones. This component will also
+integrate the issue of climate change into the choice of energy sources. Due to the country’s low access to energy, it
+is essential that water pumping systems minimize reliance on the national electricity company, SNE. Therefore, to the
+extent possible, the use of solar panels will be prioritized. The component will be structured as follows: (i) Drinking
+water supply in urban areas, (ii) Water supply in rural areas, and (iii) Sanitation in public institutions (schools, health
+centers, and others).
+28. Sub-component 1.1: Urban Water Supply (US$46 million). This sub-component will aim to improve access to
+drinking water supply service in urban centers in the project area. It includes setting up the Kalait drinking water supply
+system, as well as strengthening the drinking water supply systems of N'Djamena and thirteen other towns in the
+
+
+                                                                                                                      Page 8
+
+
+
+                                                                                                              Official Use Only
+              The World Bank
+              Chad Water Security Project(P507957)
+
+
+         project area: Pala, Léré, Gounou-Gaya, Fianga, Faya, Amdjarass, Torbol, Iriba, Zagueré, Amnaback, Tine, Erre, and
+         Kaoura. Based on available studies, these water supply systems would include boreholes, pumping systems including
+         pumps and solar panels and/or energy generators (to reduce greenhouse gas [GHG] emissions), transmission pipes,
+         overhead water tanks, distribution networks, household connections and standposts. While targeting resilient water
+         sources, this sub-component will increase residents’ resilience to droughts and water scarcity, reduce emissions by
+         reducing water losses (through water harvesting and the collection of water runoff using half-moons) and increasing
+         water use efficiency and renewable energy use, as well as increase access for beneficiaries.
+         29. Sub-component 1.2: Rural Water Supply (US$23 million). This sub-component will support the improvement of
+         access to drinking water services and the supply of water for pastoral use in proposed localities in the project area. In
+         particular, it includes the construction of rural water supply systems (boreholes, pumping systems including pumps
+         and solar panels, transmission pipes, overhead water tanks, distribution networks and standposts), standalone water
+         stations (boreholes, pumping systems including pumps and solar panels, transmission pipes, and standposts) and
+         pastoral stations (boreholes, pumping systems including pumps and solar panels, transmission pipes, and animal
+         watering disposals), notably to complement those set up under the World Bank-financed Project PRAPS-II.16 Sub-
+         component 1.2 similarly mirrors the gains of sub-component 1.1 with respect to climate change adaptation and
+         resilience.
+         30. Sub-component 1.3: Sanitation (US$2 million). This sub-component will focus on the construction of latrines in
+         public places, including schools, health centers, bus stations and town halls. It will improve public health outcomes by
+         reducing open defecation, thereby lowering the risk of fecal contamination and pollution of water sources, as well as
+         reducing fugitive GHG emissions from open latrines.
+
+
+         31. Component 2: Enhancing water sources (US$21 million). This component seeks to maintain the quantity and
+         quality of water sources amidst growing human activity and the effects of climate change, especially changing rainfall
+         patterns.
+         32. Sub-component 2.1: Nature-based solutions (US$6 million). This sub-component aims to implement nature-
+         based solutions to enhance rainwater infiltration during heavy rainfall, thereby reducing flood vulnerability and
+         preserving water sources while also sequestering carbon. Interventions may include stone barriers, reforestation, half-
+         moons, terraces, or other local developments. Such solutions recharge aquifers, limit soil erosion, and reduce runoff
+         and flood risk. Local communities will implement them, generating income in the affected areas. Nature-based
+         solutions will primarily be implemented in aquifer recharge zones upstream of boreholes that provide water to towns
+         and villages as part of Component 1, in conjunction with the World Bank financed RESILAND Project.17
+         33. Sub-component 2.2: Stormwater mobilization infrastructure (US$10 million). This sub-component will improve
+         surface water runoff management to counter the absence of perennial watercourses in the project area. It includes
+         building spreading weirs to slow down climate change-exacerbated floodwater, benefiting upstream rural populations
+         using flood-recession crops, thus boosting climate resilience. It also involves developing irrigated perimeters, building
+         on the work carried out by the World Bank financed SIIP18 Project until June 2024. Intervention sites will be selected
+         according to the willingness of beneficiaries to maintain the facilities.
+         34. Sub-component 2.3: Protection perimeters for ground water catchment sites (US$5 million). This sub-component
+         will create and enforce immediate protection perimeters for public boreholes in urban areas producing drinking water
+         to protect water sources and boost positive public health outcomes. These zones aim to safeguard the wellhead and
+
+16
+     Regional Sahel Pastoralism Support Project II – P173197
+17
+     Building Resilience through Sustainable Natural Resource Management (P509357)
+18
+     Sahel Irrigation Initiative Support Project (SIIP) - P154482
+
+
+
+                                                                                                                              Page 9
+
+
+
+                                                                                                                      Official Use Only
+      The World Bank
+      Chad Water Security Project(P507957)
+
+
+   prevent local groundwater contamination. It will also plan to identify the so-called “close” protection perimeters
+   where groundwater contamination risks can be reduced. Activities include defining these perimeters, determining
+   necessary measures, and implementing priority actions.
+
+
+   35. Component 3: Project Management and Capacity reinforcement (US$8 million). This component will support: (i)
+   project management activities, including coordination and supervision of implementation; financial management,
+   procurement, and audits; staffing and training; day-to-day project activities; environmental and social (E&S) safeguard
+   management, including supervision of implementation of an E&S commitment plan and relevant site-specific
+   resettlement action plans as applicable, and operation of the Grievance Redress Mechanism (GRM); monitoring and
+   evaluation (M&E); and citizen engagement activities; and (ii) capacity-building activities, including some in relation to
+   private sector participation, emergency response plans and increasing the climate resilience of the water supply;
+   implementation support, including field missions and data collection; outreach and communications related to the
+   role of the recipient and the project implementing entity; studies of the water management sector; and capacity
+   reinforcement of STE and the Ministry of Water and Energy (Ministère de l’Eau et de l’Energie, MEE); (iii) Technical
+   assistance on PSP scoping and pipeline development: based on the lessons learned from the past water PPPs,
+   undertake activities to support create enabling conditions for private sector participation including recommended
+   reforms and explore areas for potential private sector participation and PPPs including energy efficiency such as solar
+   pumps, utility performance improvement through management contract, creditworthiness training, NRW through
+   PBC, develop roadmap on best ways to engage private sector in phases.
+
+
+   36. Component 4: Contingency Emergency Response Component (CERC) (US$0 million). A CERC is included in the
+   project in accordance with the Investment Project Financing (IPF) Policy, paragraphs 12 and 13, for Situations of Urgent
+   Need of Assistance and Capacity Constraints. This will allow for rapid reallocation of grant uncommitted funds in the
+   event of an eligible emergency as defined in Operational Policy 8.00. A CERC Manual will guide the activation and
+   implementation of the CERC, and an Emergency Action Plan will be prepared to confirm activities and financing for a
+   specific event. Only IDA funds can be reallocated to the CERC.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+                                                                                                                       Page 10
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     Chad Water Security Project(P507957)
+
+
+
+
+  37. Risks and potential impacts during the construction phase may include: (i) increased pollution due to the
+  generation of hazardous and non-hazardous waste, dust, noise, vibration, and accidental spills of fuel and lubricants;
+  (ii) traffic accident, (iii) impacts on the ecosystem, and (iv) occupational and community health and safety issues. The
+  main social risks relate to: (i) potential economic and physical displacement due to construction of rural and urban
+  water infrastructure; (ii) security related risks in project areas that are in insecure, or in hard to access zones; (iii)
+  possible exclusion of marginalized and vulnerable groups, including youth and women from water services and the
+  labor works/income generating activities; (iv) potential social tensions on water and sanitation services use. SEA/SH
+  is also a concern overall in Chad, and in particular in refugee/IDP situations. The risks and impacts are identifiable and
+  can be managed by appropriate assessment and mitigation measures will be largely considered in the Project
+  Operation manual and site specific Environmental and Social Management Plans/Environmental and Social Impact
+  Assessments (ESMPs/ESIAs) and Resettlement Action Plans (RAPs) to be prepared as needed. The Stakeholder
+  Engagement Plan will be prepared to address the challenges related to communication and participation of
+  stakeholders in a very sparsely populated and widely geographically dispersed area. However, given the type and
+  geographical extent of the activities, the associated environmental and social (E&S) risks, and given the limited
+  experience and institutional capacity of the MEE to implement project under the Environmental and Social
+  Framework, the E&S risk is considered as Substantial at the concept stage.
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Taibou Adamou Maiga
+ Senior Water Specialist
+
+Borrower/Client/Recipient
+ Ministry of Water and Energy
+ Faycal Abdel-Kerim
+ Directeur General des infrastructures Hydrauliques
+ faygardia@gmail.com
+ Nour Saleh Haggar
+ Secretary General
+ noursalehhag@gmail.com
+
+Implementing Agencies
+ Societe Tchadienne des Eaux (STE)
+ Mahamat Younous
+ Managing Director of STE
+ mail.adoumforteye08@gmail.com
+
+
+                                                                                                                       Page 11
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     Chad Water Security Project(P507957)
+
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Taibou Adamou Maiga
+
+Approved By
+
+Practice Manager/Manager:               Juan David Casanova Anoll              23-May-2025
+
+Country Director:                       Clara Ana Coutinho De Sousa            30-Jun-2025
+
+
+
+
+Note to Task Team: This is the end of document. No further content should be added. Delete this note when
+finalizing the document.
+
+
+
+
+                                                                                                              Page 12
+
+
+
+                                                                                                       Official Use Only
+

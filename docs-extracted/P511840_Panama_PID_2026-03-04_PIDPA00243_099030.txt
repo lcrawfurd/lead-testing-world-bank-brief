@@ -1,0 +1,552 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Transforming Panama Cadaster Program for Results (P511840)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 04-Mar-2026 | Report No: PIDPA00243
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                              Official Use Only
+     The World Bank
+     Transforming Panama Cadaster Program for Results (P511840)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                        Operation ID              Operation Name
+                                                                                       Transforming Panama
+                               LATIN AMERICA AND
+Panama                                                       P511840                   Cadaster Program for
+                               CARIBBEAN
+                                                                                       Results
+Financing Instrument           Estimated Appraisal Date      Estimated Approval Date   Practice Area (Lead)
+Program-for-Results
+                               09-Mar-2026                   28-Apr-2026               Urban, Resilience and Land
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+Ministry of Economy and        National Authority for Land
+Finance (Ministerio de         Administration (Autoridad
+Economía y Finanzas -          Nacional de Administración
+MEF)                           de Tierras - ANATI)
+
+Proposed Program Development Objective(s)
+The Program Development Objectives are to develop the national multipurpose cadaster management system and
+improve access to cadaster and land tenure services in selected Program areas.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+Is this project Private Capital Enabling (PCE)?              Yes
+
+SUMMARY
+  Government program Cost                                                                                     250.00
+
+  Total Operation Cost                                                                                         95.15
+    Total Program Cost                                                                                        95.00
+    Other Costs (Front-end fee,IBRD)                                                                           0.15
+  Total Financing                                                                                              95.15
+
+  Financing Gap                                                                                                 0.00
+
+
+
+                                                                                                                 Page 1
+
+
+
+                                                                                                       Official Use Only
+         The World Bank
+         Transforming Panama Cadaster Program for Results (P511840)
+
+
+ FINANCING
+      Total World Bank Group Financing                                                                                 60.00
+        World Bank Lending                                                                                             60.00
+      Total Government Contribution                                                                                    35.15
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+ B. Introduction and Context
+
+
+     Country Context
+
+1.        Panama is an upper-middle-income country that has achieved strong economic growth over recent decades,
+driven largely by services, logistics, and trade. However, this growth has been accompanied by structural fiscal and
+institutional challenges. Public revenues remain relatively low, with one of the lowest tax-to-GDP ratios in the region,
+while public spending persistently exceeds revenues, resulting in fiscal deficits and rising public debt. These constraints
+limit fiscal space for public investment and heighten vulnerability to external shocks, underscoring the need to strengthen
+domestic revenue mobilization and improve the efficiency of public administration.
+
+     Sectoral and Institutional Context
+
+2.       Within this context, the land administration and cadaster sector plays a critical role in Panama’s socio-economic
+development. Effective land administration underpins secure property rights, which are essential for private investment,
+access to credit, and the functioning of land and real estate markets. In Panama, fragmentation between cadastral, legal,
+and fiscal institutions has reduced the efficiency, accuracy, and economic use of land information, constraining
+investment, slowing property transactions, and limiting the fiscal potential of property taxation. The cadaster has
+historically focused on mass titling and fiscal objectives rather than operating as a continuously updated, multipurpose
+system capable of supporting territorial planning, service delivery, and environmental management.
+
+3.       Modernizing the cadaster into an integrated, multipurpose system is therefore a strategic lever for economic
+development. An updated and interoperable cadaster can improve equity and efficiency in property taxation, expand the
+tax base, and support fiscal sustainability without increasing tax rates. At the same time, it strengthens land tenure security
+for households, women, and Indigenous communities; reduces transaction costs for businesses; and provides reliable
+geospatial data for infrastructure planning, climate resilience, and sustainable land use. By linking land governance
+reforms with fiscal, investment, and environmental objectives, the cadaster sector becomes a foundational enabler of
+inclusive growth, job creation, and long-term economic resilience in Panama
+
+
+
+                                                                                                                          Page 2
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         Transforming Panama Cadaster Program for Results (P511840)
+
+
+
+
+     PforR Program Scope
+
+4.       The proposed Program-for-Results (PforR) operation supports a clearly defined slice of the Government of
+Panama’s National Multipurpose Cadaster Program (2025–2035), focusing on the first phase of implementation during
+2026–2031. While the Government program has nationwide scope and a ten-year horizon, the PforR finances priority
+activities in selected Program areas that are critical to establishing the institutional, technical, and operational foundations
+of a modern multipurpose cadaster. The Program supports two core Results Areas: (i) development of the national
+multipurpose cadaster management system, and (ii) improved access to cadaster and land tenure services in selected
+areas.
+
+5.      Under Results Area 1, the PforR supports activities that build the national geospatial and institutional backbone
+of the cadaster, including densification and modernization of the national geodetic network through Continuously
+Operating Reference Stations (CORS); acquisition of updated base cartography using ortho-imagery and digital terrain
+models; formal adoption of the LADM Panamá cadaster model and the national cartographic model; development of the
+Integrated Cadaster–Registry Information System (SICAR); strengthening of ICT infrastructure in ANATI and the National
+Geographic Institute “Tommy Guardia” (IGNTG); and preparation of a strategic business plan for ANATI and IGNTG to
+support long-term operational and financial sustainability. These activities contribute directly to improved
+interoperability, data accuracy, service efficiency, and institutional capacity.
+
+6.      Under Results Area 2, the PforR finances activities that expand the availability and use of updated cadastral and
+land tenure information in prioritized municipalities. Indicative activities include digitalization of legacy cadastral records;
+systematic cadastral surveys; digitization of parcels under the LADM model; integration of cadastral and registry
+information into SICAR; mass land tenure regularization to reduce titling backlogs; incorporation of newly surveyed parcels
+into the fiscal database of the General Directorate of Revenue; and pilot initiatives to support culturally appropriate
+cadastral processes in Indigenous territories. Together, these interventions improve tenure security, reduce transaction
+times, support municipal land management, and strengthen the fiscal and economic use of land information.
+
+7.       In line with the World Bank’s Policy and Directive on Program-for-Results Financing, the Program excludes
+activities that are not eligible for PforR financing, including land titling within Natural Protected Areas, buffer zones,
+mangroves, and wetlands, as well as activities that could involve large-scale civil works or high environmental risk. Minor
+renovations of existing facilities and installation of geodetic and IT equipment are included, as they are low-risk,
+site-specific, and manageable under national systems. The Program does not include any contracts classified as high-value
+in relation to the overall Program envelope; while several contracts for geospatial imagery, ICT systems, and CORS
+installation are critical to Program integrity, their individual monetary value remains modest relative to total Program
+financing, and they are embedded within the results-based framework.
+
+8.       Program beneficiaries include both direct and indirect groups. Direct beneficiaries comprise individuals whose
+properties are surveyed, registered, or formalized under the Program, including women, Indigenous peoples, and other
+vulnerable populations; the Results Framework explicitly tracks women’s access to land tenure and cadastral services
+through sex-disaggregated indicators. Indirect beneficiaries include municipalities, national government institutions, the
+private sector, and the general public, who benefit from improved land information, increased legal certainty, more
+efficient property markets, enhanced property tax administration, and better data for territorial planning, climate
+resilience, and infrastructure investment.
+
+
+
+                                                                                                                           Page 3
+
+
+
+                                                                                                                   Official Use Only
+       The World Bank
+       Transforming Panama Cadaster Program for Results (P511840)
+
+
+9.      The Program is implemented solely by the National Land Administration Authority (ANATI), with coordination
+across key public institutions, including the Public Registry and the Ministry of Economy and Finance.
+
+ C. Proposed Program Development Objective(s)
+
+ Program Development Objective(s)
+
+ 10.     The Program Development Objectives are to develop the national multipurpose cadaster management system
+ and improve access to cadaster and land tenure services in selected Program areas. The PDO reflects the Government’s
+ objective of transforming Panama’s cadaster into a modern, integrated, and interoperable system that strengthens land
+ tenure security, improves service delivery, and enables the effective economic, fiscal, and territorial use of land
+ information.
+
+ 11.      Achievement of the PDO will be measured through a focused set of PDO-level results indicators that are
+ specific, measurable, realistic, and directly linked to the Program’s scope and results chain. These indicators capture
+ improvements in system functionality, service efficiency, coverage of updated cadastral information, and access to land
+ tenure services, with explicit tracking of gender outcomes where relevant. The PDO-level indicators are:
+     I.   Property subdivisions process with reduced response times for users (days), measuring improvements in
+          efficiency and service delivery resulting from system modernization and streamlined cadastral processes.
+    II.   People with property titles issued (number), capturing expanded access to formal land tenure services
+          through mass regularization and backlog reduction in selected Program areas.
+               o Women with property titles issued (individual or joint) (number), tracking progress toward more
+                   inclusive and equitable land tenure outcomes.
+   III.   People using SICAR’s digital services (number), measuring effective access to and use of the Integrated
+          Cadaster–Registry Information System enabled by the Program.
+               o Women using SICAR’s digital services (number), ensuring that digital access gains are inclusive and
+                   gender-responsive.
+  IV.     Prioritized municipalities with at least 50 percent of their area with updated cadastral and registry
+          information integrated into SICAR – Core System (number), reflecting the expansion of interoperable,
+          up-to-date cadastral and legal land information at the local level.
+
+ 12.      Together, these indicators provide a balanced measure of success in achieving the PDO by capturing both
+ institutional and system-level transformation and tangible improvements in access to services and tenure security
+ for beneficiaries, including women, in the Program’s prioritized areas.
+
+ D. Environmental and Social Effects
+
+13.      The environmental and social effects of the Program have been assessed through the Environmental and Social
+Systems Assessment (ESSA), which concludes that the overall risk is Substantial, reflecting the scale of institutional
+reform and the social sensitivity of land tenure issues. The Program does not finance activities with significant adverse
+impacts that are sensitive, diverse, or unprecedented. Its design focuses on institutional strengthening, geospatial
+infrastructure, digital systems, and land administration processes, which are expected to generate predominantly positive
+and long‑term environmental and social benefits.
+
+
+
+                                                                                                                     Page 4
+
+
+
+                                                                                                             Official Use Only
+       The World Bank
+       Transforming Panama Cadaster Program for Results (P511840)
+
+
+14.      From an environmental perspective, the Program is expected to have mainly indirect and positive effects by
+strengthening land‑use planning, environmental zoning, climate resilience, and disaster risk management through
+improved cadastral and geospatial information. Potential environmental risks are limited, localized, and manageable, and
+relate primarily to the installation of geodetic stations and IT equipment, minor rehabilitation of existing facilities, and the
+management of non‑hazardous waste and e‑waste. To prevent significant impacts, the Program explicitly excludes land
+titling or regularization activities in Natural Protected Areas, buffer zones, mangroves, and wetlands, and incorporates
+screening mechanisms and protocols to ensure compliance with environmental regulations. Improved interoperability
+with environmental information systems further supports risk mitigation.
+
+15.     From a social perspective, the Program has strong positive impacts, including enhanced land tenure security,
+improved access to services, reduced transaction times, and better protection of land rights for women, Indigenous
+peoples, and other vulnerable groups. Key social risks identified in the ESSA include potential boundary and tenure
+disputes during cadastral surveys, barriers to access for rural and Indigenous populations, risks of exclusion of women if
+gender‑sensitive procedures are not applied, and limited institutional capacity for grievance management and conflict
+resolution. These risks are addressed through Program design and the Program Action Plan, which includes strengthened
+environmental and social staffing within ANATI, standardized environmental, health, safety, and social protocols, culturally
+appropriate consultation and communication mechanisms, operational grievance redress and dispute‑resolution systems,
+and mandatory sex‑disaggregated data and joint‑titling procedures.
+
+16.    Overall, the ESSA confirms that Program screening and design exclude activities with significant adverse.
+environmental or social impacts, and that Panama’s national systems, reinforced by targeted capacity‑building and
+procedural measures under the Program, are adequate to manage identified risks and support equitable, inclusive, and
+environmentally sound implementation of the PforR.
+
+E. Financing
+
+                                           Program Financing (Template)
+
+                               Source                                  Amount (US$, Millions)             % of Total
+
+      Counterpart Funding                                                                 35.15                      36.94%
+
+        National Government                                                               35.15                      36.94%
+
+      International Bank for Reconstruction and Development
+                                                                                          60.00                      63.06%
+      (IBRD)
+
+                      Total Program Financing                                             95.15
+
+
+
+
+                                                                                                                           Page 5
+
+
+
+                                                                                                                   Official Use Only
+     The World Bank
+     Transforming Panama Cadaster Program for Results (P511840)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Ivonne Astrid Moreno Horta
+ Senior Land Administration Specialist
+
+Borrower/Client/Recipient
+ Ministry of Economy and Finance (Ministerio de Economía y Finanzas - MEF)
+
+Implementing Agencies
+ National Authority for Land Administration (Autoridad Nacional de Administración de Tierras - ANATI)
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Ivonne Astrid Moreno Horta
+
+Approved By
+
+Practice Manager/Manager:                Federica Ranghieri                    16-Feb-2026
+
+Country Director:                        Joelle Dehasse                        04-Mar-2026
+
+
+
+
+                                                                                                                Page 6
+
+
+
+                                                                                                        Official Use Only
+     The World Bank
+     Transforming Panama Cadaster Program for Results (P511840)
+
+
+                                                                       ANNEX 1. RESULTS FRAMEWORK
+
+@#&OPS~Doctype~OPS^dynamics@padpfrannexpolicyandresult#doctemplate
+Program Development Objective(s)
+The Program Development Objectives are to develop the national multipurpose cadaster management system and improve access to cadaster and land
+tenure services in selected Program areas.
+
+PDO Indicators by Outcomes
+
+
+   Baseline                                                                               Closing Period
+   Development of the National Multipurpose Cadaster Management System
+   Property subdivisions processes with reduced response times for users in Anati's Headquarters (Days) DLI
+   Jan/2026                                                                               Jun/2031
+   15                                                                                     5
+   SICAR – Core developed and functional, based on the land administration data model (Percentage)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      100
+   Improve access to cadaster and land tenure services in selected Program areas
+   People with property titles issued (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      30,000
+     ➢Women with property titles issued (individual or joint title) (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      12,000
+     ➢Youth with property titles issued (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      0
+   People using SICAR’s digital services (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      2,000
+     ➢Women using SICAR’s digital services (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      0
+
+
+
+                                                                                                              Page 1
+
+
+
+                                                                                                                                   Official Use Only
+     The World Bank
+     Transforming Panama Cadaster Program for Results (P511840)
+
+
+     ➢Youth using SICAR’s digital services (Number of people)
+   Jan/2026                                                                                  Jun/2031
+   0                                                                                         0
+   Municipalities with at least 50% of their area with updated cadastral and registry information integrated into SICAR – Core System (Number) DLI
+   Jan/2026                                                                                  Jun/2031
+   0                                                                                         13
+
+
+Intermediate Indicators by Results Areas
+
+   Baseline                                                                               Closing Period
+   Development of the National Multipurpose Cadaster Management System
+   Staff certified in geodesy, cartography, cadaster, and valuation (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      120
+     ➢Women certified in geodesy, cartography, cadaster, and valuation (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      48
+     ➢Youth certified in geodesy, cartography, cadaster, and valuation (Number of people)
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      0
+   CORS stations operating and connected to the Network Control Center (NCC) (Number) DLI
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      20
+   Area with updated cartography using ortho-images and digital terrain models, according to the adopted new cartographic model (Square kilometer(km2)) DLI
+   Jan/2026                                                                               Jun/2031
+   0                                                                                      75,517
+   LADM Panama Cadaster model and national cartographic model formally adopted (Yes/No) DLI
+   Jan/2026                                                                               Jun/2031
+   No                                                                                     Yes
+   Strategic business plan of ANATI and IGNTG developed and adopted (Yes/No) DLI
+   Jan/2026                                                                               Jun/2031
+   No                                                                                     Yes
+   ANATI regional administrative offices connected and operating SICAR (Number)
+   Jan/2026                                                                               Jun/2031
+
+
+
+                                                                                                                                        Page 2
+
+
+
+                                                                                                                                                              Official Use Only
+     The World Bank
+     Transforming Panama Cadaster Program for Results (P511840)
+
+
+   0                                                                                          7
+   Geographic Information System for indigenous territory management (Yes/No)
+   Jan/2026                                                                                   Jun/2031
+   No                                                                                         Yes
+   Improve access to cadaster and land tenure services in selected Program areas
+   Jobs created as a result of the program (Number)
+   Jan/2026                                                                                   Jun/2031
+   0                                                                                          1,200
+   Parcels digitized under the new land administration data model (Number)
+   Jan/2026                                                                                   Jun/2031
+   0                                                                                          1,100,000
+   Additional parcels incorporated into the DGI fiscal database (Number)
+   Jan/2026                                                                                   Jun/2031
+   0                                                                                          20,000
+   Municipalities with access to SICAR-Municipios module for local governments (Number)
+   Jan/2026                                                                                   Jun/2031
+   0                                                                                          15
+   Reduction in the number of land titling processes pending under ANATI's responsibility (Number)
+   Jan/2026                                                                                   Jun/2031
+   25,000                                                                                     10,000
+   Technical cadastral evaluation reports conducted as part of collective titling processes (Number)
+   Jan/2026                                                                                   Jun/2031
+   0                                                                                          2
+   Increase in the number of transactions in the real estate market (Number)
+   Jan/2026                                                                                   Jun/2031
+   272,199                                                                                    300,000
+     ➢Increase in the number of mortgages in the real estate market (Number)
+   Jan/2026                                                                                   Jun/2031
+   38,901                                                                                     42,791
+   Natural protected areas georeferenced and mapped with Program support (Number)
+   Jan/2026                                                                                   Jun/2031
+   0                                                                                          3
+
+
+
+Disbursement Linked Indicators (DLI)
+
+
+
+                                                                                                          Page 3
+
+
+
+                                                                                                                   Official Use Only
+  The World Bank
+  Transforming Panama Cadaster Program for Results (P511840)
+
+
+Period                                                                                 Period Definition
+Period 1                                                                               2026-2027
+Period 2                                                                               2027-2028
+Period 3                                                                               2028-2029
+Period 4                                                                               2029-2030
+Period 5                                                                               2030-2031
+
+
+
+Baseline                       Period 1                     Period 2                      Period 3                       Period 4              Period 5
+1:Property subdivisions processes with reduced response times for users in Anati's Headquarters (Days )
+15                             0                            12                            10                             5                     0
+0.00                           0.00                         1,454,545.46                  7,272,727.27                   7,272,727.27          0.00
+DLI allocation                                              16,000,000.00                 As a % of Total DLI Allocation                       26.67%
+2:Municipalities with at least 50% of their area with updated cadastral and registry information integrated into SICAR – Core System (Number )
+0                              0                            0                             3                              5                     5
+0.00                           0.00                         0.00                          2,076,923.08                   3,461,538.46          3,461,538.46
+DLI allocation                                              9,000,000.00                  As a % of Total DLI Allocation                       15%
+3:CORS stations operating and connected to the Network Control Center (NCC) (Number )
+0                              0                            10                            10                             0                     0
+0.00                           0.00                         5,000,000.00                  5,000,000.00                   0.00                  0.00
+DLI allocation                                              10,000,000.00                 As a % of Total DLI Allocation                       16.67%
+4:Area with updated cartography using ortho-images and digital terrain models, according to the adopted new cartographic model (Square kilometer(km2) )
+0                              0                            19,000                        30,000                         26,517                0
+0.00                           0.00                         3,019,187.73                  4,767,138.53                   4,213,673.74          0.00
+DLI allocation                                              12,000,000.00                 As a % of Total DLI Allocation                       20%
+5:LADM Panama Cadaster model and national cartographic model formally adopted (Yes/No )
+No                             No                           Yes                           NA                             NA                    NA
+0.00                           0.00                         8,000,000.00                  0.00                           0.00                  0.00
+DLI allocation                                              8,000,000.00                  As a % of Total DLI Allocation                       13.33%
+6:Strategic business plan of ANATI and IGNTG developed and adopted (Yes/No )
+No                             Yes                          NA                            NA                             NA                    NA
+0.00                           5,000,000.00                 0.00                          0.00                           0.00                  0.00
+
+
+                                                                                                                                Page 4
+
+
+
+                                                                                                                                                              Official Use Only
+  The World Bank
+  Transforming Panama Cadaster Program for Results (P511840)
+
+
+DLI allocation                                5,000,000.00     As a % of Total DLI Allocation            8.33%
+
+
+
+
+                                                                                                Page 5
+
+
+
+                                                                                                                 Official Use Only
+

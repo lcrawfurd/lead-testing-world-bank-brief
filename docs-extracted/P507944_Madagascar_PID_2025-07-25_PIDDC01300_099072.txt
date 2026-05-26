@@ -1,0 +1,579 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 25-Jul-2025 | Report No: PIDDC01300
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                                  Official Use Only
+     The World Bank
+     Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID               Operation Name
+Madagascar                     P507944                    Second Integrated Urban Development And Resilience
+                                                          Project For Greater Antananarivo
+Region                         Estimated Appraisal Date   Estimated Approval Date      Practice Area (Lead)
+EASTERN AND SOUTHERN           12-Jan-2026                26-Mar-2026                  Urban, Resilience and Land
+AFRICA
+Financing Instrument           Borrower(s)                Implementing Agency
+Investment Project             Ministry of Economy and    Ministry of Water,
+Financing (IPF)                Finance                    Sanitation, and Hygiene ,
+                                                          Ministry of
+                                                          Decentralization and
+                                                          Planning
+
+Proposed Development Objective(s)
+To enhance living conditions through strengthened flood resilience and improved solid waste and land management in
+Greater Antananarivo
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 No
+Is this project Private Capital Enabling (PCE)?           No
+
+SUMMARY
+  Total Operation Cost                                                                                    150.00
+
+  Total Financing                                                                                         150.00
+             of which IBRD/IDA                                                                            150.00
+  Financing Gap                                                                                              0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+
+                                                                                                               Page 1
+
+
+
+                                                                                                       Official Use Only
+          The World Bank
+          Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+        International Development Association (IDA)                                                                       150.00
+          IDA Credit                                                                                                      150.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                        Concept Review Decision
+High                                                                The review did authorize the preparation to continue
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+    1. Despite its many assets, Madagascar remains trapped in a low-growth, high-poverty equilibrium. Notwithstanding
+    a steady economic recovery following the COVID-19 pandemic, many sectors have yet to return to their pre-2020 output
+    levels. Almost 70 percent of the population lives below the international poverty line of US$2.15 per capita per day1. The
+    number of people living in poverty rose from 15.4 million in 2012 to 21.1 million in 2022, an increase of 50 percent.
+    Average real income has declined over the years, with per capita GDP (Gross Domestic Product, in constant 2015 US
+    dollars) falling from US$818.3 in 1960 to US$433.8 in 2020.2
+    2. Madagascar's rapid urbanization rate of 4.4 percent annually is increasing urban poverty, outpacing the rest of
+    Sub-Saharan Africa (SSA).3 Currently, 30 percent of the population lives in cities, with half of those in Greater
+    Antananarivo.4 Despite urban areas generating 75 percent of GDP, urbanization is failing to yield economic
+    transformation and shared prosperity for the country. Urban poverty has worsened, with extreme poverty rising from 22
+    percent in 2012 to 55 percent today, due to declining economic opportunities, a poor business environment, and
+    insufficient investment in education, healthcare, and infrastructure.5
+    3. Intensifying climate-related disasters, including severe rainfall events, cyclones, droughts, and rising
+    temperatures are exerting a heavy toll on socio-economic development. Madagascar is one of the most exposed and
+    vulnerable countries to climate change and extreme weather events, with 25 percent of the population highly exposed.6
+
+1
+  In June 2025, the World Bank updated the international poverty line to US$3 per capita per day; Data for Madagascar has not been
+released yet.
+2
+  World Bank. 2025. Madagascar Economic Update: Bridging the Productivity Divide
+3
+  Madagascar Urbanization Review. Leveraging Cities as Drivers of Growth and Structural Transformation. World Bank.
+4
+  Ibid.
+5
+ World Bank estimates based on 2012 National Survey on Monitoring Millennium Development Goal Indicators (Enquête Nationale
+sur le Suivi des indicateurs des Objectifs du Millénaire pour le Développement) and 2022 Periodic Household Survey (Enquête
+Périodique sur les Ménages) data cited in World Bank. 2024. Madagascar Poverty Assessment: Navigating Two Decades of High
+Poverty and Charting a Course for Change. Washington DC.
+6
+  https://www.ireus.uni-stuttgart.de/Internationales/WorldRiskIndex/
+
+                                                                                                                               Page 2
+
+
+
+                                                                                                                      Official Use Only
+             The World Bank
+             Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+       Annually, over US$100 million in damages (0.9 percent of 2015 GDP) are caused by floods and cyclones on average.
+       Impacts of climate7 shocks tend to be geographically distributed with droughts mostly affecting the South of the country,
+       cyclones in the North and the East coast, and floods occurring everywhere but felt most severely in urban areas. Climate
+       change scenarios forecast that these weather events will increase in intensity over the coming decades.
+
+       Sectoral and Institutional Context
+
+4. Antananarivo, the capital city and national economic backbone, is expanding at an unprecedented pace. As the primary
+   city in Madagascar, it generates over 50 percent of the GDP and houses half of the nation's urban inhabitants. Its
+   population of 3.3 million has more than doubled over the past 20 years and is expected to double again by 2035. This
+   rapid expansion is driven by natural population increase and migration for jobs, better healthcare, education, and
+   services, with an estimated 100,000 people moving each year to the metropolitan area.8
+   5. Antananarivo's rapid, largely unplanned expansion has increased its exposure and vulnerability to climate events,
+   particularly floods. The city, once confined to hilly terrain, has now spread into the flood plains of the Ikopa River.
+   Subdivision and sales of larger rural and peri-urban land parcels have proceeded without land management or planning,
+   furthering urban sprawl. Densely populated informal settlements with limited infrastructure have proliferated in the
+   southern plain, while unplanned urban sprawl is occurring in the less developed northern plain. As a result, the city
+   regularly experiences both fluvial and pluvial flooding, with an estimated 700,000 people living in flood prone areas,9
+   with pluvial floods occurring on average twice a year.10 The outdated stormwater drainage system, hindered by poor
+   maintenance and waste dumping, exacerbates flooding in low-lying areas. A 100-year river flood event could flood
+   24,000 hectares, with an associated physical damage of US$160 million.11 These figures could be significantly higher if
+   breaches in the existing aging dike system were to occur. Furthermore, the lack of digital land records would risk the
+   destruction of paper land records, delaying access to post disaster relief services and rebuilding of infrastructure.
+   6. Antananarivo's rapid expansion is outpacing investments in buildings, infrastructure, and services, which remain
+   inadequate.12 About 77 percent of settlements in Antananarivo are informal and lack basic infrastructure and services.13
+   Only 64 percent of residents have reliable drinking water, and just 22 percent have basic sanitation services.14,15 High
+   multidimensional poverty increases vulnerability, while rapid migration strains infrastructure and raises rental prices.
+   This forces households to choose between flood-prone areas near economic centers or the outskirts with limited
+   opportunities.
+
+
+
+
+   7
+     World Bank. 2016. Southwest Indian Ocean Risk Assessment and Financing (SWIO-RAFI).
+   8
+     World Bank. 2017. Greater Antananarivo: Urban poverty and Resilience study
+   9
+     World Bank. 2023. Technical input to the urbanization review, based on data from German Aerospace Center (DLR). 2020.
+   11
+      BRL. 2020. Antananarivo Sanitation Master Plan, Technical mission for the Integrated Sanitation Program of Antananarivo (PIAA)
+   11
+      ARTELIA. 2023. Fluvial Flood Risk Management Master Plan, Technical mission for the Integrated Sanitation Program of Antananarivo
+   (PIAA)
+   12
+      Madagascar Urbanization Review. Leveraging Cities as Drivers of Growth and Structural Transformation.
+   13
+      UN Habitat. 2012. Antananarivo Urban Profile
+   14
+      World Bank. Diagnosis informing the drinking water supply Master Plan for the Greater Antananarivo. Madagascar National Water
+   Project (PAAEP) (P174477).
+   15
+      World Bank. 2023. Access to basic sanitation services. (accessed April 14, 2025)
+
+                                                                                                                                  Page 3
+
+
+
+                                                                                                                          Official Use Only
+       The World Bank
+       Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+ 7. Insufficient municipal revenue constrains the government’s ability to finance and sustain public infrastructure
+ investment and deliver municipal services. Urban municipality budgets range from US$2 to US$5 per person.16 In 2024,
+ government revenue and grants totaled only 13.6 percent of GDP (compared to 18.9 percent on average in SSA
+ percent).17 This is driven largely by Madagascar’s low tax-to-GDP ratio of 10.9 percent compared to the average in Africa
+ of 14.6 percent and Organization for Economic Co-operation and Development (OECD) of 25.3 percent; property tax
+ comprised just 0.57 percent of total taxes versus the average in Africa of 1.5 percent and OECD of 5.3 percent.18 Own
+ source revenue collection, via recurrent annual property taxes, could be increased by improving land tenure and
+ management. Property taxes contribute up to 35 percent of the municipality’s tax resources, yet approximately 61
+ percent of the buildings (183,000 of 300,000) in the capital elude the Property Tax on Building Property (IFPB) due to
+ informality and lack of land records. This has also led to lower collection of land fees and taxes on capital gains on
+ property, which currently represent 3-5 percent (US$ 3.5-9 million) i of total tax revenues. Registering properties in the
+ capital, and related property related fees and taxes, could hence provide substantial own-source revenue for funding
+ infrastructure investments.
+ 8. The Greater Antananarivo area has developed an ambitious urban development vision, outlined in the 2020-2038
+ Antananarivo Agglomeration Master Plan. This vision focuses on creating a competitive economy in Antananarivo
+ through sustainable and inclusive growth, fostering interconnected, resilient, and healthy urban structures, while
+ preserving and enhancing the city's unique identity. From this Master Plan, additional sectoral plans on drainage,
+ transport, and solid waste management (SWM), totaling US$3.5 billion, have been developed to harness the city's
+ economic potential and increase its climate resilience.19 To begin implementation of this vision, Antananarivo has
+ benefited from investments of multiple partners, reaching a total of US$250 million in the last 5 years targeting priority
+ infrastructure needs.
+ 9. Several large-scale projects, such as the World Bank- financed Integrated Urban Development and Resilience
+ Project for Greater Antananarivo (PRODUIR 1, P159756) and the Integrated Sanitation Project of Antananarivo (PIAA)
+ financed by the French Development Agency (Agence Française de Développement, AFD), have contributed to
+ addressing some of the issues, by implementing priority actions defined in the Sanitation Master Plan. The first phase of
+ PIAA (2017- 2023, €34 million) supported the dredging of 7.5 km in the Canal Andriantany, while another AFD-financed
+ project (Access and Sanitation for priority areas of Greater Antananarivo, €71 million) contributed to the rehabilitation
+ and construction of around 1,000 infrastructures like pathways, stairways, drainage channels, carriageways, libraries and
+ sports fields. Complementing these efforts, PRODUIR 1 (US$140 million) has strived since 2018 to improve the capacity
+ of the other main drain of Antananarivo, by dredging 12 km of the C3 canal. Priority embankment rehabilitation works
+ have been undertaken along 6 km of the Ikopa river, contributing to the protection of 315,000 people, from fluvial risks.
+ The Regional Climate Resilience Program for Eastern and Southern Africa 1 Project (RCRP1, P180171) reinforced flood
+ early-warning systems in Antananarivo through the provision of hydrological monitoring equipment and the
+ development of a riverine flood risk model.
+
+
+
+16
+   World Bank, 2020. Towards an urban land reform in Madagascar? Support for Urban Land Policy in Madagascar Advisory Services.
+17
+   World Bank. 2025. Madagascar Economic Update: Bridging the Productivity Divide.
+18
+   OECD. 2024. Revenue Statistics in Africa.
+19
+   These include Antananarivo Agglomeration Master Plan, 2020; Fluvial Flood Risk Management Master Plan, 2023; Antananarivo
+Sanitation Master Plans, 2020 and 2023; Antananarivo Transport Management Plan, 2022; Antananarivo SWM plan (in prep.)
+
+                                                                                                                          Page 4
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+ 10. However, these projects faced delays and increased costs due to unclear land rights and boundaries. Efforts to
+ mobilize land for public infrastructure projects such as drainage channels, waste processing sites, relocation zones,
+ access alleyways, and sanitary blocks have faced delays of several months to years due to uncertainties regarding
+ ownership, making compensation for expropriation of public infrastructure particularly challenging.20 The government
+ faces difficulties to identify landowners with only 25 percent of official land documents in Antananarivo corresponding
+ to the actual occupancy. Only 53 percent of the land is titled of which only 25 percent of the parcels are registered in
+ the name of the current owners. Existing land certificates and titles also lack necessary rights of way and related property
+ easements to facilitate land access for investments and land plans, which are based on outdated property ownership and
+ land boundaries. In addition, many buildings and parcels do not meet urban planning regulations due to smaller sizes
+ than required or overlaps with buffer zones and high-risk areas. Overall, an estimated one in ten parcels are in dispute
+ with nearly one in five households facing tenure insecurity. The land dynamics observed in Antananarivo are beginning
+ to manifest in the surrounding peri-urban areas as well. Since the 2000s, the pressure on land has been intensifying in
+ the suburbs, driven by an annual population growth rate exceeding 5 percent. Due to the lack of reliable land information,
+ informal constructions are increasing, and illegal land acquisitions are becoming sources of conflict. If measures are not
+ implemented, it is highly probable that the land situation in Greater Antananarivo will mirror that of the city itself.
+ Although municipal land offices are present in some peri-urban communes, their capacities are insufficient to provide
+ official land documentation to landholders through systematic registration.
+ 11. Many priorities identified in the Sanitation Master Plan remain unaddressed.21 Priority drainage interventions
+ identified include improving and rehabilitating primary, secondary and tertiary canals in the lower-lying parts of the city
+ center, preserving retention spaces to temporarily store water during heavy rainfall events and increasing the outfall
+ capacity with pumping stations along the Ikopa River. Along the Ikopa River and its tributaries, rehabilitation and
+ reinforcement of embankments in existing weak spots is prioritized with a total investment of US$30 million. Improving
+ Solid Waste Management is crucial to reducing flood and public health risks in Greater Antananarivo. The SWM system
+ faces inefficiencies in collection, disposal, financing, and governance, with fragmented institutional frameworks causing
+ overlapping responsibilities and poor coordination. The city produces over 530,000 tons of waste annually, a volume
+ projected to almost double by 2037, yet waste collection and disposal systems remain highly inadequate. Only about 50
+ percent of the waste generated in the capital is collected, with urban areas faring better than peri-urban ones.22 Since
+ 2007, the main disposal site at Andralanitra, operational since 1966 23 has reached maximum capacity. The disposal site
+ lacks essential infrastructure such as leachate treatment, landfill gas management, and a weighbridge. Efforts to
+ establish a new landfill have stalled due to land and financing issues (for capital investment and operating costs). Without
+ alternative disposal sites or transfer stations, transportation inefficiencies further strain municipal waste collection
+ services. Informal dumping, especially in waterways, worsens flooding and undermines drainage infrastructure
+ investments. Waste transformation and/or resource recovery is only happening at the margins: even though organic
+
+20
+   The Northeast Bypass Project, financed by the AFD and the European Investment Bank, required the freeing up of several agricultural
+parcels along the path of the new road. Out of 232 parcels impacted by the first segment of the work, almost 75 percent of the owners
+could not be compensated because their land status was not up-to-date, generally because of unregistered changes in status
+21
+    Antananarivo Sanitation Master Plans, 2020 and 2023
+22
+   Diagnostic report, capitalization studies and support for the implementation of SWM in the Antananarivo metropolitan area,
+ARTELIA, January 2024, PRODUIR Project (P159756)
+23
+    BCEOM-SOGREAH. 2007. Feasibility Study of the Greater Antananarivo Program - Improvement of Solid Waste Collection and
+Management"
+
+                                                                                                                                 Page 5
+
+
+
+                                                                                                                         Official Use Only
+            The World Bank
+            Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+ waste makes up around 65 percent of the total waste production, it is ultimately disposed of due to poor segregation at
+ source. Recycling is small scale and informal, lacking legal recognition. Without a structured financing model, waste
+ collection services remain inconsistent, forcing municipalities to operate at a financial deficit, which often results in
+ service interruptions and increased illegal dumping. The garbage collection tax (Redevance sur les Ordures Ménagères,
+ ROM) and the IFPB are unevenly applied across municipalities, with low collection rates.
+
+ Relationship to CPF
+
+The proposed operation aligns with the 2023-2027 Country Partnership Framework (CPF) for Madagascar. By reducing
+flood risk, improving drainage and SWM, and enhancing urban living conditions with a focus on governance, gender
+empowerment and citizen engagement, PRODUIR 1 supports all three CPF high-level outcomes: (i) Improved job
+opportunities; (ii) Improved human capital outcomes and (iii) Enhanced resilience against shocks. Specifically, the
+operation will contribute to CPF Objectives: #1.3 Improve access to basic infrastructure services; #2.1. Increase access to
+quality education and health services, with a focus on hard-to-reach populations including access to improved services
+such as water, sanitation, hygiene and electricity; #2.2 Promote Women’s and girls’ empowerment; and #3.2 strengthen
+Disaster Risk Management. The proposed operation is well-aligned with the Paris Agreement on climate change24 and the
+World Bank Gender Strategy 2024–2030.
+
+ C. Proposed Development Objective(s)
+ To enhance living conditions through strengthened flood resilience and improved solid waste and land management in
+ Greater Antananarivo
+
+     Key Results (From PCN)
+
+        -     Number of people with increased resilience to climate risks (of which women (number) and youth (number) –
+              CRI.
+        -     Number of people with access to improved SWM and drainage in the Greater Antananarivo ((of which women
+              (number) and youth (number)
+        -     Number of people benefiting from more secure peri-urban and urban land tenure (of which women (number)
+
+ D. Concept Description
+
+ 12. The PRODUIR 2 is a second phase of a Series of Projects (SoP) under a long-term programmatic approach to help
+ improve integrated urban development and resilience for Greater Antananarivo. It builds on to the first phase of the SOP
+ by further strengthening the resilience against floods through next phase of investments under the Integrated Sanitation
+ Master Plan and the implementation of the SWM strategy developed under the first phase.
+ 13. Component 1. Advancing resilient urban services and drainage infrastructure (US$85 million). This component
+ aims to reduce flood risks by rehabilitating and constructing dikes along priority river sections and improving stormwater
+ drainage systems in vulnerable urban hotspots through dredging canals, retention pounds, and enhancing pumping
+ capacity. These actions are aligned with the priorities outlined in the Antananarivo drainage master plan and coordinated
+
+24
+     UNFCCC. 2015. “Paris Agreement.” FCCC/CP/2015/10/Add.1. Paris: United Nations Framework Convention on Climate Change.
+
+                                                                                                                             Page 6
+
+
+
+                                                                                                                   Official Use Only
+      The World Bank
+      Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+spatially with AFD operations. Investments will be supported by cost-effective operations and maintenance programs to
+maintain hydraulic capacity and clear waste from the canals. Private sector participation will be assessed to support
+infrastructure development and O&M.
+14. Component 2. Optimizing SWM system (US$35 million). Guided by the metropolitan SWM strategy from PRODUIR
+1, this component aims to enhance performance and financial sustainability of the SWM services in the Greater
+Antananarivo Area by establishing a metropolitan waste management governance structure to strengthen the
+institutional and legal framework, and promote policy development, coordination, and inter-municipal cooperation.
+15. Component 3. Strengthening Land Management and Tenure (US$15 million). Building on the experiences gained
+from World Bank initiatives with PRODUIR 1 and the Madagascar Agriculture Rural Growth and Land Management Project
+(Projet de Croissance Agricole et de Sécurisation Foncière à Madagascar, CASEF, P151469), this component aims to
+establish a foundation for comprehensive urban land reform in Madagascar. Additionally, it will facilitate land access and
+enhance own-source revenue for municipal infrastructure investments under PRODUIR2. Specifically, the component will
+i) facilitate procedural and regulatory reform, ii) conduct systematic land regularization using a participatory planning
+approach in select “hotspot” urban and peri-urban areas, iii) establish a digital Land Information System (LIS), and iv)
+build institutional capacity in land planning and management, including property taxation.
+16. Component 4. Reinforcing metropolitan and municipal governance (US$10 million). This component aims to boost
+municipal revenues by digitalizing urban services and implementing a comprehensive resource mobilization strategy. It
+will improve coordination and clarify roles across municipal services like water supply, drainage, waste management, and
+land-use planning for integrated service delivery. Enhancements will be made to digital data sharing and data
+interoperability for better flood forecasting, land administration, and taxation. Component 5. The Project
+Implementation Support component (US$5 million) will finance activities related to project management and
+coordination, monitoring and evaluation (M&E), and communication. This component will finance operating costs of
+the project implementation unit, (including safeguards and fiduciary), M&E, communication, staff, procurement of goods,
+consultant services, organization of workshops and trainings.
+17. Component 6. Contingency Emergency Response Component ($0M). The Government of Madagascar can request
+the World Bank to activate this component following a major disaster, allowing quick response using uncommitted funds
+or reallocating financing from other project components.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                    Triggered?
+ Projects on International Waterways OP 7.50                                         No
+ Projects in Disputed Area OP 7.60                                                   No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+                                                                                                                      Page 7
+
+
+
+                                                                                                              Official Use Only
+       The World Bank
+       Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+
+In accordance with the World Bank’s Environmental and Social Framework (ESF), the environmental and social risk
+classification (ESRC) of the project is rated as High. Environmental risk is substantial, social risk is high and SEAH risk
+substantial. To effectively manage the environmental and social risks and impacts associated with the project, (08) eight
+relevant Environmental and Social Standards (ESSs) have been identified relevant for the project: ESS1 (Assessment and
+Management of Environmental and Social Risks and Impacts); ESS2 (Labor and Working Conditions); ESS3 (Resource
+Efficiency and Pollution Prevention and Management); ESS4 (Community Health and Safety); ESS5 Land Acquisition,
+restrictions on land use and involuntary resettlement; ESS6 (Biodiversity Conservation and Sustainable Management of
+Living Natural Resources); ESS8 (Cultural Heritage); ESS10 (Stakeholder Engagement and Information Disclosure).
+
+Key potential environmental risks and impact include generation of construction and domestic waste, potential for
+hazardous waste from SWM activities, noise and dust pollution from civil works, water and soil contamination, increased
+traffic and associated community safety disruptions, and resource efficiency concerns related to water and energy
+consumption, water pollution, odors and air pollution from decomposing organic matter in dredged materials, health and
+occupational risks; temporary traffic disruptions, and soil and groundwater contamination from leachate if not properly
+managed.
+
+Key potential social risks and impacts include: informal recycling (waste pickers, which may include highly vulnerable
+individuals in extreme poverty), as a result of the potential changes to the existing landfill operations, as well as of those
+involved in informal commerce in areas targeted for infrastructure development; (ii) risk of increased tensions and
+conflicts, particularly as part of the land tenure certification process; (iii) community health and safety risks, including
+those associated with the expected occurrence of labor Influx , which can strain local resources, increase competition for
+jobs, cause construction accidents for the surrounding population, increase traffic, and potentially lead to increased levels
+of Sexual Exploitation and Abuse (SEA) and Harassment (SH) as well; (iv) involuntary resettlement risks, including physical
+and economic displacement, business interruption resulting from the land acquisition expected to be carried out for the
+project’s infrastructure works; (v) risks associated with the downstream social impacts of the new landfill ; (vi) impacts on
+cultural heritage.
+
+Mitigation hierarchy should be applied, prioritizing avoidance of E&S impacts where possible, followed by minimization,
+mitigation, and as a last resort, compensation or offsetting.
+
+The project should continue to use the current GM to capture any grievance during the preparation of the project. The
+The project will be part of the citizen engagement tools of the project.
+
+The following environmental and social (E&S) documents, proportionate to the project’s anticipated risks, are planned to
+be prepared by the Borrower, consulted upon, and disclosed prior to or by Appraisal:
+• Environmental and Social Commitment Plan (ESCP): This document will outline the legally binding E&S commitments of
+the Borrower, including specific measures and actions to be undertaken to address identified risks and impacts, as well as
+timelines for their implementation.
+• Stakeholder Engagement Plan (SEP): The SEP will detail the strategy for engaging with project-affected parties and other
+interested stakeholders throughout the project lifecycle, including mechanisms for information disclosure, consultation,
+and a robust Grievance Mechanism (GM).
+• Environmental and Social Management Framework (ESMF): As specific sites for all interventions are not yet fully defined,
+the ESMF will establish a framework for assessing and managing environmental and social risks and impacts of sub-
+projects, including procedures for screening, assessment, mitigation, and monitoring. This will include specific guidance
+
+
+
+                                                                                                                          Page 8
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+for managing potential impacts related to drainage infrastructure, solid waste management facilities, and land
+regularization activities.
+• Resettlement Policy Framework (RPF): Given the potential for land acquisition and physical or economic displacement
+associated with infrastructure development (e.g., dikes, drainage canals, waste facilities) and land regularization efforts,
+the RPF will set out the principles and procedures for addressing involuntary resettlement, including compensation,
+livelihood restoration, and grievance redress.
+• Environmental and Social Impact Assessment (ESIA) and Environmental and Social Management Plans (ESMPs): The
+rehabilitation of dikes and drainage improvements could have significant impacts on the environment and communities.
+The ESIA helps identify and evaluate these impacts to define appropriate measures to prevent, mitigate, or compensate
+for negative effects, while ensuring the project's sustainability, compliance with ESS under ESF. As part of the ESIA / ESMP,
+a Dredging Management Plan should be prepared to address EHS issues that may arise during dredging works, including
+the temporary storage and final disposal of dredged material/waste. Standalone GBV action plan to be developed before
+civil wors start to address potential for Gender-Based Violence/Sexual Exploitation and Abuse. Contractor-ESMP (C-ESMP)
+must properly address issues related to community health and safety, such as construction-related hazards (noise, dust,
+odors, vibration from machinery and transport, disruption of routes, and safety hazards from construction sites etc.),
+increased traffic and road safety concerns, impacts from hazardous materials during transport, storage, handling and
+disposal.
+
+Key measures and timelines from these documents will be consolidated and legally committed to in the Environmental
+and Social Commitment Plan (ESCP).
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Gael Fetraniaina Raserijaona
+   Senior Urban Specialist
+
+   Jennifer Beth Lisher
+   Senior Land Administration Specialist
+
+   Tahir Akbar
+   Senior Urban Specialist
+
+ Borrower/Client/Recipient
+  Ministry of Economy and Finance
+
+ Implementing Agencies
+
+
+
+
+                                                                                                                         Page 9
+
+
+
+                                                                                                                 Official Use Only
+          The World Bank
+          Second Integrated Urban Development And Resilience Project For Greater Antananarivo(P507944)
+
+
+      Ministry of Water, Sanitation, and Hygiene
+      Kléoni MANDIMBISOA
+      Directeur Général de l'Assainissement et de l'Hygiène
+      mkleoni@yahoo.fr
+
+      Ministry of Decentralization and Planning
+      Miangaly RABODOMALALA
+      Directeur Général de l'Aménagement du Territoire
+      dgat.mdat@gmail.com
+
+     FOR MORE INFORMATION CONTACT
+
+    The World Bank
+    1818 H Street, NW
+    Washington, D.C. 20433
+    Telephone: (202) 473-1000
+    Web: http://www.worldbank.org/projects
+
+    @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+    APPROVAL
+
+
+    Task Team Leader(s):                      Gael Fetraniaina Raserijaona, Jennifer Beth Lisher, Tahir Akbar
+
+    Approved By
+
+    Practice Manager/Manager:                 Catalina Marulanda                      01-Jul-2025
+
+    Country Director:                         Fily Sissoko                            25-Jul-2025
+
+
+
+
+i
+    16-40 billion MGA
+
+
+
+
+                                                                                                                       Page 10
+
+
+
+                                                                                                                Official Use Only
+

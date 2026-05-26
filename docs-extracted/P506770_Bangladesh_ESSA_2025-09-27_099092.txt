@@ -1,0 +1,2034 @@
+Public Disclosure Authorized
+                               P506770 - DRAFT
+                               ENVIRONMENTAL AND SOCIAL
+                               SYSTEMS ASSESSMENT (ESSA) -
+
+
+Public Disclosure Authorized
+                               METRO DHAKA WATER SECURITY
+                               AND RESILIENCE PROGRAM
+                               P506770
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                         Environment and Social Systems Assessment (ESSA)
+                                                                   Draft | September 2026
+
+
+                                                                                       Official Use Only
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+Table of Contents
+UNDER DEVELOPMENT
+
+
+
+
+Draft ESSA                                  1                        9/26/2025
+Table of Abbreviations
+UNDER DEVELOPMENT
+
+
+
+
+                         Official Use Only
+List of Annexures
+UNDER DEVELOPMENT
+
+
+
+
+                    Official Use Only
+Executive Summary (AI Generated - Will be finalized in final ESSA)
+Program Context and Objectives
+
+Bangladesh has abundant water resources, yet Metro Dhaka—among the world’s most densely
+populated megacities—faces severe water insecurity. Problems include untreated sewage and
+industrial effluents, weak solid waste management, canal encroachment, drainage congestion,
+and recurrent flooding, all worsened by climate change. Institutional weaknesses—fragmented
+mandates, poor coordination, and limited technical capacity—exacerbate service delivery gaps.
+
+The Government of Bangladesh (GoB) has launched the Blue Network Program (2025–2040) to
+restore rivers, canals, and drainage systems. As the first phase, the World Bank is supporting
+the DWATER Program (FY26–31) through a hybrid operation:
+
+   •   PforR (US$550m): focusing on sanitation, solid waste, drainage, and canal rehabilitation
+       in DNCC, DSCC, NCC, and DWASA.
+   •   IPF TA (US$50m): strengthening institutions, policies, and systems, including dredged
+       material/sludge management and management frameworks for non-title holders
+       (NTHs).
+
+PDO: Strengthen institutions for water security and improve sanitation, solid waste, and
+drainage services in Metro Dhaka.
+
+Key Result Areas:
+       1. Improved sanitation & fecal sludge management
+       2. Strengthened solid waste systems
+       3. Restored drainage & canal systems
+       4. Enhanced institutional and regulatory capacity
+
+
+Institutional Arrangements
+
+The Local Government Division (LGD) and the Ministry of Water Resources (MoWR) will co-lead
+the program.
+
+Implementing Agencies (IAs): DNCC, DSCC, NCC, and DWASA (for PforR); BWDB and DoE (for IPF
+TA).
+
+Structures:
+    • Program Steering Committee – oversight
+    • Program Coordination Unit (PCU) – coordination
+
+
+
+
+                                                                                            Official Use Only
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   PIUs in each IA with E&S staff
+    •   Independent Verification Agent (IVA)
+    •   Program Operations Manual (POM) codifying processes and compliance
+
+Capacity gaps: While LGD has Bank experience, DNCC, DSCC, and NCC lack institutionalized E&S
+systems. DWASA’s E&S capacity is project-based, not permanent. BWDB and DoE face resource
+shortages, limiting enforcement.
+
+Environmental and Social Risks
+
+Environmental Risks:
+   • Canal dredging & cleaning: Release of heavy metals/pathogens; unsafe disposal risks
+       contamination
+   • Sanitation & fecal sludge: Pathogen exposure, odors, unsafe reuse.
+   • Solid waste management: Leachate, dust, fires, worker safety.
+   • Construction risks: Dust, noise, runoff, hazardous waste, traffic.
+   • OHS/CHS risks: Worker injuries, unsafe excavation, community exposure.
+   • Climate risks: Monsoon floods may spread pollutants.
+
+Social Risks:
+   • Resettlement of NTHs and informal occupiers; ARIPA 2017 excludes them
+   • Risk of conflict from forced evictions.
+   • Weak grievance mechanisms and stakeholder engagement.
+   • SEA/SH risks from labor influx and urban construction.
+
+
+Environmental & Social Benefits
+
+Despite risks, the Program offers transformative opportunities:
+   • Reduced flooding & cleaner canals.
+   • Pollution reduction from sanitation and waste improvements.
+   • Safe reuse of dredged materials/sludge.
+   • Community co-management of water bodies.
+   • Institutional strengthening with ESUs and ESMSs.
+   • Greater climate resilience.
+   • Improved health and livability, especially for vulnerable populations.
+
+Borrower Systems and Gaps
+
+Bangladesh has a comprehensive E&S legal framework (ECA 1995, Water Act 2013, Solid Waste
+Rules 2021, Labor Act 2006, ARIPA 2017), but enforcement is weak.
+
+
+
+
+Draft ESSA                                    1                                     9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+Key gaps:
+   • No SOPs for dredged material/sludge management.
+   • ARIPA excludes NTHs/IOs and lacks livelihood restoration.
+   • Weak OHS/CHS enforcement.
+   • Limited stakeholder engagement and grievance redress.
+   • Fragmented institutional capacity; absence of permanent E&S units.
+
+ESSA Recommendations
+Strategy:
+    • Build community ownership of water bodies.
+    • Strengthen risk management via robust policies and institutions.
+
+Program Action Plans (PAPs):
+   • Policy for NTHs/IOs.
+   • Policy on dredged material/sludge management.
+   • Dedicated ESUs in DNCC, DSCC, NCC, DWASA.
+   • Develop ESMSs.
+   • Integrate ESMSs into planning/procurement.
+   • Community co-management for canals/drains
+   • Monitoring systems for dredged material/sludge.
+
+IPF-TA Support: Interim E&S staffing, ESMS tools, sludge reuse pilots, OHS/labor/SEA-SH
+training, and a tailored multi-tier GRM.
+
+Conclusion
+
+While Metro Dhaka’s E&S risks are high—especially canal dredging and resettlement—these
+can be managed through PAPs, DLIs, and IPF TA. With institutional reforms, community
+engagement, and policies for NTHs and sludge, the Program can deliver lasting environmental,
+social, and public health benefits while laying the foundation for future phases.
+
+
+
+
+Draft ESSA                                    2                                       9/26/2025
+1.       PROGRAM DESCRIPTION
+1.1 Introduction
+
+Bangladesh is endowed with substantial water resources, with a network of more than 430 rivers
+and canals that provide freshwater for drinking, agriculture, industries, fisheries, and other
+economic sectors. However, rapid urbanization and economic transformation have sharply
+increased water demand across residential, industrial, and agricultural sectors. Dhaka, the capital
+city and one of the world’s most densely populated megacities, faces acute water security
+challenges. Severe pollution, poor sanitation coverage, weak solid waste management, drainage
+congestion, and recurring flooding threaten public health, environmental sustainability, and the
+livability of Metro Dhaka.
+
+
+
+Urban settlements and industrial clusters in and around Dhaka discharge untreated sewage and
+effluents, including hazardous chemicals and heavy metals, into rivers and canals. This has led to
+sedimentation, encroachment, reduced flow capacity, and impaired navigability, causing massive
+pollution and ecosystem degradation. Inadequate coverage and poor quality of water supply and
+sanitation (WSS) services in Metro Dhaka are adversely affecting water security and livability1.
+Inadequate sanitation services are both a major contributor to this pollution and increasingly at
+risk from it. Dhaka city’s sewerage system covers only about 20 percent of the population, with
+an additional small fraction served by fecal sludge management systems; coverage in adjacent
+cities such as Narayanganj is even lower. Solid waste collection and treatment services remain
+inadequate, resulting in indiscriminate dumping that blocks drainage and worsens flooding risks.
+These challenges are compounded by climate change impacts, including more intense rainfall
+and flooding, placing further stress on already fragile systems.
+
+
+
+Institutional and governance challenges exacerbate these service delivery gaps. Overlapping
+mandates, fragmented responsibilities, and weak inter-institutional coordination at both
+national and local levels hinder integrated planning and enforcement. City corporations and
+utilities face severe human resource constraints, limited technical expertise, and weak
+monitoring and asset management systems. Regulatory enforcement remains weak due to
+limited capacity of the Department of Environment and other agencies to monitor industrial
+
+
+
+1 Safely managed water supply and sanitation service coverage in Bangladesh stands at 54% and 29% respectively.
+
+
+
+
+                                                                                                                  Official Use Only
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+pollution, enforce punitive measures, and prevent encroachments in wetlands and river
+corridors.
+
+
+
+Addressing these complex, interlinked challenges requires a multi-sectoral, phased approach that
+combines governance reforms, institutional development, and infrastructure investments. Such
+an approach must: (i) improve water supply, sanitation, and solid waste management service
+delivery while reducing pollution and flood risks; (ii) strengthen policy and regulatory frameworks
+to enforce standards and address encroachment; (iii) enhance institutional capacity for
+integrated urban water management; and (iv) build financial sustainability, including private
+capital mobilization.
+
+
+
+The Government of Bangladesh (GoB) has prioritized the Blue Network Program to restore and
+secure Dhaka’s rivers, canals, and drainage channels as an integrated system for flood control,
+sanitation, and water security. Within this broader framework, the World Bank is supporting the
+Metro Dhaka Water Security and Resilience Program (DWATER) through a Program-for-Results
+(PforR) operation focused on sanitation, solid waste management, drainage, and canal
+rehabilitation in Dhaka North, Dhaka South, and Narayanganj City Corporations and DWASA,
+alongside an IPF Technical Assistance component to strengthen institutional systems, develop
+policies, and prepare investments. Development partners including ADB, AIIB, AFD, and EKN have
+expressed interest in complementary support and potential co-financing in future phases.
+
+
+
+This ESSA has been undertaken in line with World Bank PforR policy requirements2. The ESSA
+reviews government policies, acts, and institutional capacity of the Local Government Division
+(LGD), DNCC, DSCC, NCC, DWASA, and supporting agencies (BWDB and DoE through IPF) under
+the Ministry of Water Resources (MoWR) to manage Environmental and Social (E&S) risks and
+impacts of the Program. It identifies strengths and weaknesses of existing systems, highlights
+gaps in legal and institutional frameworks, and proposes measures to strengthen E&S risk
+management through the Program Action Plan (PAP) and Disbursement-Linked Indicators (DLIs).
+The ESSA is informed by document review, institutional assessments, and consultations with
+stakeholders, and is structured around the six core principles of the PforR policy.
+
+
+
+
+2 World Bank Guidance on Program for Results Financing Environmental and Social Systems Assessment (Annex-C)
+
+
+
+
+Draft ESSA                                               1                                                9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+1.2 Brief description, geographical scope, duration, and objectives of
+    the Program
+
+The DWATER Program is a priority operation under the GoB’s Blue Network Program, designed
+to restore the functionality of rivers, canals, and drainage systems to improve water security,
+reduce pollution, and build resilience against flooding. The Program combines a PforR
+operation (US$550 million) focused on service delivery outcomes with an IPF Technical
+Assistance component (US$50 million) that supports institutional reforms, policy frameworks,
+and preparatory activities.
+
+
+
+The geographic scope of the World Bank financed Program is limited to the jurisdictions of
+Dhaka North City Corporation (DNCC), Dhaka South City Corporation (DSCC), Narayanganj City
+Corporation (NCC), and the Dhaka Water Supply and Sewerage Authority (DWASA). These
+areas, covering approximately 360 square kilometers, represent the core of the metropolitan
+region most severely affected by waterlogging, flooding, untreated wastewater, and
+unmanaged solid waste. Under the IPF TA, support will also be extended to the Bangladesh
+Water Development Board (BWDB) and the Department of Environment (DoE) for river
+restoration master planning, sediment/dredged material management, and pollution
+monitoring and enforcement. The overall Program will be coordinated by the Local Government
+Division (LGD) of the Ministry of Local Government, Rural Development, and Cooperatives.
+
+
+The Program Development Objective (PDO) is to strengthen institutions for water security and
+improve sanitation, solid waste, and drainage services in Metro Dhaka. The Program will run for
+six years (FY26–FY31) and will focus on four main result areas:
+    1. Improved sanitation and fecal sludge management – increasing access to safely
+       managed sanitation, expanding fecal sludge collection and treatment, and reducing
+       untreated discharges.
+    2. Strengthened solid waste management systems – expanding waste collection and
+       disposal coverage, reducing indiscriminate dumping, and piloting resource recovery and
+       recycling.
+    3. Restored drainage and canal systems – cleaning, rehabilitating, and protecting major
+       drainage canals to improve flood resilience and reduce waterlogging.
+    4. Enhanced institutional and regulatory capacity – developing and operationalizing
+       frameworks for dredged material and sludge management, policies for non-title holders
+
+
+
+
+Draft ESSA                                     2                                       9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+        and informal occupiers, improved pollution monitoring systems, and financial
+        sustainability mechanisms including water bonds.
+The PDO-level results indicators include:
+    •   People provided with safely managed drinking water supply and sanitation services, of
+        which percentage women.
+    •   Amount of wastewater and fecal sludge collected and treated in compliance with
+        regulatory standards.
+    •   Beneficiaries with enhanced resilience to flood risks, of which percentage women.
+    •   Water quality monitoring system established and operational for pollution management.
+
+
+The World Bank ESSA team undertook field visits during February–April 2025 to review current
+practices and challenges across DNCC, DSCC, NCC, and DWASA, including interactions with
+stakeholders and affected communities. Findings from these visits informed the risk assessment
+and recommendations in this ESSA.
+
+
+1.3 Identification of Boundaries between the Government Program
+    and the World Bank-Financed Program
+
+The Government of Bangladesh’s Blue Network Program (interchangeably referred to as ‘the
+Government’s Program’ or the small ‘p’ throughout this document) represents a long-term,
+multi-phase initiative (2025-2040) to restore the rivers and canals around Dhaka in order to
+improve livability, resilience, public health, and economic sustainability. The World Bank–
+financed DWATER Program (interchangeably referred to as ‘the Bank’s Program’, or ‘the PforR
+Program’ or the big ‘P’ throughout this document) constitutes the first phase of this broader
+government program, supported through a hybrid PforR and IPF operation.
+
+
+While the overall objectives of the Government’s Program and the Bank’s Program are aligned,
+there are important differences in duration, geographic scope, and thematic coverage. The Blue
+Network is designed as a 15-year program covering the entire metropolitan area of Dhaka
+including Dhaka city, Narayanganj, Gazipur, Savar, Keraniganj, and Purbachal with an estimated
+total investment need of about US$ 8.5 billion. By contrast, the PforR Program will run for six
+years (FY26-FY31) and focus on three priority hotspots - Dhaka city, Narayanganj, and Gazipur,
+which were identified in the Dhaka Rivers UIP TA and confirmed through GoB and World Bank
+dialogue as areas with the highest population density, pollution loads, service delivery gaps, and
+exposure to flood risks. The remaining metropolitan areas (Savar, Keraniganj, and Purbachal) will
+be supported in subsequent phases of the Blue Network Program with additional financing
+expected from the Government, the World Bank, and other development partners (ADB, AIIB,
+AFD, EKN, and others).
+
+
+Draft ESSA                                      3                                       9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+Thematically, the Blue Network Program focuses on two overarching goals – (a) reducing
+pollution in rivers and canals and (b) improving water flows and restoring ecological quality. The
+PforR Program contributes to these goals while expanding the scope to include interlinked urban
+water security challenges such as safe sanitation and fecal sludge management, solid waste
+collection and treatment, and stormwater drainage and canal rehabilitation. In this way, the
+PforR not only contributes directly to reducing river pollution and enhancing flood resilience but
+also strengthens service delivery systems and governance structures critical to sustaining long-
+term outcomes.
+
+
+In terms of financing, the Blue Network’s first phase requires approximately US$ 1 billion, while
+the World Bank Program mobilizes US$ 600 million (US$ 550 million PforR and US$ 50 million IPF
+TA). This financing will be complemented by GoB budget allocations and is expected to be scaled
+up through co-financing and parallel financing by development partners, as well as private sector
+participation, particularly through the piloting of innovative financing mechanisms such as water
+bonds under the IPF TA.
+
+
+In summary, the World Bank Program represents a strategically focused subset of the larger Blue
+Network Program covering high-risk areas, piloting institutional reforms, and strengthening
+governance and service delivery systems, while laying the groundwork for scaling to the wider
+metropolitan area in future phases.
+
+
+1.4 Institutional Arrangements for Program Implementation
+
+The Metro Dhaka Water Security and Resilience Program (DWATER) will be co-led and managed
+by the Local Government Division (LGD) of the Ministry of Local Government, Rural
+Development and Cooperatives (MoLGRDC), and the Ministry of Water Resources (MoWR).
+
+
+The four primary implementing agencies (IAs) for the PforR operation are:
+    •   Dhaka North City Corporation (DNCC)
+    •   Dhaka South City Corporation (DSCC)
+    •   Narayanganj City Corporation (NCC), and
+    •   Dhaka Water Supply and Sewerage Authority (DWASA)
+
+
+
+
+Draft ESSA                                      4                                       9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+Under the IPF Technical Assistance component, support will also be provided to the Bangladesh
+Water Development Board (BWDB) and the Department of Environment (DoE) for activities
+related to river restoration master planning, sediment and dredged material management, and
+pollution monitoring and enforcement. In addition, the Bangladesh Bank will be engaged to pilot
+innovative water bond financing mechanisms in collaboration with partner financial
+intermediaries.
+
+
+To ensure effective oversight, coordination, and accountability, the following institutional
+arrangements will be established:
+    •   Program Steering Committee (PSC): Chaired jointly by the Secretaries of LGD and MoWR,
+        with membership including the heads of all IAs and key agencies. The PSC will meet
+        quarterly to review progress, resolve implementation bottlenecks, and monitor results.
+    •   Program Coordination Unit (PCU): A dedicated PCU will be established in LGD to oversee
+        overall program management, reporting, and coordination across IAs. The PCU will be led
+        by a National Program Director (NPD) and staffed with technical, environment, social, FM,
+        procurement, and M&E experts. Incremental operating costs and Program Management
+        Consultants (PMC) will be financed under the IPF component.
+    •   Program Implementation Units (PIUs): Each IA (DNCC, DSCC, NCC, DWASA, BWDB, DoE)
+        will establish a PIU, staffed with a core group of technical experts and supported by
+        consultancy teams. These PIUs will be responsible for day-to-day implementation,
+        procurement, financial management, and E&S risk management of their respective
+        components. IPF resources will finance additional technical consultancy services to
+        strengthen PIU capacity.
+    •   Independent Verification Agent (IVA): An IVA will be engaged under the IPF TA to verify
+        achievement of DLIs and related results, ensuring transparency and accountability.
+    •   Program Operations Manual (POM): A POM will be prepared by appraisal. It will specify
+        (i) the activities and timetable of actions under the Program; (ii) detailed roles and
+        responsibilities of all IAs; (iii) procurement, FM, and M&E arrangements; (iv) verification
+        protocols for DLIs/DLRs; (v) anti-corruption measures; and (vi) environmental and social
+        compliance requirements, including screening procedures, exclusion lists, and monitoring
+        frameworks. The POM will be publicly disclosed on the GoB’s website.
+
+
+Through these arrangements, the Program aims to establish robust systems that integrate
+environmental, social, technical, and fiduciary functions across multiple agencies, while creating
+permanent capacity in the city corporations and DWASA to manage E&S risks effectively beyond
+the Program period.
+
+
+
+
+Draft ESSA                                       5                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+1.5 Borrower’s Previous Experience with Program Implementation
+
+Bangladesh has a long history of implementing large infrastructure and service delivery programs
+with support from development partners, including the World Bank. The LGD has managed
+successive local governance and service delivery projects, including Bank financed operations,
+and has prior experience adopting project based Environmental and Social Management
+Frameworks (ESMFs) under safeguard policies. LGD has also demonstrated capacity in program
+coordination, fiduciary management, and working with bilateral and multilateral agencies such
+as JICA, ADB, and AIIB.
+
+
+However, the primary implementing agencies under this Program i.e., DNCC, DSCC, NCC, and
+DWASA have only limited prior experience in implementing Bank financed projects under the
+Environmental and Social Framework (ESF). DNCC and DSCC have implemented small-scale Bank
+engagements in the past, primarily under older safeguard policies, with little institutionalization
+of environmental and social systems. NCC has no prior Bank project experience, making its
+institutional capacity for ESF compliance especially weak. DWASA has experience managing
+large-scale infrastructure projects, including with World Bank financing, but its environmental
+and social capacity relies heavily on staff deputed temporarily from other Bank projects rather
+than permanent in-house units.
+
+
+Supporting agencies under the IPF TA also have capacity gaps. BWDB has implemented large,
+Bank-financed water management projects and has some experience with environmental
+assessments, but its systems for dredged material management and resettlement remain weak.
+The Department of Environment (DoE) is the national regulatory authority for pollution control
+and environmental compliance but suffers from chronic staffing and resource shortages, limiting
+its capacity for real-time monitoring, enforcement, and oversight of urban pollution
+management. Bangladesh Bank has experience with green finance instruments but has not yet
+operationalized environmental and social risk management systems for financial intermediaries
+in line with ESS9.
+
+
+Across all IAs, common weaknesses include the absence of dedicated E&S units, inadequate
+staffing, lack of systematic screening and monitoring procedures, and limited contractor
+oversight. None of the city corporations allocate dedicated annual budgets for E&S risk
+management. These limitations highlight the need for capacity strengthening, onboarding of E&S
+specialists, development of Environmental and Social Management Systems (ESMSs), and
+establishment of monitoring and reporting protocols.
+
+
+
+
+Draft ESSA                                      6                                        9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+The IPF TA component has been explicitly designed to address these institutional weaknesses,
+including interim staffing support, ESMS development, preparation of national policies on
+dredged material/sludge management and non-title holders (NTHs), and training programs on
+OHS, labor management, stakeholder engagement, and SEA/SH risk mitigation. These
+interventions will enable the implementing agencies to progressively build capacity to meet ESF
+requirements and improve environmental and social compliance across the Program period.
+
+
+
+
+Draft ESSA                                    7                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+2 DESCRIPTION OF EXPECTED PROGRAM
+  ENVIRONMENTAL AND SOCIAL EFFECTS
+The program aims to deliver significant environmental and social improvements in Metro Dhaka,
+such as cleaner canals, improved drainage, better waste management, and safer sanitation.
+However, these activities carry substantial E&S risks, especially due to the dense urban setting.
+Environmental risks include contamination from dredged sediments, unsafe disposal, air and
+noise pollution, and health hazards for workers and communities. Social risks stem from
+involuntary resettlement and adverse impacts on non-title holders and informal occupiers, with
+the potential for social conflict and unrest if not managed responsibly.
+
+
+The program’s success depends on robust institutional arrangements, capacity building, and
+effective implementation of mitigation measures, such as sediment testing, safe transport and
+disposal, community ownership and engagement, and strengthened E&S policy and management
+frameworks.
+
+
+Despite these risks, the program offers major opportunities: restoring drainage capacity to
+reduce flooding, improving water quality, enabling safe reuse of dredged materials and sludge,
+and building institutional capacity for long-term urban resilience. The ESSA maps these risks and
+mitigation measures against the World Bank’s six PforR core principles, emphasizing that without
+proper management, risks could overwhelm implementing agencies, but with strategic design
+and reforms, the program can deliver lasting environmental and social benefits for Dhaka
+
+
+2.1 Key Environmental & Social (E&S) Risks of the Program
+
+2.1.1 Summary of Environmental Risks
+
+The most material environmental risks arise from the dredging and cleaning of canals in DNCC
+and DSCC. Activities related to this would involve excavation and handling of large volumes of
+polluted sediments and mixed solid waste in the middle of densely populated neighborhoods. If
+these sediments are not properly tested, dewatered, stored, transported, and disposed of or
+reused under safe conditions, they can create secondary contamination of soil and water, as well
+as odor, dust, and vector problems for nearby communities.
+
+Sanitation and fecal sludge management activities carry risks of pathogen exposure, odor
+nuisance, and unsafe sludge reuse, while solid waste management interventions may result in
+dust, leachate pollution, and worker safety concerns if mechanized systems are poorly operated.
+
+
+Draft ESSA                                     8                                        9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+More general construction phase impacts include air and noise pollution, drainage blockages
+from debris, hazardous construction wastes, and traffic congestion. Across all activities,
+occupational and community health and safety (OHS/CHS) risks are substantial, especially for
+workers handling contaminated materials and for communities exposed to unsecured
+construction sites, heavy traffic, and unsafe waste storage.
+
+While biodiversity impacts are expected to be limited given the highly urbanized setting, canal
+corridors do provide aquatic habitat and ecological functions that could be disrupted if dredging
+is carried out during sensitive spawning seasons. There is also a potential for chance finds of
+cultural heritage objects during excavation, as well as temporary access issues for nearby
+religious and cultural sites. Dhaka’s monsoon climate adds another layer of risk, since heavy rains
+could cause dredged materials to overflow from temporary sites or wash pollutants back into
+canals, while simultaneous work on multiple canals could strain disposal and traffic systems.
+
+The following outlines the key risks with explanations of how and why they matter:
+
+Canal dredging and cleaning (DNCC and DSCC) - One of the core program activities is to dredge
+and clean the clogged canals in Dhaka North and South City Corporations. These canals have
+accumulated layers of polluted sediments mixed with household and industrial waste.
+    • Stirring up contaminated sediments. When dredging machines disturb the canal bed, fine
+       particles get suspended in the water, making it murky and sometimes releasing dangerous
+       substances such as heavy metals, oils, and bacteria back into the water. This can affect
+       water quality and aquatic life.
+    • Handling and drying dredged materials. The mud and waste pulled out of canals must be
+       dried and stored temporarily. If this material is simply piled up without proper lining or
+       covering, rainwater can wash pollutants into the soil or back into the canal. Dried
+       sediments can also create dust, bad odor, and attract flies and rodents.
+    • Transport and disposal. Moving dredged materials by trucks creates its own risks: spills
+       onto roads, dust blowing from uncovered loads, and traffic safety problems. If these
+       materials are dumped indiscriminately, they can contaminate land, reduce soil fertility,
+       and spread harmful substances into communities.
+    • Fuel and chemical use. The dredging machines use large amounts of fuel and sometimes
+       chemicals for sediment treatment. Poor storage or handling could cause spills, fires, or
+       exposure to workers and nearby residents.
+These risks mean that dredged materials must be properly tested, stored, transported, and either
+treated or reused (e.g., for land filling, construction sub-base) in safe ways.
+
+Sanitation and fecal sludge management (FSM) - The Program also supports expansion of
+sanitation facilities and better management of fecal sludge.
+   • Spillage of untreated sewage. During construction of pipelines or transfer of sludge, leaks
+        and spills could expose workers and communities to harmful pathogens.
+
+
+
+Draft ESSA                                      9                                        9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   Odor and nuisance. Poorly managed small treatment plants or drying beds can create
+        strong odors, attract flies and mosquitoes, and lower the quality of life for nearby
+        households.
+    •   Sludge by-products. If sludge is not treated properly before being reused (e.g., for
+        composting) or disposed of, it can contaminate land and water sources.
+
+Solid waste management - Another focus is improving solid waste transfer stations and recycling
+facilities and replacing manual waste pickers with mechanical equipment.
+    • Air, dust, and leachate. Waste handling sites can generate dust, bad smells, and dirty
+         runoff water (leachate), which if not captured and treated, can pollute nearby drains and
+         canals.
+
+Worker safety - Mechanical compactors, conveyors, and loaders pose risks such as
+entanglement, crushing, or heat stress for workers if safety protocols are weak.
+
+Fire hazards - Piles of mixed waste, especially those containing batteries or flammable materials,
+can easily catch fire.
+
+Construction related risks - Across all program components, civil works will involve:
+   • Air and noise pollution from trucks, excavators, and demolition.
+   • Traffic congestion and access problems when roads are cut or materials are stockpiled on
+       streets.
+   • Runoff pollution when rain washes construction debris or chemicals into drains.
+   • Waste generation from construction sites, including concrete washout, paints, oils, and
+       hazardous materials that must be carefully separated.
+
+Health and safety risks - Both workers and surrounding communities face potential hazards.
+For workers, risks include cave-ins during excavation, injuries from heavy machinery, chemical
+exposure, and accidents caused by poor equipment maintenance or inadequate protective gear.
+For communities, risks include open trenches, unsafe detours, noise, dust, and possible contact
+with contaminated dredged materials if sites are not properly fenced and secured.
+
+Impacts on biodiversity and cultural property - Although the works are located in heavily
+urbanized areas, canals are still habitats for small number of fishes, animals and aquatic
+organisms. Dredging at the wrong time of year could disturb spawning. There is also a small
+chance of finding buried cultural artifacts (“chance finds”) during excavation. Temporary access
+restrictions to mosques, temples, or other cultural sites may occur during works.
+
+Climate and cumulative effects - Dhaka’s monsoon climate magnifies the risks. Heavy rains can
+cause dredged materials to overflow from temporary sites or wash pollutants into surrounding
+areas. If several canals are being worked on at the same time, the pressure on disposal sites and
+local traffic will multiply.
+
+
+Draft ESSA                                     10                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+2.1.2 Summary of Social Risks
+
+Dhaka is one of the most densely populated megacities in the world. The city is also the main
+economic engine of the country and attracts hundreds of thousands of migrants from other parts
+of the country who come into the city to pursue a living and, eventually settle down in and around
+the city. Given the (growing) scarcity of land in the Metro Dhaka area, the issue of people
+encroaching and occupying public and private lands is real and a growing concern. Development
+projects in the Metro Dhaka area often face interminable delays and are derailed on account of
+the fact that the country does not have the necessary policy and regulatory framework and
+mechanisms that can deal with the issues of NTHs and IOs in a socially responsible, acceptable
+(in terms of international standards on land acquisition and involuntary resettlement) manner.
+
+The canals, small drains and ponds on and around which activities related to this PforR operation
+will be undertaken have thousands of NTHs and IOs. In case the adverse impacts of project
+activities on these potential PAPs, though temporary, are not addressed effectively, a strong
+public resistance to any intervention is very likely. In case the concerned implementing agencies
+resort to using powers vested upon them by the Government and forcibly evicting such PAPs,
+there is a strong likelihood of widespread unrest and social conflict. Given the socio-political
+headwinds in Bangladesh, such a situation can escalate rapidly leading to incalculable material
+harm to people and properties.
+
+
+2.2 E&S Benefits and Opportunities of the Program
+
+While the Program carries substantial environmental risks if not managed properly, it also offers
+major environmental benefits and opportunities for Metro Dhaka, both in the immediate term
+and in laying the foundation for longer-term improvements in urban water security, public
+health, and resilience. The major E&S benefits and opportunities of the program are:
+
+Cleaner canals and reduced urban flooding
+By dredging and cleaning priority canals in DNCC and DSCC, the Program will help restore their
+drainage capacity, reducing the chronic problem of waterlogging and localized flooding. This will
+not only ease daily hardships for residents but also lower the risk of disease outbreaks linked to
+stagnant water, such as dengue and cholera. Canal rehabilitation also creates an opportunity to
+integrate nature-based solutions (e.g., vegetated banks, riparian buffers), which can improve
+water quality, provide habitat, and enhance urban biodiversity.
+
+
+
+Co-management of urban water bodies involving communities
+
+Draft ESSA                                     11                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+Strategic engagement of communities in the management of canals and water bodies, as
+envisaged under the program, can significantly help build community ownership of the assets
+and aid in their long-term management. Through a system of checks and measures adopted by
+the communities and concerned IAs, future re-encroachments of these assets can also be
+prevented.
+
+
+
+Pollution reduction and improved water quality
+The Program aims to cut pollution loads entering rivers and canals by strengthening solid waste
+management and sanitation systems. Improved fecal sludge collection and treatment and
+expanded access to safely managed sanitation services will significantly reduce the discharge of
+untreated sewage into water bodies. Upgrading waste transfer stations, introducing material
+recovery facilities (MRFs), and reducing open dumping will prevent large amounts of solid waste
+from blocking drains or being dumped directly into canals, thereby improving both water quality
+and public health outcomes.
+
+
+
+Safer handling and potential reuse of dredged materials and sludge
+One of the most transformative opportunities lies in the policy and SOP development for dredged
+material and sludge management, supported by the IPF TA. Currently, these materials are often
+disposed of indiscriminately, creating secondary pollution. Under the Program, technical studies,
+piloting, and demonstration projects can enable safe treatment and beneficial reuse of dredged
+materials (e.g., for land reclamation, engineered fill, or soil improvement) and fecal sludge (e.g.,
+as compost, energy recovery). This not only reduces the burden on landfills but also converts
+waste into a resource, aligning with the principles of circular economy.
+
+
+
+Strengthened institutional systems and regulatory capacity
+The Program will help build the environmental management capacity of DNCC, DSCC, NCC, and
+DWASA, which currently lack strong systems or trained staff. Through the establishment of
+Environmental and Social Units (ESUs), development of Environmental and Social Management
+Systems (ESMS), and integration of E&S requirements into procurement and contract
+management, the Program creates an opportunity to embed long-term institutional reforms. This
+will improve not only the Program’s performance but also the way these agencies handle future
+infrastructure and service delivery projects.
+
+
+
+Draft ESSA                                      12                                        9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+Climate resilience and adaptation
+Metro Dhaka is one of the most climate-vulnerable megacities in the world. By restoring drainage
+canals, improving flood resilience, and reducing pollution, the Program directly supports climate
+adaptation goals. Better waste and sludge management reduces methane and greenhouse gas
+emissions from uncontrolled dumping, while cleaner waterways and improved stormwater flows
+help the city adapt to more intense monsoon rains and future climate shocks.
+
+
+
+Community health and quality of life improvements
+Finally, the Program will bring tangible improvements to urban livability: cleaner neighborhoods,
+reduced odor and nuisance from waste and sewage, safer work conditions, and less exposure of
+communities to contaminated materials. These improvements will disproportionately benefit the
+poor and vulnerable populations who often live closest to polluted canals and informal
+dumpsites.
+
+
+
+Overall
+In sum, the Program offers a unique opportunity to reverse long-standing trends of urban water
+pollution and flooding in Dhaka. By combining physical investments (canal cleaning, drainage,
+sanitation, waste management) with policy reform, institutional strengthening, and piloting of
+innovative solutions for dredged material and sludge reuse, it has the potential to deliver long-
+lasting environmental and public health gains while contributing to climate resilience and
+sustainable urban development.
+
+
+
+2.3 Mapping of E&S Risks to PforR Core Principles
+
+The ESSA assessed the PforR program design against the six core principles outlined in the
+Bank’s Guidance for PforR financing and found that:
+
+    •   The program’s E&S risks pertain to all six core principles
+    •   Without proper mitigation measures (i.e. in an as-is, or no-program case) it will be very
+        difficult for the IAs to manage the program’s E&S risks
+    •   The PforR program design strategically embeds measures that will strengthen the IAs’
+        overall program (including E&S) management abilities.
+
+
+Draft ESSA                                      13                                       9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   The PforR lays the foundation for significantly strengthening the E&S risks and impact
+        management function within the IAs and, once these take root, will assist the IAs in
+        implementing GoB’s E&S laws and regulations and also filling the gaps therein through
+        adoption of (elements of, if not in their entirety) international standards and Good
+        International Industry Practices (GIIPs)
+
+Annex A of this document contains a summary of the key E&S risks (mapped against the PforR
+Principles for ESSA) of the high and substantial activities that would be undertaken vide this
+PforR operation, highlights the impacts, and provides a high level outline of the type of
+mitigation measures needed to address the risks and impacts.
+
+
+
+
+Draft ESSA                                     14                                      9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+3 ASSESSMENT OF BORROWER’S ENVIRONMENTAL AND
+  SOCIAL MANAGEMENT SYSTEMS
+
+3.1 Description of Borrower’s Environmental and Social Management
+    Systems
+
+This section provides an overview of the Government of Bangladesh’s policy and legal framework
+and assesses their applicability to the Metro Dhaka Water Security and Resilience Program. It
+also considers the capacity of the Ministry of Local Government, Rural Development and
+Cooperatives (MoLGRDC)/Local Government Division (LGD), Dhaka Water Supply and Sewerage
+Authority (DWASA), and the City Corporations (CCs) to apply these laws and procedures in
+practice, with particular attention to the E&S Core Principles for PforR operations. The analysis
+highlights both the strengths and the systemic gaps in the current framework, especially in
+relation to pollution management, dredged material handling, resettlement practices, labor
+management, and grievance redress and sets the stage for identifying actions needed to
+strengthen institutional capacity and close policy gaps. Detailed references to the specific laws
+and regulations relevant to program activities are presented in Annex B.
+
+3.1.1.1 Policy and Legal Framework
+
+Bangladesh has established a wide set of environmental and social (E&S) laws and policies over
+the past three decades that provide the formal foundation for environmental protection,
+pollution control, land acquisition, labor management, and community health and safety. The
+system is anchored in the Environmental Conservation Act (ECA) 1995 and the recently updated
+Environmental Conservation Rules (ECR) 2023, which classify projects by risk, mandate
+Environmental Impact Assessments (EIAs) and Environmental Management Plans (EMPs) for Red-
+category projects, and set sector-specific pollution standards. On the social side, the Acquisition
+and Requisition of Immovable Property Act (ARIPA) 2017 governs compensation for land
+acquisition, while the Bangladesh Labor Act 2006 (amended) and Labor Rules 2015 address
+occupational health, labor rights, and child labor. Complementary rules such as the Solid Waste
+Management Rules 2021, E-Waste Rules 2021, Medical Waste Rules 2008, and the Bangladesh
+Water Act 2013 address specific environmental issues relevant to this Program.
+
+3.1.1.2 Alignment with Program Risks
+
+When measured against the environmental and social risks of the program as identified in Section
+II of this document, the existing legal framework demonstrates both strengths and significant
+gaps. For example:
+
+
+Draft ESSA                                      15                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+    1. Canal dredging and handling of contaminated sediments
+           o Relevant framework: ECA 1995, ECR 2023 (pollution control, waste management),
+              Hazardous Waste Rules, Solid Waste Rules 2021.
+           o Gap: No dedicated legal framework or SOPs for safe excavation, dewatering,
+              transport, storage, treatment, and reuse/disposal of dredged materials and
+              sludge. Existing rules treat these as generic “wastes,” which is inadequate for
+              managing risks of heavy metals, hydrocarbons, pathogens, and odor.
+           o Needed response: A national policy and SOPs for dredged material and sludge
+              management need to be included in the Program’s DLI and IPF TA.
+    2. Wastewater, fecal sludge, and sanitation
+           o Relevant framework: Water Act 2013, ECR 2023 (effluent standards), FSM
+              guidelines (non-binding).
+           o Gap: Weak enforcement of effluent discharge standards; absence of binding
+              national FSM standards for treatment and reuse; no systematic regulatory
+              oversight of small-scale decentralized systems.
+           o Needed response: Stronger FSM regulations, technical standards for reuse
+              products, and capacity in DoE and city corporations to monitor compliance.
+    3. Solid waste management
+           o Relevant framework: Solid Waste Rules 2021, E-Waste Rules 2021, Medical Waste
+              Rules 2008.
+           o Gap: Rules are relatively recent but enforcement capacity is limited. Segregation
+              at source, transfer station management, and safe disposal remain weak in
+              practice.
+           o Needed response: Operational guidelines and performance monitoring systems
+              for waste transfer stations and MRFs need to be integrated into city corporation
+              ESMSs.
+    4. Occupational health and safety (OHS)
+           o Relevant framework: Labor Act 2006, OHS Policy 2013, BNBC 2020.
+           o Gap: OHS provisions exist but are generic and poorly enforced in municipal works.
+              Contractor obligations for PPE, excavation safety, confined space entry, and
+              handling of contaminated wastes are not explicitly required under sectoral rules.
+           o Needed response: Labor Management Procedures (LMPs) and OHS action plans
+              should be embedded in PIU systems, with budget and supervision mechanisms.
+    5. Community health and safety (CHS)
+           o Relevant framework: ECA 1995, Water Act 2013, BNBC 2020, public health
+              regulations.
+           o Gap: Weak integration of CHS risks in clearance processes (traffic management,
+              odor/nuisance, exposure to contaminated sediments). No binding requirements
+              for stakeholder engagement or community information during urban works.
+
+
+
+
+Draft ESSA                                    16                                      9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+             oNeeded response: Adoption of community health and safety protocols (traffic,
+              dust/noise, odor, access management) should be included in contract clauses and
+              monitored through PIUs.
+    6. Resettlement and land acquisition
+          o Relevant framework: ARIPA 2017.
+          o Gap: While ARIPA provides compensation to legal titleholders, it does not
+              adequately address non-title holders (NTHs), informal occupiers (IOs), and
+              livelihood restoration requirements. This is a major risk in canal rehabilitation,
+              where large numbers of NTHs and IOs are present.
+          o Needed response: Development of a policy framework for NTHs and IOs, should
+              be included in the Program’s DLI, and further supported under the Program’s PAP
+              and IPF TA, to complement ARIPA provisions and align with ESS5 principles.
+    7. Stakeholder engagement and grievance redress
+          o Relevant framework: ECR 2023 introduces some provisions for public
+              consultation, but these are limited to large projects requiring EIA. No uniform
+              GRM requirement across sectors.
+          o Gap: Lack of systematic, legally mandated stakeholder engagement and GRM
+              mechanisms across all project types.
+          o Needed response: Establishment of project-level SEPs and GRMs under the
+              Program, with disclosure requirements and third-party monitoring.
+
+As an additional measure, the ESSA mapped Bangladesh’s E&S Framework to World Bank’s ESSs,
+assessed the relevance and identified gaps and weaknesses. This assessment is also important to
+address the E&S risks of the IPF-TA component, activities of which are critical for the successful
+implementation of this PforR operation. The summary of the assessment is furnished in Table A.
+The full list of relevant laws and regulations is provided in Annex X.
+
+Table A: Mapping of Bangladesh E&S Framework to ESSs and Program Relevance
+ Law / Policy / Relevant Relevance             to   DWATER Gaps / Weaknesses
+ Regulation           ESS(s)    Program
+ Environmental        ESS1,     Core       framework      for Focused on project-level
+ Conservation   Act ESS3,       environmental      clearance, EIAs; weak enforcement
+ (1995)           & ESS4        pollution standards, EIA capacity; limited provisions
+ Environmental                  requirements; applies to on                 community
+ Conservation Rules             canal dredging, FSM, SWM, health/safety            and
+ (2023)                         drainage works.               systematic   stakeholder
+                                                              engagement.
+ Bangladesh Water ESS1,         Controls water use and No detailed procedures for
+ Act (2013)           ESS3      pollution; relevant to canal managing contaminated
+                                rehabilitation and sanitation sediments    or     FSM
+                                discharges.                   discharges; enforcement
+                                                              limited.
+
+
+Draft ESSA                                     17                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+ Law / Policy /          Relevant   Relevance      to     DWATER      Gaps / Weaknesses
+ Regulation              ESS(s)     Program
+ Solid      Waste        ESS1,      Regulates waste segregation,      Implementation weak; lack
+ Management Rules        ESS3,      collection, transfer, disposal;   of source segregation and
+ (2021)                  ESS4       relevant to MRFs and canal        monitoring systems.
+                                    waste.
+ E-Waste                 ESS1,      Indirectly relevant where         Enforcement capacity low;
+ Management Rules        ESS3,      mixed waste enters drains or      weak coordination with
+ (2021);    Medical      ESS4       MRFs.                             municipal systems.
+ Waste Rules (2008)
+ Hazardous Waste         ESS1,      Covers handling/disposal of       No explicit coverage of
+ Management              ESS3       hazardous waste; relevant for     dredged material/sludge;
+ provisions     (ECR                contaminated           dredged    procedures unclear for
+ 2023)                              material.                         reuse/disposal.
+ ARIPA (2017)            ESS5       Governs land acquisition and      Provides      compensation
+                                    compensation; applies to          only     to     titleholders;
+                                    canal rehabilitation and          excludes non-title holders
+                                    drainage works requiring          (NTHs); weak on livelihood
+                                    land.                             restoration.
+ Labor Act (2006, ESS2,             Governs labor rights, OHS,        Enforcement inconsistent;
+ amended) & Labor ESS4              child    labor    prohibition;    OHS       standards      not
+ Rules (2015)                       relevant for construction and     systematically applied in
+                                    O&M.                              municipal works.
+ Occupational Health ESS2,          Provides policy guidance on       Not legally binding; poor
+ & Safety Policy ESS4               OHS for workers; relevant for     implementation             at
+ (2013)                             dredging, waste handling,         contractor level.
+                                    FSM.
+ Bangladesh              ESS1,      Provides safety standards for   Implementation capacity
+ National     Building   ESS2,      design/construction of waste    limited;    oversight      of
+ Code (2020)             ESS4       and sanitation facilities.      municipal facilities weak.
+ Biodiversity      Act   ESS6       Protects biodiversity and       Limited integration with
+ (2017);      Wildlife              natural habitats; relevant for  urban     works;       weak
+ Conservation      Act              canals and wetlands.            enforcement in peri-urban
+ (2012)                                                             habitats.
+ Antiquities       Act   ESS8       Protects cultural heritage and Chance finds procedures
+ (1968,      amended                chance finds; relevant for not         mainstreamed        in
+ 1976)                              excavation in canal/drainage municipal contracts.
+                                    works.
+ National Strategy ESS1,            Guides sanitation and FSM Non-binding;                 lacks
+ for Water Supply & ESS3,           systems;      relevant      for enforceable standards for
+ Sanitation (2014); ESS4            decentralized treatment.        FSM operations and sludge
+                                                                    reuse.
+
+
+Draft ESSA                                     18                                         9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+ Law / Policy / Relevant            Relevance        to   DWATER Gaps / Weaknesses
+ Regulation          ESS(s)         Program
+ Draft          FSM
+ Framework
+ Public       Health ESS4           Provides authority to control Outdated and             rarely
+ Ordinance (1944)                   public    health     hazards; applied;                  weak
+                                    relevant for managing CHS enforcement.
+                                    during       dredging/waste
+                                    handling.
+
+3.1.1.3 Overall Assessment
+
+The legal framework of Bangladesh is reasonably comprehensive in coverage but weak in depth
+and enforcement. It provides the backbone for addressing the types of E&S risks identified in the
+Program but lacks the detailed standards, procedures, and institutional arrangements to manage
+them effectively in the urban context of Metro Dhaka. In particular, there are no binding policies,
+laws or SOPs for management of dredged material and sludge and for addressing adverse
+project impacts on NTHs and IOs. Additionally inadequate enforcement of OHS and CHS
+provisions under the applicable laws, and insufficient requirements for stakeholder
+engagement and monitoring are limiting factors for effective program implementation.
+
+Synthesis
+    • Strong coverage: Core environmental clearance (ECA/ECR), waste management rules,
+        land acquisition (ARIPA), labor rights.
+    • Critical gaps: dredged material/sludge management, treatment/reuse standards for FSM,
+        protection of non-title holders, systematic OHS/CHS enforcement, and robust
+        stakeholder engagement/GRMs.
+    • Program response: DLIs, PAPs, and IPF TA explicitly should target these gaps through new
+        policy/SOPs, ESMS development, capacity building, and framework for NTHs. These
+        weaknesses can be addressed through the PforR program by:
+            o Including DLIs and / or PAPs on dredged material/sludge management and NTH
+               policy framework;
+            o Establishing E&S Units (ESUs) in city corporations and DWASA with specialist staff;
+            o Developing agency-specific ESMSs to fill operational gaps; and
+            o Using the IPF TA component to assist in the preparation of national policies, SOPs,
+               and capacity-building measures to strengthen the legal framework over time.
+This alignment will ensure that the Program both complies with existing national laws and
+contributes to closing the identified regulatory and institutional gaps.
+
+3.2 Analysis of Institutional Framework and Capacities
+
+
+Draft ESSA                                      19                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+The institutional arrangements for managing environmental and social (E&S) risks in Bangladesh
+are well established on paper, but implementation capacity remains uneven across agencies,
+particularly at the city corporation and utility levels. The Metro Dhaka Water Security and
+Resilience Program will be implemented primarily through four key agencies - Dhaka North City
+Corporation (DNCC), Dhaka South City Corporation (DSCC), Narayanganj City Corporation (NCC),
+and Dhaka Water Supply and Sewerage Authority (DWASA) with overall program coordination
+led by the Local Government Division (LGD) under the Ministry of Local Government, Rural
+Development and Cooperatives (MoLGRDC). The Ministry of Water Resources (MoWR),
+Bangladesh Water Development Board (BWDB), and Department of Environment (DoE) will
+provide support through the IPF-TA component, but they are not direct implementing agencies
+under the PforR.
+
+
+3.1.2 Institutional Roles and Mandates
+
+3.1.2.1 Central Ministries and Regulators
+
+Ministry of Local Government, Rural Development and Cooperatives (MoLGRDC) – Local
+Government Division (LGD): LGD is the lead coordinating ministry for the Program, overseeing
+city corporations and DWASA. It has experience in implementing Bank-financed projects, mainly
+under traditional safeguards and project-specific ESMFs. However, LGD lacks an embedded E&S
+risk management system and relies heavily on external consultants for compliance. The
+Bangladesh Environmental and Social Overview Assessment (ESOAs) identifies LGD’s challenges
+as weak inter-agency coordination, low enforcement authority over city corporations, and
+limited budgetary allocation for safeguards.
+
+Ministry of Environment, Forest and Climate Change (MoEFCC) and Department of
+Environment (DoE)
+MoEFCC sets national environmental policy, while DoE is the statutory regulator under the
+Environmental Conservation Act 1995 and ECR 2023. DoE issues environmental clearances,
+monitors compliance, and enforces pollution control standards. In practice, however, DoE
+struggles with outdated laboratory facilities, shortage of skilled inspectors, and limited
+enforcement power in urban contexts. As highlighted in the ESOA, enforcement tends to be
+reactive, with insufficient monitoring of industrial effluent, solid waste dumping, and dredged
+material handling directly relevant to the DWATER Program.
+
+Ministry of Water Resources (MoWR), Bangladesh Water Development Board (BWDB), and
+Water Resources Planning Organization (WARPO): MoWR provides policy oversight on water
+resource management. BWDB is responsible for flood control, river training, and embankments,
+while WARPO is mandated for river basin planning and integrated water resources management.
+Although BWDB and WARPO are not implementing agencies for the PforR, they will play
+important roles under the IPF-TA component in developing dredged material and sludge
+
+
+Draft ESSA                                    20                                      9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+management frameworks and supporting river/canal restoration strategies. Both institutions
+face structural challenges, including dependence on donor-driven projects, weak integration with
+local governments, and fragmented planning.
+
+3.1.2.2 Core Implementing Agencies
+
+DNCC, DSCC, and NCC have broad municipal mandates that include solid waste management,
+drainage, canal maintenance, and sanitation. However, none of these agencies currently have
+dedicated E&S units or standardized operating procedures for risk management. Environmental
+functions are usually handled by general engineering or conservancy departments with limited
+technical staff, while social issues are managed through ad hoc arrangements. Budget allocations
+for E&S activities are minimal and largely reactive (e.g., solid waste collection, roadside cleaning).
+
+DWASA is mandated for water supply and sewerage services in Dhaka. While it has some
+exposure to World Bank projects (e.g., Dhaka Sanitation Improvement Project), its dedicated E&S
+staffing is temporary and linked to specific projects. It lacks embedded institutional structures for
+systematic environmental and social risk management.
+
+3.1.2.3 Other Relevant Institutions
+
+Ministry of Labor and Employment (MoLE): Oversees labor laws and occupational health and
+safety regulations. Enforcement remains weak, with limited capacity to monitor OHS in municipal
+projects and informal labor environments.
+
+Ministry of Land (MoL): Manages land acquisition processes under the Acquisition and
+Requisition of Immovable Property Act (ARIPA) 2017. While ARIPA provides procedures for
+compensating titleholders, it does not adequately address non-title holders or informal settlers—
+posing a major gap for canal rehabilitation activities under the Program.
+National Human Rights Commission (NHRC): Provides oversight on rights-based issues, including
+displacement and community grievances, though its role in urban development programs is
+limited in practice.
+Civil Society and NGOs: Active in Dhaka in areas of waste management, water supply advocacy,
+and rights of slum dwellers. While not formally part of the institutional framework, their
+involvement can enhance stakeholder engagement and independent monitoring.
+
+
+3.1.3 Institutional Weaknesses and Gaps
+
+The ESSA and PAD risk assessments highlight several critical weaknesses:
+   • Absence of institutionalized E&S management systems in the city corporations and
+       DWASA; reliance on project-specific consultants rather than permanent staff.
+
+
+
+Draft ESSA                                       21                                         9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   Limited accountability and enforcement mechanisms: contractors are seldom held
+        accountable for environmental pollution, OHS lapses, or community health and safety
+        incidents.
+    •   Weak inter-agency coordination, especially between CCs and DWASA, often leading to
+        fragmented planning and overlapping responsibilities in drainage and sanitation.
+    •   Gaps in social risk management, particularly in addressing land acquisition, involuntary
+        resettlement, and impacts on NTHs and IOs. National frameworks provide limited
+        guidance for compensation or livelihood restoration for informal occupiers, which is a
+        major gap for canal rehabilitation activities.
+    •   Inadequate grievance redress systems: existing citizen complaint mechanisms are
+        fragmented, often not accessible to vulnerable groups, and lack systematic
+        documentation or follow-up.
+    •   Low capacity for monitoring and enforcement of safeguards, with limited field
+        inspections and inadequate reporting formats across IAs.
+
+While Bangladesh’s national regulatory system provides a reasonably comprehensive
+framework, the capacity of DNCC, DSCC, NCC, and DWASA to operationalize this framework
+remains limited. Their lack of institutionalized E&S units, weak inter-agency coordination, and
+limited enforcement practices pose substantial risks to program implementation. However, the
+design of the Metro Dhaka Program explicitly incorporates targeted capacity-building measures,
+dedicated E&S staffing, and system development supported by the IPF-TA component, which if
+effectively implemented can significantly enhance institutional performance and bring the
+program into closer alignment with the PforR Core Principles.
+
+
+3.2 Assessment of Borrower Systems Against PforR Core Principles and
+    Planning Elements
+
+Bangladesh’s policy and legal framework for environmental and social management is reasonably
+comprehensive and, in many respects, aligns with the principles of the World Bank’s Program-
+for-Results (PforR) Financing Policy and Directive. The overarching objectives of the framework
+such as maintaining ecological balance, ensuring environmentally sound development,
+protecting public health, and addressing labor standards are consistent with the PforR Core
+Principles of (i) avoiding, minimizing, or mitigating adverse impacts; (ii) promoting environmental
+and social sustainability in program design; and (iii) supporting informed decision-making on the
+environmental and social effects of development.
+
+The Environmental Conservation Act (ECA) 1995 and the Environmental Conservation Rules (ECR)
+2023 remain the cornerstone of environmental regulation. These instruments provide a
+framework for environmental clearance, including categorization of projects (Green, Yellow,
+Orange, and Red) and requirements for screening and assessment. For example:
+
+
+
+Draft ESSA                                      22                                       9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   Solid waste transfer stations fall under the Yellow category and require environmental
+        clearance.
+    •   Canal dredging and dredged material management is Orange (if under 5 km) and Red (if
+        above 5 km, encouraged to exclude from the PforR, and if included, requires appropriate
+        legal and institutional framework embedded in the core project design).
+    •   Other activities such as sewerage connections, drainage rehabilitation, and network
+        expansion are not explicitly listed in the ECR and therefore typically do not require
+        clearance.
+
+This provides assurance that the Program will only support Yellow and Orange category activities
+under the PforR, with more environmentally intensive Red category investments suggest
+excluding by design, if even included, requires robust legal and institutional framework
+embedded in the core project design. The DoE has, in other multi-subproject programs, issued
+blanket clearances subject to submission of required documents, and a similar approach may be
+adopted here.
+
+The legal framework also incorporates supporting rules such as the Noise Pollution Control Rules
+(2006) and Clean Air Rules (2022), alongside sectoral instruments like the Bangladesh National
+Building Code (2006), the Labour Act (2006, amended 2018), and the Labour Rules (2015).
+Together, these provide a basis for addressing occupational health and safety, pollution
+prevention, and construction-related risks all highly relevant to drainage, solid waste, dredging,
+and sanitation works under the Program.
+
+However, significant gaps and limitations remain when the framework is assessed against the
+PforR Core Principles:
+    • The ECA/ECR regime does not adequately address community health and safety,
+        particularly in dense urban settings where construction and dredging pose high risks.
+    • National laws lack explicit protocols for screening and managing social risks, including
+        resettlement impacts on non-title holders, SEA/SH, and labor influx issues central to the
+        Program’s canal rehabilitation and drainage activities.
+    • While labor standards exist under the Labour Act, enforcement is limited, and coverage
+        of informal workers (who dominate construction and waste management) is weak.
+    • There is no government-wide Environmental and Social Management Framework (ESMF)
+        or set of SOPs applicable to the Program; instead, frameworks developed under donor
+        financed projects (e.g., DWASA, BWDB) remain project-specific and not institutionalized.
+    • Monitoring and enforcement capacity at DoE and line agencies is insufficient, with
+        compliance checks often limited to paperwork rather than robust field inspections.
+Given these limitations, while the existing GoB framework provides a useful foundation, it cannot
+on its own ensure consistent application of the PforR Core Principles across all activities. To close
+these gaps, the Program design includes development of agency-specific Environmental and
+Social Management Systems (ESMSs), standard operating procedures for dredged material and
+sludge management, frameworks for non-title holders, and capacity building for city corporations
+
+
+Draft ESSA                                       23                                        9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+and DWASA. These measures, supported by the IPF-TA, will complement the national framework
+and ensure that localized and program-specific risks are adequately managed.
+
+
+3.3 The Grievance Redress System (GRS)
+
+Bangladesh has a centralized Grievance Redress System (GRS), hosted at www.grs.gov.bd, which
+provides a digital platform for citizens to submit complaints across government institutions. Both
+the Ministry of Local Government, Rural Development and Cooperatives (MoLGRDC)/Local
+Government Division (LGD) and the Ministry of Water Resources (MoWR), along with the four
+implementing agencies (DNCC, DSCC, NCC, and DWASA), are users of this system. However, the
+effectiveness of the GRS at the institutional level remains uneven, with weak capacity for timely
+response, low awareness among communities, and limited accessibility for marginalized groups.
+To ensure the Program meets the PforR Core Principle on accountability and stakeholder
+engagement, a Program-specific Grievance Redress Mechanism (GRM) should be established
+and interlinked with the centralized GRS. This will provide an accessible and transparent forum
+for affected persons to raise concerns, make suggestions, and resolve grievances related to
+program planning, construction activities, environmental and social risks, and service delivery.
+
+
+3.3.1 Program-Level GRM Design
+
+The Program GRM is suggested to be structured in three tiers to reflect the different levels of
+implementation and to allow early resolution of complaints:
+
+    1. Tier One – Field/Ward Level GRC:
+           o Located at the community level, directly accessible to affected persons.
+           o Handles day-to-day grievances related to construction impacts (e.g., dust, noise,
+              temporary access restrictions), OHS lapses, and service disruptions.
+           o Provides quick response within short timelines (7–10 days).
+    2. Tier Two – Project/PIU Level GRC:
+           o Managed at the level of each implementing agency’s Program Implementation
+              Unit (PIU).
+           o Handles complaints not resolved at field level, including more complex issues like
+              land use restrictions, waste disposal, or OHS violations by contractors.
+           o Works closely with E&S focal points to ensure corrective actions are implemented.
+    3. Tier Three – City Corporation/Agency Level GRC:
+           o Chaired at the City Corporation or DWASA level.
+           o Addresses unresolved or escalated grievances, including policy-related issues,
+              compensation disputes, and systemic matters.
+           o Provides oversight of lower-tier GRCs and ensures reporting to LGD/MoWR.
+
+
+
+
+Draft ESSA                                     24                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+Each GRC will include representation from beneficiary stakeholders, including affected
+households, women, minority groups, NGOs working on gender, HR, or SEA/SH, and respected
+community leaders. This inclusive structure ensures that vulnerable groups have representation
+in decision-making forums.
+
+3.3.1.1 Accessibility and Technology Integration
+
+To enhance accessibility, the Program GRM will be linked to both web-based and offline systems:
+    • Online submission through www.grs.gov.bd.
+    • Mobile-based tools including toll-free numbers, SMS hotlines, and mobile apps.
+    • Physical complaint boxes at ward offices and PIU offices.
+    • Standardized grievance forms in Bangla and English to minimize literacy barriers.
+LGD’s E&S Cell, supported by MoWR, will train GRS focal points in each IA on proper recording,
+referral, and disclosure procedures. Reports on grievance handling will be integrated into the
+Program’s monitoring system and linked to DLI/PAP verification.
+
+3.3.1.2 Gender-Based Violence (GBV)/SEA/SH Complaints
+
+Recognizing the possibility of SEA/SH risks in activities covered under the PforR, the Program is
+recommended to establish a GBV-sensitive GRM:
+   • All GBV-related complaints will be handled confidentially, using a survivor-centered
+      approach consistent with World Bank guidelines and the Good Practice Note on GBV.
+   • Survivors will be referred to specialized NGOs contracted by LGD to provide psychosocial
+      support, legal aid, and access to medical and protection services.
+   • Dedicated female focal points will be appointed in each IA, and separate reporting
+      channels will be established for GBV cases.
+
+3.3.1.3 Link to World Bank GRS and Inspection Panel
+
+Affected communities and individuals may also raise complaints directly with the World Bank’s
+corporate GRS (www.worldbank.org/GRS) or the Inspection Panel (www.inspectionpanel.org) if
+they believe harm has occurred or may occur due to noncompliance with Bank policies.
+Complaints may be submitted at any time after concerns have first been raised through the
+Program GRM.
+In summary, while Bangladesh’s centralized GRS provides a useful starting point, it is
+recommended that the Program should establish a multi-tiered, inclusive, and technology-
+enabled GRM tailored to the specific risks of canal dredging, sanitation, and solid waste activities
+in Metro Dhaka. This system will be directly linked with DLIs and PAPs on stakeholder
+engagement, SEA/SH prevention, and institutional strengthening, ensuring that grievances are
+not only addressed but also used as a tool to improve accountability, transparency, and service
+delivery.
+
+
+Draft ESSA                                      25                                        9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+Draft ESSA                                  26                       9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+ 4 Recommendations
+ The recommendations from the environment and social systems assessment of the program
+ and its key stakeholders are based on the key findings from the ESSA exercise.
+
+
+ 4.1 Summary of Findings from the ESSA
+
+ The key findings of the ESSA are summarized below:
+
+  I.   Critical capacity constraints
+
+       The key implementing agencies, especially DNCC, DSCC, NCC and LGD have very weak
+       capacities in managing E&S risks and impacts pertinent to the project. DWASA has one
+       Environment and one Social specialist (on deputation) for the World Bank funded DSIP
+       project. However, these specialists are not a part of DWASA’s regular staff and may or
+       may not be assigned to this PforR program.
+
+II.    Lack of systems, procedures and guidelines for E&S risk management
+
+       Compounding the capacity constraints issue is the fact that none of the IAs have any
+       framework to manage or monitor E&S risks and impacts in a systematic manner.
+
+III.   Gap in policy and regulatory framework
+
+       a) From the social risk perspective, activities related to small canals clean up
+          (rehabilitation and restoration) will have adverse involuntary resettlement impacts on
+          several non-title holders (NTHs) and informal occupiers (IOs) along canal
+          embankments. GoB does not have the necessary policy, laws, rules or regulations
+          consistent with international standards to effectively manage these impacts.
+
+       b) From the perspective of environmental risks, while Bangladesh has adopted several
+          relevant policies and legal instruments, most organizations involved in dredging and
+          sludge handling lack the required institutional frameworks and SOPs required to
+          comply with these laws. Critical gaps remain in terms of clear procedures, technical
+          protocols, trained manpower, budget and dedicated equipment for the safe
+          excavation/dredging, handling, transport, storage, and disposal or beneficial use of
+          dredged materials and sludge. As a result, compliance with the existing regulatory
+          framework is inconsistent and resultant environmental risks are significant.
+
+
+
+
+ Draft ESSA                                     27                                      9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+In the absence of facilitative policy and regulatory frameworks, systems and procedures and
+required capacities for management of E&S risk and impacts of the project, specifically
+interventions required for the rehabilitation and restoration of small canals and drains, the
+agencies of GoB typically resort to – (a) forced evictions of NTHs and IOs, and (b) ad hoc,
+unscientific excavation, handling, storage, transport and disposal of dredged materials and
+sludge.
+
+Both these practices have the potential to significantly exacerbate social conflicts and
+environmental harm. This is especially more serious given the current socio-political headwinds
+faced by Bangladesh. The resultant reputational risks are high both for the Bank and GoB.
+
+
+4.2 Strategy to Address the Findings from the ESSA
+
+The ESSA proposes a two-pronged strategy to address the key findings from the ESSA:
+
+(A) Put communities in the front and center to build ownership and ensure sustainability of
+    possible solutions
+(B) Ensure that E&S risk management of the program is supported by a robust policy
+    framework and required institutional mechanisms
+
+
+To implement this strategy, the ESSA recommends a strategic mix of DLRs, PAP actions and
+technical support under IPF-TA component of the project.
+
+For instance, to address the gap in the national regulatory framework to address adverse
+project impacts on NTHs and IOs, a DLR is proposed for the development, adoption and roll out
+of a robust Environment and Social Management System with Socially Responsible
+Encroachment Management by all the IAs. Linked to this are two critical Program Action Plans
+(PAPs) – (i) the adoption of a program policy for addressing adverse impacts of development
+interventions on NTHs and IOs and (ii) an innovative approach for joint management of canals,
+small drains and other urban water bodies by concerned agencies of GoB and local
+communities.
+
+Another DLR is proposed for the adoption and management of a Robust Management
+Framework for Dredged Material and Sludge to address the upstream and downstream
+challenges related to this issue. Linked to the achievement of this DLR is a PAP that mandates
+the development and adoption of a national policy, guidelines and SOPs on excavation,
+handling, transportation, storage and disposal of dredged materials and sludge.
+
+All these interventions have the potential to be scaled up and implemented at a national level
+using the outcomes from this PforR operation as foundational work and critical pilot testing.
+
+
+Draft ESSA                                     28                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+To further complement the achievement of the DLIs and PAPs, the ESSA recommends a series
+of TA support through the IPF component of the project which will provide GoB and IAs
+required assistance for planning, capacity building and handholding support.
+
+These combined measures are expected to substantially improve the E&S risk management
+capacity of the agencies during the program period and beyond.
+
+
+4.3 Details of E&S Program Action Plans (PAPs) and IPF-TA Support
+
+The DLIs mentioned in the previous section will be complemented and supported through a
+series of proposed PAPs and support activities financed through the IPF-TA component of the
+program.
+
+
+4.3.1 Program Action Plans (PAPs)
+
+The ESSA recommends seven key Program Action Plans (PAPs) outlined in Table B below to
+address the capacity constraints and systems constraints pertinent to effective management of
+E&S risks and impacts of activities, schemes and programs implemented by the IAs (including
+those of this PforR operation). These PAPs strategically complement the DLRs mentioned in
+sub-section AA of the ESSA report. PAP actions 1 and 2 in Table B need to precede actions
+recommended in DLRs 5.3 and 5.3 in the PAD and unless these PAP actions are met, the
+program will not disburse any physical activity around small drains, ponds and canals under the
+program.
+
+Table B: Recommended Program Action Plans (PAPs)
+ PAP    PAP Description                 PAP to be      Completion Measurement        Responsible
+ #                                      completed                                    Entity / Entities
+                                        by
+ 1.     Policy for mitigating adverse   30 June 2027   (1) Copy of approved policy   MoWR and LGD
+        impacts on Non-Title Holders
+        (NTHs) and Informal Occupiers
+        (IOs) settled on the right of
+        ways of water bodies adopted
+        for Blue Network around
+        Dhaka program
+ 2.     Policy Framework for            30 June 2027   (2) Copy of approved policy   MoWR and LGD
+        sustainable management of
+        dredged material and sludge
+        adopted for Blue Network
+        around Dhaka program
+
+
+
+Draft ESSA                                       29                                          9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+ 3.     Establish dedicated E&S units     December         (3) Government Orders for         LGD, DWASA,
+        (ESUs) in DWASA, DNCC, DSCC       2026                 the creation of ESUs          DNCC, DSCC and
+        and NCC                                                within each IA issued.        NCC
+                                                           (4) ESUs in each IA staffed
+                                                               with at least 1
+                                                               environment expert, 1
+                                                               social expert and 1
+                                                               health and safety expert.
+ 4.     Environment and Social            December         (5) Government Orders             LGD, DWASA,
+        Management System (ESMS)          2027                 mandating the                 DNCC, DSCC and
+        developed and adopted in                               development and               NCC
+        DWASA, DNCC, DSCC and NCC                              adoption of ESMS by all
+                                                               IAs ESUs issued.
+                                                           (6) Development and
+                                                               adoption of IA specific
+                                                               ESMFs (including E&S
+                                                               policies, procedures,
+                                                               tools, exclusion lists, key
+                                                               activity specific E&S risk
+                                                               mitigation planning
+                                                               templates, monitoring,
+                                                               supervision & reporting
+                                                               requirements, training
+                                                               and capacity building
+                                                               plans) supported by
+                                                               annual operating
+                                                               budgets created through
+                                                               separate budget heads
+                                                               for each IA
+ 5.     ESMS fully integrated with        June 2028        (7) At least 50% of all           LGD, DWASA,
+        other planning and risk                                activities or schemes of      DNCC, DSCC and
+        management functions (viz.                             each ESU screened for         NCC
+        technical, financial, fiduciary                        E&S risks; E&S risks
+        and procurement) of the IA                             categorized and ESMPs
+                                                               prepared for all RED and
+                                                               ORANGE category
+                                                               projects / activities.
+                                                           (8) ESMPs included in the
+                                                               bid documents for all
+                                                               RED and ORANGE
+                                                               Category projects (as
+                                                               defined by the DoE)
+                                                               implemented by the IAs
+                                                               from 01 January 2028.
+                                                           (9) Licenses, permits and
+                                                               compliance registers for
+                                                               all contracts issued by
+                                                               the IA after 01 January
+
+
+
+Draft ESSA                                            30                                           9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+                                                            2028 maintained and
+                                                            regularly monitored for
+                                                            compliances
+                                                       (10) Contractor’s ESMPs for
+                                                            all RED and ORANGE
+                                                            Category Projects
+                                                            commenced after 01
+                                                            June 2028 monitored on
+                                                            a quarterly basis for
+                                                            compliances
+ 6.     Mechanism for joint           June 2027        (11) Guidelines and byelaws      MoWR, LGD,
+        management of small drains                          for Joint GoB-              DNCC and DSCC
+        and canals developed and                            Community Canal
+        operationalized                                     Management
+                                                            Committees formulated
+                                                            and adopted
+                                                       (12) Joint GoB-Community
+                                                            Canal Management
+                                                            Committees formed for
+                                                            at least 50% of canals
+                                                            and small drains in
+                                                            Metro Dhaka Area
+                                                       (13) Plans for cleaning and
+                                                            management of at least
+                                                            50% of the canals and
+                                                            small drains in Metro
+                                                            Dhaka area managed by
+                                                            Joint GoB-Community
+                                                            Canal Management
+                                                            Committees adopted
+                                                            and works initiated
+ 7.     Institutional capacity and    December         (14) New Drainage Division in    BWDB, DNCC,
+        monitoring systems for        2028                  each IA to have a           DSCC, and NCC
+        dredged material and sludge                         dedicated dredged
+        management established                              material and sludge
+                                                            management cell staffed
+                                                            with at least one
+                                                            environmental engineer,
+                                                            one occupational health
+                                                            & safety officer, and one
+                                                            logistics specialist
+                                                       (15) Environmental
+                                                            monitoring and tracking
+                                                            system (including GIS-
+                                                            based inventory of
+                                                            dredged material
+                                                            disposal/beneficial use
+
+
+
+
+Draft ESSA                                        31                                           9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+                                                         sites) developed and
+                                                         operational
+                                                    (16) Design and construction
+                                                         of at least two
+                                                         environmentally
+                                                         compliant interim
+                                                         containment/storage
+                                                         facilities/sites for
+                                                         dredged
+                                                         materials/sludge
+                                                         completed and
+                                                         functional
+                                                    (17) Annual environmental
+                                                         audits of dredged
+                                                         material and sludge
+                                                         operations initiated and
+                                                         reported to MoWR, LGD
+                                                         and DoE
+
+
+4.3.2 Proposed IPF-TA Activities to Support Implementation of PAPs and DLRs
+
+To support the implementation of the PAP recommendations, the following IPF-TA activities are
+proposed:
+
+1. E&S Institutional Capacity, Strengthening ESMS Development, and Independent
+   Assessments - The TA will support LGD and the IAs (DNCC, DSCC, NCC, DWASA) to
+   strengthen institutional systems and operational practices for environmental and social risk
+   management. This will include: (i) establishing dedicated Environment and Social Units
+   (ESUs) through interim financing of technical experts; (ii) developing and adopting
+   Environmental and Social Management Systems (ESMS) through a consultative process,
+   covering policies, screening tools, SOPs, monitoring templates, and reporting protocols; (iii)
+   integrating ESMS into procurement and contract management to ensure enforceable
+   obligations for contractors; and (iv) preparing sustainable, budgeted organizational
+   frameworks for E&S functions within each IA. The TA will also finance the preparation of
+   ESIAs, ESMPs, and RAPs/LAPs for red- and orange-risk subprojects, and the engagement of
+   third-party monitoring firms to carry out regular compliance checks, environmental audits,
+   and verification of DLI/PAP results. Findings from these activities will feed into annual
+   performance reviews and strengthen the FITES capacity scorecard system.
+
+
+2. Support Implementation of National Policy and SOPs for Dredged Material and Sludge:
+   The TA will assist LGD, DNCC, DSCC, NCC, DWASA, and DoE in implementing the national
+
+
+Draft ESSA                                     32                                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    policy on dredged materials and sludge. TA support will include technical assessments such
+    as sediment characterization, contamination analysis, and evaluation of treatment/disposal
+    technology options; preparation of institutional protocols for inter-agency coordination and
+    licensing; and development of specialized training modules on dredged material and sludge
+    handling. The TA will also support piloting of beneficial reuse options—such as land
+    reclamation, soil improvement, or construction materials—through feasibility studies and
+    demonstration projects, with the aim of scaling up successful practices under the national
+    framework.
+
+
+3. Support Implementation of the National Policy for Non-Title Holders (NTHs) and Informal
+   Occupiers, and Capacity Building for Inclusive Engagement The TA will be focused on
+   supporting LGD, DNCC, DSCC, NCC, and DWASA to implement the national policy for
+   mitigating adverse impacts on non-title holders and informal occupiers affected by canal
+   rehabilitation and drainage works. This will involve (a) aligning the policy with both
+   international standards and national laws; (b) conducting necessary socio-economic
+   surveys, impact assessments and stakeholder consultations; (c) preparing a guidelines,
+   operating mechanisms and budgetary estimates for joint management of canals and small
+   drains (between concerned government entities and community groups). The TA will also
+   support capacity building of concerned stakeholders for joint management of canals, small
+   drains and other urban water bodies through trainings, exposure visits to other countries
+   where such initiatives have been implemented, workshops, seminars, other awareness
+   creation activities and pilot testing of strategy implementation in select canal and small
+   drain stretches.
+
+
+
+
+Draft ESSA                                     33                                      9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+5 Annexes
+
+
+
+
+Draft ESSA                                  34                       9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+5.1 Annex A
+
+ Activity       Key E&S Risks and       Why It Matters    Mitigation /              Relevant
+                Impacts                                   Management Measures       PforR Core
+                                                                                    Principle(s)
+ Canal          Environment               Canals cut      Environment               • CP#1
+ dredging &      • Stirring          up through dense • Sediment testing & • CP#2
+ cleaning            polluted             urban areas;        classification        • CP#3
+ (DNCC, DSCC)        sediments          - unsafe handling • Treated dewatering • CP#4
+                     turbidity         & directly affects     effluent              • CP#6
+                     contaminant          water quality,  • Lined & covered
+                     release     (heavy soil health, and      storage
+                     metals,        oils, public safety.  • Covered transport &
+                     pathogens)                               wheel wash
+                 • Unsafe                                 • Engineered
+                     drying/storage →                         reuse/disposal
+                     odors,        dust,                  Social
+                     leachate                             • Policy, guidelines for
+                 • Unsafe transport -                         community
+                     spills,       dust,                      management of urban
+                     accidents                                water bodies
+                 • Inadequate                             • Empowering
+                     disposal/reuse →                         communities       for
+                     land                                     taking ownership of
+                     contamination                            urban water bodies
+                 Social                                       and preventing re-
+                 • Temporary          or                      encroachments
+                     permanent loss of
+                     livelihoods    and
+                     adverse economic
+                     impacts on NTHs
+                     and IOs
+                 • Potential for social
+                     conflict       and
+                     widespread unrest
+                 • Possibility of re-
+                     encroachment
+ Sanitation &   Environment               Direct public   Environment               • CP#1
+ FSM            • Sewage/sludge           health          • Bunded transfer bays • CP#3
+                    spills       during exposure          • Leachate capture
+                    transfer              through         • Sludge treated to
+                                          pathogens and       standards      before
+                                          nuisance odors      reuse/disposal
+
+
+
+Draft ESSA                                     35                                        9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+                •   Odors & flies at      undermines        Social
+                    small    treatment    program           • EHS and OHS standard
+                    units                 acceptance.           embedded         in
+                • Unsafe reuse →                                contracts      and
+                    contamination                               monitored
+                Social
+                • Possibility        of
+                    manual scavenging
+                    – community and
+                    worker safety
+ Solid waste    Environment               Urban             Environment                 • CP#1
+ management     • Dust, odors, dirty      residents live    • Lined & roofed pads • • CP#3
+                    runoff        from    adjacent to          Machine guarding & • CP#4
+                    stations              waste sites;         LOTO
+                • Worker injury risks     poor control      • Waste        segregation
+                    from machines         can spread           (batteries,
+                • Fire hazard from        disease and          recyclables)
+                    mixed waste           create safety     • Fire/odor/vector
+                Social                    risks.               control
+                • Community        and                      Social
+                    worker safety                           • EHS and OHS standard
+                • Temporary loss of                             embedded             in
+                    livelihood                                  contracts         and
+                                                                monitored
+                                                            • Livelihood restoration
+                                                                plans (including re-
+                                                                skilling)
+ Construction   Environment               Dense             Environment                  • CP#1
+ works (all     • Air      &     noise    neighborhoods     • Contractor ESMPs           • CP#3
+ subsectors)       pollution              mean              • Dust suppression &
+                • Drainage blockage       thousands             noise control
+                   from debris •          affected daily;   • Erosion & sediment
+                   Polluted runoff        unmanaged             measures
+                • Hazardous               works worsen      • Waste
+                   construction           flooding and          segregation/disposal
+                   wastes                 pollution.        • Traffic management
+                • Worker safety                                 plans
+                • Traffic disruptions
+ Health &       • Injuries        from    Risk of           •   Site fencing & signage •   CP#3
+ Safety            excavation & heavy     accidents could   •   PPE programs
+ (workers &        machinery              delay works,      •   Excavation/confined
+ community)     • Community               damage trust,         space safety
+                   contact         with   and endanger      •   Traffic management &
+                   contaminated           lives.                notifications
+                   dredged materials
+
+
+
+Draft ESSA                                       36                                        9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+                •   Traffic hazards
+ Biodiversity & •   Disturbance of fish     Though urban,     •   Seasonal timing for •    CP#2
+ Cultural           spawning           &    canals remain         dredging             •   CP#4
+ Property           aquatic life            ecological        •   Chance          find
+                •   Chance finds of         corridors;            procedures
+                    buried heritage         cultural assets   •   Access planning &
+               •    Temporary access        are highly            liaison
+                    issues            for   sensitive.
+                    mosques/temples
+ Climate &     •    Monsoon          rain   Dhaka’s heavy     •   Weather-sensitive  •     CP#1
+ Cumulative         washing pollutants      rainfall              scheduling         •     CP#5
+ Risks         •    Disposal/traffic        amplifies         •   Surge capacity in
+                    overloading when        pollution wash-       storage/treatment
+                    multiple      canals    off and           •   Phased canal works
+                    cleaned                 operational
+                    simultaneously          strain.
+
+
+
+
+Draft ESSA                                         37                                      9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+5.2 Annex B
+
+This annex summarizes the main environmental and social (E&S) legal instruments of Bangladesh relevant
+to the Metro Dhaka Water Security and Resilience Program. It highlights their relevance to the Program’s
+activities: canal dredging and cleaning, drainage rehabilitation, sanitation and fecal sludge management
+(FSM), solid waste management (SWM), occupational and community health and safety (OHS/CHS), land
+acquisition and resettlement, biodiversity protection, and cultural heritage management.
+1. Environmental Protection and Pollution Control
+    • Environmental Conservation Act (ECA) 1995 (as amended 2010, 2013)
+         Establishes the Department of Environment (DoE) as the primary environmental regulator;
+         mandates environmental clearance for projects. Relevant for all Program activities, particularly
+         dredging, drainage works, FSM, and SWM.
+
+    •   Environmental Conservation Rules (ECR) 2023
+        Updates project categorization, requires EIAs for high-risk (Red) projects, sets ambient quality
+        standards (air, water, noise), includes provisions for consultation. Relevant for canal cleaning,
+        waste facilities, FSM systems, and construction activities.
+
+    •   Bangladesh Water Act 2013
+        Provides a framework for integrated water resources management; controls pollution and
+        unauthorized use of water bodies. Relevant for canal rehabilitation and preventing untreated
+        discharges into rivers/canals.
+
+    •   Hazardous Waste Management Rules (draft; provisions under ECR 2023)
+        Governs handling, storage, and disposal of hazardous substances. Relevant to dredged material
+        handling (if contaminated), sludge management, and construction waste (oils, solvents, paints).
+
+2. Waste Management
+    • Solid Waste Management Rules 2021
+       Provides regulatory requirements for waste segregation, collection, transportation, treatment,
+       and disposal. Relevant to Program’s MRFs, transfer stations, and canal-cleaning waste streams.
+
+    •   E-Waste Management Rules 2021
+        Addresses electronic waste handling and recycling. Relevant for solid waste systems where e-
+        waste may be mixed.
+
+    •   Medical Waste Rules 2008
+        Sets requirements for safe collection, treatment, and disposal of medical waste. Relevant
+        indirectly for integrated city SWM systems.
+
+3. Sanitation and Fecal Sludge Management (FSM)
+
+
+
+
+Draft ESSA                                          38                                            9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   National Strategy for Water Supply and Sanitation 2014 (policy)
+        Provides guidance on sanitation service delivery, including FSM. Non-binding but relevant for
+        decentralized treatment promoted under the Program.
+
+    •   National FSM Institutional and Regulatory Framework (draft/operational guidelines)
+        Sets roles for DPHE, city corporations, and WASAs in FSM. Relevant for Program’s FSM
+        interventions but lacks full legal backing.
+
+4. Occupational and Community Health and Safety (OHS/CHS)
+    • Bangladesh Labor Act 2006 (amended 2013, 2018) & Labor Rules 2015
+       Regulates occupational health, worker safety, minimum wage, and prohibition of child labor.
+       Relevant for construction works, FSM operations, and solid waste facilities.
+
+    •   Occupational Health and Safety Policy 2013
+        Policy guidance on worker health and safety, though implementation is weak. Relevant to all
+        Program contractors and municipal O&M activities.
+
+    •   Bangladesh National Building Code (BNBC) 2020
+        Contains provisions on structural safety, fire safety, OHS, and disaster resilience. Relevant for
+        design and operation of waste transfer stations, treatment facilities, and drainage
+        infrastructure.
+
+    •   Public Health (Emergency Provisions) Ordinance 1944 (still in force)
+        Provides authority to control public health hazards. Relevant for managing community health
+        risks from dredged sediments and untreated waste.
+
+5. Land Acquisition and Resettlement
+    • Acquisition and Requisition of Immovable Property Act (ARIPA) 2017
+        Governs acquisition and compensation for titled landowners. Relevant for canal rehabilitation,
+        drainage, and waste facilities that require land clearance. Does not cover non-title holders
+        (squatters, encroachers), a gap the Program will address through PAP and DLI.
+
+    •   Right to Fair Compensation and Transparency in Land Acquisition (policy elements under
+        ARIPA)
+        Provides guidance on compensation but limited in scope for livelihood restoration.
+
+6. Biodiversity and Natural Resources
+    • Bangladesh Biodiversity Act 2017
+        Protects biodiversity and ecosystems. Relevant for canal corridors and potential ecological
+        impacts of dredging.
+
+    •   Wildlife (Conservation and Security) Act 2012
+        Protects wildlife and habitats. Relevant if dredging impacts aquatic species in canals.
+
+
+
+
+Draft ESSA                                           39                                           9/26/2025
+        The World Bank
+        Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    •   Wetlands Conservation Act 2000 (part of broader water/ecology rules)
+        Provides protection against encroachment and pollution of wetlands. Relevant for
+        floodplain/wetland areas around canals.
+
+7. Cultural Heritage and Physical Cultural Resources (PCR)
+    • Antiquities Act 1968 (amended 1976)
+        Protects cultural heritage, monuments, and chance finds. Relevant if archaeological or cultural
+        artifacts are discovered during canal dredging or construction.
+
+    •   Local Government Acts (City Corporation Acts 2009)
+        Indirectly relevant, as city corporations oversee local heritage and religious sites that could be
+        affected during works.
+
+8. Cross-cutting Climate and International Commitments
+    • Bangladesh Climate Change Strategy and Action Plan (BCCSAP) 2009; Mujib Climate Prosperity
+        Plan 2021–2041
+        National policies to strengthen adaptation and resilience. Relevant for flood resilience and
+        climate-related measures in canal/drainage works.
+
+    •   Paris Agreement (ratified 2016); NDC 2021
+        Commitments to reduce GHG emissions and strengthen adaptation. Relevant for solid waste,
+        FSM, and methane reduction from uncontrolled dumping.
+
+    •   ILO Core Conventions, Convention on Biological Diversity, Basel Convention (hazardous waste)
+        Provide overarching obligations, aligning with labor rights, biodiversity protection, and safe
+        waste handling.
+
+
+
+
+Draft ESSA                                           40                                           9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+
+5.3 Annex C
+
+Program Exclusion List <To be revised and inserted>
+
+
+
+
+Draft ESSA                                   41                      9/26/2025
+       The World Bank
+       Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+5.4 Annex D
+
+Details of Stakeholder Consultations held during ESSA <To be updated and inserted>
+
+
+
+
+Draft ESSA                                  42                                       9/26/2025
+

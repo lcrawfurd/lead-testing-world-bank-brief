@@ -1,0 +1,555 @@
+Public Disclosure Authorized
+                                         The World Bank
+                                         Morocco Water Security and Resilience Program (P179192)
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                      Program Information Documents (PID)
+
+
+
+Public Disclosure Authorized
+                                                    Appraisal Stage | Date Prepared/Updated: 05-Jun-2023 | Report No: PIDA277317
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               June 1, 2023                                                                                        Page 1 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Program Data
+
+   Country                            Project ID                   Program Name                Parent Project ID (if any)
+   Morocco                            P179192                      Morocco Water Security
+                                                                   and Resilience Program
+   Region                             Estimated Appraisal Date     Estimated Board Date        Practice Area (Lead)
+   MIDDLE EAST AND NORTH              10-Apr-2023                  17-Jul-2023                 Water
+   AFRICA
+   Financing Instrument               Borrower(s)                  Implementing Agency
+   Program-for-Results Financing      Ministry of Economy and      Ministry of Interior (MoI), Ministry of Equipment and
+                                      Finance                      Water (MEE)
+
+   Proposed Program Development Objective(s)
+
+   The Program Development Objective is to strengthen water sector institutions and increase water availability in
+   selected areas in Morocco
+
+   COST & FINANCING
+
+   SUMMARY (USD Millions)
+
+   Government program Cost                                                                                        573.00
+   Total Operation Cost                                                                                           350.00
+       Total Program Cost                                                                                         349.13
+       Other Costs                                                                                                    0.88
+   Total Financing                                                                                                350.00
+   Financing Gap                                                                                                      0.00
+
+
+   FINANCING (USD Millions)
+
+
+ Total World Bank Group Financing                                                                                 350.00
+
+     World Bank Lending                                                                                              350.00
+
+
+  Decision
+  The review did authorize the team to appraise and negotiate
+
+
+June 5, 2023                                                                                                     Page 2 of 11
+            The World Bank
+            Morocco Water Security and Resilience Program (P179192)
+
+
+
+
+   B. Introduction and Context
+
+     Country Context
+
+   1.     After two decades of uninterrupted expansion, the Morocco economy is facing several challenges. Economic
+   structural reforms launched in the late 1990s led to increase the country’s real gross domestic product (GDP) by nearly
+   120 percent between 2000 and 2019, expand per capita income by 72 percent, and almost eradicate extreme poverty.
+   However, real GDP fell by 6.3 percent in 2020 due to the COVID-19 pandemic, the largest contraction on record. After
+   the gradual lifting of restrictions, economic activity began to pick up in late 2020, and Morocco’s real GDP grew by 6.8
+   percent in 2021. This was supported by a successful vaccination campaign, a series of measures adopted to respond to
+   the multifaceted nature of the shock, an extraordinary agricultural season, solid manufacturing and agro-industrial
+   export, supportive counter-cyclical fiscal and monetary measures, and an unprecedented level of remittances. GDP
+   growth dropped to just 1.2 percent in 2022,1 resulting from overlapping shocks, including the sharp contraction in
+   agricultural GDP due to the drought, the commodity price shocks triggered by Russia’s invasion of Ukraine, a slowing
+   global economy, and higher global energy and food prices. In response to the drought, in 2022 the Government of
+   Morocco (GoM) adopted a US$1 billion emergency recovery package for farmers, including agricultural insurance and
+   rescheduling debt mechanisms. Economic growth is expected to accelerate to 3.1 percent in 2023. 2
+
+   2.     The economic growth model that served Morocco well in recent decades shows signs of slowing down and
+   needing to adapt to changing realities. The drought has exposed the economy's vulnerability to hydroclimate shocks.
+   More than half of GDP growth in recent decades was driven by fixed capital accumulation, which surpassed 30 percent
+   of GDP since the early 2000s, suggesting an over-reliance on public investment. The economy has not generated
+   enough jobs to absorb a growing working-age population and overall unemployment remains high at around 12.8
+   percent, with urban youth unemployment reaching 33.4 percent. The female participation rate in the labor force in
+   Morocco is low and declining, with important implications for women’s autonomy and the country’s economic
+   potential. Despite the parity article of the 2011 Constitution,3 gender inequalities have dramatically increased over the
+   past decade:4 in 2020, Moroccan women accounted for 23 percent of the working population compared to 27 percent
+   in 2010.5 While Moroccan women perform better than men at school (on average), only 13 percent of Moroccan
+   businesses were led by women in 2019, only 23 percent of managers in the public sector were women, and women
+   were only represented in 21 percent of regional and local board members. As evidenced by the Human Development
+   Index, Morocco’s lags in human development represent a structural bottleneck that constrains productivity growth.
+
+   3.     Morocco’s New Development Model (NDM) presents a new vision for the country’s development.6 The
+   structural reforms launched two decades ago gave way to a sustained period of economic growth and poverty
+   reduction that is unparalleled in the country’s contemporary history. The NDM sets ambitious development targets
+   with a 2035 horizon, including doubling per capita GDP levels. This goal would require (a) sustaining an average annual
+   growth rate of almost 7 percent for the next 12 years; (b) prioritizing actions to foster structural transformation and
+   rebalancing investments to leverage more private sector investment; (c) unlocking bottlenecks that prevent women
+
+   1 World Bank Group (2023). Morocco Economic Update, Responding to Supply Shocks. Winter 2022/23.
+   2 Ibid
+   3 Article 19 stipulates that “the State contributes to achieving parity between men and women”.
+   4 Moulineonur, S. and Herzog, O. (2022, January 19) A big step forward for women's leadership in Morocco.
+   5 Le Haut-Commissariat au Plan Publie (2022). La femme Marocaine en chiffres : 20 ans de progress.
+   6 CSMD (2021). “The New Development Model, releasing energies and regaining trust to accelerate the march of progress and prosperity for
+
+   all". Special Commission on the New Development Model (CSMD)
+
+June 5, 2023                                                                                                                          Page 3 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+   and youth from entering the labor force; and (d) raising the levels of human capital through better education and health
+   services.7 Building a sustainable Morocco will require preserving natural resources, enhancing the resilience to climate
+   change, and safeguarding water resources through more efficient use and management of its scarcity.
+
+   4.     The essential role that water plays in Morocco’s development has been emphasized by His Majesty King
+   Mohammed VI. Highlighting the challenges that Morocco faces in terms of the water structural deficit in his speech to
+   the opening of parliament on October 14, 2022 and subsequent progress-review-meetings on the PNAEPI,8 His Majesty
+   King Mohammed VI emphasized the need to continue the policy of building additional storage, the development of
+   water transfers for inter-basin solidarity and the construction of seawater desalination plants and recognized the need
+   to implement policies to improve water use efficiency- especially in irrigation. As outlined in His Majesty King
+   Mohammed VI speech, there are four main guiding principles for water resources management in the context of
+   increasing water deficits: (a) launch more ambitious programs and initiatives, and leverage modern technology,
+   particularly for water savings and wastewater reuse; (b) emphasize the rational exploitation and preservation of
+   groundwater resources, in particular by curtailing illegal pumping and well digging; (c) improve cross-sectoral
+   coordination and update sectoral strategies on a continuous basis, in light of their pressure on water resources and the
+   need to build a water secured Morocco; and (d) consider the real cost of water, accounting for each stage of the water
+   mobilization process, considering transparency and awareness about all the cost of water drivers.
+
+   5.     Climate change presents several risks to Morocco’s development aspirations.9 As one of the world’s climate
+   hotspots,10 Morocco’s average temperatures increased by almost 1.36°C between the 1970-2019 period (0.34°C per
+   decade), while precipitation patterns showed a downward trend with increasing variability, more frequent and intense
+   droughts, and severe flood events. Hydro-climatic shocks have become a major source of macroeconomic volatility,11
+   with particularly adverse impacts on the agricultural sector and complex transmission channels creating cascading and
+   compounding effects across the entire economy. In response, Morocco has taken some decisive steps to combat
+   climate change, with a revised Nationally Determined Contribution (NDC) that deepens and expands the Kingdom’s
+   ambitions in terms of adaptation.
+
+   Sectoral and Institutional Context
+
+   6.     Morocco is among the world’s most water-stressed countries, with water scarcity imposing major constraints
+   on the economy. The country experienced a sharp decrease in water availability, from 2,560 m3 to about 620 m3 per
+   person per year between 1960 and 2020, due primarily to population growth and compounded by a reduction in rainfall
+   and an increase in temperature. The water deficit between supply and demand in 2020 was estimated at 1.8 Billion
+   Cubic Meters (BCM) per year, with demand expected to increase by 15 percent between 2020 and 2050.12 Water
+   security challenges are compounded by the unequal distribution of water over space and time, with most of the surface
+
+   7 World Bank Group (2022). Morocco Country Climate and Development Report. CCDR Series. World Bank, Washington, D.C.
+   8 Speech by HM King Mohammed VI to Parliament on Occasion of Opening of 1st Session of 2nd Legislative Year of 11th Legislature
+   9 World Bank Group (2022). Morocco Country Climate and Development Report. CCDR Series. World Bank, Washington, D.C.
+   10 IPCC. 2022. Climate Change: Impacts, Adaptation and Vulnerability
+   11 On average, rainfall shocks explain close to 37 percent of the variance of Morocco´s output over the medium-term.
+   12 Total water demand by 2050 is expected to be between 18.7 and 20 BCM per year taking climate change into account. Agriculture-related
+
+   withdrawals are expected to rise by 10 percent in the next 30 years (from 14.5 BCM in 2020 to 16 BCM year in 2050). Water demand from
+   urban households is expected to increase by 50 percent (from 1.1 to 1.7 BCM per year) during the same period, with corresponding increases
+   in effluent quantities. Expected industrial demand growth is similar (from 241 to 370 MCM per year), and water from tourism is expected to
+   more than triple by 2050 (from 33 to 106 MCM per year). Based on an estimated population growth of 1.5 percent per year and economic
+   growth of 4 percent per year. Source: Ministry of Equipment, Transport, Logistics, and Water: Draft National Water Plan 2020–2050.
+   Submitted for review to the Interministerial Water Commission, December 2019.
+
+June 5, 2023                                                                                                                            Page 4 of 11
+           The World Bank
+           Morocco Water Security and Resilience Program (P179192)
+
+
+   water resources concentrated in the northwest of the country.13 Surface water shortages have led to the over-
+   exploitation of groundwater resources, which are being abstracted faster than they are being replenished. Current
+   groundwater withdrawals exceed exploitable levels by 28 percent,14 requiring pumping from deeper levels and
+   increasing energy-related greenhouse gas (GHG) emissions. Water shortages are further aggravated by the loss of
+   existing storage due to high dam sedimentation rates,15 water pollution, and saline intrusion in the coastal regions.
+
+   7.     Climate change will have compounding and cascading effects on Morocco’s water security. A warmer climate
+   and the expected decline in average annual precipitation16 - leading to increased interannual variability and more
+   frequent, intense storm events - are projected to result in severe reductions in surface-water availability and changes
+   in groundwater recharge. Hotter and drier conditions are also expected to increase demand, with crop water
+   requirements predicted to increase by up to 12 percent, increasing demand for irrigation and placing further demands
+   on limited water resources.
+
+   8.      To address the country’s water challenges, the GoM is implementing comprehensive large-scale water sector
+   investment programs. These include the National Program for Potable Water Supply and Irrigation (Programme
+   National pour l’Approvisionnement en Eau Potable et l’Irrigation; PNAEPI) 2020-2027, adopted in January 2020, which
+   encompasses the first phase of the draft National Water Plan (Plan National de l'Eau, PNE) and outlines an ambitious
+   set of investments. This builds on a long tradition of water resource development, with 135 large dams providing 17.5
+   BCM of storage capacity and 220 Million Cubic Meters (MCM) per year of installed desalination capacity at the end of
+   2022.17 The PNAEPI continues to promote supply-side solutions, with investments aimed at increasing the mobilization
+   of water resources by about 3 BCM per year by 2027, with a strong emphasis on non-conventional water resources
+   such as desalination and wastewater reuse. These investments are important in adapting to future climate conditions'
+   potential magnitude and uncertainty.
+
+   9.     The governance of the water sector is evolving in response to the changing nature of water resources and the
+   new socio-economic vision. The legal and institutional system integrates religious tradition and customs alongside
+   modern provisions introduced since independence in 1956.18 The Water Law 36-15 (2016) retained the foundational
+   elements aimed at improving water use efficiency, providing universal access, reducing disparities between rural and
+   urban areas, and ensuring water security. It further emphasized decentralized, integrated, and participatory
+   management and planning of water resources; strengthened consultation and coordination by establishing water basin
+   councils and the adoption of the PNE by the Superior Council of Water and Climate; established the legal foundations
+   to diversify sources of supply through the use of unconventional water resources; mandated the establishment of
+   water information systems at national and river basin levels; and strengthened mechanisms for the protection and
+   conservation of water resources (raw water abstraction and pollution fees and participatory groundwater management
+   contracts). As part of the continued commitment to the “Régionalisation Avancée”, the Government plans to establish
+
+   13 Ministry of Equipment, Transport, Logistics, and Water: Draft National Water Plan 2020–2050. Submitted for review to the Interministerial
+
+   Water Commission, December 2019.
+   14 Equivalent to roughly 1.1 BCM per year. Source: Ministry of Equipment, Transport, Logistics, and Water: Draft National Water Plan 2020–
+
+   2050. Submitted for review to the Interministerial Water Commission, December 2019.
+   15 Estimated 75 MCM per year. Source: Ministry of Equipment, Transport, Logistics, and Water: Draft National Water Plan 2020–2050.
+
+   Submitted for review to the Interministerial Water Commission, December 2019.
+   16 An annual decline in precipitation of between 10 to 20 percent is expected nationally, including a 10 to 30 percent decrease during the
+
+   wet season (October to April) and a 10 to 40 percent decrease during the dry season (from May to September). Source: World Bank Group
+   (2021). Climate Risk Profile: Morocco.
+   17 While desalinization represents less than 2 percent of all mobilized water resources, it provides a high level of assurance, with 44 percent
+
+   for potable water, 41 percent for irrigation, and 14 percent to phosphate production.
+   18 Doukkali, M.R. (2005). Water institutional reforms in Morocco. Water Policy, 7, 71-88.
+
+
+
+June 5, 2023                                                                                                                                 Page 5 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+   regional multiservice companies (Sociétés Régionales Multiservices, SRM) for energy and potable water distribution
+   and wastewater collection and treatment, to substitute autonomous municipal public utilities (Régies).19
+
+   10.    The ongoing transformations in Morocco’s water sector have significant implications for its financial
+   sustainability. The upscaling of non-conventional water resources has important implications for the country’s water
+   balance and the associated cost structure for the sector. Production and retail water supply tariffs and sanitation fees
+   do not fully reflect production and distribution costs and are generally insufficient to cover operational and
+   maintenance costs. Financial sustainability is further undermined by the under-collection of raw water abstraction and
+   water pollution fees.20
+
+
+    PforR Program Scope
+
+
+   11.     The Government program is defined by the National Program for Water Supply and Irrigation (2020-2027
+   PNAEPI: Programme National pour l'Approvisionnement en Eau Potable et l'Irrigation). The PNAEPI aims to diversify
+   the sources of supply, guarantee water security, and reduce climate change impacts by accelerating investments to
+   strengthen water supply for drinking and irrigation uses. The PNAEPI's major objectives are: (a) expanding water
+   supply by increasing water storage capacity and the contribution of non-conventional sources to the water matrix
+   (wastewater reuse and desalination), and safeguarding groundwater resources; (b) improving water efficiency by
+   reducing water losses in conveyance and distribution networks (potable water and irrigation) and improving water
+   productivity in the irrigated agriculture sector; (c) achieving universal access to water supply in rural areas; and (d)
+   increasing awareness on the value of water. Among other factors, the successful implementation of the PNAEPI relies
+   on: (a) boosting cross-sectoral coordination; (b) adapting the sector’s financial framework to reflect the increasing cost
+   of water mobilization; (c) adopting critical regulations relating to non-conventional water resources, participative
+   aquifer management contracts, and water data management and information systems; (d) strengthening the
+   performance of the River Basin Agencies (Agence du Bassin Hydrauliques ABHs), in particular concerning water
+   withdrawal control and enforcement; and (e) supporting the on-going reform of the potable water and wastewater
+   service sector aimed at improving service delivery and financial sustainability.
+
+   12.     The Program will support a subset of activities from the PNAEPI. The scope and boundaries of the Program are
+   based on the activities identified in the PNAEPI and defined by priorities that contribute to the following: (a)
+   strengthening the governance of the water sector; (b) improving the valuation and financial sustainability of the water
+   sector; (c) creating a water-savings culture and reducing water losses; and (d) providing an enabling environment for
+   the integration of non-conventional water resources. The scope and boundaries of the Program consider: (a) the
+   registration of activities contributing to the Program in the Finance Laws and duly budgeted as part of the government
+   budget; (b) the exclusion of activities that are highly complex and have a large social and environmental footprint; and,
+   (c) the inclusion of activities that can be implemented within the Program timeframe from 2023–2028
+
+   13.     The Program is structured around three Results Areas (RA): RA 1: Strengthening Water Sector Governance aims
+   to strengthen the sector’s governance for sustained water resource management at the national level and river basin
+   levels. Activities include: (a) the preparation and adoption of the PNE based on long-term planning that reflects the
+
+   19 The Draft Law 83-21, providing for the creation of SRMs, was submitted for Parliament discussion in December 2022.
+   20 Between 2012 and 2017, water basin organization collected less than US$7 million per year on raw water and water pollution fees, of
+
+   which water pollution fees represented less than 4 percent. Over the period, only US$1 million was collected on discharge fees of a potential
+   of US$19 million. Source: Cour des Comptes. 2018.
+
+June 5, 2023                                                                                                                               Page 6 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+   increasing uncertainty due to climate change, and including definition of principles of water valuation and cost recovery
+   considering primarily economic and financial aspects of water in addition to ecological and cultural values; (b) the
+   development, adoption, and implementation of regulatory instruments and consultative processes to improve
+   implementation of participative aquifer management contracts; (c) the preparation and signature of participative
+   aquifer management contracts in three selected aquifers; (d) the installation of smart meters for measuring
+   groundwater withdrawals; (e) the development, implementation, and adoption of a performance benchmarking
+   framework to strengthen the performance of selected ABHs to deliver on their core functions of planning, managing,
+   developing and protecting water resources, and operating and maintaining of infrastructure; (f) the operationalization
+   of water information systems (SNIEAU and river basin); (g) improvements in water data management and information
+   management systems, including regulations, formal specifications, and benchmarking for data generation, sharing, and
+   access, quality assurance and control standards, upgrade, equipment, and maintenance of monitoring and information
+   systems; (h) the installation and rehabilitation of hydrological stations and piezometers; and, (i) the operationalization
+   of multiservice operators (energy and water supply distribution, and wastewater collection and treatment)
+   performance systems and adoption of minimum service standards.
+
+   14.     RA 2: Improving Financial Sustainability and Water Use Efficiency aims to improve water valuation, reduce
+   water losses from existing distribution systems, and encourage water conservation through communication campaigns.
+   Activities include: (a) the development of a Financial Sustainability Framework for the sector, including the
+   development of a financial model for the sector to inform pricing strategies for specific sub-sectors and the adoption
+   of a financial sustainability action; (b) the development of financial strategies for three sub-sectors; (c) the
+   implementation of the PNAEPI communication strategy to raise awareness of the importance of water conservation,
+   including baseline and end-strategy impact evaluations; and (d) the implementation of water loss reduction plans,
+   including the deployment of geographical information management systems (GIS) and hydraulic models; meters
+   deployment (bulk- and micro-meters), network sectorization and pressure control program; and, leakage detection and
+   rehabilitation campaigns.
+
+   15.    RA 3: Enabling the Integration of Non-Conventional Water Resources aims to improve the enabling
+   environment for non-conventional water resources and scale-up of treated wastewater reuse. Activities include: (a)
+   the development of regulations to strengthen the enabling environment and facilitate the scaling-up of non-
+   conventional water resources, focused on desalination and wastewater reuse; (b) the signature of conventions for use
+   of treated wastewater; and (c) the implementation of conventions for the use of treated wastewater, including : (i)
+   upgrade of wastewater treatment plants (WWTPs) to increase the capacity for tertiary treatment and reuse of treated
+   effluent for green spaces, industrial, and agricultural uses; and (ii) construction of distribution systems for the
+   conveyance of treated wastewater reuse, including pipelines, pump stations and storage tanks.
+
+
+   C. Proposed Program Development Objective(s)
+
+  Program Development Objective(s)
+
+
+   16.     The PDO is to strengthen water sector institutions and increase water availability in selected areas in Morocco.
+
+   17.     The PDO indicators are:
+
+           Indicator 1. National Water Plan (PNE) adopted (value).
+
+
+June 5, 2023                                                                                                        Page 7 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+           Indicator 2. Water information systems operationalized (value).
+
+           Indicator 3. Potable water savings in distribution water supply networks (m3).
+
+           Indicator 4. Treated wastewater made available for reuse (m3).
+
+   18.   The PDO-level indicators were selected to measure the key achievements that the Program should reach within
+   the implementation period and promote institutionalization and sustainability of the Government’s efforts under the
+   PNAEPI.
+
+   D. Environmental and Social Effects
+
+
+   19.    An Environmental and Social System Assessment (ESSA) was carried out following the World Bank Policy on
+   PforR Financing. The Program encompasses eligible non-structural and structural activities, with the ESSA identifying
+   measures to strengthen the Environmental and Social (E&S) management system. Preparation of the ESSA has
+   benefited from various sources of information and a broadened consultation process, including a review of available
+   documentation, data, related regulatory frameworks, and consultative meetings with the technical staff of the
+   implementing entities and key stakeholders. The ESSA report was publicly disclosed on the World Bank’s website in
+   March 2023, and it was disclosed before a public consultation workshop held on April 18, 2023, with Government
+   agencies, development partners, civil society organizations, and the private sector. Comments provided during the
+   workshop were addressed in the ESSA report.
+
+   20.    The Program is expected to have positive E&S benefits. Through water reduction programs and WWTPs
+   upgrades to the tertiary treatment level, the Program will support Morocco’s climate adaptation priorities,
+   safeguarding water for domestic, industrial, and agricultural purposes. This will increase the sustainable and safely
+   managed drinking water available for households, reduce waterborne diseases, improve water quality, reduce the
+   pollution and degradation of soil and groundwater resources, and improve community health. The extension and
+   rehabilitation of potable water distribution systems and the WWTPs upgrades will positively benefit direct and indirect
+   job creation during the work phase. They will induce demand for goods and services that benefit local, regional, or
+   national companies. The Program will also (a) advocate a participatory and collaborative approach to the
+   implementation of activities using collaborative leadership approaches, which will give boost citizen engagement; (b)
+   promote gender-sensitive actions aimed at advancing equity; (c) introduce positive behavioral changes among
+   stakeholders in terms of management and prudent use of water resources; and (d) contribute to strengthening the
+   grievances redress mechanisms (GRMs).
+
+   21.     The E&S risks are assessed as Substantial. The Program is expected to bring significant E&S benefits by
+   strengthening sector institutions and increasing water availability. Some activities required to achieve the Program's
+   objectives include civil works, which have potentially adverse E&S impacts. Activities with high risks are excluded from
+   the Program. Construction activities required to achieve the Program's objectives are largely limited to small-scale,
+   localized works related to reducing water losses in distribution networks and upgrading existing WWTPs and associated
+   infrastructure for reuse. Although these impacts are well-known, temporary, and reversible, and will be managed
+   through well-established mitigation measures, none of the implementing entities has previous experience with the
+   PforR instrument. It is not expected that there will be an influx of construction workers, with the attendant risks of
+   sexual exploitation, abuse, and harassment, as most of the workforce will be local. There are no Indigenous Peoples
+   present in the Program area.
+
+
+June 5, 2023                                                                                                       Page 8 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+   22.    Potential E&S risks have been identified and can be managed or mitigated. The ESSA report analyzed the
+   investments in the PNAEPI and concluded that 27 activities have potentially significant negative E&S impacts. Following
+   the World Bank’s Operational Policy on PforR, these have been excluded from the Program.21 The ESSA estimated that
+   the potential negative impacts of additional 22 activities would be reversible, specific risk mitigation measures have
+   been identified, and their implementation will prevent negative impacts.
+
+   23.    Potential environmental risks are mostly related to structural activities and expressed during construction.
+   Works will be limited to those areas of the water network where leaks have been detected, inside the perimeter of
+   existing treatment plants, along the pipeline route for the conveyance of treated wastewater, and at sites where
+   pumping stations will be installed. For those activities that do not require an environmental impact assessment (EIA)
+   according to the EAI Law 12-03 (2003) – such as the rehabilitation of drinking water networks – an Environment and
+   Social Management Plan (ESMP) must be prepared before the start of works to ensure that (a) its requirements are
+   included in the works contract; and (b) that monitoring of the required mitigation measures is effective, documented
+   and evaluated. For activities listed in the EAI Law – such as WWTPs – the EAI Law stipulates that any change to the
+   approved design requires an updated EIA. Therefore, all WWTPs under the Program must update the EIA and comply
+   with the joint order 1276-01 (dated October 17, 2002) governing wastewater reuse.22
+
+   24.     Potential social risks are mainly related to rehabilitating or constructing water supply and wastewater
+   systems. These activities will likely have temporary and small-scale permanent land acquisition implications, if any. The
+   E&S technical manual, as part of the Program Operations Manual (POM), will include a screening procedure to ensure
+   that these impacts are well-managed and affected people are compensated before the start of works. The information
+   and consultation activities may not sufficiently include vulnerable populations, particularly illiterate people and people
+   with disabilities that limit their access to certain communication channels. These risks can be mitigated by choosing
+   appropriate inclusive communication techniques and media. Preference will be given to meetings or the dissemination
+   of audio or audiovisual messages rather than written documents. The inclusion of women in the dialogue between the
+   project and its stakeholders will be ensured through dedicated meetings with women. The gender-based violence risk
+   exists for all construction activities but is low as most workers will be from local areas.
+
+   25.     The national E&S management system is considered adequate within the context of the PforR Policy, and
+   some actions will be included to strengthen its performance. Specific gaps identified during the preparation of the
+   ESSA include (a) the integration of social aspects in impact studies, including resettlement and land acquisition-related
+   activities; (b) the integration of ESMP in impact studies; (c) the implementation of public consultations by involving the
+   stakeholders and parties affected by the Program; and (d) documenting the monitoring, and evaluation of mitigation
+   measures. The management of complaints is a relatively recent practice in Morocco and does not yet provide a
+   comprehensive mechanism that ensures independent, effective, and responsive redress of grievances. The national
+   complaints management system, the “chikaya.ma” portal, is operational since 2018 and was effective during the
+   outbreak of the COVID-19 pandemic as it provided the only means to contact the Moroccan administration.
+
+   26.   Grievance Redress. Communities and individuals who believe that they are adversely affected due to a Bank-
+   supported PforR operation, as defined by the applicable policy and procedures, may submit complaints to the existing
+   program grievance mechanism or the Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints are
+
+ 21 Paragraph 10: Activities deemed likely to have negative impacts that are significant, diverse, or unprecedented on the environment and
+
+ / or on people are not eligible for PforR funding and are excluded from the Program.
+ 22 The reuse of wastewater in Morocco is governed by the joint order 1276-01 (dated October 17, 2002) of the (then) Ministry of Equipment
+
+ and the Ministry in Charge of Regional Development, Environment, Urban Planning and Housing, that establishes water quality standards
+ for irrigation and the obligations of users regarding monitoring the quality of treated wastewater before reuse.
+
+June 5, 2023                                                                                                                           Page 9 of 11
+            The World Bank
+            Morocco Water Security and Resilience Program (P179192)
+
+
+      promptly reviewed to address pertinent concerns. Project-affected communities and individuals may submit their
+      complaints to the Bank’s independent Accountability Mechanism. The Accountability Mechanism houses the
+      Inspection Panel, which determines whether harm occurred, or could occur, as a result of the Bank’s non-compliance
+      with its policies and procedures, and the Dispute Resolution Service, which provides communities and borrowers with
+      the opportunity to address complaints through dispute resolution. Complaints may be submitted at any time after
+      concerns have been brought directly to the Bank’s attention and Bank management has been given an opportunity to
+      respond. For information on how to submit complaints to the Bank’s Grievance Redress Service (GRS), please visit
+      http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s Accountability
+      Mechanism, please visit https://accountability.worldbank.org.
+
+
+
+      E. Financing
+
+
+      27.    Program financing. Total program financing over the World Bank fiscal years 2023 - 2028 is expected to be 5,801
+      M MAD (equivalent to US$ 573 million). Of this, an expected US$ 220 million equivalent (38.9 percent) will be funded
+      by the Government, and US$ 350 million equivalent (61.1 percent) will be financed through an IBRD loan.
+
+
+
+
+  .
+
+      CONTACT POINT
+
+
+      World Bank
+
+      Name :                  Carolina Dominguez Torres
+                              Senior Water Supply and Sanitation
+      Designation :                                                      Role :         Team Leader(ADM Responsible)
+                              Specialist
+      Telephone No :          5360+4253 /                                Email :        cdominguez1@worldbank.org
+
+      Name :                  Marcus J. Wishart
+                              Lead Water Resources Management
+      Designation :                                                      Role :         Team Leader
+                              Specialist
+      Telephone No :          5380+7758 /                                Email :        mwishart@worldbank.org
+
+
+      Borrower/Client/Recipient
+
+
+
+June 5, 2023                                                                                                       Page 10 of 11
+          The World Bank
+          Morocco Water Security and Resilience Program (P179192)
+
+
+
+   Borrower :              Ministry of Economy and Finance
+   Contact :                                                        Title :
+   Telephone No :                                                   Email :
+
+   Implementing Agencies
+
+   Implementing            Ministry of Equipment and Water
+   Agency :                (MEE)
+                                                                              Directeur Direction de la Recherche
+   Contact :               M. Abdelaziz ZEROUALI                    Title :
+                                                                              et de la Planification d
+   Telephone No :          212661318696                             Email :   azlso@yahoo.fr
+
+
+   Implementing
+                           Ministry of Interior (MoI)
+   Agency :
+                                                                              Director of Public Local Networks
+   Contact :               Mustapha EL HABTI                        Title :
+                                                                              (DRPL)
+   Telephone No :          0537286157                               Email :   melhabti@interieur.gov.ma
+
+
+   FOR MORE INFORMATION CONTACT
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+
+June 1, 2023                                                                                            Page 11 of 11
+

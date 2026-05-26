@@ -1,0 +1,419 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 22-Jan-2026 | Report No: PIDDC01507
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                  Operation Name
+Yemen, Republic of             P511417                       IDA-IFC Agribusiness Program Phase 1
+Region                         Estimated Appraisal Date      Estimated Approval Date        Practice Area (Lead)
+MID EAST,NORTH                 13-Jul-2026                   30-Oct-2026                    Agriculture and Food
+AFRICA,AFG,PAK
+Financing Instrument           Borrower(s)                   Implementing Agency
+Investment Project             To be determined              To be determined
+Financing (IPF)
+
+Proposed Development Objective(s)
+Increase in volume of milk sold through organized sector and net price realization at producer level, while fostering
+private sector participation in agri-business in the project areas.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    To be decided
+Is this project Private Capital Enabling (PCE)?              Yes
+
+SUMMARY
+  Total Operation Cost                                                                                           100.00
+
+  Total Financing                                                                                                100.00
+             of which IBRD/IDA                                                                                  100.00
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                  100.00
+      IDA Grant                                                                                                 100.00
+
+
+
+                                                                                                                        Page 1
+
+
+
+                                                                                                             Official Use Only
+         The World Bank
+         IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+
+
+  @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                        Concept Review Decision
+Substantial                                                                         The review did authorize the preparation to continue
+
+
+
+ Other Decision (as needed)
+
+ B. Introduction and Context
+
+ Country Context
+
+1.      Yemen remains affected by fragility and conflict, climate shocks, with significant food and nutrition insecurity
+and constrained private sector activity. The country’s economic and social indicators have deteriorated sharply. Between
+2015 and 2024, real GDP shrank by 43 and nominal GDP per capita fell by 70 percent, to US$433 in 2024, signifying a
+dramatic impact on living standards1. Economic prospects for 2025 are clouded, as real GDP is projected to contract by
+1.5 percent, and nominal GDP per capita is expected to fall by another 14.2 percent2. Poverty is widespread, with
+approximately 75 percent of Yemenis now living in poverty and basic services largely collapsed. Food insecurity is severe,
+with inadequate food consumption reported by 64 percent of households in IRG-controlled areas and 62 percent in
+Houthi-controlled areas in August 2025. Malnutrition rates are among the highest globally especially for women and
+children, with 17 percent of children wasted, 49 percent stunted and 41 percent underweight. In September 2025, the IPC
+warned of worsening food security, raising the risk of catastrophic hunger by the end of 2025. Across Yemen, living
+conditions are dire, with only about 55 percent of the health facilities functioning, and less than 62 percent of the
+population having access to at least basic drinking water services3. The disrepair of critical infrastructure across all sectors
+has limited Yemen’s ability to emerge from these challenges.
+
+2.       The conflict in Yemen escalated in 2015, triggering one of the world’s worst humanitarian crises. About 4.58
+million people are internally displaced, most living in precarious conditions without reliable access to food, water, or
+health services. Yemen experiences some of the world’s highest levels of gender inequality, consistently ranking at the
+bottom of the Global Gender Gap Index, with female labor force participation at just 5-6 percent4. Similarly, the country
+finds itself toward the bottom of the 2025 Human Development Index at 184 out of 193 countries.5 The war has devastated
+infrastructure: roads, bridges, schools, hospitals, and water and sanitation systems have been destroyed or severely
+damaged, leading to the near-total collapse of public service delivery. Governance remains deeply divided. Two rival
+authorities control Yemen: (i) the Houthi movement (Ansar Allah) based in Sanaa and (ii) the internationally recognized
+government (IRG) in Aden, which oversees most oil and gas resources. Each maintains separate institutions, including dual
+central banks and currencies, creating widening disparities in economic conditions and service delivery6.
+
+
+
+1 World Bank. (2025). Yemen Systematic Country Diagnostic 2025
+2 World Bank. (2025). Yemen Economic Monitor: Navigating Increased Hardship and Growing Economic Fragmentation
+3 World Bank. (2025). Yemen Systematic Country Diagnostic 2025
+4 World Bank. (2025). Yemen Systematic Country Diagnostic 2025
+5 UNDP. (2025). Human Development Report 2025: A Matter of Choice: People and Possibilities in the Age of AI
+6 World Bank. (2025). Yemen Economic Monitor: Navigating Increased Hardship and Growing Economic Fragmentation
+
+
+
+
+                                                                                                                                           Page 2
+
+
+
+                                                                                                                                Official Use Only
+         The World Bank
+         IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+3.      Yemen’s recovery requires a strategic shift from short-term humanitarian aid to a comprehensive development
+agenda that strengthens nutrition security, climate resilience, and institutional capacity. The 2024 Country Climate and
+Development Report (CCDR) and other frameworks highlight the need to scale up development interventions alongside
+emergency assistance, leveraging pockets of stability and capacity within the broader context of fragility, conflict, and
+violence (FCV). This transition is essential to break the cycle of aid dependence and lay the foundation for more sustainable
+progress.
+
+ Sectoral and Institutional Context
+
+4.       Agriculture is a key pillar of Yemen’s economy, adding an estimated 16 percent to GDP in 20247, while
+employing about 29 percent of the workforce in 20238. It supports food security, rural livelihoods, and non-oil exports.
+The sector faces severe water scarcity and relies heavily on rainfed farming, which dominates roughly 50 percent of
+cultivated land, with annual rainfall ranging from 50–250 mm in eastern and coastal areas to 1,200 mm in the southern
+highlands. Most employment occurs in low-productivity rural segments and the sector’s job creation potential is
+undermined by limited private engagement due to land and water insecurity, fragmented value chains, and poor
+infrastructure, as well as broader security risks and institutional fragility. Yet, examples like the NANA dairy factory in
+Aden, generating 200–300 full time jobs in the processing factory and women’s employment in village milk centers, show
+agribusiness’s potential for transforming the entire sector by boosting farm productivity and linking on-farm and off-farm
+agribusiness.
+
+5.       Yemen’s agrifood sector offers opportunities for transformation through targeted investments in several high-
+potential value chains that combine strong domestic demand, export potential, and inclusive employment generation.
+Targeted interventions, such as expanding access to finance and risk-sharing instruments, strengthening producer
+institutions and aggregation models, investing in supply chain infrastructure, fostering private-public partnerships,
+implementing evidence-based gender responsive interventions, and improving policy and regulatory frameworks, can
+unlock private investment, accelerate inclusive agribusiness development, and create sustainable jobs, especially for
+women and youth. Transforming these high potential value chains will build long-term resilience against economic and
+climate shocks, contributing towards Yemen’s recovery.
+
+6.      Addressing climate change risks is critical to unlocking resilient and sustainable growth and resilience in key
+value chains. Primary agricultural production and the wider agrifood system represents about 31 and 62 percent of total
+greenhouse gas (GHG) emissions in Yemen. Dairy animals alone contributed around 29 percent to total GHG emissions in
+Yemen, including 37 percent of total methane emissions. At the same time, climate change is projected to lead to rising
+temperatures, increasing precipitation, and higher variability and intensity of weather events, leading to longer and hotter
+dry periods, intensifying droughts, and more erratic rainfall. Yemen’s livestock sector is particularly vulnerable to
+increasing thermal stress, posing a serious threat to animal health, reproduction, and productivity, especially in dairy
+systems. Flooding and strong winds further disrupt water availability, feed quality, and veterinary service delivery. These
+impacts contribute to reduced milk yields, increased disease risk (e.g., sub -clinical mastitis), and distress sales,
+disproportionately affecting smallholders and women. Climate hazards also threaten cold chain infrastructure and
+processing investments. While these shifts pose severe risks for the agricultural sector in the absence of appropriate
+investments, they can also present potential opportunities if addressed appropriately9.
+
+
+
+7 FAOSTAT. (2024). Value Added (Agriculture, Forestry and Fishing)
+8 FAOSTAT. (2023). Share of employment in agriculture in total employment
+9 World Bank 2024: Yemen Country and Climate Development Report
+
+
+
+
+                                                                                                                         Page 3
+
+
+
+                                                                                                                 Official Use Only
+          The World Bank
+          IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+7.       Women play a vital yet undervalued role in agribusiness, facing persistent gender disparities that limit their
+economic potential and sector-wide impact. Agriculture sustains two-thirds of Yemenis, with over 75 percent in rural
+areas where women comprise 95 percent of the labor force and 88 percent nationally.10 Despite this, their roles are largely
+informal, underpaid, and concentrated in low-value segments. Only 13 percent of women hold land rights, and fewer than
+0.2 percent of female-headed households have irrigation access, contributing to a productivity gap of over 40 percent
+compared to men.11 Women are central to climate adaptation—managing kitchen gardens, dairy, and natural resources—
+yet face barriers to finance, technology, and decision-making (International Finance Corporation & World Bank, 2023).12
+Structural constraints, including restrictive gender norms, GBV/harassment, mobility limitations, and unpaid care work,
+further hinder participation. FAO’s Status of Women in Agrifood Systems (2023) stresses that empowering women boosts
+productivity, resilience, and food security.13 Gender-sensitive interventions—such as inclusive value chains, tailored
+finance, and capacity-building—show promise, while programs like FSRRP and IDA initiatives demonstrate impact through
+irrigation and training (World Bank Group, 2024). Closing these gaps requires systemic change, private sector engagement,
+and strategies that amplify women’s voices. Investing in women’s leadership and agency including access to land, finance,
+and climate-smart technologies is essential for Yemen’s agricultural transformation and inclusive growth.
+
+8.      To realize the development opportunities of the high-potential value chains, the proposed Multiphase
+Programmatic Approach (MPA) will target identified value chains in distinct phases, with phase 1 focusing on the dairy
+sector. This sector is characterized by a smallholder production system with small herd sizes of approximately 2-3 animals
+per farmer and low productivity (about 200 – 400 liters per animal per lactation). Yet, it is one of the largest agricultural
+commodities, contributing significantly to national economy and providing additional income to the farmers. Livestock is
+the main source of livelihood for small and marginal farmers. Furthermore, cattle are an essential asset for many rural
+households, providing draught power, manure for agricultural production, and insurance against extreme weather. The
+dairy sector is also an important source of nutrition, accounting for a significant proportion of per capita protein
+consumption. While demand for dairy products is growing, low productivity and fragmented markets mean that current
+production levels only satisfy about one-third of domestic demand, leading to a heavy dependence on imports and high
+prices for dairy products. Targeted investments can strengthen household food security and resilience to shocks, while
+also creating job opportunities and increasing income security.
+
+9.        A critical challenge facing Yemen’s dairy sector is addressing the structural constraints in the dairy sector, which
+is characterized by low productivity, fragmented market access, and limited private sector engagement. To unlock the
+sector’s potential, there is a need for a sequenced approach: (i) restoring critical production capacity and service delivery
+at farm and micro small and medium enterprise (MSME) levels; (ii) improving quality, food safety, and collection logistics;
+and (iii) enabling private investment and job creation. The Project strategy actively engages private sector actors—such
+as HSA and NANA Foods—to expand milk collection, processing, and distribution infrastructure, shifting reliance from
+imported skim milk powder to locally sourced fresh milk. Complementary investments in cold chain systems, veterinary
+services, and farmer training are envisioned to catalyze inclusive growth. Recognizing the private sector as a resilience
+pillar amid Yemen’s FCV context, the Project design leverages IDA–IFC collaboration to crowd in private capital, foster
+innovation, and create sustainable employment opportunities across the agribusiness value chain.
+
+ Relationship to CPF
+
+ C. Proposed Development Objective(s)
+
+10 World Bank. (2023). Climate adaptation and agriculture in Yemen.
+11 World Bank Group. (2024). Yemen agriculture sector review: Gender dimensions and climate resilience.
+12 Christiaensen, L. & Demery, L. (2023). Agriculture in Africa: Telling Myths from Facts
+13 Food and Agriculture Organization of the United Nations. (2023). The status of women in agrifood systems: FAO flagship report.
+
+
+
+
+                                                                                                                                            Page 4
+
+
+
+                                                                                                                                    Official Use Only
+       The World Bank
+       IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+ Increase in volume of milk sold through organized sector and net price realization at producer level, while fostering
+ private sector participation in agri-business in the program areas.
+
+  Key Results (From PCN)
+
+     a) Increase in the share of milk sold to the organized sector.
+     b) Farmers adopting climate resilient practices (disaggregated by gender).
+     c) Volume of credit accessed from FIs by producer, milk producer institutions and MSMEs supported by the project
+        (gender disaggregated).
+     d) Full time equivalent (FTE) jobs generated in beneficiary firms (disaggregated by gender).
+
+ D. Concept Description
+
+10.      The project design adopts a farmer-centric approach tailored to the Yemeni context, with a focus on improving
+service delivery and inclusive market development. It aims to enhance the quality of inputs and services provided to
+farmers through the adoption of standardized protocols and ensuring timely and effective technical support at the farm
+level. To strengthen market access, the project promotes village-level institutional mechanisms that operate transparently
+and equitably, while actively engaging private sector agribusiness, including IFC-supported agribusiness enterprises—in
+the development of aggregation, processing, and distribution systems.
+
+11.     The Project will adopt a light-touch community level institutional model to strengthen milk aggregation and
+quality assurance in Yemen’s dairy value chain. At the village level, informal Milk Producer Institutions (MPIs) comprising
+10–20 farmers or milk pourers will be supported to perform basic functions such as milk bulking and quality testing.
+Payments to farmers will remain individualized to maintain transparency and trust, while a simple capacity-building
+module will be introduced to improve hygiene, record-keeping, and quality standards without requiring formalization into
+cooperatives. This approach minimizes transaction costs and governance complexity, making it suitable for fragile
+contexts.
+
+12.     Beyond village-level aggregation, the Project will promote private-sector participation by engaging individual
+entrepreneurs to manage Bulk Milk Cooler (BMC) networks and also explore the options for working with higher-order
+producer organizations. Given the operating environment in Yemen, the proposed Project will undertake necessary due
+diligence and risks assessment prior to engaging with existing cooperatives. Milk supply from BMCs to processors could
+be bundled through these entrepreneurs and/or higher order producer institutions or collected directly by processors
+along predefined milk routes. This model aims to improve milk quality, reduce spoilage, and create opportunities for
+smallholders, women, and youth, while fostering private investment in milk collection and processing. Over time, the
+approach can be scaled and adapted based on lessons learned, with potential for gradual formalization in later phases.
+
+13.      Given the long-term nature of agriculture value chain improvement and the fragmented structure of Yemen’s
+agriculture sector, public investment is essential to catalyze technology transfer and productivity gains. While private
+sector interest in upstream investments remains limited, IFC has initiated strategic partnerships with local dairy processors
+such as the Hayel Saeed Anam (HSA) Group to expand processing capacity and shift sourcing from imported skim milk
+powder to locally sourced fresh milk. By aligning IDA’s public investments with IFC’s private sector engagement, the
+initiative seeks to unlock inclusive growth and job creation in Yemen’s dairy sector. These efforts are expected to generate
+significant employment opportunities across the value chain—from farm-level production to processing and logistics—
+particularly for youth and women.
+
+
+
+                                                                                                                         Page 5
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                   Triggered?
+ Projects on International Waterways OP 7.50                                         TBD
+ Projects in Disputed Area OP 7.60                                                   TBD
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+14.      The Environmental and social risks include dust, noise, and construction waste which may arise from both
+construction and rehabilitation activities. Operation of new or upgraded facilities may increase energy and water
+consumption, and improper management of animal waste, chemicals (e.g., disinfectants, veterinary pharmaceuticals), and
+packaging materials may lead to localized soil and water pollution. The expansion of feed and fodder processing facilities
+may result in increased use of agricultural inputs and runoff to nearby water bodies. The project may generate non-
+hazardous and hazardous waste, including animal waste, expired pharmaceuticals, packaging, and organic residues from
+feed processing. Inadequate waste management could pose risks to soil and water quality, particularly in areas with
+limited municipal services. In terms of community health and safety, the intensification of livestock production and
+expansion of veterinary services may increase the risk of zoonotic disease transmission if biosecurity measures are not
+adequately implemented. Key social risks under all three components cluster around (i) equitable inclusion of communities
+in agricultural support and market access—especially among vulnerable groups such as women, youth, and smallholders;
+(ii) safe and equitable rollout of artificial insemination breeding services; (iii) One Health and zoonotic disease
+management as livestock services expand; (iv) barriers to accessing finance that can exclude vulnerable groups, especially
+women farmers; (v) risks such as elite capture, market exclusion, and (vi) economic and/or physical displacement.
+
+15.     There are risks to communities, women, and vulnerable groups, especially resulting from entrenched gender
+norms that limit women’s mobility, participation, leadership, control over assets/income, and safe access to markets and
+services, women’s concentration in informal, low-value chain segments with low/unstable earnings, and rural remoteness
+and weak producer institutions can leave poorer and more remote smallholders (including women-headed households
+and youth) excluded from benefits. SEA/SH risks due to labor influx during construction and in financial service delivery
+are possible (due to power asymmetries between beneficiaries and agents/loan officers, and interactions at payment or
+loan disbursement sites, can create risks of harassment, exploitation, or quid pro quo). Gender focused programming can
+also provoke backlash in conservative contexts without careful engagement. There are also risks to data privacy as mobile-
+based communication and digitized onboarding/credit reporting raise risks of data misuse, especially sensitive data on
+women and vulnerable groups. In addition, there are risks to labor and working conditions in financed MSMEs as sub-
+borrower activities can involve poor labor practices (wage violations, discrimination, OHS lapses) requiring proportionate
+E&S screening and supervision by participating financial institutions (FIs).
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+
+
+
+                                                                                                                      Page 6
+
+
+
+                                                                                                              Official Use Only
+     The World Bank
+     IDA-IFC Agribusiness Program Phase 1(P511417)
+
+
+World Bank
+ Manivannan Pathy
+ Senior Agribusiness Specialist
+
+ Faiza Hesham Hael Ahmed
+ Senior Agriculture Specialist
+
+Borrower/Client/Recipient
+ To be determined
+
+Implementing Agencies
+ To be determined
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Manivannan Pathy, Faiza Hesham Hael Ahmed
+
+Approved By
+
+Practice Manager/Manager:              Rabih H. Karaky                    10-Dec-2025
+
+Country Director:                      Dina N. Abu-Ghaida                 22-Jan-2026
+
+
+
+
+                                                                                                Page 7
+
+
+
+                                                                                        Official Use Only
+

@@ -1,0 +1,531 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Maharashtra Resilience Development Project(P506340)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 01-Aug-2024 | Report No: PIDDC00814
+
+
+
+
+Public Disclosure Authorized
+        The World Bank
+        Maharashtra Resilience Development Project(P506340)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+India                          P506340                      Maharashtra Resilience Development Project
+Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+SOUTH ASIA                     06-Feb-2025                  29-May-2025                   Urban, Resilience and Land
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Government of India          Sangli, Miraj and Kupwad
+Financing (IPF)                                             Municipal Corporation,
+                                                            Kolhapur Municipal
+                                                            Corporation, Maharashtra
+                                                            Institution for
+                                                            Transformation (MITRA),
+                                                            Relief & Rehabilitation
+                                                            Department (R&R),
+                                                            Maharashtra Krishna Valley
+                                                            Development Corporation
+                                                            (MKVDC), Department of
+                                                            Finance, Ichalkaranji
+                                                            Municipal Corporation
+
+Proposed Development Objective(s)
+To strengthen multi-hazard climate and disaster risk management and institutional capacity for Maharashtra's resilient
+development.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   No
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                        400.00
+
+  Total Financing                                                                                             400.00
+
+
+                                                                                                                  Page 1
+         The World Bank
+         Maharashtra Resilience Development Project(P506340)
+
+
+                 of which IBRD/IDA                                                                                                        280.00
+      Financing Gap                                                                                                                           0.00
+
+    DETAILS
+      World Bank Group Financing
+       International Bank for Reconstruction and Development (IBRD)                                                                       280.00
+      Non-World Bank Group Financing
+       Counterpart Funding                                                                                                                120.00
+          Borrower/Recipient                                                                                                              120.00
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                  Concept Review Decision
+Substantial
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+      1. India’s climate variability, increased frequency and severity of disasters, and temperature spikes1 imperils
+         millions. More than 80 percent of India's population lives in areas highly susceptible to extreme seismic risk and
+         hydrometeorological disasters, including floods, droughts, and cyclones. Out of the almost 3.3 million km 2 of
+         landmass, 59 percent is prone to earthquakes of moderate to very high intensity, 15 percent is susceptible to
+         landslides, 12 percent is prone to river floods, and 75 percent of the coastline faces cyclone risk2, 33% of
+         experiencing erosion3. India, ranking seventh in climate disaster impact4, has an average annual loss of $87 billion5
+         from extreme weather. Rising temperature, sea-level rise, and extreme precipitation due to climate change are
+         expected to further retreat the country’s glacier mass, and increase the frequency and magnitude of wildfires,
+         landslides, coastal and river flooding. The trajectory of climatic changes, unplanned urbanization, and population
+         growth could drive 50 million people6 into poverty by 2040, intensifying health, economic, and food security risks.
+         Studies show potential infrastructure losses from sea-level rise and inundation in cities like Chennai, Mumbai, and
+
+
+1
+  Climate Risk Country Profile: India (2021) The World Bank Group.
+2 Government of India (2019) Annual Report 2018-19, National Disaster Management Authority of India, Government of India.
+3 NCCR (2018) National Assessment of Shoreline Changes along the Indian Coast.
+4 Eckstein et al. (2021) Global climate risk index 2021. Who Suffers Most from Extreme Weather Events, 2000-2019.
+5 WMO (2021) State of the Climate in Asia 2020.
+6
+  Skoufias et al. (2012) The Poverty and Welfare Impacts of Climate Change: Quantifying the Effects, Identifying the Adaptation Strategies.
+
+                                                                                                                                               Page 2
+        The World Bank
+        Maharashtra Resilience Development Project(P506340)
+
+
+         Kolkata whereas unplanned urban expansion worsens flooding and heat stress in major cities like Mumbai,
+         Chennai, Kolkata, Bengaluru, and Hyderabad. Despite achievements7 in reducing disaster-induced mortality,
+         significant investments are needed to reduce annual economic losses and strengthen household, community,
+         infrastructure and institutional resilience.
+
+ Sectoral and Institutional Context
+   2. Maharashtra is one of India’s economic growth engines aiming for a US$1 trillion economy by 2027–288, while
+       also facing increased frequency of extreme weather events and climate change impact. It is the second most
+       populous state, third largest in area, and the third most urbanized in India9 and contributes 14 percent of the
+       national nominal GDP.10 Climate risks are an increasing threat to Maharashtra's development due to the growing
+       exposure, rising disruptions and losses across economic sectors. Climate projections indicate an increasing
+       frequency of high intensity events such as the 2019 floods where the districts of Kolhapur and Sangli received
+       1,918 mm of rainfall during a fortnight in August (6–18 times the normal).11 There have been flooding events in
+       the state almost every year since 2019 with 1,246 lives lost during 2019–202212 and increasing instances of
+       annual flooding in cities. This period has also witnessed landslides, unseasonal rainfall, dry spells, droughts,
+       heatwaves, lightning strikes, and rising frequency of Arabian Sea cyclones impacting the state.
+   3. These disasters demonstrate that the past is not a reliable guide for future management of climate and
+       disaster risks13. In addition to the rising frequency and intensity of extreme weather events, hazard
+       characteristics are also evolving and demand more sophisticated monitoring, management, and mitigation
+       investments. For example, continuous rainfall events increasingly trigger mudflows and landslides which are not
+       covered by existing early warning systems. Similarly, the recent catastrophic floods emerge from the interaction
+       of multiple systems. Floods in the upper-Krishna basin is characterized by concurrent high flows both at
+       mainstream and tributaries, causing uncontrollably high backflow near confluences. Given that most flood water
+       is attributable to the runoff from free catchments, the operation of upstream reservoirs is insufficient to
+       regulate excess flood flows. The impact of flood releases from reservoirs also plays a crucial role. Dams like
+       Koyana, Warna and Radhanagari need effective management to balance flood control and water storage. Many
+       of the reservoirs in Maharashtra are over 30 years old, with the operational rules not updated since
+       construction. Further, frequent disasters place an unprecedented burden on the state’s otherwise stable fiscal
+       position, calling for a diversification of financing, including private capital mobilization, and reforms that better
+       prepare the public finance management systems for shocks. Advanced catastrophe modeling and quantification
+       of risks for undertaking such reforms do not currently exist.
+   4. Urban flooding is emerging as a frequent and damaging climate change-related hazard in Maharashtra,
+       disrupting lives and economic activity in cities. Many cities in Maharashtra increasingly face flood events due to
+       unplanned and unregulated urban development, inadequate river management, insufficient or lacking storm
+       water drainage, and encroachments on water bodies and flood zones. Mumbai and Pune experienced disruptive
+       flooding as recently as the 2024 monsoon. Smaller cities like Kolhapur, Sangli, and Ichalkaranji -located in the
+
+7 Ray et al. (2021) An assessment of long-term changes in mortalities due to extreme weather events in India: A study of 50 years’ data, 1970–2019
+8 Maharashtra Economic Advisory Council (2023) Implementation framework for becoming a $1 Trillion economy.
+9 Government of India (2011) Census of India.
+10 GoM (2023) Economic Survey of Maharashtra 2022–23.
+11 GoM (2023) A Report on Floods 2019 Krishna Sub Basin. https://wrd.maharashtra.gov.in/Upload/PDF/Vol%201%20Main%20Report.pdf
+12
+   Maharashtra State Disaster Management Plan (2023).
+13
+   According to the frequency analysis conducted by the flood modeling task force of MKVDC, the devastating 2019 flood is equated to a 25-year
+return period. Given the higher frequency of flood events in recent years, this may become an even more common disaster in the near future.
+
+                                                                                                                                             Page 3
+        The World Bank
+        Maharashtra Resilience Development Project(P506340)
+
+
+       upper Krishna sub-basin- are also increasingly impacted but lack adequate risk management capacities
+       compared to bigger cities. These cities are located along rivers and experience significant population growth. For
+       example, Sangli experienced a 400 percent increase in the size of its settlement areas in flood-prone zones
+       between 1985 and 201514. These cities are densely populated and need flood mitigation solutions that cater to
+       their specific characteristics, address the needs of the urban poor, and mitigate other climate impacts, such as
+       urban heat, and precipitation-triggered landslides. Newly formed urban local bodies such as in the city of
+       Ichalkaranji offer opportunities to plan trunk infrastructure based on climate-informed risk assessments, for
+       example through the development of drainage master plans. Addressing the challenges of these riverine cities
+       requires an integrated approach to fluvial and pluvial flood risk management.
+    5. Climate change projections affirm the need for integrated water and disaster risk management approaches
+       that enable economic growth and resilience. The existing temporal and spatial variation of water-related
+       climate risks in Maharashtra is likely to get amplified due to climate change, both because of the projected
+       rainfall and temperature trends as well as the cascading impact on groundwater recharge (due to increased
+       runoff during high intensity rainfalls). The only available climate projection15 for the state is ten years old and
+       indicates an increase in mean temperature from 1.2 to 1.6°C by the 2030s. The expected amplification of
+       variability requires robust plans for different climate scenarios and investments in data, digital infrastructure,
+       and decision support systems.
+    6. The proposed project will build upon GoM’s efforts to enhance capacity for climate-informed planning,
+       decision making and investments for Maharashtra, including by advancing integrated approaches to risk
+       management and financing. GoM constituted a high-level committee16 after the 2019 floods to understand its
+       causes and make recommendations for future resilience-building. The proposed project will support GoM in
+       implementing the recommendations of this committee together with the resilience-building measures
+       envisioned in the State’s Disaster Management Plan (2023)17 and the State Action Plan on Climate Change.18
+
+ Relationship to CPF
+   7. The proposed project builds on the Climate Change Action Plan 2021–2025 (CCAP), the South Asia Roadmap,
+        and the Global Crisis Response Framework (GCRF) and operationalizes key objectives outlined in the CPF. The
+        project aligns with Focus Area 1 of the CPF on Resource Efficient Growth by improving resilience to climate
+        change and will improve DRM through resilient infrastructure, supporting state DRM institutions, and
+        emergency preparedness (Objective 1.5); enhance connectivity and make infrastructure climate-resilient
+        (Objective 2.3). It will also directly contribute to core objectives of the GCP and the corporate results indicator of
+        people with enhanced resilience to climate risks.
+   8. The proposed project is consistent with India’s NDCs, significantly contributing to current and future climate
+        change resilience in a highly exposed area and minimizing greenhouse gas emissions.
+
+ C. Proposed Development Objective(s)
+
+
+
+
+14 GFDRR (2021) India Urban Climate Risk Analysis (Unpublished).
+15 TERI (2014) Assessing Climate Change Vulnerability and Adaptation Strategies for Maharashtra.
+16 GoM (2020) A Report on Floods 2019 (Krishna Sub Basin) by Experts Study Committee.
+17 GoM (2023) State Disaster Management Plan.
+18 GoM (2023) Draft Maharashtra State Action Plan on Climate Change (2020–2030).
+
+
+
+                                                                                                                          Page 4
+     The World Bank
+     Maharashtra Resilience Development Project(P506340)
+
+
+To strengthen multi-hazard climate and disaster risk management, and institutional capacity for Maharashtra’s
+resilient development.
+
+
+Key Results (From PCN)
+
+  9. The project will measure progress toward the PDO via the following proposed indicators:
+         a. People with enhanced resilience to climate risks (Corporate Results Indicator) (Number of people,
+             disaggregated by gender and youth)
+         b. Area with reduced flood and landslide risk (ha) (Number)
+         c. Expanded communication of early warnings to target population (Number)
+         d. People served by emergency management centers with enhanced operational capacities (Number)
+         e. A comprehensive strategy to mobilize private capital to finance and transfer disaster risk is adopted and
+             prioritized instruments implemented by the state of Maharashtra (Y/N)
+
+D. Concept Description
+   10. The project seeks to enhance resilient development in Maharashtra by demonstrating an integrated climate
+       and disaster risk management approach. This will be undertaken in the upper Krishna sub-basin, including the
+       cities of Kolhapur, Sangli, and Ichalkaranji, which faced unprecedented flooding in 2019 and is also likely to
+       experience increased frequency and intensity of extreme hydro-meteorological events. The integration is
+       envisioned at the following scales:
+            a. Spatial: design and implement climate and disaster risk-informed mitigation actions upstream and in the
+                downstream urban areas of the Krishna River and its tributaries.
+            b. Levels of governance: a strategic mix of state, district, and city-level actions.
+            c. Multi-sectoral: investments anchored at the sectoral entities for water resource management, disaster
+                risk management, disaster risk financing and urban resilient development.
+   11. MRDP will benefit the state beyond the investments directly financed under the project. The project will
+       support the design and establishment of learning platforms in partnership with local organizations to
+       institutionalize and share knowledge and data. Feasibility studies in innovative and complex risk reduction
+       measures will enable large-scale future investments in climate and disaster risk reduction.
+   12. The project builds on the World Bank’s past and current operations in Maharashtra as well as the GoM and
+       other development partners' initiatives and will draw lessons from global good practices. This includes over
+       three decades of investments in rural water supply and sanitation by the World Bank, the National Hydrology
+       Project (NHP), the National Cyclone Risk Mitigation Project (NCRMP-II), and the ongoing Maharashtra Project on
+       Climate Resilient Agriculture (POCRA). MRDP integrates learned lessons by i) ensuring a multi-sectoral and long-
+       term approach to climate and disaster risk management across state, river basin, and local scales, ii) applying
+       climate-informed and integrated models for prioritizing project interventions in a complex systems, iii)
+       enhancing state capacity and emergency operations through institutional strengthening and data-enabled
+       approaches, iv) involving communities and vulnerable groups, and v) building financial resilience to ensure long-
+       term sustainability of project activities. The project will also leverage complementarities with Maha STRIDE
+       currently in preparation with the same implementing agency in GoM as well as the state’s experience with other
+       development partners like ADB, JICA, and AIIB.
+
+
+
+                                                                                                                    Page 5
+   The World Bank
+   Maharashtra Resilience Development Project(P506340)
+
+
+13. The multi-sectoral project activities toward enhanced institutional capacity for climate informed and
+    integrated risk management aims at reducing the loss of lives and economic damages from disasters in
+    Maharashtra. It will improve climate resilience through feeding downscaled state-of-the-art climate models into
+    decision making systems for risk management. The proposed components are:
+        a. Component 1 – Climate-Informed Flood Risk Management: Reduce fluvial flood risk in the upper-
+            Krishna sub-basin through a mix of mitigation solutions, including: i) Climate-informed reservoir
+            operations, enhancement of data acquisition, data analysis and utilization for reservoir operations
+            towards better flood risk management, ii) Flood risk mitigation works in the Krishna River system
+            identified and prioritized through a modeling to determine their relative and collective effectiveness for
+            flood mitigation, and iii) Feasibility studies for proposals to moderate extremely high flood intensities
+            and reduce drought risk.
+        b. Component 2 – Multi-Hazard Resilience Building in Districts and Cities: Enhance resilience of selected
+            vulnerable areas through: i) Landslide risk mitigation in hotspots of selected districts using gray
+            infrastructure where needed and nature-based solutions where possible, as well as landslide risk
+            monitoring systems. ii) Urban flood risk mitigation, e.g., creating detailed risk assessments, high
+            resolution maps, and resulting program of measures, including storm water drainage and nature-based
+            solutions. The focus will be on institutional capacity development and innovative measures that create
+            co-benefits for residents, through e.g., green spaces and corridors, urban wetlands and floodable parks,
+            rain gardens, and permeable pavements. Activities shall feed state-level initiatives, incl. institutional
+            reforms, to establish a long-term planning ecosystem for urban flood resilience, including, e.g., capacity
+            development, multi-level and sectoral cooperation, private capital mobilization, and data-enabled and
+            informed management, operation and maintenance.
+        c. Component 3 – Upgrading Emergency Management Capacities: Strengthen multi-level emergency
+            preparedness and response capabilities through the following: i) Upgrade state, district, and city
+            emergency operation centers with state-of-the-art command and control facilities for improved
+            situational awareness and decision-making, ii) Strengthen early warning systems, development of
+            modules for lightning, landslides and flood early warning; designing effective and inclusive dissemination
+            mechanisms through cell broadcasting; and community-based disaster risk management and early
+            action capacities, iii) Climate-informed multi-hazard risk assessments for districts using innovative
+            approaches such as remote sensing and earth observation, feeding into an integrated digital platform
+            for resilience, iv) institutional reforms to enable and strengthen open access and sharing of risk data,
+            and iv) Establishment of knowledge and learning platform for resilient development planning.
+        d. Component 4 – Private Capital Mobilization for Risk Financing: Enhance the financing capabilities and
+            fiscal resilience of GoM across administrative scales through: i) developing diversified public and private
+            disaster and climate-risk financing mechanisms for investments in climate mitigation and adaptation, ii)
+            linking existing disaster risk reduction mechanisms with risk financing strategies, and iii) transferring
+            disaster risks to private capital markets. This entails developing a comprehensive strategy that proposes
+            resilience building investments for financial protection and developing risk models to inform disaster
+            risk financing decision making and potential disaster risk transfer. Possible financial tools will be
+            explored, e.g., credit enhancement for tapping into private capital, resilience and catastrophe bonds,
+            and creating a blended financing facility to mobilize private sector investments.
+        e. Component 5 – Implementation Support and Knowledge Management: Project and knowledge
+            management activities include i) capacity building, ii) coordination, financial management, procurement,
+
+                                                                                                                   Page 6
+      The World Bank
+      Maharashtra Resilience Development Project(P506340)
+
+
+               environmental and social risk management, communication, monitoring and evaluation, and
+               stakeholder engagement, and the iii) development of a ‘knowledge lighthouse’ for knowledge
+               dissemination at state and country level.
+   14. The project design will operationalize WBG’s corporate commitments on climate, citizen engagement and
+       gender:
+           a. Paris Alignment: The project is aligned with the goals of the Paris Climate Agreement and is consistent
+               with the implementation of India’s climate strategies including the updated First Nationally Determined
+               Contributions and the Long-Term Low-Carbon Development Strategy. None of the project components
+               are anticipated to result in a significant increase of greenhouse gas emissions. Where possible, energy
+               saving measures will be integrated into the project design. The scope of the proposed project does not
+               result in risks to climate change mitigation. Its activities will enhance the resilience to climate and
+               disaster risks, thus actively contributing to climate adaptation. The choice of activities has been
+               informed by the need to address multiple hazards and climate impacts and address differentiated
+               impacts of on women and marginalized groups.
+           b. Citizen Engagement will be crucial for designing and implementing locally responsive and community-
+               based interventions that enhance the sustainability of project outcomes. Community-based approaches
+               will be implemented in planning and implementation of disaster risk preparedness and management
+               measures. Early warning systems will include information sharing and dissemination mechanisms that
+               ensure all segments of the population, particularly the most vulnerable, receive timely warnings. MRDP
+               will support learning and knowledge sharing for building capacity of local stakeholders, facilitating equal
+               access to critical knowledge and data, and promoting broader community resilience-building.
+           c. Gender: Recognizing the gendered impacts of disasters and extreme weather events, the project will
+               focus on specific gender gaps and design interventions to close these gaps. MRDP will prioritize the
+               inclusion and participation of women in disaster preparedness and their access to early warning
+               systems. The labor force participation of women in Maharashtra is 38 percentage points lower than that
+               of men. Consequently, the project i) will train and hire women to staff emergency operation centers and
+               ii) identify opportunities to skill and employ women in nature-based solution interventions.
+           d. Climate Co-Benefits: Maharashtra’s vulnerability to disasters is exacerbated by the impacts of climate
+               change. The project intends to address these vulnerabilities through strategic investments aimed at
+               strengthening adaptive capacity though an integrated climate and disaster risk management approach.
+               The project will generate adaptation co-benefits through its interventions under all components. Under
+               component 1, the project will finance interventions to reduce fluvial flood risk such as climate-informed
+               reservoir operations and flood risk mitigation works. Component 2 will focus on landslides and urban
+               flood risk mitigation (pluvial and fluvial flood risk) through, e.g., gray infrastructure, storm water
+               drainage, and NBS. Under component 3, the project will support upgrading emergency management
+               capacities including early warning systems and community-based disaster risk management. Component
+               4 will focus on developing diversified public and private disaster and climate-risk financing mechanisms
+               to ensure that investments in climate mitigation and adaptation are sustainable.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+
+
+                                                                                                                      Page 7
+       The World Bank
+       Maharashtra Resilience Development Project(P506340)
+
+
+                                                                                  Triggered?
+                                                             Last approved                           Current
+ Projects on International Waterways OP 7.50                      No
+ Projects in Disputed Area OP 7.60                                No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+Based on the assessment carried out at Concept Stage, environmental and social risks are rated 'substantial'. These
+emanate from interventions associated with (i) flood risk management, including reservoir operations, improvement of
+river cross-sections and nallah restoration (Component 1), (ii) landslide risk mitigation (Component 2.1), (iii) storm water
+drainage works (Component 2.2) and, (iii) upgrade of Emergency Operation Centers (EOCs) (Component 3).
+Environment: The likely adverse impacts due to works under Component 1 include: (i) impacts on ecology and habitats -
+both aquatic and riparian; (ii) impact on vegetation, plantations and forest areas; (iii) changes in water quality/flows
+during construction phase; (iv) pressure on natural resources (particularly large quantity of stone required for protection
+works); (v) delays in obtaining regulatory permits and slippages in compliance to conditions therein; (vi) disruption to
+services due to shifting of utilities; (vii) OHS issues, particularly those associated with work in/around water and
+construction vehicles/machinery movement, (viii) direct or indirect impacts on cultural heritage and, (x) issues with
+management of dredged materials. The potential risks/impacts associated with works under Component 2 include: (i)
+loss of trees/vegetation; (ii) OHS risks for workers; (iii) community health and safety risks (specifically around sensitive
+receptors); (iv) improper disposal of wastes/debris; (v) increase in air/dust, soil, water and noise pollution during
+construction; (vi) impact on cultural/common property resources and; (vii) disruption of services due to utility shifting.
+For construction and operation of EOCs, the primary issues are associated with e-waste management, energy footprint
+and, life & fire safety risks. Social: River widening and nallah restoration works in rural areas are likely to involve
+acquisition of small parcels of private agriculture lands along the riverbanks, including government and private
+structures and field crops. For the urban storm water drainage interventions, minor impacts are likely on private
+structures and livelihoods (like staircases, ramps, shops etc.) over the existing drains/roads. For pumping station, land
+acquisition will be required if the Municipal Corporations are not able to identify suitable government land. Collective
+impacts on tribal people are not expected to be significant, given their low presence in the project area (less than 1%).
+Given the scope of construction work in the rural areas and the towns and establishment of construction sites and labor
+camps will lead to risks associated with labor influx, labor camp management and OHS/CHS. Managing expectations and
+concerns of key project stakeholders, including project beneficiaries, adversely impacted groups, local governments, and
+community groups/leaders will be critical for effective stakeholder management. Institutional Risks: The lack of technical
+and operational expertise in the PMU and PIUs in assessing, mitigating and managing E&S risks and impacts consistent
+with applicable ESSs is an additional risk factor. While the exact nature of environment and social risks/impacts due to
+project interventions will only be known during the assessments, deployment of experts, establishment of systems and
+capacity development measures need to be streamlined early-on given the nature and complexity of proposed project
+interventions. The risk ratings will be revisited once more granular/specific information on the location and scale of
+interventions is available. E&S Instruments: At the project level, an Environment and Social Management Framework
+(ESMF), Stakeholder Engagement Plan (SEP) and Labour Management Procedures (LMP) will be prepared. Relevant
+
+                                                                                                                        Page 8
+       The World Bank
+       Maharashtra Resilience Development Project(P506340)
+
+
+aspects of ESS 1, ESS 2, ESS 3, ESS 4, ESS 5, ESS 6, ESS 7, ESS 8 and ESS 10 along with national/state (Borrower) systems
+will be assessed and required mitigation measures will be reflected in the Environment and Social Commitment Plan
+(ESCP). For priority investments to meet the readiness criteria of Govt. of India, sub-project level ESIA, ESMP and RAP
+(and other instrument/s, as needed) will be prepared commensurate to the potential impacts envisaged from proposed
+interventions. All ES instruments prepared by project appraisal will be consulted upon, and disclosed on MRDP and
+World Bank websites.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Anup Karanth
+   Senior Disaster Risk Management Specialist
+
+   Satya Priya LNU
+   Senior Water Resources Management Specialist
+
+   Jolanta Kryspin-Watson
+   Lead Disaster Risk Management Specialist
+
+ Borrower/Client/Recipient
+  Government of India
+
+ Implementing Agencies
+
+
+
+
+                                                                                                                      Page 9
+     The World Bank
+     Maharashtra Resilience Development Project(P506340)
+
+
+ Sangli, Miraj and Kupwad Municipal Corporation
+ Shubham Gupta
+ Municipal Commissioner
+ smkcorporation@gmail.com
+
+ Kolhapur Municipal Corporation
+ K. Manjulekshmi -
+ Municipal Commissioner
+ commissionerkmc@rediffmail.com
+
+ Maharashtra Institution for Transformation (MITRA)
+ Praveen Pardeshi
+ Chief Executive Officer
+ ceo-mitra@mah.gov.in
+
+ Relief & Rehabilitation Department (R&R)
+ Sonia Sethi
+ Principal Secretary
+ psec.r&r@maharashtra.gov.in
+
+ Maharashtra Krishna Valley Development Corporation (MKVDC)
+ Atul Kapole
+ Executive Director
+ edmkvdcpune@gmail.com
+
+ Department of Finance
+ Om Prakash Gupta
+ Additional Chief Secretary
+ acs.finance@maharashtra.gov.in
+
+ Ichalkaranji Municipal Corporation
+ Omprakash Divate
+ Municipal Commissioner
+ mun.comm.imc@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+
+
+                                                              Page 10
+     The World Bank
+     Maharashtra Resilience Development Project(P506340)
+
+
+APPROVAL
+
+
+Task Team Leader(s):                  Anup Karanth, Satya Priya LNU, Jolanta Kryspin-Watson
+
+Approved By
+
+Practice Manager/Manager:             Abhas Kumar Jha                       18-Jul-2024
+
+Country Director:                     Hideki Mori                           01-Aug-2024
+
+
+
+
+                                                                                              Page 11
+

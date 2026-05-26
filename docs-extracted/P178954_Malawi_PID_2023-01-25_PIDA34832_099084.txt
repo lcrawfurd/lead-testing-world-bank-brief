@@ -1,0 +1,673 @@
+Public Disclosure Authorized
+                                         The World Bank
+                                         Malawi: Water and Sanitation Project - 1 (P178954)
+
+                                f
+
+
+
+
+Public Disclosure Authorized
+
+
+
+                                                      Project Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                                      Appraisal Stage | Date Prepared/Updated: 25-Jan-2023 | Report No: PIDA34832
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               Jan 08, 2023                                                                                         Page 1 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                Project Name             Parent Project ID (if any)
+   Malawi                                        P178954                   Malawi: Water and
+                                                                           Sanitation Project - 1
+   Region                      Estimated Appraisal Date                    Estimated Board Date     Practice Area (Lead)
+   EASTERN AND SOUTHERN AFRICA 25-Jan-2023                                 29-Mar-2023              Water
+
+   Financing Instrument                          Borrower(s)               Implementing Agency
+   Investment Project Financing                  Ministry of Finance and   Blantyre Water Board
+                                                 Economic Affairs
+
+   Proposed Development Objective(s)
+
+   To increase access to improved water supply and safely managed sanitation services in Blantyre Metropolitan Area,
+   and to enhance the operational and financial efficiency of the Blantyre Water Board.
+
+   Components
+   Water Supply Improvements
+   Priority Sanitation Investments
+   Institutional Capacity Strengthening
+   Technical Assistance and Project Management Support
+   Contingency Emergency Response
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                   134.00
+   Total Financing                                                                                                     134.00
+                             of which IBRD/IDA                                                                         130.00
+   Financing Gap                                                                                                           0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                       130.00
+
+
+Jan 08, 2023                                                                                                          Page 2 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+
+         IDA Grant                                                                                                                            130.00
+
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                                                       4.00
+         Borrower/Recipient                                                                                                                     4.00
+
+   Environmental and Social Risk Classification
+   Substantial
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+  1.     Poverty remains stubbornly high in Malawi. With over half of its population living below the national poverty
+  line, which has remained virtually unchanged in the last decade, Malawi remains one of the poorest countries in the
+  World. Between 2010 and 2019, Real Gross Domestic Product (GDP) growth per capita remained largely flat and has had
+  a very limited impact on poverty reduction.1 Malawi ranked 169 out of 189 countries on the United Nations Human
+  Development Index2 and 142 out of 173 on the World Bank's Human Capital Index3 in 2021. Although Malawian
+  households have diversified to other sources, such as short-term labor (ganyu),4 agriculture has remained the main
+  income source over the last ten years, albeit with persistently low returns. The transition from agriculture to higher-
+  return activities has been slowed, partly due to a lack of access to financing, market constraints, skill gaps, and high
+  vulnerability to shocks.
+  2.      Malawi is highly vulnerable to exogenous shocks. According to the Malawi Poverty Assessment (MPA), for every
+  three Malawians that moved out of poverty between 2010 and 2019, four fell back due to the impact of weather shocks.
+  The high vulnerability is driven by an overreliance on natural resource-intense economic activities, limited infrastructure,
+  high population density, and the associated catchment degradation. Climate change scenarios suggest that Malawi will
+  see increasing climatic variability, higher temperatures, longer dry periods, and more erratic and intense rainfall events.5
+  While the country was still recovering from Cyclone Idai of 2019, tropical storms Ana and Gombe hit parts of the country
+  in early 2022, directly affecting close to one million people, with USD 326.0 million in damages and economic loss.6 The
+
+
+           1 World Bank (2022) Malawi Poverty Assessment
+           2 UN Human Development Index tables
+           3 https://datacatalog.worldbank.org/int/
+           4 A type of labor hired on a daily basis or other short-term period, in a form of piecework weeding or ridging on other people’s
+
+           farms or in non-farm sectors, such as construction or gardening.
+           5 Government of Malawi (2017). Strategic Program for Climate Resilience: Pilot Program on Climate Resilience (PPCR).
+           6 From GRADE Assessment
+
+
+
+Jan 08, 2023                                                                                                                              Page 3 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+  combined effects of floods and droughts have caused losses estimated at 1.7 percent of Malawi's GDP annually.7 Further,
+  the global COVID-19 pandemic dampened Malawi's medium-term growth prospects. Economic growth fell from 5.4
+  percent in 2019 to 0.8 percent in 2020 before partially rebounding to 2.2 percent in 2021.8 Amid uncertainties following
+  a number of severe shocks, including the impacts of the Russia-Ukraine war, economic growth is projected to decline in
+  2022 but increase modestly in the medium term.
+  3.      Women face disproportionate disadvantages in accessing services, affecting their performance in different
+  economic activities. For instance, in the presence of low access to electricity and water, women also tend to spend more
+  time than men collecting firewood and water.9 In 85 percent of Malawian households, women are responsible for
+  collecting water.10 Similarly, the lack of WASH facilities is particularly challenging for girls, who, in many cases, are forced
+  to stay at home during the menstrual period due to the absence of adequate sanitation facilities in their schools. This
+  limits school attendance and retention for girls, which in turn limits their future livelihood opportunities. Among the key
+  policy actions proposed by the Malawi Poverty Assessment to enhance economic growth is the need to address
+  determinants of unequal opportunity, especially low completion rates for secondary education, by keeping girls in school
+  much longer, through improved water sources and sanitation facilities at schools.
+  4.      Urbanization has slowed down over the past decade, limiting the country's opportunities for economic growth.
+  Whereas cities are known as productive engines for growth where labor is matched with employment opportunities,
+  Malawi has experienced a deceleration of urbanization in contrast to its regional peers.11 The proportion of urban
+  inhabitants increased only by one percent between 2010 and 2019, which correlates to the country's poverty reduction
+  trends. A key driver for urbanization in Malawi relates to job opportunities. In the past decade, about 39 percent of the
+  internal migrants from rural to urban areas were seeking job or business opportunities.12 However, cities suffer from
+  inadequate access and reliability of most basic infrastructure services, which add to production costs and weaken the
+  competitiveness of Malawi's private sector. The availability of services and utilities, such as water supply and sewerage,
+  in built-in city footprints, can significantly contribute to agglomeration economies and densification of services and
+  reduce urban sprawling, a major challenge affecting the productivity of Malawian cities.13 Addressing the urban
+  infrastructure and service gaps is therefore critical to boosting urban productivity and supporting structural
+  transformation for Malawi.
+  5.      Unreliable services and lagging infrastructure development are significantly hindering the private sector's
+  growth. According to the World Bank's global study14 on the economics of water scarcity, a single water interruption in
+  an urban firm can reduce its revenue by more than eight percent. And if that firm is in the informal sector, as many are
+  in developing countries, sales decline by 35 percent, ruining livelihoods and stagnating economic growth. As part of the
+  2014 World Bank Enterprise Survey (WBES)15 in Malawi, firms reported experiencing an average of 6.7 electricity outages
+  lasting about 3.5 hours. Firms also reported 5.3 days of insufficient water in a typical month, which is the highest
+  amongst comparable countries in the region and more than double the regional average for countries in Sub-Saharan
+  Africa (1.8 days in a typical month). Water outages were reported more prominently by enterprises in Blantyre compared
+  to the other parts of the country. Except for the capital city, Lilongwe, much of the existing water supply infrastructure
+
+           7 https://www.gfdrr.org/en/feature-story/reducing-impact-natural-disasters-malawi
+           8 World Bank (2022) Malawi Economic Monitor June 2022.
+           9 World Bank (2022) Malawi Poverty Assessment
+           10 National Statistics Office of Malawi (2021) Malawi Multiple Indicator Cluster Survey 2019-20, Survey Findings Report
+           11 https://databank.worldbank.org/source/world-development-indicators
+           12 National Statistics Office of Malawi (2020) The Fifth Integrated Household Survey 2020 Report
+           13 Government of Malawi (2019) National Urban Policy
+           14 Damania, R. et al (2017). Uncharted Waters: The New Economics of Water Scarcity and Variability. Washington DC, The
+
+           World Bank
+           15 https://microdata.worldbank.org/index.php/catalog/2358
+
+
+
+Jan 08, 2023                                                                                                                         Page 4 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+  in the country is aged and operating significantly below the optimum efficiency levels. Furthermore, the water and
+  electricity utilities are failing to cope with the population growth and increased demand. Major donor-financed
+  programs were unable to adequately address the infrastructure deficit, given the focus on expansion and less on
+  improving the operational efficiency of the systems. Even where investments were made, these have not translated into
+  improved services due to the weak institutional capacity of the service providers, highlighting the need for a more
+  comprehensive approach towards the provision of sustainable, green, affordable, reliable services to businesses;
+  through a combination of enabling infrastructure and service delivery reforms.
+  6.     Blantyre City, the second-largest urban center in Malawi, needs urgent infrastructure interventions. With close
+  to 900,000 inhabitants, and an average growth rate of 2.8 percent per annum, the city has struggled to accommodate
+  its growing population in a planned manner, despite its vibrant urban economy and historical and cultural heritage.
+  Nearly 70 percent of the city's population lives in unplanned, informal settlements characterized by high poverty rates,
+  overcrowding, poor road access, and limited access to basic services, such as electricity, water, and sanitation. Low and
+  unreliable energy and water supply access have also been among the key constraints to private sector development, in
+  addition to unstable macroeconomic conditions and limited access to financing, thus, limiting the city's capacity to
+  further contribute to the country's economic growth.16
+   Sectoral and Institutional Context
+
+  7.      Water and sanitation service reliability is a major challenge in Malawi. With 70 percent access to basic water
+  supply and 27 percent access to sanitation, 17 the country is significantly off-track to achieving the SDG for water.18 19
+  Despite appearing to be better off than some of its regional peers, the absolute number of unserved people has
+  increased in the last ten years (by 0.9 million for water supply and 1.4 million for sanitation), and official access figures
+  often mask the poor quality of services. Globally, Malawi ranked 5 out of the top 10 countries (with a population greater
+  than 1 million) with the highest proportion of people at risk of frequent water shortages and 3 for the highest proportion
+  of people lacking sanitation. 20 Although there is an established service delivery framework for water supply in urban
+  centers and small towns, all the urban water utilities struggle with high operational inefficiencies, with close to 50
+  percent non-revenue water (NRW); limited coverage, particularly in the peri-urban areas where the poor and vulnerable
+  reside; and the high operating expense ratio, at more than 1.5 and low revenue collection efficiency at less than 80
+  percent on average. Service provision for sanitation in general and rural water supply is less clear. Rural communities
+  rely mostly on boreholes operated through community management structures, most of which lack the technical and
+  managerial skills to sustainably manage its operations. Between 2016/17 and 2017/18, water point functionality fell
+  from 77 to 71 percent, mostly due to a lack of preventive maintenance.21 Efforts to improve functionality in rural areas
+  have only been centered on training area mechanics and linking these to shop partners who stock parts. Further, the
+  sector's lack of gender diversity undermines the performance of these institutions, particularly in responding to the
+  needs of a diverse customer base. Currently, women are underrepresented in the Malawian water sector, particularly
+  in decision-making roles, with less than 10 percent of supervisory and managerial staff being female in water utilities.
+
+
+
+
+           16 UN-Habitat(2011) Blantyre City Profile
+           17 https://washdata.org/data/household#!/mwi
+           18 https://sustainabledevelopment.un.org/memberstates/malawi
+           19 https://dashboards.sdgindex.org/profiles/malawi accessed on November 29, 2022
+           20 Sadoff, C. et all (2015). Securing Water, Sustaining Growth: GWP/OECD Task Force on Water Security and Sustainable
+
+           Growth, University of Oxford, UK
+           21 GoM (2022) Malawi Climate Resilience WASH Financing strategy
+
+
+
+Jan 08, 2023                                                                                                                       Page 5 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+  8.     The impacts of poor water supply and sanitation on public health are severe. The Ministry of Health estimates
+  an average of 13 million cases of diarrhea per year in children under five,22 with about 90 percent caused by poor water,
+  sanitation, and hygiene (WASH) services. About 37 percent of the children under age five in Malawi are short for their
+  age due to the long-term effects of poor sanitation, consequent diarrhea, and malnutrition, and 20 percent are severely
+  stunted.23Unsafe water and sanitation have exacerbated the impacts of the Covid-19 pandemic, and the country is
+  currently racing to contain a Cholera outbreak due to poor access to water and sanitation since the aftermath of Tropical
+  Storm Ana. As of January 3, 2023, there were 18,676 reported cases, with 625 deaths across the country since the
+  outbreak, with Blantyre District registering the highest number of cases. Emergency response support is being provided
+  by multiple partners, including the World Bank, following the Government appeal. World Bank response includes US$
+  100 million to provide emergency support and enable the continued delivery of essential health services in Malawi under
+  the Emergency Project to Protect Essential Health Services (P180231), and US$ 17 million for essential medicines under
+  the Malawi COVID-19 Emergency Response and Health Systems Preparedness Project (P173806) CERC activations. These
+  interventions provide life-saving health services for Cholera treatment. However, a longer-term approach is needed to
+  address the structural WASH service delivery gaps that lead to Cholera outbreaks, particularly in high-risk areas such as
+  Blantyre City.
+  9.     The recently established Ministry of Water and Sanitation (MoWS) oversees the water sector, including water
+  resources management, water supply and sanitation. Urban and small-town water supply is under the responsibility of
+  the two city water boards (Lilongwe and Blantyre) and the three regional water boards (Northern, Central, and
+  Southern). The water boards report to MoWS on technical matters and to the Department of Statutory Corporations
+  (DSC)—under the Office of President and Cabinet—on policy issues (such as financial, administrative, and managerial
+  oversight). The Water Works Act, the National Water Policy and the Sanitation Policy are currently under review to
+  enhance the sector policy framework and accelerate investments to cover the access gap. However, further reforms are
+  required to enhance the governance of urban water utilities, including establishing a regulatory function to incentivize
+  service delivery efficiency improvements, transparency, and customer engagement, implementing cost-recovery tariffs,
+  mobilizing financing, and enabling the expansion of services to close the gap. Moreover, a clearer and more robust
+  service delivery framework is needed to manage rural WASH services more efficiently, with a potential expansion of the
+  Boards services to enhance the sustainability of services.
+  10.     Addressing the WASH challenges in Malawi would require a strategic approach to the sector's structural
+  challenges preventing further improvements in access and quality of services. The GoM is committed to providing
+  adequate, reliable, and sustainable water and sanitation services to Malawi's urban, peri-urban, and rural populations.
+  The Water Sector Public Sector Expenditure Review (PER) of 2020 indicates that despite limited fiscal space, GoM has
+  increased budget allocations to water, sanitation, and hygiene (WASH) from 0.39 percent of total government
+  expenditure in 2014/15 to 0.49 percent in 2018/19. These improvements come as a result of the GoM recognition that
+  investments in water supply and sanitation (WSS) have the potential to harness human capital and enhance productivity
+  in the country. However, the sector faces two major interrelated challenges – a lack of investment financing to match
+  needs and the inefficiency of the water utilities and service providers, which is exacerbated by their weak corporate
+  governance. Firstly, there is a need to shift from the traditional water source/production expansion into prioritizing and
+  fast-tracking investments that result in rapid improvements in the reliability and resilience of water production and
+  distribution services. Second, enhance the support to water service providers with incentives to reduce operational
+  inefficiencies by linking public financing for capital expenditure and tariff reviews to verifiable improvements in
+  efficiency, governance, and innovation. Third, the Government should play its part in strengthening the financial position
+  of water utilities by minimizing the accumulation of unpaid utility bills through the adoption of prepaid services for all
+
+           22 https://www.health.gov.mw/index.php/diarrhoel-diseases
+           23 NPC (2021) Cost-benefit analysis of interventions to reduce the prevalence of stunting in Malawi - Technical Report
+
+
+
+Jan 08, 2023                                                                                                                        Page 6 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+  Government agencies and departments. Finally, the water service providers can adopt greener and more efficient
+  processes to build resilience to external shocks and contribute to the country's environmental sustainability.
+  11.     The MoWS prepared a water sector development program concept24to improve access to water and sanitation
+  services, enhance climate resilience, promote economic growth, and support poverty alleviation. The concept builds
+  upon the key country and sector planning instruments: (i) the Malawi Vision 2063 (MW2063), which aims to transform
+  Malawi into a wealthy and self-reliant industrialized 'upper-middle-income country' by the year 2063,25 (ii) the national
+  climate resilience financing strategy (2022 -2032) which outlines the path to cover the financing gap and ensure
+  sustainability considering the climate change scenarios, (iii) water sector investment plan (2012-2030) which targets full
+  water supply coverage and at least 40 percent sanitation coverage by 2030, and (iv) the water utility reform agenda
+  initiated in 2020 to enhance the operational efficiency and quality of service of the water boards. The program design
+  relies on key lessons from the National Water Development Projects (NWDP) I (P001667) and II (P096336), and the
+  Lilongwe Water and Sanitation Project (LWSP - P163794), where investments in operational efficiency and targeted
+  infrastructure have resulted in significant service quality improvement and expansion, with Lilongwe Water Board, fully
+  covering its city boundaries and moving into the settlements in the surrounding areas. As a sequence to the LWSP, the
+  concept proposes Blantyre City as the next priority in the urbanization strategy outlined in the MW2063, in parallel with
+  performance-based financing for small towns and rural growth centers water supply schemes in an accelerated
+  investment path to: (i) gradually reduce the infrastructure deficit, (ii) improve service delivery capacity, and (iii) close
+  the gap to achieve universal access to water supply in urban areas by 2030. Key proposed reforms include (i) incentivizing
+  the water utilities to improve operational and financial efficiency through performance-based financing; (ii) instituting
+  a tariff framework that covers recurrent and replacement of short-life assets; and (iii) investing in sector capacity
+  building to enhance investment planning and monitoring, and technical and advisory support to the water utilities.
+  12.    Blantyre City's water supply system is under strain and is expected to worsen with increasing climate change
+  impacts. Walkers’ Ferry (WF) on the Shire River is the city's main water source, accounting for 80 percent of the water
+  supplied to Blantyre. The other 20 percent comes from Mudi Dam and Likhubula River. The average water production
+  (88,700 m3/d) only covers two-thirds of the current estimated demand. The city is already facing water shortages, and
+  these are expected to become severe over time with the increased intensity of climate-related events such as floods
+  and droughts. Blantyre water supply is highly vulnerable to water shocks, with frequent water supply interruptions due
+  to high sediment load, deteriorating water quality, and aging infrastructure. In February 2022, in the aftermath of
+  Cyclone Ana, Blantyre residents were left without water for more than three days, as both sources at Shire and Mudi
+  were loaded with sediments from the flooded waters.
+  13.      Blantyre Water Board (BWB),26 the city's water supply utility, is facing major operational and financial
+  challenges. With an existing reticulation system of about 1,407 km, the water supply system currently meets a total
+  average water consumption of 42,000 m3/day. This services around 87 percent of the population through about 67,000
+  individual connections, 830 water kiosks (for communal supply), and 1,900 commercial and industrial connections. The
+  utility is experiencing financial and operational stress resulting from the technical complexities and high energy costs
+  relating to high head pumping, with long rising mains and pipe aging that is leading to elevated operational costs and
+  NRW. Energy costs currently account for 46 percent of the total operating costs, and NRW is estimated at 53 percent.
+  BWB's financial performance remains highly unstable, with working ratios above 1.4 over the past five years,
+  representing a continuous erosion of equity and reserves. Collection rates have been stagnant at around 95 percent.
+
+
+
+           24 Ministry of Water and Sanitation (2022) National Water and Sanitation Development Program (2023-2030) concept Note
+           25 https://npc.mw/wp-content/uploads/2021/02/ENGLISH-VERSION.pdf
+           26 BWB is a statutory corporation established in 1995 with responsibility for water and sewerage services in Blantyre City
+
+
+
+Jan 08, 2023                                                                                                                            Page 7 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+  14.     Poor sanitation is among the key public health issues and significantly affects the quality of life of Blantyre
+  residents. The provision of sanitation services is currently under the responsibility of the Blantyre City Council (BCC),
+  which lacks the financial and technical muscle to adequately maintain the services. The sewerage infrastructure covers
+  about 16 percent of the population, while the majority rely on onsite sanitation systems. Most of the sewage generated
+  in the city ends up in the environment without any treatment, either through leaks in the sewer lines or discharges from
+  the five wastewater treatment sites to several streams across the city. Recorded BOD effluent values for Soche, Blantyre,
+  and Limbe indicate discharge values of 130mg/l, 382mg/l, and 86mg/l, respectively, against Malawi's Standard discharge
+  value of 20mg/l. This situation is exacerbated by poor solid waste management. Less than 50 percent of the city's 472
+  tons of solid waste generated daily27 is collected and partially disposed of in an open dumping space, while the remaining
+  waste ends up in the open spaces in peri-urban areas, streams, roadsides, and drains. The heavy pollution of rivers and
+  streams has led to breeding disease vectors, loss of aquatic life and recreation activities, and a poor general outlook of
+  the city. The updated National Determined Contribution highlights the rehabilitation and reconstruction of wastewater
+  treatment plants (WTPs) in Blantyre as a mitigation priority with adaptation benefits.28
+  15.     BWB and BCC29 are embarking on an investment program to enhance the city's water supply and sanitation
+  services. Both institutions have traditionally been implementing small interventions to minimize the critical operational
+  and service delivery challenges. However, these have resulted in limited progress so far, primarily due to limited financial
+  resources. A new package of investments includes a series of interventions designed to address the immediate and
+  medium-term water security and sanitation needs and support a long-term solution with the following sub-projects: the
+  construction and upgrade of the water sources, construction of independent power sources, network upgrade and
+  efficiency improvement, sewerage system upgrade and solid waste management improvements. The Blantyre Water
+  and Sanitation Program is estimated at US$ 610 million (Table 1) and is expected to benefit one million people, with
+  complementary but independent interventions to close the access gap. So far, US$ 150 million have been secured from
+  India Exim Bank for the upgrade of the water source and associated infrastructure on the Shire River and the
+  construction of a new solar power plant, which will cover the energy requirements at the water production level. An
+  additional US$ 30 million are under preparation from the African Development Bank (AfDB) to finance a partial network
+  upgrade and expansion. Further, US$ 130 million are being proposed for IDA financing, with construction works planned
+  to commence in early 2024. With this planned financing, the program is short of US$ 305 million, required to ensure
+  universal access to the Blantyre residents and outskirts, further diversify the energy source, and enhance solid waste
+  management.
+
+   C. Proposed Development Objective(s)
+
+  Development Objective
+  16.   To increase access to improved water supply and sanitation services in Blantyre Metropolitan Area and to
+  enhance the operational and financial efficiency of the Blantyre Water Board.
+
+   Key Results
+  17.     The achievement of the project development objectives will be monitored and measured by the following key
+  results indicators:
+
+           27 https://africancleancities.org/assets/data/Organization/Blantyre_EN.pdf
+           28 Malawi: Updated National Determined Contribution, Government of Malawi, July 2021
+           29 . The local Government Act of 1998, as amended in 2010, and the National Decentralization Policy of 1998, mandates
+
+           Blantyre City Council to govern and manage the City of Blantyre.
+
+Jan 08, 2023                                                                                                                       Page 8 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+           •     People provided with an improved water source
+           •     People provided with access to an improved sanitation facility.
+           •     Reduced non-revenue water in water-stressed areas.
+           •     Working ratio for BWB.
+
+   D. Project Description
+
+  18.      Building upon the experience and lessons from the ongoing water supply service delivery efficiency
+  improvements in Lilongwe and the recently developed concept by MoWS, a Series of Projects (SOP) is proposed to
+  improve urban water supply and sanitation access and to support the development of a comprehensive national
+  water program for the country. GoM's vision is to leverage World Bank support in a manner that aligns with the
+  MW2063, building upon the experience and lessons from the ongoing water supply service delivery efficiency
+  improvements in Lilongwe, and be aligned with the Water Sector Investment Plan and the Malawi Climate Resilience
+  WASH Financing strategy. The SoP signals the commitment of both parties to a programmatic set of investments in the
+  water sector, with sustained support contingent on overall implementation performance and achievement of results,
+  and is justified by the following reasons. First, the SoP is built on a strong foundation of tested approaches and tools to
+  enhance utility efficiency and access to water and sanitation services and provides an opportunity for evidence-based
+  learning. Second, it incentivizes the GoM to remain focused on effective reforms to turn around non-performing water
+  utilities into profit-making entities, thus reducing the fiscal burden on the central government. Third, it allows for long-
+  term support for institutional strengthening, which is critical for the sustainability of water supply and sanitation
+  services.
+  19.     The overarching objective of the program is to improve access to safely managed water and sanitation in
+  Malawi. In the medium and long term, the SoP is expected to contribute to improving the quality of life and
+  competitiveness of urban and rural growth centers in Malawi. By the end of the program, in 2030, the GoM expects to
+  (i) upgrade and expand water supply and sanitation reticulation systems and deliver improved access to water and
+  sanitation to over 3.5 million people, (ii) improve the resilience of water supply systems by investing in greener water
+  infrastructure, non-revenue water reduction, energy-efficient facilities and explore innovative solutions for improving
+  water supply efficiency, (iii) enhance the investment planning and asset management capacity of the water boards and
+  other water service providers in the country, and (iv) strengthen skills capacity for providing water and sanitation
+  services. The program will also support the sector regulation to strengthen governance, increase service delivery and
+  financial efficiency, and enhance resilience against external shocks such as climate, financial and health-related shocks.
+  20.    The program will consist of a combination of financing instruments to maximize investment efficiency and
+  incentives for strengthening institutional capacity, operational and financial efficiency, and service quality. Over the
+  next eight years (Table 2), the GoM intends to mobilize US$ 700 million (US$ 200 million for phases I and II each, and
+  US$300 for phase III) to finance water and sanitation infrastructure, with a proposed envelope of US$ 475 million IDA
+  financing.
+                                 Table 1 - Proposed SoP for Water and Sanitation Investments in Malawi
+
+                   2023       2024        2025          2026           2027       2028         2029             2030
+               SoP-1: Blantyre Water and Sanitation investments
+                                     SoP-2: Water utility efficiency improvements
+                                                                SoP-3: National water development project
+
+
+Jan 08, 2023                                                                                                        Page 9 of 14
+            The World Bank
+            Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+      21.     SoP-1 will use an Investment Project Financing (IPF) to commence with the urgent and critical water supply
+      efficiency improvements and priority sanitation interventions in Blantyre (similar to ongoing infrastructure
+      investments in Lilongwe) and a set of technical assistance (TA) activities to prepare for the subsequent phases. The
+      infrastructure investments will be coupled with an operational and financial turnaround program for the BWB supported
+      through a performance-based financing mechanism (PBFM), focusing on staff productivity, climate-resilient planning,
+      and operational systems to gradually improve its service delivery capacity. Along with the Blantyre investments, SoP-1
+      will finance a set of preparatory TAs to improve the readiness of the next generation of priority investments for water-
+      scarce areas, the establishment of a water regulation function for water and sanitation services, and policy dialogue and
+      tools for the establishment of a performance-based investment financing mechanism. By the end of SoP-1, BWB is
+      expected to have achieved a working ratio below 1 and shown a consistent improvement in its key operational and
+      financial indicators, while MoWS is expected to have defined a clear roadmap, including priority reforms and financing
+      tools to cover the service gap in rural and small towns. Under SoP-1, the GoM will also implement priority Cholera
+      response activities to contain the outbreak in the priority hotspots. Beyond the IDA financing, GoM intends to mobilize
+      additional resources from other development partners, to address urgent needs in priority small towns. The proposed
+      project costs and financing is presented in Table 3.
+                                                  Table 2 –Project Costs and Financing
+
+               Components                                                   Estimated Cost         Financing (US$ million)
+                                                                              (US$ Million)   IDA Grant   Counterpart financing
+               1   Water supply improvements                                   74.50             72.81            1.69
+               2   Priority Sanitation Investments                             34.00             32.18            1.82
+               3   Institutional Capacity Strengthening                        21.00             20.51           0.49*
+               4   Technical Assistance and Project Management                 4.50              4.50             0.00
+               5   Contingency Emergency Response                              0.00              0.00             0.00
+                                                                 Total        134.00            130.00            4.00
+                   *BWB contribution
+      22.     SoP-2 will sequentially expand support to other water boards on priority service gaps investments in selected
+      small towns and performance improvements using an IPF with PBGs. The estimated IDA envelope is US$ 150 million
+      and will cover small towns and growth centers. Under this SoP, the MoWS is expected to consolidate the reforms
+      initiated at BWB, with continued financing and institutional support required for the utility to reach long-term financial
+      sustainability and develop the legal framework and tools and facilitate the dialogue to enable the water boards to enter
+      service delivery agreements with selected rural growth centers, where technically and financially feasible to construct,
+      upgrade and expand small, piped schemes. Rural schemes with clearly defined management mechanisms and climate-
+      friendly and innovative interventions will be given priority. The second phase is expected to cover about 1 million people
+      with improved access to water and sanitation services and set up the institutional framework to sustainably expand
+      investments into the rural areas.
+      23.    SoP-3 will focus on supporting a comprehensive service delivery framework to expand access (possibly using a
+      wholesale program for results-PforR instrument), extending the mandate of the regional water boards to support rural
+      growth centers using a Green, Resilient and Inclusive Development (GRID) approach. The estimated IDA financing is US$
+      200 million. Access to financing will be linked to clearly defined and verifiable targets on coverage, operational efficiency
+      (NRW, hours of supply, pressure, operational water points, etc), and financial efficiency. Water boards will be
+      encouraged to explore innovative technology and greener interventions to enhance their resilience and to expand
+      partnerships and service delivery to the rural growth centers. This phase shall also cover rural areas where access to
+      clean water and sanitation is still a challenge and is expected to benefit about 2 million people.
+  .
+
+
+Jan 08, 2023                                                                                                             Page 10 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+  .
+  Legal Operational Policies
+                                                                        Triggered?
+
+   Projects on International Waterways OP 7.50                          Yes
+
+   Projects in Disputed Areas OP 7.60                                   No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+  24.     The project overall risk is rated Substantial. The activities have positive environmental and social impacts such as
+  improved access to potable water, improved sanitation and hygiene, improved waste management, clean energy access,
+  improved household economy, improved city aesthetic and reduced gender vulnerabilities for women and girls due to
+  long distances taken to fetch water. Negative environmental and social impacts and risks are anticipated and these are
+  occupational health and safety risks, community health and safety risks, soil erosion, waste management risks, the
+  pollution of air, water, and soil, biodiversity, water-borne diseases; COVID 19 and other communicable and
+  noncommunicable diseases, waste and solid waste handling, water related vector borne diseases, possible hazardous
+  gasses, risks related to losing land and other assets, and loss of income and reduction of economic activity, risk of
+  restricting access to land and other assets during construction, pollution of water stream and natural habitats,
+  sedimentation, climate vulnerability risks, environmental liabilities and increased run-off and Gender Based
+  Violence/Sexual Exploitation and Abuse-Sexual Harassment (GBV/SEA-SH, release of odors due to inappropriate
+  handling of fecal sludge, solid waste and sewerage; eruption of infectious diseases (e.g. infectious diseases including
+  cholera, typhoid, hepatitis, ascariasis, and schistosomiasis), within the communities and among the project workers
+  emanating from fecal sludge collection conducted not in accordance with safe standards or in case of an accident or a
+  weather event; contamination of water during maintenance of water pipes; traffic safety management during
+  transportation of waste; degradation of the local environment due to accidental leakage from landfill; composting/fecal
+  sludge management plant releasing fecal material into water courses and open ground; accidents or breaking of the
+  infrastructure, heavy winds and flooding hence taking away all sludge to the rest of flooded area and stream, risk of
+  waste contact by any unauthorized entry in case of compromised site management, management of a scenario when
+  there is shortage in recommended PPE, safety of compost, financial preparedness for any emergency such as breakage
+  etc.
+  25.    Both Blantyre Water Board and Blantyre City Council have institutional capacity on environmental management
+  but not social and gender. BWB has three environmental management personnel while BCC has four in different
+  departments. Both institutions have experience with World Bank safeguards policy. PIU will be established and will have
+  environmental and Health and Safety specialist and Social and Gender Specialist who will be supported by institution
+  personnel.
+  26.    The project will take the framework approach since some of the sites are not yet known and other activity details
+  are not yet available. Environmental and Social management Framework (ESMF) with therefore be prepared to manage
+  the above risks associated with ESS1, ESS2, ESS3, ESS4, ESS6, ESS8 and ESS10 and include a screening procedure and
+  guidance on the development of site- specific ESIA and/or ESMPs while Resettlement Policy Framework (RPF) will be
+  prepared to manage all risks associated with ESS5. The RPF will deliniate the content of the RAPs which will be prepared
+  once the sites are known with more certainty. All RAPs will be accompanied by a set of targeted livelihood restoration
+  measures for the PAPs as well as waste pickers, if available. Other instruments that will be prepared include Labor
+
+Jan 08, 2023                                                                                                       Page 11 of 14
+            The World Bank
+            Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+      Management Procedures (LMP), including a worker Grievance Redress Mechanism (GRM); the Stakeholder Engagement
+      Plan (SEP) will include project Grievance Redress Mechanism (GRM); and an Environmental and Social Commitment Plan
+      (ESCP) that will be agreed on with the borrower and will set out the substantive measures and actions required for the
+      project to meet environmental and social requirements over a specified period of time prior to project appraisal. The
+      project’s GBV and SEA/SH risks have been rated moderate and SEA/SH Prevention and Response Action Plan, and an
+      Accountability and Response Framework will be included in the ESMF.
+
+      E. Implementation
+
+      Institutional and Implementation Arrangements
+
+      27.    BWB will be the implementing entity for SoP-1. A project implementation unit (PIU) has been established at
+      BWB, under the Directorate of Technical Services, which is responsible for managing capital projects for BWB,
+      including the proposed project. The PIU has a dedicated team of specialists comprising a Project Manager, a financial
+      management specialist, a procurement officer, five civil and hydraulic engineers, an environmental officer, a social
+      development officer, a monitoring and evaluation officer, and a communications specialist. A Project Support Team
+      (PST) has also been established at BCC to coordinate the implementation of sanitation activities. The PST has a project
+      coordinator, a sanitation specialist, a community development specialist, and an environmental and social officer. The
+      Bank has assessed the current PIU setup and concluded that it meets the basic requirements for implementing a project
+      of this scale. However, to mitigate risks to the project, BWB has agreed to strengthen the PIU in the areas of
+      procurement, environmental and social safeguards, and communications, through the recruitment of additional staff
+      and/or consultants as needed.
+      28.     At the national level, the Ministry of Water and Sanitation (MoWS) will provide overall policy direction and
+      oversight of the Project. Further, a small project coordination team will be established at MoWS, comprising technical
+      staff from the Department of Water Supply and Sanitation and the Department of Planning to lead the institutional
+      development and capacity-building activities, as well as the proposed reforms and program design and monitoring.
+      29.    A Water and Sanitation Task Force (WSTF, which will also act as the Project’s Steering Committee) will be
+      established to facilitate the dialogue on key policy issues and reforms. The WSTF will comprise relevant departments
+      and ministries, including Finance and Economic Affairs, Education, Health, Gender, Forestry & Natural Resources, Lands,
+      Local Government, Malawi Environmental Protection Authority (MEPA), and Justice & Constitutional Affairs. Key reforms
+      and policy dialogue to be led by the WSTF include the development of the sanitation planning and monitoring capacity
+      within MoWS and related reforms, the development of a tariff framework and regulatory function, and the expansion
+      of the water board services into the rural areas. To facilitate its oversight role, the MoWS will coordinate and chair
+      meetings of WSTF.
+      30.     Project implementation will be governed by a set of four agreements. The World Bank will sign a financing
+      agreement with the Ministry of Finance and Economic Affairs (MoFA) as the recipient of the IDA credit/grant. MoFA will,
+      in turn, sign a subsidiary financing agreement with BWB, with terms and conditions acceptable to the World Bank. The
+      World Bank will also sign a project agreement with BWB as the lead implementing entity. BWB will sign an
+      implementation agreement with BCC, with terms acceptable to the World Bank. All project operational modalities will
+      be detailed in a Project Implementation Manual (PIM) to be prepared and adopted prior to effectiveness.
+
+  .
+
+
+
+
+Jan 08, 2023                                                                                                       Page 12 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Odete Duarte Muximpua
+   Senior Water Supply and Sanitation Specialist
+
+   Francis Samson Nkoka
+   Senior Disaster Risk Management Specialist
+
+   Borrower/Client/Recipient
+   Ministry of Finance and Economic Affairs
+   Nations Msowoya
+   Director Debt and Aid
+   nmsowoya@naosupportmw.org
+   Implementing Agencies
+
+   Blantyre Water Board
+   Robert Hanjahanja
+   Chief Executive Officer
+   rhanjahanja@bwb.mw
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Odete Duarte Muximpua
+   Task Team Leader(s):
+                                          Francis Samson Nkoka
+
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                      Hugh Riddell            25-Jan-2023
+
+Jan 08, 2023                                                                    Page 13 of 14
+          The World Bank
+          Malawi: Water and Sanitation Project - 1 (P178954)
+
+
+
+
+Jan 08, 2023                                                   Page 14 of 14
+

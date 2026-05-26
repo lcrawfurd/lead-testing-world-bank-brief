@@ -1,0 +1,713 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                 Appraisal Stage | Date Prepared/Updated: 28-Jul-2024 | Report No: PIDIA00476
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                       Operation ID              Operation Name
+                                                                                      Sustainable Power and
+                               WESTERN AND CENTRAL
+Nigeria                                                     P179684                   Irrigation for Nigeria
+                               AFRICA
+                                                                                      Project
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date   Practice Area (Lead)
+Investment Project
+                               25-Jul-2024                  26-Sept-2024              Water
+Financing (IPF)
+Borrower(s)                    Implementing Agency
+FEDERAL GOVERNMENT OF          Federal Ministry of Water
+NIGERIA                        Resources and Sanitation
+
+Proposed Development Objective(s)
+The Project Development Objective is to strengthen dam safety and improve management of water resources for
+hydropower and irrigation in selected areas of Nigeria.
+
+Components
+Institutional strengthening and capacity building for Water Resources Management
+Irrigation Modernization
+Improvements in dam operations and enhancing dam safety
+Project Management
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                       500.00
+
+  Total Financing                                                                                            500.00
+             of which IBRD/IDA                                                                           500.00
+  Financing Gap                                                                                                0.00
+
+
+                                                                                                                Page 1
+        The World Bank
+        Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+
+ DETAILS
+   World Bank Group Financing
+       International Development Association (IDA)                                                                 500.00
+         IDA Credit                                                                                                500.00
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+High
+
+
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+ Other Decision (as needed)
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+
+1.       Nigeria, Africa’s most populous country, possesses substantial untapped economic potential. As a diverse
+federation of 36 autonomous states and the continent’s largest country with a population exceeding 218 million, it boasts
+the fourth largest economy in Africa, reaching a gross domestic product (GDP) of approximately US$253 billion in 2024.
+Fueled by abundant natural resources, a youthful and entrepreneurial populace, and a vibrant private sector, Nigeria has
+the capacity to become a prominent player on the global stage. However, despite these prospects, the country faces
+significant challenges, with over 40 percent of its population living in poverty. Moreover, Nigeria houses the world’s
+second-largest number of people living in extreme poverty and ranks 163 out of 191 countries on the most recent Human
+Development Index (HDI) report, highlighting its status as one of the least developed nations globally.
+2.       The Nigerian economy recovered modestly from the COVID-19 pandemic in 2021, but the momentum faded
+throughout 2022 and into 2023. GDP growth rate nearly halved from an average of 7.7 percent in 2000–2009 to 3.6
+percent in 2010–2019 on the back of weaker economic fundamentals and lower oil prices. In 2020, the impacts of COVID-
+19 and the associated global oil price shock were severe, with output contracting by 1.8 percent (–4.4 percent in per capita
+terms). While growth rebounded to 3.6 percent in 2021, the recovery lost momentum with growth slowing to 3.3 percent
+in 2022 and further to 3.1 percent in Q3 2023. The most recent deceleration was driven by weak oil production and a
+disruptive currency demonetization policy that took effect in Q1 2023 adversely affecting the non-oil industrial and service
+sectors.
+
+
+                                                                                                                        Page 2
+        The World Bank
+        Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+3.       Recognizing the need to change course, a new administration since May 2023 has undertaken bold reforms to
+restore the economic fundamentals for inclusive growth. The Nigerian Government eliminated an increasingly costly,
+opaque, and regressive gasoline subsidy that amounted to 2.2 percent of GDP in 2022; unified multiple foreign exchange
+(FX) windows that distorted relative prices; partly liberalized the exchange rate to better reflect market conditions; and
+lifted the restriction on purchasing FX at the official market to import 936 product lines. The Central Bank of Nigeria has
+also restarted issuing securities in open market operations and lifted the cap for commercial banks to deposit funds at the
+Central Bank. The reduction of excess domestic liquidity and changes toward a more conventional, rates-based monetary
+policy has led to a rise in domestic market interest rates. Recognizing the short-term adjustment costs of these reforms—
+particularly through rising inflation—the Government has also rolled out temporary, targeted cash transfers of NGN
+25,000 per month, directly benefiting over 60 million people for three months.
+4.       Nigeria is considered a fragile and conflict affected, with most of its regions experiencing violence and
+disturbance. Currently, the six geopolitical regions of Nigeria face various issues, including political instability, civil unrest,
+identity conflicts, resource-based disputes, and terrorism. The North-East faces insurgency and terrorism, primarily driven
+by Boko Haram and the Islamic State’s West Africa Province (ISWAP), resulting in the displacement of over 2 million people.
+The North-Central and North-West regions are plagued by banditry, identity clashes, and communal conflicts, as well as
+herder-farmer disputes over land and cattle.
+5.       Nigeria’s vulnerability to climate shocks has increased due to a combination of political, geographic, and social
+factors and, specifically, the recent spike in insecurity in the country. Nigeria is highly prone to river, urban, coastal
+floodings; water scarcity; extreme heat; and wildfires. Nigeria ranks among the top 10 countries most susceptible to the
+detrimental effects of climate change and natural disasters.1 Projected climate change impacts include increased average
+temperature and changes in precipitation patterns, leading to more frequent floods and droughts. These climate-related
+risks can have severe implications on livelihoods and result in increased food insecurity, famine, population displacement,
+conflicts, and biodiversity loss. Climate inaction could cost Nigeria between 6 and 30 percent of GDP by 2050, equivalent
+to a loss of US$100–460 billion.2
+
+
+ Sectoral and Institutional Context
+
+
+6.     Nigeria faces water security challenges, which impact water availability for drinking water, energy and food
+production, and are increasingly exacerbated by climate change, putting livelihoods and economic development at risk.
+
+7.      Harnessing water storage and dam safety is central to climate change adaptation and mitigation in Nigeria. It is
+a prerequisite to improving water management for water supply, irrigation, and hydropower generation and offer
+protection from floods and droughts. Nigeria has over 400 dams and an estimated total combined storage of 59 billion
+cubic meter (BCM). 46% of dams are federally-owned and are managed by the Federal Ministry of Water Resources and
+Sanitation (FMWRS), through River Basin Development Authorities (RBDAs). 48% of dams are state-owned and are
+managed by a state ministry3. Many dams are incomplete and more than 50 percent of the large dams which were built
+in the 1970s and 80s require rehabilitation. This situation is due in part to institutions responsible for dam management,
+whether at federal or state level, having inadequate budget, human resources and capacity to ensure dam management,
+operation and maintenance (MOM) and non-adherence to operational manuals, where they exist. As a result, structures
+
+1 Climate Scorecard 2019. https://www.climatescorecard.org/2018/11/nigeria-listed-as-one-of-the-10-most-climate-vulnerable-countries/.
+2 World Bank Group. 2020. Country Partnership Framework for the Federal Republic of Nigeria for the Period FY21–FY25.
+
+November 16, 2020. https://openknowledge.worldbank.org/handle/10986/35098.
+3 Dams in Nigeria, Federal Ministry of Water Resources, 2020.
+
+
+
+
+                                                                                                                                         Page 3
+        The World Bank
+        Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+and equipment in several instances broke down or functioned below the installed capacity, limiting dams’ potential to
+mitigate extreme weather events. In 2022, the country faced 4The World Bank GRADE analysis of the 2022 floods
+estimated the total direct economic damage to be in around US$6.7 billion, equivalent to 1.6 percent of the estimated
+2021 GDP. Combining addressing the root causes of poor dam O&M and the rehabilitation and retrofitting of existing
+dams would offer substantial opportunities to promote and entrench integrated storage management and sustain the
+provision of productive and climate-resilient water services including mitigating water5related natural disasters including
+flooding events.
+
+8.       Agriculture remains a key in Nigeria’s economy, contributing an estimated 25.58 percent6 of its GDP and
+employing over 36 percent of the workforce. However, due to its heavy reliance on rain-fed agriculture, food production
+is highly vulnerable to climate change and population growth. Nigeria is endowed with 70.8 million ha of agricultural
+land area, broken down into eight agro-ecological zones capable of growing a variety of crops such as cassava, palm oil,
+cocoa, maize, yam, cowpea, groundnut, beans, potatoes, and rice. Most agricultural areas are rain-fed and therefore
+exposed to water scarcity, which constrains agricultural production in many areas. Nigeria has a tropical climate, with
+historically longer rainy season in the south, receiving over 2,000 mm annual precipitation, and shorter rainy season in
+the north, with annual precipitation of below 1,000 mm. Despite having an estimated 375 BCM of surface water and 156
+BCM per year of groundwater potential, water is unevenly distributed, and availability per capita is expected to decline.
+The yield of food-related crops has lagged population growth, leading to declining food self-sufficiency. This situation is
+worsened by a decline in seasonal water availability due to climate change. For this reason, agriculture production is
+increasingly dependent on the supplement water that irrigation provides. Otherwise, the overall crop production will not
+grow in par with the anticipated population growth to maintain food security at its current level. About 26.5 million
+Nigerians are projected to be food insecure in 20247. The situation is expected to worsen with the population projected
+to reach 400 million by 20508.
+
+9.       Increase in food production is a must in Nigeria and can be achieved through improving the performance and
+management of existing irrigation and/or expansion of irrigation service area. Nigeria has set national target of 500,000
+ha of irrigated area by 2030 with the objective of being able to feed the growing population. The country relies largely on
+Federal and State Governments to continue developing large-scale irrigation development, which it sees as the fastest
+way to reach that target. Presently, out of the 350,000 ha equipped for irrigation, 260,000 ha are large-scale irrigation
+systems, the majority of which are owned by federal or state governments. The balance 90,000 ha are small-scale
+irrigation. The institution responsible for MOM of federal- or state-owned dams is also managing downstream irrigation
+schemes, which are both undergoing their MOM limitations. The National Irrigation Development Program (NIDP),
+launched by the Federal Government in 2016 and supported by the World Bank-financed Transforming Irrigation
+Management in Nigeria (TRIMING) Project (P123112, 2014–2025, US$500 million), is part of Nigeria’s recent efforts to
+reform the irrigation sector and improve its governance. The TRIMING Project, which was designed as a pilot under the
+NIDP, pioneered transformational management initiatives consisting in introducing, training and empowering Water User
+Associations (WUAs) as a new model for the MOM of secondary and tertiary irrigation canals in selected Federally-owned
+schemes, which were until then the responsibility of the RBDAs. However, RBDAs remain in charge of managing the
+primary irrigation canals. TRIMING successfully tested the MOM by WUAs as part of the rehabilitation of about 32,000 ha
+of large-scale irrigation. It led to improved production and positive impacts on the livelihood of farmers. However, more
+
+4 GRADE = Global Rapid Post-Disaster Damage Estimation.
+5 In 2012 and 2022, devastating floods threatened lives, infrastructure, and livelihoods of people.
+6 Nigeria Bureau of Statistics, May 2023.
+
+
+7 Cadre Harmonisé analysis 2023a.
+8 The Lancet Nigeria Commission 2022.
+
+
+
+
+                                                                                                                       Page 4
+        The World Bank
+        Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+work is needed to further increase overall financial sustainability in the schemes. The SPIN project builds on the
+achievements, proof of concept and early lessons of the TRIMING project which it seeks to scale up in other Federally-
+owned schemes as well as in State-owned schemes nationwide. To do so, the SPIN project will focus on: (a) strengthening
+the cooperation and partnership between the Federal and state governments for dams and irrigation schemes MOM; and
+(b) promoting the establishment of WUAs in all Federal- and state-owned irrigation schemes, possibly through
+amendments of the RBDA Act and/or state legislation.
+
+10.      Out of 36 states, 31 expressed interest in cooperating on irrigation development and management with the
+Federal Government within the SPIN Project. Reaching the NIDP target of 500,000 ha irrigation by 2030 will require
+enhanced cooperation between the Federal Government and all states. Irrigation development and management have
+historically been divided between Federal-owned (38.7%), state-owned schemes (42.1%), and small-scale schemes with
+other ownership arrangements (13.3%), with no financial or technical cooperation between the parties. In February 2024,
+the FMWRS invited the 36 state governments and the Federal Capital Territory to present its ambition to scale up and
+promote WUAs as a management model and the Commitment, Integrity and Capacity related criteria to be supported,
+and asked States to express interest in participating in this effort under the SPIN Project. 31 states expressed their interest.
+Stakeholders’ engagement workshops were organized for each of the six geopolitical zones of Nigeria to explain in further
+details what is expected of participating States, including explaining the selection criteria for states, identify an initial list
+of possible investments and the timeframe for next steps.
+
+11.      Nigeria currently lacks an estimated 2,000 MW of capacity to cover current demand with acceptable reliability.
+Hydropower development can play a significant role and can support economic growth and climate change mitigation.
+60 percent of Nigerian population had access to electricity in 2021, excluding 85 million.9 The national average annual per
+capita electricity consumption is 147 kWh, which is one-fifth of the average low-middle-income country consumption.
+Demand is projected to grow at 7–8 percent per year in the medium term. The total exploitable hydropower potential in
+Nigeria is estimated at 14,120 MW, of which 85 percent is yet to be developed. Currently, hydropower contributes up to
+20 percent of Nigeria’s energy mix and its development would play a big role in the energy access and transition. As
+thermal plants in the country face gas supply shortages, Nigeria seeks to increase hydropower in its energy mix, along with
+variable renewable energy technologies such as solar and wind, to lower energy prices and replace or complement thermal
+plants as a baseload power source. Hydropower is therefore a promising part of the country’s energy transition journey.
+
+12.      The currently compartmentalized efforts to increase food production through enhanced irrigation coverage and
+energy generation through hydropower make the attempts of the Government more disjointed highlighting the need for
+synergistic and holistic management of water resources. This would require cross-sectoral convergence and inter-
+institutional collaboration to achieve a water-energy food nexus.
+
+13.     Relevant policy, institutional and regulatory frameworks exist in Nigeria for the governance of water resources,
+but it needs strengthening. The 2004 Water Resources Act (the Water Act) is the overarching law governing water
+resources in Nigeria. It vests in the FMWRS, at the Federal Government level, the responsibility to use and control both
+surface and groundwater in any water course affecting more than one state.10 The Water Act confers to the Federal
+minister extensive decision-making powers, which it exercises through 12 RBDAs and other parastatal institutions. The
+Integrated Water Resources Management (IWRM) Commission, which has the mandate for water resources regulation,
+currently exists based on a ministerial directive at the Federal level but it is not enacted by the Parliament. A
+
+9 https://trackingsdg7.esmap.org/; 11 percent of the urban and 74 percent of the rural have no electricity access, and 69 percent of those
+having no access to electricity belong to the lowest income segment of the population.
+10 Other Federal legislations include the NWRI Act; River Basins Development Authorities Act, 1987; and Nigeria Hydrological Services Agency
+
+(Establishment) Act, 2010.
+
+                                                                                                                                          Page 5
+        The World Bank
+        Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+comprehensive National Water Resource Bill, combining the Water Act, the RBDA Act, Nigeria Hydrological Services, and
+the National Water Resources Institute (NWRI), was presented to the Parliament in 2017 but has not been adopted. For
+dam safety, the National Environmental (Dams and Reservoirs) Regulations, 2014, establishes the National Environmental
+Standards and Regulations Enforcement Agency (NESREA) as the regulator to control the effects of dams and reservoirs
+on the environment and human health. However, the dam safety regulations need to be strengthened to increase focus
+on MOM, with complementary technical guidelines and protocols.
+
+14.      Water resources and water infrastructure management in Nigeria is governed by the FMWRS and other
+parastatal entities. The FMWRS is organized into several technical and non-technical departments including the
+Department of Dams and Reservoir Operations (DDRO), River Basin Operation and Inspectorate, and Department of
+Irrigation and Drainage (DID). The 12 RBDAs directly report to the FMWRS. Their role includes the provision of bulk water
+supply as well as extension and other support services to farmers in irrigation schemes. At the state level, Departments
+for Water Resources and/or Agriculture and State Water Agencies are responsible for sector management. In addition,
+there are state-owned dams being utilized for water supply, hydropower generation, and public irrigation. Some of the
+states11 have enacted a legislation to establish irrigation development authorities to identify, plan, design, and construct
+irrigation schemes including regulation, supervision, operation, and maintenance of irrigation infrastructure for optimal
+performance and water efficiency. All the states acquired considerable experience by implementing a series of National
+Fadama Development Projects (1992–2019) in institutionalizing a bottom-up approach involving community-driven
+development and farmer-led irrigation development.
+15.     The Federal Government of Nigeria (FGN), through the development of a Hydropower Master Plan (HMP), can
+increase collaboration between the FMWRS and FMP and attract private investments and partnerships. The governance
+and oversight responsibilities for water resources development and hydropower generation are split between the FMWRS
+and Federal Ministry of Power (FMP). Past studies such as the 2013 National Water Resources Master Plan, 2019 Master
+Plan Study on National Power System Development, and 2016 Nigeria hydropower site screening do not reflect IWRM to
+optimize both energy and water. Nigeria would benefit in building on these to update its National Power System
+Development Plan and prepare a dedicated HMP, which could help: (a) crowd in private financing to modernize
+deteriorating hydropower systems, including through Public-Private Partnership (PPP) models; (b) identify and prioritize
+greenfield and brownfield hydropower investments across the country; and (c) improve coordination among the key
+stakeholders, including the FMWRS and FMP.
+
+
+ C. Proposed Development Objective(s)
+
+
+
+ Development Objective(s) (From PAD)
+ The Project Development Objective is to strengthen dam safety and improve management of water resources for
+ hydropower and irrigation in selected areas of Nigeria.
+
+  Key Results
+
+
+      (a)       Share of Federal and State irrigation schemes under the Project managed by a functioning WUA (a
+                functioning WUA is defined as legally established, staffed, funded and operating irrigation services)
+
+11 Katsina State, for example.
+
+
+
+                                                                                                                        Page 6
+       The World Bank
+       Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+     (b)      Area provided with new/improved irrigation or drainage services (Hectare)
+     (c)      Number of beneficiaries with enhanced resilience to climate risks (Corporate results indicator) defined as
+              people protected from floods and droughts through enhanced dam safety and operations, and people
+              benefitting from new/improved irrigation or drainage services
+     (d)      Hydropower master plan prepared and structure a PPP transaction for a hydropower project jointly by
+              FMWRS and FMP (Yes/No).
+
+
+  D. Project Description
+16.     SPIN is structured as an Investment Project Financing (IPF). It includes two Performance-Based Conditions
+(PBCs) to incentivize the crafting of enabling policies and building of long-term capacity. The Project has four
+components.
+Component 1: Institutional strengthening and capacity building for Water Resources Management (US$30 million)
+17.      This component supports institutions at Federal, state, and river basin levels, and collaboration among
+irrigation, dam safety, and hydropower stakeholders to promote IWRM and help achieve the food, water, and energy
+nexus in Nigeria. The component will institutionalize and scale up the implementation structure, processes, and design
+standards successfully piloted by the TRIMING project while integrating lessons learned. It will, inter alia, bundle irrigation
+rehabilitation and dam safety of related dam, introduce criteria-based funding allocation and used to prioritize
+investments in bundled irrigation and dam safety under the Project, promote and institutionalize collaborative water
+resources management and will strengthen integrated hydropower planning. The component will support three
+institutional reforms: (a) the FMWRS will develop and adopt national dam safety guidelines and protocols, which will be
+implemented in all SPIN target dams; (b) Water laws will be developed or updated to legally recognize WUAs in all SPIN
+participating States; (c) FMWRS and FMP will jointly develop the HMP and prepare at least one priority hydropower
+project. This component is structured in three subcomponents, as presented below.
+Subcomponent 1.1: Institutional Strengthening and Capacity Building for WRM and Hydropower planning at Federal
+Level (US$24 million)
+Activity 1.1.1: Strengthening of dam safety institutional structure, including development and adoption of improved
+dam safety technical guidelines and manuals (US$4 million)
+18.     This Activity will strengthen the capacity and improve the management framework for dam owners, operators,
+and agencies overseeing dam safety to help address dam safety risks by: (a) setting up a digital dam asset management
+system, (b) strengthening the dam safety institutional structure and developing improved national dam safety technical
+guidelines and manuals to complement NESREA’s checklist, and (c) institutionalizing capacity assessment and delivering
+capacity building for the personnel involved in dam safety, owners, operators, and dam safety organizations at the Federal,
+RBDA, and dam levels. The Activity will help the FMWRS deploy multi-disciplinary specialists, purchase necessary
+equipment to perform dam safety mandates both at the Federal and RBDA level, consistent with the legislation for dam
+safety requirements.
+19.    The development and adoption of national dam safety technical guidelines and manuals by the FMWRS is
+designed as a PBC. The allocation of US$50 million out of the US$100 million allocation for dam safety investments under
+Component 3 is linked to the achievement of the PBC. This will incentivize that technical guidelines and manuals are
+developed, adopted and applied to the rehabilitation of large dams under SPIN.
+Activity 1.1.2: Capacity Building of and Support to Federal Institutions and Agencies on Water Resources and Irrigation
+Management (US$4 million)
+
+
+
+                                                                                                                          Page 7
+        The World Bank
+        Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+20.     This Activity will establish and operationalize a new framework for the co-management of federal irrigation and
+drainage schemes with the state governments and WUAs. This activity sets the basis for the sustainability of the irrigation
+investments under Component 2. Currently, Federal schemes are developed, managed, operated, and maintained entirely
+by RBDAs12, and similarly state schemes are managed by state agencies. The new framework will empower the WUAs (to
+be established through Subcomponent 2.1) with MOM responsibility of secondary and tertiary irrigation canals. The MOM
+responsibility of primary canals will remain with Federal and state governments owning the schemes. This framework
+requires a new collaboration between Federal and state levels and with WUAs. The states enact legislation to establish
+WUAs for both Federal and state schemes located in the State, as was piloted under TRIMING in Katsina and Gombe states.
+This framework also requires new partnerships between RBDAs and WUAs to optimize the use of irrigation infrastructure
+and ensure the sustainability of irrigation schemes.
+21.    This Activity will also implement capacity building of federal agencies on irrigation modernization, water
+accounting and irrigation monitoring system,13 and a nationwide review of the status of irrigation schemes. Improved
+water monitoring and management systems support climate change adaptation by mitigating the impacts on agriculture
+and farmers’ livelihoods of precipitation variability and water extremes, exacerbated by climate change.
+Activity 1.1.3: Capacity Building of and Support to Federal Institutions and Agencies in Hydropower Development (US$16
+million)
+22.      This activity will support convergence between the FMP and FMWRS through a joint HMP and feasibility study
+for at least one prioritized project and ensure alignment with the water resources masterplan. In particular, this activity
+will (a) prepare an HMP and climate-smart hydropower investment planning, (b) explore PPP options and preparing at
+least one large transformative hydropower project, and (c) build the capacity of and support Federal institutions in
+developing studies, strategies, and plans for improving hydropower planning and management. The activities contribute
+to both climate change adaptation (through improved inter-sectoral planning of water storage and management) and
+mitigation (through renewable energy).
+23.    A PBC is linked to the adoption of the hydropower masterplan by the Federal Steering Committee (FSC) and the
+preparation of one priority hydropower project ready for PPP. The eligibility of US$10 million out of US$16 million of this
+subcomponent will be dependent on achievement of these objectives (detailed in the Results Framework and annex 4).
+Subcomponent 1.2: Institutional strengthening and national knowledge exchange on water resources management at
+state level (US$1 million)
+24.       This subcomponent will support the participating states to develop and adopt legislation to establish WUAs for
+participatory irrigation management at the scheme level. There are currently only two states14 with legislation in place
+supporting the WUAs. To incentivize the states to adopt such provisions, the adoption of a legislation for WUAs and the
+provision of a dedicated state budget line to finance irrigation MOM through WUAs are the two eligibility criteria for a
+state to get financial support for irrigation rehabilitation under Component 2. To support this process, this subcomponent
+will: (a) provide technical support in the formulation of legislation to establish WUAs, based on experience from other
+countries, through development of models and organization of national workshops; and (b) establish a knowledge
+exchange and peer-to-peer learning platform between states on irrigation, the role of water infrastructure in climate
+change adaptation and disaster risk reduction and WRM.
+25.     The transfer of appropriate level of MOM of irrigation schemes from RBDA to WUAs is necessary to address the
+build, neglect, and rebuild cycle irrigation development is facing in Nigeria. Over time, RBDAs lost both adequate
+
+
+12 Except schemes under the TRIMING Project were WUAs have been established.
+13 In coordination with the Water Security and Governance Dialogue ASA (P178444).
+14 Gombe State and Katsina State.
+
+
+
+                                                                                                                       Page 8
+       The World Bank
+       Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+budgetary provisions and human resources for irrigation MOM, leading to a growing number of schemes becoming
+dysfunctional. Federal subventions are not sufficient and user contributions are almost non-existent. TRIMING addressed
+this by introducing service agreements, whereby, in return for improved service, users pay a cost-reflective contribution
+called Irrigation service fee (ISF) and organize themselves in WUAs to take up MOM of secondary and tertiary irrigation
+canals. The SPIN project builds on early lessons from TRIMING.
+Subcomponent 1.3: Improving WRM at river basin level (US$5 million)
+26.     The SPIN Project will support RBDAs and state actors in refocusing their efforts on IWRM and resource planning
+at river basin level and in enabling partnerships with WUAs for MOM of irrigation and drainage facilities. This
+subcomponent will: (a) improve MOM of water resources’ infrastructural assets; (b) strengthen hydrological monitoring,
+water allocation and WRM at the basin level through installation of modern tools for management of reservoirs; (c)
+strengthen capacity for bulk water supply planning and irrigation scheduling at the scheme level to ensure farmers receive
+water when needed; and (d) enhance cost recovery for MOM of assets through supply of bulk water for various
+socioeconomic sectors, in particular irrigation schemes. While Subcomponent 1.2 supports State Water Legislations, the
+SPIN will also facilitate the revision of the RBDA Act to introduce legal recognition of WUAs and cooperation on WRM
+among states sharing a River basin.
+27.      To support such a decentralized management model, a Field-Level Leadership (FLL) program will be established
+by the Federal Government to support RBDAs, state governments, and WUAs, for performance improvements. The FLL
+will include a leadership program for women focused on enhancing women’s technical and leadership skills in irrigation
+management, and preparing women for managerial roles, enabling them to make decisions that impact women farmers.
+28.     The implementation of activities in support of RBDAs will be in close collaboration with the Department of River
+Basin Operations and Inspectorate of the FMWRS. A technical working group will be established within the Department
+of River Basin Operations and Inspectorate, involving technical persons from RBDAs to support centralized activities.
+RBDAs will increase stakeholder participation in planning and complaint redress.
+Component 2: Irrigation Modernization (US$350 million)
+29.     Component 2 will support the rehabilitation and revitalization of 40,000 ha of irrigated command area, through a
+comprehensive modernization program combining improving irrigation and drainage infrastructure while implementing
+the institutional reforms presented in Component 1. While potential investments sites were pre-identified across all
+geopolitical zones, the Federal and state schemes15 which will be supported by the SPIN Project will be determined based
+on technical and implementation readiness criteria agreed with the FMWRS. Component 2 is structured in three
+subcomponents.
+Subcomponent 2.1: Mobilization and Development of Water User Associations (WUAs) (US$20 million)
+30.      This Subcomponent will support the creation of WUAs in all irrigation schemes under the project and will
+provide capacity building. Building on the achievements of the TRIMING project, it will focus on organizing farmers sharing
+tertiary irrigation and drainage canals in Water User Groups (WUGs), which will constitute building blocks for establishing
+WUAs to manage secondary and tertiary irrigation canals. One of the key lessons emerging from the TRIMING Project is
+the need for WUAs to be strengthened as inclusive, self-managed, and accountable institutions of farmers. The
+subcomponent will build the capacity of WUAs to undertake their primary responsibilities: maintaining the secondary-
+and field-level water conveyance system, facilitating crop planning, estimating water requirements, ensuring equitable
+and sustainable irrigation scheduling and delivering irrigation services to members, and fixing and collecting irrigation and
+drainage service fees from members to recover the MOM costs to help them sustainably manage the water conveyance
+
+15 Hereinafter, federal-financed schemes are referred as Model 1 and state-financed schemes are referred as Model 2
+
+
+
+
+                                                                                                                        Page 9
+       The World Bank
+       Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+system. The WUA establishment and their capacity building on WRM will enable farmers to have direct responsibility on
+the MOM and improve their adaptive capacity to water variability and climate change impacts. Moreover, well maintained
+irrigation and drainage systems contribute to mitigating the effects of both floods and droughts. The implementation of
+Subcomponent 2.1 will be done by the Federal Project Management Unit (FPMU) in close collaboration with RBDAs and
+states. The coordination of activities and oversight will be taken up by the state governments. RBDAs will set up a
+dedicated WUA unit as part of the bulk water supply to provide facilitation support to WUAs and the states. The activities
+of this subcomponent are further detailed in annex 2.
+Subcomponent 2.2: Irrigation and Drainage Infrastructure Investments (US$320 million)
+31.      This Subcomponent will support rehabilitation and upgrading of water distribution and conveyance systems
+aimed at increasing the irrigation command area, strengthening resilience to climate hazards such as droughts (through
+delivery of stored water) and floods (through drainage), minimizing conveyance losses, and improving the reliability
+and timely delivery of irrigation and drainage services. This activity will finance: (a) studies and/or design reviews of
+irrigation schemes; (b) based on approved technical design, preparation of relevant Environmental and Social Framework
+(ESF) instruments, including, ESIAs, Environmental and Social Management Plans (ESMPs), and Resettlement Action Plans
+(RAPs) as required, and monitor their implementation; (c) rehabilitation of irrigation and drainage civil works; (d)
+associated engineering supervision; and (e) installation of critical canal monitoring system. Water resources for majority
+of schemes to be rehabilitated would be supplied by existing dams. Rehabilitation of these existing dams are covered
+under Component 3.
+Subcomponent 2.3: Irrigation Management Modernization (US$10 million)
+32.      The aim of the subcomponent is to operationalize management tools, information and communication
+technology equipment, and management information systems to make the irrigation infrastructure deliver reliable,
+accountable, and sustainable irrigation and drainage services. This subcomponent will: (a) develop a Comprehensive
+Irrigation Management System to track the condition of canal assets for optimizing maintenance and investment planning;
+(b) establishing water accounting systems, incorporating enhanced use of climate-related data to monitor water
+availability, formulation of service delivery standards, and establishment of service regulations; and (c) establishing
+benchmarking systems of service delivery and performance assessment of the participating irrigation systems. Such
+activities pertain to basin/sub-basin planning, water accounting and data-driven allocation decisions across multiple uses
+and multiple schemes. These activities will be implemented in parallel and in correspondence with the construction works
+(rehabilitation or expansion) financed under the Subcomponent 2.2 so that the rehabilitated or newly constructed
+infrastructure is handed over to the WUAs and scheme operator from the contractor in a progressive manner. The
+procured ICT equipment will be aligned with the international standards on energy efficiency.
+33.     This subcomponent will also promote climate-resilient water management strategies and change irrigation
+management strategies to reduce climate vulnerabilities (for example, irrigation schedules) and improve water and
+energy efficiency of the rehabilitated systems. The energy efficiency of the irrigation schemes will be ensured by
+maximizing the use of gravity, and solar pumps when necessary. The resilience of the communities to water-related
+disasters such as drought and flood will be also strengthened through the operationalization of the irrigation monitoring
+systems. Moreover, the irrigation management modernization will improve the quality of service provided by the
+operator. Key performance indicators will be defined among RBDAs and WUAs on the performance satisfaction of service
+provided against water delivery plan.
+Component 3: Improvements in dam operations and enhancing dam safety (US$100 million)
+34.    This component will strengthen the dam safety management system in the country and will rehabilitate and
+improve the safety of prioritized dams and associated appurtenances. The project will not finance the construction of
+any new dam. Planned activities are neither intended to alter the original schemes, change their nature, nor expand dam
+
+                                                                                                                     Page 10
+       The World Bank
+       Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+extents to make them appear as new or different schemes. Priority will be given to select dams that provide downstream
+irrigation services to the schemes which will be identified under Component 2. The safety of dams is key to climate
+adaptation by ensuring water delivery for water supply, hydropower, ecosystem conservation and irrigation to mitigate
+droughts, protecting against dam break flooding, and storing excess water to mitigate floods following high precipitation.
+35.     This component will: (a) conduct a Dam Safety Portfolio Risk Assessment Exercise including establishing and
+implementing a risk indexing screening method for dams in Nigeria and selecting dams for rehabilitation works; (b)
+prepare an Emergency Action Plan (EAP), an O&M manual, including operational protocols, dam health monitoring and
+reporting protocols, and an instrumentation plan for dam safety. The EAP will include safety protocols that address safety
+concerns specific to women and persons with disabilities; (c) perform rehabilitation works including measures for seepage
+reduction, hydrological and structural safety measures, strengthening main dam body and foundation, and improving
+basic dam facilities and dam safety instruments; (d) prepare and implementing sediment management plans, through
+bathymetric surveys and feasibility studies, piloting of institutional models, and plans for treatment of upstream drainage
+catchments with construction of sediment-retaining check-dams and river bank protection structures; and (e) apply
+nature-based solutions to dam/reservoir operation and management. Details on the activities are in annex 3.
+Component 4: Project Management (US$20 million)
+36.      The main objective of this component is to effectively implement, monitor, and evaluate project activities. It
+involves establishing the FPMU and Technical Units (TUs) at the Federal level and State Project Implementing Units for the
+state irrigation schemes to oversee and coordinate project implementation, as well as setting up a monitoring and
+evaluation (M&E) system. Component 4 will also support the establishment of the FSC and Technical Steering Committee
+for the project, with ministerial representations from the FMWRS, FMP, and other relevant agencies. An external M&E
+agency will be contracted to provide support on the assessment of project activities and their impact. The component
+includes financing for consultancies, trainings, materials, office equipment, and operating costs.
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                           Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+37.      Environmental and social (High). Environment and Social (E&S) impacts/risks from proposed project activities are
+anticipated on water resources and use, air quality, terrestrial ecology, biodiversity, natural resources, land use, human
+and socio-economic context, public and land resources from the disposal of muck and other wastes which will vary
+depending on the extent of rehabilitation activities proposed. Potential E&S risks include issues of occupational health
+and safety of workers, community health and safety issues, grievance as a result of poor implementation of the
+interventions and compensation (where it becomes relevant), and weak dam operation and maintenance and emergency
+preparedness and potential dam failure. Poor stakeholder engagements can also impact the project if stakeholders are
+not adequately consulted. Impacts on land and assets are likely in dams and irrigation areas. Also, considering the
+specialized nature of rehabilitation works, using skilled migrant labour could potentially lead to potential Sexual
+
+                                                                                                                      Page 11
+       The World Bank
+       Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+exploitation and abuse/Sexual harassment (SEA/SH) risks, poor labour practices. Security risks level is equally high, since
+the project is implemented in areas of conflict and volatile settings, which was also an issue for the TRIMING Project. The
+Borrower will prepare Environmental and Social Assessments (ESAs) such as Environmental and Social Management
+Framework, Resettlement Policy Framework, Labor Management Procedure and Environmental and Social Commitment
+Plan before completion of Appraisal. Other sub-project ESAs such as Environmental and Social Impact Assessments (ESIAs),
+Environmental and Social Management Plans (ESMPs) and Resettlement Action Plans and other specific instruments will
+be prepared during project implementation. Security Management Plans (SMPs) and Sexual Exploitation and Abuse/Sexual
+Harassment (SEA/SH) Action Plans will also be prepared. A dam safety panel of experts will be hired by client to assess the
+safety status of the dams and surrounding areas, status of dam operation and maintenance and emergency preparedness
+and provide recommendations for dam safety measures. Effective stakeholder engagement will also be supported, guided
+by a comprehensive Stakeholder Engagement Plan (SEP) to be developed during project preparation. The strategy will
+outline systems and processes to ensure that stakeholders and the public are active participants in all project design and
+implementation aspects.
+ E. Implementation
+
+ Institutional and Implementation Arrangements
+38.      The FMWRS is the lead implementing ministry for the project, in collaboration with the FMP and participating
+state government. Given the administrative structure, as defined by the constitution of Nigeria, the project will be
+executed through the Federal and state governments. The project implementation arrangements are to strengthen the
+roles, responsibilities, and accountabilities of the administrative structure of the country and aim in reforming the
+devolution and institutionalization of the water sector architecture. An inter-ministerial PSC will be set up with mandate
+of discussing overall project direction, and concurring project outputs for World Bank’s no objection. The PSC will consist
+of the FMWRS, FMP, Federal Ministry of Finance (FMF), Federal Ministry of Agriculture and Food Security (FMAFS), Federal
+Ministry of Environment (FMEnv), Federal Ministry of Budget and Economic Planning (FMBEP), Office of the Vice-President
+(OVP), and commissioners of water resources and agriculture in participating states. The PSC will be mandated to meet at
+least once in six months and will be co-chaired on rotation basis for one year each by the Ministers of FMWRS and FMP.
+Establishment of the PSC and holding the first meeting will be an effectiveness condition for the project. The Federal
+Technical Committee (FTC) will provide overall technical guidance. The Federal Technical Committee will be chaired by
+the Permanent Secretary of the FMWRS and will include Directors of Irrigation and Drainage, Dams and Reservoir
+Operations (DRO), River Basin Operation of the FMWRS, Director of Renewable Energy of the FMP, relevant Directors from
+FMAFS and FMEnv, and Managing Directors from participating RBDAs.
+39.     The FMWRS will set up a Federal Project Management Unit (FPMU) staffed with competent multi-disciplinary
+experts from both the FMWRS and FMP fully dedicated to managing the project. The FPMU will be lean, with only
+responsibility for coordination, fiduciary, that is, procurement and financial management (FM), M&E, and environmental
+and social management. The technical arm of the FPMU will be handled by TUs hosted in the Departments of Irrigation
+and Drainage and DRO of the FMWRS and the Department of Renewable Energy of the FMP. The appointed experts from
+the ICRC and BPE will be part of the Hydropower TU in the Department of Renewable Energy of the FMP to support
+operationalization of the PPP action plan and other activities around private sector participation in hydropower
+development. The TUs will be responsible for preparing terms of reference for technical consultants, specifications, lead
+evaluations of technical proposals, and other technical documents required for the project’s implementation.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+
+                                                                                                                      Page 12
+     The World Bank
+     Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+CONTACT POINT
+
+World Bank
+ Jun Matsumoto
+ Senior Water Resources Management Specialist
+
+ Pravin Karki
+ Senior Hydropower Specialist
+
+ Emmanuel Chinedu Umolu
+ Senior Water Resources Management Specialist
+
+Borrower/Client/Recipient
+ FEDERAL GOVERNMENT OF NIGERIA
+ Stanley Nyeso George
+ Director IERD
+ nyekenso@gmail.com
+
+Implementing Agencies
+ Federal Ministry of Water Resources and Sanitation
+ Esther Oluniyi
+ Director, Irrigation and Drainage Department
+ akinronk@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Jun Matsumoto, Pravin Karki, Emmanuel Chinedu Umolu
+
+Approved By
+
+Practice Manager/Manager:                Anna Cestari                        25-Jun-2024
+
+
+
+                                                                                               Page 13
+     The World Bank
+     Sustainable Power and Irrigation for Nigeria Project (P179684)
+
+
+
+Country Director:                        Ndiame Diop                  28-Jul-2024
+
+
+
+
+                                                                                    Page 14
+

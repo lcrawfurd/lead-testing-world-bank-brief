@@ -1,0 +1,1955 @@
+Public Disclosure Authorized
+                                                                           FOR OFFICIAL USE ONLY
+
+                                                                                                                           Report No: PADHI01170
+
+
+
+
+Public Disclosure Authorized
+                                                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+                                                                      PROJECT APPRAISAL DOCUMENT
+
+                                                                                      ON A
+
+                                                                              PROPOSED GRANT
+
+                                                                  IN THE AMOUNT OF SDR 105.5 MILLION
+                                                                      (US$143 MILLION EQUIVALENT)
+
+
+
+
+Public Disclosure Authorized
+                                                                                  TO THE
+                                                                         REPUBLIC OF MOZAMBIQUE
+
+                                                                                    FOR AN
+
+                                                                     URBAN WATER SECURITY PROJECT
+
+
+                                                                                 MAY 22, 2025
+
+
+
+
+Public Disclosure Authorized
+                                Water Global Practice
+                                Eastern and Southern Africa Region
+
+
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+                         CURRENCY EQUIVALENTS
+
+                     (Exchange Rate Effective April 30)
+
+                    Currency Unit =
+                             US$1 = SDR 0.74
+
+                                 FISCAL YEAR
+                               July 1 – June 30
+
+
+
+
+  Regional Vice President: Ndiamé Diop
+Regional Practice Director: Anne Wellenstein
+  Acting Division Director: Luc Lecuit
+        Practice Manager: Francis Ghesquiere
+      Task Team Leaders: Jaime Palalane, Pierre Francois-Xavier Boulenger
+                      ABBREVIATIONS AND ACRONYMS
+AIAS      Water and Sanitation Infrastructures Administration
+ARA-Sul   South Region Water Administration (Administração Regional de Águas do Sul)
+AdRMM     Maputo Metropolitan Area Water Company (Águas da Região Metropolitana de Maputo)
+AdRS      Southern Region Water Company (Águas da Região do Sul)
+ARA       Regional Water Administration
+AURA      Water Regulatory Authority (Autoridade Reguladora de Água)
+CERC      Contingent Emergency Response Component
+CPF       Country Partnership Framework
+DNAAS     National Directorate for Water Supply and Sanitation (Direcção Nacional de Abastecimento de
+          Água e Saneamento)
+DNGRH     National Directorate for Water Resources Management (Direcção Nacional de Gestão de
+          Recursos Hídricos)
+ENASU     National Strategy for Urban Water and Sanitation (Estratégia Nacional de Água e Saneamento
+          Urbano)
+ESF       Environmental and Social Framework
+ESMF      Environmental and Social Management Framework
+FIPAG     Water Supply Asset Holding and Investment Fund (Fundo de Investimento e Património do
+          Abastecimento de Água)
+FM        Financial Management
+GMMA      Greater Maputo Metropolitan Area
+GoM       Government of Mozambique
+GRID      Green, Resilient and Inclusive Development
+IDA       International Development Association
+IFR       Interim Financial Report
+IPF       Investment Project Financing
+IWRM      Integrated Water Resources Management
+MOPHRH    Ministry of Public Works, Housing and Water Resources
+NRW       Non-Revenue Water
+PASA      Action Plan for the Sustainable Development Goals
+PBC       Performance-Based Condition
+PDO       Project Development Objectives
+PER       Public Expenditure Review
+PIM       Project Implementation Manual
+PIU       Project Implementation Unit
+PTU       Project Technical Units
+PWP       Private Water Provider
+ROC       Regional Operating Companies
+UoF       Utilities of the Future
+WASH      Water Sanitation Hygiene
+WASIS     Water Services and Institutional Support
+The World Bank
+Mozambique Urban Water Security Project (P509890)                                                                          PROJECT APPRAISAL DOCUMENT
+
+
+
+                                                             TABLE OF CONTENTS
+
+ DATASHEET ........................................................................................................................... i
+ I.    STRATEGIC CONTEXT ..................................................................................................... 1
+       A. Project Strategic Context .................................................................................................................1
+       B. Sectoral and Institutional Context ...................................................................................................2
+ II.   PROJECT DESCRIPTION .................................................................................................. 5
+       A. Project Development Objective .......................................................................................................5
+       B. Theory of Change and PDO Indicators .............................................................................................5
+       C. Project Beneficiaries ........................................................................................................................6
+       D. Project Components ........................................................................................................................6
+       E. Role of Partners ..............................................................................................................................10
+       F. Lessons Learned and Reflected in the Project Design....................................................................10
+ III. PROJECT IMPLEMENTATION ........................................................................................ 11
+       A. Institutional and Implementation Arrangements ..........................................................................11
+       B. Results Monitoring, Evaluation, and Verification Arrangements ..................................................12
+       C. Disbursement Arrangements .........................................................................................................12
+ IV. PROJECT APPRAISAL SUMMARY .................................................................................. 12
+       A. Technical, Economic and Financial Analysis ..................................................................................12
+       Technical Analysis ..............................................................................................................................12
+       B. Fiduciary .........................................................................................................................................14
+       C. Environmental, Social and Legal Operational Policies ...................................................................16
+       D. Gender and Citizen Engagement ...................................................................................................17
+ V. KEY RISKS .................................................................................................................... 19
+ ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 21
+ ANNEX 2: PROJECT COSTAB ................................................................................................ 30
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                 PROJECT APPRAISAL DOCUMENT
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Mozambique               Urban Water Security Project
+                                                     Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                     Classification
+                         Investment Project
+P509890                                              Substantial
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+Financing & Implementation Modalities
+[ ] Multiphase Programmatic Approach (MPA)                     [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                   [✓] Fragile State(s)
+[✓] Performance-Based Conditions (PBCs)                        [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                    [✓] Conflict
+[ ] Deferred Drawdown                                          [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                 [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                 Expected Closing Date
+17-Jun-2025                            31-Dec-2030
+Bank/IFC Collaboration                 Joint Level
+Yes                                    Complementary or Interdependent project requiring active coordination
+
+
+Proposed Development Objective(s)
+To increase access to water supply services and to improve the efficiency of urban water supply services.
+
+
+Components
+ Component Name                                                                                             Cost (US$)
+
+
+                                                                                                                         i
+     The World Bank
+     Mozambique Urban Water Security Project (P509890)                                  PROJECT APPRAISAL DOCUMENT
+
+
+ C1: Access to sustainable and climate resilient water and sanitation services                       72,100,000.00
+ C2: Improvement of performance and efficiency of services                                           49,350,000.00
+ C3: Water sector development support                                                                14,260,000.00
+ C4: Project management support                                                                       7,290,000.00
+ C5: Contingent Emergency Response                                                                            0.00
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+ Borrower:                     Republic of Mozambique
+
+ Contact                       Title                        Telephone No.       Email
+ Implementing Agency:          Ministry of Public Works, Housing, and Water Resources
+
+ Contact                       Title                         Telephone No.       Email
+ Raul Mutevuie Júnior          National Director             258843120130        bombatejunior@gmail.com
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+
+Is this project Private Capital Enabling (PCE)?              Yes
+
+SUMMARY
+
+  Total Operation Cost                                                                                     143.00
+
+  Total Financing                                                                                          143.00
+             of which IBRD/IDA                                                                             143.00
+
+  Financing Gap                                                                                              0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                             143.00
+
+        of which IDA Recommitted                                                                           143.00
+
+                                                                                                                    ii
+     The World Bank
+     Mozambique Urban Water Security Project (P509890)                                    PROJECT APPRAISAL DOCUMENT
+
+
+        IDA Grant                                                                                             143.00
+
+
+IDA Resources (US$, Millions)
+
+                                                                                           Guarantee
+                           Credit Amount     Grant Amount         SML Amount                             Total Amount
+                                                                                             Amount
+
+National
+Performance-Based                   0.00            143.00                 0.00                 0.00           143.00
+Allocations (PBA)
+
+Total                               0.00            143.00                 0.00                 0.00           143.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year                2025          2026          2027             2028             2029          2030          2031
+
+Annual              0.00          10.00         30.00           30.00             30.00         30.00        13.00
+Cumulative          0.00          10.00         40.00           70.00          100.00           130.00       143.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                         Contributing Practice Areas
+Water
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                              Rating
+1. Political and Governance                                                ⚫ Moderate
+
+                                                                                                                      iii
+     The World Bank
+     Mozambique Urban Water Security Project (P509890)                                 PROJECT APPRAISAL DOCUMENT
+
+
+2. Macroeconomic                                                            ⚫ Moderate
+3. Sector Strategies and Policies                                           ⚫ Moderate
+4. Technical Design of Project or Program                                   ⚫ Moderate
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Low
+6. Fiduciary                                                                ⚫ Substantial
+7. Environment and Social                                                   ⚫ Substantial
+8. Stakeholders                                                             ⚫ Low
+9. Overall                                                                  ⚫ Moderate
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Not Currently Relevant
+Traditional Local Communities
+
+                                                                                                              iv
+       The World Bank
+       Mozambique Urban Water Security Project (P509890)                                  PROJECT APPRAISAL DOCUMENT
+
+
+ESS 8: Cultural Heritage                                                              Relevant
+ESS 9: Financial Intermediaries                                                       Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+Project Implementation Manual (PIM). The Recipient shall no later than thirty (30) days after the Effective Date, prepare
+and adopt a Project Implementation Manual, in form and substance acceptable to the Association (“Project
+Implementation Manual” or “PIM”). Except as the Association shall otherwise agree, the Recipient shall not amend or
+waive any provision of the PIM. In case of any conflict between the terms of the PIM and those of this Agreement, the
+terms of this Agreement shall prevail.
+The Recipient shall: (a) Appoint by not later than ninety (90) days after the Effective Date and thereafter maintain, at all
+times during the implementation of the Project, a verification agent under terms of reference acceptable to the
+Association (“Independent Verification Agent or IVA”), to verify the data and other evidence supporting the
+achievement of PBCs as set forth in the table in Schedule 3 to this Agreement, and recommend payments to be made,
+as applicable; and (b) Ensure that the IVA carry out verification and process(es) in accordance with the Verification
+Protocol; and submit to the Association the corresponding verification reports in a timely manner and in form and
+substance satisfactory to the Association.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                              Citation                     Description                     Financing Source
+                                                               The Additional Condition of
+                                                               Effectiveness consist of the
+                                                               following, namely, that the
+                                                               respective Subsidiary
+                                                               Agreements between the
+                                                               Recipient and FIPAG, ARA-
+                                                               Sul and AURA have been
+Effectiveness                     TBD                                                          IBRD/IDA
+                                                               executed and delivered and
+                                                               all conditions precedent to
+                                                               its effectiveness or to the
+                                                               right of the Recipient to
+                                                               make withdrawals under it
+                                                               (other than the
+                                                               effectiveness of this
+
+
+                                                                                                                         v
+    The World Bank
+    Mozambique Urban Water Security Project (P509890)                            PROJECT APPRAISAL DOCUMENT
+
+
+                                                        Agreement) have been
+                                                        fulfilled.
+                                                        No withdrawal should be
+                                                        made with respect of
+                                                        Category (2), until and
+                                                        unless the Recipient has
+                                                        furnished evidence
+                                                        satisfactory to the
+                                                        Association that the PBC
+                                                        for which payment is
+Disbursement               TBD                                                        IBRD/IDA
+                                                        requested has been
+                                                        achieved as set forth in
+                                                        Schedule 3 to this
+                                                        Agreement and complied
+                                                        with the instructions under
+                                                        the Disbursement and
+                                                        Financial Information
+                                                        Letter.
+                                                        No withdrawal shall be
+                                                        made for Eligible
+                                                        Expenditures under
+                                                        Category (3), until and
+                                                        unless the Association has
+Disbursement               TBD                                                        IBRD/IDA
+                                                        notified the Recipient that
+                                                        the conditions set forth in
+                                                        Section 5.15 (a) of the
+                                                        General Conditions have
+                                                        been fulfilled.
+
+
+
+
+                                                                                                        vi
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                                    PROJECT APPRAISAL DOCUMENT
+
+
+
+ I. STRATEGIC CONTEXT
+ A. Project Strategic Context
+
+ 1.     Mozambique is endowed with rich natural resources but faces substantial development challenges, including
+ widespread poverty and inequality, limited job creation, and slow structural transformation. The economy remains
+ heavily reliant on natural resources, with extractive industries driving growth. Frequent natural disasters undermine
+ economic activity and food security, exacerbating poverty, which was projected at 74.7 percent in 2023 when measured
+ by the US$2.15 poverty line. High underemployment and inequality are significant barriers to economic inclusion, while
+ the informal sector, encompassing over 80 percent of the labor force, dominates the labor market, leaving many workers
+ without social protection.
+ 2.      Economic growth slowed significantly in 2024 largely due to post-election unrest, underperformance in
+ agriculture and manufacturing, and weaker investor confidence. Real GDP growth decelerated from 5.4 percent in 2023
+ to 1.8 percent in 2024. The slowdown was partly driven by widespread protests and unrest following the October 2024
+ general elections. Adverse weather conditions constrained agricultural output and growth in the extractive sector slowed
+ down as Coral South LNG reached full capacity. Inflation continued its downward trend, easing to 3.2 percent in 2024
+ from 7.1 percent in 2023, supported by stable global commodity prices, a strong Metical, and tight monetary policy. The
+ current account deficit narrowed slightly to 11.3 percent of GDP, while foreign reserves strengthened to the equivalent
+ of five months of imports (excluding megaprojects). However, the fiscal position deteriorated, with the deficit widening
+ to 5.5 percent of GDP in 2024 driven by a large wage bill and high domestic debt service and weaker-than-expected
+ revenue performance. Public debt stabilized at 92 percent of GDP in 2024. Looking ahead, growth is projected to recover
+ modestly to 3 percent in 2025, but downside risks remain elevated, including delays in LNG investments, climate shocks,
+ and fiscal consolidation challenges.
+ 3.     Mozambique is one of the most climate-vulnerable countries in the region, with its economic growth closely
+ linked to climate shocks. Catastrophe risk modeling estimates average annual losses of US$440 million from floods
+ alone.1 Cyclones, floods, and droughts can reduce per capita food consumption by 25–30 percent and lead to 0.4 fewer
+ meals per person per day. According to Mozambique’s 2023 Country Climate and Development Report, the country’s
+ location, extensive coastline, and large expanse of low-lying hinterland contribute to its vulnerability. The impacts of
+ climate change are expected to increase over the next decades. Projected rising temperatures, more irregular rainfalls
+ and related sea level rise will increase the frequency and intensity of droughts, floods, and cyclones. In terms of
+ temperature changes, under the SSP5 8.5 scenario,2 mean temperatures are predicted to rise significantly, with
+ anomalies ranging from 0.8°C over the next 20 years to 4.19°C between 2080 and 2099.” The southern provinces of
+ Maputo, Gaza, and Inhambane—the areas targeted by this project are also highly exposed to these climate change–
+ exacerbated climate risks. Severe and life-threatening floods and droughts are expected to occur at least once during the
+ 30-year lifespan of planned infrastructure due to climate change impacts.
+ 4.     Investments in water security have yielded substantial economic and human development benefits in
+ Mozambique. In major urban centers, over two decades of consistent investment—supported by the local private
+ sector—have increased mostly basic water supply access from 60 percent in 2000 to nearly 90 percent in 2020. These
+ improvements contributed to a decline in child mortality, and a reduction in diarrheal disease prevalence among children
+ under five. Progress in the water sector has also supported gender equality and job creation. However, the sector remains
+
+
+1 World Bank. 2018. Extreme Weather and Household Well-being: Evidence from Multiple Shocks in Mozambique. Policy Research Working Paper;
+
+No. 8667.
+2 “SSP5” refers to the Shared Socioeconomic Pathway representing a fossil fuel intensive world with an additional radiative forcing of 8.5 W/m² by
+
+the year 2100.
+
+                                                                                                                                            Page 1
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                                   PROJECT APPRAISAL DOCUMENT
+
+
+ behind in achieving its 2030 targets of reaching universal access. The 2020 Country Private Sector Diagnostic3 found that
+ insufficient basic service provision, including water and electricity, limits tourism sector opportunities, curtailing the
+ geographical spread of visits, investments, and benefits. Therefore, improving water availability and reliability can boost
+ the country’s economic growth and contribute to poverty eradication by increasing productivity with higher agriculture
+ and industrial production and yields, time‐saving and fewer sick workers, and reduced expenditure on health care and
+ treatment.
+
+ B. Sectoral and Institutional Context
+
+ 5.      A substantial share of Mozambique’s urban population still lacks access to safely managed drinking water.
+ Although basic water services in urban areas reached 87 percent in 2022,4 supply remains intermittent. Many residents
+ lack piped connections, with 8 percent using public standpipes and 17 percent relying on taps in neighbors’ dwellings.5,6
+ None of the 21 main cities served by 15 primary systems7 have continuous supply; only 7 systems meet the Water
+ Regulatory Authority’s (AURA) good performance threshold of 16 hours per day8. With an urban population growth rate
+ of 4.4 percent per year9, public water services managed by state agencies are not expanding quickly enough. Private
+ water providers (PWPs) are filling the gap,10 especially in peri-urban areas. In Greater Maputo, 97 percent of the
+ population have access to improved water sources11, but public services cover only 49 percent12, leaving around 50
+ percent reliant on mostly unlicensed PWPs13. These providers often rely on poorly drilled boreholes, increasing the risk
+ of aquifer contamination, and charge tariffs 51 percent higher than the public utility, resulting in higher water costs for
+ poor peri-urban households.14
+ 6.     Increased investment in urban water supply has not always led to improved services. The regulator’s 2023 report
+ indicates that 12 of the 15 main urban water systems perform poorly.15 The 2020 Water Sector Public Expenditure
+ Review16 found that from 2013 to 2018, higher investments by the Water Supply Asset Holding and Investment Fund
+ (FIPAG) yielded only modest improvements in access and coincided with declining financial and operational performance.
+ Currently, FIPAG is unable to service its debt due to inefficiencies within its structure and the poor performance of
+ Regional Operating Companies (ROCs). Among the ROCs, collection rates below 80 percent pose financial challenges, but
+ non-revenue water (NRW), averaging 50 percent, remain the primary operational issue. Reducing NRW to around 30
+ percent would have a significant and positive impact on the financial sustainability of the ROCs. Although underfunding
+ and rapid urban growth contribute to declining services, sustainable expansion requires moving beyond infrastructure-
+ focused investment toward integrated approaches that strengthen management and institutions, with incentives to
+ improve performance, and ensure WSS infrastructure is climate-resilient.
+
+
+3 IFC. 2021. Country Private Sector Diagnostic. Creating Markets in Mozambique.
+4 WHO (World Health Organization), and UNICEF (United Nations Children’s Fund). 2020. Joint Monitoring Program – Mozambique Rural and Urban
+
+Service Levels.
+5 In 2019, standpipe usage reached 26 percent in Nampula and Angoche, the highest among urban areas (AURA 2022).
+6 INE 2021. Results from the Households Budget Survey 2019/20.
+7 The Greater Maputo system illustrates how a single water system can serve multiple cities, Maputo and Matola, the country’s largest centers.
+8 AURA 2024. Service Regulation Report for year 2023.
+9 World Bank. 2022. Data Portal. Urban population growth (annual percent) – Mozambique.
+10 A 2018 survey by DNAAS identified 1,830 private water providers (PWPs) supplying piped water to 1.8 million people, primarily in urban areas of
+
+the Southern Region, with over 75 percent—nearly 1.4 million—served in Greater Maputo.
+11 INE 2020. Results from the Census 2017.
+12 AURA 2022. Service Regulation Report for year 2019.
+13 Only 20 percent of the private water supply systems were licensed by the end 2019.
+14 In November 2021, AURA set PWP tariffs at 70 MT per cubic meter for systems connected to the power grid and 80 MT for those using diesel
+
+generators (Resolution 3/2021). The public utility’s average tariff in Greater Maputo was set at 46.28 MT per cubic meter (Resolution 2/2021).
+15 A compounded performance index below 50 percent is rated “C,” the lowest on a five-tier scale (A+, A, B+, B, and C).
+16 DH Infrastructure and MB Consulting. 2020. Public Expenditure Review of the Mozambican Water Sector 2010-2018
+
+
+                                                                                                                                            Page 2
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                                  PROJECT APPRAISAL DOCUMENT
+
+
+ 7.      Strengthening urban water security in Mozambique requires addressing both environmental and institutional
+ challenges that undermine service reliability in addition to climate change. In the Southern Region, where droughts are
+ most frequent, a prolonged drought in the Umbeluzi river basin (2014–2019) severely reduced water availability, limiting
+ supply in Greater Maputo to nine hours per day. In addition to reduced volumes, water quality is declining due to poor
+ watershed protection, including deforestation and fertilizer use in buffer zones, affecting rivers such as the Guiua,
+ Inhanombe, and Jatingue—the main source for Chibuto city. Addressing these challenges requires better hydrological
+ risk management to secure water quantity and quality, stronger institutions, and greater investment in infrastructure.
+ Recent investments, including expanded storage at Corumana Dam17 and Phase I of the Sabie water treatment plant
+ (WTP), and supporting transport and distribution systems18, have enhanced water security in Greater Maputo19.
+ However, service reliability has not improved due to unresolved utility-level operational issues, particularly a high NRW
+ rate, estimated at 48 percent in 2024.20
+ 8.     Women and girls are mostly affected by inadequate Water, Sanitation, and Hygiene (WASH) services. Despite
+ socio-demographic progress and greater female participation in the economy and society, women remain “time poor”
+ due to unequal household labor and the time spent fetching water from public standpipes, with one of the largest gender
+ gaps in the Africa East region with women being responsible for water collection in 92 percent of households versus men
+ being responsible in only 7 percent of households. With one in three women in Mozambique having experienced gender-
+ based violence (GBV), lack of on-premises water access heightens their vulnerability. Evidence shows widespread fear
+ and instances of GBV while collecting water or using shared latrines.
+ 9.    The Ministry of Public Works, Housing, and Water Resources (MOPHRH) holds overall responsibility for the
+ water sector. Within MOPHRH, the National Directorate for Water Supply and Sanitation (DNAAS) leads policy
+ development, planning, and investment promotion in WASH, while the National Directorate for Water Resources
+ Management (DNGRH) oversees water resources management. In this sub-sector, operational management, allocation,
+ conservation, and investment in water resources and related infrastructure are carried out by three Regional Water
+ Administrations (ARAs) for the Southern, Central, and Northern regions.
+ 10.    The urban WSS sector operates under the Delegated Management Framework (DMF), which established three
+ key institutions: FIPAG, the Water and Sanitation Infrastructure Administration (AIAS), and AURA. FIPAG, created during
+ the DMF’s first phase, owns the main water systems serving 21 major urban areas and contracts operators for the ROCs.
+ AIAS manages investments and assets in 130 small towns and district centers and oversees sanitation in both primary
+ and secondary towns. AURA is responsible for economic regulation, ensuring service quality, safeguarding user interests,
+ and promoting the financial sustainability of water systems.
+ 11.    Private sector participation in urban water operations has progressed slowly due to limited financial viability
+ and operational complexity. To date, only one FIPAG system—the Greater Maputo water system21—has been
+ transferred to a private operator, and it was only under a private operator for a few years, with no improvement in
+ service delivery or performance despite two decades of separating operations from asset ownership. This underscores
+ the need to revise the contracting strategy and accountability framework to incentivize private investment, service
+ expansion, and quality improvements. Derisking the sector is also essential. Progress has been made with the approval
+
+
+17 Mozambique - National Water Resources Development Project (P107350). Washington, D.C.: World Bank Group.
+18 Greater Maputo Water Supply and Expansion Project (P125120). Washington, D.C.: World Bank Group.
+19 The Umbeluzi WTP is currently the main water source, with a capacity of 240,000 cubic meters per day, followed by the Sabie WTP at 60,000 cubic
+
+meters, and boreholes in Kongolote, Intaka, Mali, and KaTembe producing 9,400 cubic meters per day.
+20 Data on key performance indicators for primary systems shared by FIPAG.
+21 Between 2000 and 2010, the Greater Maputo system was run by a consortium of Águas de Portugal (AdP) and SAUR. SAUR exited in 2001 after
+
+Bouygues Group’s decision to divest, with AdP remaining until 2010, when FIPAG acquired its shares and became the main shareholder for the state.
+AdM was renamed Águas da Região de Maputo, and its lease with FIPAG ended in November 2018.
+
+                                                                                                                                          Page 3
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                                PROJECT APPRAISAL DOCUMENT
+
+
+ of a decree establishing a transparent framework for annual tariff adjustments based on cost recovery and affordability,
+ ensuring financial equilibrium can be restored when operating conditions change.
+ 12.     The water sector’s medium-term investment plan is defined in the Action Plan for the Sustainable Development
+ Goals (PASA, 2015–2030), the National Strategy for Urban Water and Sanitation (ENASU, 2011–2025), and the National
+ Water Resources Plan (NWRP).22 Building on a consistent investment track record, the Government of Mozambique
+ remains committed to scaling up investments to secure water resources, expand treatment and distribution capacity,
+ improve service efficiency, and promote sustainability to achieve universal access to safely managed water. The project
+ will support the implementation of PASA, ENASU and the updated investment plan for the urban water sector. The ENASU
+ acknowledges the increasing challenges posed by climate change, particularly the heightened frequency and severity of
+ extreme weather events such as floods and droughts. The NWRP also identifies climate change as a significant factor
+ affecting water availability and distribution across Mozambique.
+ 13.    The Project is aligned with the World Bank Group Country Partnership Framework (CPF) for Mozambique for
+ FY23‐27 discussed by the Board on February 23, 2023 (Report No. 176672-MZ). The Project primarily contributes to the
+ “Inclusive green job creation” (High‐Level Outcome Two) by expanding infrastructure services (objective 6). The Project
+ will improve water supply services and utilities’ creditworthiness; this will also ultimately help diversify the sources of
+ investment financing to meet the goal of universal and equitable access to safe and affordable drinking water for all by
+ 2030. Water is a vital factor in production and job creation, and the project will enable the growth of micro, small, and
+ medium enterprises (objective 5) operating in the water supply and contribute to job creation. The project also supports
+ “More inclusive institutions” (High‐Level Outcome One) by enhancing public sector capacity for inclusive public services
+ (objective 2) in the water sector and investing in institutional strengthening, including providing financial incentives for
+ performance improvement of water utilities. Last, it will contribute to “Improved human capital and women
+ empowerment” (High‐Level Outcome Three), supporting the improvement of selected health and education outcomes
+ (objective 7) through the reduction of the lack of access to WASH at home and school that has a negative impact on
+ children’s health and education, particularly for girls.
+ 14.     The project’s focus on climate-resilient infrastructure and adaptation aligns with Mozambique’s Nationally
+ Determined Contribution (NDC). Water resources and resilient water supply and sanitation systems is one of the nine
+ strategic areas for adaptation and resilience to climate change of the latest NDC submitted to the United Nations
+ Framework Convention on Climate Change (UNFCCC).23 On adaptation, the country commits to strengthen the early
+ warning systems to floods and droughts; strengthen climate risk preparedness and response by reducing the vulnerability
+ to drought in arid and semi‐arid areas, such as the southern provinces; increasing water resource management (WRM)
+ capacity; increasing access to water collection, storage, treatment and distribution; promotion of low‐water consumption
+ systems and waste reduction; and developing resilience mechanisms for urban areas and other settlements. On
+ mitigation, the country commits to increase energy efficiency including actions for installation of solar photovoltaic
+ systems for pumping water for domestic, community or public use. The project contributes to the NDC by supporting
+ investments that intersect all the aforementioned areas and actions of the NDC, starting with upstream investments to
+ improve WRM in the region of the country most affected by droughts, followed by investments to increase the climate
+ resilience of existing and new water supply infrastructure, improvement of the performance of water supply operations
+ with one third of financing exclusively dedicated to NRW reduction and energy efficiency, and by building the capacity of
+ sector institutions to develop and implement plans and tools for better managing climate change exacerbated extreme
+ droughts and flood events with impact on water services and infrastructure. The project also responds to Priority 2 of
+
+
+
+22 Resolution 11/2019 from the Council of Ministers. Approval of the National Water Resources Plan.
+23 Ministry of Land and Environment. 2021. Update of the First Nationally Determined Contribution to the United Nations Framework Convention
+
+on Climate Change Mozambique. Period: 2020‐2025.
+
+                                                                                                                                       Page 4
+       The World Bank
+       Mozambique Urban Water Security Project (P509890)                                               PROJECT APPRAISAL DOCUMENT
+
+
+ the Mozambique Country and Climate Development Report,24 by supporting the mobilization of US$4.6 billion to improve
+ WRM to address high spatial and temporal water variability, including investments in climate‐resilient water supply.
+
+
+
+ II. PROJECT DESCRIPTION
+ A. Project Development Objective
+
+  15.     The project development objective (PDO) is to increase access to water supply services and to improve the
+  efficiency of urban water supply services.
+
+ B. Theory of Change and PDO Indicators
+
+ 16.    To ensure the achievement of the PDO, the project will address three main challenges, namely the access gap,
+ the declining performance of services, and the bottlenecks in the enabling environment for private sector
+ participation. Figure 1 shows the full results chain that underpins the Theory of Change for the project, which is
+ structured into three main components of activities to address the three main challenges of the urban water sector,
+ leading to outputs and outcomes that will contribute to the achievement of the PDO and impact on human capital,
+ poverty and economic growth, improve climate resilience and strengthen sector institutions and the enabling
+ environment for private sector participation.
+
+                                      Figure 1 Theory of Change for the Urban Water Security Project
+
+
+
+
+24 WBG. 2023. Mozambique Country and Climate Development Report (June 2023).
+
+
+                                                                                                                           Page 5
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                     PROJECT APPRAISAL DOCUMENT
+
+
+17.    Successful achievement of the PDO above will be measured with the following proposed key results indicators:
+           (a) People provided with at least basic water (disaggregated by female and youth sub-groups)
+           (b) People benefiting from improved water services (disaggregated by female and youth sub-groups)
+           (c) Operating cost recovery ratio (operating revenues collected divided by operating costs)
+
+C. Project Beneficiaries
+
+18.     The project is expected to directly benefit approximately 755,000 people in the main urban areas of
+Mozambique. This includes some 282,000 people who will receive new household connections and 473,000 people who
+are already connected, but will benefit from improved services, such as increased service hours and better water quality.
+These investments are aligned with climate-resilient standards, including infrastructure designed to withstand extreme
+weather events. Nearly 70 percent of the people benefiting from new connections will be from low-income households.
+Part of the beneficiaries from improved service, approximately 120,000 people, will be from Private Water Providers
+(PWPs) who will provide an improved water quality and service through infrastructure upgrades that enable bulk water
+supply integration and compliance with technical standards. The project will also increase available treated water
+production by 40,000 m³/day, improving redundancy and resilience to climate change induced droughts and floods.
+19.     The project is also expected to yield indirect benefits for over 1.3 million people in the Greater Maputo
+Metropolitan Area (GMMA) through improved operational performance, reduced Non-Revenue Water, enhanced
+energy efficiency, and institutional capacity-building. These interventions, particularly under performance-based
+programs, will enhance service continuity, support financial sustainability of utilities, and contribute to improved health
+and economic outcomes. Women and girls, who bear a disproportionate burden of water collection and related health
+risks, will especially benefit from reduced exposure to waterborne diseases, time savings, and reduced risks of gender-
+based violence due to on-premises water access. Utilities such as the Maputo Regional Water Company (AdRMM), and
+the South Region Water Company (AdRS), and the South Region Water Administration (ARA-Sul), will implement
+empowerment programs aimed at increasing female participation in technical and leadership roles, contributing to long-
+term sector transformation.
+
+D. Project Components
+
+20.     The project is an Investment Project Financing (IPF) with Performance-Based Conditions (PBCs). The project will
+focus on the urban areas of the country, with initial investments in the GMMA, complementing past investments from
+two World Bank-financed projects to increase water storage (the National Water Resources Development Project,
+P107350) and production to meet the demand (the Greater Maputo Water Supply Project, P125120) in this area. The
+project will also support priority investments in WSS serving the Southern Region to improve their climate resilience
+(reducing their vulnerability to droughts) and improve their efficiency and sustainability. In addition, the project will also
+support the completion of ongoing WSS investments in Tete city currently financed by the Water Services and
+Institutional Support Project (WASIS II, P149377) and the Mozambique Urban Sanitation Project (MUSP, P161777). The
+Project’s five components are:
+21.     Component 1. Access to sustainable and climate resilient water and sanitation services (US$72.10 million
+equivalent). The component will support a combination of interventions from source to tap to strengthen the climate
+resilience and sustainability of urban water supply and sanitation services that are regularly affected by climate-change-
+exacerbated droughts and floods events, contributing to the implementation of priority climate-adaptation investments
+enacted in the country’s NDC, specifically under the water resources and resilient water supply and sanitation systems
+strategic area. The component is structured in five sub-components, specifically:
+       (a) Reducing climate hazards impacting water supply infrastructure and services through Integrated Water
+           Resources Management (IWRM) and watershed management (US$2.85 million equivalent), including
+
+                                                                                                                       Page 6
+         The World Bank
+         Mozambique Urban Water Security Project (P509890)                                                                  PROJECT APPRAISAL DOCUMENT
+
+
+                 providing strategic support to ARA-Sul to fulfill its mandate, covering investments that will contribute to
+                 strengthening of climate-informed water planning and allocation, the enhancement of water quality through
+                 improved watershed management that reduces climate-change-exacerbated water-source contamination,
+                 assurance of water availability to meet urban demand via source diversification, and demand conservation.
+           (b) Expansion of access to climate-resilient water supply services (US$49.60 million equivalent), including
+               investments for the expansion of water treatment and transmission capacity and related compensation costs,
+               as well as downstream investments to expand the distribution network following the key principles for
+               climate-resilient water infrastructure design. These include key water treatment plant (WTP) investments to
+               tap alternative sources to improve the climate resilience of services by reducing dependence on a single
+               source; and pumping stations and bridge crossings for main pipes designed to withstand and be installed
+               above historic flood levels—some of the recommended hard and soft measures for climate-proofing of water-
+               supply infrastructure and service.25
+           (c) Output-based payments (OBP) for low-income household connections (US$6.50 million equivalent),
+               building on the successful experience of output-based payments implemented in WASIS II (P149377), aims at
+               increasing access to piped water connections for low-income households in the main urban centers. Under
+               this sub-component, output-based grant payments are to be provided to regional utilities to cover the costs
+               of connecting low-income households.
+           (d) Improvement of the quality of services provided by PWPs (US$7.65 million equivalent) through grants for
+               upgrading PWP water supply infrastructure to comply with technical standards, with best practices for
+               climate-proofing of operations and service, and to enable them to distribute bulk water purchased from the
+               regional utilities.
+           (e) Access to safely managed sanitation (US$5.50 million equivalent) financing the completion of the ongoing
+               Fecal Sludge Treatment Plant in Tete currently supported by the MUSP (P161777), which will close in
+               September 2025, and to support the strengthening of fecal sludge management practices in urban areas of
+               Mozambique. These activities will reduce the contamination of water bodies and groundwater, as well as soil,
+               thereby also lowering the potential impact of floods (from contaminated floodwaters).
+ 22.    Component 2. Improvement of performance and efficiency of services (US$49.35 million equivalent). The
+ component will support the improvement of performance and efficiency of water supply services in the Greater Maputo
+ Metropolitan Area (GMMA) and Southern Region provided by AdRMM and AdRS respectively, allocating one-third of the
+ project funds to finance activities, through a grant mechanism, that will contribute to lower energy consumption and
+ greenhouse gas (GHG) emissions, specifically NRW reduction26 and energy efficiency improvements. This will allow the
+ supported utilities to not only make their services more reliable, but also to start putting aside funding for operations
+ and maintenance, asset management, and climate proofing of its infrastructure. The component is structured in four
+ sub-components, specifically:
+           (a) Performance improvement for the service area of the GMMA (US$12 million equivalent).27 Carrying out a
+               performance-based program of activities defined under a Performance Improvement Action Plan (PIAP) for
+               the GMMA, which include investments for: (i) NRW reduction led by the utility; (ii) improving energy
+               efficiency; (iii) improving the collection ratio and the operational cost recovery ratio; (iv) digitalization of
+               operations; (v) training and capacity building in key areas for the utilities; (vi) women empowerment within
+               AdRMM; (vii) improving the utility’s governance and accountability, and trust with citizens and consumers;
+
+25 WBG. 2020. Resilient Water Infrastructure Design Brief. Link: http://hdl.handle.net/10986/34448
+26 NRW reduction will also contribute to adaptation, by making more water available throughout the year.
+27 At least 30 percent of the PIAP allocation will be dedicated to NRW interventions, and another 30 percent for energy efficiency interventions.
+
+
+
+                                                                                                                                                    Page 7
+         The World Bank
+         Mozambique Urban Water Security Project (P509890)                                                                  PROJECT APPRAISAL DOCUMENT
+
+
+                 and (viii) establishment of communications platforms for information sharing on water quality and services
+                 and timely resolution of complaints. To incentivize the achievement of performance improvement results, the
+                 financing of this subcomponent is linked to PBC 1: Improved performance of water supply services in the
+                 Greater Maputo Metropolitan Area.
+           (b) Performance improvement for the Southern Region service area (US$10.5 million equivalent).28 Carrying
+               out a performance-based program of activities defined under a PIAP for the Southern Region, which include
+               investments for: (i) co-management contract for NRW reduction; (ii) improving energy efficiency; (iii)
+               improving the collection ratio and the operational cost recovery ratio; (iv) digitalization of operations; (v)
+               training and capacity building; (vi) women empowerment; (vii) improving utility’s governance and
+               accountability, and trust with citizens and consumers; and (viii) establishment of communications platforms
+               for information sharing on water quality and services and timely resolution of complaints. To incentivize the
+               achievement of performance improvement results, the financing of this subcomponent is linked to
+               PBC 2: Improved performance of water supply services in the Southern Region.
+           (c) Performance-based financing for NRW reduction in GMMA and Southern Region (US$25 million
+               equivalent). Performance-based contract for NRW reduction in the GMMA and Co-Management Contract for
+               NRW reduction in Southern Region to be signed between FIPAG and a contractor to be selected on a
+               competitive basis to implement investments to reduce NRW, including investments to reduce both physical
+               and commercial losses, management technologies, and capacity-building program.
+           (d) Revolving fund for a prepaid meter program (US$1.85 million equivalent). Investigating and potentially
+               supporting the acquisition of pre-paid meters to be installed for consumers segments with high water bills
+               and low billing collection ratios to support the desired improvement in operational cost recovery based on
+               collections.
+ 23.    Component 3. Water sector development support (US$14.26 million equivalent). This component will support
+ several critical actions underpinning the sector reform effort led by the Government of Mozambique (GoM) to improve
+ the enabling environment for PSP and to achieve universal and equitable access to safe and affordable drinking water.
+ This component will be divided into three sub-components, specifically:
+           (a) Improvement of the enabling environment for Private Sector Participation (US$0.50 million equivalent),
+               which will support the development of the legal framework for the integration of PWP services into the
+               regulated service provision (the development of technical standards, including best practices for climate-
+               proofing of operations and service, and bulk water supply models), including the licensing and monitoring of
+               water quality and services, and the dissemination and training of licensing authorities to ensure downwards
+               accountability and robust systems of citizen feedback on the performance of the PWPs.
+           (b) Strengthening AURA’s regulatory role (US$2 million equivalent) to promote efficiency and inclusiveness in
+               the provision of services by extending them to the poorest segments of the population and reducing the risk
+               of investment in the sector through economic regulation that guarantees tariffs that fully cover operating
+               costs, debt service, and a return on private investment, and ensure service to low-income households. To
+               ensure that tariffs issued by the regulator reflect the principle of full cost recovery, i.e. they are sufficient to
+               cover operating expenses, depreciation, and cost of capital in a reasonable time horizon, the financing of this
+               subcomponent is linked to PBC 3: Publication of annual resolution on tariff review that secures the
+               sustainability of operations issued and annual services performance report for the previous civil year
+               published.
+
+
+28 At least 30 percent of the PIAP allocation will be dedicated to NRW interventions, and another 30 percent for energy efficiency interventions.
+
+
+
+                                                                                                                                                    Page 8
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                    PROJECT APPRAISAL DOCUMENT
+
+
+       (c) Strengthen ARA-Sul capacity to manage water resources (US$3.36 million equivalent) including licensing of
+           water users, strengthening of management and ARA-Sul’s financial sustainability, capacity building, including
+           in climate-risk prevention, management and response, institutional development support including the
+           construction and equipping of its operational and water quality laboratory, and the implementation of a
+           women empowerment program.
+       (d) Institutional development support for FIPAG (US$4.95 million equivalent). This sub-component will support
+           FIPAG in managing the process of restructuring the urban water supply sector, including strengthening it to
+           be an institution focused on mobilizing funds for investment in the sector, migrating from its previous focus
+           on operations, and strengthening private sector participation and private capital mobilization for urban water
+           supply.
+       (e) Preparatory studies for the next generation of WSS investments (US$3.45 million equivalent) will allocate
+           resources to support the preparation of the future generation of priority investments in WSS.
+24.    Component 4. Project Management Support (US$7.29 million equivalent) will support technical assistance and
+incremental project operational costs for the two Project Implementation Units (PIU) based in FIPAG and DNAAS, and
+the Project Technical Units (PTU) based in ARA-Sul and AURAS. It will also provide additional support for environmental
+and social standards compliance.
+25.    Project management support comprises technical assistance and incremental operating costs to ensure fiduciary
+compliance including financial management (FM), procurement, environment and social standards, and monitoring and
+evaluation (M&E). This component will support necessary equipment (e.g. computers, software and other goods),
+capacity building (training), and incremental staff to allow the project implementing unit to carry out their
+responsibilities.
+       (a) Project Management Support for FIPAG (US$5.20 million equivalent) to ensure technical, environmental and
+           social, and fiduciary compliance, including financial management (FM), procurement, monitoring and
+           evaluation (M&E) and compliance with the Environmental and Social Commitment Plan (ESCP) and other
+           Environmental and Social Framework (ESF) instruments. This component will support necessary equipment
+           (e.g. computers, software and other goods), capacity building (training), travel, logistics and incremental staff
+           to allow the PIU to carry out their responsibilities related to the project.
+       (b) Technical Assistance and Project management support for DNAAS (US$2.09 million equivalent) to ensure
+           technical, environmental and social, and fiduciary compliance, including financial management (FM) and
+           procurement, M&E and compliance with the ESCP and other ESF instruments. This component will support
+           necessary equipment (e.g. computers, software and other goods), capacity building (training), travel, logistics
+           and incremental staff to allow the PIU to carry out their responsibilities related to the project. It will also
+           support technical assistance and incremental operating costs for the two implementation PTUs based in ARA-
+           Sul and AURAS.
+26.     Component 5. Contingent Emergency Response (US$0 million equivalent) to provide immediate response to an
+eligible crisis or emergency, as needed.
+27.     Use of Performance-Based Conditions (PBCs). The project includes a results-based financing element, with part
+of the disbursement conditional on the achievement of PBCs. The use of PBCs is intended to strengthen the project’s
+results orientation by linking financing to measurable outcomes in utility performance and service delivery, rather than
+solely input-based expenditures. This approach aligns with the World Bank’s guidance for Investment Project Financing
+with Performance-Based Conditions (IPF-PBC) and supports the implementation of strategic reforms to improve water
+sector sustainability and resilience, as follows:
+
+
+                                                                                                                     Page 9
+       The World Bank
+       Mozambique Urban Water Security Project (P509890)                                   PROJECT APPRAISAL DOCUMENT
+
+
+        (a) The rationale for using PBCs in this operation is to incentivize strengthening services and institutions, and
+            improvements in utility operations, including reductions in non-revenue water, increased energy efficiency,
+            improved revenue collection, and enhanced service quality and customer engagement. PBCs also reinforce
+            institutional development, particularly in governance, digitalization, and gender inclusion, areas which often
+            require additional effort beyond standard investment inputs. Disbursements will be linked to the achievement
+            of the PBC targets for the NRW reduction, and for the implementation of the Greater Maputo and Southern
+            Region PIAPs.
+        (b) The volume of financing linked to PBCs totals US$24.5 million equivalent, corresponding to activities under
+            sub-components 2a, 2b, and 3b. Specific expenditures include investments in NRW reduction, energy
+            efficiency, digitalization, training, and other performance-related areas, detailed in the PBC and Expenditure
+            Composition Table in Annex 1.
+        (c) Verification of PBC achievement will be undertaken by an Independent Verification Agent (IVA) and follow
+            protocols detailed in Annex 1. Disbursement is contingent on both eligible expenditures and verified results.
+            For scalable PBCs, partial disbursements will be made based on the proportion of targets achieved.
+
+ E. Role of Partners
+Several development partners have expressed interest in continued engagement in the urban water supply sector. The
+new operation offers opportunities for building on this collaboration, particularly in infrastructure investment and
+private sector participation (Table 1).
+
+                                                 Table 1 Role of Partners
+
+ Name of Partner             Nature of Involvement /Description
+ French Development          Indicated interest in financing activities to expand water production and distribution
+ Agency (AfD)                capacity in the GMMA with focus on KaTembe area (Component 1).
+ International Finance       Supported preparation of the parent program (Urban Water Security PforR, P178653) by
+ Corporation (IFC)           advising on enabling environment for private sector participation (PSP) that were captured
+                             by this project. IFC may extend this support under this project, particularly in a BOT for the
+                             infrastructure investment and private sector participation.
+
+ F. Lessons Learned and Reflected in the Project Design
+
+28.    The design of this operation reflects key lessons from the ongoing Mozambique Urban Water Security Program
+(MUWS, P178653), implemented under a Program-for-Results (PforR) financing instrument. While the PforR achieved
+progress in institutional reforms and initial results in several Disbursement-Linked Indicators (DLIs), implementation was
+constrained by delays and limitations inherent to the use of Government systems for financial management and
+procurement.
+29.     After one year of effectiveness, disbursement under the PforR remained at five percent, primarily due to delayed
+fund allocation through the national financial system (e-SISTAFE), restrictions on contracting in foreign currency, and
+challenges in accessing foreign exchange for importing materials. These factors significantly impeded infrastructure
+investments, including large-scale works such as the Sabie Water Treatment Plant. To overcome these constraints, and
+in recognition of the investment-intensive nature of the program, the Investment Project Financing instrument is used
+for this project, allowing for the use of the World Bank’s fiduciary systems. The shift enables the executing agencies to
+contract in multiple currencies, make direct international payments, and utilize the World Bank’s procurement systems
+for greater efficiency and timely implementation.
+                                                                                                                    Page 10
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                 PROJECT APPRAISAL DOCUMENT
+
+
+30.    In addition, the project design incorporates Performance-Based Conditions (PBCs)—building on the PforR’s use of
+DLIs—to maintain a strong results orientation. The use of Performance Improvement Action Plans (PIAPs) linked to
+disbursement has proven effective in incentivizing improvements in utility performance and institutional strengthening.
+These mechanisms are retained in the IPF to ensure continuity in driving operational efficiency and service delivery
+outcomes.
+31.     The PforR experience also reinforced the need for technical assistance and capacity building to support
+implementing agencies in procurement, financial management, and results monitoring. These elements have been
+strengthened in the new operation through dedicated support under the project’s management and institutional
+development components. Furthermore, the importance of climate resilience, gender inclusion, and private sector
+participation—highlighted in the PforR’s implementation—have been integrated into the project’s design to ensure
+inclusive, sustainable, and resilient service delivery.
+32.      The OBP for low-income households was an effective and efficient mechanism to provide incentives for the
+utilities to extend the service to low-income households at a low cost. Under WASIS II, 80,000 low-income households
+were connected at a unit cost of US$70 per connection. OBP design adopted an arrangement on which half of the
+payment was made after a period of six months if the connection remained active, ensuring that the utilities make an
+extra effort to keep the low-income households connected and introducing the possibility of payment in installments.
+
+
+III. PROJECT IMPLEMENTATION
+
+
+A. Institutional and Implementation Arrangements
+
+33.     The project will be implemented by MOPHRH at the central level through several of its subordinated
+institutions. FIPAG, DNAAS, AURA, and ARA-Sul will be responsible for implementing various components, consistent
+with their respective mandates. Specifically, FIPAG will lead the implementation of water supply infrastructure and
+performance improvement activities, while DNAAS will oversee activities related to private water providers, regulatory
+strengthening activities benefiting AURA, the project’s water resources management (WRM) and watershed components
+benefiting ARA-Sul.
+34.    A PIU will be hosted by FIPAG, which is mandated under Government Decree 72/1998 to plan and manage the
+design and execution of water supply infrastructure for primary systems. This makes FIPAG the most suitable agency to
+deliver the project’s water supply components. DNAAS will host a second PIU, while the beneficiary institutions, AURA
+and ARA-Sul, will host PTUs responsible for technical implementation of institution-specific activities, under the
+coordination and fiduciary oversight of the DNAAS PIU. DNAAS will make use of the PIU currently serving the Rural and
+Small Towns Water Security Project (Água Segura, P173518).
+35.     Fiduciary arrangements. The two PIUs will manage procurement and financial management related to their
+activities. The two agencies hosting the PIU have experience with World Bank fiduciary procedures, with FIPAG currently
+implementing the WASIS II (P149377), and DNAAS currently implementing the MUSP (P161777) and the Agua Segura
+(P173518). A Project Procurement Strategy for Development (PPSD) was prepared, led by FIPAG and DNAAS. The project
+will apply the World Bank Procurement Regulations for IPF Borrowers (March 2025, as revised). Technical assistance will
+be provided to address any capacity gaps identified during project appraisal. Procurement risk is rated Substantial, and
+mitigation measures are proposed in the Project Procurement Strategy for Development.
+
+
+
+
+                                                                                                                Page 11
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                    PROJECT APPRAISAL DOCUMENT
+
+
+B. Results Monitoring, Evaluation, and Verification Arrangements
+
+36.     Results monitoring will be led by the PIU at FIPAG, with support from the DNAAS PIU, and AURA and ARA-Sul PTUs.
+The PIUs will consolidate monitoring data and report on project progress, including on Performance-Based Conditions
+(PBCs), using the agreed Results Framework. Monitoring activities will include regular progress reports, quarterly Interim
+Financial Reports (IFRs), and annual implementation reviews. PBC verification will be conducted by an independent
+verification agent, following a Verification Protocol (VP) to be finalized by grant effectiveness. Disbursements linked to
+PBCs will be contingent on the verification of results against agreed targets, with partial disbursement allowed for
+scalable PBCs. Project data will be reviewed during supervision missions and mid-term reviews. The PIU will ensure timely
+submission of monitoring data and results reports to the World Bank.
+
+C. Disbursement Arrangements
+
+37.     Project funds will be disbursed through two designated accounts (DA) managed by FIPAG and DNAAS, with
+allocations to implementing agencies based on approved work plans and budgets. Disbursements will follow the terms
+outlined in the Disbursement and Financial Information Letter (DFIL), including eligible expenditures and performance-
+based conditions. The project will use standard disbursement methods, including direct payment, reimbursement, and
+advances. Disbursements for activities linked to Performance-Based Conditions (PBCs) will be contingent on the
+verification of results, with funds released upon confirmation of achievement. For scalable PBCs, partial disbursements
+will be made proportional to the level of target achievement. FIPAG and DNAAS will submit quarterly IFRs and annual
+audited financial statements. Detailed disbursement arrangements and thresholds will be specified in the DFIL.
+
+
+IV. PROJECT APPRAISAL SUMMARY
+
+A. Technical, Economic and Financial Analysis
+
+Technical Analysis
+38.    The project supports the Government of Mozambique in improving the reliability, sustainability, and efficiency
+of urban water supply services. The technical design is grounded in lessons from prior World Bank-financed operations
+and integrates climate-resilient infrastructure standards, including elevated pipe crossings, energy efficiency measures,
+and protocols for climate-proofing.
+39.    The World Bank is well placed to finance and support the project since given its long-standing partnership with
+the Government of Mozambique in the water supply and sanitation sub-sectors. The World Bank supported the
+preparation of key strategic documents for the development of the sector including the ENASU and PASA. The World
+Bank has equally been very active and is the main funding source for investment in urban water supply in large cities. The
+project benefits from the implementation of the UoF in both AdRMM and AdRS. The implementation of the UoF enabled
+the identification and prioritization of turnaround and performance improvement activities that can be financed by the
+project. The World Bank is best placed to take these initiatives to scale through the integration and coordination of
+technical support across multiple stakeholders and investments at multiple locations.
+40.    In terms of readiness, institutional strengthening and performance improvement activities planned for this project
+will benefit from recent analytical work (the PIR and PER, which identified critical and priority areas of reforms), and the
+UoF turnaround strategies. It will also benefit from the support for the creation and operationalization of water utilities
+supported by the World Bank through the WASIS II Project. Thus, the project will complement WASIS II, providing
+additional incentives, through performance-based financing, for improvement of utility performance and sustainability
+
+
+                                                                                                                    Page 12
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                    PROJECT APPRAISAL DOCUMENT
+
+
+of service. The design of key water infrastructure investments was procured and is being financed with the available
+funds to prepare the next generation of water projects from the Rural and Small Towns Water Security Project (P173518).
+41.    For water supply, the benefits of the project will include, primarily, financial and time savings for households,
+especially poor women, and other consumers connecting to the piped water system. The project will also result in
+improved efficiency in the operation of the targeted systems and operators, reduced average operational costs and
+improved operational cost recovery, although these are likely to be minor relative to the benefits accrued to households
+and commercial users. It is expected that the project will also produce benefits in the form of improved health and
+reduced associated costs, especially time costs for women, and greater security of supply due to the diversification of
+water supply assets, although quantification of these is not planned as part of the economic analysis.
+42.     Financing. The large market failures that exist in the country, coupled with the large capital investments required
+for rehabilitating and expanding water supply infrastructure, justify public sector financing. Water supply is a classic case
+for public-sector provision as it is a natural monopoly. Public sector financing will address water supply market failures
+and the issue of increasing demand for service provision infrastructure due to rapid population growth. Public-sector
+investments will also contribute to leveraging private financing, which will be required to expand water supply
+infrastructure and services.
+43.    Economic analysis. An economic analysis of the expected capital investments to be made with proceeds from the
+Project has been undertaken. While it is not possible at this time to undertake an analysis of the funds dedicated to the
+completion of investments in the city of Tete (which is served by a separate regional water company), the economic
+analysis looks at the economic rate of return of the US$75.85 million invested in AdRMM and US$15.25 million invested
+in AdRS. For AdRMM, the project investments will expand water supply, extend water supply to unsupplied areas,
+subsidize (through output-based assistance) household connections for low-income households, invest in efficiency
+investments to reduce non-revenue water and improve electric efficiency, and invest in related capacity development.
+For AdRS, the project focuses on investments to reduce non-revenue water and improve electric efficiency and in related
+capacity development. Cost-benefit analyses have been undertaken for investments in the two recipient operating
+companies, comparing with and without-investment scenarios. Operating and financial projections were prepared based
+on current operating and financial parameters and performance and then incorporating expected changes in operating
+costs and revenues resulting from the program investments. In addition, beneficiary time savings and consumer surplus
+were calculated and incorporated into the analysis.
+44.     It is expected that the project will also produce benefits in the form of improved health and reduced associated
+costs, especially time costs for women in the care of ill family members, and greater security of supply due to the
+diversification of water supply assets, although estimates of these benefits were not included in the analysis.
+45.    The Project generates solid economic returns. Current-value costs and benefits were projected over a 25-year
+period, and net present value (NPV) was calculated at a 6 percent discount rate. The results indicated a combined Internal
+Rate of Return (IRR) of 17.4 percent and a benefit-cost ratio of 1.47. The results are provided in Table 2.
+
+                                           Table 2 Results of Economic Analysis
+
+                                                 NPV
+                                                                                  IRR                Benefit-cost ratio
+                                       (6 percent discount rate)
+   Combined                                US$117.4 million                 17.4 percent                    1.47
+
+
+46.    Estimates of GHG reductions have been carried out. These indicate that the Project is expected to generate net
+reductions in GHG emissions of approximately 219,681 tCO2-eq (a 63 percent decrease in emissions from the baseline
+
+                                                                                                                     Page 13
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                    PROJECT APPRAISAL DOCUMENT
+
+
+scenario), through energy efficiency gains and physical NRW reductions at the Sabié WTP and through changes in energy
+usage by households with new connections through AdRMM. Gross project-related GHG emissions were estimated to be
+126,797 tCO2-eq over the life of the project, versus baseline emissions of 346,478 tCO2-eq. On an annual basis, this
+translates to annual average reductions of 8,787 tCO2-eq.
+47.    Incorporating the value of the reductions into the economic analysis results in an ERR of 20.4 percent using the
+low-range shadow price of GHG emissions and an ERR of 20.9 percent using the high value. Results are summarized in
+Table 3.
+
+                   Table 3 Results of Economic Analysis incorporating the value of emission reductions
+
+                                                                                                 Incorporating the High
+                                                          Incorporating the Low Value of
+                                                                                                    Value of tCO2-eq
+                                  Economic Analysis            tCO2-eq Reductions
+                                                                                                       Reductions
+                                                                 (US$52 in 2024)
+                                                                                                    (US$103 in 2024)
+   ERR (percentage)                      19.8                           20.4                              20.9
+   NPV (at 6% discount rate)       US$136.8 million              US$143.2 million                   US$149.7 million
+
+48.     Paris Alignment: The operation is aligned with the goals of the Paris Agreement on both adaptation and mitigation
+goals. Mozambique prioritizes climate-resilient infrastructure and adaptation as highlighted in its updated 2021 NDC,
+particularly for “water resources and resilient WSS systems” as well as mitigation through the promotion of renewable
+energy sources including solar and increasing energy efficiency. On mitigation, project activities are on the Universally
+Aligned List (UAL) and pose no risks of carbon lock-in as no major emissive infrastructure is planned. Specific activities
+include energy efficiency measures, NRW reduction, and the introduction of renewable energy (displacing the use of
+fossil fuel–powered back-up generators). On adaptation, the inherent climate risks are floods, droughts, cyclones, and
+extreme heat; and project activities will include NRW reduction, climate proofing of WSS infrastructure, flood-proofing
+sanitation infrastructure, and boosting climate-resilient institutional capacity, among others. Thus, the project will reduce
+the residual climate risks to an acceptable level and not pose a material risk to operations.
+
+B. Fiduciary
+
+Procurement
+49.    Procurement under the project will be governed by the World Bank Procurement Regulations for IPF Borrowers
+dated February 2025 and amended from time to time (Procurement Regulations) and the provisions of the Financing
+Agreement. In addition, the Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD
+Loans and IDA Credits and Grants (dated October 15, 2006, and revised in January 2011 and July 2016) will apply.
+50.    The implementation of the project will rest with FIPAG and DNAAS, with DNAAS having been designated to
+oversee the implementation of its own component activities, as well as the activities benefiting AURA and ARA-Sul. AURA
+and ARA-Sul will be responsible for drafting their Terms of Reference and Technical Specifications, as well as leading in
+the evaluation of their respective procurement opportunities and on the contract management, following DNAAS having
+discharged the fiduciary role.
+51.    A procurement capacity assessment of both FIPAG and DNAAS was conducted during project preparation. Both
+FIPAG and DNAAS possess considerable experience with the World Bank fiduciary requirements and there is solid capacity
+to implement the project. Nevertheless, to address the likelihood of the project activities adversely impacting on the
+
+
+                                                                                                                     Page 14
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                     PROJECT APPRAISAL DOCUMENT
+
+
+existing capacity, both FIPAG and DNAAS may temporarily enhance their capacity through the recruitment of technical
+assistance procurement consultants, hence the overall risk for procurement being rated as Substantial.
+52.     The Implementing Agencies led the preparation of the Project Procurement Strategy for Development (PPSD),
+which identified the capacity gaps, and reviewed the market for envisaged activities under the project, which informed
+the Project Procurement Plan. The procurement Plan has been prepared and includes the best approaches to ensure
+efficient and fit-for-purpose implementation of project activities. The PPSD has identified that the activities, Sabie Water
+Treatment Plant; and Water Leakages reduction Works, costing more than US$10million will require that FIPAG conducts
+an Early Market Engagement and provides for the associated methodology.
+53.    World Bank-issued Standard Procurement Document will be used for all activities subject to open international
+procurement. To ensure that Open National procurement does incorporate the World Bank’s Environment and Social
+requirements, the project will use World Bank standard procurement documents for Goods and Works that have been
+translated by the World Bank for use in Mozambique.
+Financial Management
+54.    Overall, the proposed Financial Management arrangements for the Project were assessed as satisfactory and,
+with the adoption of proposed risk mitigating measures, residual FM risk is assessed as Moderate. A Financial
+Management assessment was conducted at PIU-DNAAS and FIPAG, the project implementing agencies, to evaluate
+whether the proposed project financial management arrangements will provide reasonable assurance that World Bank
+provided funds are used for the intended purposes.
+55.     Assurance that the World Bank provided funds will be used for the purposes intended can be provided through
+ensuring this flow through the same public financial management (PFM) systems a country uses for the management
+of its overall budget, provided these are assessed as being sound overall. With respect to Mozambique, the World
+Bank's assessment is that there are several critical gaps in the areas of budget reliability, transparency of public finances,
+management of assets and liabilities, policy-based fiscal strategy and budgeting, predictability and control in budget
+execution, accounting and reporting, and external audit and legislative scrutiny as reported in Mozambique Public
+Expenditure and Financial Accountability 2021. In addition, Mozambique's 2023 Budget Index score is 45, while for
+Transparency International's Corruption Perception Index 2024, the country's score is 25 and ranking 146. As a result of
+these systemic weaknesses, reliance will be placed only on the country's SAI, the Administrative Tribunal, for the auditing
+project financial statements. However, a private audit firm may be engaged as the Tribunal has not been able to deliver
+audits within the six months after the end of fiscal year period as required by the World Bank because it has been facing
+challenges since FY 2022.
+56.    In tandem with Mozambique continuing to implement reforms to strengthen its overall PFM systems, DNAAS
+and FIPAG have agreed to implement additional project specific arrangements to mitigate risks relating to weaknesses
+in Mozambique existing PFM arrangements. These are: (i) Develop and adopt the Project Implementation Manual (PIM)
+including FM procedures; (ii) FIPAG to customize the accounting packages by creating codes to maintain separate records
+and ledger accounts for the project; (iii) DNAAS to appoint Project Accountant with skills and qualifications acceptable to
+the World Bank; (iv) appoint independent verification agent; and (v) DNAAS to Purchase and install automated accounting
+package.
+57.     A project implementation manual (PIM) will be prepared by the PIU-DNAAS and FIPAG that will specify in detail
+arrangements for project financial management. The PIM would be prepared and adopted not later than 30 days after
+effectiveness. The PIM will include: the preparation and submission to the World Bank, within 45 days after the quarter
+end, of quarterly unaudited interim financial reports; the preparation of annual financial statements subject to audit by
+an independent external auditor, acceptable to the World Bank, and the submission of these to the World Bank along
+with a management letter, no later than six months after the end of each fiscal year-end.
+
+                                                                                                                      Page 15
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                    PROJECT APPRAISAL DOCUMENT
+
+
+C. Environmental, Social and Legal Operational Policies
+
+58.     The project seeks to improve urban water supply access, efficiency, and resilience through investments in
+infrastructure and institutional strengthening across the Greater Maputo Metropolitan Area and selected cities in Gaza
+and Inhambane provinces. While the project offers significant development benefits, including enhanced service delivery
+and climate adaptation, it presents environmental and social risks that require careful identification, mitigation, and
+monitoring under the World Bank’s ESF.
+59.    Relevance of ESS. ESS1 - Assessment and Management of Environmental and Social Risks and Impacts is relevant
+to the project as it includes significant civil works across Components 1 and 2. ESS2 - Labor and Working Conditions as
+the project activities will require a varied workforce, including direct, contracted, and primary supply workers. ESS3 -
+Resource Efficiency and Pollution Prevention and Management as the construction works will require the use of natural
+resources, management of pollutants, and disposal of hazardous and nonhazardous wastes. ESS4 - Community Health
+and Safety is relevant given the range of potential risks to community health and safety associated with both construction
+and operational phases of large-scale water infrastructure. ESS5 - Land Acquisition, Restrictions on Land Use and
+Involuntary Resettlement as the implementation of infrastructure investments may lead to both physical and economic
+displacement. ESS6 - Biodiversity Conservation and Sustainable Management of Living Natural is relevant given that some
+subprojects may be implemented near or within ecologically sensitive areas, including wetlands, forests, riverbanks, and
+other habitats with biodiversity significance. ESS8 - Cultural Heritage is relevant due to the potential presence of tangible
+and intangible cultural heritage in areas where infrastructure works—such as pipeline expansions, storage upgrades, and
+water treatment facilities—will take place. ESS10 - Stakeholder Engagement and Information Disclosure is relevant given
+the project's diverse stakeholders and complex urban and peri-urban settings.
+60.     Environmental risks are primarily linked to infrastructure development and include soil erosion, dust generation,
+noise emissions, surface water contamination, and traffic disruptions during construction. Ancillary facilities, such as
+access roads, contractor camps, laydown areas, and staging zones, may introduce additional environmental and social
+risks and will be assessed in accordance with ESS1. The project will comply with Mozambique’s EIA Decree No. 54/2015
+and the World Bank’s ESF through the preparation of Environmental and Social Impact Assessments (ESIAs) and
+Environmental and Social Management Plans (ESMPs) for substantial-risk subprojects. Climate risk screening has been
+conducted, and all infrastructure will be designed to withstand climate-related shocks such as floods and droughts,
+ensuring long-term sustainability.
+61.    The social risk profile is substantial due to potential physical and economic displacement, labor influx, and
+exposure to SEA/SH. Land acquisition for pipeline expansion, water treatment plants, and storage facilities may lead to
+resettlement. A Resettlement Policy Framework (RPF) has been prepared and disclosed to guide the development of
+Resettlement Action Plans (RAPs), with particular attention to vulnerable groups and informal occupants. Economic
+displacement may result from impacts on informal vendors or farmers, particularly where access restrictions or
+temporary closures occur during construction. The project will support livelihood restoration and adopt measures to
+ensure inclusive participation in benefit-sharing mechanisms.
+62.     FIPAG, AdRMM, and AdRS will receive technical support to strengthen their Environmental and Social
+Management Units (ESMUs). The Environmental and Social Management Framework (ESMF) provides a capacity-building
+program, while the ESCP ensures the development and implementation of an Environmental and Social Management
+System (ESMS) with World Bank support. The project will align its environmental and social risk management system with
+the ESF. An ESMF, LMP, RPF, SEP, SEA/SH Action Plan, and capacity-building measures were prepared, consulted on
+March 22, 2025, to mitigate risks, share benefits, and ensure sustainable outcomes. The project’s environmental and
+social documents were disclosed on April 21, 2025 by the client, and on April 22, 2025 by the World Bank.
+
+
+
+                                                                                                                     Page 16
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                        PROJECT APPRAISAL DOCUMENT
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+Legal Operational Policies                                                               Triggered?
+Projects on International Waterways OP 7.50                                              Yes
+Projects in Disputed Area OP 7.60                                                        No
+
+
+
+
+63.     OP 7.50 is applicable to this operation because it will finance activities that may use or risk polluting waters of
+international waterways. For activities that are carried over from the Mozambique Urban Water Security PforR
+(P178653), the requisite process was already undertaken as per OP 7.50 requirements. Accordingly, the World Bank
+Management provided their approval to proceed on July 6, 2023, following the completion of riparian notification process
+for the investments relying on the Incomati River system as well as their approval of the exception to the notification
+requirement under paragraph 7 (c) for activities relying on the Limpopo River system, and under paragraph 7 (a) for
+activities relying on the Umbeluzi River system. This project will also finance the completion of two ongoing works to be
+able to close the financing gap from two other operations. For the Tete Water Distribution Network under WASIS II
+Project (P149377), OP 7.50 was triggered as investments relied on the Zambezi River and the Pungwe River systems. The
+exception to the notification requirement as per paragraph 7(a) of the policy was approved by the RVP on March 3, 2015.
+For the second work, namely, the Tete Fecal Sludge Treatment Plant under MUSP (P161777), riparian notification was
+conducted in accordance with OP 7.50 since activities relied on the Zambezi River system. Based on the outcome of the
+notification process and the assessment that the Project will not cause appreciable harm, the World Bank Management
+gave their approval to proceed on February 15, 2019.
+D. Gender and Citizen Engagement
+64.     Gender diversity and inclusion. Women are particularly affected by lack of access to basic services and are
+typically most impacted by poor public service provisions, in particular lack of household water. Improving access to basic
+services such as water supply will benefit women by enhancing sanitary conditions and improving productivity, with
+particular benefits stemming from reduced time to collect water, as women are responsible for water collection in 92
+percent of Mozambican households compared to only seven percent for men, and at least 37 percent of households
+spend more than 30 minutes a day collecting water. Women may also be more exposed to violence at water collection
+points. Gender-sensitive actions to be taken under the project include: (i) ensuring women’s participation in all aspects
+of the project; (ii) use of gender-sensitive approaches and methods, including public information events targeted at
+women; (iii) collection and monitoring of gender-disaggregated data on project beneficiaries; (iv) assessing impacts of
+the project interventions on women and female-headed beneficiaries; and (v) measuring the impact on time saved for
+women who receive water and sanitation services.
+65.     The Project will help to advance gender equity in AdRMM, AdRS and ARA-Sul. Results of the development of the
+MOPHRH’s Gender Strategy (approved in 2024) and from the UoF assessment pointed to opportunities for women’s
+empowerment. For both utilities, to address these opportunities the Project will support a targeted recruitment program
+for young female science, technology, engineering, and mathematics professionals and the training of female staff. Under
+Component 2, the utilities (AdRMM, and AdRS) and FIPAG, and under Sub-Component 3.3 ARA‐Sul will promote gender
+diversity and inclusion. The ability for the utilities to address gender inequality and social inclusion in their programs will
+be strengthened by improving their own gender diversity and development of a fairer mechanism for assigning the social
+tariff by integrating other relevant parameters, such as proof of social protection beneficiary. The Project will support
+the different implementing agencies in their Inclusion, Gender, Equal Opportunities and Treatment and Workplace
+Violence Prevention and Response Program, particularly actions envisioned under the 2022–2032 action plan, and the
+                                                                                                                       Page 17
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                                   PROJECT APPRAISAL DOCUMENT
+
+
+ MOPHRH’s Gender Strategy. This action plan constitutes a cross‐cutting approach applied to all implementing agency
+ programs. It will focus on improving working conditions for ARA‐Sul, FIPAG, AdRMM, and AdRS employees and
+ particularly on promoting equal career advancement opportunities for women, with the goal of increasing female
+ representation in decision‐making positions.
+ 66.     To accomplish its gender and diversity goals related to career advancement, ARA‐Sul, FIPAG, AdRMM, and AdRS
+ will introduce targets for gender diversity in promotions, particularly to management positions. ARA‐Sul, FIPAG,
+ AdRMM, and AdRS have found that strong gender norms on the type of work that is considered appropriate for women
+ tend to deter them from applying to technical and managerial positions. For this reason, it is launching targeted
+ communications behavioral change campaigns to motivate women to apply to such opportunities and for GBV/SEA/SH
+ prevention. Also, it offers internal and external staff targeted junior internship training programs to fill existing capacity
+ gaps in women’s existing technical and leadership skills. Through these actions, FIPAG, AdRMM and AdRS aim to increase
+ the percentage of women in managerial positions and promote the empowerment of women by integrating them into
+ technical activities usually not assigned to women. Given the large number of employees, and taking into account the
+ current recruitment rates, as well as new promotions targets, the utilities intend to achieve a gradual but steady increase
+ in women’s representation in managerial positions29—from 26 to 32 percent—which in turn, is expected to contribute to
+ improving the utilities capacity to respond to the differential impacts and needs of women and men in its emergency
+ response efforts.
+ 67.     Citizen engagement. A citizen engagement and feedback process will be established by the project to ensure that
+ any complaints about the project or the performance of the supported utilities can be effectively addressed. This process
+ includes not only dedicated public consultation events, but also improved operational customer complaint systems, to
+ be supported under project capacity building. In addition, AURA conducts and publishes the results of customers
+ satisfaction surveys. Under the WASIS II Project, AURA developed and implemented a “Citizen Voice” tool to facilitate
+ the submission of service complaints, and its follow up. During the UoF assessment, AdRMM and AdRS have recognized
+ the importance of improving and updating their capacity for better engagement with citizens, and of investing in the
+ internal systems that will facilitate better tracking, management, and analysis, and therefore accountability and
+ responsiveness around citizen complaints and feedback. The Project will finance the institutionalization of robust
+ complaints and feedback mechanism – ensuring improved effectiveness, accessibility, responsiveness, and transparency
+ in the two utilities (Component 2), and at ARA‐Sul (sub-Component C3.3), respectively.
+ 68.     Social inclusion. The UoF assessment identified that both AdRMM and AdRS have low levels of service inclusion
+ and transparency. To respond to this weakness, under sub-Component 3.2, the sector Regulator will develop procedures
+ to secure that (i) the voice and views of vulnerable groups, specifically persons with disability, are considered in decisions
+ affecting them, including tariff studies and reviews; and (ii) sets and secure the enforcement of minimal requirements
+ for disability inclusive billing systems, customer service policies and procedures. The Project will also support the
+ development and implementation of a sector policy and program to proactively recruit persons with disabilities
+ (Component 3).
+ 69.     Job creation. Investments in water and sanitation infrastructure create jobs during construction and operation,
+ which can benefit youth and women. The employment impact of the water sector ranges from 10 to 25 jobs created per
+ million dollars of capital investment.30 Therefore, considering the capital investment of the project, US$104.1 million, and
+ 20 jobs created per million dollars invested, it is estimated that 2,082 jobs will be created. Access to improved water
+
+
+
+29 To monitor the implementation of Program activities on gender, the following indicator was adopted: women’s representation in managerial
+
+positions (percent).
+30 Tricas, M. and Liner, B. 2021. A framework for improving economic analysis of water reuse opportunities. International Journal of Environmental
+
+Policy and Decision Making.
+
+                                                                                                                                          Page 18
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                  PROJECT APPRAISAL DOCUMENT
+
+
+services will be an enabling factor for the establishment of small-scale industries in peri-urban areas, increasing
+employment opportunities and improving local productivity.
+70.     The project is in line with the World Bank's Maximizing Finance for Development approach. The following
+components are verified as MFD-e: Component 2 supports the improvement of performance and efficiency of services,
+including investments in NRW reduction, energy efficiency, increasing collection rates, which together will contribute to
+increasing the operating cost coverage ratio (PDO indicator) above 100 percent, thereby enabling the utilities to improve
+their creditworthiness and thus qualify to access private financing to support the expansion of water supply services.
+Component 3 will support the development of the legal framework to improve the enabling environment for PSP (tracked
+by the intermediate indicator "Policies approved and published"), including the approval of technical standards for PWP
+systems and the development of a bulk water supply model to ensure that private operators are fairly compensated for
+investing in reticulation systems to distribute treated bulk water received by the private utilities.
+71.    Private investment generated by the project will be counted under Private Capital Enabling. Sub-component 3a
+will support the licensing of 400 PWP systems (non-monetary indicator: number of PWP systems licensed). At a unit
+investment of US$50,000 per system, the licensing of 400 systems will leverage US$20 million in private investment. The
+project will support this private investment through matching grants to ensure that PWP systems meet technical
+standards for service delivery.
+
+
+E. Grievance Redress Services:
+
+ 72.    Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+ supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+ Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+ project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+ independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+ occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute
+ Resolution Service, which provides communities and borrowers with the opportunity to address complaints through
+ dispute resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to
+ the attention of Bank Management and after Management has been given an opportunity to respond. For information
+ on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For
+ information on how to submit complaints to the Bank’s Accountability Mechanism, visit
+ https://accountability.worldbank.org.
+
+
+V. KEY RISKS
+
+73.   The overall risk of the proposed project is rated Moderate. The overall moderate risk rating reflects the
+implementation risks resulting from low risks for institutional capacity and stakeholders; moderate risk for political and
+governance, macroeconomic, technical design; and substantial risk for fiduciary and environmental and social.
+74.    Fiduciary risk is rated as Substantial. FIPAG and DNAAS have experience managing World Bank-financed projects.
+However, the PPSD has identified risk of low quality of procurement processes as a result of insufficient levels of
+organization and experience for procurement of large and complex contracts, and delays on completion of contracts due
+to inadequate contract management capacity. To mitigate the Fiduciary risks, the project will apply World Bank
+procurement and FM regulations, and enhanced oversight, including quarterly IFRs and annual audits, will be put in place.
+The financial management assessment and the PPSD prepared for the project identified additional mitigation measures,
+for FM and procurement risks, respectively. Mitigation measures include: (i) the strengthening of the FM and
+                                                                                                                  Page 19
+      The World Bank
+      Mozambique Urban Water Security Project (P509890)                                 PROJECT APPRAISAL DOCUMENT
+
+
+Procurement capacity of the implementing institutions through training and contracting of specialized technical
+assistance as required with skills and qualifications acceptable to the Bank; and (ii) the development and adoption of a
+PIM with strong FM and procurement procedures. Nevertheless, the residual fiduciary risk is considered Substantial.
+75.     Environmental and social risks are rated as Substantial, reflecting potential impacts from civil works and the
+complex social context. Environmentally, temporary impacts during constructions such as erosion, waste disposal, and
+OHS hazards—may occur, particularly in areas near sensitive ecosystems and in regions with weak institutional capacity.
+Socially, risks include land acquisition, temporary economic displacement in dense urban areas, affordability concerns
+linked to tariff reforms, and heightened SEA/SH risks due to labor influx and existing vulnerabilities. These will be
+mitigated through ESF-compliant instruments, including ESIAs, SEP, SEA/SH Action Plan, GRM, and institutional capacity-
+building across all implementing agencies.
+
+
+
+
+                                                                                                                Page 20
+       The World Bank
+       Mozambique Urban Water Security Project (P509890)                                                 PROJECT APPRAISAL DOCUMENT
+
+
+ANNEX 1. RESULTS FRAMEWORK
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                      Period 1                    Period 2              Period 3   Period 4        Closing Period
+   Increased access to water supply services
+   People provided with at least basic water (Number of people) CRI
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0                             9,400                       70,500                150,400    209,150         282,000
+     ➢People provided with at least basic water - Female (Number of people) CRI
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0                             4,888                       36,660                78,208     108,758         146,640
+     ➢People provided with at least basic water - Youth (Number of people) CRI
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0                             6,298                       47,235                100,768    140,131         188,940
+   People benefiting from improved water services (Number of people)
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0                             0                           0                     63,450     300,800         473,000
+     ➢People benefiting from improved water services - Female (Number of people)
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0                             0                           0                     32,994     156,416         245,960
+     ➢People benefiting from improved water services - Youth (Number of people)
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0                             0                           0                     45,512     201,536         316,910
+   Improve the efficiency of urban water supply services
+   Operating cost recovery ratio (Percentage)
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+   0.87                          0.89                        0.94                  0.95       1.10            1.15
+     ➢Operating cost recovery ratio in Greater Maputo (Percentage)
+   Mar/2025                      Dec/2026                    Dec/2027              Dec/2028   Dec/2029        Dec/2030
+
+
+
+                                                                                                                               Page 21
+       The World Bank
+       Mozambique Urban Water Security Project (P509890)                                                                                   PROJECT APPRAISAL DOCUMENT
+
+
+   0.97                         0.98                          0.99                       1.00                         1.10                           1.15
+     ➢Operating cost recovery ratio in Southern Region (Percentage)
+   Mar/2025                     Dec/2026                      Dec/2027                   Dec/2028                     Dec/2029                       Dec/2030
+   0.76                         0.80                          0.88                       0.90                         1.10                           1.15
+
+
+Intermediate Indicators by Components
+
+   Baseline                      Period 1                      Period 2                     Period 3                      Period 4                   Closing Period
+   C1: Access to sustainable and climate resilient water and sanitation services
+   Water quality and climate‐informed water allocation shared with water users (Yes/No)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+   No                            No                            Yes                          Yes                           Yes                        Yes
+   Additional water production contributing to increase climate resilience of services (m3/day) (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                     Oct/2028                      Dec/2029                   Dec/2030
+   0                             0                             0                            40,000                        40,000                     40,000
+   Cumulative number of new household connections supported by the project that remains active (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+   0                             2,000                         15,000                       32,000                        44,500                     60,000
+     ➢Cumulative number of new low-income household connections that remains active (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+   0                             0                             10,000                       20,000                        30,000                     40,000
+   Cumulative number of existing household connections benefiting from improved services supported by the project (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+   0                             0                             0                            13,500                        64,000                     100,650
+     ➢Cumulative number of existing household connections benefiting from improved services provided by public utilities (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+   0                             0                             0                            10,000                        50,000                     80,650
+     ➢Cumulative number of existing household connections benefiting from improved services provided by private water providers (Number of people)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+   0                             0                             0                            3,500                         14,000                     20,000
+   C2: Improvement of performance and efficiency of services
+   Recovered water from NRW reduction interventions (m3/day) (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                     Dec/2028                      Dec/2029                   Dec/2030
+
+
+
+
+                                                                                                                                                                      Page 22
+    The World Bank
+    Mozambique Urban Water Security Project (P509890)                                                       PROJECT APPRAISAL DOCUMENT
+
+
+0                               0                        4,000                        9,000      18,000          28,000
+  ➢Recovered water from NRW reduction interventions in Greater Maputo (m3/day) (Number)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+0                               0                        4,000                        9,000      18,000          20,000
+  ➢Recovered of water from NRW reduction intervention in Southern Region (m3/day) (Number)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+0                               0                        1,000                        3,000      5,000           8,000
+Annual PIAP targets for the Greater Maputo reached (Yes/No) PBC
+Mar/2025                        Dec/2025                 Dec/2026                     Dec/2027   Dec/2028        Dec/2029
+No                              Yes                      Yes                          Yes        Yes             Yes
+Annual PIAP targets for the Southern Region reached (Yes/No) PBC
+Mar/2025                        Dec/2025                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+No                              Yes                      Yes                          Yes        Yes             Yes
+Collection bill ratio (Percentage)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+80                              80                       83                           86         89              93
+  ➢Collection bill ratio in Greater Maputo (Percentage)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+71                              71                       75                           80         85              90
+  ➢Collection bill ratio in Southern Region (Percentage)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+89                              89                       91                           92         93              95
+Energy consumption (kW per cubic meter of water distributed) (Number)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+0.57                            53                       52                           51         50              0.49
+  ➢Energy consumption in Greater Maputo (kW per cubic meter of water distributed) (Number)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+0.59                            0.59                     0.59                         0.58       0.56            0.55
+  ➢Energy consumption in Southern Region (kW per cubic meter of water distributed) (Number)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+0.54                            0.46                     0.45                         0.44       0.44            0.43
+Average hours of water supply (Hours)
+Mar/2025                        Dec/2026                 Dec/2027                     Dec/2028   Dec/2029        Dec/2030
+15.60                           16                       16                           16         18              19
+
+
+                                                                                                                                  Page 23
+       The World Bank
+       Mozambique Urban Water Security Project (P509890)                                                                                        PROJECT APPRAISAL DOCUMENT
+
+
+     ➢Average hours of water supply in the Greater Maputo (Hours)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   15                            16                            16                             16                           18                        20
+     ➢Average hours of water supply in Southern Region (Hours) (Hours)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   13                            16                            16                             16                           18                        18
+   Institutions with a robust complaints and feedback mechanism in place and operational (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   1                             2                             3                              4                            5                         5
+   C3: Water sector development support
+   Policies approved and published contributing to improve the enabling environment for PSP (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   0                             1                             2                              2                            2                         2
+   Contract signed with a private entity to support on performance improvement of operations (Yes/No)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   No                            No                            Yes                            Yes                          Yes                       Yes
+   Number of PWP's systems licensed under the new policy (Number)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   0                             50                            105                            235                          355                       400
+   Annual resolution on tariff review that secures the sustainability of operations issued and services performance report published (Yes/No) PBC
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   No                            Yes                           Yes                            Yes                          Yes                       Yes
+   Women in managerial position (Percentage)
+   Mar/2025                      Dec/2026                      Dec/2027                       Dec/2028                     Dec/2029                  Dec/2030
+   26                            27                            29                             31                           32                        32
+   C4: Project management support
+   C5: Contingent Emergency Response
+
+
+Performance-based Conditions (PBC)
+
+   Period                                                                                     Period Definition
+   Period 1                                                                                   2025
+   Period 2                                                                                   2026
+
+
+
+                                                                                                                                                                      Page 24
+    The World Bank
+    Mozambique Urban Water Security Project (P509890)                                                                                       PROJECT APPRAISAL DOCUMENT
+
+
+Period 3                                                                                   2027
+Period 4                                                                                   2028
+Period 5                                                                                   2029
+
+Baseline                       Period 1                      Period 2                      Period 3                       Period 4               Period 5
+1:Annual PIAP targets for the Greater Maputo reached (Yes/No )
+No                             Yes                           Yes                           Yes                            Yes                    Yes
+0.00                           2,400,000.00                  2,400,000.00                  2,400,000.00                   2,400,000.00           2,400,000.00
+PBC allocation                                               12,000,000.00                 As a % of Total PBC Allocation                        48.98%
+2:Annual PIAP targets for the Southern Region reached (Yes/No )
+No                             Yes                           Yes                           Yes                            Yes                    Yes
+0.00                           2,100,000.00                  2,100,000.00                  2,100,000.00                   2,100,000.00           2,100,000.00
+PBC allocation                                               10,500,000.00                 As a % of Total PBC Allocation                        42.86%
+3:Annual resolution on tariff review that secures the sustainability of operations issued and services performance report published (Yes/No )
+No                             Yes                           Yes                           Yes                            Yes                    Yes
+0.00                           400,000.00                    400,000.00                    400,000.00                     400,000.00             400,000.00
+PBC allocation                                               2,000,000.00                  As a % of Total PBC Allocation                        8.16%
+
+
+
+
+                                                                                                                                                                  Page 25
+           The World Bank
+           Mozambique Urban Water Security Project (P509890)                                                     PROJECT APPRAISAL DOCUMENT
+
+
+
+               Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+  PDO: Increased access to improved water supply services
+  People provided with at least basic water (Number of people) CRI
+                                      Number of people who will gain access to basic water supply by the construction of new
+  Description
+                                      household connections
+  Frequency                           Annual
+  Data source                         Utilities performance reports and commercial softwares
+  Methodology for Data Collection     To be detailed in the Project Operations Manual
+  Responsibility for Data Collection  FIPAG
+  People benefiting from improved water services (Number of people)
+                                      Number of people already connected who will gain access to improved water supply services that
+  Description
+                                      comply with key performance indicators (hours of services, water quality)
+  Frequency                           Annual
+  Data source                         Utilities performance reports and commercial softwares
+  Methodology for Data Collection     To be detailed in the Project Operations Manual
+  Responsibility for Data Collection  FIPAG
+  PDO: Improve the efficiency of urban water supply services
+  Operating cost recovery ratio
+  Description                         Operating revenues collected divided by operating costs
+  Frequency                           Annual
+  Data source                         Utilities annual financial audit reports and regulator’s report
+  Methodology for Data Collection     To be detailed in the Project Operations Manual
+  Responsibility for Data Collection  FIPAG
+
+
+ Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+ C1: Access to sustainable and climate resilient water and sanitation services
+ Water quality and climate‐informed water allocation shared with water users (Yes/No)
+Description                                Water quality and climate‐informed water allocation shared with water users
+Frequency                                  Annual
+Data source                                ARA-Sul’s webpage and sharing reports
+Methodology for Data Collection            Access ARA-Sul’s public webpage and check
+Responsibility for Data Collection         ARA-Sul
+Additional water production contributing to increase climate resilience of services (Cubic meters/year)
+                                          Additional water production mobilized from new water sources that will contribute to
+Description
+                                          diversify the matrix of sources therefore contributing to increase climate resilience of services
+Frequency                                 Annual
+Data source                               Project implementation reports
+Methodology for Data Collection           To be detailed in the Project Operations Manual
+Responsibility for Data Collection        FIPAG
+Cumulative number of new household connections supported by the project that remains active (Number)
+                                          Number of new household connections constructed with project funds that remain connected
+Description
+                                          in reporting year
+Frequency                                 Annual
+Data source                               Utility reports and data from commercial softwares
+Methodology for Data Collection           To be detailed in the Project Operations Manual
+Responsibility for Data Collection        FIPAG
+Cumulative number of existing household connections benefiting from improved services supported by the project (Number)
+
+
+
+                                                                                                                                              Page 26
+          The World Bank
+          Mozambique Urban Water Security Project (P509890)                                                PROJECT APPRAISAL DOCUMENT
+
+
+ C1: Access to sustainable and climate resilient water and sanitation services
+                                          Household connections that will gain access to improved water supply from ROCs and PWPs
+Description
+                                          as a results of project investments
+Frequency                                 Annual
+Data source                               Project reports, ROC’s reports
+Methodology for Data Collection           To be detailed in the Project Operations Manual
+Responsibility for Data Collection        FIPAG and DNAAS
+
+  C2: Improvement of performance and efficiency of services
+ Recovered water from NRW reduction interventions (Cubic Meter(m3))
+                                          Volume of water “lost” (difference between water supplied and water sold) by AdRMM and
+ Description
+                                          AdRS retrieved after implementation of a NRW program, expressed in m3/day.
+ Frequency                                Annual
+ Data source                              PBC report, ROCs’ reports
+ Methodology for Data Collection          To be detailed in the Project Operations Manual
+ Responsibility for Data Collection       FIPAG and ROCs
+ Annual PIAP targets for the Greater Maputo reached (Yes/No) PBC
+                                          A PIAP is developed and approved by FIPAG and satisfactory for the Association, aiming to
+ Description
+                                          reduce NRW and improve energy and commercial efficiencies for AdRMM.
+ Frequency                                Annual
+ Data source                              Verification Report
+ Methodology for Data Collection          Specified in the Verification Protocol
+ Responsibility for Data Collection       FIPAG
+ Annual PIAP targets for the Southern Region reached (Yes/No) PBC
+                                          A PIAP is developed and approved by FIPAG and satisfactory for the Association, aiming to
+ Description
+                                          reduce NRW and improve energy and commercial efficiencies for AdRS.
+ Frequency                                Annual
+ Data source                              Verification Report
+ Methodology for Data Collection          Specified in the Verification Protocol
+ Responsibility for Data Collection       FIPAG
+ Collection bill ratio (Percentage)
+ Description                               Percentage of amount of water bills collected / amount of water bills invoiced
+ Frequency                                Annual
+ Data source                              ROCs’ and Regulator’s performance reports
+ Methodology for Data Collection          To be detailed in the Project Operations Manual
+ Responsibility for Data Collection       FIPAG and ROCs
+ Energy consumption (kW per cubic meter of water distributed) (Number)
+ Description                              Ratio between quantity of energy (kW) and volume (m3) of water distributed
+ Frequency                                Annual
+ Data source                              ROCs’ and Regulator’s performance reports
+ Methodology for Data Collection          To be detailed in the Project Operations Manual
+ Responsibility for Data Collection       FIPAG and ROCs
+ Average hours of water supply (Hours)
+ Description                              Average of daily hours of water supply along the year
+ Frequency                                Annual
+ Data source                              ROCs’ and Regulator’s performance reports
+ Methodology for Data Collection          To be detailed in the Project Operations Manual
+ Responsibility for Data Collection       FIPAG and ROCs
+
+
+
+
+                                                                                                                                      Page 27
+         The World Bank
+         Mozambique Urban Water Security Project (P509890)                                                  PROJECT APPRAISAL DOCUMENT
+
+
+C3: Water sector development support
+Policies approved and published contributing to improve the enabling environment for PSP (Number)
+                                        Decrees, policies and regulations clarifying procedures for licensing of private entities in water and
+Description
+                                        sanitation, and securing their investment.
+Frequency                               Annual
+Data source                             Project biannually reports
+Methodology for Data Collection         Check publication of decrees and resolutions in the Rpublic’s Gazette
+Responsibility for Data Collection      DNAAS
+Contract signed with a private entity to support performance improvement of operations (Yes/No)
+                                        For at least one ROC, a contract is signed with a private entity to support on performance improvement
+Description
+                                        of operations
+Frequency                               Annual
+Data source                             Project biannually reports
+Methodology for Data Collection         Contract signed and validated by the Tribunal Administrative
+Responsibility for Data Collection      FIPAG
+Number of PWP's systems licensed under the new policy (Number)
+Description                             This indicator will reflect the number of PWP licensed under the new policy and technical standards.
+Frequency                               Annual
+Data source                             Project biannually reports
+Methodology for Data Collection         To be detailed in the Project Operations Manual
+Responsibility for Data Collection      DNAAS
+Annual resolution on tariff review that secures the sustainability of operations issued and services performance report published (Yes/No) PBC
+                                        A tariff review is conducted annually and adopted by AURA to secure the sustainability of operations and
+Description
+                                        services performance report published
+Frequency                               Annual
+Data source                             AURA’s website and Republic’s Gazette
+Methodology for Data Collection         Specified in the Verification Protocol
+Responsibility for Data Collection      DNAAS and AURA
+Women in managerial position (Percentage)
+Description                             Women in managerial position at AdRMM, AdRS and ARA-Sul
+Frequency                               Annual
+Data source                             Project biannually reports
+Methodology for Data Collection         To be detailed in the Project Operations Manual
+Responsibility for Data Collection      FIPAG and DNAAS
+Institutions with robust complaints and feedback mechanism in place and operational (Number)
+                                        Institutions (FIPAG, AURA, ARA-Sul, AdRMM and AdRS) having in place an operational robust complaints
+Description
+                                        and feedback mechanism.
+Frequency                               Annual
+Data source                             Project biannually reports
+Methodology for Data Collection         To be detailed in the Project Operations Manual
+
+
+
+
+                                                                                                                                          Page 28
+         The World Bank
+         Mozambique Urban Water Security Project (P509890)                                                     PROJECT APPRAISAL DOCUMENT
+
+
+                     Verification Protocol: Performance Based Conditions
+PBC1: Improved performance of water supply services in the Greater Maputo Metropolitan Area
+                       The PIAP will define the weigths of the following three performance improvement indicators: NRW reduction, energy
+                       efficiency, collection ratio. Other performance improvement indicators can also be considered. The amount entitled for
+Formula                the PIAP for each year will be multiplied by a factor of the transferred amount of the sum of the sanitation tariff and
+                       regulatory fee through the water bill divided by the sum of the collected sanitation tariff and regulatory fee for the
+                       previous year up to the limit of one.
+                       The PIAP will define the weigths of the following three performance improvement indicators: NRW reduction, energy
+                       efficiency, collection ratio. Other performance improvement indicators can also be considered. The amount entitled for
+Description            the PIAP for each year will be multiplied by a factor of the transferred amount of the sum of the sanitation tariff and
+                       regulatory fee through the water bill divided by the sum of the collected sanitation tariff and regulatory fee for the
+                       previous year up to the limit of one.
+Data source/ Agency    AdRMM
+Verification Entity    Independent Verification Agent
+                       For the first year the verification entity will verify that FIPAG has prepared the PIAP including the minimum content
+                       defined in the Program documents and the annual targets for each action area. For the following years the verification
+Procedure
+                       entity will verify the results achieved for each action area from appropriate records (Commercial database, macro-
+                       metering records, energy bills, etc.).
+PBC2: Improved performance of water supply services in the Southern Region
+                         The PIAP will define the weigths of the following three performance improvement indicators: NRW reduction, energy
+                         efficiency, collection ratio. Other performance improvement indicators can also be considered. The amount entitled for
+Formula                  the PIAP for each year will be multiplied by a factor of the transferred amount of the sum of the collected sanitation
+                         tariff and regulatory fee through the water bill divided by the sum of the collected sanitation tariff and regulatory fee for
+                         the previous year.
+                         DLI 6.2 monitors the development, adoption and implementation of a performance improvement action plan (PIAP)
+                         aiming to reduce NRW and improve energy and commercial efficiencies for the Southern Region. The plan shall also
+Description              include a gender equality action plan. For the first year FIPAG shall prepare and adopt the PIAP including the minimum
+                         content defined in the Program documents and the annual targets for each action area. For the following years FIPAG
+                         shall achieve at least 75% of the results set for each action area.
+Data source/ Agency      AdRS
+Verification Entity      Independent Verification Agent
+                         For the first year the verification entity will verify that FIPAG has prepared the PIAP including the minimum content
+                         defined in the Program documents and the annual targets for each action area. For the following years the verification
+Procedure
+                         entity will verify the results achieved for each action area from appropriate records (Commercial database, macro-
+                         metering records, energy bills, etc.).
+PBC3: Annual resolution on tariff review that secures the sustainability of operations issued and services performance report published
+Formula                  Not applicable
+                         Monitors the implementation of the tariff review process to reinstate the economic and financial equilibrium of water
+                         supply operations and the access to information regarding performance of the water service providers for the public.
+Description
+                         The result expected for this DLI is that every year AURA makes a decision on tariff review and publishes it in the Republic
+                         Gazette.
+Data source/ Agency      AURA
+Verification Entity      Independent Verification Agent
+                         The verification entity will verify the resolutions approved by AURA regarding the annual tariff review including the
+                         compliance of proposed tariff adjustments with the approved tariff model and the annual tariff review mechanism
+Procedure
+                         (Decree 41/2021) and its publication in the republics gazette and the publication of the WSS service performance report
+                         in the regulator’s website and benchmarking platform (AURAnet).
+
+
+
+
+                                                                                                                                              Page 29
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                        PROJECT APPRAISAL DOCUMENT
+
+
+                                                ANNEX 2: PROJECT COSTAB
+
+                                                                                                                       Cost
+ ID                                                       Activity
+                                                                                                                      (MUSD)
+        Component 1 - Access to sustainable and climate resilient water and sanitation services
+                                                                                                                        72.10
+ 1.A    Reducing climate hazards impacting water supply infrastructure and services                                      2.85
+        Strengthening of climate informed water planning and allocation, including extension of telemetric networks
+1.A.1                                                                                                                    1.50
+        and financing of climate informed water allocation models
+1.A.2   Enhancement of water quality through improved watershed management and groundwater monitoring                    1.35
+  1.B   Expansion of access to climate-resilient water supply services                                                  49.60
+        Diversification of water sources supply the Greater Maputo through the investment on the second phase of
+1.B.1                                                                                                                   28.00
+        the Sabie WTP and climate resilient bridge crossing for the Incomati river
+        Construction of 7 small water supply systems along the Corumana-Machava transmission main to service
+1.B.2                                                                                                                    4.50
+        low-income populations
+1.B.3   Supervision of works                                                                                             3.00
+1.B.4   Completion of the Tete water supply systems works (distribution center and network)                             13.20
+  1.C   Output-based payments (OBP) for low-income household connections to climate-resilient services                   6.50
+1.C.1   Implementation of a grants program for 40,000 new connections                                                    5.60
+1.C.2   Independent Verification Agent for the OBP                                                                       0.90
+  1.D   Improvement of the quality of services provided by PWPs                                                          7.65
+        Matching grants for upgrade of private water supply systems to improve their resilience and secure
+1.D.1                                                                                                                    7.50
+        compliance with health and quality standards
+1.D.2   Design and supervision of the implementation of the matching grant                                               0.15
+  1.E   Access to safely managed sanitation services                                                                     5.50
+1.E.1   Completion of the Tete's Fecal Sludge Treatment Plant (FSTP) works and supervision                               4.00
+1.E.2   Strengthening of fecal sludge management practices in urban areas                                                1.50
+        Component 2 - Improvement of performance and efficiency of services                                             49.35
+  2.A   Implementation of the Performance Improvement Action Plan (PIAP) for the GMMA
+2.A.1   NRW reduction investments led by the utility
+2.A.2   Energy efficiency
+2.A.3   Strengthen billing and collection                                                                               12.00
+2.A.4   Training and capacity building
+2.A.5   Women empowerment program
+2.A.6   Improving utility’s governance, accountability and communication
+  2.B   Implementation of the PIAP for the Southern Region service area
+2.B.1   NRW reduction investments led by the utility
+2.B.2   Energy efficiency
+2.B.3   Strengthen billing and collection                                                                               10.50
+2.B.4   Training and capacity building
+2.B.5   Women empowerment program
+2.B.6   Improving utility’s governance, accountability and communication
+  2.C   Performance-based contract (PBCt) for non-revenue water reduction in AdRMM and AdRS                             25.00
+2.C.1   PBC for NRW reduction in the GMMA (Matola Rio, Boane, Belo-Horizonte e Machava)                                 20.00
+2.C.2   PBC/Co-management contract for NRW reduction in the Southern Region                                              4.50
+2.C.3   PBC supervision and implementation support                                                                       0.50
+  2.D   Revolving fund for a prepaid meter program                                                                       1.85
+2.D.1   Design of the financing and repayment mechanism                                                                  0.21
+
+
+                                                                                                                         Page 30
+        The World Bank
+        Mozambique Urban Water Security Project (P509890)                                        PROJECT APPRAISAL DOCUMENT
+
+
+                                                                                                                      Cost
+ ID                                                       Activity
+                                                                                                                     (MUSD)
+2.D.2   Financing of a prepaid meter scale up program                                                                   1.64
+        Component 3 - Water sector development support                                                                 14.26
+  3.A   Improving the enabling environment for Private Sector Participation                                             0.50
+  3.B   Strengthen the regulatory role                                                                                  2.00
+3.B.1   Strategic communication of the regulatory role                                                                  0.30
+3.B.2   Operationalization of the Regulators Complaints Platform                                                        0.30
+3.B.3   Capacity and willingness to pay study                                                                           0.30
+3.B.4   Technical assistance on Economic Regulation and PPP contract models                                             0.40
+3.B.5   Capacity Development Program focused on core regulatory functions                                               0.40
+3.B.6   Strengthening of sector governance practices                                                                    0.30
+  3.C   Strengthen ARA-Sul capacity to manage water resources                                                           3.36
+3.C.1   Construction and equipping of ARA-Sul's operational office and water quality laboratory                         2.20
+3.C.2   Strengthening of ARA's financial sustainability and revenue collection                                          0.24
+3.C.3   Institutional Development Support to ARA-Sul                                                                    0.25
+3.C.4   Capacity building and young water professionals and gender-balanced talent recruitment program                  0.52
+3.C.5   Implementation of the Gender Strategy                                                                           0.15
+  3.D   Institutional development support for FIPAG                                                                     4.95
+3.D.1   Implementation of the ICT and digitalization plan for FIPAG and ROCs                                            0.80
+3.D.2   Management contracts/Competitive recruitment for ROCs                                                           2.30
+3.D.3   Asset management and condition survey                                                                           1.00
+3.D.4   Capacity building plan                                                                                          0.70
+3.D.5   Development of a protocol for climate proofing of water supply infrastructure                                   0.15
+  3.E   Preparatory studies for the next generation of WSS investments                                                  3.45
+3.E.1   Feasibility study, design and draft of bidding documents for Xai-Xai, Chokwe, Chibuto, I’bane e Maxixe WSS      2.00
+3.E.2   Feasibility study, design and draft of bidding documents for Angoche e Ilha de Moçambique WSS                   1.00
+3.E.3   PIAPS for AdRC, AdRN, AdRS, AdRMM                                                                               0.45
+    4   Component 4 - Project Management Support                                                                        7.29
+  4.A   Project Management Support for FIPAG                                                                            5.20
+4.A.1   Incremental costs for project implementation                                                                    0.40
+4.A.2   Incremental costs for OBP implementation                                                                        0.50
+4.A.3   Project image and communication                                                                                 0.20
+4.A.4   Preparation of key project documents (PPSD, ESF, POM)                                                           0.30
+4.A.5   Independent Verification Agent                                                                                  0.20
+4.A.6   Technical Assistances (Procurement, Social, Environmental, Comms., and Business Development)                    1.30
+4.A.7   Support for Environmental and Social Compliance                                                                 2.30
+  4.B   Project management support for DNAAS                                                                            2.09
+4.B.1   Incremental costs for project implementation                                                                    0.60
+4.B.2   Technical Assistances (Procurement, WS, FM, Social and Environmental)                                           0.80
+4.B.3   Incremental project costs for Regulator’s project activities                                                    0.19
+4.B.4   Incremental project costs for ARA-Sul's project activities                                                      0.50
+        TOTAL                                                                                                         143.00
+
+
+
+
+                                                                                                                        Page 31
+

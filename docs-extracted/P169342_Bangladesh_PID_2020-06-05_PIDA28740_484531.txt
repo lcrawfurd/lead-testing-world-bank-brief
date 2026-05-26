@@ -1,0 +1,574 @@
+Public Disclosure Authorized
+                                         The World Bank
+                                         BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                      Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                    Appraisal Stage | Date Prepared/Updated: 16-May-2020 | Report No: PIDA28740
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               Apr 22, 2020                                                                                       Page 1 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                             Project ID                    Project Name                Parent Project ID (if any)
+   Bangladesh                          P169342                       BD Rural Water,
+                                                                     Sanitation and Hygiene
+                                                                     for Human Capital
+                                                                     Development Project
+   Region                              Estimated Appraisal Date      Estimated Board Date        Practice Area (Lead)
+   SOUTH ASIA                          09-Jun-2020                   20-Aug-2020                 Water
+
+   Financing Instrument                Borrower(s)                   Implementing Agency
+   Investment Project Financing        People's Republic of          Department of Public
+                                       Bangladesh                    Health Engineering
+                                                                     (DPHE), Palli Karma-
+                                                                     Sahayak Foundation
+                                                                     (PKSF)
+
+   Proposed Development Objective(s)
+
+   To (i) improve access to ‘safely-managed’ water supply and sanitation in selected areas of rural Bangladesh; and (ii)
+   strengthen sector institutional capacity for water and sanitation.
+
+   Components
+   1. Investments in water supply
+   2. Investments in sanitation and hygiene
+   3. Institutional strengthening
+   4. Project implementation and management
+   5. COVID-19 emergency response
+   6. Contingent emergency response
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY      -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                543.40
+   Total Financing                                                                                                  543.40
+               of which IBRD/IDA                                                                                    200.00
+   Financing Gap                                                                                                        0.00
+
+
+
+Apr 22, 2020                                                                                                       Page 2 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                          200.00
+         IDA Credit                                                                                                        200.00
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                                  143.40
+
+         Borrowing Agency                                                                                                  143.40
+
+      Other Sources                                                                                                        200.00
+         Asian Infrastructure Investment Bank                                                                              200.00
+
+   Environmental and Social Risk Classification
+   Moderate
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   1.      Economic conditions in Bangladesh have continued to improve in recent years. Per capita Gross National
+   Income reached US$1,751 (World Bank Atlas method) in 2018, well above the lower middle-income country
+   threshold which Bangladesh crossed in 2014. The country has seen significant progress on reducing extreme
+   poverty and boosting shared prosperity, especially through human development. The Human Capital Index of
+   0.48 for Bangladesh surpassed the South Asian average and the lower middle-income average in all criteria except
+   for stunting. Bangladesh has lowered infant mortality and increased life expectancy with 97 percent of children
+   likely to survive to the age of 5 and 87 percent of 15-year-old children likely to survive to the age of 60.
+   Bangladesh’s performance against the Millennium Development Goals (MDG) was also impressive relative to the
+   South Asia Region average for most of the indicators.
+
+   2.      Significant human capital development challenges remain as Bangladesh aspires to meet its target of
+   eliminating poverty by 2030 and attaining the upper middle-income status by 2031. For example, the learning
+   adjusted years of schooling is just 6.5 years due to the poor quality of education, 36 percent of children are
+   afflicted by chronic malnutrition, and nearly half of children under five in the poorest wealth quintile are stunted,
+   placing significant limits on human capital development.
+
+Apr 22, 2020                                                                                                          Page 3 of 12
+           The World Bank
+           BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+
+
+   3.     Bangladesh is highly vulnerable to health hazards, including the COVID-19 pandemic, which may reverse
+   the human capital development progress achieved in recent years. The country’s high population density—
+   even in rural areas—and weak capacity in managing public health emergencies1 make it prone to high rates of
+   morbidity from increasing outbreaks of infectious diseases, including cholera, dengue fever, diphtheria, diarrhea,
+   typhoid, and COVID-19. Overall, a large section of the population is at risk of health emergencies.
+
+   4.      Progress toward human capital development can be enhanced partly through coordinated multi-
+   sectoral approaches that effectively address the underlying determinants of nutritional status. For example,
+   reductions in stunting are more likely to materialize when the multiple contributing factors—such as access to
+   health care, childcare practices, and access to water, sanitation, and hygiene (WASH)—are adequately addressed
+   for a child. WASH plays a critical role in human capital development, the key to achieving the country’s ambition
+   of becoming an upper-middle income country by 2021. The Bank’s Bangladesh WASH Poverty Diagnostics
+   highlighted the implications of WASH access and quality on the country’s human capital development and
+   poverty reduction.2 The poorest, especially women and girls, feel the greatest burdens of inadequate WASH
+   because of its negative synergies with other life deprivations such as little income, poor access to health services,
+   food insecurity, and low levels of education.
+
+   5.        Access to WASH services in rural Bangladesh improved much over time, but significant challenges
+   remain for the government to achieve the United Nations’ Sustainable Development Goal (SDG) 6 on clean
+   water and sanitation. In 2017, about 97 percent of the rural population had access at least to ‘basic’ water
+   supply.3 This achievement was largely due to the expansion of tube wells in rural areas, with close to 95 percent
+   of rural people using them.4 Meanwhile, the community led total sanitation (CLTS) approach enabled a vast
+   majority of the rural population to end open defecation and use sanitation facilities. As a result, access to
+   ‘improved’ sanitation increased dramatically from 30 percent to 65 percent in rural areas from 2000 to 2017.5
+   Still, significant challenges remain in rural WASH to meet the SDG 6 service standards, which are recommended
+   for maximizing human capital outcomes. The challenges include:
+   a. Water supply. The proliferation of tube wells has given rise to concerns about: (i) sustainability, where
+         excessive withdrawal may threaten water security in the long term; and (ii) water quality as there are few
+         practical solutions to regulating and monitoring tube wells against arsenic and fecal contamination. Indeed,
+         the rural population using ‘safely-managed’6 water supply barely increased from 59 percent in 2000 to 61
+
+
+   1 In May 2016, Bangladesh conducted the Joint External Evaluation (JEE) of the International Health Regulations (IHR) core capacities to
+
+   prevent, detect, and rapidly respond to public health threats, whether occurring naturally, or due to deliberate or accidental events.
+   Bangladesh scored 2.5 (on a scale of 1 to 5), demonstrating limited capacity to prevent, detect and respond to public health emergencies.
+   2 World Bank. 2018. Promising Progress: A Diagnostic of Water Supply, Sanitation, Hygiene, and Poverty in Bangladesh. WASH Poverty
+
+   Diagnostic. World Bank, Washington, DC.
+   3 UNICEF and WHO. 2019. Progress on household drinking water, sanitation and hygiene 2000-2017: Special focus on inequalities. New
+
+   York.
+   4 World Bank. 2018.
+
+   5 UNICEF and WHO.
+
+   6 UNICEF-WHO Joint Monitoring Programme (JMP) ladders for drinking water and sanitation divide the “improved” category to three
+
+   further rungs: limited, basic, and safely-managed. The safely-managed category is the highest standard and is required to meet the UN’s
+   SDG 6. See Annex 8 for further details. United Nations Children’s Fund (UNICEF) and World Health Organization (WHO). Joint Monitoring
+
+Apr 22, 2020                                                                                                                             Page 4 of 12
+           The World Bank
+           BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+      percent in 2017.7&8
+   b. Sanitation. While low cost options have significantly increased access to ‘improved’ sanitation, in 2017, only
+      32 percent of the rural population had access to a ‘safely-managed’ sanitation service, and 35 percent still
+      were using ‘unimproved’ sanitation facilities.9 Although inequality in access to at least ‘basic’ sanitation
+      services has lessened since 2000,10 the difference between the poorest and richest wealth quintile of the
+      population was still stark in 2017, nationally at 23 percent and 75 percent respectively.
+   c. Handwashing. Although 86 percent of the rural population has access to a designated handwashing facility,
+      only 26 percent has access to facilities that have soap and water.11 Even more concerning is the practice of
+      handwashing—only 14 percent of all persons washed both hands with soap after defecation or before
+      eating.12
+   d. WASH in public places, healthcare facilities, and community secondary schools. Scattered evidence suggests
+      that inadequate WASH access in places outside the home is a significant barrier in people’s daily lives. WASH
+      in healthcare facilities is of paramount importance due to its implications for health and safety of healthcare
+      workers and patrons alike. However, while 86 percent of rural healthcare facilities have access to an
+      improved water source, only 42 percent have it on the premises.13 Of the 78 percent of rural healthcare
+      facilities that have access to an improved sanitation facility for clients, only 12 percent have designated toilets
+      for women.14
+   e. Menstrual hygiene. Only 23 percent of women use appropriate menstrual materials, while many repeatedly
+      use cloths that are not adequately washed and dried between uses. This is an overlooked path by which
+      bacteria might affect women’s health through incidence of urinary tract infections or other complications.
+   f.   WASH decision making. Women are under-represented in the sector, and WASH-related decision making is
+        often dominated by men. For instance, among the 40 water management groups surveyed in Southwest
+        Bangladesh, women accounted for 17-24 percent of water management group representatives, and no
+        woman held the high-ranking position of president or treasurer.15
+   g. Climate change. The WASH sector in Bangladesh is affected by weather and climate change events,16 which
+
+   Programme for Drinking Water and Sanitation.
+   7 UNICEF and WHO.
+
+   8 Access to safe water on the premises decreases to 34 percent at the point of consumption due to contamination during transport and
+
+   storage. BBS / UNICEF. 2015. Multiple Indicator Cluster Survey 2012/13.
+   9 UNICEF and WHO.
+
+   10 In 2000, the access rate to at least ‘basic’ sanitation for the poorest wealth quintile was 8 percent, while that for the richest wealth
+
+   quintile was 63 percent.
+   11 UNICEF and WHO.
+
+   12 Halder et al. 2010. BMC Public Health 10:545 (http://www.biomedcentral.com/1471-2458/10/545).
+
+   13 WHO and UNICEF. 2019. WASH in health care facilities: Global baseline report 2019. Geneva.
+
+   14 NIPORT, ACPR and ICF. 2018. Bangladesh Health Facility Survey 2014 & 2017.
+
+   15 Buisson, et al. 2017. The Gender Gap between Water Management and Water Users: Evidence from Southwest Bangladesh. South Asian
+
+   Water Studies 5 (4).
+   16 Research to date suggests that sea level rise due to climate change will exacerbate groundwater salinity problems in coastal regions of
+
+   Bangladesh (Talukder, Rutherford, and Chu 2015). This is of particular concern in a country where groundwater provides 95 percent of all
+   drinking water (Das Gupta et al. 2005). Studies also suggest that the burden of rising salinity caused by climate change will fall
+   disproportionately on the shoulders of the poor. One study found that in just the southwest coastal region, about 2.5 million poor
+   (including 1.4 million extreme poor) are already suffering shortages of drinking water, scarcity of water for irrigation for dry-season
+
+Apr 22, 2020                                                                                                                               Page 5 of 12
+           The World Bank
+           BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+        translates into reduced drinking water availability and quality and also lower performance of sanitation and
+        hygiene services, exacerbating the issues outlined above. It is vital that that climate resilience becomes
+        integral to strategic planning for WASH.
+
+
+   6.     The current administration’s vision17 to enhance the WASH service standards in rural areas to be
+   comparable to those in urban areas is a step in the right direction toward meeting the SDG 6, and a new
+   national WASH strategy has been drafted accordingly. This vision has drawn much public attention and allowed
+   the Ministry of Local Government, Rural Development, and Cooperatives (MoLGD&C), the ministry in charge of
+   the sector, to shift in focus from hand-pumped tube wells to piped water schemes in rural areas, in line with the
+   SDG 6 service standards.
+
+
+   C. Proposed Development Objective(s)
+
+       7. Development Objective(s) (From PAD)
+  To (i) improve access to ‘safely-managed’ water supply and sanitation in selected areas of rural Bangladesh; and (ii)
+  strengthen sector institutional capacity for water and sanitation.
+
+  The PDO will be evaluated against the following PDO-level indicators:
+      (a) The number of people provided with access to ‘safely-managed’ water services;
+      (b) The number of people provided with access to ‘safely-managed’ sanitation services; and
+      (c) Monitoring system established and in use in project Upazilas (Yes/No).
+
+       8. Key Results
+
+   Through AIIB and Bank financing, it is estimated that about 4.5 million people living in 78 Upazilas in Mymensingh,
+   Rangpur, Chittagong, and Sylhet Divisions18 (see Annex 1 and 4) will have access to ‘safely-managed’ WASH
+   facilities at home. More people—about 1 million—will have access to ‘safely-managed’ WASH facilities in public
+   spaces, including community clinics. Further 2.5 million people are expected to gain access to ‘safely-managed’
+   WASH facilities through counterpart funding. The enhanced access to ‘safely-managed’ WASH facilities may
+   especially benefit children, women, the vulnerable groups, since they are most susceptible to health
+   consequences of non-access and subsequent deprivation of life-long economic and educational opportunities.
+   The project will also benefit national and local governments by supporting institutional strengthening activities.
+   In addition, the private sector will benefit from the project through increased capital for WASH loans, and market
+
+
+
+   agriculture, and significant changes in the coastal aquatic ecosystems.
+   17 Dhaka Tribune. 19 August 2018.
+
+   18 Sylhet Division has the highest rate of children suffering from malnutrition and stunted growth, followed by Chittagong. At least 45
+
+   percent of the children below the age of five in Sylhet have stunted growth, while 39 percent are underweight, according to a study titled
+   “Undernutrition Maps of Bangladesh 2012.” In Chittagong, 42 percent of the children are suffering from stunted growth and 37 percent
+   are underweight, according to the data from the Population and Housing Census 2011, Child and Mother Nutrition Survey 2012, and
+   Health and Morbidity Status Survey 2012. Rangpur and Barisal Divisions have the highest poverty rates among the four.
+
+
+Apr 22, 2020                                                                                                                              Page 6 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+   creating and capacity building activities to deliver ‘safely-managed’ WASH facilities. From COVID-19 emergency
+   response, it is estimated that about 700,000 people across Bangladesh will benefit.
+
+   D. Project Description
+
+9. 9. To achieve its objectives, the project will support following six components:
+
+      (a) Component 1: Investments in water supply.
+           (i) 1.1: Large piped water schemes will support rural water scarce communities of 300-700 households.
+           (ii) 1.2: Small piped water schemes will target rural water scarce communities of 30-120 households,
+                where 1-3 schemes will be provided.
+           (iii) 1.3: Household loans for water improvements will enable about 60,000 households to borrow from
+                 MFIs for household water facility improvements.
+           (iv) 1.4: Water supply market development will provide MFI loans to local water entrepreneurs.
+           (v) 1.5: Feasibility studies in high climate risk regions will identify sources for drinking water and examine
+               technological options and their financial viability in five Districts in Southern Bangladesh.
+      (b) Component 2: Investments in sanitation and hygiene.
+           (i) 2.1: Public sanitation and hygiene facilities will invest in sanitation and hygiene facilities in high
+               pedestrian traffic locations, community health clinics, and non-government schools.
+           (ii) 2.2: Sanitation and hygiene facilities for households will provide two-pit latrines and handwashing
+                stations to households through MFI loans or grants, depending on their income level.
+           (iii) 2.3: Sanitation and hygiene market development will provide MFI loans to local sanitation and hygiene
+                 entrepreneurs to expand their businesses and offer them training on proper installation and
+                 maintenance of SDG 6 compliant WASH facility products.
+           (iv) 2.4: Innovation will help localize innovation WASH technologies, especially in fecal sludge
+                management.
+           (v) 2.5: Behavioral change communication (BCC) campaign will carry out activities to change WASH
+               behaviors and raise WASH awareness and willingness to pay.
+      (c) Component 3: Institutional strengthening.
+           (i) 3.1: Strengthening of policies and regulatory framework will support drafting policy documents that
+               are critical in implementing the newly drafted National Strategy for Water Supply and Sanitation.
+           (ii) 3.2: Capacity building will design and deliver a series of multi-year training to targeted central and
+                local government officials working in the WASH and converging sectors.
+      (d) Component 4: Project implementation and management. This component will support key project
+          management activities enabling the DPHE and PKSF to coordinate and implement the proposed project.
+      (e) Component 5: COVID-19 emergency response. This component will provide quick, just-in-time WASH
+          services where needed, both in and outside the convergence areas, to cope with the fast-changing COVID-
+          19 situation.
+
+
+
+Apr 22, 2020                                                                                                           Page 7 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+      (f) Component 6: Contingent emergency response (CERC). A provisional zero amount component is
+          included, which will allow for rapid reallocation of loan proceeds from other project components during
+  .       an emergency.
+  .
+  Legal Operational Policies
+                                                                         Triggered?
+
+   Projects on International Waterways OP 7.50                           Yes
+
+   Projects in Disputed Areas OP 7.60                                    No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+     10. Environmental
+         The major environmental risk will emanate from water contamination, discharge of sludge and
+         untreated sewage. There will be construction related impacts such as air, noise, dust and water
+         management when water pipes and twin pit latrines are built/setup. Removal/transportation of
+         septage may also cause worker and community health and safety concerns if not properly managed.
+
+           Training of local sweepers for safe management of fecal sludge and above all a community outreach/
+           training/ awareness building effort will significantly improve the present status of fecal waste hazards.
+           Without the project, the current practice is unhygienic and random disposal of fecal waste will lead
+           to pollution of natural resources and affects human health.
+
+           In case of water supply component of the Project there might be risks of lowering the groundwater
+           table due to operation of project constructed deep tube wells. However, the implementing agency has
+           already prepared a groundwater mapping, and the location of the deep tube-wells will be identified
+           accordingly to ensure low risk of subsidence. Poorly maintained water sources could be breeding
+           grounds for mosquitoes or poor disposal of sludge could result in contamination of water sources. The
+           water quality for all water facilities need to be monitored at regular intervals. Caretakers will be
+           appointed for each water point and will be trained for operation and maintenance, with a special focus
+           on safe disposal of wastewater.
+
+           Both the implementing agencies are capable organizations and have proven experience in managing
+           rural sanitation and water supply programs and are currently implementing two other similar WB
+           funded projects.
+
+           Considering the overall risk and impacts related to the proposed project activities, the proposed
+           mitigation measures and the long-term experience and capabilities of the implementing agencies, the
+           Environmental risk is rated Moderate.
+
+
+       11. Social
+
+           The key social impacts of the project are mainly associated with: (i) gender (design, safety, impact on
+           women’s health); (ii) inclusion (addressing the needs of women, elderly, persons with disabilities,
+
+Apr 22, 2020                                                                                                           Page 8 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+           indigenous, marginalized and vulnerable communities, culturally sensitized design, easing access to
+           information and finance, assistance with repair and maintenance); (iii) land use (common/private
+           property, optimizing access through strategic location, resettlement impacts if any); (iv) community
+           health and safety; and (v) the type of labor used and associated impacts. If these impacts are well
+           managed, the project is expected to result in better E&S outcomes through improved access to ‘safely-
+           managed’ sanitation facilities, leading to better health. Especially for women, menstrual hygiene,
+           privacy, security, access and comfort will be greatly improved.
+
+           The Project will entail use of labor for small scale civil construction in remote areas. Although labor will
+           be mostly local incidence of GBV/SEA cannot be ruled out. The Implementing Agency (IA) and the
+           Contractor will put adequate mechanisms in place (C-ESMP, written and signed Codes of Conduct,
+           worker training and sensitization on GBV/SEA, spread of communicable disease, including COVID-19) to
+           address these issues.
+
+           Community health and safety risks are also anticipated due to the removal and transportation of fecal
+           sludge, if not properly managed. However, the Project is designed to reduce open defecation and
+           improve the sludge management and transportation issues. The project will introduce better social
+           outcomes through improved access to basic sanitation facilities, leading to better health and hygiene in
+           the long run. Especially for women and the vulnerable, the Project is also expected to improve menstrual
+           hygiene (and related health issues), privacy, security, access and comfort. Component 2.5, Behavioral
+           Change and Communication will also address the critical need for hand washing and maintaining proper
+           hygiene to deter COVID-19 outbreak in the communities. Field level activities will be monitored and
+           evaluated against set guidelines by the IAs.
+
+            Project ESMF addresses these areas and proposes policies and procedures for mitigation and
+           recommends modalities to maximize project benefits for the target populations by aligning the project
+           design with the socio-cultural and context specific needs of communities. The outbreak of COVID-19 may
+           amplify community health and safety issues, especially related to labor influx. IA will to put in place
+           adequate measures for workers as well as local communities where the project will be implemented to
+           deter the spread of the virus.
+
+           Considering the overall risks and impacts related to the proposed project activities, that are predictable,
+           site specific, and have minimal adverse impacts that can be adequately mitigated and the long-term
+           experience and capabilities of the implementing agencies, the Social risk is rated Moderate.
+
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+   12.   The Department of Public Health and Engineering and Palli Karma-Sahayak Foundation (PKSF) will be
+   the implementing agencies of the project. The project will be managed by two PMUs collaborating closely.
+       a. DPHE. It will play the main role in the development of public infrastructure under the project. It has
+       considerable experience in executing Bank projects, with capacity for design and procurement, construction,
+       and commissioning of WASH facilities. The DPHE will be responsible for the construction of piped water
+
+
+Apr 22, 2020                                                                                                              Page 9 of 12
+            The World Bank
+            BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+          schemes (Sub-components 1.1 and 1.2), providing public WASH facilities, including in healthcare centers and
+          non-government schools (Sub-component 2.1), and offering sanitation grants for the poorest (Sub-
+          component 2.2.b). The DPHE will also carry out water supply feasibility studies in high climate risk areas (Sub-
+          component 1.5), pilot innovations (Sub-component 2.4), implement most of WASH behavioral change
+          communications (BCC) campaign (Sub-component 2.5) and carry out institutional reforms and capacity
+          building activities (Sub-component 3). The PMU will comprise a full-time project director, a deputy project
+          director, and personnel with specialization in financial management, procurement, monitoring and
+          evaluation, environment and social and others, posted from within the DPHE and recruited from the open
+          market. The DPHE will be the nodal agency responsible for project reporting.
+          b. PKSF. It will play the main role in the development of private assets under the project. It is a ‘not-for-profit’
+          financing institution owned by the Ministry of Finance and works with MFIs that offer microcredits to poor
+          and non-poor borrowers. The PKSF has considerable experience in managing Bank projects in various sectors
+          and recently managed the OBA Sanitation Program. Under this project, the PKSF will use IDA and AIIB
+          financing to offer capital to retail MFIs, which in turn will give loans to households to upgrade the WASH
+          facilities at their residence in the project areas (Sub-components 1.3 and 2.2.a). In addition, PKSF will extend
+          capacity building support to retail MFIs and local entrepreneurs for creating demand and installing SDG 6
+          compliant WASH facilities (Sub-components 1.4, 2.3, and 2.5). The PMU will comprise a full-time project
+          director and personnel with specialization in financial management, procurement, monitoring and
+          evaluation, environment and social and others, posted from within the PKSF and recruited from the open
+          market.
+
+      13.    At the national level, a Project Steering Committee (PSC) will be established in the Local Government
+      Division (LGD) under the Ministry of Local Government, Rural Development and Cooperatives (MoLGRD&C),
+      chaired by the Secretary of the LGD, to provide overall guidance and policy direction. The PSC will meet at least
+      twice a year, or more frequently if needed, to take stock of project progress and make course corrections. The
+      PSC will consist of representatives from the DPHE, PKSF, the Financial Institutions Division and the Economic
+      Relations Division under the Ministry of Finance, the Ministry of Health and Family Welfare (MoHFW), and the
+      Planning Commission.
+
+
+
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Rokeya Ahmed
+      Water Supply and Sanitation Specialist
+
+
+Apr 22, 2020                                                                                                               Page 10 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+
+
+   Aneeka Rahman
+   Senior Social Protection Economist
+
+   Deo-Marcel Niyungeko
+   Senior Water Supply and Sanitation Specialist
+
+   Borrower/Client/Recipient
+   People's Republic of Bangladesh
+   Monowar Ahmed
+   Secretary
+   secretary@erd.gov.bd
+   Implementing Agencies
+   Department of Public Health Engineering (DPHE)
+   Md. Saifur Rahman
+   Chief Engineer
+   ce.dphe@gmail.com
+
+   Palli Karma-Sahayak Foundation (PKSF)
+   Fazlul Kader
+   Deputy Managing Director
+   fazlulkader@gmail.com
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                           Rokeya Ahmed
+   Task Team Leader(s):                    Aneeka Rahman
+                                           Deo-Marcel Niyungeko
+
+
+
+
+Apr 22, 2020                                                                                       Page 11 of 12
+          The World Bank
+          BD Rural Water, Sanitation and Hygiene for Human Capital Development Project (P169342)
+
+
+
+   Approved By
+   Environmental and Social Standards
+   Advisor:
+   Practice Manager/Manager:
+
+   Country Director:                    Mercy Miyang Tembon                    05-Jun-2020
+
+
+
+
+Apr 22, 2020                                                                                       Page 12 of 12
+

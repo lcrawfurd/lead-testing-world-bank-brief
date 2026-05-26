@@ -1,0 +1,559 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Transforming Panama's Cadaster Program for Results (P511840)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 25-Nov-2025 | Report No: PIDPC00206
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Confidential
+     The World Bank
+     Transforming Panama's Cadaster Program for Results (P511840)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                       Operation ID               Operation Name
+                                                                                       Transforming Panama's
+                               LATIN AMERICA AND
+Panama                                                      P511840                    Cadaster Program for
+                               CARIBBEAN
+                                                                                       Results
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date    Practice Area (Lead)
+Program-for-Results
+                               27-Jan-2026                  30-Mar-2026                Urban, Resilience and Land
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               ANATI - Autoridad Nacional
+MEF - Ministerio de
+                               de Administración de
+Economía y Finanzas
+                               Tierras
+
+Proposed Program Development Objective(s)
+To develop the national cadaster management system and to provide access to cadastral information in Program
+areas
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   No
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Government program Cost                                                                                     250.00
+
+  Total Operation Cost                                                                                         95.15
+    Total Program Cost                                                                                        95.00
+    Other Costs (Front-end fee,IBRD)                                                                           0.15
+  Total Financing                                                                                              95.15
+
+  Financing Gap                                                                                                 0.00
+
+FINANCING
+
+                                                                                                                 Page 1
+
+
+
+                                                                                                              Confidential
+           The World Bank
+           Transforming Panama's Cadaster Program for Results (P511840)
+
+
+
+     Total World Bank Group Financing                                                                                                                                                  60.00
+        World Bank Lending                                                                                                                                                            60.00
+     Total Government Contribution                                                                                                                                                     35.15
+
+
+  @#&OPS~Doctype~OPS^dynamics@pidpfrconceptdecision#doctemplate
+Concept Review Decision
+The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1. Despite Panama’s remarkable economic growth—averaging 5.7 percent annually between 1990 and 2023,
+   compared to the regional average of 2.5 percent—persistent weaknesses in land administration, especially in rural
+   areas, have contributed to high levels of inequality and rural poverty. Panama faces multiple challenges in managing
+   and integrating its cadastral and registry information, and in leveraging these systems for fiscal purposes, land use
+   planning, and addressing land tenure uncertainty. As of 2025, only 36 percent1 of the country’s territory has cadastral
+   data, most of which is outdated by approximately 20 years. Furthermore, just 19 percent of the national territory is
+   titled, primarily in urban areas, where 70 percent of total titled properties are located. Land parcels eligible for
+   adjudication2 in rural areas represent around 50 percent of the national total, however, the land titling process,
+   regulated by Law 37 of the Agrarian Code, involves 16 steps and can take nearly four years to complete. The costs
+   associated with land titling remain high, and the process is slower compared to other countries.
+
+2. The Equivalent Fiscal Pressure (PFE) of Panama3, which includes mandatory private contributions to social security
+   and non-tax revenues from natural resources, is 25.6 percent higher than its tax-to-GDP ratio. This indicates a
+   significant dependence on non-tax revenues. Property taxes represented only 0.5 percent of GDP and 5.0 percent of
+   total tax revenues in 2022. By comparison, the OECD countries’ average for 2022 was approximately 1.9 percent of
+   GDP and 5.6 percent of total tax revenues4. There are various exemptions for the Real Estate Transfer Tax (ITBMS) and
+   the Property Tax5. Furthermore, Law 401 of 2023 restricts the mass updating of cadastral values until the year 2034.
+
+
+
+1 Data provided by ANATI in 2025
+2A zone eligible for land adjudication refers to a defined geographic area containing lands that may be formally titled in favor of occupants who meet the established legal criteria. These
+
+zones are defined by ANATI and may include rural, urban, coastal, or insular areas, provided they do not fall within protected areas, indigenous territories, private estates, administrative
+concessions, or lands already assigned for public use or management. Key criteria for allocation include verified possession: in agrarian zones, applicants must demonstrate agricultural use or
+fulfillment of a social function; in coastal, insular, or urban zones, they must prove peaceful, continuous possession with intent of ownership for at least five years. Lands subject to legal
+disputes or opposition are excluded from allocation until resolved by competent authorities.
+
+3 Equivalent Fiscal Pressure provides a broader and more consistent measure of fiscal effort across countries, especially in Latin America and the Caribbean. It includes mandatory
+
+contributions to private social security systems (pensions and healthcare) and non-tax revenues from natural resources.
+4 OCDE, CEPAL, CIAT & BID. (2024). Tax Statistics in LAC 2024. https://www.cepal.org/es/publicaciones/69226-estadisticas-tributarias-america-latina-caribe-2024
+5 There are two property-related taxes in Panama: Real Estate Transfer Tax (ITBMS) and the Property Tax. The ITBMS is a collection mechanism that applies a 7 percent levy on the sale value,
+
+payment in kind, contributions to companies, transfers, or any other act, contract, or agreement intended to transfer ownership within Panama. The Property Tax applies to all land located
+within the national jurisdiction, as well as to buildings and other structures built or to be built on such land, regardless of whether they are registered with the Public Registry and ANATI.
+
+
+
+                                                                                                                                                                                           Page 2
+
+
+
+                                                                                                                                                                                      Confidential
+           The World Bank
+           Transforming Panama's Cadaster Program for Results (P511840)
+
+
+3. Recent macroeconomic evidence underscores the importance of advancing land and cadastral reforms as a tool to
+   strengthen fiscal sustainability. Panama has one of the lowest tax-to-GDP ratios in the region, at 13.1 percent in 2022,
+   compared to the regional average of 21.5 percent and the OECD average of 34.0 percent6. According to a World Bank
+   report (2024), public revenues have remained around 17–18% of GDP in recent years, while public spending has
+   exceeded 21 percent, leading to persistent fiscal deficits and increasing public debt, which is estimated to reach 59.1
+   percent of GDP by 20247. This structural gap between revenues and expenditures limits fiscal space and heightens
+   dependency on external financing.
+
+ Sectoral (or multi-sectoral) and Institutional Context of the Program
+
+4. Panama has a dual Cadaster and Registry system, managed respectively by the National Land Administration
+   Authority (ANATI) and the Public Registry of Panama. ANATI serves as the national cadastral authority, responsible
+   for regulating and ensuring compliance with policies, laws, and regulations related to land and real estate, managing
+   state-owned lands, and overseeing processes of land regularization and mass titling8, and the Public Registry plays a
+   critical role in ensuring legal certainty and transparency in the registration of deeds related to public and private lands.
+
+5. ANATI, as the official provider of cadastral data, currently lacks updated property valuations and an interoperable
+   database with the Public Registry and the General Directorate of Revenue (DGI) from the Ministry of Economy and
+   Finance (MEF). This limits the DGI’s ability to revise the taxable base and identify undeclared property improvements.
+   Meanwhile, the Public Registry provides legal information on property ownership, such as title and registration data,
+   but does not include technical attributes like land use, valuation, or improvements, and is not designed for fiscal
+   purposes. Internally, the DGI manages robust tax data through its Unique Taxpayer Registry (RUC), including taxpayer
+   records, payment history, and exemptions. However, this system is not integrated with either cadastral or registry
+   databases, making it hard to associate properties with taxpayers, enforce sanctions, or detect tax evasion.
+
+6. The fragmentation across these three data sources—ANATI (cadastral), the Public Registry (legal), and the DGI
+   (fiscal)—underscores the urgent need to modernize the geospatial data infrastructure and establish robust
+   interoperability services for land administration. There is significant potential to improve coordination among ANATI,
+   the Public Registry, and the DGI to strengthen Panama’s property tax administration, regional convergence and land
+   titling. Priority actions include densifying the geodetic network, acquiring high-quality imagery and cartography, and
+   upgrading ICT systems—led by ANATI and IGNTG qualified personnel—to efficiently process and provide geospatial
+   data. These improvements would enable unified property identifiers, automated valuation exchange, exemption
+   cross-checks, updates of undeclared improvements, and standardized parcel and address nomenclature.
+
+7. A key responsibility of ANATI is to develop the Integrated Cadaster-Registry Information System (SICAR) in
+   coordination with the Public Registry of Panama. ANATI plans to develop SICAR following the international standard
+   Land Administration Domain Model (LADM), (ISO 19152:2012) to promote data interoperability among the Public
+   Registry, the DGI, and the Ministry of Housing and Land Use Planning (MIVIOT). The SICAR platform has not been
+   developed yet, resulting in limited data interoperability and the urgent need to standardize cadastral processes,
+   property valuation methodologies, and cartographic production.
+
+
+
+
+6 OECD et al. (2024), Revenue Statistics in Latin America and the Caribbean 2024, OECD Publishing, Paris, https://doi.org/10.1787/33e226ae-en.
+7 World Bank. (2024). Panamá: Macroeconomic Outlook 2024. MFMOD Database, World Bank WDI y Haver Analytics.
+
+https://thedocs.worldbank.org/en/doc/e408a7e21ba62d843bdd90dc37e61b57-0500032021/related/mpo-pan.pdf
+8 ANATI has its own legal personality and assets and operates independently, although it is administratively linked to the Ministry of Housing and Territorial Planning (MIVIOT)
+
+
+
+
+                                                                                                                                                                                      Page 3
+
+
+
+                                                                                                                                                                                   Confidential
+           The World Bank
+           Transforming Panama's Cadaster Program for Results (P511840)
+
+
+8. In Panama, municipalities do not have the legal authority to directly collect property taxes, as this function is
+   centralized under DGI. The transfers are regulated by Law 66 of 2015 with ANATI playing a key role, as the national
+   cadastral authority. Its coordination with MEF and municipalities is essential to update and maintain a multipurpose
+   cadaster that reflects the real value of properties, which is central to expanding and qualifying the tax base, both
+   national and local levels under progressive and equitable criteria.
+
+9. The institutional assessment of ANATI9 highlights several strengths, including specialized technical capacity and
+   extensive experience in mass land titling, supported by a solid legal framework. To ensure efficient management
+   and provide effective support to municipalities and ethnic congresses, ANATI must continue investing in technological
+   modernization, process standardization, and staff capacity building. In this sectoral context, a key actor is the National
+   Geographic Institute "Tommy Guardia" (IGNTG), as a unit under the authority of ANATI, the IGNTG demonstrates
+   strengths in technological infrastructure, technical expertise, and inter-institutional collaboration. Nonetheless, its
+   assessment reveals structural limitations that hinder its ability to respond swiftly to the growing demands of the
+   geospatial market.
+
+10. In consequence, ANATI designed a 10 year-program called “National Multipurpose Cadaster Program”, currently
+    under approval10 to create the Panama’s Multipurpose Cadaster System. Including several dimensions related to: (i)
+    legal and regulatory aspects, under ANATI’s authority as the cadastral entity; (ii) inter-institutional coordination to
+    facilitate data exchange, the establishment of supra-institutional processes, and one-stop service windows; (iii)
+    information and technological infrastructure, including the development and implementation of SICAR; (iv)
+    modernization, standardization, and simplification of processes for updating the geodetic network, production of
+    cadastral mapping, and the implementation and maintenance of the multipurpose cadaster, including property
+    valuation and monitoring of real estate market values; (v) the operational model for cadastral activities in
+    administrative actions based on supply and demand, considering ANATI’s regional offices, the territorial presence of
+    the Public Property Registry Offices, and the participation of municipalities, as well as the analysis of direct
+    implementation and the possibility of outsourcing certain services and processes to private companies; and (vi) the
+    management of cadastral information for multiple uses, with an emphasis on fiscal purposes, land titling, and
+    territorial planning.
+
+11. The implementation of an updated multipurpose cadaster can significantly enhance the mobilization of domestic
+    public revenues, particularly through property tax, improving both equity and efficiency in taxation11. By enabling
+    better identification of assets and taxpayers, it also boosts the collection of indirect taxes, which are easier to
+    administer and less distortionary. Additionally, property formalization stimulates access to credit and private
+    investment, which under the right conditions reduces reliance on external financing and foreign direct investment.12
+
+
+
+
+9 The institutional assessments conducted for ANATI and IGNTG were carried out by the World Bank task team across several missions. The first, an identification mission for the PforR program,
+
+took place from May 26 to June 2, 2026; a second mission focused on capacity assessment was held from August 26 to 28, 2026. Additionally, to address organizational and technical topics
+related to geodesy, cartography, and information systems, two technical missions were conducted on June 19–20 and October 13–17. The task team included experts in geodesy, cartography,
+and information technology, and worked closely with counterparts to ensure a comprehensive and specialized evaluation of institutional and technical capacities.
+10 ANATI. 2025
+11 In 2018, following the first phase of the cadastral update in Barranquilla, Colombia, property tax collection experienced a substantial increase of 26%, rising from USD 79.3 million in 2017 to
+
+USD 100.0 million in 2018. This upward trend continued with an average annual growth of 8% from 2019 to 2022. Property tax revenues increased from USD 109.8 million in 2019 to USD 119.6
+million in 2020, and then to USD 124.8 million in 2021. Ciudata, also in Colombia, is a program aimed at strengthening fiscal autonomy and urban planning in t he municipalities of Pereira,
+Popayán, Cartago, and Galapa. It does so by enhancing their capacity to manage territorial information and fiscal performance, offering solutions focused on value capture tools and tax
+administration. Since its implementation in 2021, the program has seen an average increase of 54% in property tax revenues, a 220% growth in the value of the cadastral base, and a 13% rise
+in the number of taxable properties.
+12 D’Arcy, M., Nistotskaya, M., & Olsson, O. (2023). Cadasters and Economic Growth: A Long-Run Cross-Country Panel. World Bank.
+
+
+
+
+                                                                                                                                                                                            Page 4
+
+
+
+                                                                                                                                                                                      Confidential
+          The World Bank
+          Transforming Panama's Cadaster Program for Results (P511840)
+
+
+ Relationship to CAS/CPF
+
+12. The proposed PforR is aligned with the World Bank Group Country Partnership Framework (CPF) for the Republic
+    of Panama, FY24-28.13 The proposed Program will contribute to the High-Level Outcome 1 (HLO1) of the CPF, Inclusive
+    Job Creation. As emphasized in the World Bank’s 2025 Development Committee paper14, effective land administration
+    plays a pivotal role in fostering job creation by establishing the legal and institutional foundations. Clear and
+    predictable land governance reduces investment risk, facilitates access to credit, and empowers individuals and
+    businesses to engage in productive activities. Land administration systems support the development of agribusiness,
+    infrastructure, and urban planning, sectors identified as engines of job creation.
+
+13. The program is expected to stimulate job creation and strengthen local private sector participation in the land
+    administration value chain. According to ANATI, the operation will generate approximately 1,200 direct jobs,
+    including positions for topographers, geodetic technicians, and other professionals needed to achieve the Program’s
+    targets. This figure excludes indirect employment expected to arise from local private enterprises engaged in cadastral
+    activities across participating municipalities. To ensure workforce sustainability and quality, ANATI plans to partner
+    with universities to certify professionals in cadaster and land administration–related fields. Additionally, collaboration
+    with Panama’s Micro, Small and Medium Enterprise Authority (AMPYME) will promote the creation and financing of
+    new local companies to meet the growing demand generated by the national cadaster program.
+
+14. The PforR aligns with the World Bank’s Private Capital Enablement (PCE) goals by establishing the institutional and
+    technological foundations needed to lower transaction times and costs, reduce investment risks, and unlock private
+    capital flows. Improving cadastral information and property rights is essential for fostering private sector investment.
+    Enhanced land data reduces risks and transaction costs, unlocks access to finance, enables efficient land and real
+    estate markets, supports infrastructure and urban development, and increases fiscal revenues. Through streamlined
+    cadastral procedures—captured via a PDO-level indicator—the program will reduce barriers to formal real estate
+    transactions and foster the development of secondary markets. The availability of standardized land market
+    information, combined with the implementation and interoperability of the SICAR platform, is expected to increase
+    both the number and value of real estate transactions, which currently total 272,200 nationwide (2024), according to
+    the Registry Authority. Strengthened property rights and modernized cadastral systems will also support private credit
+    expansion, real estate investment, and public–private partnerships at the municipal level.
+
+15. Gender. Data from the 2011 Agricultural Census in Panama reveal a significant gender gap in land ownership, with
+    62.4 percent of holdings owned by men and only 38.6 percent by women.15 This disparity stems from factors such
+    as male preference in inheritance, privileges granted to men within marriage, and gender bias in government land
+    distribution programs. While women’s formal access to land has gradually improved, rising from 278 titles in the 1960s
+    to 14,485 titles between 2010 and 2019 inequalities remain evident. Gender disparities also extend to financial
+    support, with only 10.9% of agricultural loans granted to women, compared to 89 percent to men, and in indigenous
+    territories, 100 percent of loans went exclusively to men. Women also face limited access to technology and
+    machinery, with participation rates as low as 9.8 percent. Experts attribute these inequities to cultural norms and
+    perceptions that women are less likely to fulfill their commitments to financial institutions. Several studies highlight
+    that current regulations lack sufficient measures to promote women’s participation and access to land.16
+
+
+13 Country Partnership Framework FY23-27. The World Bank.
+14 World Bank Group. (2025, September 26). Foundations for growth and jobs (DC2025-0004). Development Committee Meeting, October 16, 2025. 15 PNUD. (2022). Acceso de las Mujeres a la
+
+Tierra y la Propiedad en Panamá.
+15 PNUD. (2022). Acceso de las Mujeres a la Tierra y la Propiedad en Panamá.
+16 FAO. (2014). LAT Assessment – Panamá.
+
+
+
+
+                                                                                                                                                                                Page 5
+
+
+
+                                                                                                                                                                           Confidential
+       The World Bank
+       Transforming Panama's Cadaster Program for Results (P511840)
+
+
+16. Indigenous territories. There are two types of collective property for indigenous territories in Panama: collective lands
+    within indigenous ‘comarcas’ and collective lands outside the indigenous comarcas. The PforR will directly support
+    ANATI's competencies regarding indigenous territories, by strengthening the technical and administrative processes
+    necessary for collective titling in Program areas. The implementation of a specialized Geographic Information System
+    (GIS) for the management of indigenous territories, is a fundamental step towards improved accuracy, traceability and
+    transparency of adjudication processes. Likewise, the generation of cadastral technical evaluation reports as part of
+    the collective titling files, and the access of the prioritized areas to the cadastral information system, will facilitate the
+    coordination between levels of government and indigenous communities.
+
+17. Climate Change. The PforR will strengthen ANATI's competencies in the provision of geospatial information for the
+    sustainable management of protected areas under the responsibility of the Ministry of Environment (MinAmbiente).
+    Through a new land administration data model interoperable with environmental information platforms, the Program
+    will generate and share updated data on land occupation, use, and tenure in environmentally sensitive areas. By
+    expanding access to the cadastral information system, informed decision-making will be facilitated for conservation,
+    territorial planning, and land use control. In this way, the PforR will contribute to a more efficient, transparent
+    territorial governance aligned with the country's environmental sustainability objectives.
+
+  Rationale for Bank Engagement and Choice of Financing Instrument
+
+18. Based on a strong engagement with the World Bank, the Government of Panama has requested a Program for
+    Results (PforR) to help implement its National Multipurpose Cadaster program. The PforR is the most adequate
+    financing instrument to incentivize and accelerate progress towards the establishment of an efficient cadaster system
+    and delivery of land services. This will be the first PforR in Panama, representing the next logical step in World Bank’s
+    engagement leveraging on the existing capacity and systems, while bringing global experience to further strengthen
+    institutional capacity. Based on lessons learned from land operations across regions, the PforR will streamline
+    implementation arrangements by focusing exclusively on ANATI, facilitating collaboration and coordination around
+    Multipurpose Cadaster activities.
+ C. Program Development Objectives (PDOs) and PDO Level Results Indicators
+
+  Program Development Objectives
+  To develop the national cadaster management system and to provide access to cadastral information in Program areas.
+
+ PDO Level Results Indicators
+
+19. Expected results include the following:
+        Objective 1 / Outcome: Development of the National Cadaster Management System
+           • Standardized cadastral processes with reduced response times for citizens.
+           • Number of prioritized municipalities with at least 50% of parcels (or their area) having updated cadastral
+                and registry information integrated into the SICAR – Core System.
+
+        Objective 2 / Outcome: Provide access to cadastral information in Program areas
+           • People using SICAR’s digital services (for consultation/modifications by institutions and users). Linked to
+                the World Bank Group (WBG) Corporate Scorecard Indicator: Millions of people using digitally enabled
+                services. (see details in Annex 3).
+
+                                                                                                                             Page 6
+
+
+
+                                                                                                                         Confidential
+       The World Bank
+       Transforming Panama's Cadaster Program for Results (P511840)
+
+
+
+ D. Program Description
+
+ PforR Program Boundary
+
+20. The proposed Program will support the most critical components of the Government’s broader initiative to
+    establish a National Multipurpose Cadaster ecosystem, capable of delivering geospatial information essential for
+    fiscal strengthening, land rights regularization, and regional development. Objective 1 aims to develop a
+    comprehensive National Cadaster Management System, including standardized cadastral processes that significantly
+    reduce response times for the population and the integration of updated cadastral and registry information into the
+    SICAR – Core System for at least 50 percent of parcels, or their area, in prioritized municipalities. Objective 2 seeks to
+    provide access to property information in Program areas by increasing the number of people using SICAR’s digital
+    services for consultations and modifications by both professional institutions and individual users.
+
+21. Results Area # 1: Increasing capacity for the provision of land administration services based on a multifunctional
+    cadaster. The objective is to address outdated national cartography and transition from a cadaster focused solely on
+    titling and fiscal purposes to a truly multipurpose system. This will be achieved by scaling up practices and technologies
+    aligned with the LADM Standard, through targeted technical and financial support. Results Area # 2: Multifunctional
+    cadaster in operation in prioritized areas. The objective is to address critical challenges in the land administration
+    sector, particularly the lack of interconnectivity among databases that use and provide land-related information. This
+    fragmentation limits data sharing and coordination across institutions. Additionally, the program seeks to improve the
+    efficiency and reliability of land information services, which currently suffer from weak infrastructure and outdated
+    processes. By enhancing digital integration and service delivery, the program will contribute to a more transparent,
+    accessible, and responsive land governance system.
+
+22. Expected beneficiaries. Direct beneficiaries include individuals whose property rights are inventoried, formalized, and
+    registered—such as women, indigenous peoples, and Afro-descendant communities. Indirect beneficiaries encompass
+    government institutions, (National Authority for Land Administration (ANATI), the National Geographic Institute
+    “Tommy Guardia” (IGNTG), the Public Registry, the General Directorate of Revenue (DGI) under the Ministry of
+    Economy and Finance (MEF), the National Authority for Government Innovation (AIG), selected Program Areas, and
+    the private sector.
+
+23. Implementation arrangements. ANATI will serve as the sole implementing agency for the project, assuming full
+    responsibility for both technical and operational coordination. Strategic articulation will be facilitated through the
+    National Land Council, a political and managerial body within ANATI that is already established and will function as
+    the Project’s Board of Directors. Collaboration with the selected municipalities will be formalized through
+    Memorandums of Understanding (MoUs), which will clearly define the parameters for cooperation, as well as the
+    mechanisms for monitoring and evaluation. The Ministry of Economy and Finance has expressed its willingness to hire
+    an independent verification agency to assess compliance with the results.
+
+                      Table 1. Panama’s National Multipurpose Cadaster program and PforR boundary
+                  Government program                Program supported by the PforR               Reasons for non-alignment
+  Objective       The 10 year-program “National     To develop the national cadaster             The PforR will only include
+                  Multipurpose Cadaster             management system and provide access         selected Program areas.
+                                                    to cadastral information in Program areas.
+
+                                                                                                                               Page 7
+
+
+
+                                                                                                                         Confidential
+         The World Bank
+         Transforming Panama's Cadaster Program for Results (P511840)
+
+
+                        program”, to establish the
+                        Multipurpose Cadaster System.
+     Duration           2025-2035                                    2026-2031                                                Supporting first phase
+     Geographic         All the country                              Prioritized areas selected by ANATI                      Engagement only for the
+     coverage                                                                                                                 prioritized areas.
+     Results areas      RA1 and RA2                                  The PforR will only support selected areas               The Program will exclude
+                                                                     that satisfy the following criteria:                     national protected areas
+                                                                      - For Cadaster activities: (i) Higher                   (NPAs), buffer zones,
+                                                                     income potential from property tax and                   mangroves and wetlands.
+                                                                     higher number of real estate transactions.
+                                                                     - For Land titling: (i) Collective property:
+                                                                     Specific areas with certain indigenous
+                                                                     communities.17 (ii)Individual property:
+                                                                     Only parcels eligible for adjudication.
+     Overall            US $250M                                     US $95.15M (US $60M financed by IBRD)
+     Financing
+
+ E. Initial Environmental and Social Screening
+
+24. The initial environmental and social risk rating for the Program is considered Substantial and will be further revised
+    during the preparation phase. The PforR might include the following activities which are relevant for the
+    environmental risk rating: (i) acquisition of software and hardware necessary for the cadaster processes, both at the
+    central and regional levels; (ii) expansion and/or rehabilitation of existing infrastructure to house the acquired
+    equipment, at the central and regional levels; and (iii) installation of Continuously Operating Reference Stations
+    (CORS), which may require identification of areas for installation and small concrete columns with a perimetral fence.
+    Scale of these structures is expected to be small, and their location within urban and rural areas, potentially
+    overlapping natural habitats. Potential environmental risks and impacts that may derive from the implementation of
+    the mentioned activities include: (i) nuisances related to dust generation, vibration, and noise during the small scale
+    infrastructure works; (ii) generation, and inadequate management and disposal of non-hazardous and hazardous solid
+    waste during civil works; (iii) health and safety risks to the project workforce; (iv) inadequate management of e-waste
+    from acquired equipment when obsolete. These risks and impacts are envisaged to be low, temporary, and site-
+    specific and are expected to be mitigated with readily available measures.
+
+25. The PforR will not finance the titling of individual or collective tenure rights that overlap Natural Protected Areas
+    (NPAs), including their buffer zones, that overlap mangroves and/or wetlands, as defined in the Program boundary.
+    In the case of forests, national legislation allows the titling of individual tenure rights overlapping forests subject to
+    compliance of specific criteria and processes, in which the Ministry of Environment is involved. There are also specific
+    regulations and conditions for titling individual tenure rights that overlap with water bodies and cultural heritage sites.
+    These cases will be further assessed during preparation to determine the risk of significant negative risks (mainly forest
+
+
+
+17
+   The assessment framework to select indigenous areas includes several criteria. Under the Regulatory Framework, it verifies compliance with legal requirements such
+as the authority’s request note, certification from the population controller, and certification from the government confirming the community’s existence. The Technical
+Methodology assesses the adequacy of technical information in the file, including data collection, historical and current occupation studies, overlap with other rights
+(private titles or protected areas), and cadastral evaluation. The Social Methodology reviews evidence of prior participatory processes with the community and
+authorities, potential conflicts that could be worsened by the project, and existing conflict resolution mechanisms (identification, dialogue, mediation). Finally, the
+Government Strategy considers whether the area is a priority, favoring those with low levels of conflict.
+
+
+                                                                                                                                                                  Page 8
+
+
+
+                                                                                                                                                             Confidential
+       The World Bank
+       Transforming Panama's Cadaster Program for Results (P511840)
+
+
+    conversion) because of, or anticipation of, Program activities, and identify necessary exclusions and measures to be
+    included in the Program Action Plan. Current risk rating will be adjusted as/if necessary.
+
+26. The initial social risk for the Program is considered Substantial given the nature and scope of activities under the
+    proposed PforR, which include developing and implementing a national cadastral management system, integrating
+    cadastral and registry information for prioritized areas, and mass land titling. These activities carry social risks such
+    as land tenure conflicts in areas with informal occupation or overlapping claims; exclusion of vulnerable groups,
+    including women, persons with disabilities, and Indigenous peoples; absence or weakness of mechanisms for
+    information dissemination and participatory processes related to cadaster and titling; and limited institutional
+    capacity to manage disputes effectively. This rating will be revisited following completion of the Environmental and
+    Social Systems Assessment (ESSA), which will provide a detailed analysis of these risks and recommend mitigation
+    measures.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Ivonne Astrid Moreno Horta
+   Senior Land Administration Specialist
+
+ Borrower/Client/Recipient
+  MEF - Ministerio de Economía y Finanzas
+
+ Implementing Agencies
+  ANATI - Autoridad Nacional de Administración de Tierras
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+
+
+
+                                                                                                                         Page 9
+
+
+
+                                                                                                                     Confidential
+

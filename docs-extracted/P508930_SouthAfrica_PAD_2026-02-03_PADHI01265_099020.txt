@@ -1,0 +1,2388 @@
+Public Disclosure Authorized                                               FOR OFFICIAL USE ONLY
+                                                                                                                           Report No: PADHI01265
+
+                                                   INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+
+
+
+Public Disclosure Authorized
+                                                                      PROJECT APPRAISAL DOCUMENT
+
+                                                                    ON A PROPOSED LOAN
+                                                           IN THE AMOUNT OF US$338.82 MILLION
+                                         OF WHICH US$75 MILLION FROM THE GLOBAL SOLUTIONS ACCELERATOR PLATFORM
+                                                   UNDER THE IBRD FRAMEWORK FOR FINANCIAL INCENTIVES
+                                                                            AND
+                                                                     A PROPOSED GRANT
+                                                            IN THE AMOUNT OF US$11.18 MILLION
+                                                    FROM THE IBRD SURPLUS-FUNDED LIVABLE PLANET FUND
+
+
+
+
+Public Disclosure Authorized
+                                                                                  TO THE
+                                                                         REPUBLIC OF SOUTH AFRICA
+
+                                                                               FOR
+                                                     BLENDED FINANCE PLATFORM FOR RESILIENT INFRASTRUCTURE
+                                                     AS PHASE 1 OF THE MULTI-PHASE PROGRAMMATIC APPROACH
+
+                                                        WITH AN OVERALL FINANCING ENVELOPE OF US$1 BILLION
+                                                                         FEBRUARY 3, 2026
+
+
+
+
+Public Disclosure Authorized
+
+
+
+                                Finance, Competitiveness and Innovation
+                                Eastern And Southern Africa
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+                                                                                                                                         Official Use Only
+                      CURRENCY EQUIVALENTS
+
+          (Exchange Rate Effective as of January 31, 2026)
+
+                     Currency Unit = US DOLLARS
+                          SDR 0.72 = US$ 1
+                          US$ 1.38 = SDR 1
+
+
+                         ZAR 15.87 = US$ 1
+                          US$ 0.06 = ZAR 1
+
+                    REPUBLIC OF SOUTH AFRICA
+                    GOVERNMENT FISCAL YEAR
+                        April 1 - March 31
+
+
+
+
+Regional Vice President: Ndiame Diop
+     Regional Director: Hassan Zaman
+      Country Director: Satu Kristiina Kahkonen
+     Practice Manager: Consolate K. Rusagara
+  Task Team Leader(s): Marc Schrijver, Joonkyung Seong, Swee Ee Ang
+
+
+
+                                                                      Official Use Only
+ The World Bank
+ Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+ABBREVIATIONS AND ACRONYMS
+
+ACT            Accelerating Coal Transition
+BESIPPPP       Battery Energy Storage Independent Power Producer Procurement Program
+BFI            Budget Facility for Infrastructure
+CE             Citizen Engagement
+CERC           Contingent Emergency Response Component
+CGV            Credit Guarantee Vehicle
+CPF            Country Partnership Framework
+DBSA           Development Bank of Southern Africa
+DEE            Department of Electricity and Energy
+DFI            Development Finance Institution
+DLA            Direct Lending Agreement
+DO             Development Objective
+DTIC           Department of Trade Industry and Competition
+E&S            Environmental and Social
+EHS            Environmental, Health, and Safety
+EIRR           Economic Internal Rate of Return
+EMDE           Emerging Markets and Developing Economies
+ENPV           Economic Net Present Value
+ERAA           Electricity Regulation Act Amendment
+ESAP           Environmental and Social Action Plan
+ESMS           Environmental and Social Management System
+ESRS           Environmental and Social Review Summary
+ESS            Environmental and Social Standards
+FFI            Framework for Financial Incentives
+FSA            Facility Sharing Agreement
+FSM            Financial Simulation Model
+GDP            Gross Domestic Product
+GHG            Greenhouse Gas
+GRS            Grievance Redress Service
+GSA            Government of South Africa
+GSAP           Global Solutions Accelerator Platform
+IA             Implementation Agreement
+ICR            Implementation Completion and Results Report
+IFC            International Finance Corporation
+IFISA          Infrastructure Financing and Implementation Support Agency
+IPF            Investment Project Financing
+IPPO           Independent Power Producer Office
+IRP            Integrated Resource Plan
+IRR            Internal Rate of Return
+ITP            Independent Transmission Project
+JCAP/SFF       Joint Capital Markets Program/Sustainable Finance Facility
+JDA            Joint Development Agreement
+LGD            Loss Given Default
+LPF            Livable Planet Fund
+
+
+
+                                                                                       Official Use Only
+The World Bank
+Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+M&E           Monitoring and Evaluation
+MBJ           More and Better-Paid Jobs
+MDB           Multilateral Development Bank
+MFD           Maximizing Finance for Development
+MIGA          Multilateral Investment Guarantee Agency
+MPA           Multiphase Programmatic Approach
+MTEF          Medium-Term Expenditure Framework
+MTR           Midterm Review
+NDC           Nationally Determined Contribution
+NERSA         National Energy Regulator of South Africa
+NT            National Treasury
+NTCSA         National Transmission Company of South Africa
+PCE           Private Capital Enabling
+PCG           Partial Credit Guarantee
+PCM           Private Capital Mobilization
+PDO           Project Development Objective
+PforR         Program for Results
+PIU           Project Implementation Unit
+POM           Project Operations Manual
+PPP           Public-Private Partnership
+PPSD          Project Procurement Strategy for Development
+PrDO          Program Development Objective
+REIPPPP       Renewable Energy Independent Power Producer Procurement Programme
+RFI           Request for Information
+RFP           Request for Proposal
+RFQ           Request for Qualification
+SACP          South African Country Platform
+SANRAL        South African National Roads Agency Limited
+SANWRIA       South African National Water Resource Infrastructure Agency
+SARB/PA       South African Reserve Bank/Prudential Authority
+SECO          State Secretariat for Economic Affairs
+SEP           Stakeholder Engagement Plan
+SOE           State-Owned Enterprise
+SOP           Series of Projects
+SORT          Systematic Operations Risk-Rating Tool
+SPV           Special Purpose Vehicle
+SRMI          Sustainable Renewables Risk Mitigation Initiative
+STEP          Systematic Tracking of Exchanges in Procurement
+TDP           Transmission Development Plan
+TFP           Total Factor Productivity
+TSA           Transmission Service Agreement
+VGF           Viability Gap Fund
+WBG           World Bank Group
+WPO           Water Partnership Office
+WRP           Water Reuse Program
+WWTW          Wastewater Treatment Works
+
+
+
+                                                                                  Official Use Only
+      The World Bank
+      Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+
+
+                                                              TABLE OF CONTENTS
+
+DATASHEET ............................................................................................................................ i
+I.      STRATEGIC CONTEXT ...................................................................................................... 1
+        A. Country Context ................................................................................................................................ 1
+        B. Sectoral and Institutional Context..................................................................................................... 2
+        C. Relevance to Higher Level Objectives ............................................................................................... 4
+        D. Multiphase Programmatic Approach ................................................................................................ 5
+II.     PROJECT DESCRIPTION ..................................................................................................10
+        A. Project Development Objective (PDO)............................................................................................ 10
+        B. Project Components ........................................................................................................................ 10
+        C. Project Beneficiaries ........................................................................................................................ 14
+        D. Rationale for Bank Involvement and Role of Partners.................................................................... 14
+        E. Lessons Learned and Progress on Learning Agenda........................................................................ 15
+III. IMPLEMENTATION ARRANGEMENTS .............................................................................15
+        A. Institutional and Implementation Arrangements ........................................................................... 15
+        B. Results Monitoring and Evaluation Arrangements ......................................................................... 17
+        C. Sustainability ................................................................................................................................... 18
+IV. PROJECT APPRAISAL SUMMARY ....................................................................................18
+        A. Technical, Economic, and Financial Analysis ................................................................................... 18
+        B. Fiduciary .......................................................................................................................................... 20
+        C. Legal Operational Policies ............................................................................................................... 22
+        D. Corporate Requirements ................................................................................................................ 22
+        E. Environmental and Social ................................................................................................................ 24
+V.      GRIEVANCE REDRESS SERVICES......................................................................................25
+VI. KEY RISKS ..................................................................................................................... 26
+VII. RESULTS FRAMEWORK AND MONITORING ....................................................................27
+ANNEX 1: Infrastructure Sectoral Challenges and Upstream and Down Stream Reforms ........32
+ANNEX 2: Financial Intermediary Financing Assessment .......................................................36
+
+
+
+
+                                                                                                                                                              Official Use Only
+      The World Bank
+      Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+South Africa             Blended Finance Platform for Resilient Infrastructure
+                                                     Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                     Classification
+                         Investment Project
+P508930                                              High
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padmpaprocessing#doctemplate
+Financing & Implementation Modalities
+[✓] Multiphase Programmatic Approach (MPA)                      [ ] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                    [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                         [ ] Small State(s)
+
+[✓] Financial Intermediaries (FI)                               [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                     [ ] Conflict
+[ ] Deferred Drawdown                                           [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                  [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                 Expected Closing Date                     Expected Program Closing Date
+24-Feb-2026                            31-Mar-2031                               25-Jun-2036
+Bank/IFC Collaboration                 Joint Level
+Yes                                    Complementary or Interdependent project requiring active coordination
+
+
+@#&OPS~Doctype~OPS^dynamics@padmpa#doctemplate
+MPA Program Development Objective
+The Program Development Objective is to mobilize capital for infrastructure investment in South Africa.
+
+
+MPA FINANCING DATA (US$, Millions)
+
+
+                                                                                                                       i
+
+
+                                                                                                           Official Use Only
+      The World Bank
+      Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+MPA Program Financing Envelope                                          1,000.00
+
+
+Components
+ Component Name                                                                        Cost (US$)
+ Capitalization of the Credit Guarantee Vehicle                                    338,820,000.00
+ Project Pipeline Development                                                        7,930,000.00
+ Project Coordination and Implementation                                             3,250,000.00
+
+
+Organizations
+Borrower:                        Republic of South Africa
+Implementing Agency:             Development Bank of Southern Africa
+
+
+MPA FINANCING DETAILS (US$, Millions)
+
+
+MPA Program Financing Envelope:                                         1,000.00
+
+     of which Bank Financing (IBRD):                                    1,000.00
+
+     of which Bank Financing (IDA):                                     0.00
+
+     of which Other Financing sources:                                  0.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+
+  Total Operation Cost                                                                  4,000.00
+
+  Total Financing                                                                       3,970.00
+             of which IBRD/IDA                                                            338.82
+
+  Financing Gap                                                                             30.00
+
+DETAILS
+
+                                                                                                    ii
+
+
+                                                                                      Official Use Only
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+
+ World Bank Group Financing
+     International Bank for Reconstruction and Development (IBRD)                                              338.82
+
+     IFC Own Resources/Mobilization                                                                            100.00
+
+ Non-World Bank Group Financing
+     Commercial Financing                                                                                    3,520.00
+
+       Unguaranteed Commercial Financing                                                                     3,520.00
+
+     Trust Funds                                                                                                11.18
+
+       IBRD Surplus-Funded Livable Planet Fund                                                                  11.18
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal Year              2026                 2027               2028                2029                2030
+Annual                      5.00                 95.00              80.00               85.00               85.00
+Cumulative                  5.00                 100.00             180.00             265.00               350.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                         Contributing Practice Areas
+                                                             Energy & Extractives; Water; Transport; Infrastructure,
+Finance, Competitiveness and Innovation
+                                                             PPP's & Guarantees
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+No
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                                Rating
+1. Political and Governance                                                  ⚫ Substantial
+
+                                                                                                                       iii
+
+
+                                                                                                          Official Use Only
+      The World Bank
+      Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+2. Macroeconomic                                                            ⚫ Moderate
+3. Sector Strategies and Policies                                           ⚫ Substantial
+4. Technical Design of Project or Program                                   ⚫ Substantial
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+6. Fiduciary                                                                ⚫ Substantial
+7. Environment and Social                                                   ⚫ High
+8. Stakeholders                                                             ⚫ Substantial
+9. Overall                                                                  ⚫ Substantial
+Overall MPA Program Risk                                                    ⚫ Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Relevant
+Traditional Local Communities
+                                                                                                           iv
+
+
+                                                                                                Official Use Only
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+ESS 8: Cultural Heritage                                                           Relevant
+ESS 9: Financial Intermediaries                                                    Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+The Infrastructure and Investment Finance Committee at the NT is mandated to oversee PIU 1 month after
+effectiveness
+PIU fully staffed 3 months after effectiveness
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                              Citation                   Description                    Financing Source
+                                                             Establishment of the PIU
+                                                             including the recruitment /
+Effectiveness                     Loan Agreement                                            IBRD/IDA
+                                                             assignment of the Project
+                                                             Coordinator
+                                                             DBSA has prepared and
+Effectiveness                     Loan Agreement             adopted the Project            IBRD/IDA
+                                                             Operational Manual
+                                                             Incorporation of the CGV as
+Effectiveness                     Loan Agreement                                            IBRD/IDA
+                                                             South African corporation
+                                                             Issuance of legal opinion on
+Effectiveness                     Loan Agreement             the legal agreements by        IBRD/IDA
+                                                             the borrower
+                                                             The LPF Grant Agreement
+                                                             has been executed and
+                                                             delivered and all conditions
+Effectiveness                     Loan Agreement                                            IBRD/IDA
+                                                             precedent to its
+                                                             effectiveness have been
+                                                             fulfilled
+                                                             The DBSA Subsidiary
+Effectiveness                     Grant Agreement            Agreement has been             Trust Funds
+                                                             executed and delivered
+                                                             The DBSA Project
+Effectiveness                     Grant Agreement            Agreement has been             Trust Funds
+                                                             executed and delivered
+                                                                                                                        v
+
+
+                                                                                                            Official Use Only
+     The World Bank
+     Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+                                                           The Legal opinions relating
+                                                           to the DBSA Project
+Effectiveness                Grant Agreement               Agreement and the DBSA         Trust Funds
+                                                           Subsidiary Agreement have
+                                                           been furnished to the Bank
+                                                           Signing of CGV Project
+                                                           Agreement and Subsidiary
+Disbursement                 Loan Agreement                                               IBRD/IDA
+                                                           agreement between the NT
+                                                           and the CGV
+                                                           The preparation of CGV
+Disbursement                 Loan Agreement                                               IBRD/IDA
+                                                           Operational Manual
+                                                           Preparation of CGV ESAP;
+                                                           and establishment of CGV
+                                                           Environmental and Social
+Disbursement                 Loan Agreement                                               IBRD/IDA
+                                                           Management System
+                                                           including CGV E&S
+                                                           specialist
+                                                           150M of equity
+                                                           participation agreement
+Disbursement                 Loan Agreement                                               IBRD/IDA
+                                                           from shareholders besides
+                                                           NT
+                                                           Receipt of license to
+Disbursement                 Loan Agreement                operate by CGV from the        IBRD/IDA
+                                                           Prudential Authority
+                                                           Issuance of legal opinion on
+Disbursement                 Loan Agreement                the legal agreements by        IBRD/IDA
+                                                           the borrower
+
+
+
+
+                                                                                                                   vi
+
+
+                                                                                                        Official Use Only
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+ I. STRATEGIC CONTEXT
+
+
+ A. Country Context
+
+1.      South Africa (SA) has ambitious development goals, but slow growth and weak job creation continue to hold
+back progress toward shared prosperity. Economic growth averaged just 0.7 percent over the past decade.
+Unemployment exceeds 30 percent, with 46 percent of 15–34-year-olds unemployed. After earlier gains, poverty has risen
+since 2011 and now affects 68 percent of the population at the US$8.3 upper-middle-income poverty line. Investment has
+averaged about 15 percent of gross domestic product (GDP) over the last decade—roughly half the upper-middle-income
+country average—constraining growth and contributing to a widening infrastructure gap.
+2.       Deteriorating infrastructure is a central barrier to unlocking growth and jobs. Two reinforcing dynamics—
+declining performance and declining investment—have pushed the electricity, freight logistics, and water sectors into
+significant strain. Power shortages, rail and port inefficiencies, and unreliable water services raise firm costs, reduce
+productivity, and undermine competitiveness, with disproportionate impacts on small firms and low-income households
+that lack alternatives (for example, rooftop solar, generators, reliable private transport). Climate change further pressures
+already aging and overstretched systems.
+3.       SA has deep financial markets, with institutional investors holding assets equivalent to roughly 160 percent of
+GDP, yet they do not efficiently allocate long-term finance to infrastructure without significant government guarantees.
+Private participation remains limited, with many projects requiring 100 percent government guarantees. Yet,
+infrastructure needs are vast—estimated at US$254–329 billion between 2022 and 2030. Given constrained fiscal space,
+the public sector cannot meet these needs alone. Infrastructure-related guarantees already amount to almost 9 percent
+of GDP in 2024/25, underscoring the urgency of market-based de-risking that mobilizes private capital without further
+increasing contingent liabilities.
+4.       Weaknesses in the enabling and regulatory environment—especially in state-owned enterprise (SOE)-
+dominated network sectors—significantly constrain investment. Limited competition, operational inefficiencies,
+governance gaps, and financial fragility among SOEs and municipalities undermine performance in electricity, transport,
+and water. These shortcomings are rooted in unclear sector policies, weak and fragmented regulatory frameworks, and
+inefficient institutional processes. Poor creditworthiness and gaps in the sector-regulatory architecture further deter
+private investment, even as the Government begins opening infrastructure sectors to greater private involvement.
+5.      These constraints are compounded by a thin and underprepared pipeline of bankable projects. Many sponsors—
+national departments, municipalities, and SOEs—lack the institutional capacity, technical skills, and familiarity with
+appraisal frameworks needed to develop high-quality, investment-ready proposals. In combination with an imperfect
+enabling environment and underperforming foundational infrastructure, this weak pipeline continues to constrain
+investment and, ultimately, SA’s ability to generate higher growth and better jobs, despite ample liquidity in the financial
+system.
+6.      The infrastructure bottlenecks reflect structural and sectoral inefficiencies—most notably weak SOEs,
+fragmented governance and regulatory processes, and suboptimal use of public funds for private capital mobilization
+(PCM). SOEs dominate critical sectors, yet unclear policies and fragile regulatory settings constrain their ability to prepare
+or procure viable projects. The resulting bottlenecks in energy, transport, and water impose economy-wide costs
+estimated at 2–3 percent of GDP annually, while private capital remains on the sidelines despite strong underlying project
+economics. This has forced the Government to finance most infrastructure on its own balance sheet and to backstop SOE
+obligations.
+
+
+
+                      Official Use Only                                                                                 Page 1
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+7.        SA is committed to a just energy transition toward a low-carbon, climate-resilient economy. The Just Energy
+Transition Investment Plan and Just Transition Framework identify investment needs of approximately US$100 billion for
+2023–2027, aligned with the updated Nationally Determined Contribution (NDC). Given constrained fiscal and debt
+conditions and elevated policy/regulatory risks, private finance has not filled the gap. SA’s Renewable Energy Independent
+Power Producer Procurement Programme (REIPPPP) mobilized private investment at scale with National Treasury (NT)
+guarantees to backstop Eskom offtake risk, but this has expanded contingent liabilities to ZAR 650 billion (about US$36
+billion) in FY2024/25—roughly 90 percent in the electricity sector—creating fiscal sustainability concerns. Bridging the gap
+will require coordinated public and private financing alongside reforms to reduce perceived risks.
+8.       Substantial infrastructure investment is also critical for competitiveness. Infrastructure has forward linkages to
+green industries and backward linkages to renewable energy equipment manufacturing and critical minerals—vital for a
+just transition, industrial competitiveness, and jobs. The investment backlog raises industry costs, while potential trade
+disruptions with the United States and the European Union’s Carbon Border Adjustment Mechanism pose additional
+challenges to the trade competitiveness of South African industries.
+
+ B. Sectoral and Institutional Context
+
+9.      SA’s infrastructure bottlenecks stem from structural and sectoral inefficiencies. This includes weak SOE
+performance, fragmented governance and processes, and limited use of public resources to mobilize private capital. SOEs
+dominate energy, transport, and water but face operational inefficiencies due to unclear sector policies, weak regulation,
+poor governance, and financial stress. A thin pipeline reflects weak project readiness and sponsor capacity (departments,
+municipalities, and SOEs) to prepare robust proposals and navigate appraisal. Poor creditworthiness of
+SOEs/municipalities, inadequate regulatory architecture, and inefficient processes deter private participation. Despite a
+sophisticated domestic financial sector capable of mobilizing capital and mitigating foreign exchange risk, infrastructure
+exposure remains below potential due to sector-specific shortcomings and delivery bottlenecks.
+10.     To address these constraints and build an investable pipeline, the Government is streamlining infrastructure
+delivery and advancing sector reforms through Operation Vulindlela, focusing on electricity, water, and freight
+transport for their growth impact. Sectoral reforms focus on improving governance and structural inefficiencies and
+introducing markets and competition, aiming to enhance sector financial sustainability. Infrastructure delivery system
+reforms include modernizing public-private partnership (PPP) regulations (national and provincial, with municipal reforms
+under way); rationalizing institutions; and strengthening core functions: harmonized project prioritization, consolidated
+preparation via a new Infrastructure Financing and Implementation Support Agency (IFISA), which will become operational
+by April 1, 2026, and faster, centralized appraisal through a reformed Budget Facility for Infrastructure (BFI) to improve
+project quality, bankability, and agility, and crowd in private capital.
+11.     SA’s electricity sector is shifting toward greater competition and financial sustainability to support energy
+security and decarbonization. The system’s reliance on aging coal plants constrains reliability and emissions reduction.
+Key reforms include the Electricity Regulation Amendment Act (ERAA) (effective January 2025) and Eskom’s unbundling
+with the National Transmission Company of South Africa (NTCSA) (July 2024). The National Energy Regulator of South
+Africa (NERSA) has approved regulations to enable private participation, and a wholesale market is planned for 2026.
+Private investment has already flowed into generation and storage: REIPPPP and Battery Energy Storage Independent
+Power Producer Procurement Program (BESIPPPP) mobilized about US$16 billion through 2024, adding 8.3 GW of
+renewables and 1.7 GW of storage under sovereign guarantees. The Integrated Resource Plan (IRP) 2025 projects 33 GW
+of new capacity by 2030 (27 GW from renewables and storage). South Africa’s Climate Investment Fund (CIF) Accelerating
+Coal Transition Investment Plan carries a total financing envelope of US$2.6 billion (US$500 million from CIF in
+concessional/grant financing), leveraging multilateral development banks (MDBs) and private capital.
+
+
+
+                      Official Use Only                                                                               Page 2
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+12.      Transmission is the principal bottleneck to scaling renewables, with congestion—especially north-south—
+limiting connections needed ahead of coal decommissioning. The Transmission Development Plan (TDP) 2024 estimates
+about US$25 billion in investment by 2034, to be financed via Eskom/NTCSA balance sheets and independent transmission
+projects (ITPs). To bolster the bankability of ITPs, the framework draws on ERAA principles, the 2025 Transmission
+Infrastructure Regulations of the Department of Electricity and Energy (DEE), NERSA’s forthcoming Cost Recovery Rules,
+and standardized contracts. Given NTCSA’s nascent credit profile and the phase-out of sovereign guarantees, additional
+credit enhancement is likely required to attract private investment.
+13.      In addition, growing investment needs in generation, distribution, and storage infrastructure for the energy
+transition require private sector participation. The IRP 2025 aims to add, for the next five years, 27 GW of renewable
+energy and storage capacity, for which PCM will account for a substantial portion, but without proper mitigation of
+NTCSA’s offtake risk, the market appetite may be constrained. South Africa is also taking forward a reform agenda in the
+distribution sector, which is exposed to increasing distributed renewable energy and operational inefficiency, with
+substantial investment needs. Risk mitigation measures for creditworthiness of distribution companies are critical to
+mobilize private capital to fill the financing gap in the distribution sector.
+14.      Similar to the electricity sector, the transport and logistics sector, dominated by the Transnet SOE, has also been
+undergoing changes prompted by poor performance and legacy issues that have hurt the economy. South Africa’s freight
+logistics system—centered on Transnet’s state-owned rail and port operations—has struggled with declining performance
+that has shifted freight from rail to costlier, more polluting roads, undermining export competitiveness. Aggregate rail
+volumes fell from 226 million tons in 2017/18 to 151 million tons in 2023/24, with export coal volumes at their lowest
+since 1993 and iron ore at a decade low. Container terminals in Durban and Ngqura ranked among the worst globally,
+while Transnet’s financial health deteriorated to a net loss of about US$500 million in 2021. The failures are attributed to
+underinvestment, poor maintenance, theft and vandalism, and operational inefficiencies, costing the economy an
+estimated 7.4 percent of GDP in 2022.
+15.       In response, the Government adopted a Freight Logistics Reform Roadmap in December 2023, supported by the
+World Bank, to unbundle Transnet and strengthen regulation. The Transport Economic Regulator Act (June 2024) and an
+official rail network statement (December 2024) established a framework for competitive, non-discriminatory access, with
+the transport economic regulator overseeing slot allocation and pricing, access and compliance, and dispute resolution.
+By September 2025, 11 private operators were granted rail slots, and Requests for Information (RFIs) were issued for five
+PPP concessions for main lines and the Durban and Cape Town ports. Transnet received ZAR 98 billion (about US$6 billion)
+in rescue financing in 2024/25, conditional on improvements in balance sheet strength, operational efficiency, workforce
+engagement, and governance.
+16.      Looking ahead, restoring rail and port performance to 250 million tons per year will require US$10–12 billion—
+funding needs that cannot be met by the public sector alone. Mobilizing private capital at scale is therefore essential to
+clear maintenance backlogs, renew and maintain rolling stock, and protect assets against theft and vandalism, with priority
+on security‑critical corridors. To crowd in private investment, the Government must strengthen delivery capacity;
+streamline procurement to reduce delays and risk; and break the vicious cycle in which underinvestment reduces
+availability, erodes revenues, and further constrains investment. Well-structured PPPs, transparent tariff and access
+regimes, and bankable concession frameworks will be key to aligning risk‑return profiles and unlocking long‑term
+financing.
+17.     The water supply and sanitation sector is undergoing significant reforms to enable private sector participation
+amid severe service gaps. Currently, 46 percent of households lack safely managed water supply and 49 percent lack
+safely managed sanitation, with the most acute needs in informal settlements and rural areas. Non-revenue water loss
+stands at 41 percent—both technical and financial—costing municipalities about ZAR 10 billion annually. These
+vulnerabilities contributed to Cape Town’s ‘Day Zero’ crisis (2015–2018), when drought, underfunded and aging
+
+                      Official Use Only                                                                               Page 3
+           The World Bank
+           Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+infrastructure, high consumption, and climate change combined to reduce water levels, causing an estimated economic
+impact of 3.4 percent of provincial GDP and 37,000 jobs lost.
+18.      To address these challenges and mobilize private capital, the Government has advanced several critical reforms.
+It established the National Water Infrastructure Agency by consolidating the Water Trading Agency and the Trans-Caledon
+Tunnel Authority—South Africa’s main water financing body—to drive PPPs for large water infrastructure. The Water
+Services Amendment Bill, brought on October 3, 2025, before Parliament, requires all water service providers to be
+registered and licensed, including private operators. Additionally, the Department of Water and Sanitation created the
+Water Partnerships Office in 2023 to promote PPPs across programs such as non-revenue water reduction, wastewater
+reuse, and desalination. The Government of South Africa (GSA) has taken several steps to support a more conducive
+environment and a systematic review of the infrastructure delivery landscape.
+19.      SA’s financial sector is large and sophisticated—around 300 percent of GDP—with banks at 118 percent and
+institutional investors at roughly 160 percent (pension funds approximately 92 percent and insurance approximately 68
+percent), yet institutional investors allocate only about 5–7 percent of assets to domestic infrastructure, far below peer
+exposures of roughly 35 percent, reflecting a scarcity of long-term, investable domestic assets and a preference for
+government debt, listed equities, and foreign holdings. To unlock more local capital, the NT has advanced enabling
+policies: Regulation 28 was amended to permit up to 45 percent of institutional portfolios in infrastructure, and tax
+incentives are under consideration for vehicles such as infrastructure debt funds and infrastructure Real Estate Investment
+Trusts (REITs).
+20.      Sector reforms must be complemented by credible de-risking solutions until sector and SOE reforms build a
+strong performance track record. Today, PCM at scale for infrastructure requires market instruments to mitigate and
+price risk, to move away from existing practices of cost-free sovereign guarantees, which concentrate financing in
+programs like REIPPPP and strain fiscal and contingent liabilities. The Government is exploring market-based de-risking—
+potentially via specialized credit-guarantee vehicles drawing on global experience—to crowd in institutional investors, and
+with an estimated US$573 billion in institutional assets, a 1 percentage point reallocation to infrastructure could mobilize
+about US$5 billion.
+
+    C. Relevance to Higher Level Objectives
+
+21.     The GSA has targeted investment of 30 percent of GDP according to its National Development Plan and National
+Infrastructure Plan (2022). However, total investment spending has fallen from nearly 30 percent of GDP in the early
+1980s to approximately 15 percent since 2022 (of which 4.1 percent public sector investment and 10.8 percent is private
+sector investment). The GSA, through Operation Vulindlela, has prioritized reforms in the electricity, water, and freight
+transport sectors, because of their potentially high impact on economic growth (Operation Vulindlela 20201; State of
+Nation 20222). The Minister of Finance prioritized the need for mobilizing private capital, including mobilizing institutional
+investors for infrastructure finance (Budget Speech on March 12, 2025; Medium-Term Budget Policy Statement Speech
+November 2025).
+22.      The GSA has tightened its emission targets and expanded its adaptation goals in its updated NDC (2025). The
+NDC 2025 is shaped by the Climate Change Act of 2024 and has sharpened its emission targets to be in a the range of 320
+to 380 MtCO2eq in 2035, and net zero by 2050. Currently, carbon emissions in SA are 519 MtCO 2e. It also stated that
+resilient infrastructure is an important national adaptation goal. The IRP 2025 plays an important role as it outlines the
+transition to cleaner energy with less coal and more renewable energy.
+
+
+
+1
+    Link to Operation Vulindlela 2022
+2
+    Link to State of the Nation 2022
+                          Official Use Only                                                                             Page 4
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+23.      The World Bank Group (WBG) strongly supports infrastructure investment in SA. First, Focus Area 3 of the
+Country Partnership Framework (CPF) FY22–263 aims at improving the infrastructure investment framework and selected
+infrastructure services. It is expected that the new CPF will also focus on investments in infrastructure to support economic
+growth and social development. Second, the SA Climate Change and Development Report (World Bank 2022)4 outlines a
+strategy for achieving a just transition toward a low-carbon and climate-resilient society. It emphasizes the need for
+investment to mitigate the impact of climate change and create new job opportunities. Third, the South African Drivers of
+Growth Report (World Bank 2025)5 outlines that SA’s growth is driven by delivering high-quality and affordable
+infrastructure services, among other drivers.
+
+    D. Multiphase Programmatic Approach
+
+(i) Rationale for Using MPA
+24.      The Multiphase Programmatic Approach (MPA) delivers quick wins while laying the groundwork for deeper
+reforms. An early priority is the establishment of a Credit Guarantee Vehicle (CGV) to de-risk transactions, reduce
+perceived credit risks, and crowd in private capital—particularly for new models such as the independent transmission
+program. Subsequent phases target enhancement of a viability gap fund (VGF) to bridge the affordability gap and co-
+investment platform to mobilize domestic and global institutional investors. This will be done while advancing
+complementary, medium-term reforms, including updates to the PPP law, clearer institutional mandates, a consolidated
+infrastructure-financing agency, strengthened project preparation, an expanded project pipeline, and scaled risk
+mitigation instruments. The sequencing is intentionally logical and adaptive, enabling early results that signal credibility
+to markets.
+25.     The MPA is designed to tackle SA’s systemic infrastructure-finance weaknesses through sequenced structural
+reforms and targeted financial innovation. It enables near-term actions—building on Development Policy Loan (DPL)-
+supported reforms—while supporting a phased transformation of the infrastructure ecosystem, avoiding an
+unmanageable ‘big-bang’ approach. By allowing the GSA to borrow in phases, the MPA accommodates the long-term
+nature of the infrastructure finance agenda without exerting undue pressure to rapidly utilize the facility; notably, it
+mitigates the risk of paying commitment fees on unused balances after four years by aligning disbursements with
+readiness and need.
+26.      A stand-alone operation would be insufficient for challenges rooted in regulatory, institutional, and market
+failures. The MPA’s phased design provides a structured yet flexible framework for iterative learning, adaptation, and
+course correction. By structuring interventions in phases, the Program incorporates feedback, responds to unforeseen
+challenges, and makes course corrections as needed—reducing implementation risk and the chance of large-scale failure.
+Each phase builds on the successes and lessons of the previous one, ensuring reforms and investments are sequenced to
+maximize impact, sustainability, and ultimately deliver more transformative outcomes.
+(ii) Program Results Chain
+27.     The Program results chain illustrates how the combination of targeted activities is expected to drive
+transformative outcomes in South Africa’s infrastructure sectors. By mapping the Theory of Change, this section clarifies
+the pathways through which the Program mobilizes private capital, creates jobs, and enhances climate resilience.
+
+
+
+
+3
+  Link to Country Partnership Framework FY22-26
+4
+  Link to South African Climate Change and Development Report 2022
+5
+  Link to South African Drivers of Growth Report 2025
+                      Official Use Only                                                                                Page 5
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+                                                Figure 1. Theory of Change
+
+
+
+
+(iii) Program Development Objective with Key Program DO indictors with Baselines and End Targets
+28.      The Program Development Objective (PrDO) is to mobilize capital for infrastructure investment in SA. The
+Program will mobilize public resources, private capital, DFIs, and concessional resources to invest in resilient
+infrastructure. This will create jobs during construction and support long-term employment through improved service
+delivery, reduce carbon emissions, and deliver resilient infrastructure services to South African citizens and businesses.
+The success of the Program will be measured through three PrDO-level indicators.
+                                              Table 1. PrDO-Level Indicators
+                 Level                PrDO-Level Indicators                     Baseline        Target
+                   1     Amount of Capital Mobilized (US$, billions)               0              10
+                   2     Number of More and Better Jobs created (number)           0           997,828
+                   3     Reduced GHG annual emissions (MtCO2e)                     0              25
+(iv) Program Framework
+29.      The MPA Program Framework consists of four phases implemented over a 10-year period, built on a sequenced,
+multiphase approach that addresses South Africa’s infrastructure-finance challenges through targeted reforms and
+financial innovation. The framework explicitly treats Private Capital Enabling (PCE) and PCM as two sides of the same
+coin—advancing upstream PCE for both the infrastructure (that is, energy, transport, and so on) and domestic financial
+sector (regulations to encourage long-term financing) through Development Policy Operations, advisory, institutional
+strengthening, and market infrastructure while deploying PCM instruments such as guarantees, viability gap funding and
+co-investment platforms in different modalities of risk sharing. These parallel tracks ensure quick wins, continuous
+learning, and adaptation while laying the groundwork for deeper sectoral transformation. Through these coordinated and
+overlapping activities, the Program creates a credible pathway for large-scale private and public investment in resilient
+infrastructure, with measurable outcomes tracked through key indicators.
+        •    Phase 1 (FY26): Establish the CGV as a programmatic approach focused on mobilizing local currency capital
+             at scale. The immediate focus is to create de-risking capacity and send a credible market signal for a pathway
+             to PCM. The establishment of the CGV will follow an approach that incorporates elements from models
+                     Official Use Only                                                                               Page 6
+The World Bank
+Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+     elsewhere, adapted to the SA context. The scale is enabled by (a) World Bank financing of risk capital rather
+     than direct financing of public assets, as the World Bank finances the GSA’s crucial junior tranche that crowds
+     in other senior investors; (b) a financing platform with a tiered capital stack, which is open to investors with
+     different risk appetites participating in different tranches and thereby enables scalable solutions through
+     participation from public and private sector partners in different parts of the capital stack (including
+     International Finance Corporation [IFC]) and risk transfer capacity (including Multilateral Investment
+     Guarantee Agency [MIGA]), to convene development finance resources efficiently and bring scale; (c) a shift
+     away from transaction-specific guarantees to a ‘wholesale’ model; (b) coordination with parallel ongoing
+     sector development policy and institutional capacity initiatives to address key bottlenecks; and (e) building
+     of domestic institutional capacity in SA through the CGV that is sustainable beyond the duration of the World
+     Bank project.
+     IBRD will deploy US$338.82 million through an Investment Project Financing (IPF) to enable the NT to finance
+     risk capital (for example, junior equity). This will support capitalization of the CGV, which requires a total
+     initial capital base of US$500 million to mobilize up to US$2 billion in private infrastructure investment across
+     eligible sectors, and the development of a project pipeline. The exact amount of capital used for the CGV’s
+     start-up will depend on the confirmed capital participation of development partners; their commitments will
+     determine how much of the US$500 million is contributed at inception. The remainder will be used for initial
+     scaling of the CGV. A dedicated pipeline development window will be embedded within the Development
+     Bank of Southern Africa (DBSA) to accelerate early-stage project readiness, improve bankability, and
+     standardize risk assessment frameworks for transactions that require derisking by the CGV.
+•    Phase 2 (FY27): Strengthen the BFI and expand the pipeline. Building on the foundation of Phase 1 and in
+     parallel with the implementation of upstream reforms, for example, implementation of the PPP framework
+     and establishment of IFISA, the Program will further improve project quality and ensure a scalable pipeline
+     of bankable assets suitable for CGV-backed transactions. Approximately US$250 million will be required to
+     support the transformation of the BFI into a more effective and scalable VGF to support projects or sectors
+     that may not be fully commercially viable, therefore helping create a larger pipeline, with clear mandate,
+     governance, and allocation rules, and this would potentially be supported through an IBRD P4R or IPF.
+     Concurrently, the operation will scale up and standardize project preparation practices across priority
+     sectors, strengthening appraisal methodologies, procurement readiness, and environmental and social (E&S)
+     due diligence, thereby reducing time-to-close and increasing investor confidence.
+•    Phase 3 (FY31): CGV capital increase and partner mobilization. To further scale the de-risking capacity and
+     accommodate larger, more complex transactions, the Program will provide an additional US$161.12 million
+     to the NT for a follow-on capital injection into the CGV, contingent on satisfactory performance and
+     governance outcomes. In parallel, the Program will mobilize development finance institutions (DFIs) and
+     climate funds to broaden the capital base and diversify risk sharing, targeting a cumulative approximately
+     US$10 billion project pipeline. This phase will also focus on harmonizing guarantee products, pricing policies,
+     and eligibility criteria, while expanding collaboration with commercial lenders and institutional investors to
+     crowd in private capital at scale.
+•    Phase 4 (Post-FY31): Establish a layered-risk co-investment vehicle. Subject to the success of earlier phases,
+     for example, the CGV, the maturity of the project pipeline, and prevailing market needs, a government-
+     backed co-investment platform with risk-tiered capital structures will be launched with an initial US$250
+     million deployment. This layered-risk vehicle is designed to complement the CGV and VGF instruments by
+     providing equity and quasi-equity for strategic, higher-risk, or large-scale infrastructure projects. The
+     platform will be structured to crowd in domestic and global institutional investors by offering appropriate
+
+             Official Use Only                                                                                  Page 7
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+                risk tranching and governance safeguards, thereby deepening local capital markets and supporting long-term
+                financing for transformative infrastructure.
+30.       It is expected that this potentially transformative and innovative approach may have replicability possibilities.
+(v) Learning Agenda
+31.      The MPA allows for an agile way to learn and adapt during implementation over multiple phases. The MPA
+facilitates agile learning and adaptation during implementation, strengthening both government and private sector
+capacity to achieve the PrDOs more effectively than stand-alone IPF or Program for Results (PforR) approaches. In table
+2, key policy questions are formulated, including indicative methodologies and estimated costs, and the expected learning
+outcomes.
+32.     The MPA could potentially support the development of the South African Country Platform (SACP). This is
+currently being ideated by the Presidential Climate Committee and built around four principles: strong country ownership
+and sector policy reforms; clear, programmatic investment needs with linked upstream/downstream activities and
+suitable financing modalities; coordinated mobilization of MDB/DFI financing to crowd in private capital and support jobs
+(drawing on the Just Energy Transition Project Management Unit); and robust transparency and accountability through
+engagement mechanisms. However, it is still too early to determine the implications of the SACP for the MPA.
+                                        Table 2. Policy Questions to Steering the Learning Agenda
+     #     Key Policy Questions       Indicative Methodology, Estimated Cost, Responsibility, Finance       How Policy Question Will Fill the
+                                                                   Source6                                       Learning Gap and PrDO
+ 1       What is the demand for       Conduct market sounding per type of guarantee product               Understand the demand for CGV
+         CGV guarantees?              (responsibility: CGV; amount: US$25,000; source: going concern).    guarantees and their impact on the
+                                                                                                          business plan.
+ 2       How to price the CGV         Run a financial model to determine the price of the CGV             Understand the pricing of the CGV
+         guarantees to ensure         guarantee (responsibility: CGV; amount: US$25,000; source:          guarantees and their impact on the
+         sustainability and market    going concern).                                                     business plan.
+         uptake?
+ 3       How to manage the risks      Assess the efficacy of legal instruments such as counter-           Understand the efficacy of risk
+         of the CGV guarantee?        indemnity, subrogation, and cession (responsibility: CGV; amount    management of CGV guarantees and
+                                      US$25,000; source: going concern).                                  their impact on the business plan.
+ 4       How to scale the CGV and     (a) Run a financial model to assess if returns are sufficient to    Understand how to mobilize local and
+         transition the shareholder   mobilize private investors and update the financial model           global investors for resilient
+         structure from               (responsibility: CGV; amount: US$100,000; source: going             infrastructure.
+         development partners to      concern); (b) explore transition strategies to exit development
+         local and global private     partners and enter private investors (responsibility CGV; amount
+         sector investors?            US$100,000; source: going concern).
+ 5       How to scale the BFI and     Explore how the BFI could be transformed to mobilize private        Understand how to mobilize private
+         mobilize private capital?    capital (responsibility NT; amount US$ 100,000; source: grant       capital for resilient infrastructure.
+                                      TBC).
+ 6       How can financing            Assess the effectiveness of the CGV and the BFI to mobilize         Understand what is needed to
+         vehicles mobilize            institutional investors and development finance vehicles that       mobilize capital from institutional
+         institutional investors to   could support (responsibility NT; amount US$250,000; source:        investors for resilient infrastructure.
+         invest in infrastructure?    grant TBC).
+ 7       How can project delivery     Evaluate how strengthening project delivery can increase capital    Understand what is needed to
+         be further strengthened?     mobilization (responsibility: NT; amount US$100,000; source:        strengthen project delivery.
+                                      grant TBC).
+ 8       How can the MPA support      Explore how the MPA could support the GSA’s intention to            Understand how the MPA can support
+         the country platform?        develop a country platform to mobilize capital for infrastructure   the country platform.
+                                      and job creation (responsibility: NT; amount US$50,000; source:
+                                      grant TBC).
+
+6 The learning agenda is financed at US$775,000 through Phase 1 of the MPA under Component 3 (project coordination and implementation).
+
+
+                           Official Use Only                                                                                                  Page 8
+        The World Bank
+        Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+
+                                                                       Table 3. MPA Program Framework
+
+                                                                                         Estimated                          Estimated                   Estimated
+                                                       Phase’s                                             Estimated                      Estimated
+                    Operation        Sequential or                                       IBRD                               Other                       Environmental
+   Phase #                                             Proposed          IPF or PforR                      IDA Amount                     Approval
+                    ID               Simultaneous                                        Amount                             Amount                      & Social Risk
+                                                       DO*                                                 ($ million)                    Date
+                                                                                         ($ million)                        ($ million)                 Rating
+                                     Initial           Establish
+           1        P508930                            and initial       IPF                      338.82      0.00           3,500.00         FY26          High
+                                                       scale CGV
+                                     Simultaneous      Build Project
+                                                       Pipeline and                                                            0.00          FY27           High
+           2                                                             P4R/IPF                  250.00      0.00
+                                                       enhance
+                                                       VGF
+                                     Sequential to     Further                                                               6,500.00         FY31          High
+           3                                                             IPF                      161.18      0.00
+                                     Phase 1           Scale CGV
+                                     Sequential to     Establish Co-
+           4                         Phase 2           investment        IPF                      250.00      0.00             0.00       Beyond FY31       High
+                                                       platform
+
+   Total                                                                                     1,000.00                0.00    10,000.00
+
+                                                           Total Program Envelope                                           $ 11,000.00
+
+                                               Board Approved Financing Envelope                                             $ 1,000.00
+
+
+Note: Amounts in the ‘Other’ column indicate the GSA, partners, and private sector investments.
+
+
+
+
+                       Official Use Only                                                                                                                           Page 9
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+    II. PROJECT DESCRIPTION
+    A. Project Development Objective (PDO)
+       (i) PDO Statement
+33.    The PDO of the first phase of the MPA is to establish a Credit Guarantee Vehicle to mobilize capital for
+investment in resilient infrastructure. The first phase of the MPA will establish a CGV as the first instrument of the Blended
+Finance Platform to mobilize capital including private capital, public capital, capital from development partners, and
+concessional resources for investment in critical and resilient infrastructure such as electricity, transport and logistics, and
+water and sanitation sectors, to create jobs, reduce carbon emissions, and deliver infrastructure services for citizens and
+businesses.
+          (ii) PDO Level Indicators
+34.       The success of the first phase of the Program will be measured through three PDO-level indicators.
+          (a)   The first PDO-level indicator is the amount of capital mobilized for resilient infrastructure finance. The
+                baseline is zero and the end target is US$4.5 billion (after five years), of which US$3.5 private capital
+                mobilized and US$1 billion capital mobilized from development partners.
+          (b)   The second PDO-level indicator is the number of direct and indirect jobs created within the scope of the
+                resilient infrastructure (related) projects. The baseline is zero and the end target is 218,890 (after five years).
+          (c)   The third PDO-level indicator is the amount of GHG emissions reduced. The baseline is zero and the end
+                target is 14.95 MtCO2e per year (after five years).
+
+    B. Project Components
+
+35.       The project will have three components.
+36.      Component 1: Capitalization of the Credit Guarantee Vehicle (US$368.82 million in total, of which US$338.82
+from IBRD and US$30 million financing gap). This component will fund the GSA equity participation via the NT in the CGV
+in three tranches: (a) US$5 million in start-up capital, (b) US$95 million for initial capitalization, and (c) US$268.82 million
+for scale-up capitalization7. The initial CGV’s capital structure is set at US$500 million and will be as follows: (a) a tier of
+junior capital (first loss) for up to 40 percent of the total capital of the CGV (US$200 million), (b) a tier of senior capital for
+up to 30 percent of the total (up to US$150 million), and (c) a tier of callable capital for up to 30 percent (up to US$150
+million). The amount of US$100 million of the IBRD loan will be used for the GSA’s initial equity participation in the CGV
+and will cover the junior capital tier (first loss). NT plans to seek US$ 30 million of additional concessional financing from
+the Clean Technology Fund to close the financing gap for the junior capital tranche of the CGV. The remaining part of
+US$300 million of the initial capital is expected to be subscribed by domestic, regional, and international DFIs, specialized
+development funds, and philanthropic funds. The US$5 million start-up cost of the CGV allows for the operationalization
+of the CGV and project preparation. As of January 2026, it is expected that a group of development partners will participate
+in the equity for an indicative conditional amount of US$460 million which is more than expected. The operationalization
+includes hiring and developing a professional management team, developing a business plan, establishing a governance
+structure, and defining an operating model. Project pipeline development includes final and legal due diligence part of the
+project preparation. The proposed capital structure may be revised based on commitments from development partners
+and project pipeline readiness.
+
+
+7
+ The disbursement profile is a forecast. Contractually, there are only two tranches (tranche 1 of US$ 5 million; and tranches 2 of US$
+363 million); This means that what is described in paragraph 36 as tranches 2 of US$ 95 million and tranche 3 of US$268.82 million
+could be withdrawn together.
+                        Official Use Only                                                                                       Page 10
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+37.      Component 2: Project Pipeline Development (US$7,930,000 from the Livable Planet Fund [LPF]). This
+component will finance the development of the project pipeline for the CGV. This includes client engagement; preliminary
+risk assessment; (pre)feasibility studies; and legal, financial, and operational structuring of projects. The DBSA will be the
+implementer of this component.
+38.     Component 3: Project Coordination and Implementation (US$3,250,000 from LPF). Project coordination and
+implementation will be carried out by the Project Implementation Unit (PIU), which will be housed at the DBSA, as it has
+been mandated by the NT. The PIU will perform fiduciary, safeguards, and monitoring and evaluation (M&E) functions
+throughout the life cycle of the project; provide operational support to establish the CGV; develop a gender action plan
+(see section gender), and execute the learning agenda of the MPA (see table 4).
+                                         Table 4. Overview Components and Financing Sources (US$)
+                           Components                                            IBRD                           LPF8                     Total
+  C1     Capitalization of the Credit Guarantee Vehicle                       338,820,000                        —                    338,820,000
+  C2     Project Pipeline Development                                              —                         7,930,000                 7,930,000
+  C3     Project Coordination and Implementation                                   —                         3,250,000                 3,250,000
+                                                               Total          338,820,000                   11,180,000                350,000,000
+                                              Figure 2. CGV Overall Structure and Business Model
+
+
+
+
+39.      The CGV will initiate operations in its first phase with a capital structure of US$ 500 million (of which IBRD will
+finance initially US$100 million), which can leverage up to four times its capital base, mobilizing US$2 billion of private
+capital. It is expected that the CGV, in its initial years, could allow the issuance of credit guarantees for an estimated four
+
+8 The LPF supports the Republic of South Africa’s efforts to mitigate greenhouse gas (GHG) emissions in recognition of climate change as a global
+
+challenge with cross-border externalities. In furtherance of these objectives, the grant is intended to buy down the expected return on the GSA’s
+junior equity investment in the CGV, thereby reducing the CGV’s overall cost of capital and enhancing its ability to support projects with significant
+climate change mitigation potential. The arrangements between the recipient and the CGV will be set out in a Subsidiary Agreement (including the
+shareholder subscription terms). The LPF grant amount of US$11,184,325 (rounded US$11,180,000) is the present value of price discount of
+US$18.75 million where it is assumed that there is (a) a grace period of three years, (b) a final majority of 16 years, (c) an initial disbursement of 100
+percent by the end of 2026. The interest buydown resulted in junior equity internal rate of return (IRR) of 4.79 percent where the IRR before
+interest the buydown was 5.15 percent for the amount of US$ 338.82 million.
+                           Official Use Only                                                                                                      Page 11
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+times the capital base, which will enable the issuance of up to US$2 billion of credit guarantees to mobilize private capital
+to finance infrastructure projects (see details on the project pipeline in paragraph 41). This leverage of 4 (that is, the
+amount of credit guarantees it can underwrite with a given capital structure) is a function of the credit quality of the
+portfolio and the duration coverage of the credit guarantee. It is also expected that the CGV will make use of risk transfer
+lines, which will increase the leverage of the CGV by sharing some of the risks underwritten in the underlying projects.
+Based on international experience, it is expected that a leverage of 4 is achievable.
+40.      The CGV is expected to scale up its capital base from US$500 million to US$2.5 billion, as demand for credit
+guarantees increases, enabling US$10 billion of private capital to invest in infrastructure.9 Subject to the ramp-up period
+of the CGV and the development of the potential infrastructure pipeline in SA, the CGV’s business plan expects a capital
+increase of US$2 billion. It is also expected that the CGV, after establishing a track record and achieving positive financial
+results, will provide an exit strategy for some development partners to be replaced with private investors with an interest
+in SA’s financial markets.
+                                                           Table 5. CGV Capitalization10
+                                                                 MPA Phase 1                                      MPA Phase 3
+                                          Start-Up              Initial                 Scale-Up                   Scale-Up                  Total
+                                           Capital           Capitalization          Capitalization b            Capitalization
+  GSA equity financed through            US$5 million        US$95 million          US$268.82 million            US$150 million            US$518
+  IBRD                                                                                                                                     million
+  Development partners,                         -            US$400 million         US$731.18 million            US$850 million           US$1.982
+  private investors, retained                                                                                                              billion
+  earnings
+  Incremental capital CGV                US$5 million        US$495 million             US$1 billion               US$1 billion                -
+  Total capital CGV                      US$5 million        US$500 million            US$1.5 billion             US$2.5 billion               -
+  (accumulative)
+  Private Capital Mobilized                     -              US$2 billion            US$3.5 billion             US$10 billion                -
+  (accumulative; leverage
+  between 2 and 4)a
+ Note: a. Leverage of 4 assumes 100 percent credit guarantee coverage.
+ b. The capital increase is practically triggered by the increase of the guarantee exposure.
+
+41.      The CGV has an indicative project pipeline of US$10 billion for the next five years. Out of a US$30 billion worth
+PPP project pipeline that was identified through market assessment during project preparation, an indicative pipeline for
+the CGV has been short-listed based on national/subnational strategic priorities, sector reform progress, and
+implementation readiness. The CGV pipeline includes US$5 billion in electricity generation and transmission, US$3 billion
+in bulk water supply and municipal water treatment and desalination, and US$2 billion in transport and logistics. The GSA
+has selected seven ITP transactions as the first strategic priority. The NT and DEE, with the support of its transaction
+advisers, are currently working on preparing the first ITP transactions for tender, including ensuring their bankability.
+Initial market sounding indicated that there is strong market demand for payment and termination guarantees. A draft
+
+9 Capital increases in a credit guarantee corporation are a function of (a) the use of the capital due to potential claims on the credit guarantees
+
+(that is, credit guarantees are unfunded products until the time of their realized disbursement due to an event of default) and (b) when there is a
+need to expand the project portfolio (that is, the amount of underwritten exposure), keeping adequate levels of risk management (that is, leverage
+ratios of the capital base). In the case of the CGV in South Africa, considering (a) the growth in the project pipeline for sustainable infrastructure,
+(b) the maintenance of a healthy leverage ratio of the CGV's capital base (that is, keeping the AAA local credit rating), and (c) the establishment of a
+commercially viable entity generating net income, the financial analysis models an initial capital base of US$500 million and two subsequent capital
+increases for 12 years. As the CGV enters into a period of proven track record and robust earnings, development partners as shareholders will have
+an exit strategy and be replaced by private investors.
+10 The amount of capitalization of the CGV from start-up to scale-up are indicative, as it depends on the readiness of the project pipeline and the
+
+capital participation of development partners.
+                           Official Use Only                                                                                                       Page 12
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+Request for Proposal (RFP) has been issued on December 15, 2025, which included market sounding questions around the
+scope, coverage, and characteristics of guarantees. The RFP is planned to be issued in Q3 of 2026. The GSA foresees that
+these transactions may need credit enhancement from the CGV. The CGV’s risk portfolio is expected to grow steadily
+through to 2030, with sectoral diversification that allows increasing leverage over time. The capital of the CGV will be
+scaled up in phases along with its exposure growth. During implementation, the CGV pipeline development will be
+supported under Component 2. The CGV pipeline will be continuously reassessed and updated as appropriate to reflect
+the progress of pipeline development and key sector reforms.
+                                              Table 6. CGV Indicative Pipeline
+  Year                  Project                    Capex         Sector           Public Sector         Project Readiness
+                                                (US$ Billion)                      Authority
+ 2026 ITP - Phase 1                                   0.5       Electricity         NTCSA          Request for Qualification
+                                                                                                   (RFQ) in July 2025; RFP
+                                                                                                   Planned Q3 2026
+ 2028 ITP - Phase 2                                    1.0      Electricity          NTCSA         In preparation by the
+                                                                                                   Independent Power Producer
+                                                                                                   Office (IPPO)
+ 2029 Repowering Camden, Hendrina,                     2.0      Electricity          NTCSA         In preparation by Eskom
+      Groovlei, Arnot, and Kriel
+ 2030 ITP - Phase 3                                    1.5      Electricity         NTCSA       In preparation by IPPO
+ 2027 Paarden Eiland Desalination Plant                0.3        Water       City of Cape Town Ongoing financial structuring;
+                                                                                                exploring municipal PPP
+                                                                                                  options
+ 2027 KwaMashu Wastewater Treatment                    0.7        Water       Ethekwini, Durban In preparation as municipal
+      Works                                                                                           PPP
+ 2028 uMkhomazi WaterProject                           1.5        Water       uMngeni-uThukela In implementation
+                                                                                 Water Board
+ 2029 uMkomaas Wastewater Treatment                    0.2        Water       Ethekwini, Durban In preparation
+      Plant PPP
+ 2029 Athlone Wastewater Treatment                     0.3        Water       City of Cape Town In preparation
+      Capacity Expansion
+ 2029 Northeast/Central/Cape Corridor                  0.6      Transport          Transnet Rail   In preparation
+      Discrete Project                                                            Infrastructure
+                                                                                 Manager (TRIM)
+ 2029 Rolling Stock Leasing and                        1.0      Transport            Transnet      RFI launched in October 2025
+      Manufacturing
+ 2030 Cape Town Container Terminal                     0.4      Transport     Transnet National RFP in preparation
+                                                                                    Ports
+                                                                              Authority (TNPA)
+    Total:                                           10.0
+42.      The CGV project pipeline readiness depends on sector readiness. The initial focus of the CGV is de-risking projects
+in the electricity, transport, and water sectors that are moving toward sustainability. The CGV will only de-risk those
+projects that allow for private sector participation and that are considered bankable. This requires consistency between
+legislation, regulation, rules, and contractual arrangements. The CGV is considered a transitional instrument, which means
+that once the sectors are sustainable, there is no need for de-risking by the CGV. Each sector has its own pace of reform,
+with the electricity sector being the most advanced. See in table 7 an overview of the state of sector readiness and annex
+1 for more details.
+
+
+                      Official Use Only                                                                                  Page 13
+        The World Bank
+        Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+                                                   Table 7. Sector Readiness
+                  Sector                       Status December 2025                                Expectations
+  1    Electricity sector,        NTCSA legal separation (July 2024); ERAA          ITP contractual arrangements 2026 (TSA,
+       including generation,      (January 2025); Transmission Infrastructure       FSA, DLA, IA); Pricing rules 2026;
+       transmission,              Regulation (October 2025); Cost Recovery Rules    Establish TSO; NTCSA fully unbundled
+       distribution               (November 2025).                                  2029; Tariff unbundling; Electricity
+                                                                                    wholesale market 2026
+  2    Transport sector          Freight Logistic Roadmap (December 2023);          Transnet unbundling
+                                 Transport Economic Regulator Act (June 2024);
+                                 Rail network Statement (December 2024)
+  3     Water Sector             Water Partnership Office (2023); National Water Water Services Amendment Bill (2026)
+                                 Infrastructure Agency (February 2025)
+Note: DLA = Direct Lending Agreement; FSA = Facility Sharing Agreement; IA = Implementation Agreement; TSA = Transmission
+Service Agreement ; TSO = Transmission System Operator.
+
+
+ C. Project Beneficiaries
+
+43.     The direct project beneficiaries are project sponsors (equity providers) and commercial financiers through the
+special purpose vehicles (SPVs) for approximately twelve infrastructure projects. The CGV will issue priced guarantees
+that will de-risk critical project-finance risks—beginning with public off taker risk—that commercial lenders and bond
+investors are unwilling to assume, and which currently constrain private capital mobilization.
+44.      The ultimate beneficiaries from the project are the end users of infrastructure services. The CGV allows PCM
+from project sponsors and commercial lenders, as they would otherwise be reluctant to finance infrastructure projects.
+The delivery of infrastructure projects will allow citizens and businesses—the ultimate beneficiaries—to make use of
+infrastructure services.
+
+ D. Rationale for Bank Involvement and Role of Partners
+
+45.      The project benefits from the One WBG Approach. The integrated deployment of IBRD, IFC, and MIGA
+instruments enables risk allocation across institutional balance sheets in ways that no single instrument could achieve
+independently. IFC and MIGA involvement also gives confidence (due diligence, reputation) to crowd in other local and
+international investors. The project benefits directly from IBRD’s financial and technical capabilities of different global
+practices, IFC’s financial and technical support, including equity participation and the catalyzation of other investors, as
+well as MIGA’s ability to share risks of the CGV and create further leverage, and provide technical underwriting capacity.
+The technical design of the CGV has been developed by IBRD in close collaboration with IFC and MIGA through the Joint
+Capital Markets Program/Sustainable Finance Facility (JCAP/SFF) funded by the State Secretariat for Economic Affairs
+(SECO). It supported the development of the CGV’s institutional capacity, by conducting legal and financial due diligence,
+and the development of a business plan, providing a clear framework for its operations. It is also supporting the
+development of the project pipeline, including the bankability of ITPs. Further work is needed to ensure that the CGV is
+legally sound and financially sustainable and that the ITPs are bankable.
+46.     The project also benefits from strategic partnerships with development partners. A bespoke approach has been
+adopted to mobilize development partners over 1.5 years (initial conversations with a range of development partners, the
+formal invitation from the Minister of Finance, the issuance of an Information Memorandum, and deep dives with seven
+development partners that indicated they were interested in participating in the first phase of the CGV). Based on
+extensive consultation, it is highly likely that sufficient capital will be mobilized to reach US$500 million. In the event that
+US$500 million is not collectively reached, there is room to increase the portion of the NT while capping voting rights and
+adjusting the governance structure.
+                      Official Use Only                                                                                  Page 14
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+47.      The project is also working in conjunction with a range of complementary instruments from the World Bank
+and IFC. First, the Infrastructure Modernization Development Policy Loan, approved in FY25, supported the GSA’s efforts
+to (a) advance the restructuring of the power sector to enhance long-term energy supply; (b) initiate the restructuring of
+the transport and logistics sector (with a focus on freight); and (c) promote a transition to a low-carbon economy. Second,
+the Metro Trading Services Program-for-Results, approved in FY26, aims to improve the performance of water and
+sanitation, electricity, and solid waste management trading services in SA’s metropolitan municipalities. Third, the Eskom
+Just Energy Transition Project, an IPF, aims to support Eskom in piloting the decommissioning of coal-fired power
+generation, repurposing the project areas with clean energy sources, and creating opportunities for workers and
+communities. Fourth, the World Bank, IFC, and the African Development Bank (ADB) are jointly developing the Repowering
+Energy Systems for Energy Transition (RESET) MPA to enable repowering of coal plants with new renewable energy and
+create new jobs in select communities and municipalities in Mpumalanga province using concessional climate finance
+from CIF ACT. Fifth, IFC has been supporting the development of ITP Regulations. Together with this MPA, these
+engagements create an integrated One WBG platform that strengthens the enabling environment, mobilizes private
+investment, and supports a just transition. Lastly, the World Bank/IFC has been supporting financial sector development
+through the JCAP/SFF funded by SECO, that was instrumental to the development of the CGV as an innovative instrument,
+as well as supporting the development of the enabling environment, for example, the PPP framework.
+
+ E. Lessons Learned and Progress on Learning Agenda
+
+48.      The CGV design draws on World Bank analytical work reviewing 19 international experiences and select
+operations, including Nigeria, Indonesia, and India, adapted to South Africa.11 Nigeria’s InfraCredit (2017) provided
+unconditional, irrevocable guarantees for local currency infrastructure debt, achieving 5x leverage in five years (US$178
+million capital backing US$890 million guarantees), derisking exclusively private sector risk. The Indonesia Infrastructure
+Guarantee Fund (IIGF) (2010) guaranteed payment and termination risks, issuing US$4.7 billion in guarantees and
+mobilizing US$22.3 billion in investments (approximately 5:1 leverage) over a decade, focusing exclusively on SOE de-
+risking. India’s ADB-backed partial credit guarantee (PCG) (US$128 million) supported first-loss guarantees on local
+currency bonds but was terminated in 2017 due to central bank limits on guarantee fees, underscoring the need for legal
+due diligence and enabling regulation. India’s ADB-backed PCG focus on derisking both private and public sector risk.
+Overall, leverage for such vehicles in emerging markets ranges from 2:1 to 10:1. The CGV is being established as
+multisector approach, though it is expected to start with de-risking projects in the transmission subsector. Lastly, it is
+expected that the CGV, while it benefitted greatly from the technical assistance provided, will continue to learn until it
+has demonstrated its efficacy as a de-risking instrument.
+49.      To unlock capital for infrastructure finance, there is a need to create an enabling environment, develop a project
+pipeline, and deploy more financial innovations besides the CGV. It is expected that lessons learned in the first phase
+will inform subsequent phases of the MPA.
+
+ III. IMPLEMENTATION ARRANGEMENTS
+ A. Institutional and Implementation Arrangements
+
+50.    The implementation arrangements are expected to consist of three levels: (a) the PIU; (b) the CGV; and (c) the
+SPVs, which refer to the subprojects that will be guaranteed by the CGV. Figure 3 shows the hierarchy of implementing
+arrangements.
+51.       The PIU is expected to be established within the DBSA, overseen by the NT. The NT has mandated the DBSA to
+act as its agent and establish the PIU. The PIU will perform fiduciary, environmental, and social risk management and M&E
+
+
+11 World Bank 2023. Institutional Investors and Sustainable Infrastructure. A Global Review of Case Studies to Finance the Infrastructure Gap.
+
+
+                          Official Use Only                                                                                                      Page 15
+        The World Bank
+        Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+functions throughout the life cycle of the project and will provide operational support to establish the CGV, including the
+licensing process and operationalization of the CGV. The PIU will consist of, among others, a project coordinator; a financial
+management specialist; a procurement specialist; an M&E specialist; a legal specialist; an environmental, health and
+safety, and social specialist; and a technical specialist. Of these, the project coordinator will be recruited or assigned before
+effectiveness, and the remainder will be recruited or assigned no later than three months after project effectiveness. The
+PIU will be overseen by the Infrastructure and Investment Finance Committee within the NT, chaired by the Director
+General of the NT. While the DBSA has experience with implementing internationally funded projects, it does not have
+experience with implementing IPF operations. It therefore needs to build capacity in procurement, financial management,
+E&S development safeguards, and M&E. To guide its operations, the PIU will develop a Project Operations Manual (POM).
+The first draft of the POM is already prepared and will be completed and approved before project effectiveness. The DBSA
+will receive US$2 million in grants from the Grant Facility for Project Preparation (GFPP) to start building the capacity of
+the PIU in the first quarter of 2026.
+                                       Figure 3. Hierarchy of Implementing Arrangements
+                                                                PIU
+           The PIU sits at the DBSA and will perform fiduciary, safeguards, and M&E functions throughout the project
+
+                                                            CGV
+                                 The CGV will be managed by a professional management team
+
+                                                              SPVs
+                                    SPVs (subprojects) will be receiver of guarantees of CGV
+
+
+52.       The CGV will be established as a private, non-life insurance company in South Africa, managed by an
+independent professional team. The GSA will hold a minority stake, with other initial shareholders including several DFIs,
+and capitalization will occur through equity participation. The CGV will be established in four steps. In the first step, the
+NT is expected to register the CGV with the Companies and Intellectual Property Commission (CIPC) in February 2026. In
+the second step, the NT, DBSA and identified development partners will enter into a Joint Development Agreement (JDA)
+in March 2026 to establish an independent professional management team with adequate oversight, which will prepare
+(with the support of the World Bank technical team) and submit a license application at the South African Reserve Bank
+(SARB)/Prudential Authority (PA) by March 31, 2026, to operate as a non-life insurance company. This includes preparing
+a business plan, a governance structure, and an operating model. In the third step, the management team will work toward
+implementation of the CGV and the potential shareholders of the CGV will formally secure their equity participation in the
+second quarter of 2026, as they will receive formal commitments from the boards of their respective DFIs. In the fourth
+step, it is expected that the CGV will be fully operational and licensed to issue guarantees by the second half of 2026.
+53.     The SPVs may be the buyer of the guarantees. For instance, project sponsors will be invited by the GSA to bid on
+a range of infrastructure projects, such as independent private transmission projects in the electricity transmission
+subsector. The project sponsors that win bids for these projects will enter into a concession or similar agreement with the
+relevant public sector or SOE off takers or counterparts and also mobilize commercial lenders to finance the projects. The
+sponsors are also expected to establish SPVs to serve as the project companies through which the projects will be
+implemented and which will therefore enter into the relevant project implementation contracts, for example, engineering,
+procurement, and construction and operation and maintenance contracts. The project sponsors may obtain guarantees
+from the CGV to address the risk of non-payment by the public sector or SOE off takers or counterparts under the
+concession agreements. The CGV guarantees would therefore serve to de-risk the offtaker risk and help the sponsors
+arrange better financing conditions.
+
+
+                       Official Use Only                                                                                  Page 16
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+54.      There will be a range of IBRD loan-related agreements, of which six are key. First, the loan agreement between
+the Republic of South Africa as the borrower (represented by the NT) and IBRD will provide for the IBRD loan. The IBRD
+loan will primarily be used to finance the capitalization of the CGV (under Component 1). Second, IBRD will enter into a
+project agreement with the CGV, which will set out certain rights and obligations in relation to the operation of the CGV.
+Third, IBRD will enter into a project agreement with the DBSA, which will be responsible for project pipeline development
+and the operation of the PIU. Fourth, LPF will enter into grant agreement with DBSA as recipient of the grant amount.
+Fifth, the NT will enter into subsidiary agreement (Memorandum of Agreement) with the DBSA, which articulates the
+mandate that the NT gives to the DBSA to host the PIU, and articulates the channeling of the LPF funds. Sixth, the NT will
+enter into a subsidiary agreement (shareholder subscription agreement) under which the NT will transfer the capitalization
+funds to the CGV in exchange for its equity participation in the CGV. The first five agreements have been drafted.
+55.     Core legal agreements for operational implementation of CGV. It is expected that (a) the NT and a group of
+leading development partners will enter into a JDA that determines the steps needed to establish the CGV; (b) the NT and
+the other shareholders in the CGV will enter into an agreement governing their joint ownership of the CGV via a
+shareholder agreement; (c) each shareholder will have a direct agreement with the CGV governing its equity contribution
+to the CGV via a shareholder subscription agreement. In the GSA’s case, this direct shareholder agreement may be
+included in the subsidiary agreement described above; and (d) at the transaction level, the CGV will enter into guarantee
+and related agreements (for example, subrogation and counterindemnity) with each guarantee beneficiary, the terms and
+conditions of which will be detailed in the CGV’s operational guidelines.
+
+ B. Results Monitoring and Evaluation Arrangements
+
+56.     The PIU will have primary responsibility for the design, implementation, and continuous improvement of the
+project’s M&E system. The PIU will establish clear protocols for data collection, validation, and analysis, ensuring that all
+relevant quantitative and qualitative indicators from the operations of the CGV are systematically tracked. Regular
+reporting will be conducted on a quarterly and semiannual basis, with additional ad hoc reports triggered by specific
+events—such as when the volume of issued guarantees or claims approaches predefined risk thresholds. Key data to be
+collected will include (a) a comprehensive list of issued guarantees; (b) detailed breakdowns by sector, region, and
+beneficiary type to monitor concentration risk; (c) guarantee payouts and recoveries; and (d) other relevant operational
+metrics. The PIU will utilize digital tools and management information systems to ensure timely, accurate, and secure data
+management.
+57.     To promote learning and adaptive management, the World Bank and the PIU will jointly conduct a midterm
+review (MTR) between 24 and 36 months after the IBRD loan becomes effective. The MTR will assess progress against
+the Results Framework, identify implementation challenges, and recommend corrective actions. In addition, the PIU will
+prepare a comprehensive Implementation Completion and Results Report (ICR) during the final year of project
+implementation, to be submitted to the World Bank no later than six months after the operation’s closing date. The PIU
+will ensure that its M&E team is staffed with qualified technical and planning specialists and provide ongoing training to
+maintain high standards in data quality, analysis, and reporting. The ICR will include lessons learned, recommendations
+for sustainability, and an assessment of the achievement of project objectives.
+58.      The World Bank will conduct frequent Implementation Support Missions, which will include field visits,
+stakeholder consultations, process reviews, and verification of reported outputs. The World Bank will maintain updated
+records and documentation of project activities, ensuring transparency and accountability. Thematic areas for supervision
+and monitoring will include (a) E&S safeguards compliance, (b) regular supervision and certification of project activities,
+(c) periodic physical progress monitoring against agreed milestones, and (d) assessment of progress toward the Results
+Framework targets. The World Bank and PIU will jointly review M&E findings and use them to inform project management
+decisions, risk mitigation strategies, and stakeholder engagement.
+
+                      Official Use Only                                                                               Page 17
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+ C. Sustainability
+
+59.      The design of the CGV is to ensure its credibility, independence, and long-term business and financial
+sustainability. The CGV will be established as a new institution in the private sector, where the GSA is a significant minority
+shareholder, and will not be added to an existing institution in the public sector. The CGV will be established as a non-life
+insurer, licensed, regulated, and supervised by the SARB/PA and operating on a commercial basis while meeting prudential
+requirements. It will also establish an ESMS to address E&S risks in accordance with IFC Performance Standards. It is
+expected that the CGV will continue to operate after project closing.
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+ A. Technical, Economic, and Financial Analysis
+ Technical Analysis
+60.       The CGV is designed to mobilize private capital for infrastructure by offering market-priced credit guarantees
+to Paris-aligned infrastructure projects that backstop non-payment risks of public entities (SOEs, municipalities,
+agencies, and ministries). The public sector cannot finance this amount due to fiscal constraints, and the private sector is
+reluctant to invest without a full guarantee from the NT, which is no longer feasible as the NT has reached its contingent
+liability limits. The CGV will offer payment and termination guarantees to replace sovereign guarantees sustainably,
+mobilizing private financiers without distorting the market and minimizing the impact on government contingent
+liabilities.
+61.       The CGV will be an SA-domiciled, privately run non-life insurance company. Operated on a commercial basis by
+independent professional management under robust private sector governance and risk management, the CGV will
+initially focus on local currency guarantees with an ambition for AAA local rating and prioritize de-risking instruments to
+enable private participation in the electricity transmission subsector. Its first products will target private parties involved
+in concession or implementation agreements with public offtakers, and over time the CGV will broaden its guarantees to
+the water and transport sectors, both at the national and subnational levels, and tailor coverage to evolving market and
+project risk needs.
+Financial Analysis
+62.      The CGV has been designed to attain financial sustainability with full cost recovery. The financial analysis of the
+CGV has been undertaken to inform its business model and capital adequacy to keep the CGV financially self-sustaining.
+The guarantee premium to recover essential costs, including operating expenses and cost of capital has been initially
+estimated at 150 basis points (excluding the risk premium). The CGV will develop and adopt an underwriting policy to
+ensure the minimum level of guarantee premiums, while final premiums reflect key underwriting factors, including the
+risk level of transactions. In a case where the CGV with a capital base of US$2.5 billion covers a US$10 billion risk portfolio
+(4:1 leverage ratio), the estimated average IRR to equity holders is about 11.62 percent, which is sufficient to meet the
+projected Weighted Average Cost of Capital (WACC) of 5.45 percent and offer a reasonable return for risks taken.
+63.      The project benefits from the IBRD Framework for Financial Incentives (FFI). This includes a price incentive for
+US$18.75 million (grant from IBRD Surplus-Funded LPF) along with a US$75 million volume incentive (from the Global
+Solutions Accelerator Platform).12 The FFI price and volume incentives play a pivotal role in decreasing the cost of capital
+of the junior tranche of the NT. It is expected that the IBRD target terms for the junior equity tranche uphold the ratio of
+62.5 percent government and 37.5 percent FFI, and that the volume incentive can be drawn up to 50 percent of the final
+
+12 The US$18.75 million grant will be used to reduce principal and thereby reduce debt-servicing cost along the maturity of the total contribution
+
+(loan and grant) compared to the same amount in a loan-only scenario, matching the relief provided. The US$75 million lowers has no direct impact
+to the IBRD IPF amount, but effectively increases the World Bank country envelope for South Africa.
+                          Official Use Only                                                                                                   Page 18
+        The World Bank
+        Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+IBRD volume. The price and volume incentives are received as the project contributes to carbon reduction (cross-border
+externality). Therefore, price differentiation will be applied using the price incentives only for projects that have a higher
+carbon reduction potential.
+64.       The CGV will only underwrite infrastructure projects that are financially feasible and Paris aligned. The private
+sector counterparts will only participate in transactions that offer sufficient financial returns on investment (bankable).
+Given the nature of the CGV to facilitate PCM for infrastructure projects that are commercially viable on proposed PPP
+schemes, the CGV’s infrastructure portfolio in aggregate will remain financially viable. The bankability and financial
+viability of infrastructure projects will be included as one of the criteria for the CGV’s underwriting policy, to be developed
+and adopted during implementation.
+Economic Analysis
+65.       The economic case of the CGV is strong, as mobilizing private financiers for infrastructure investments would
+be challenging without the CGV. Market sounding indicated that insufficient creditworthiness of public sector off takers
+is the primary concern of the market in participating in infrastructure projects through PPP that rely on off takers’
+payments over a long term under contractual arrangements. It is critical that the GSA is committed to reform and
+participates in the junior equity tranche/first loss to demonstrate ‘skin in the game’. Without the CGV or a similar risk
+mitigation mechanism, a number of sponsors and financiers indicated that PPP transactions are not bankable. It was also
+clear that the financial market is not in a position to offer a similar guarantee program, as other commercial insurers find
+it difficult to underwrite the risk of payment defaults of public sector off takers, including SOEs, municipalities, and
+government agencies. The CGV is, therefore, critical to facilitate the delivery of strategic infrastructure projects that will
+bring positive economic impacts to the country.
+66.       The cost-benefit analysis indicated that the project is strongly welfare enhancing under both the baseline and
+conservative emissions-pricing scenarios. The project yields a consolidated economic internal rate of return (EIRR) of 36.2
+percent and an economic net present value (ENPV) of about US$30.8 billion, far exceeding the hurdle rate of 10 percent,
+with the low value of shadow carbon price in accordance with the relevant World Bank guideline. With the high value of
+shadow carbon price, the EIRR and ENPV will increase to 41.5 percent and US$40.9 billion, respectively. Returns are robust
+across all major sectors: transmission and renewable generation drive the highest gains, followed by water and sanitation
+and freight rail, which post solid returns well above the discount rate, while port investments also remain economically
+justified. These results indicate that the CGV-backed pipeline generates large net economic benefits overall, with network
+utilities and freight corridors accounting for the bulk of welfare gains.
+67.      Estimates of more and better-paid jobs (MBJ) aligned with the proposed World Bank Methodology for the MBJ
+Scorecard Indicator have been prepared on a pilot basis for the CGV operation. For projects to be financed in the energy,
+rail, and transport sectors, the implementation of the methodology is aligned with the proposed sector-specific approach
+under development. For projects in water (waste, bulk water, and augmentation) and seaports, it was not possible to align
+the specific implementation approach at this time. Instead, a pragmatic approach was applied, using project-induced
+changes in service outcomes as proxies for effective capacity improvements and mapping these to labor income effects
+using standard parameters from the literature13. Estimates will be updated as the project is implemented. Moreover, given
+that the CGV has an independent credit approval process, estimates are based on an indicative pipeline and the final
+sectoral distribution of the CGV projects may be materially different, which will affect the aggregate estimates accordingly.
+
+
+13
+   Sources: (i) Abanyie, S.K., Ampadu, B., Frimpong, N.A. and Amuah, E.E.Y. (2023) 'Impact of improved water supply on livelihood and
+health: Emphasis on Doba and Nayagnia, Ghana', Innovation and Green Development, 2(1), 100033. doi:10.1016/j.igd.2023.100033;
+(ii) Foster, V., Gorgulu, N., Straub, S. and Vagliasindi, M. (2023) The Impact of Infrastructure on Development Outcomes: A Qualitative
+Review of Four Decades of Literature. Policy Research Working Paper 10343. World Bank. doi:10.1596/1813-9450-10343; and (iii)
+World Bank (2026, Forthcoming) Strategic Investments in Infrastructure: Moving from a Resource-gap to a Priority-based Approach.
+                        Official Use Only                                                                                       Page 19
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+68.      On this basis, the CGV-enabled pipeline is estimated to support around 157,100 MBJ per year in steady state as
+of 2033. It is expected that after 5 and 10 years, the accumulated MBJ will be 218,890 and 997,828, respectively. Rail
+accounts for an estimated 56,900 MBJ per year, reflecting the large economy-wide employment base and the application
+of stock-based transport elasticities to the implied increase in effective rail infrastructure capacity. Water contributes
+around 56,600 MBJ per year, reflecting the modeled expansion in household access to reliable services in KwaZulu-Natal
+and the associated income effects embedded in the water supply and sanitation access-to-income evidence. Electricity
+contributes a smaller but material 24,300 MBJ per year when transmission and generation are combined (19,600 and
+4,700 MBJ per year, respectively), while port handling equipment upgrades contribute around 19,300 MBJ per year,
+reflecting incremental throughput gains scaled to the relevant multiprovince labor market footprint.
+                                                  Table 8. Summary of MBJ Results
+   Representative Project        Sector           Baseline      Percent    More and        Number of         Total More and
+                                                Employment     Change in  Better Jobs    Representative      Better Jobs per
+                                                             Labor Income   (MBJ)          Projects in           Sector
+                                                                                            Pipeline
+  IPT - Round 1             Transmission        17,055,000        0.04        6,548            3                 19,645
+  Repowering Camden,        Generation           1,220,000        0.38        4,661            1                 4,661
+  Hendrina, Groovlei,
+  Arnot, Kriel
+  uMkhomazi Water           Water                141,434          6.67        9,432             6                56,593
+  Project
+  Northeast Corridor        Transport - rail    17,055,000        0.11        18,977            3                56,930
+  Discrete Project
+  Port Terminal             Transport - ports    7,159,000        0.13        9,634             2                19,268
+  Equipment (Port
+  Handling Equipment)
+                                                                               Total for complete pipeline      157,097
+69.     The CGV pipeline has the potential to mitigate 14.95 MtCO2e annually by 2031, and 25.6 MtCO2e annually by
+2036. Transmission projects could bring 1.95 GW online (4.274 GWh per year) which, if this displaces coal-generated
+capacity, would reduce emissions 2.82 MtCO2e annually. Generation projects that generate renewable energy and
+displace coal-generated electricity at targeted coal sites that form part of Eskom’s Just Energy Transition could reduce -
+emissions by 2.23 MtCO2e per year. A moderate freight logistics modal shift from road to rail across three corridors
+responsible for approximately 20 percent of Transnet Freight Rail freight volumes - could reduce emissions by 9.8 MtCO2e
+per year. Water projects, through the planned integration of renewable energy for pumps, biogas capture, and supervisory
+control and data acquisition (SCADA) implementation to optimize operations, could reduce emissions by 0.1 MtCO2e. By
+2036, at full operation, annual mitigation potential rises to 25.6 Mt CO₂e: transmission (11.4 Mt), transport (12.6 Mt),
+generation (1.6 Mt) and water (0.07 Mt). Generation mitigation declines from 2.23 Mt in 2031 to 1.57 Mt in 2036 as grid
+decarbonisation reduces the emissions factor from 0.66 to 0.46 tCO₂e/MWh under 2025 Integrated Resource Plan targets.
+These estimates will be updated as the project is being implemented.
+
+ B. Fiduciary
+
+(i) Financial Management
+70.      The NT has a robust and satisfactory financial management system, underpinned by a strong fiduciary
+framework and a credible budget process. The country’s budget process has been rated among the top five in the Open
+Budget Index (OBI) conducted by the International Budget Partnership (IBP). South Africa utilizes a medium-term
+expenditure framework (MTEF) based on a three-year rolling macro-fiscal framework, which enables effective program
+prioritization, resource re-programming, and control over program implementation. The MTEF also serves as a reliable
+                      Official Use Only                                                                                   Page 20
+       The World Bank
+       Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+guideline for departmental revenue collection and expenditure management. The chart of accounts is fully aligned with
+the budget structure, and both recurrent and capital budget preparations are integrated into a single process managed
+by the NT. The government budget is published annually on the official website, and the Accountant General is responsible
+for preparing the consolidated financial statements. The Public Finance Management Act (PFMA) establishes two main
+government funds: the National Revenue Fund (NRF), which receives all government revenue, and the Reconstruction and
+Development Program Fund (RDPF), which receives all development assistance funds.
+71.      The project will be implemented by the DBSA overseen by the NT. The DBSA brings experience with
+internationally funded projects and operates a sound accounting system, which will include a dedicated module for the
+project; it has received unqualified audit opinions for the past three years. A PIU will be established at the DBSA within
+the Investment and Financing Unit, staffed by dedicated employees overseeing financial management arrangements for
+the project. Funds will flow directly to the DBSA in a Designated Account. There will be a subsidiary agreement signed by
+the NT and DBSA authorizing the funds to go directly to the DBSA. The DBSA will submit withdrawal requests through
+Client Connection; however, the NT will also be added to Client Connection to exercise oversight. Direct payment is
+proposed for transfers from IBRD to the CGV when the disbursement conditions are met. The financial management risk
+is assessed as substantial, primarily due to the establishment of a new institution (the CGV) and a new PIU, as neither
+entity has previously implemented a project of this nature.
+72.     The POM is under preparation by the NT and DBSA, which will specify in detail arrangements for project
+financial management. This will include the preparation and submission to the World Bank, within 45 days after the
+quarter end, of quarterly unaudited interim financial reports; the preparation of annual financial statements subject to
+audit by an independent external auditor, acceptable to the World Bank; and the submission of these to the World Bank
+along with a Management Letter, no later than six months after the end of each fiscal year. The audited financial
+statements and audit report of the SPVs will also be required to be submitted to the World Bank.
+(ii) Procurement
+73.     The procurement activities under the project will be carried out in accordance with the World Bank
+Procurement Regulations for IPF Borrowers (Procurement Regulations), seventh edition, dated September 2025; the
+World Bank ‘Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA
+Credits and Grants’, dated October 15, 2006, and revised in January 2011, and as of July 1, 2016 (Anti-Corruption
+Guidelines); and other provisions stipulated in the Financing Agreements. The project will use the Systematic Tracking of
+Exchanges in Procurement (STEP) to plan, record, and track procurement transactions. This arrangement applies to
+Components 2 and 3, while for Component 1, the CGV, a private entity, will use Commercial Practices (as defined in the
+Procurement Regulations) for procurement using the funds transferred by the World Bank through procedures to be
+defined in the CGV Procedures Manual.
+74.     The Project Procurement Strategy for Development (PPSD) and a Procurement Plan have been prepared by the
+NT and DBSA. Main activities related to the IPF components (Components 2 and 3) consist of recruitment of technical
+assistance, either individual consultants or firms, including for pipeline development. Procurement of goods will be
+required to put in place the PIU and the CGV. Open competition will be used for most of the contracts. Firms to be recruited
+for pipeline development will go through the Quality- and Cost-Based Selection (QCBS) method. The PPSD and the
+Procurement Plan for the first 18 months have been prepared.
+75.     The DBSA does not have recent experience or procurement capacity at the PIU on using World Bank
+procurement procedures. The PIU will be located at the DBSA, an agency of the NT. The Director General of the NT will
+formalize the PIU at the DBSA by means of an agreement between the NT and DBSA. The PIU is tasked with providing
+operational support for the establishment of the CGV aligned to the GSA’s strategic infrastructure investment priorities.
+Procurement planning, procurement processing, contract management, and related decision-making authority under the
+proposed project (IPF portion) will be carried out by the PIU. To mitigate the risks, the PIU will (a) recruit an experienced
+                      Official Use Only                                                                               Page 21
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+procurement officer, (b) participate in procurement training delivered by the World Bank or trusted training entities, (c)
+ensure adequate use of the STEP tool to document procurement activities and guide procurement processes and contract
+management, and (d) adopt a project implementation manual including a dedicated procurement section. The overall
+project procurement risk was assessed to be High. The risk is reduced to a residual rating of Substantial in view of the
+mitigation measures proposed and the type of procurement involved in the IPF portion of the project.
+
+ C. Legal Operational Policies
+     @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+     Legal Operational Policies                                                           Triggered?
+     Projects on International Waterways OP 7.50                                          No
+     Projects in Disputed Area OP 7.60                                                    No
+
+
+D. Corporate Requirements
+Climate
+76.       The project is Paris aligned, as it is consistent with SA objectives to meet the Paris Agreement. SA objectives to
+support the country’s pathway toward low GHG emissions and climate-resilient development are articulated in the NDC,
+Long-Term Strategy, and National Adaptation Plans. It will achieve this by making Paris alignment part of the CGV’s
+screening criteria and only de-risk those projects that are Paris aligned. In addition, the CGV will ensure that it has
+capacities, appropriate policies, and structures in place to undertake the screening. This approach will mitigate the climate
+risks to low.
+77.     The project will support climate mitigation. It will achieve this by de-risking only those infrastructure projects
+that support – or do not undermine – South Africa's pathway toward low greenhouse gas emissions. The CGV pipeline is
+structured in phases from 2026 to 2036. The first five-year phase, ending in 2031, has the potential to mitigate 14.9 Mt
+CO₂e annually, with seven projects operational by then. During this phase, ITP 1 is expected to bring 1.95 GW online (4,274
+GWh/year) which, if displacing coal-fired generation, would reduce emissions by 2.82 Mt CO₂e annually. Generation
+projects that displace coal-fired electricity at Eskom Just Energy Transition sites could reduce emissions by 2.23 Mt CO₂e
+annually. A moderate modal shift from road to rail freight across three corridors – responsible for less than 20% of Transnet
+Freight Rail volumes – could reduce emissions by 9.85 Mt CO₂e annually. Water projects, through planned integration of
+renewable energy for pumps, biogas capture and SCADA implementation to optimise operations, could reduce emissions
+by 0.01 Mt CO₂e annually.
+78.     The project will also support climate adaptation. It will achieve this by de-risking only those infrastructure
+projects (as part of the eligibility criteria of the CGV) that are targeted to be climate resilient, as articulated in the second
+NDC 2025. This is important, as South Africa is vulnerable to rising temperatures and variable precipitation that result in
+droughts, floods, and heatwaves (WBG CCDR 202214).
+79.    The indicative CGV pipeline is expected to be Paris aligned from a mitigation and adaptation perspective,
+though more information is needed to assess this during screening.
+           •    On mitigation. In the electricity sector, transmission lines and renewable energy are universally aligned. In
+                the water sector, potable water supply and wastewater treatment are universally aligned, subject to
+                methane management for anaerobic systems. Desalination can be aligned where no feasible lower-carbon
+                alternatives exist and energy-efficient measures (such as high-efficiency pumps, energy recovery, and
+
+14
+     Link to South African Climate Change and Development Report 2022
+                         Official Use Only                                                                                Page 22
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+              renewable power sourcing) minimize GHGs, noting that project-specific details on process configuration and
+              energy sourcing are not yet available and will be reviewed during CGV screening. In the transport sector,
+              ports and rail are aligned when not used for transporting fossil fuels, with alignment in cases involving fossil
+              fuels requiring that viability does not depend on fossil fuel transport and that design does not favor it.
+              Fossil-fuel-powered rolling stock may be considered where lower-carbon options are not feasible and
+              transitional mitigation measures (efficiency standards and electrification readiness) are specified,
+              recognizing that propulsion details are not yet available and will be assessed during screening.
+         •    On adaptation. The pipeline will consider hazards such as flooding, sea level rise, extreme storms, heat
+              stress, and landslides. Material physical climate risks will be screened and addressed through the CGV
+              criteria, including climate‑resilient siting, design standards, and operational contingency planning.
+              Project‑specific hazard and vulnerability information is not yet available and assessments will be completed
+              during screening and refined during appraisal of CGV Projects, with adaptation measures integrated into
+              design and operations.
+80.     Additional screening may be needed to identify locked-in risks. For instance, for desalination plants and fossil
+fuel-powered rolling stock, the screening process should assess lower-carbon alternatives and carbon locked-in risks. For
+port and rail infrastructure, it is important that the economic viability of the infrastructure does not depend on fossil fuel
+transport, nor should it create more favorable conditions for the transport of fossil fuels.
+Gender
+81.      SA continues to face significant gender inequality, and women remain underrepresented in senior and top
+management positions despite progressive legal frameworks. In the financial sector, women hold only about 30.8
+percent of top management roles, with white males alone occupying nearly half of these positions. At the senior
+management level, female representation is slightly higher with 42.4 percent but still lags behind men with 53.1 percent.
+In infrastructure services—including construction, utilities, and transport—the disparity is even more pronounced: women
+account for less than 25 percent of top management roles and are vastly outnumbered in technical and leadership
+positions. Root causes include historical occupational segregation; social norms steering women away from science,
+technology, engineering, and mathematics (STEM) fields; care burdens and limited childcare; workplace bias; weak
+retention mechanisms; and slow implementation of equity policies. These factors create a ‘leaky pipeline’, where women
+enter the workforce but are not promoted or retained at rates sufficient to reach leadership positions.
+82.       To improve gender equality in the leadership, the project will increase female representation in the CGV’s
+Executive Board and the CGV’s Senior Management, targeting 35.3 percent and at least 45.3 percent, respectively. This
+is in line with the Government Employment Equity Act (1998) amended on April 25, 2025. Phase 1 of the MPA will support,
+under Component 3 Project coordination and implementation, the CGV to develop a Gender Action Plan with clear policies
+and guidelines, including (a) setting specific hiring and promotion targets for women in technical senior management and
+board roles, integrated into workforce plans; (b) applying unbiased recruitment practices and inclusive policies, including
+female technical professionals on hiring panels; (c) providing leadership training, assigning women to strategic technical
+projects, and offering sponsorship and mentorship from senior leaders; (d) implementing flexible working hours, parental
+leave, and childcare support to retain skilled women; (e) ensuring transparent promotion and pay processes and fostering
+an inclusive workplace with anti-harassment and anti-discrimination policies and regular staff training; and (f) developing
+a policy that provides incentives (lower guarantee premiums) for SPVs that meet at least five-year numerical targets for
+the different infrastructure sectors in their infrastructure projects. In the infrastructure sector, the target ranges from 25
+percent to 36 percent female representation.
+
+
+
+
+                      Official Use Only                                                                                Page 23
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+83.     The above activities will be measured through a robust results indicators: (a) increase in women’s
+representation in the CGV Board15 and (b) increase in women’s representation in the CGV senior management. These
+indicators will be measured against national sectoral targets over a five-year period. They will provide a clear measure of
+progress and ensure that interventions translate into tangible improvements in gender equality.
+Citizen Engagement
+84.      Citizen engagement (CE) is critical for infrastructure projects, especially those involving complex financial
+instruments and PCM. It will ensure (a) transparency and accountability in project selection, design, and implementation;
+(b) social acceptance and legitimacy of reforms and financial innovations; (c) feedback loops that help adapt and improve
+project outcomes; (d) inclusion of vulnerable groups and local communities in decision-making; and (e) mitigation of E&S
+risks through participatory monitoring.
+85.      CE will be achieved through various instruments. First, the project will build on existing systems to support the
+NT and other line ministries in making public decisions by clarifying decision-making processes. Second, the Stakeholder
+Engagement Plan (SEP) for the project is designed to identify and address the needs of different stakeholder groups.
+Besides a range of informal market sounding meetings, the first formal consultation event took place on November 7,
+2025. The NT supported by the World Bank team responded directly to questions raised. Minutes have been prepared
+and will be shared with the different stakeholders. Third, CE will be integrated in the ESMS of the CGV to identify social
+risks early and verify that SPVs have conducted consultations and disclosed Environmental and Social Impact Assessment
+findings. Fourth, CE will also be assessed during MTR and project closing, keeping citizen engagement central throughout
+the project life cycle.
+86.     The project will measure CE through the beneficiary feedback indicator. The beneficiary feedback indicator is
+the percentage of project beneficiaries satisfied with constructed infrastructure or those who feel the infrastructure
+reflects their needs, with results disaggregated by gender, age, location, or other relevant demographics, as an
+intermediate indicator linked to the current measure of people benefiting from new infrastructure services.
+E. Environmental and Social
+87.      The IFC Performance Standards for Private Sector Activities apply. OP/BP 4.03 is triggered because (a) the CGV
+is a private sector vehicle; (b) alignment of E&S requirements across the World Bank, IFC, and MIGA is needed; and (c)
+under Components 2 and 3, the DBSA will enable private sector activities, including developing the CGV’s ESMS before
+issuing its first guarantee. The DBSA’s status as a state-owned entity does not preclude private sector activity under OP
+4.03. Applying OP 4.03 to the DBSA-led components is practical, as the DBSA requires clients to maintain ESMSs
+proportionate to project scale and risk, aligned with IFC Performance Standards.
+88.      The E&S risk category is High risk (FI-I). This is due to anticipated downstream exposure from large infrastructure
+supported by CGV guarantees, with potential significant, diverse, and irreversible E&S impacts if not mitigated. The
+pipeline and locations will be defined during implementation but guarantees can be tracked to specific investments
+(‘specific purpose portfolio’). The MPA will establish a Blended Finance Platform to mobilize private capital, deliver
+infrastructure, reduce emissions, and create jobs. Phase 1 (IPF) will establish the CGV for leveraging private capital in the
+electricity, transport, water, and social sectors, with later phases scaling up the CGV. Component 1 will capitalize the CGV
+via the NT. Component 2 will provide technical assistance and develop a private sector project pipeline.
+89.    E&S risks are largely associated with CGV-supported downstream activities. This includes capacity constraints in
+environmental, health, and safety (EHS) assessment/management; complex contractor and supply chain EHS
+
+
+15 The CGV Board is the governing body of the insurer as per the SARB/PA Governance of Insurer Standard (GOI) 2. It is expected that there will be
+
+six board members. The CGV senior management refers to the executive leadership team (CEO and senior executives) responsible for the day-to-day
+management. It is expected that there will be six senior executives.
+                          Official Use Only                                                                                                  Page 24
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+management; poor compliance/enforcement; biodiversity and habitat loss; increased air emissions (including GHGs); soil
+and water pollution; large hazardous/non-hazardous waste generation; construction-related occupational health and
+safety fatalities/injuries; community health and safety risks (traffic, dust, noise, and hazardous substances); life/fire safety
+risks; weak emergency preparedness; labor influx; exclusion of vulnerable groups; stakeholder engagement and grievance
+challenges; and sexual abuse and exploitation/sexual harassment risks.
+90.      Initial-phase risks relate to labor and working conditions for the DBSA-based PIU. In line with the ESAP timelines,
+the PIU will include EHS and social specialists, oversee establishment of the CGV, and develop CGV policies and ESMS. The
+CGV, as a non-bank private corporation, will have dedicated EHS and social specialists to implement the ESMS.
+Establishment of the CGV follows project approval. Terms of references for the CGV specialists and short-listed candidates
+will be submitted to the World Bank for review and no objection. The PIU labor requirements consistent with PS2 will be
+detailed in the ESAP.
+91.    The DBSA’s E&S capacity is generally aligned with IFC Performance Standards and the DBSA will collaborate
+with the CGV on ESMS preparation. Downstream projects will be implemented through SPVs with private participation
+and SOE oversight (Eskom, Transnet, and SANRAL), likely supported by local commercial banks. South African SOEs and
+banks have experience with large infrastructure and established E&S risk management systems aligned with IFC
+Performance Standards and UNEP16 Finance Initiative Principles for Responsible Banking.
+92.     To manage the CGV portfolio risk, an ESMS will be prepared to the World Bank’s satisfaction within ESAP
+timelines, aligned with national requirements and PS1. This includes policy; procedures for E&S risk identification,
+assessment, and management; organizational capacity; monitoring/review procedures; and an external communications
+mechanism. A preliminary CGV E&S policy was disclosed by the NT on October 2, 2025, and by the World Bank on August
+1, 2025; the final policy and ESMS summary will be disclosed before the CGV issues guarantees. The Worl Bank will prior
+review an initial set of CGV sub-projects and thereafter conduct supervision spot checks.
+93.     Stakeholder engagement is critical. Consultations with diverse stakeholders were conducted by the DBSA, with
+the NT on November 7, 2025. A draft SEP has been prepared and disclosed by the DBSA on January 29, 2026.
+
+ V. GRIEVANCE REDRESS SERVICES
+ 94.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+ supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+ Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+ project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+ independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+ occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute
+ Resolution Service, which provides communities and borrowers with the opportunity to address complaints through
+ dispute resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to
+ the attention of Bank Management and after Management has been given an opportunity to respond. For information
+ on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For
+ information on how to submit complaints to the Bank’s Accountability Mechanism, visit
+ https://accountability.worldbank.org.
+
+
+
+
+16
+     UNEP = United Nations Environment Programme.
+                        Official Use Only                                                                                Page 25
+      The World Bank
+      Blended Finance Platform for Resilient Infrastructure (P508930)
+
+
+VI. KEY RISKS
+
+                                                           Table 9. Risk profile
+
+#   Risk Categories          Rating        Inherent Risk                                  Mitigation
+
+1   Political       and      Substantial   RSA to halt the initiative as result of        CGV is to offer ‘affordable’ guarantees (low cost of
+    Governance risk                        concerns about affordable tariffs, short-      capital, low operational costs), emphasizing job
+                                           term job losses and fraud.                     creation, establishing CGV with strong regulatory
+                                                                                          oversight by SARB/PA and unfunded guarantees.
+
+2   Sector Strategies and    Substantial   Lack of regulation for private participation   Providing project pipeline development and targeted
+    Policies risk                          and tariff-backed revenues.                    sector support.
+
+3   Technical Design risk    Substantial   Complex ownership structure and reliance       RSA’s minority interest in the CGV (direct financial
+                                           on concessional resources.                     commitment in the CGV, while staying at arms’ length)
+                                                                                          and the carefully developed approach to mobilize
+                                                                                          capital from development partners.
+
+4   Institutional Capacity   Substantial   CGV is new institution with limited            Strong effectiveness and disbursement conditions,
+    risk                                   implementation experience.                     professional management hiring, prudential oversight
+                                                                                          by the SARB/PA and robust implementation support.
+                                                                                          DBSA has robust financial management system and
+5   Fiduciary risk           Substantial   CGV and the PIU at the DBSA are new
+                                                                                          strong SARB/PA oversight.
+                                           implementing entities.
+
+
+6   Environmental     and    High          Infrastructure impact of underlying            Strong labor conditions and an ESMS to be
+    social risk                            projects and labor monitoring gaps.            implemented by the CGV before any guarantee is
+                                                                                          issued.
+
+7   Stakeholders Risk        Substantial   Conditioned     development       partner      Engagement strategy with development partners,
+                                           financing, weaknesses in early pipeline        continued pipeline development and diversification,
+                                           development, low initial sponsor/lender        development of tailored guarantees, and engagement
+                                           uptake, and possible SOE reluctance.           strategy with government counterparts.
+
+    Overall risk             Substantial
+
+
+
+
+                        Official Use Only                                                                                                Page 26
+        The World Bank
+        Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+
+                                                            VII. RESULTS FRAMEWORK AND MONITORING
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                                  Closing Period
+   Amount of Capital Mobilized (US$)
+   Capital Mobilization (Amount(USD))
+   Dec/2025                                                                  Mar/2031
+   0                                                                         4,500,000,000
+   Number of More and Better Jobs created
+   More and Better-Paid Jobs (Number)
+   Dec/2025                                                                  Mar/2031
+   0                                                                         218,890
+   Reduced GHG emissions (Mt CO2e)
+   Reduced GHG emissions (tCO2eq/year)
+   Dec/2025                                                                  Mar/2031
+   0                                                                         14.95
+
+
+Intermediate Indicators by Components
+
+   Baseline                       Period 1               Period 2            Period 3           Period 4   Closing Period
+   Capitalization of the Credit Guarantee Vehicle
+   Credit Guarantee Vehicle Licensed (Yes/No)
+   Dec/2025                                                                                                Dec/2026
+   no                                                                                                      yes
+   Capital Mobilized from Development Partners (Amount(USD))
+   Dec/2025                                                                                                Mar/2031
+   0                                                                                                       1,000,000,000
+   Private Capital Mobilized (Amount(USD))
+   Dec/2025                                                                                                Mar/2031
+   0                                                                                                       3,500,000,000
+
+
+
+                                                                                                                                Page 27
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+  ➢Private Capital Mobilized for Electricity Sector (Amount(USD))
+Dec/2025                                                                                       Mar/2031
+0                                                                                              2,000,000,000
+Project Pipeline Development
+Renewable energy capacity enabled with indirect support (Megawatt) CRI
+Dec/2025                                                                                       Mar/2031
+0                                                                                              3,400
+Infrastructure projects reached bankability (Number)
+Dec/2025                                                                                       Mar/2031
+0                                                                                              10
+Project Coordination and Implementation
+Increase in women's representation in CGV senior management (Number)
+Dec/2025                                                                                       Mar/2031
+0                                                                                              3
+Annual report on execution learning agenda (Text)
+Dec/2025                      Mar/2027                       Mar/2028    Mar/2029   Mar/2030   Mar/2031
+no                            yes                            yes         yes        yes        yes
+Increase in women's representation in the CGV board (Number)
+Dec/2025                                                                                       Mar/2031
+0                                                                                              3
+Beneficiary Feedback (Percentage)
+Dec/2025                                                                                       Mar/2031
+0                                                                                              75
+
+
+
+
+                                                                                                                   Page 28
+
+
+                                                                                                               Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+Amount of Capital Mobilized (US$)
+Capital Mobilization (Amount(USD))
+Description              Capital mobilized for resilient infrastructure includes public and private capital
+Frequency                Every half year
+Data source              CGV
+Methodology for Data
+                         Amount of infrastructure contracts
+Collection
+Responsibility for Data
+                          PIU
+Collection
+Number of More and Better Jobs created
+More and Better-Paid Jobs (Number)
+                         Estimates of more and better-paid jobs (MBJ) aligned with the proposed WB Methodology for the MBJ Scorecard
+Description
+                         Indicator have been prepared on a pilot basis for the CGV operation
+Frequency                Every half year
+Data source               Project Implementation Unit
+                          (a) Construction: The PIU collects certified contractor payroll records and statutory employment filings; report person-
+Methodology for Data
+                               months converted to job-years.
+Collection
+                         Operations: The PIU collects SPV/utility HR and payroll records for direct operation and maintenance staff.
+Responsibility for Data
+                          PIU
+Collection
+Reduced GHG emissions (Mt CO2e)
+Reduced GHG emissions (tCO2eq/year)
+Description              Reduction of GHG
+Frequency                Every half year
+Data source              PIU
+Methodology for Data
+                         Run economic model
+Collection
+Responsibility for Data
+                         PIU
+Collection
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+CGV Capitalization
+Credit Guarantee Vehicle Licensed (Yes/No)
+Description               CGV needs to receive license to operate.
+Frequency                 Once
+Data source               License register SARB/PA
+Methodology for Data
+                          Check website SARB/PA
+Collection
+Responsibility for Data
+                          PIU
+Collection
+Capital Mobilized from Development Partners (Amount(USD))
+Description               CGV mobilizes capital from development partners.
+Frequency                 Every half year
+Data source               CGV
+Methodology for Data
+                          Management information
+Collection
+                          PIU
+Responsibility for Data
+Collection
+
+
+
+
+                                                                                                                                 Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+Private Capital Mobilized (Amount(USD))
+Description                CGV mobilizes private capital.
+Frequency                  Every half year
+Data source                CGV
+Methodology for Data
+                           Value of infrastructure projects financially closed
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Private Capital Mobilized for Electricity Sector (Amount(USD))
+Description                CGV mobilizes private capital for electricity sector.
+Frequency                  Every half year
+Data source                CGV
+Methodology for Data
+                           Value of infrastructure projects financially closed
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Project Pipeline Development
+Renewable energy capacity enabled with indirect support (Megawatt) CRI
+Description                Amount of renewable energy enabled with indirect support
+Frequency                  Every half year
+Data source                CGV
+Methodology for Data
+                           Megawatt of renewable energy enabled
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Infrastructure projects reached bankability (Number)
+Description                Number of infrastructure projects that reach bankability
+Frequency                  Every half year
+Data source                CGV
+Methodology for Data
+                           Number of infrastructure projects that are bankable
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Project Coordination and Implementation
+Increase in women's representation in CGV senior management (Number)
+Description                Increase women’s representation in the CGV senior management.
+Frequency                  Every half year
+Data source                CGV
+Methodology for Data
+                           Number of board members and senior management are female
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Annual report on execution learning agenda (Text)
+Description                Yearly progress report on learning agenda execution to prepare for second phase of the MPA
+Frequency                  Every year
+Data source                PIU
+Methodology for Data
+                           Contract party to answer policy question from learning agenda
+Collection
+Responsibility for Data
+                           PIU
+Collection
+Increase in women's representation in the CGV board (Number)
+Description                Increase women’s representation in the CGV Board.
+
+
+
+
+                                                                                                                        Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+Frequency                Every half year
+Data source              CGV
+Methodology for Data
+                         Number of board members and senior management are female
+Collection
+Responsibility for Data
+                         PIU
+Collection
+Beneficiary Feedback (Percentage)
+Description              Percentage of project beneficiaries satisfied with constructed infrastructure
+Frequency                Every half year
+Data source              Beneficiaries
+Methodology for Data
+                         Survey
+Collection
+Responsibility for Data
+                         PIU
+Collection
+
+
+
+
+                                                                                                         Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+
+             ANNEX 1: Infrastructure Sectoral Challenges and Upstream and Down Stream Reforms
+
+(a)     Upstream Reforms
+1.      Project readiness challenges are weaker in South Africa than in emerging markets and developing
+economies (EMDEs). Less than 10 percent of government projects in EMDEs reach financial close, primarily due
+to breakdowns in project readiness during the midstream phase. These breakdowns are driven by coordination
+failures—where multiple fragmented roles complicate infrastructure project development—alongside capacity
+and institutional gaps, such as weak technical skills and insufficient human capital that undermine the bankability
+of feasibility studies and risk assessments. Additionally, underinvestment in project preparation, marked by
+inadequate funding and fragmented support mechanisms, further exacerbates these issues. In South Africa, these
+challenges are compounded by a decade of weak economic growth, rising fiscal pressures, and consolidation, all
+contributing to underinvestment in infrastructure. The absence of a credible pipeline of investable projects, the
+lack of clear and uniform procedures for project delivery, and institutional proliferation across government
+spheres have resulted in operational complexity and inefficiencies throughout the infrastructure delivery value
+chain. These constraints are particularly acute at the municipal level, where project preparation capacity is
+weakest and where replicable financing models are needed to bring projects to bankability and scale.
+Strengthening project preparation through dedicated windows (for example, project preparation and viability gap
+funding), revolving mechanisms linked to downstream transaction cost recoveries (success fees), and
+programmatic screening and prioritization can help address midstream readiness failures and improve the rate of
+financial close.
+2.        The GSA initiated reforms to address infrastructure delivery efficiencies. To tackle these endemic
+challenges, the GSA has launched several reform initiatives. These include reforming the PPP regulatory regime at
+the national and provincial levels—though municipal reforms are still pending; conducting a systematic review of
+the infrastructure delivery institutional landscape; and prioritizing key institutional reforms. The reforms focus on
+harmonizing project prioritization approaches, consolidating project preparation mechanisms and functions
+through the creation of the IFISA as a center of excellence, and centralizing and streamlining project appraisal
+processes. In addition, the system is being strengthened through the operationalization of viability gap funding as
+a revolving facility, supported by transparent success-fee recovery from financially closed transactions. The BFI
+window is being adapted into a comprehensive blended financing platform to enable more agile and responsive
+support. Together, these measures aim to formalize and adequately fund project development/preparation
+facilities, accelerate screening and preparation, and provide a clear pathway from prioritization to bankability—
+especially for PPP-driven PCM and municipal projects requiring replication and scaling.
+(b)     Downstream Reforms
+Electricity Sector
+3.       Energy security and just energy transition are among the top priorities of the GSA. The country has 56
+GW of electricity generation capacity, of which 40 GW is coal power plants that are, on average, about 40 years
+old. South Africa suffered from electricity supply shortage until recently. The worst-ever load shedding was
+experienced in 2023, recording 6,838 hours of rolling blackouts across 335 days. While supply security has been
+significantly improved since March 2024, it is dependent on aging coal stations, which pose risks to long-term
+supply security. South Africa’s commitment to the transition away from coal dependence, which has been
+demonstrated through the Just Energy Transition Framework and Investment Plan, has been affected by energy
+security. Due to such concerns, Eskom has delayed the planned decommissioning of three coal stations (Camden,
+Hendrina, and Grootvlei) from 2027 to 2030. Electricity tariff has increased more than fivefold since 2010, while
+
+
+
+
+                                                                                                                Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+the consumer price index (CPI) has approximately doubled. Declining, inefficient, and costly energy supply
+hampers economic growth and South Africa’s reindustrialization efforts.
+4.      South Africa is committed to advancing sector reforms toward a competitive, transparent, and
+financially sustainable energy sector with greater private sector participation. ERAA came into effect in January
+2025, promoting competition and transparency in the electricity sector. Unbundling the vertically integrated utility
+(Eskom) is progressing, with the establishment of NTCSA in July 2024. NERSA has approved several key regulations,
+including the Wheeling Framework and the Curtailment Framework, that facilitate increasing private sector
+participation and competition. A wholesale electricity market is planned to be launched in 2026. Private sector
+participation in renewable energy generation has been promoted, for large-scale projects through REIPPPP since
+2011 and for small-scale embedded generation up to 100 MW by exempting license requirements in 2021.
+5.      While these reform measures are mobilizing private capital and delivering outputs, substantial
+investment is required in electricity generation, transmission, distribution, and energy storage. REIPPPP has
+successfully added 8.3 GW of generation capacity from private sector independent power producers and
+mobilized US$16 billion of private capital. The aggregate generation capacity of distributed solar PV has grown
+rapidly since 2021 and exceeded 6 GW. The success of REIPPPP, despite Eskom’s weak financial standing, was
+partly due to the provision of sovereign guarantee from the NT in case of payment defaults. Going forward, to
+achieve energy security, the IRP 2025 envisages adding about 33 GW of generation and storage capacity by 2030,
+of which 27 GW comes from renewable energy and energy storage. TDP 2024 also sets a target to expand
+transmission systems by about 14,500 km of new transmission lines and 210 new transformers by 2034 to
+integrate 56 GW of new generation capacity.
+6.       In particular, transmission is a major bottleneck to further scaling up renewable energy and advancing
+just energy transition, with its substantial investment need that calls for both public financing and private
+investment. While electricity demand and coal power generation capacity are concentrated in the North,
+renewable energy resources are abundant in the South. NTCSA launched the latest TDP 2024, which requires ZAR
+112 billion (US$6 billion) by 2029 and ZAR 450 billion (US$25 billion equivalent) by 2034 to expand transmission
+systems and integrate new generation capacity. To timely implement TDP and address transmission congestions,
+the GSA adopts a two-pronged approach: (a) mobilizing public financing from DFIs on NTCSA’s balance sheet and
+(b) launching the ITP Procurement Program to crowd in private sector investment in transmission.
+7.      The ITP Phase 1 is on track, expected to award bidders by end-2026, with a plan to make it a program
+that runs regular market offerings. A ministerial determination for ITP procurement was announced in March
+2025. The Electricity Transmission Infrastructure Regulations (so-called ITP Regulations) have been gazetted by
+the DEE in October 2025. The RFQ for the ITP Phase 1 was issued to the market in July 2025, to be followed by the
+RFP to short-listed bidders in Q3 CY2026. The ITP Phase 1, comprising seven projects, will develop 1,164 km of
+400 kV transmission lines and associated substations through the build-own-operate-transfer model, with an
+estimated total investment of around US$500 million.
+8.       There are various measures to enhance the bankability of ITPs, but offtaker creditworthiness remains
+a primary concern for the private sector. The GSA is setting up a legal and regulatory framework to ensure that
+the NTCSA will receive cash flows to meet its payment obligations to ITPs. ERAA sets an overarching principle of
+cost recovery and financial sustainability of the electricity sector. The DEE gazetted the Electricity Transmission
+Infrastructure Regulations, which include a provision on ITP cost recovery. NERSA is also developing the Cost
+Recovery Rules for ITPs, which clarify regulatory principles for the cost recovery of transmission capacity procured
+from ITPs. The regulatory framework will be finalized before the RFP to give a clear signal to the market that
+NTCSA’s payments to ITPs will be recovered through NERSA’s tariff determination mechanisms, which are
+currently the Multi-Year Price Determination (MYPD). Contractual arrangements with ITPs, including but not
+
+
+
+
+                                                                                                               Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+limited to the Transmission Services Agreement, the Implementation Agreement, and the Facility Sharing
+Agreement, are currently under development to ensure fair risk allocation and bankability of the transactions.
+There is a concern about the creditworthiness of NTCSA, which is a newly established entity under Eskom and still
+going through the unbundling process, particularly as the NT is moving away from the provision of sovereign
+guarantees to manage its contingent liability exposure.
+9.        In addition to transmission infrastructure, growing investment needs in generation, distribution, and
+storage infrastructure for the energy transition require private sector participation, for which risk mitigation is
+a key. The IRP 2025 aims to add, for the next five years, 27 GW of renewable energy and storage capacity, for
+which PCM may account for a substantial portion, but without proper mitigation of NTCSA’s offtaker risk, as was
+the case of REIPPPP and BESIPPPP, the market appetite may be constrained. South Africa is also taking forward a
+reform agenda in the electricity distribution sector, which is exposed to increasing distributed renewable energy
+and operational inefficiency, with substantial investment needs in infrastructure rehabilitation and strengthening.
+Risk mitigation measures for creditworthiness of distribution companies are essential to mobilize private capital
+to fill the financing gap in the electricity distribution sector. The proposed CGV aims to provide risk mitigation to
+this specific risk and attract private investment in key electricity infrastructure.
+Transport Sector
+10.      South Africa’s freight logistics crisis is driven by chronic underinvestment, aging and disrupted rolling
+stock, escalating cable theft, and systemic operational inefficiencies at Transnet that severely undermine rail
+performance. The transport and logistics sector’s challenges, as outlined in the Cabinet-endorsed Freight Logistics
+Reform Roadmap, stem from entrenched issues, including historical underinvestment in rail infrastructure that
+Transnet has acknowledged but struggled to resolve; severe rolling stock constraints marked by aging assets—
+many over 40 years old— and ongoing disputes over procured electrified locomotives that have left many units
+idle or undelivered; a sharp rise in cable theft since 2020 that disrupts operations, particularly on the Container
+and Northern Corridors (with the North-East Corridor also hit during the October 2022 strike), causing significant
+delays and cancellations, and necessitating stronger security measures and tighter management of scrap metal
+exports; and operational inefficiencies within Transnet, where traffic volumes, speeds, and productivity lag
+international benchmarks—apart from the high-performing iron ore line—evidenced by the surge in manual train
+authorizations from 50,000 in 2018 to over 250,000 in 2024.
+11.      SA’s freight logistics underperformance stems from three structural problems. First, Transnet has long
+operated under vague, complex, and often unfunded mandates, including developmental objectives without
+corresponding state subsidies. This created a contradiction between its commercial, profit-driven corporate
+model and its role in the developmental state, with an oversized network expected to be self-sustaining despite
+segments that are not commercially viable. Second, ports and rail infrastructure are essential facilities—natural
+monopolies critical to national economic performance—yet Transnet’s vertical integration as both owner and
+operator has dampened competitive pressures, constrained efficiency, and limited private investment,
+highlighting the need for strong regulatory oversight or structural reforms to enable fair access and competition.
+Third, governance failures, documented in the Judicial Commission of Inquiry into State Capture (Part V, Volumes
+1 and 2), have crippled operations, notably through corrupt locomotive procurement that reduced fleet
+availability. With major investments ahead in rail and ports, reforms must ensure that past governance failures
+are not repeated and actively crowd in private capital.
+Water Supply and Sanitation Sector
+12.    South Africa’s growing water scarcity is driven by low rainfall (mean annual precipitation of
+approximately 450 mm), near-total allocation of freshwater, and climate change, which will further tighten
+
+
+
+
+                                                                                                                Official Use Only
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+supply. By 2030, a 17 percent supply-demand gap—up to 3.8 billion m³ annually—is projected, with the Orange,
+Limpopo, Vaal, Berg, and Olifants basins, and major cities like Johannesburg, Cape Town, Randburg, and Pretoria,
+facing severe stress. The economic and social costs, especially for vulnerable communities, could be significant.
+13.      Water supply and sanitation services have deteriorated despite expanded coverage. Infrastructure is
+aging and under-maintained; 46 percent of households lack safely managed water and 49 percent lack safely
+managed sanitation. Non-revenue water averages 41 percent of input volume—about 85 percent from technical
+losses (leaks, bursts, and illegal connections) and the rest from commercial losses—reflecting weak operations,
+eroded technical and management capacity, and a disconnect between technical and commercial functions, with
+serious social and environmental consequences.
+14.      Private sector participation remains limited, with no new municipal PPPs in 15 years, constrained by
+low transparency, accountability, and regulatory capacity. Reforms are advancing: the National Water
+Infrastructure Agency has been established to mobilize private capital and enable PPPs; the Water Services
+Amendment Bill—before Parliament—introduces licensing for water service providers, including private
+operators; and the Water Partnerships Office (2023) is promoting PPPs for programs such as non-revenue water
+reduction, wastewater reuse, and desalination. Cape Town’s 2015–2018 ‘Day Zero’ drought highlighted the stakes,
+contributing to a provincial GDP loss of 3.4 percent and 37,000 jobs.
+
+
+
+
+                                                                                                            Official Use Only
+           The World Bank
+           Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+
+                                  ANNEX 2: Financial Intermediary Financing Assessment
+
+Introduction
+1.       The objective of the assessment is to confirm that the proposed CGV can offer sustainable de-risking
+products in agreement with World Bank FIF requirements and the 16 Principles. As the following assessment
+finds, (a) the structure of the CGV, (b) the financial sector’s capacity, and (c) the macroeconomic and fiscal
+framework are conducive to a credit guarantee model that complies with the FIF guidance.
+Macroeconomic Framework and Fiscal Situation
+2.       Macroeconomic conditions are in place for lending for infrastructure, especially if supported by a credit
+guarantee. The annual growth rate of 0.8 percent is balanced by a low inflation rate of 3.4 percent (CPI, September
+2025, SARB). Government debt to GDP reached 77 percent (with an increasing trend) and the national budget
+deficit reached 5 percent of GDP in 2025. The policy interest rate was set at 7 percent, and the SARB reported the
+prime interest rate at 10.5 percent in November 2025.
+Financial Sector Policies and Performance
+3.      The country is characterized by broad and deep capital markets, which are critical to the project. The
+success of credit guarantees requires participation in the financing of a minimum number of sound financial
+intermediaries. The five largest banks are highly concentrated, holding 90 percent of banks’ assets. However, their
+financial ratios show a resilient and growth-oriented sector (for example, ROE of 19 percent on a combined basis)
+and therefore nonperforming loans have declined from 5.47 percent in June 2024 to 5.18 percent by the end of
+2024. S&P Global’s 17 assessment improved both the sovereign rating (to BB/B- for long- and short-term foreign
+currency), and improved ratings from stable to positive for six financial institutions.
+Implementation Arrangements
+4.      The CGV will be operated with full institutional, operational, and financial autonomy from the GSA.
+Autonomy will be ensured by the governance requirements established under the Companies Act, the Insurance
+Act, and their accompanying Prudential Standards. The CGV will be incorporated as a private non-life insurance
+company providing credit guarantees with a license from South Africa’s PA. Only licensed entities under the PAs
+are able to offer credit guarantees for a premium in the South African market. The CGV would be incorporated by
+the South African Companies Act 71 of 2008.
+5.      The CGV will be licensed under the Insurance Act 18 of 2017. Supervision of the CGV will be conducted
+by the PA of South Africa, whose powers comprise licensing financial institutions; issuing standards and directives,
+conducting inspections and investigations; and, overall, enforcing regulations. The CGV ownership will be mixed
+with the GSA holding a minority equity stake (25–30 percent), and the remaining shares invested by select
+international development partners. Capital raising efforts are proceeding with prospective shareholders, in
+addition to the IFC.
+6.       The CGV will be financially self-sufficient, generating enough revenue to fund its own operations
+without relying on regular budget allocations from shareholders. This autonomy comes from (a) sufficient early
+capitalization, (b) investment returns, and (c) guarantee premiums as the business develops. Financial self-
+sufficiency will ensure that the entity is insulated from political pressure and can make long-term strategic
+decisions based on its objective to support strategic and bankable infrastructure projects. Findings from the
+review of the CGV’s planned regulatory framework, governance, and operational and risk management approach
+
+17 S&P Global was formerly known as Standard and Poor’s rating service.
+
+
+
+
+                                                                                                               Official Use Only
+          The World Bank
+          Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+indicate a sound entity fit-for-purpose for the project-financed guarantees. Key aspects in the proposed approach
+are strong guardrails against political interference, a strong and well-diversified group of credible shareholders,
+and a strong supervisory and governance framework.
+7.      The CGV will operate a risk management framework that preserves and protects its capital. This
+framework will be built on parameters of prudence, diversification, and oversight. At its core, the framework
+integrates a layered approach to identifying, assessing, mitigating, and monitoring financial, operational, market,
+and credit risks. Capital preservation will be ensured through rigorous risk analysis of the guarantees to be offered,
+alongside conservative leverage practices, as well as investments of the CGV’s capital that prioritize liquidity and
+low-volatility instruments. The CGV will conduct dynamic stress testing, scenario analysis, and early warning
+indicators to anticipate potential threats and maintain sufficient capital buffers. Governance structures mentioned
+in the paragraphs above—such as independent risk committees and internal audit functions—will enforce
+accountability.
+Financial Products
+8.     The CGV will provide credit guarantees to de-risk some of the project-related risks that are difficult to
+absorb by private investors in the development and improvement of South Africa’s sustainable infrastructure.
+Guarantees will be offered to multiple infrastructure sectors where these types of credit risk support mechanisms
+make commercial sense to increase PCM.
+9.      The design of the first generation of the CGV’s guarantees will be based on those being offered by the
+NT to the REIPPP. These are payment guarantees covering off taker payment default (up to 90percent, depending
+on needs) in a power purchase agreement or availability payments with SOEs or other off takers such as
+municipalities. A target sector in the first phase is the ITPs, provided project structures and payment flows meet
+a minimum bankability threshold. Credit guarantees will be priced on a cost-recovery basis and as a function of
+the underlying credit risk being covered and its percentage of coverage. Beneficiaries will, in principle, include
+debt holders (that is, commercial lenders and bond holders), and in selected cases, when the determining event
+of default is linked to the offtake payment by an SOE, also the equity holders (that is, project sponsors).
+Monitoring and Evaluation
+10.      A strong M&E framework will be established to track the additionality of infrastructure projects. In
+addition to the oversight by the PA and corresponding financial reporting obligations under the Companies Act
+and the Insurance Act, reasonable targets will need to be established on infrastructure projects facilitated, PCM
+and the impact on job creation and economic growth. This would track the additionality of support to
+infrastructure projects, including the number of projects able to secure finance that would not have otherwise
+been possible. The PIU will be responsible for M&E and gathering relevant financial soundness indicators for
+capital adequacy, profitability, portfolio quality, and other indicators as determined by the World Bank.
+IFC and MIGA Coordination
+11.     There has been close coordination with IFC and MIGA. Both entities having been contributing to all
+phases of the conceptualization and design of the CGV, along with the IBRD team. IFC is well advanced in the
+process of committing to an equity investment in the senior tranche. MIGA is considering two types of products
+to support the CGV: a reinsurance product covering a share of the CGV’s guarantee portfolio and a Policy Risk
+Insurance product to shareholders of the CGV that may require it.
+
+
+
+
+                                                                                                                 Official Use Only
+         The World Bank
+         Blended Finance Platform for Resilient Infrastructure(P508930)
+
+
+Conclusion
+12.      The CGV is expected to be a solid entity with a high probability of market acceptance and success.
+Findings from the review of the CGV’s planned regulatory framework, governance, and operational and risk
+management approach indicate a prospective solid entity with reasonable perspectives of success. Key aspects in
+the proposed approach are strong guardrails against political interference, a strong and well-diversified group of
+credible shareholders, and a solid supervisory and governance framework. All these elements should facilitate the
+establishment of a strong technical team capable of achieving the CGV’s objectives of de-risking strategic
+infrastructure in South Africa for PCM. A key uncertainty to monitor is the availability of a strong pipeline of
+projects that would allow the CGV to scale up and diversify its guarantee portfolio as planned.
+
+
+
+
+                                                                                                             Official Use Only
+

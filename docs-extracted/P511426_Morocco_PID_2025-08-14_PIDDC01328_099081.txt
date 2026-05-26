@@ -1,0 +1,336 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 14-Aug-2025 | Report No: PIDDC01328
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+Morocco                        P511426                     Morocco Ifahsa Pumped Hydropower Storage (PHS)
+                                                           Project
+Region                         Estimated Appraisal Date    Estimated Approval Date      Practice Area (Lead)
+MID EAST,NORTH                 02-Feb-2026                 15-May-2026                  Energy & Extractives
+AFRICA,AFG,PAK
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Office National de          Office National de
+Financing (IPF)                l'Électricité et de l'Eau   l'Électricité et de l'Eau
+                               potable (ONEE)              potable (ONEE)
+
+Proposed Development Objective(s)
+The Project Development Objective is to enable higher integration of renewables generation in the Moroccan
+transmission system by developing the Ifahsa PHS Plant.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  To be decided
+Is this project Private Capital Enabling (PCE)?            Yes
+
+SUMMARY
+  Total Operation Cost                                                                                       450.00
+
+  Total Financing                                                                                            450.00
+             of which IBRD/IDA                                                                               210.00
+  Financing Gap                                                                                                0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                              210.00
+  Non-World Bank Group Financing
+
+                                                                                                                Page 1
+
+
+
+                                                                                                        Official Use Only
+          The World Bank
+          Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+        Trust Funds                                                                                                        30.00
+           Clean Technology Fund                                                                                           30.00
+        Other Sources                                                                                                    210.00
+           African Development Bank                                                                                      210.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                              Concept Review Decision
+High                                                                      The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+    1. Morocco's energy sector is central to its economic growth and job creation agenda, and the proposed Project will
+       support the country’s energy transition and security objectives by enabling the integration of a higher share of
+       variable Renewable Energy (RE). Electricity consumption grew at 4 percent annually since 2010, reaching 45.7 TWh
+       in 2024, highlighting the need to support rising demand while contributing to global climate efforts, including higher
+       integration of RE projects led by private sector to the energy mix, leveraging the country's abundant solar and wind
+       resources to reduce Morocco’s fossil fuel reliance, create jobs, and drive innovation. The proposed Ifahsa Pumped
+       Hydropower Storage (PHS) Project (P511426 – The Project) will provide ancillary services to enhance the transmission
+       system flexibility in balancing supply-demand and address renewables intermittency and therefore enable higher
+       integration of wind and solar generation and will therefore enhance Morocco’s energy security through more reliance
+       on domestic energy resources. The proposed Project complements larger World Bank Group (WBG) engagement in
+       the energy sector to support necessary sector reforms and attract more private sector investment in renewables.
+    Sectoral and Institutional Context
+    2. Morocco has adopted ambitious climate targets to reach carbon neutrality by 2050. In December 2021, Morocco
+       submitted its Long-Term Low Emission Development Strategy (LT-LEDS) to the United Nations Framework Convention
+       on Climate Change (UNFCC), which aims for 80 percent share of RE in power generation mix by 2050 and explores a
+       net-zero scenario for the power sector by that date. Furthermore, Morocco launched, during COP28, its National Low
+       Carbon Strategy 2050 (Stratégie Nationale Bas Carbone - SNBC) with the aim of exploring net-zero emission scenarios
+       targeting carbon neutrality by 2050. The SNBC1 net-zero scenario foresees a share of 96 percent for RE in power
+       generation mix by 2050. Morocco intends to reach this objective mainly through coal phase-out (the country has
+       joined the Power Past Coal Alliance) and the development of its RE resources, largely led by private sector. This
+
+1
+    The SNBC was issued in December 2023 and the Executive Summary of the SNBC was published in November 2024.
+
+                                                                                                                                 Page 2
+
+
+
+                                                                                                                      Official Use Only
+          The World Bank
+          Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+        energy transition would increase energy security and diversification and bring significant economic benefits to the
+        Moroccan economy, including a higher GDP growth relative to a status quo scenario, improved fiscal balances, and
+        potential job creation of 28,0002 positions annually through 2050.
+    3. Morocco possesses excellent RE resources capable of meeting domestic needs and decarbonizing its economy.
+       Since the adoption of the National Energy Strategy in 2009 and the Government’s New Development Model (NDM),
+       Morocco has made substantial progress in establishing regulations to boost RE generation, including two laws in
+       February 2023 to facilitate third-party access for RE producers to the transmission grid. In 2024, RE installed capacity
+       reached 5,337 MW, making up 45 percent of total installed capacity but only meeting 25 percent of national
+       electricity demand. Wind energy leads with 2,360 MW, surpassing hydroelectric power at 2,120 MW, while solar
+       energy remains modest at 857 MW. By the end of 2025, renewable capacity is expected to increase by 894 MW,
+       reaching 49 percent of total capacity, driven by OCP’s3 photovoltaic plants and private sector developments. ONEE
+       plans to add 12,445 MW of renewable capacity by 2030, making renewables 64 percent of installed capacity and 59
+       percent of electricity generation, and potentially reducing coal's share to 26 percent of electricity generation.
+    4. Developing the power system necessary to integrate high level of RE requires substantial investment in grid
+       infrastructure expansion to build flexibility and resilience that will allow for higher penetration of RE sources.
+       Morocco aims to invest in power system flexibility solutions, such as energy storage systems and interconnections,
+       to enable reaching 80 percent of RE capacity by 2050 as targeted under ST-LEDS. To this end, ONEE has initiated a
+       program to develop 1000 MW of hydropower pumped storage by 2030. This includes the recently commissioned 350
+       MW Abdelmoumen plant in Agadir, a 350 MW plant at El Menzel currently under development, and the Ifahsa PHS
+       plant under the proposed Project. Additional storage solutions (including PHS and battery energy storage systems)
+       are in the identification stage. ONEE also plans to expand its regional interconnections and pilot the implementation
+       of smart grid, advanced metering infrastructure and load frequency control and automatic generation control to
+       complement storage investment and improve the overall operational efficiency of the Moroccan electricity network.
+    5. PHS is a mature technology for energy storage and balancing electricity supply and demand, ensuring power
+       system stability and reliability. PHS functions by elevating water to an upper reservoir during off-peak periods using
+       grid electricity and releasing it through turbines to generate electricity during peak demand, providing economic
+       benefits through price arbitrage and reducing reliance on inefficient thermal power plants during high-demand
+       periods. PHS can offer numerous ancillary services to the grid, such as peak-shaving and load-leveling, provision of
+       spinning reserve, black-start, voltage and frequency control. However, PHS projects are capital-intensive, with limited
+       private sector interest due to challenges in monetizing ancillary benefits, and perceived high risks (construction,
+       hydrology, market, etc.) that would result in higher tariffs, leading to its development in many cases by system
+       operators like ONEE. PHS can provide ONEE with a valuable and economical means of balancing the power system
+       and allow more RE projects to connect to the grid. It is expected that the proposed Project will enable the integration
+       of up to 1.5 GW of new RE projects into the grid.
+    Relationship to CPF
+    6. The proposed Project is expected to contribute to two of the three Focus Areas of the Morocco FY19-25 Country
+        Partnership Framework (CPF), as adjusted through the Performance and Learning Review exercise, namely (i) Pillar
+        1: promoting job creation by the private sector, and (ii) Pillar 3: supporting the climate transition, within which one
+        CPF objectives is to strengthen adaptation to climate change and resilience to natural disasters. The proposed Project
+        will strengthen resilience of the Moroccan grid to enable higher penetration of variable RE sources and reduce
+        reliance on thermal generation. The proposed Project is also aligned with priority decarbonization pathways
+        considered by Morocco’s CCDR to put the economy on a low-carbon and resilient development path. The CCDR
+
+2
+    Job creation and skills development during the energy transition – Morocco, Worl bank study, January 2024.
+3 OCP Group is one of the largest phosphate and fertilizer companies in the world, owned by the Moroccan Government and the Banque Populaire du Maroc.
+
+
+
+
+                                                                                                                                                         Page 3
+
+
+
+                                                                                                                                               Official Use Only
+      The World Bank
+      Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+    estimates that Morocco could reach a net-zero emissions by the 2050s by taking advantage of its abundant
+    competitive RE resources. The proposed Project will contribute to operationalizing the CCDR recommendations by
+    enabling integration of higher level of RE into the grid. The proposed Project is aligned with the World Bank PCE
+    mandate as it will enable private capital investments for additional RE projects to be integrated into the grid.
+C. Proposed Development Objective(s)
+The Project Development Objective is to enable higher integration of renewables generation in the Moroccan
+transmission system by developing the Ifahsa PHS Plant.
+
+
+ Key Results (From PCN)
+7. The PDO indicators are expected to be:
+        •   Renewable energy capacity enabled (MW).
+        •   Amount of private capital enabled (US$).
+        •   Net greenhouse gas (GHG) emission savings (MtCO2e/year).
+
+8. Intermediate indicators include:
+        •   Peaking capacity added (MW).
+        •   Power storage capacity added (GWh)
+
+D. Concept Description
+
+9. The proposed Project will finance the preparation, construction, and commissioning of the Ifahsa PHS plant with an
+   expected capacity of 300 MW. During off-peak hours, the plant will use dispatched renewable electricity from the
+   grid to pump water from the lower reservoir to the upper reservoir. During peak hours, it will generate electricity to
+   meet the peak demand in the Morocco’s grid system, by conveying the stored water from the upper reservoir to the
+   lower reservoir through hydraulic turbines. the PHS plant will be connected by 400 kV transmission to the national
+   grid.
+10. Located 14 km from Chefchaouen in northern Morocco, near the Laou valley and south of Tetouan, the Ifahsa PHS
+    plant will feature two reversible pump-turbine units of 150 MW each, operating with a maximum flow of 44 m³/s in
+    turbine mode and 37 m³/s in pumping mode. The plant is designed to absorb 690 GWh of energy and generate around
+    550 GWh per year (80 percent efficiency). The proposed Project includes a higher and lower basin, each with a
+    capacity of 793,000 m³, an underground plant housing the reversible units with a combined flow of 2 x 22 m³/s under
+    a net head of 753 m, and a water supply circuit comprising both underground and aerial structures. The lower
+    reservoir is planned to be situated near the Oued Laou River, spanning an area of 6 hectares. The upper reservoir will
+    be constructed at the summit of the site, positioned 753 meters above the lower reservoir, and will cover an area of
+    5.8 hectares. Both reservoirs will be of the rockfill type and lined with geomembranes, providing an active storage
+    capacity of approximately 800,000 cubic meters to support the daily operations of the power plant. The water will
+    be pumped in a closed loop system with only limited appoint per year to cover for evaporation.
+11. The proposed Project will play a pivotal role in enhancing the integration of new solar and wind generation projects
+    into the national grid, thereby reducing reliance on fossil-fuel-based generation. This multiplier effect will result in
+    significant greenhouse gas emission reductions, firmly positioning the proposed Project at the heart of Morocco’s
+    environmental and climate contribution.
+
+
+
+                                                                                                                        Page 4
+
+
+
+                                                                                                                Official Use Only
+      The World Bank
+      Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                           Triggered?
+ Projects on International Waterways OP 7.50                               No
+ Projects in Disputed Area OP 7.60                                         No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Noreddine Citroen
+  Senior Energy Specialist
+
+  Lucine Flor Lominy
+  Senior Energy Specialist
+
+  Anas Benbarka
+  Lead Energy Specialist
+
+ Borrower/Client/Recipient
+  Office National de l'Électricité et de l'Eau potable (ONEE)
+  Tarik Hamane
+  General Director
+  dgsecretariat@onee.ma
+
+
+                                                                                             Page 5
+
+
+
+                                                                                     Official Use Only
+     The World Bank
+     Morocco Ifahsa Pumped Hydropower Storage (PHS) Project(P511426)
+
+
+Implementing Agencies
+ Office National de l'Électricité et de l'Eau potable (ONEE)
+ Asmaa Sghiouar
+ Head of financing division
+ sghiouar@onee.ma
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                      Noreddine Citroen, Lucine Flor Lominy, Anas Benbarka
+
+Approved By
+
+Practice Manager/Manager:                 Husam Mohamed Beides                  07-Jul-2025
+
+Country Director:                         Mouna Hamden                          14-Aug-2025
+
+
+
+
+Note to Task Team: This is the end of document. No further content should be added. Delete this note when
+finalizing the document.
+
+
+
+
+                                                                                                               Page 6
+
+
+
+                                                                                                       Official Use Only
+

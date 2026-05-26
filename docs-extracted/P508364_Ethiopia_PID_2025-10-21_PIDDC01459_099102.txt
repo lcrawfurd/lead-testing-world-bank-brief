@@ -1,0 +1,495 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                  Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 21-Oct-2025 | Report No: PIDDC01459
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                    Operation Name
+Ethiopia                       P508364                         Ethiopia: Climate Resilient Irrigation for Sustainable
+                                                               Production (CRISP)
+Region                         Estimated Appraisal Date        Estimated Approval Date        Practice Area (Lead)
+EASTERN AND SOUTHERN           02-Feb-2026                     24-Apr-2026                    Water
+AFRICA
+Financing Instrument           Borrower(s)                     Implementing Agency
+Investment Project             The Federal Democratic          Ministry of Irrigation and
+Financing (IPF)                Republic of Ethiopia            Lowlands
+
+Proposed Development Objective(s)
+To improve access to resilient irrigation services in selected areas in Ethiopia.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+Is this project Private Capital Enabling (PCE)?                Yes
+
+SUMMARY
+  Total Operation Cost                                                                                               350.00
+
+  Total Financing                                                                                                    350.00
+             of which IBRD/IDA                                                                                     200.00
+  Financing Gap                                                                                                         0.00
+
+DETAILS
+  World Bank Group Financing
+    International Development Association (IDA)                                                                    200.00
+      IDA Credit                                                                                                   200.00
+  Non-World Bank Group Financing
+
+
+                                                                                                                         Page 1
+
+
+
+                                                                                                                Official Use Only
+          The World Bank
+          Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+       Other Sources                                                                                                                     150.00
+           FRANCE: French Agency for Development                                                                                           50.00
+           International Fund for Agriculture Development                                                                                100.00
+
+
+
+
+  @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                              Concept Review Decision
+Substantial                                                                               The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+ 1.      Ethiopia is one of the fastest-growing economies in the world, yet it remains among the poorest. As the
+ second most populous nation in Africa, it is home to approximately 132 million people. The country experienced
+ remarkable economic growth from 2004 to 2019, with an average growth rate of nearly 10 percent, one of the highest
+ globally. However, growth rates have slowed since 2019, with real GDP growth decreasing to around 6 percent. Ethiopia
+ remains a low-income country, with a Gross Domestic Product (GDP) per capita of US$1,272 in 2023.1 The country's
+ rapid growth masked structural weaknesses such as high inflation, significant foreign debt, currency controls, and
+ limited private sector development.
+
+1.       Food insecurity is a persistent challenge in Ethiopia, driven primarily by extreme events and a high dependency
+on low-input, low-output rain-fed agriculture. 2 Over 90 percent of cultivated lands depend on rainfall, making food
+production highly vulnerable to frequent droughts and floods. As a result, more than 18 percent of the population faces
+food insecurity. Nearly 40 percent of children under five are stunted, and 22 percent of women aged 15–49 years are
+undernourished. 3 Private sector investment in agriculture remains limited, largely due to the lack of irrigation
+infrastructure required to ensure reliable production. Ethiopia is extremely drought-prone and has experienced 19 periods
+of severe food shortages caused by droughts over the past century.
+
+2.      The agricultural sector is the backbone of Ethiopia’s economy and employment, yet productivity remains low
+due to the heavy reliance on rain-fed agriculture. The sector accounts for 33 percent of the country’s GDP, 73 percent of
+employment, and 77 percent of exports.4 Erratic and increasingly unpredictable rainfall contributes to inconsistent and
+often insufficient crop yields. In response, the Government of Ethiopia (GoE) has set ambitious goals to reduce the reliance
+
+1 World Bank Open Data—Ethiopia (link)
+2 Food Insecurity in Ethiopia. (link)
+3 UNICEF (link)
+4 Ministry of Agriculture, Ethiopia’s National Agricultural Investment Plan (2021-2030) (link)
+
+
+
+
+                                                                                                                                                 Page 2
+
+
+
+                                                                                                                                      Official Use Only
+         The World Bank
+         Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+on rain-fed agriculture by developing their irrigation capacity. Under the Ten-Year Development Plan (2020-2030)5, the
+government aims to expand irrigation, promote private sector participation, increase irrigated crop production fivefold,
+and create over a million job opportunities in the irrigation sector.
+
+ Sectoral and Institutional Context
+
+3.       Irrigation is essential for food security and economic development in Ethiopia, offering a reliable water supply
+that reduces dependence on erratic rainfall. Scaling up irrigation is a key pathway to enhancing Ethiopia’s food security,6
+as it increases crop yields and productivity, thereby strengthening agricultural production.7 Irrigation enables multiple
+cropping seasons and the cultivation of diverse, high-value, and drought-resistant crops, consequently diversifying diets
+and income sources, and strengthening resilience to market and climate shocks. The private agribusiness sector supports
+this through offtake markets.8
+
+4.       Irrigation is critical for more and better jobs in Ethiopia. Over 2 million youth enter the labor market annually.
+Agriculture, the main source of employment is constrained by low productivity and a high share of unpaid or self-employed
+labor.9 Widescale irrigation boosts income, supports local communities, and creates jobs in irrigation (system design,
+supply, installation, and maintenance), and agriculture (crop offtake, storage and processing) services. These activities are
+mostly driven by the private sector, from SMEs to large global agribusinesses. The GoE’s Ten-Year Development Plan
+(2020-2030),10 aims to create 820,000 direct jobs from irrigation expansion, 110,000 jobs in infrastructure maintenance,
+and 120,000 jobs for new graduates. Irrigation investments have strong multiplier effects, 11 the GoE expects jobs in the
+crop and horticulture sector to grow 10 percent annually.12
+
+5.       Ethiopia has strong potential for sustainable irrigation development. According to the Ethiopia Rapid Irrigation
+Diagnostic and Stocktaking,13 supported by the World Bank, the country’s irrigation potential is an estimated 10 million
+hectares—approximately 9 million ha from surface water and 1 million ha from groundwater. However, only 15 percent
+(1.6 million ha) of land is currently irrigated. To sustainably harness this potential, private sector investment and integrated
+investments in infrastructure, institutions, capacity building, as well as policy and regulatory reforms are required. The
+WBG is currently supporting ongoing projects focused on farmer-led irrigation development (FLID) and small-scale
+irrigation in Ethiopia.14
+
+
+
+
+5 Ten-Year Development Plan of Ethiopia (2020-2030) (link)
+6 Office of The Prime Minister, February 18, 2025. Press Statement: Ethiopia’s Food Self-Sufficiency Endeavors (link)
+7 Jambo, Y., Alemu, A., Tasew, W. (2021). Impact of small-scale irrigation on household food security: evidence from Ethiopia. Agriculture & Food Security 10, 21. (link)
+8 Sisay, K. (2024) Impact of irrigated agriculture on households' income and food security: Evidence from the south-west region of Ethiopia. Irrigation and Drainage,
+
+73(2), 676–693. (link)
+9
+  Jobs Creation Commission, Ethiopia. Plan of Action for Job Creation (2020-2025) (link)
+10 Ten-Year Development Plan of Ethiopia (2020-2030) (link)
+11 In Africa, irrigated agriculture generates 1.5-2 direct jobs per hectare annually, with each direct job supporting 1.1-1.8 additional positions in equipment value
+
+chains, trade, logistics, and food processing. This multiplier effect results in 3.7-5.6 total jobs per hectare of irrigated land. Giordano, Mark., Namara, Regassa and
+Bassini, Elisabeth. (2023). The Impacts of Irrigation A Review of Published Evidence, World Bank (link); Wiggins, S., etc. (2023). Green jobs in agrifood systems –
+Setting a vision for youth in the Sahel. Rome, FAO. (link)
+12 Ministry of Agriculture, Ethiopia’s National Agricultural Investment Plan (2021-2030) (link)
+13 Ethiopia Rapid Irrigation Diagnostic and Stocktaking. Ministry of Irrigation and Lowlands & World Bank (2024)
+14 FLID is household- or community-led simple irrigation technologies with pumps and drip or micro-sprinkler irrigation. The Bank is currently supporting the FLID
+
+through the ongoing Food Systems Resilience Program for Eastern and Southern Africa (P178566) and small-scale irrigation through the ongoing Lowlands Livelihood
+Resilience Project (P180076)
+
+
+                                                                                                                                                                   Page 3
+
+
+
+                                                                                                                                                         Official Use Only
+         The World Bank
+         Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+6.       The rehabilitation and modernization of existing irrigation schemes offers an opportunity to expand Ethiopia’s
+irrigation capacity. Most schemes underperform due to poor design and construction, lack of quality management
+systems, limited institutional and community capacity, inadequate funding, and insufficient operation and maintenance
+(O&M). This underperformance affects all scheme types (small, medium, and large) and governance levels (community-
+managed or co-managed public schemes),15 with many performing below 50 percent in terms of irrigated area, crop
+intensity, and yields. Upgrading existing schemes can be a cost-effective way to achieve quick results provided the
+underlying causes of their decline are addressed. Transparent mechanisms for mobilizing financial resources (e.g. water
+fees, government budget, and opex) are also needed along with upfront capex budgets.
+
+7.      Dam safety in Ethiopia is at a critical stage. The country has over 5,000 dams—including more than 100 large
+dams, with many aging structures in need of rehabilitation, and about 200 new dams planned, half of which are currently
+under development. However, Ethiopia lacks a comprehensive dam safety program with formal O&M procedures,
+emergency preparedness plans (EPPs), and functioning monitoring systems. Many old dams pose risks due to unreliable
+water supply and downstream safety threats. While the World Bank has recently supported the GoE in updating the
+Ethiopia Dam Safety Guidelines and establishing a Dam Safety Unit under the Ministry of Water and Energy (MoWE), 16
+implementation is hampered by institutional fragmentation, limited institutional capacity, inadequate O&M funding, and
+a shortage of skilled personnel for operation, maintenance and surveillance.
+
+8.      The Ministry of Irrigation and Lowlands (MILLs), established in 2021, leads irrigation development in Ethiopia.
+Its mandate is to develop and implement irrigation policies, strategies, and laws; design and implement irrigation projects;
+and promote private sector participation. MILLs manages large- and medium-scale federal irrigation schemes and supports
+smaller-scale regional projects through capacity building. It also owns and operates key irrigation dams. As a new ministry,
+MILLs requires substantial capacity building but also presents an opportunity to enhance collaboration among government,
+development partners, and private investors—reducing competing models (grant, subsidized, and open market) and
+fostering a sustainable, market-driven irrigation sector.
+
+ Relationship to CPF and Regional Priorities
+
+9.      The proposed Project is fully aligned with the World Bank’s Country Partnership Framework (CPF, FY 2018-22)
+and the Government's development priorities. It directly supports CPF Objective 1.3—Improved agricultural productivity
+and commercialization. It also contributes to food security under Objective 2.1—Improved sustainability and effectiveness
+of safety nets, and supports climate-resilient irrigation development under Objective 2.7—Enhanced management of
+natural resources and climate risks. Additionally, the Project aligns with CPF Objective 3.1—Increased capacity and
+improved governance in service delivery. The Project reinforces Priority 2 of the Ethiopia Country Climate and
+Development Report (CCDR) by promoting climate-resilient infrastructure. Furthermore, it is consistent with Ethiopia's
+Ten Years Development Plan (2020-2030), which prioritizes irrigation to reduce reliance on rain-fed agriculture, increase
+agricultural production, enhance climate resilience, and create over a million jobs in modern irrigation.
+
+10.    CRISP aligns with the newly proposed Africa Resilient Irrigation for a Sustainable Economy (RISE) Initiative
+(P512975) which seeks to accelerate access to climate-resilient irrigation services in Sub-Saharan Africa (SSA). CRISP
+
+
+15 Ethiopia Rapid Irrigation Diagnostic and Stocktaking. Ministry of Irrigation and Lowlands & World Bank (2024).
+16 Supported through the closed Ethiopia Water Resilience Diagnostic and Strategic Roadmap (P177763), and the ongoing Ethiopia Flood Management Project (P176327)
+
+
+
+
+                                                                                                                                                           Page 4
+
+
+
+                                                                                                                                                 Official Use Only
+       The World Bank
+       Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+supports all key pillars of Africa RISE—promoting FLID, enhancing the performance of existing irrigation systems, ensuring
+water security for resilient irrigation, and supporting the establishment of national irrigation programs. The Project also
+collaborates with IFC’s regional Agri-Connect initiative to link irrigation with value chain development and job creation.
+CRISP can offer valuable lessons for sustainable irrigation development across the SSA region.
+
+11.      CRISP is in alignement with IDA21’s Global and Regional Opportunities Window (GROW). CRISP directly
+contributes to the Global Challenge Program on “Water Security and Climate Adaptation,” specifically Pillar 2: “Water for
+Food” and Pillar 3: “Water for Planet”. CRISP investments focus on adaptation by supporting climate-resilient irrigation,
+strengthening resilience to floods and droughts, and improving the sustainability of irrigation services. Interventions by
+the Project will reduce vulnerability of agricultural production, food systems, and rural livelihoods to climate shocks. CRISP
+is designed for rapid disbursement, prioritizing irrigation investments in batches with critical projects addressed first. The
+Grant for Project Preparation (GFPP) advances readiness by supporting technical assessments, feasibility studies and
+detailed designs, environmental and social assessments, and capacity building to ensure strong project initiation and rapid
+disbursement.
+
+
+ C. Proposed Development Objective(s)
+ To improve access to resilient irrigation services for sustainable production in Ethiopia.
+
+
+  Key Results (From PCN)
+  PDO Indicator 1: Number of people with enhanced resilience to climate risks
+  PDO Indicator 2: Number of people with strengthened food and nutrition security
+  PDO Indicator 3: Number of new or better jobs, of which (%) for women and youth
+
+
+ D. Concept Description
+
+12.      The proposed CRISP project will support the preparation and implementation of Ethiopia’s National Irrigation
+Program (NIP), facilitating the transition from a project-based approach to a more comprehensive, program-based
+model for the irrigation sector. Since 2022, the World Bank has worked with MILLs to support the Rapid Irrigation
+Diagnostic, which recommends a NIP to guide sustainable irrigation development along with a 5-year Investment Plan to
+prioritize short-term, high-impact interventions in Ethiopia. MILLs has made the NIP a priority to establish long-term
+engagement in the irrigation sector (Figure 1), with a strong role in multi-stakeholder coordination. The NIP is expected
+to be developed and launched within the initial years of CRISP implementation, followed by further implementation and
+operationalization throughout the remaining project period, ensuring that it functions as a practical, actionable program,
+rather than a high-level strategy. While the NIP is under development, the project will finance priority irrigation
+investments, including the rehabilitation and modernization of large (>3,000 ha) and medium (500-3,000 ha) scale
+schemes, support for small-scale irrigation (<500 ha), promotion of FLID, and dam safety assessments.
+
+
+
+
+                                                                                                                          Page 5
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+
+
+                                 Figure 1. Key Features of the National Irrigation Program
+
+
+13.      CRISP will focus on improving irrigation services and performance. Ethiopia is experiencing an unsustainable
+“build-neglect-rehabilitate” cycle, with irrigation development emphasizing infrastructure construction, instead of
+management and service delivery. Combined with inadequate attention given to quality management during planning and
+construction, this results in rapid deterioration and poor performance of irrigation schemes. The government faces
+institutional weaknesses and financial challenges that hinder effective irrigation O&M. Smallholder farmers engage in
+irrigation management through Irrigation Water User Associations (IWUAs); however many IWUAs lack the technical
+expertise and financial capacity to effectively manage irrigation systems. Despite strong government interest, private
+sector involvement in irrigation remains limited due to an inadequate enabling environment and low profitability.
+
+14.      CRISP will promote private sector participation in irrigation and agriculture. The Project team is working with
+IFC and 2030 WRG to co-design private sector participation activities. IFC engagement brings direct investment, advisory
+services (capacity building, market access, and the adoption of climate-smart technologies), and blended finance to
+overcome barriers to private investment. IFC can also assess opportunities to engage regional irrigation equipment
+providers, pilot tailored financing solutions for smallholder farmers to access irrigation equipment and integrate AgTech
+platforms to enhance efficiency and data-driven decision-making. WRG will foster collaboration through a multi-
+stakeholder platform, address regulatory and financing challenges, and support consultations with farm input providers
+and off takers. CRISP will explore broader forms of private sector participation, such as micro-financing for FLID, service
+models by irrigation and agri-tech providers (e.g., rentals and pay-per-use), insurance, guarantees, and public-private
+partnerships (PPP). The Project will pilot innovative models and create stronger market linkages to improve sustainability,
+efficiency, and farmer incomes.
+
+15.       The proposed Project has four components:
+
+      (1) Component 1: Irrigation Rehabilitation and Modernization. This component will support the rehabilitation and
+          modernization of existing federal-level large- and medium-scale irrigation schemes and will not construct any new
+          irrigation schemes. Three irrigation schemes—Gode, Gidabo, and Ada’a Becho—have been prioritized for this
+
+                                                                                                                       Page 6
+
+
+
+                                                                                                               Official Use Only
+          The World Bank
+          Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+           work. Component 1 will also support the development of the Investment Plan by financing studies and designs for
+           pipeline projects. Key activities include:
+               • Rehabilitation of key irrigation infrastructure and extension works to complete distribution networks
+               • Modernization of existing schemes to enhance water use efficiency, optimize energy use, and improve
+                   agricultural productivity
+               • Preparation of pipeline projects to support the rollout of rehabilitation and modernization investments
+                   under the Investment Plan
+               • Dam safety assessments for relevant dams
+               • Develop Irrigation Dam Safety Assessment Guidelines, regulations for dam O&M and emergency
+                   preparedness, and an inventory of irrigation dams in Ethiopia
+
+     (2) Component 2: Small-Scale Irrigation (SSI) Development. Component 2 supports the rehabilitation and
+         modernization of existing SSIs with an emphasis on community participation and inclusion throughout the entire
+         project cycle, and a strong focus on linking irrigation improvements to production improvement and value chain
+         development. While the primary focus remains on upgrading existing infrastructure, the component also includes
+         the construction of new SSIs in areas that are chronically food insecure, lack existing infrastructure, or where
+         rainfed agriculture is highly vulnerable to climate risks. Similar to Component 1, it also contributes to the
+         preparation of pipeline SSIs under the Investment Plan. It will also support the development and rehabilitation of
+         small water storage systems, such as rainwater harvesting facilities, haffirs,17 and small dams.
+
+     (3) Component 3: Irrigation Service Improvement. At the national level, Component 3 will improve the enabling
+         environment for sustainable irrigation development, while at the project level, it will improve O&M and irrigation
+         service delivery. Key activities include:
+             • Develop a national Directive to guide irrigation O&M, scheme-specific O&M guidelines to facilitate
+                 implementation, and support the formulation of irrigation water management policies and regulations
+             • O&M TAs for each prioritized federal-level scheme under Component 1, and each region under
+                 Component 2
+             • Develop the NIP, including subprograms for large-, medium-, and small-scale irrigation, as well as FLID
+             • Strengthen the National Irrigation Information System (NIIS) and deploy it to manage information on
+                 irrigation assets, water use, and performance
+             • Institutionalize a comprehensive Quality Management System across the entire project cycle
+             • Pilot irrigation service fees across all schemes under Component 1, as well as in selected SSI schemes
+                 under Component 2
+             • TA to pilot irrigation water management mechanisms, such as water allocation, permitting, water use
+                 monitoring, and abstraction charges under Component 1
+             • Salinity Management Pilots in selected federal schemes such as Awash and Gode
+             • Strengthen agricultural value chains linked to irrigation investments
+             • Enhance private sector participation in irrigation and agriculture
+
+
+
+
+17 Haffirs are traditional water harvesting systems used in the arid regions of the Horn of Africa, particularly in the pastoral areas of Ethiopia (e.g., Afar, Somali,
+
+Oromia), as well as in Sudan and South Sudan. A typical haffir is a pond that collects rainwater and surface runoff during the wet season for use in dry periods. (link)
+
+
+                                                                                                                                                                          Page 7
+
+
+
+                                                                                                                                                              Official Use Only
+       The World Bank
+       Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+    (4) Component 4: Project Management and Capacity Building. This component provides institutional support to
+        improve overall project management and coordination. It will enhance governance, institutional capacity, and
+        management of E&S risks and impacts within the irrigation sector.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                       Policies                                                  Triggered?
+ Projects on International Waterways OP 7.50                                         Yes
+ Projects in Disputed Area OP 7.60                                                   TBD
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+The environmental and social risks of the CRISP project at concept stage are rated Substantial, reflecting potential
+impacts on water resources, ecosystems, pollution, dam safety, land acquisition, and social inclusion. Environmental
+risks stem from altered hydrological regimes, water scarcity, erosion, habitat loss, and pollution from agrochemicals,
+while social risks relate to land acquisition, temporary or permanent displacement, exclusion of vulnerable groups, labor
+and OHS issues, SEA/SH, and security constraints in FCV areas. These risks are expected to be manageable and largely
+reversible through appropriate mitigation measures. The Borrower will prepare and implement key instruments—
+including the ESMF, ESCP, SEP, and site-specific ESIAs/ESMPs—to ensure risks are identified, mitigated, and monitored
+throughout project implementation.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Si Gou
+   Senior Water Resources Management Specialist
+
+   Ximing Zhang
+   Senior Water Specialist
+
+   Hayalsew Yilma
+   Senior Irrigation Specialist
+
+ Borrower/Client/Recipient
+  The Federal Democratic Republic of Ethiopia
+
+ Implementing Agencies
+
+
+                                                                                                                      Page 8
+
+
+
+                                                                                                              Official Use Only
+     The World Bank
+     Ethiopia: Climate Resilient Irrigation for Sustainable Production (CRISP)(P508364)
+
+
+ Ministry of Irrigation and Lowlands
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                      Si Gou, Ximing Zhang, Hayalsew Yilma
+
+Approved By
+
+Practice Manager/Manager:                 Soma Ghosh Moulik                        17-Sep-2025
+
+Country Director:                         Maryam Salim                             21-Oct-2025
+
+
+
+
+                                                                                                         Page 9
+
+
+
+                                                                                                 Official Use Only
+

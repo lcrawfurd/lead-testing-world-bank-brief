@@ -1,0 +1,528 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Green and Future Cities Project(P509293)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 29-Oct-2025 | Report No: PIDDC01361
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Green and Future Cities Project(P509293)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                   Operation Name
+Turkiye                        P509293                        Green and Future Cities Project
+Region                         Estimated Appraisal Date       Estimated Approval Date         Practice Area (Lead)
+EUROPE AND CENTRAL             19-Dec-2025                    19-Mar-2026                     Urban, Resilience and Land
+ASIA
+Financing Instrument           Borrower(s)                    Implementing Agency
+Investment Project             ILLER BANKASI ANONIM           Antalya Metropolitan
+Financing (IPF)                SIRKETI (ILBANK)               Municipality , Konya
+                                                              Metropolitan Municipality
+
+Proposed Development Objective(s)
+Improve access to sustainable and resilient municipal infrastructure and services in participating cities.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+Is this project Private Capital Enabling (PCE)?               No
+
+SUMMARY
+  Total Operation Cost                                                                                           350.00
+
+  Total Financing                                                                                                350.00
+             of which IBRD/IDA                                                                                   250.00
+  Financing Gap                                                                                                     0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                  250.00
+   IFC Own Resources/Mobilization                                                                                100.00
+
+
+
+                                                                                                                      Page 1
+
+
+
+                                                                                                              Official Use Only
+         The World Bank
+         Green and Future Cities Project(P509293)
+
+
+
+
+  @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                              Concept Review Decision
+Substantial                                                                               The review did authorize the preparation to continue
+
+
+
+ B. Introduction and Context
+
+ Project Strategic and Country Context
+    1. Türkiye’s development achievements over the past two decades have been remarkable, but macroeconomic
+       stabilization efforts continue. Real gross domestic product (GDP) growth in Türkiye averaged 5.4 percent between
+       2002 and 2022 and was accompanied by a rapid decline in poverty, with the poverty rate (US$6.85 2017 Purchasing
+       Power Parity (PPP) poverty line) halving from above 20 percent in 2007 to less than 10 percent in 2021. While the
+       COVID-19 pandemic dampened growth in 2020, Türkiye achieved double-digit DGP growth in 2021 (11.8 percent)
+       and growth maintained significant momentum in 2022 (5.4 percent) and 2023 (5.0 percent), before moderating in
+       2024 (3.3 percent). Yet, the policy framework that helped the country navigate the COVID-19 shock also heightened
+       macroeconomic risks created by high inflation (inflation reached 85.5 percent in October 2022) and reduction in
+       reserves. The policy normalization started in the second half of 2023 has delivered significant results as credit rating
+       upgraded, external balance strengthened, reserves recovered, and growth composition improved. However, the
+       financial markets came under pressure due to the heightened volatility in mid-March 2025 and increased global
+       economic uncertainties. The measures taken, including the increase in the policy rate to 46 percent in April 2025,
+       have largely stabilized markets. Therefore, the Central Bank of the Republic of Türkiye has reinitiated the policy
+       rate cut cycle lowering the policy rate to 40.5 percent in September 2025. Despite the downward trend, inflation
+       remains high (33 percent in September 2025) and CDS premium hovers around 250 bps (October 2025).
+    2. Türkiye’s development path is also vulnerable to significant seismic and climate-related hazards. With about 70
+       percent of the country’s population living in high-risk seismic zones, earthquakes pose a significant risk to lives,
+       livelihoods, and infrastructure, and have a disruptive impact on the economy. Türkiye has experienced 45
+       earthquakes with a magnitude of 5 and above between 1914 and 2024 resulting in approximately 131,000 fatalities,
+       a total affected population of 20.5 million, and direct damages exceeding US$79 billion.1 In addition, climate-
+       related disasters have been striking with greater frequency and intensity in Türkiye over the past two decades2,
+       and this intensification is expected to continue with more frequent extreme weather and flooding, more protracted
+       droughts and wildfires, sea level rise, and extreme heat. Türkiye’s geographic and socioeconomic conditions make
+       it particularly vulnerable to changes in climate – assessed as highly vulnerable in 9 out of 10 climate dimensions,
+       compared with the Organization for Economic Development (OECD) median of 2 out of 10, in the Türkiye Country
+       Climate and Development Report3 (CCDR) issued by the World Bank (WB) in June 2022.4
+    3. As elsewhere in the world, cities in Türkiye have been central to the country’s economic development and job
+       creation. By bringing people, firms, and services into proximity, cities generate agglomeration economies boosting
+
+1 EM-DAT, CRED / UC Louvain, Brussels, Belgium (https://www.emdat.be/)
+2 1,030 extreme weather and flood events were recorded in 2022 – the highest number since at least 1944. Turkish State Meteorological service (2023). State of the
+
+Climate in Türkiye in 2022 (https://mgm.gov.tr/FILES/iklim/yillikiklim/2022-iklim-raporu.pdf)
+3 https://www.worldbank.org/en/country/turkey/brief/key-highlights-country-climate-and-development-report-for-turkiye
+4 Dimensions with high risks include extreme heat, agricultural (maize) yield losses, risks to assets, risks to well-being, forced displacement, exposure of the poor to
+
+climate risks, and transport network exposure – with considerable implications for productivity, macroeconomic stability, and poverty reduction.
+
+
+                                                                                                                                                                     Page 2
+
+
+
+                                                                                                                                                           Official Use Only
+            The World Bank
+            Green and Future Cities Project(P509293)
+
+
+            productivity and economic growth. About 76 percent of Türkiye’s population, a large share of its assets and GDP
+            are concentrated in urban areas, with the urban population expected to reach 86 percent by 2050.5 In 2023, the
+            30 metropolitan cities in Türkiye generated 4.5 percent of the total 5.1 percent national GDP growth. Notably,
+            secondary metropolitan cities6, which are the epicenter of the Türkiye’s recent urban development, accounted for
+            about 2 percent of this growth emanating from cities, nearly half of the country's overall growth. In addition, the
+            average labor force participation rate in Türkiye is higher in metropolitan cities at 53.3 percent compared to 50.8
+            percent in other cities7. Globally, cities offer an average wage premium of 6.5 percent over non-urban areas. Over
+            the next decade, 1.2 billion young people will reach working age in developing countries, yet only 420 million jobs
+            are expected to be created under the current trajectory8.
+      4. While cities in Türkiye have been central to the country’s economic transformation, their ability to access long-
+         term finance for the municipal infrastructure and services required to support people and economic activity has
+         not kept pace. The WB estimates that municipal investment needs are around 2 to 4 percent of GDP in low and
+         middle-income countries annually.9 Yet, subnational government capital expenditure in Türkiye, which includes
+         municipal infrastructure investments, accounted for only 0.6 percent of GDP in 2020.10 In addition, municipalities
+         in Türkiye mobilize limited repayable finance to address their infrastructure investment needs, as demonstrated
+         by the municipal borrowing stock merely reaching 1 percent of GDP.11 The commercial market for municipal debt
+         remains underdeveloped, with most municipal borrowing locked into short-term maturities that are ill-suited for
+         large-scale infrastructure projects. Even creditworthy municipalities face challenges in accessing long-term debt
+         financing for infrastructure investments needed to deliver quality municipal services and lay the foundations for
+         employment and development. Consequently, Turkish municipalities have limited access to long-term commercial
+         and capital market borrowing options and primarily depend on infrastructure funding from investment
+         development banks such as ILBANK—a publicly owned institution dedicated to supporting sub-national
+         authorities—despite these banks representing only a small segment of the overall banking sector12. Moreover, the
+         capacity to prepare and structure viable infrastructure projects is limited in many municipalities, further impacting
+         their ability to mobilize infrastructure financing. Building on previous experience of the WB and the International
+         Finance Cooperation (IFC) in the municipal sector in Türkiye and leveraging each institution’s respective
+         comparative advantages and mandates, the proposed Series of Projects seeks to establish a one World Bank Group
+         (WBG) model to support ILBANK and secondary metropolitan municipalities in addressing these municipal
+         investment gaps using a variety of financing mechanisms and instruments.
+
+    Sectoral and Institutional Context
+      5. Türkiye has experienced rapid urbanization over the past decades, driven by population growth, rural-to-urban
+         migration, and economic development, with infrastructure demands prompting large-scale public and private
+         investments. The urbanization rate in Türkiye roughly doubled, rising by about 39.7 percentage points from
+         approximately 38.2 percent in 1970 to 77.9 percent in 2024.13 As more people moved to urban areas in search of
+
+5 World development indicators. Washington, D.C.: The World Bank.
+6 These include all metropolitan cities in Türkiye except Ankara, Istanbul and Izmir. Antalya and Konya are among this group of 27 metropolitan municipalities.
+
+7
+    Turkish Statistical Institute (TURKSTAT) Labor Force Participation Data, 2024
+8
+    Jobs and Growth, WB, https://www.worldbank.org/en/topic/jobsandgrowth/overview
+9 WBG, 2025. Unlocking Subnational Finance: Overcoming Barriers to Finance for Municipalities in Low- and Middle-Income Countries.
+
+https://hdl.handle.net/10986/43104
+10 OECD & UCLG, 2022. Republic of Türkiye – Country Profile. OECD/UCLG World Observatory on Subnational Government Finance and Investment (SNG-WOFI).
+11 IMF Government Finance Statistics; World Bank Local Government Borrowing Database; US Census Bureau (2021)
+12 World Bank.2023. Türkiye - Water Circularity and Efficiency Improvement Project. Washington, D.C.: World Bank Group.
+
+https://documentsinternal.worldbank.org/search/34056674
+13 WB, World Development Indicators, “Urban population (% of total population) – Türkiye,” accessed October 6, 2025,
+
+https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TR[20].
+
+
+                                                                                                                                                                  Page 3
+
+
+
+                                                                                                                                                       Official Use Only
+            The World Bank
+            Green and Future Cities Project(P509293)
+
+
+            better job opportunities and living standards, Turkish cities expanded quickly and increasing the demand for
+            municipal services—often outpacing the development of essential infrastructure and putting pressure on the
+            capacity of municipalities to plan, develop, and finance adequate infrastructure and services. Many cities in Türkiye
+            have aging and inefficient infrastructure that requires significant upgrades and maintenance. As a result, non-
+            revenue water (NRW) losses average over 40 percent in metropolitan municipalities across Türkiye, and energy
+            expenditures make up 20 percent of the total budgets for municipal water utilities with only 4 percent share of
+            renewable energy sources in energy consumption.14 Furthermore, secondary metropolitan municipalities with
+            growing populations and important economic sectors need to further improve and expand municipal infrastructure
+            and services to remain attractive for people and firms seeking predictable environments for operations and talent
+            retention. In addition, improvement and expansion of municipal transportation, water, sanitation, and waste
+            management systems is also critical for tourist cities like Antalya, which hosted 17.3 million tourists in 202415, to
+            accommodate massive influxes of visitors, thereby supporting economic growth and maintaining quality of life for
+            residents and tourists alike. Municipalities have also been relied on to host and address the basic needs of various
+            vulnerable groups especially following recent devastating earthquakes and need to be better prepared to service
+            and accommodate a dynamic population.
+      6. Given the high concentration of people and assets in cities, Türkiye’s cities also play a key role in ensuring the
+         resilience of people and productive activity under mounting natural hazards and regional instability, and in
+         achieving a low-carbon and resource-efficient future. Rapid urban growth in Türkiye paired with insufficient
+         consideration of hazard risks in spatial planning, investment prioritization, and construction have resulted in high
+         exposure of urban populations and assets to seismic and climate hazards, including notably earthquakes and floods.
+         The Government of Türkiye (GoT) assessed the damage from the February 2023 earthquakes to municipal
+         infrastructure (including water and sewage networks, water treatment plants, wastewater treatment plants,
+         municipal buildings, and municipal roads) at US$1.02 billion.16 Riverine and urban floods already affect 600,000
+         people annually on average, with approximately US$5 billion of annual GDP exposed and US$843 million of annual
+         damages forecast. Floods in 2021 caused 2,500 evacuees, 454 significantly damaged buildings, and at least 81
+         deaths, while flooding caused around US$600 million in damages in 2009, US$400 million in 2004, and over US$1
+         billion in damages in 199817. As Turkish cities become increasingly exposed to climate- and nature-related hazards,
+         they will need to play a pivotal role in national efforts to build resilience of both Türkiye’s people and the economy.
+         At the same time, well planned and resource-efficient urban infrastructure development has the potential to
+         reduce water and air pollution, cut emissions (65 percent of the country’s total greenhouse gas (GHG) emissions
+         come from cities18), and improve quality of life for urban residents.
+      7. Investing in municipal infrastructure that improves efficiency, sustainability, and resilience can help Türkiye’s
+         cities to reach their full potential as engines of economic growth. Investments in public transport, energy
+         efficiency, urban water and ecosystem restoration can generate employment opportunities, making cities more
+         competitive, livable, and attractive to investment. Well-targeted low-carbon urban investments can outperform
+         traditional infrastructure in generating jobs: for every US$1 million invested, public transport and electric vehicles
+         create 15 to 28 jobs (compared to 8 jobs in conventional road construction), energy efficiency yields 8 to 21 jobs,
+         and nature-based solutions such as ecosystem restoration can generate up to 40 jobs, twice the rate of gray
+         infrastructure.19
+
+14
+     https://www.suen.gov.tr/uploads/suki-mukayeseli-performans-degerlendirmesi_ana-rapor.pdf
+15 https://www.aa.com.tr/tr/ekonomi/antalya-2024te-yaklasik-17-3-milyon-ziyaretciyle-tarihi-rekor-kirdi/3440837
+16 https://www.sbb.gov.tr/wp-content/uploads/2023/03/2023-Kahramanmaras-ve-Hatay-Depremleri-Raporu.pdf
+17 https://www.gfdrr.org/sites/default/files/Turkey.pdf
+18 World Bank Group.2022. Türkiye - Country Climate and Development Report : Background Note 2 - Cities, Transport, and Buildings. Washington, D.C. : World Bank
+
+Group. https://documentsinternal.worldbank.org/search/33838520
+19 Banking on Cities, Washington, DC. World Bank
+
+
+
+
+                                                                                                                                                            Page 4
+
+
+
+                                                                                                                                                  Official Use Only
+          The World Bank
+          Green and Future Cities Project(P509293)
+
+
+      8. The WB and the IFC have built a strong partnership in the municipal sector in Türkiye over the past decade that
+         has the potential to create platforms for coordinated investment financing and private participation.
+         Traditionally, the WB worked with ILBANK20 to provide financing to municipalities and utilities without access to
+         commercial finance or for investments that would not attract commercial or IFC financing, while IFC worked with
+         large metropolitan municipalities or their associated utilities with the capacity to borrow without a sovereign
+         guarantee and for more commercially attractive investments. The WB currently has an active portfolio of seven
+         operations totaling EUR2.1 billion with ILBANK that has diversified sectoral and geographic coverage over time.21
+         IFC has about US$600 million in direct lending to large metropolitan municipalities in Türkiye for major municipal
+         infrastructure investments.22 However, accessing finance for multi-sectoral municipal infrastructure investments
+         remains a challenge, even for creditworthy secondary metropolitan municipalities with investment planning
+         instruments. Leveraging the WB’s and IFC’s municipal engagement in Türkiye, there is an opportunity to establish
+         a one World Bank Group (WBG) model to support ILBANK and secondary metropolitan municipalities. The
+         collaboration will leverage both institutions’ expertise in project preparation, planning, and structuring, while
+         building ILBANK’s and municipal capacity for future market-based financing. IBRD will focus on public-good and
+         non-commercial investments, whereas IFC will focus on commercially viable, credit-enhancing projects that
+         strengthen municipal creditworthiness and crowd in private participation. This model would also help develop and
+         finance critical multi-sectoral municipal investments aligned with local development and climate plans, mobilizing
+         both public and private resources, while putting forward the most appropriate financing package for priority
+         investments within municipal borrowing limits.
+
+     Relationship to CPF
+      9. The proposed Project is consistent with the WBG Country Partnership Framework (CPF) for Türkiye for FY24–
+         FY2823 (Report No. CPF0000004, discussed by the WBG Board of Executive Directors on April 9, 2024) and the
+         Türkiye Country Climate and Development Report (CCDR) issued in 202224. The Project supports the CPF’s
+         objective of promoting inclusive services and job creation by strengthening resilient municipal infrastructure and
+         services. Specifically, it aligns with CPF priorities to expand access to climate- and disaster-resilient urban services,
+         including safely managed water supply and wastewater systems and high-quality public transport. Building
+         resilience in urban areas contributes to the WBG mission of ending extreme poverty and boosting shared prosperity
+         on a livable planet by reducing the vulnerability to disasters of the population, especially the poor. Disasters are
+         estimated to cause US$520 billion in losses and to push 26 million people into poverty annually. The Project also
+         aligns with Türkiye’s CCDR’s recommendations for integrating measures that reduce risks and improve resilience
+         in municipal infrastructure investments through improved urban planning, increased energy efficiency, and
+         sustainable approaches to managing water, waste, and transport systems.
+
+      10. The proposed Project will also contribute to goals set out in Türkiye’s 12th National Development Plan (NDP) for
+          2024-2028, Nationally Determined Contributions (NDC), and Climate Change Mitigation and Adaptation Strategy
+          and Action Plans for 2024-2030 (CCMASAP). The main priority for the NDP under the Disaster Resilient Living Areas
+          and Sustainable Environment section is to improve the quality of life in cities, ensuring sustainable development,
+          enhancing resilience, and providing urban services that meet societal needs. Specifically, under the Urban
+
+20 ILBANK, a development and investment bank that on lends international financial institution (IFI) loans for municipal investments
+21
+   These operations include Sustainable Cities Project 2 (P161915), Türkiye Earthquakes, Floods, Wildfires Emergency Reconstruction (TEFWER) Project (P176608),
+Climate and Disaster Resilience Cities (CDRC) Project (P173025), Türkiye Water Circularity and Efficiency Improvement Project (P174915), Public and Municipal
+Renewable Energy Project (P179867), Municipal Services Improvement Project (P169996), Türkiye Earthquake Recovery and Reconstruction Project (P180849).
+22 These include support to Istanbul MM’s metro line project (#37093), Antalya MM’s tramline project (#38506), and Izmir MM’s water and wastewater investments
+
+(#44190, #36080). This is the total cumulative commitment – the current outstanding exposure is US$160 million.
+23 https://www.worldbank.org/en/country/turkey/brief/world-bank-group-country-partnership-framework-for-turkiye-fy24-28
+24 https://openknowledge.worldbank.org/server/api/core/bitstreams/80bdfcf8-73b1-42b3-b107-1629f64a1f0c/content
+
+
+
+
+                                                                                                                                                         Page 5
+
+
+
+                                                                                                                                               Official Use Only
+      The World Bank
+      Green and Future Cities Project(P509293)
+
+
+      Infrastructure section, the main objectives include ensuring access to healthy and reliable drinking water,
+      minimizing the impacts of wastewater on human and environmental health, and establishing sustainable urban
+      transportation systems that are cost-effective, clean, energy-efficient, easily accessible to all individuals, and
+      feature strong intermodal connectivity. The CCMASAP outlines several measures to mitigate GHG emissions, such
+      as encouraging a shift from private vehicle use to public transport and reducing emissions from traffic congestion.
+      It also aims to improve wastewater management and treatment infrastructure. This Project will also help Türkiye
+      achieve its NDC goal of net-zero emissions by 2053.
+
+
+
+C. Proposed Development Objective(s)
+To improve access to sustainable and resilient municipal infrastructure and services in participating cities.
+
+
+Key Results (From PCN)
+ 11. The proposed Project will measure progress toward the PDO via the following proposed indicators:
+ a. People benefiting from climate resilient infrastructure (number, of which women and youth) – a sub-indicator to
+    CRI ‘People with enhanced resilience to climate risk’
+ b. People provided with water, sanitation and hygiene of which (%) is safely managed (number, of which women and
+    youth) - CRI
+ c. People provided with access to sustainable transport infrastructure and services (number, of which female) - CRI
+ d. Energy saved by municipal utilities (MWh)
+
+D. Concept Description
+
+ 12. The proposed Project responds to a request from the GoT to support efforts to improve infrastructure services
+     and resilience in growing municipalities and is expected to be the first in a series of projects (SOP). The proposed
+     SOP approach will allow for the provision of IBRD financing to a single borrower (ILBANK) for scalable subnational
+     lending to sequential cohorts of metropolitan municipalities and their affiliated utilities at a pace consistent with
+     their readiness. Another benefit of the SOP is that a joint WB-IFC implementation model with ILBANK can be
+     established during the first phase and related capacity within ILBANK strengthened to facilitate access to a broader
+     package of diversified financing for sustainable and resilient municipal infrastructure investments to municipalities
+     in subsequent phases. As the first operation in the series, the proposed Project will provide an initial two
+     municipalities (Antalya and Konya Metropolitan Municipalities) with access to both WB and IFC lending for multi-
+     sectoral municipal investments enhancing sustainability and resilience, while providing technical support to other
+     municipalities on creditworthiness and pipeline sub-project preparation to reach readiness for participation in
+     subsequent projects under the SOP.
+ 13. The proposed Project components are described below.
+   Component 1. Integrated, multi-sectoral investments in participating municipalities
+ 14. This component will support demand-driven municipal investments contributing to more livable, productive, and
+     resilient urban development in the participating municipalities. It will finance civil works, goods, consulting and
+     non-consulting services for, inter alia, review and quality assurance of technical designs prepared by municipalities
+     and construction supervision as needed by each municipality. Eligible investments are expected to include, but are
+     not limited to, the following:
+
+
+                                                                                                                        Page 6
+
+
+
+                                                                                                                Official Use Only
+      The World Bank
+      Green and Future Cities Project(P509293)
+
+
+      1.   Urban Transport: construction or rehabilitation of resilient mass transit systems (such as tramlines and
+           associated facilities); purchase of public transport vehicles (such as trams and electric buses); construction of
+           non-motorized transport infrastructure; establishment of digital systems; road safety improvements;
+           establishment of evacuation routes and emergency corridors; improvements for universal accessibility; and
+           integrated greening along transport corridors. Investments will focus on supporting a modal shift towards
+           sustainable mobility modes and improving access to main urban centers and, thus, their markets and
+           employment opportunities.
+      2.   Water and Sanitation: construction and rehabilitation of resilient drinking water, sewage, and stormwater
+           networks, transmission lines, water tanks, pumping stations, and water and wastewater treatment plants;
+           and purchase of goods for related municipal services.
+      3.   Renewable Energy and Energy Efficiency: construction of distributed renewable energy plants from sources
+           such as solar and geothermal; energy efficiency improvements in municipal infrastructure services and on-
+           site energy generation for utilities.
+    Component 2. Strengthening capacity of ILBANK and municipalities in municipal finance and urban management
+    for future investment projects
+  15. The component will support ILBANK and municipalities to build institutional and technical capacity in municipal
+      finance and urban management to prepare integrated municipal infrastructure and financing plans. The
+      component will support a next cohort of municipalities to develop investment plans and sub-project pipelines for
+      future financing, advance creditworthiness, and prepare technical (Project Information Documents (PIDs),
+      technical designs, design reviews), environmental, and social studies for potential sub-projects for the next project
+      under the SOP. The component will also explore innovative ways of using available WBG financing instruments
+      with ILBANK, including guarantees and blended financing, and of facilitating access to private capital to support
+      municipalities with a broader package of financing for future municipal infrastructure investments. The component
+      will target municipalities participating under this Project and potentially benefiting under subsequent projects.
+    Component 3. Project management
+  16. This component will finance provision of goods, consulting and non-consulting services, operating costs, and
+      training to ILBANK for Project management and implementation support activities, including, inter alia,
+      procurement, financial management, environmental and social compliance, monitoring and evaluation, reporting,
+      grievance redress, stakeholder engagement, communications and outreach.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                          No
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+                                                                                                                        Page 7
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     Green and Future Cities Project(P509293)
+
+
+ 17. The Project aims at promoting sustainable and resilient urban development in Türkiye. Eligible sectors include
+     public transport, water and sanitation, renewable energy, and energy efficiency. The project seeks to enhance
+     urban livability, efficiency, productivity, and resilience to climate-related risks. ILBANK, a state-owned bank, will
+     act as the Financial Intermediary for the IBRD financing, providing loans and implementation support to
+     municipalities. It has a strong track record in managing environmental and social (E&S) risks through its
+     Environmental and Social Management System (ESMS), which has been functional since August 2024. The ESMS
+     will guide the project's implementation, ensuring compliance with World Bank standards.
+ 18. Environmental risks are rated as substantial due to potential impacts on air, water, and soil quality, as well as
+     biodiversity. Mitigation measures will address risks like pollution, habitat disturbance, and occupational health and
+     safety. Social risks are also rated as substantial and include risks and impacts related to land acquisition, labor
+     conditions, and community health and safety. Stakeholder engagement is crucial, involving municipalities,
+     government agencies, civil society, and vulnerable groups. ILBANK will prepare a Stakeholder Engagement Plan
+     (SEP) and a Grievance Mechanism (GM) to address complaints, including those related to sexual exploitation and
+     abuse/sexual harassment (SEA/SH). Labor risks will be managed through Labor Management Plan (LMP) and ESMPs
+     prepared by each municipal sub-borrower as per ILBANK’s ESMS and ESS2. Sub-projects will be located in urban
+     and semi-urban areas, potentially affecting cultural heritage and sensitive natural areas. ILBANK will ensure
+     compliance with ESS5 and ESS8, preparing Resettlement Plans and chance finds procedures as needed by sub-
+     borrowers in line with its ESMS and World Bank’s Environmental and Social Framework. High E&S risk investments
+     will be ineligible for financing, which will be specified in Environmental and Social Commitment Plan (ESCP),
+     positive/negative lists and ESCP. Capacity of participating municipalities will be assessed during the Project
+     preparation and any gaps, if identified, covered in ESCP and respective action plan(s).
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Ahmet Kindap
+ Senior Urban Specialist
+
+ Bontje Marie Zaengerling
+ Senior Urban Development Specialist
+
+ Xueman Wang
+ Senior Urban Specialist
+
+Borrower/Client/Recipient
+ ILLER BANKASI ANONIM SIRKETI (ILBANK)
+
+Implementing Agencies
+
+
+
+
+                                                                                                                      Page 8
+
+
+
+                                                                                                              Official Use Only
+     The World Bank
+     Green and Future Cities Project(P509293)
+
+
+ Antalya Metropolitan Municipality
+
+ Konya Metropolitan Municipality
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Ahmet Kindap, Bontje Marie Zaengerling, Xueman Wang
+
+Approved By
+
+Practice Manager/Manager:               Joanna Mclean Masic                 08-Sep-2025
+
+Country Director:                       Agata E. Pawlowska                  29-Oct-2025
+
+
+
+
+                                                                                                      Page 9
+
+
+
+                                                                                              Official Use Only
+

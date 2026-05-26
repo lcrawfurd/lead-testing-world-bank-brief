@@ -1,0 +1,804 @@
+Public Disclosure Authorized
+                                        The World Bank
+                                        Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+
+
+Public Disclosure Authorized
+
+
+                                                         Project Information Document (PID)
+
+
+
+
+Public Disclosure Authorized
+                                                         Concept Stage | Date Prepared/Updated: 27-Jul-2021 | Report No: PIDC31947
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               Jul 26, 2021                                                                                          Page 1 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Bangladesh                                     P176429                                                 Chattogram Water
+                                                                                                         Supply Improvement
+                                                                                                         and Sanitation Project -
+                                                                                                         II (P176429)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  SOUTH ASIA                                     Mar 22, 2022               Aug 18, 2022                 Water
+
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   People's Republic of       Chattogram Water Supply
+                                                 Bangladesh                 and Sewerage Authority
+
+   Proposed Development Objective(s)
+
+    The Project Development Objectives (PDOs) are to i) increase access to safe water supply and build capacity to execute
+    sanitation plans; ii) strengthen the operational performance of CWASA; and iii) build resilience and preparedness to
+    disasters.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                    397.00
+
+    Total Financing                                                                                                       397.00
+
+                             of which IBRD/IDA                                                                            300.00
+    Financing Gap                                                                                                            0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Development Association (IDA)                                                                        300.00
+
+           IDA Credit                                                                                                     300.00
+
+    Non-World Bank Group Financing
+       Counterpart Funding                                                                                                  97.00
+
+
+
+Jul 26, 2021                                                                                                            Page 2 of 18
+           The World Bank
+           Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+
+            Borrower/Recipient                                                                                                   97.00
+
+
+
+
+     Environmental and Social Risk Classification                              Concept Review Decision
+     Substantial                                                               Track II-The review did authorize the preparation to
+                                                                               continue
+
+
+     B. Introduction and Context
+
+     Country Context
+
+ 1.      Bangladesh has experienced rapid social and economic progress in recent decades and achieved lower-middle
+ income status in 2015. Gross domestic product (GDP) grew by an average of about 6 percent per year since 2000 and
+ accelerated to more than 8 percent in fiscal year (FY) 2019 (July 2018–June 2019). Strong labor market gains contributed
+ to a sharp decline in the national poverty rate from 48.9 percent in 2000 to 24.5 percent in 2016, and extreme poverty
+ rate from 34 percent to 13 percent over the same period.1 However, the pace of poverty reduction has slowed in recent
+ years even as growth accelerated, particularly in urban areas and in the west of the country. Similarly, progress on shared
+ prosperity slowed down between 2010 and 2016 after a decade of improvements, with annual consumption growth of
+ the bottom 40 percent trailing that of the overall population (1.2 versus 1.6 percent). More than half of the population is
+ vulnerable to poverty as their consumption levels are close to the poverty threshold. While tax collections are among the
+ lowest in the world, under execution of the budget has contained the fiscal deficit, which has been below 5 percent of
+ GDP since FY01. As a result, public debt remained at 33.7 percent of GDP at the end of FY19.
+
+ 2.       Economic growth suffered a sharp decline after the Coronavirus Disease 2019 (COVID-19) pandemic caused
+ major disruptions to economic activity. Bangladesh had entered 2020 with a relatively strong macroeconomic position.
+ Garment exports and remittances had narrowed the external deficit and international reserves were adequate. In the first
+ half of FY20, growth started decelerating due to slowing global trade, exports declined due to deteriorating external
+ competitiveness, and tightened access to finance constrained private investment growth. Growth during this period was
+ primarily supported by remittance-fueled private consumption. The pandemic in early 2020 disrupted the supply of
+ intermediate goods from China, reducing manufacturing output. As the pandemic intensified globally, Bangladesh’s export
+ orders from Europe and the United States declined precipitously. Lockdown measures by the government resulted in a
+ sudden stoppage of economic activity in many sectors. As a result, real GDP growth decelerated to 3.6 percent in FY21 .
+ Inflation remained low at 5 percent in January 2021. A decline in imports and a large inflow of remittances, up over 30
+ percent (year-on-year), contributed to a current account surplus between July 2020 and January 2021. The second round
+ of lockdowns in the end of FY21 and early 2022 is likely to dampen the predicted mild recovery of economic activity. Weak
+ demand and private investment, shortage of inputs, and severe financing constraints may continue to depress industrial
+ production. Moreover, flooding in early FY21 has hampered Bangladesh’s agriculture production. Transportation and
+ supply-chain disruptions will further dampen the recovery of agricultural production and perishables. Inflation is projected
+ to hover around 5.7 percent, but the fiscal deficit is likely to rise with the continuation of elevated expenditure on social
+ protection and economic stimulus.
+
+
+
+ 1
+     Bangladesh Bureau of Statistics, Household Income and Expenditure Survey, 2000/01 through 2016/17.
+
+Jul 26, 2021                                                                                                                 Page 3 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ 3.      The Government of Bangladesh (GoB) implemented the National Preparedness and Response Plan (NPRP) for
+ COVID-19 that accords water, sanitation, and hygiene (WASH) interventions. The GoB responded rapidly to the COVID-
+ 19 pandemic by issuing the NPRP in March 2020.2 To facilitate planning and response, six country levels were identified
+ for disease incidence and transmission, reduction in transmission, and the final recovery phase. Various means of
+ prevention and control, including social distancing, quarantines, shutdowns, and other measures were mandated to
+ reduce the spread of COVID-19. In line with the NPRP’s intervention areas for risk communication and infection prevention
+ and control, the GoB WASH response strategy paper set out the sector priorities for the immediate, medium-term, and
+ long-term responses to the COVID-19 emergency.3
+
+ 4.      Bangladesh remains extremely vulnerable to the impacts of climate change. The Global Climate Risk Index
+ ranked Bangladesh as the world’s seventh most-affected country using 1999–2018 data.4 Rising temperatures leading to
+ more intense and unpredictable rainfall during the monsoon season and a higher probability of catastrophic cyclones are
+ expected to result in increased tidal inundation. It is estimated that a one-meter rise in sea levels is likely to submerge 18
+ percent of arable land in coastal areas.5 Recent studies estimate that around 13.3 million people may become internal
+ climate migrants by 2050.6 Additional rural-urban migration may have significant consequences for air and water pollution
+ and unsustainable consumption of natural resources, while putting additional pressure on urban labor markets.
+ Addressing climate risks is urgent to ensure sustainable economic development of the country.
+
+  Sectoral and Institutional Context
+
+ 5.       Bangladesh has abundant water resources, but the water sector faces considerable challenges in achieving
+ Sustainable Development Goal 6 (SDG 6). The Bangladesh Water Sector Diagnostic7 identified ‘Poor WASH service
+ delivery in a growing economy’ as of one out of the six major challenges for the water sector in the country. Although
+ Bangladesh has achieved its Millennium Development Goals (MDGs) target of halving the population without access to
+ improved drinking water sources, Bangladesh ranks 126th in safety of drinking water with about 70 percent of its
+ population being exposed to unsafe drinking water.8 Bangladesh is rapidly urbanizing but only 10 percent of urban
+ households have access to piped water—this has not increased much over the last decade. For sanitation, urban
+ households are dependent on pits and tanks that are cleaned infrequently, and sewerage coverage is sparse. There is no
+ full-service chain available for sanitation (via sewerage or Fecal Sludge Management (FSM) even in the metros of Dhaka
+ and Chattogram. Utilities and municipalities face considerable challenges in extending safe water supply and sanitation
+ (WSS) services to the growing urban population.
+
+ 6.      Chattogram,9 the commercial capital of Bangladesh, has witnessed robust economic growth in recent years that
+ requires increased investments in the WSS sector to meet the growing demand for improved services. Chattogram is
+ the second largest city in Bangladesh and the busiest seaport in the region. Located in southeastern Bangladesh, the
+ Chattogram Metropolitan Area10 is spread over 155 sq km. The population of the area under the Chattogram City
+
+ 2 Government of the People’s Republic of Bangladesh, National Preparedness and Response Plan for COVID-19, Bangladesh, Version 5, March 2020,
+
+ Directorate General of Health Services Health Service Division, Ministry of Health and Family Welfare.
+ 3 Response to COVID-19 Outbreak through Water, Sanitation and Hygiene Interventions - Bangladesh Strategy Paper 2020–22.
+ 4 Germanwatch. 2020. Global Climate Risk Index 2020.
+ 5 UNFCCC. 2007. Climate Change Impacts, Vulnerabilities and Adaptation in Developing Countries. UNFCCC Secretariat. Bonn, Germany.
+ 6 World Bank. 2018. Groundswell: Preparing for Internal Climate Migration. Washington, DC.
+ 7 World Bank. 2018. Promising Progress: A Diagnostic of Water Supply, Sanitation, Hygiene, and Poverty in Bangladesh.
+
+ https://openknowledge.worldbank.org/handle/10986/29450. License: CC BY 3.0 IGO.
+ 8 World Economic Forum. 2018. Global Competitiveness Report.
+ 9 Formerly known as Chittagong.
+ 10 https://www.ccc.org.bd/media_brief.
+
+
+
+Jul 26, 2021                                                                                                                          Page 4 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ Corporation (CCC) was 2.59 million in 2011, which is estimated to have increased to about 3.211 million as of 2020. Having
+ evolved over a millennium, this old port city has grown as a commercial center that accounts for 12 percent of the
+ country’s GDP. It produces 40 percent of Bangladesh’s industrial output, contributes 40 percent of the government’s
+ revenues, and generates employment for 16 percent of the total employed labor force in the industrial sector.12 The city
+ and its surrounding areas are home to a number of industries including garments, textiles, electric and electronic goods,
+ footwear and leather, maritime and industrial parts, and so on. The city handles more than 75 percent of the country’s
+ exports mainly comprising garments, jute products, tea, naphtha, and so on.13 The city has an iron and steel mill, a large
+ oil refinery, and many manufacturing establishments in and around the city, including two export-processing zones.
+ Chattogram houses a stock exchange and an upcoming trade center and is poised for growth with investments in defense
+ and ship-building industries in the future. This growth powerhouse needs adequate supplies of water and proper
+ management of its wastewater to deliver on its leading role as the country’s growth center. Investments in Chattogram’s
+ WSS sector will be critical for a sustained recovery of Bangladesh’s economic growth post pandemic.
+
+ 7.      The Chattogram Water Supply and Sewerage Authority (CWASA) has been extending piped water supply
+ services gradually but is yet to achieve full coverage of its service area. Chattogram has developed rapidly and often in
+ an unplanned manner. While urban planning is the responsibility of the Chattogram Development Authority (CDA), the
+ CWASA is responsible for providing WSS services for a limited region within the CDA boundary, referred to as the CWASA
+ Service Area14 and covering approximately 155 km2. The CWASA assets include a range of water supply facilities, including
+ four surface-water-based water treatment plants with a total production capacity of 500 million liters per day servicing
+ the central region, along with 1,029 km of transmission and distribution networks (Figure 1). On-premises piped water
+ supply is available however to only about two million people through 80,000 house connections, representing 65 percent
+ of the population of Chattogram. Within city limits, only 37 out of 435 low-income communities (LICs, or slums) are served
+ by localized small networks connected to CWASA transmission mains or through on-premises deep tube wells. The city
+ does not have a sewerage system and is entirely dependent on on-site pits and tanks and informal de-sludging. Hence,
+ apart from coverage, challenges remain in providing sustainable and resilient water services in Chattogram, including: (a)
+ inadequate and deficient water supply services to LICs where a large proportion of Chattogram’s population lives; (b)
+ inequities and quality deficiencies in water supply services; (c) low tariff recovery for water supply services challenging the
+ financial sustainability of the CWASA; (d) huge infrastructure gap in achieving safe sanitation; and (e) low capacity to
+ address climate hazard risks.
+
+
+
+
+ 11 Bangladesh Population and Housing Census 2011. The CCC population was recorded at 2.59 million as per population census 2011 and has been
+
+ estimated to increase to 3.2 million by 2020. Household size is reported to be five members.
+ 12 https://en.wikipedia.org/wiki/Chittagong#cite_note-BBC-78.
+ 13 https://www.chittagongchamber.com/elc.php.
+ 14
+    CWASA Service Area corresponds to the CCC Area.
+
+Jul 26, 2021                                                                                                                       Page 5 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+                             Figure 1. Chattogram Metropolitan Area and CWASA Water Supply Facilities
+
+
+
+
+ 8.       The CWASA will require significant governance improvements and operational support to improve water supply
+ services, and as it expands its role in providing sanitation services. The CWASA was created in 1963, formally gazetted in
+ 2008 under the Water and Sewerage Authority (WASA) Act of 1996, to provide water supply, sewerage, and drainage
+ services in Chattogram. The WASA Act establishes the CWASA as a ‘body corporate’ and mandates that the CWASA “render
+ its services as efficiently as possible and take all measures necessary to recover fully the costs of services.”15 The
+ management of the CWASA is accountable to a Governing Board16 representing a range of stakeholders. The CWASA
+ Board is responsible for appointing the Managing Director (MD) and the Deputy MD, whereas the MD is responsible for
+ appointing all other officers and employees of the authority. The entity is organized along three business streams,
+
+ 15
+    Government of the People’s Republic of Bangladesh, National Parliament of Bangladesh, “Water Supply and Sewerage Authority (WASA) Act
+ (1996),” 17.6.
+ 16
+    Governing Board of the CWASA comprises 13 members while the Board Chairman is appointed by the government. The MD acts as the Member
+ Secretary of the Governing Board.
+
+Jul 26, 2021                                                                                                                   Page 6 of 18
+           The World Bank
+           Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ engineering, finance, and administration, with the engineering wing responsible for service operations. However, given
+ its remit, the existing institutional capacity of the CWASA is poor. At present, the CWASA has about 654 staff out of which
+ only 58 are professional engineers. The rest of the staff comprise technicians, maintenance, or administrative personnel.
+ The staff have experience in water supply operations but do not have capacities or experience in sanitation.17 As the
+ CWASA enters a new sanitation service line in the medium term, recruitment and training of professionals are required to
+ meet with the operational demands.
+
+ 9.       Chattogram fell far short of the MDG targets for sanitation services, but the CWASA has developed the strategy
+ for addressing long-term challenges of sanitation. There is a large gap in achieving safe sanitation but the capacity to
+ develop sanitation facilities is low. The city does not have a sewerage system and is totally dependent on on-site systems.
+ Although the Chittagong Water Supply Improvement and Sanitation Project (CWSISP) has primarily focused on water
+ supply services, it has begun addressing key foundational issues relating to sanitation and drainage through development
+ of strategy and masterplans for medium- and long-term horizons covering the period up to 2065. The project supported
+ clarifying the institutional framework for operations and maintenance (O&M) of sewerage and drainage systems for
+ Chattogram City. The CWASA’s Sanitation Master Plan includes an investment plan of US$1.07 billion to construct and
+ operate a sewerage system and improved on-site sanitation systems, including containment, collection, transport, and
+ treatment of fecal sludge. Implementation of the master plan has commenced with funding from the GoB, which has
+ committed BDT 3,808 crores (about US$476 million)18 for establishing a sewerage system in the Halishahar catchment.19
+ For the effective management of the construction of sewerage infrastructure (treatment systems and sewer networks),
+ FSM systems, and O&M, development of the organizational structure and capacities will be critical. This will be in addition
+ to the support required for improving the overall governance and efficiency in operations.
+
+ 10.     The CWASA has begun to address services deficits and is planning to improve efficiency in water management
+ with expansion of coverage. The World Bank and Japan International Cooperation Agency (JICA), along with the GoB,
+ have financed the core water treatment, booster, and water supply distribution infrastructure over the last few decades
+ (Figure 1). The Bank has financed three WSS services projects in Chattogram since the 1960s, including the recently closed
+ CWSISP. Nevertheless, the city does not have equitable water supply over its entire service area yet, and the distribution
+ network includes a high rate of leakage due to dilapidated pipelines, damages, and inadequate maintenance. The current
+ Non-Revenue Water (NRW) is about 28 percent. In response, the CWASA has initiated the replacement of non-functional
+ pipelines based on the District Metered Area (DMA) principle with financial assistance from JICA for the Karnaphuli Service
+ Area (KSA), a part of its service area, with a target of servicing one million beneficiaries with improved water supply.
+ Further, for reducing leakages and expanding the network in the non-KSA area, there’s a need to invest in the distribution
+ network through rehabilitation and expansion to the remaining areas of the metropolitan serving about 1.5 million people.
+ With the completion of all the envisaged rehabilitations and new connections, it is estimated that the CWASA will be able
+ to provide improved on-premises piped water to an estimated 2.6 million beneficiaries, that is, 81 percent of the city
+ population.
+
+ 11.    The CWASA is expanding water services to LICs through innovations and partnerships, but more efforts are
+ needed for scaling up water supply to the majority of LICs in Chattogram. Up to 1.4 million people or more than a third
+
+
+
+ 17
+      There is no waterborne sewerage systems in existence in Chattogram at present.
+ 18 Includes capital cost, road cutting charges, contingencies, and taxes.
+ 19 As a priority, the Halishahar catchment area is to be developed first, followed by Kalurghat, expected around 2030. The GoB-funded Halishahar
+
+ sewerage development project includes construction of a sewerage treatment plant with 100 million litres per day capacity on a site owned by the
+ CWASA, along with 200 kilometres of sewer lines targeting the sewerage coverage up to 2030 (phase 3). It also includes construction of a fecal
+ sludge treatment plant with capacity of 300 cubic meters per day and FSM coverage up to 2023 (phase 2).
+
+Jul 26, 2021                                                                                                                            Page 7 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ of Chattogram’s population are estimated to be residing in about 435 LIC settlements20 spread across the 41 wards of the
+ city corporation. Most of the households in these LICs suffer from lack of secure tenure, high density and crowding,
+ temporary housing structures, poor lighting and road conditions, and poor services. Barriers to extending access to water
+ supply to LICs include the lack of adequate water supply; lack of distribution pipelines in all areas; the households’ inability
+ or unwillingness to pay; and most importantly, lack of legal tenure. Under the support of the WB CWSISP, the CWASA has
+ expanded their water supply to selected LICs through localized small networks connected with the CWASA mains or
+ through on-premises deep tube wells. The CWASA has also established partnerships with nongovernmental organizations
+ (NGOs) and community-based organizations (CBOs) to address barriers and extend their services. With this effort, about
+ 12 percent of LIC households21 now have access to “basic”22 water supply.23 The remaining majority of households in the
+ LICs continue to be dependent on shared water points that make fetching water a time-consuming exercise, a drudgery
+ for women and girls. In addition, households report paying much more than CWASA water rates. Responding to the
+ challenges requires larger-scale investment in water infrastructure to the LICs and enabling provisions to extend water
+ supply access.
+
+ 12.      For the CWASA to sustain financially, greater investments need to be accompanied with improved financial
+ management. With increased water sales and regular increase in water tariffs (average 9 percent increase annually), the
+ CWASA maintained operational level profitability during 2010–2019. However, in the recent year, income before
+ depreciation and interest was in a deficit of about BDT 111 million (US$ 1.3 million). This was mainly due to a drop in the
+ collection to 84 percent from an average of 94 percent since the COVID-19 pandemic. The income after depreciation and
+ finance charges has declined over the period and is in recurring deficit. Long-term liabilities have increased significantly in
+ the past seven years due to project investments. Therefore, in parallel with tariff revision and operational performance
+ improvement, servicing its debt with a rigorous debt restructuring plan is critical for the CWASA to sustain financially.
+
+ 13.      The CWASA has improved on utility maturity level and is poised to join the Bank’s Utility of the Future (UoF)
+ initiative. The CWASA has accorded priority to strengthening its organizational structure, staffing, and systems that are
+ inadequate to discharge its mandates. Since 2015, the CWASA has been implementing a comprehensive organizational
+ strengthening exercise using the WB-promoted Water Utility Maturity Model (WUM)24 that involved diagnostics and utility
+ strengthening exercises.25 The CWASA is the first utility in Bangladesh that received the ISO 9001:2015 Certificate for
+ quality management in water production which indicates its achievement in improved reliability in delivery of water
+ services. A 2019 assessment by the WB showed that in four years, the CWASA had reached the Water Utility Maturity
+ level 3—signifying tremendous progress on the degree to which business processes and management systems are
+ structured and institutionalized in the utility. This positions the CWASA well to join in the Bank-promoted new paradigm,
+
+
+
+
+ 20 BBS Slum Census 2014 enumerated 1,771 slums; a Centre for Urban Studies survey in 2011, for an Urban Poverty project (UPPR- UNDP) counted
+
+ 5,778 micro settlements of poor; and recent surveys estimated about 435 slums (PMID-WSUP, 2019).
+ 21
+    piped water is being supplied to the LICs via 689 hydrant points and 37 LICs are being covered by CWASA.
+ 22 “Basic” water supply is defined as “Drinking water from an improved source, provided collection time is not more than 30 minutes for a
+
+ roundtrip including queuing; and “Limited” means “Drinking water from an improved source for which collection time exceeds 30 minutes for a
+ roundtrip including queuing” (WHO-UNICEF Joint Monitoring Program (JMP): https://washdata.org/monitoring/drinking-water)
+ 23 Baseline Report of WASH4UrbanPoor Project, HDRC, Sept 2018. WaterAID .
+ 24 Kayaga, Sam Mbaziira; Kingdom,William D.; Mugabi, Josses. 2013. Evaluating the institutional sustainability of an urban water utility:
+
+ a conceptual framework and research directions. World Bank Group.
+ http://documents.worldbank.org/curated/en/347591528467259449/Evaluating-the-institutional-sustainability-of-an-urban-water-utility-a-
+ conceptual-framework-and-research-directions
+ 25 including Standard Operating Procedures, plans and training in maintenance management, commercial management, management information
+
+ systems (MISs), personnel development, energy management, customer services improvement, and support to the strategic plan and preparations
+ for ISO certification
+
+Jul 26, 2021                                                                                                                       Page 8 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ the UoF26 Program, that is, becoming a future-ready utility providing reliable, safe, inclusive, transparent, and customer-
+ oriented WSS services through best-fit practices in an efficient, resilient, and sustainable manner.
+
+ 14.      Chattogram is vulnerable to disaster and climate hazard risks and is cautioned to promote resilience to these
+ risks. Chattogram is characterized with low-lying coastal areas, beaches, estuaries, and lakes, as well as hills. While these
+ geographic features create opportunities for different types of economic activities, they also expose the city to a range of
+ hazards, including cyclones and tidal surges (primary risks), as well as waterlogging, saltwater intrusion, flash floods, and
+ so on.27 Due to the lack of flood control infrastructures and effective drainage systems,28 more than two-thirds of the city
+ is affected by waterlogging from the River Karnaphuli29 during the monsoon season (Bangladesh Public Works Department
+ [PWD]).30 The current water supply system is vulnerable to climate change-related hazards. While there is a need to build
+ resilience for the CWASA to respond to these challenges in providing reliable water services during the monsoon season,
+ adaptation measures for flood control and adaptation measures are also needed across relevant agencies including the
+ CCC. These include the development of operating procedures, improved management capacity of the drainage canals,
+ strengthening cooperation among the responsible agencies, among others.
+
+ 15.      The CWASA has proposed the Chittagong Water Supply Improvement and Sanitation Project Phase II (CWSISP-
+ II) to further improve water supply services that are resilient to disasters and to enhance the CWASA’s capacity in
+ sanitation service provision in the Chattogram service area. Through investment in the further expansion of the water
+ distribution network, rehabilitation, operational re-organization, and institutional and financial strengthening, the
+ proposed project will build upon previous investments to improve efficiencies and sustainability of water supply services
+ while establishing robust frameworks for promoting resilience to climate change, disasters, and public health risks. Water
+ is underpriced at present, and this has led to its under-valuation and over-consumption. The project will help rationalize
+ CWASA tariffs and help signal the value of water as a precious resource while promoting financial sustainability. Efficient
+ and equitable water distribution through the adoption of DMAs, commercial strengthening, better operations equipment
+ and management, improved procurement, customer orientation, and information technology will help improve efficiency,
+ sustainability, and resilience. The project will further extend water supply services to LICs and also enhance the utility’s
+ capacity to develop and operate safe sanitation services city-wide.
+
+ 16.     The proposed project is aligned with the objectives of the Bangladesh Delta Plan 2100 (BDP). The BDP, approved
+ in 2018, presents a long-term, integrated, economic plan that integrates all water-related sector plans and policies aimed
+ at securing the future of water resources and mitigating the likely effects of climate change and natural disasters. The
+ implementation of the BDP is currently the key development agenda which aims to enable the country to reach middle-
+ income status by 2030. Priority areas for the investment includes: (a) flood and erosion control, coastal and river
+ management; (b) urban water supply, sanitation, waste management, and drainage in major cities; and (c) rural water
+ supply and waste management. The proposed project will not only invest in water supply efficiency improvement, but
+ also help to develop the capacity for sanitation and drainage services. It is linked with the second BDP priority area which
+ allocates at least 25 percent of all delta investments to address WASH and drainage in major cities.
+
+
+
+ 26 The Utilities of the Future Initiative (https://www.worldbank.org/en/topic/water/publication/utility-of-the-future) provides a methodology to
+
+ help utilities to improve performance and provide high-quality services in a highly efficient manner while also strengthening resilience and
+ innovation, and being inclusive and market- and customer-oriented.
+ 27 The National Adaptation Program of Action: https://unfccc.int/resource/docs/napa/ban01.pdf.
+ 28 Within the city, a number of tidal canals serve as the main drainage channels. The water flow of 23 city canals merges into the Karnaphuli River
+
+ and three canals converge into the Halda River, while the flow of the remaining 14 canals goes into the Bay of Bengal.
+ 29 There is no flood control embankment.
+ 30 https://tbsnews.net/environment/climate-change/sea-threatens-devour-chattogram-140236.
+
+
+
+Jul 26, 2021                                                                                                                               Page 9 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+  Relationship to CPF
+
+ 17.      The proposed project is fully aligned with the World Bank Group’s Country Partnership Framework (CPF) for
+ Bangladesh 2016–20, discussed by the World Bank’s Board of Directors on April 5, 2016.31 The CPF (103723-BD)
+ prioritizes three areas: growth and competitiveness, social inclusion, and climate and environmental management. The
+ project contributes to all three focus areas:
+
+          (i).   The proposed project enhances growth and competitiveness by improving access to water supply for
+                 businesses and people in Chattogram. Since it takes a significant amount of funding and time to develop
+                 new water supply projects, investment in network repair and rehabilitation is regarded as a practical option
+                 to improve access to safe drinking water. In addition, by reducing water losses, the utility’s operational and
+                 financial performance will be strengthened.
+
+         (ii).   The proposed project contributes to social inclusion by extending access to piped water to more LICs in
+                 Chattogram. The project will cover the majority of households in the LICs in the city and bring considerable
+                 benefits to residents, especially women and girls in these communities.
+
+        (iii).   The proposed project contributes to climate change mitigation through water and energy savings and
+                 climate change adaptation by providing more reliable and sustainable water resources and building more
+                 resilient water supply utilities against the future climate change risks and vulnerabilities. Water treatment
+                 and distribution are highly energy-intensive processes (pumps, motors, and other equipment operate 24
+                 hours a day, seven days a week). The water loss caused by a poorly maintained distribution network not
+                 only represents a waste of water resources but also of the energy. The proposed project will finance
+                 replacement and rehabilitation of water pipes, leak detection equipment, development and installation of
+                 Supervisory Control and Data Acquisition (SCADA) systems, water meters, and capacity building toward
+                 minimizing loss, improving energy, and operations efficiency. The proposed project also supports operations
+                 optimization, asset management capacity building, and the preparedness and response plans for disasters
+                 and disease outbreak. These activities will ultimately reduce greenhouse gas (GHG) emissions and
+                 contribute to green, inclusive, and resilient investments.
+
+        (iv).    The proposed project helps improve environmental management. The project will support the preparation
+                 of investment plans for future improvements in sanitation services and strengthen capacity of the relevant
+                 agencies to better manage drainage and reduce incidents of waterlogging. Lessons from sanitation projects
+                 in different countries indicate that setting up adequate institutional capacity to carry out the sanitation
+                 services delivery is one of the key elements for success. Building on World Bank’s global experience,
+                 investments in institutional strengthening for managing sanitation infrastructure will contribute to
+                 improved public health and environment and pave the way for future investments in sanitation.
+
+  Proposed Development Objective(s)
+
+ 18.     The Project Development Objectives (PDOs) are to i) increase access to safe water supply and build capacity to
+ execute sanitation plans; ii) strengthen the operational performance of CWASA; and iii) build resilience and preparedness
+ to disasters.
+
+
+
+ 31 The CPF for FY16–20 has been extended to FY21.
+
+
+
+Jul 26, 2021                                                                                                        Page 10 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+  Key Results (From PCN)
+
+ 19.       The proposed PDO results indicators for the project are:
+
+           •   People provided with access to improved water sources (number)
+           •   People provided with access to improved water sources–Female (percentage)
+           •   Operating cost coverage ratio (percentage)
+           •   Preparedness and response plan to address natural disasters and disease outbreaks prepared and approved
+               (yes/no)
+           •   Sanitation services circle established and staffed (yes/no)
+
+  Concept Description
+
+ 20.     The proposed project will support the CWASA in implementing rehabilitation and strengthening of the water
+ supply network under sector 1 - 5 of CWASA’s service area (Figure 2, the five sectors cover over 122 sq. km or 78 percent
+ of the service area) to ensure equitable distribution and reduced leakage. The five sectors (sector 1 - 5, Figure 2) under
+ the service area will be further subdivided into about 46 DMAs.32 The remainder of the KSA33 is being developed with JICA
+ assistance under the Karnaphuli Water Supply Project, Phase II. The DMAs will also cover about 310 large to small LICs
+ across the five sectors with CWASA mains supplying to LICs’ localized networks under the proposed project. The other 122
+ informal settlements will be serviced under the KSA. By the end of the project period, the five water distribution sectors
+ (sector 1 - 5, Figure 2) of Chattogram city are expected to be covered using a combination of different diameters of
+ distribution pipelines (Figure 2), with robust distribution systems and leakage control.
+
+
+
+
+ 32
+    A DMA is defined as a discrete area of a water distribution network created by closing boundary valves ensuring flexibility to changing demands.
+ Water flowing into and out of the DMA is metered and flows are periodically analyzed to monitor the level of leakage.
+ 33
+    The DMAs for KSA being developed under the Karnaphuli Water Supply Project, Phase II, are supported by JICA.
+
+Jul 26, 2021                                                                                                                            Page 11 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+                 Figure 2. Division of the network of Chattogram into sectors and DMA boundaries of the CWASA
+
+
+
+
+                         Source: DMA Design Report, CWSISP (2018)
+                         Note: Distribution system network has been divided into five hydraulic sectors in addition to
+                         Karnaphuli Service Area (KSA). In total, 46 DMAs form these five sectors.
+
+ 21.    The project will help the CWASA achieve the next set of critical milestones in becoming a UoF. The project will
+ support the GoB in achieving SDG 6 and advancing the utility reforms adopted under the Water Utility Maturity
+ Framework, using the UoF Program. The project will build on the achievements of the CWSISP that closed on December
+
+Jul 26, 2021                                                                                                             Page 12 of 18
+           The World Bank
+           Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ 31, 2020 by financing investment in infrastructure and by supporting institutional strengthening.34 The institutional
+ support will also include assistance to set up a new organizational structure and operational systems to enable the utility
+ to manage investments in sanitation infrastructure and to operate and maintain sanitation services. Capacity building will
+ be an integral part of the Bank’s support and will include strengthening of technical, commercial, and financial
+ management aspects.
+
+ 22.      The project will leverage the momentum created by earlier World Bank investments, including institutional set-
+ ups and relationships, and build the foundation for developing future sanitation investment projects. The proposed
+ project will include: (a) expansion of the water distribution system, following the DMA concept to allow for flexible and
+ equitable supply to all potential customers within the utility’s service area, and especially promote water services to LICs;
+ (b) technical assistance to reorganize the utility’s management structure and to strengthen its operational and financial
+ performance, with financial improvement plan including debt restructuring and tariff roadmap, aimed in part at attracting
+ private sector participation in O&M management, services delivery, and financing; and (c) support for investment planning
+ for the sanitation service chain, including network and non-network sanitation systems.
+
+ 23.      The project will support the sequencing and prioritization of sanitation interventions with detailed feasibility
+ assessments consistently with the sanitation master plan. It will support the CWASA in developing investment plans
+ along with design reports for a sequence of phased interventions with a focus on addressing sanitation challenges in the
+ city. The Sanitation Master Plan divides Chattogram into six catchments. The first phase, being financed by the GoB,
+ includes a wastewater treatment plant in Halishahar catchment, along with interceptors, collection network, and
+ investments for transportation and treatment of fecal sludge for areas where sewerage cannot be extended. The sewage
+ treatment plant being developed for Halishahar catchment will have the option to treat sewage from Patenga and North
+ Kattoli catchments by augmenting the treatment capacity. The master plan’s preliminary investment plan also prioritizes
+ improving sanitation services in the Kalurghat and Fatehabad catchments and ranks the sewerage investments according
+ to projected population and difficulties in land acquisition and sewerage construction. The detailed engineering exercise
+ will appraise the feasibility of priority interventions, catchment by catchment, using a set of defined criteria and will
+ produce investment proposals for series of phases. By 2030, a selection of two or three catchments of Chattogram is
+ expected to be substantially covered using a combination of sewers and FSM systems (see Figure 3).
+
+
+
+
+ 34
+      CWSISP (P103999), IDA US$170 million.
+
+Jul 26, 2021                                                                                                       Page 13 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+               Figure 3. Chattogram Metropolitan Area Sanitation and Drainage Improvement Strategy and Master Plan
+
+
+
+
+                     Source: Sanitation and Drainage Improvement Strategy and Master Plan for Chittagong, CWSISP (2017).
+
+ 24.      The proposed project will adopt an integrated approach that supports the key agencies in Chattogram involved
+ with water, sanitation, and drainage services. It will help to strengthen the institutional capacities of the CWASA and the
+ CCC. It will also support the development of mechanisms to enhance the coordination between the CWASA, the CCC, and
+ the CDA on drainage aspects.
+
+ 25.      Overall financial sustainability of the CWASA must be improved to progress its autonomy as an independent
+ utility company. It is unlikely that the CWASA can fully service the current long-term debt by collected fees in the near
+ future due to its high level of debt repayment obligations and its low level of equity. Therefore, debt restructuring is a
+ priority, potentially through debt-to-equity conversion. Such debt restructuring will need to be done together with the
+ tariff revision and strengthening of operational and financial performance. To plan a tariff revision roadmap, a study will
+ be conducted during project preparation to investigate fees from tariffs against cost recovery levels; level of tariffs against
+ consumers’ affordability and willingness to pay for services; and tariffs against consumers’ own costs of imperfect service
+
+
+Jul 26, 2021                                                                                                               Page 14 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+ delivery. From a commercial point of view, NRW reduction and management will need to be explored that can lead to the
+ CWASA’s revenue improvements as well as contribute to a more sustainable and resilient transformation. The World
+ Bank’s UoF Program will provide a framework for the transformation toward a higher degree of financial and operational
+ sustainability.
+
+ 26.      The project will support the CWASA in developing resilience plans aimed at reducing risks, promoting readiness,
+ and mitigating the impacts of natural disasters and disease outbreaks. The disaster preparedness and response plans
+ will involve, among others: (a) assessment of hazard risks and vulnerability assessments for the CWASA’s existing assets
+ and services; (b) incorporation of resilience in planning and design of water supply assets and systems (including
+ treatment, conveyance, and distribution); (c) development of O&M and service provision guidelines for emergency
+ response during disasters; (d) vulnerability assessment and resilience planning for drainage and sanitation assets and
+ systems; and (e) development of protocols for public health outbreaks like COVID-19, in line with the GoB’s WASH Strategy
+ and the WBG’s COVID-19 Crisis Response Framework. The assessment of utility hazard risks will be for both adaptation
+ and mitigation aspects (for example, water and wastewater treatment). The plan will include measures including
+ establishing financial reserves for short-term expenses and raising community awareness of hygiene behavior to limit the
+ spread of disease. Improved coordination among the key responsible agencies (for example, CCC, CWASA, and Bangladesh
+ Water Development Board [BWDB]) will be critical for the above. The CWASA’s Build Back Better (BBB) plans shall be
+ developed following the IDA principles of green, resilient, and inclusive development (GRID).
+
+ Project Components
+
+ 27.       The project comprises five components. These are:
+
+           •   Component 1: Water Supply Improvement (estimated US$345 million of which IDA US$250 million). This
+               component will support the rehabilitation and expansion of distribution networks following the DMA concept
+               and the expansion of water supply services to LICs. This component will also support the installation and
+               maintenance of WASH facilities (such as handwashing stands, drainage systems, and so on) in key public areas
+               to enhance hygiene management.35 This activity contributes to the implementation of the recommendations
+               of the GoB’s COVID-19 WASH Strategy Paper.
+
+           ▪   Component 2: Investment Planning and Project Preparation for Sanitation (estimated US$10 million of which
+               IDA US$10 million). This component will support technical assistance for the CWASA to prepare investment
+               proposals for sanitation facilities in one or more catchments of Greater Chattogram, following the
+               recommendations of the Sanitation Master Plan. It will also support the establishment and capacity building
+               of new organizational unit/s in the CWASA for managing capital investments and for O&M of sanitation
+               services.
+
+           ▪   Component 3: Institutional Capacity Development (estimated US$30 million of which IDA US$30 million). This
+               component will support activities to: (a) strengthen the utility’s operational efficiency and financial
+               sustainability, including: (i) install and provide training on the SCADA system; (ii) strengthen citizen
+               engagement; (iii) strengthen MIS; (iv) implement a tariff roadmap for sustainability; (v) improve commercial
+               management; and (vi) assess feasibility of public-private partnerships and (b) finance capacity building and
+               plans for enhanced resilience to disasters and disease outbreaks. These activities will build upon the utility
+
+
+ 35
+   Appropriate management models will be developed for ensuring the sustainability of handwashing facilities and their regular supply of soap,
+ sufficient running water with functioning taps, and adequate drainage installed in public places.
+
+Jul 26, 2021                                                                                                                          Page 15 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+               modernization initiatives carried out under the CWSISP. For critical institutional reforms, mechanisms to
+               incentivize achievement of results will be explored during design.
+
+           •   Component 4: Project Implementation and Management Support (estimated US$12 million of which IDA
+               US$ 10 million). This component will finance general operating costs of the CWASA to coordinate and execute
+               the project. It will support: (a) the recruitment of multi-disciplinary project management consultants
+               (including specialists in procurement, financial management, environmental and social safeguards, and
+               monitoring and evaluation) to support the Project Management Unit (PMU); (b) supervision services to
+               oversee construction of major works; and (c) financial audits.
+
+           •   Component 5: Contingent Emergency Response (estimated US$0 million of which IDA US$0 million). A
+               provisional zero amount component is included, which will allow for rapid allocation of loan proceeds from
+               other project components during an emergency, under streamlined procurement and disbursement
+               procedures. The contingent component may also serve as a conduit for additional funds to be channelled to
+               the project in such circumstances. The conditions for accessing funds under this component will be described
+               in the Project Implementation Manual.
+
+ Table 1. Project costs and IDA financing by component (in US$, millions)
+                    Project components                             Project cost with              IDA financing           Counterpart funding
+                                                                    contingencies
+  1. Water Supply Improvement                                               345                           250                         95
+  2. Investment Planning and Project Preparation for                         10                            10                          0
+  Sanitation
+  3. Institutional Capacity Development                                        30                          30                           0
+  4. Project Implementation and Management                                     12                          10                           2
+  Support
+  5. Contingent emergency response                                             0                            0                          0
+  Total                                                                      397                          300                         97
+
+ 28.     The project is expected to comply with the regional criteria for readiness for implementation by the appraisal
+ stage. The preliminary design of the distribution network of non-KSA service area (80 percent of 155 sq. km of the CWASA
+ service area)36 and the Sanitation Master Plan for Greater Chattogram have provided vital knowledge of the existing
+ system and helped in articulating the proposed project architecture. The CWASA has developed a conceptual design of
+ the DMA under the CWSISP, which needs to be validated in the field and necessary adjustments need to be made based
+ on ground characteristics. A project preparation advance, which the GoB has requested, will be used to prepare (a) key
+ documents for water supply investments and (b) a terms of reference for technical assistance for the preparation of
+ sanitation projects. The following activities are expected to be completed by appraisal:
+
+           •   Technical feasibility studies and bidding documents ready for DMAs and associated water distribution works.
+           •   Water and sewerage tariff roadmap.
+           •   CWASA’s performance assessment capturing and analyzing information about the utility’s financial situation,
+               current operating performance, the level of access and quality of service provided, and the maturity of its
+               management systems.
+
+ 36
+    Water supply infrastructure is being developed in the KSA with financial support from JICA and that in the non-KSA area is proposed to be with
+ financial support from the World Bank.
+
+Jul 26, 2021                                                                                                                            Page 16 of 18
+           The World Bank
+           Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+            •   Baseline studies to inform the development of a strategy and action plan for a preparedness and response
+                plan for COVID-19 and other disease outbreaks for the CWASA and other key institutions in the Greater
+                Chattogram area.
+
+
+     Legal Operational Policies                                                        Triggered?
+     Projects on International Waterways OP 7.50                                       No
+     Projects in Disputed Areas OP 7.60                                                No
+
+     Summary of Screening of Environmental and Social Risks and Impacts
+     .
+
+ Based on the existing scope of works, the project is expected to extend moderate and quite receptible environmental risks
+ and impacts such as noise and dust pollution, traffic congestion, as well as concerns for health and safety of workers and
+ local communities. In addition, construction activities are also expected to induce economic displacement involving errand
+ traders and vendors and restrict access to homes and businesses. Prior to appraisal, an ESMF will be drafted to offer
+ guidance for environmental and social risks screening and management. Based on experiences of phase I of the project,
+ CWASA will consult with the local population and ensure that construction works are planned and phased in to avoid or
+ minimize disruption and displacement of income generating activities. Where displacements are unavoidable, CWASA will
+ plan and implement a resettlement plan with adequate compensatory measures before works commence.
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Arif Ahamed, Yukiko Inoue
+     Senior Water Supply and Sanitation Specialist
+
+
+     Borrower/Client/Recipient
+     People's Republic of Bangladesh
+
+
+
+
+     Implementing Agencies
+
+     Chattogram Water Supply and Sewerage Authority
+     AKM Fazlullah
+     Managing Director
+     mdcwasa@gmail.com
+
+
+
+
+Jul 26, 2021                                                                                                   Page 17 of 18
+         The World Bank
+         Chattogram Water Supply Improvement and Sanitation Project - II (P176429)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+   Task Team Leader(s):                    Arif Ahamed, Yukiko Inoue
+
+  Approved By
+  APPROVALTBL
+   Practice Manager/Manager:
+
+   Country Director:                       Dandan Chen                           13-Aug-2021
+
+
+
+
+Jul 26, 2021                                                                                   Page 18 of 18
+

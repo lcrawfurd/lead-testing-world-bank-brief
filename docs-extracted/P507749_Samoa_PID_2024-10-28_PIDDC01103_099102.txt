@@ -1,0 +1,473 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 28-Oct-2024 | Report No: PIDDC01103
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                    Operation Name
+Samoa                          P507749                         Pacific Region Preparedness, Adaptation and Resilience -
+                                                               Samoa
+Region                         Estimated Appraisal Date        Estimated Approval Date        Practice Area (Lead)
+EAST ASIA AND PACIFIC          20-May-2025                     28-Aug-2025                    Urban, Resilience and Land
+Financing Instrument           Borrower(s)                     Implementing Agency
+Investment Project             Independent State of            Ministry of Natural
+Financing (IPF)                Samoa                           Resources and
+                                                               Environment, Ministry of
+                                                               Works, Transport and
+                                                               Infrastructure
+
+Proposed Development Objective(s)
+To improve the capacity of the Government Samoa to prepare for and manage the impacts of natural hazards
+effectively, to strengthen the resilience of select urban areas, and in case of an eligible crisis or emergency, respond
+promptly and effectively to it.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      No
+Is this project Private Capital Enabling (PCE)?                No
+
+SUMMARY
+  Total Operation Cost                                                                                              35.28
+
+  Total Financing                                                                                                   35.28
+             of which IBRD/IDA                                                                                      30.00
+  Financing Gap                                                                                                       0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+                                                                                                                       Page 1
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+      International Development Association (IDA)                                                                                  30.00
+        IDA Grant                                                                                                                  30.00
+    Non-World Bank Group Financing
+      Trust Funds                                                                                                                   5.28
+        Total Program Cost                                                                                                          5.28
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                               Concept Review Decision
+Substantial
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1. Samoa is a lower middle-income small island state located in the South Pacific, highly dependent on remittances
+and tourism and agricultural trade, which are critical pillars of its economy. The country has a population of just over
+218,000 people and a GDP of about US$1 billion. The Samoan economy grew at an annual average rate of 4.5 percent
+until the global financial crisis in 2009, driven by these key sectors and remittances from the Samoan diaspora. However,
+in the decade leading up to the COVID-19 pandemic, the economy faced multiple economic shocks, resulting mainly from
+tropical cyclones, which resulted in more volatile and slower growth, averaging around 2.5 percent per year. These shocks
+underscored the economy’s vulnerability to external factors, particularly the devastating impact of natural and climate-
+related hazards.
+
+2. Samoa's frequent exposure to severe natural hazards, compounded by climate change, has caused significant
+economic damage, and threatens key economic sectors, particularly in vulnerable coastal areas. Over 70 percent of the
+population resides in low-lying coastal zones, exposed to floods, droughts, tropical cyclones, earthquakes, and tsunamis.
+These events have caused substantial damage and losses over the years, with major disasters occurring at an average rate
+of one every three years. Notably, the 2009 tsunami and Cyclone Evan in 2012 caused damages equivalent to 20 percent
+and 29 percent of GDP, respectively,1 demonstrating the severe economic impact of disasters. Between 1965 and 2015,
+Samoa experienced 56 disaster events, resulting in US$543 million in economic losses, i.e., annual losses averaging 5
+percent of GDP. Climate change is expected to worsen the frequency and intensity of natural and climate-related hazards,
+further endangering infrastructure and livelihoods, while rising sea levels and increasing temperatures threaten
+agriculture, fisheries, and tourism.
+
+3. Samoa’s growing climate vulnerability and disaster risk profile call for increased investments in effective resilience.
+Current limitations in development financing and financial protection hinder effective disaster resilience. Samoa's
+
+1 UNDRR (2022). Disaster Risk Reduction in Samoa: Country Update 2022, United Nations Office for Disaster Risk Reduction (UNDRR)
+
+
+
+                                                                                                                                     Page 2
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+disaster risk management (DRM) efforts, heavily supported by international partners, focus on flood management,
+climate-proofing infrastructure, and enhancing resilience to climate change, disasters, and health-related risks. Current
+disaster risk financing instruments include sovereign risk transfer, insurance of public assets, private sector insurance,
+contingent and post-disaster financing, and budget provisions/reserves. Despite these efforts, significant gaps remain for
+ex-ante resilience building. For example, estimated climate spending needs for 2022-2026 reach US$650 million,
+equivalent to about 17 percent of GDP per year, with a funding gap of US$250 million.2 This substantial shortfall poses a
+considerable challenge to effectively implementing disaster resilience measures. While Samoa has sovereign risk
+insurance, coverage for critical public assets like roads and bridges is not available. The underdeveloped private sector
+insurance market limits risk transfer options, leaving critical infrastructure vulnerable to the increasing frequency and
+intensity of natural hazards, which could lead to substantial long-term economic setbacks.
+
+
+ Sectoral and Institutional Context
+
+4. Over the past decade, Samoa’s approach to DRM agenda has evolved, moving from a focus on post-disaster
+response to a more balanced approach that includes proactive interventions. This shift has been led by the Ministry of
+Natural Resources and Environment (MNRE),3 which is responsible for national disaster management, hazard monitoring,
+and operating the country’s multi-hazard early warning systems (MHEWS). MNRE has been supported through initiatives
+such as the Bank-financed Pacific Resilience Program (PREP),4 which improved MHEWS, enhanced the resilience of critical
+school infrastructure, and contributed to financial protection against disasters. The Government of Samoa has also
+ensured that disaster and climate resilience standards are integrated in other sectoral investments to reduce risk
+proactively, including those implemented by the Ministry of Works, Transport and Infrastructure (MWTI) - such as
+transport, urban development, and coastal protection projects. Additionally, the Ministry of Finance is implementing a
+Disaster Risk Financing Policy (supported by PREP) to guide the utilization of post-disaster financing instruments, such as
+contingent financing from the World Bank and the Asian Development Bank (ADB), and the sovereign parametric
+insurance for tropical cyclones and earthquakes provided by the Pacific Catastrophe Risk Insurance Company. These tools
+have provided timely financial resources in the aftermath of disasters and have supported a broader DRM reform agenda,
+laying the foundation for a more resilient Samoa.
+
+5. The Government of Samoa is actively implementing a series of measures to improve its management of climate and
+disaster risks. The Government has demonstrated a strong commitment to enhancing MHEWS as a critical element of
+proactive DRM. In May 2022, the Government approved the National MHEWS Policy to enhance early warning systems
+and includes the implementation of impact-based forecasting for specific hazard impacts and recommendations. In
+February 2024, the Government approved the Samoa Disaster Risk Management Policy, which outlines a coordinated
+approach to addressing climate, natural, and health-related hazards with a focus on community-based preparedness and
+awareness of risk. The policy reforms are complemented by investments in MHEWS systems, instrumentation, and
+capacity building, including through the PREP project. Data management is also being strengthened to support
+comprehensive risk assessments, including for non-financial assets and communities, to increase their resilience to
+withstand current and future climate and disaster risk. Meanwhile, the Disaster and Emergency Management Act 2007 is
+under review to incorporate lessons learned from the COVID-19 pandemic and consider more proactive DRM approaches.
+The Pathway for the Development of Samoa 2021-2026 calls for increased investments in Savai’i, the secondary island of
+Samoa, including to build climate and disaster resilience for all Samoans.
+
+2 IMF (2022). Samoa: Climate Macroeconomic Assessment Program (Country Report No. 2022/083). International Monetary Fund
+3 The key divisions responsible for Samoa’s MHEWS are the Disaster Management Office, Samoa Meteorological Division, Water Resource Division,
+
+and Information Communications and Technology division.
+4 PREP – Samoa Project (P154839)
+
+
+
+                                                                                                                                        Page 3
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+
+6. Samoa continues to face considerable challenges as residual risks are exacerbated by climate change and increasing
+urbanization. The evolving risk landscape makes early warning and response systems essential to safeguarding lives.
+Strengthening these systems is not just about immediate safety; it also ensures long-term economic resilience. Continued
+investments in MHEWS and strengthening emergency preparedness and response (EP&R) capabilities will better equip
+Samoa to protect its communities and economy from the growing impacts of natural and climate-related hazards. Every
+dollar spent on these systems, countries can save between US$4 and US$10 in disaster response costs, making them a
+critical focus for the country’s resilience strategy.5 Additionally, integrating risk considerations into urban planning—by
+avoiding the placement of people and critical assets in exposed and vulnerable areas—will help ensure that Samoa’s
+overall risk is carefully managed. Public buildings also need to be better designed to suit Samoa’s climate and risk profile,
+including adherence to updated energy and water efficiency standards that also minimize operations and maintenance
+costs.
+
+End-to-End Multi-Hazard Early Warning Systems
+7. The effective use of early warning systems during past disaster events in Samoa has proven to be instrumental in
+avoiding loss of life and highlights the potential of such systems; however, significant gaps still need to be addressed.
+The Framework for Resilient Development in the Pacific 2017-2030 (FRDP) includes a regional commitment to establish
+“end-to-end” MHEWS across the Pacific. In Samoa, however, persistent issues such as data transmission failures, outdated
+instrumentation and facilities, poor network coverage across the country, and the lack of automated decision support
+systems have limited the system’s overall efficiencies. To address these gaps, investments are needed to strengthen the
+foundational aspects of the system, including improvements to hazard detection, forecasting accuracy, communication
+networks, and early warning dissemination. By enhancing these critical elements, Samoa can ensure that early warnings
+are more reliable, timely, and tailored to meet the needs of its communities and last-mile users, thereby enabling more
+effective and informed responses to hazards.
+
+8. Furthermore, it is essential for Samoa to enhance the integration of various types of hazards—such as
+hydrometeorological, geophysical, climate, and health-related—into a seamless system that spans from "upstream"
+hazard detection to "downstream" community response. Samoa has made significant efforts toward impact-based
+forecasting, which provides actionable information to guide decision making during emergencies. Regional efforts that
+support Samoa include regional seismic hazard monitoring through the Oceania Regional Seismic Network (ORSNET); the
+planned Weather Ready Pacific Decadal Programme of Investment that will strengthen the region's ability to manage
+high-impact and extreme weather, water, and ocean events; and the Systematic Observations Financing Facility (SOFF),
+established to close data gaps in Samoa. Integrating community insights and local traditional knowledge into these
+regional systems can improve their relevance and effectiveness.
+
+Emergency preparedness and response (EP&R) capabilities
+9. The compounding effects of Tropical Cyclone Harold and the COVID-19 pandemic in 2020 highlighted the complexity
+of managing natural and health-related emergencies simultaneously. The National Emergency Operations Center (NEOC,
+funded by the PREP) provided critical facilities to support inter-agency coordination of the disaster events. More strategic
+and adaptable EP&R mechanisms are needed, addressing emergency management infrastructure and equipment,
+regulatory and policy frameworks, human capacity (emergency personnel and communities), and information systems.
+Further investment is needed to strengthen the resilience of key emergency management infrastructure, particularly for
+hazard monitoring and emergency services such as firefighting, including at the subnational level. Complementary
+
+5    Hallegatte, Stephane; Rentschler, Jun; Rozenberg,   Julie. 2019. Lifelines:   The   Resilient   Infrastructure   Opportunity. Sustainable
+Infrastructure. Washington, DC: World Bank.
+
+                                                                                                                                         Page 4
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+initiatives such as the Pacific Humanitarian Warehousing Program (PHWP) and the Building Safety and Resilience in the
+Pacific II (BSRPII) are contributing to Samoa’s EP&R capabilities through a warehousing facility adjacent to the NEOC and
+an emergency operations center in Savai’i, respectively. Investing in the capacity to maintain and operate these systems,
+alongside expanding community outreach initiatives, will be critical in ensuring that emergency personnel and the broader
+system is equipped to respond effectively to emergencies.
+Urban Resilience
+10. Samoa was the first country in the Pacific to adopt a systems-based approach to urban management, focusing on
+holistic urban planning. This innovative approach led to the development of several district and local level plans that
+incorporate good practices in urban planning, including participatory planning. The development of Community Integrated
+Management (CIM) Plans brought together government, community, and non-government stakeholders to establish a
+shared vision, linking local priorities to national-level development strategies. These plans, such as the Fa’asaleleaga CIM
+Plan, prioritize essential infrastructure upgrades and disaster preparedness, including improved drainage and evacuation
+routes. The Vaitele Sustainable Management Plan (SMP) and the 2018 Urban Design Standards for the Apia Waterfront
+provide guidelines for the specified urban areas to: (i) guide land use; (ii) promote safe, functional, resilient, and
+sustainable urban spaces; and (iii) ensure that new urban infrastructure enhances safety and livability. However, the
+Planning and Urban Management Act 2004 mandates development policy controls for the entire country, and attention
+is needed to develop SMPs for additional priority urban areas.
+
+11. Samoa is experiencing uneven and often unmanaged urbanization, which poses additional challenges, particularly
+as it intersects with increasing climate and disaster risks. Official statistics shows rural growth surpassing urban growth,
+with Apia's population declining by 3.8 percent between 2016 and 2021. In contrast, the population in the northwest
+Upolu pre-urban area and the urban corridor to Faleolo International Airport increased by 17.2 percent. This expansion,
+which occurs outside the formal city limits, has led to urban sprawl and leapfrog development along the coastal
+infrastructure corridors east towards Vailele Bay and west towards Faleolo International Airport, particularly the highly
+urbanized Vaitele area. This pattern of peri-urban development can be attributed to the topography, the distribution of
+primary roadways, and the availability of customary land in the coastal plain. Without strategic planning and regulation,
+urbanization increases the concentration of people and assets in hazard-prone areas. Therefore, it is critical to integrate
+urban infrastructure with national-level adaptation planning to reduce the exposure and vulnerability of priority assets to
+climate and natural hazards.
+
+12. Beyond Apia’s expanding footprint, Samoa’s secondary urban centers are located on the main island of Upolu and
+in Savai’i, resulting in disparities in educational and employment opportunities, as well as reduced municipal services
+on the country’s other inhabited islands. Focusing investments solely in Apia will be insufficient to achieve the goals
+outlined in the Pathway for the Development of Samoa (2021-2026). This development strategy emphasizes the need for
+long-term planning to achieve a more spatially balanced distribution of economic opportunities across the country, while
+promoting overall national economic growth. Recognizing this, the Planning and Urban Management Agency (PUMA)
+under the MWTI intends to develop a township plan for Sālelologa on the big island of Savai’i as a key area with strong
+economic potential. The plan would act as a catalyst for development, integrating climate and disaster resilience measures
+into urban planning. While the National Urban Policy 2013 guides development in Apia, there are no policies to guide and
+regulate future growth in Samoa’s secondary urban areas, especially to manage urban amenity, address climate and
+disaster risk, and ensure environmental and social safeguards.
+
+13. Integrating climate and disaster resilience into the development of Sālelologa proactively is critical, given its
+growing population and exposure to natural and climate-related hazards. Between 2016 and 2021, the population of
+Savai’i grew by 3.7 percent, reaching 45,175 (one-fifth of Samoa’s population), with 34 percent of the island’s population
+
+
+                                                                                                                        Page 5
+       The World Bank
+       Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+residing in Sālelologa’s district of Fa’asaleleaga. However, Sālelologa is in a low-lying area, parts of which lie within the
+tsunami evacuation zone, and is exposed to flooding, coastal erosion, and landslides. The town’s key infrastructure—
+including its wharf, ferry terminal, airport, fire stations, market, schools, public library, and substation—is crucial for the
+community’s daily life and economic activity, making it essential to integrate climate and disaster resilience into its future
+development – including public buildings and spaces. Yet these critical public assets remain vulnerable to hazards, since
+they are often not designed to suit Samoa’s climate and disaster risk profile (e.g., improper design standards and
+construction practices). Environmentally sustainable designs that adapt to the changing climate and assist in mitigating
+Samoa’s risk profile, as well as universal accessibility standards to ensure the inclusion of all, are also needed.
+ Relationship to CPF
+
+14. The proposed project is aligned with the World Bank Group’s mission of creating a world free of poverty on a livable
+planet, through reducing disaster-related economic and livelihood losses. It is consistent with the World Bank’s Pacific
+Islands Regional Partnership Framework (RPF) FY17-FY23 (Report No. 120479) that covers nine Pacific Island Countries
+(PICs): Kiribati, Republic of the Marshall Islands, Federated States of Micronesia, Republic of Nauru, Republic of Palau, the
+Independent State of Samoa, the Kingdom of Tonga, Tuvalu, and Vanuatu. In particular, the proposed project contributes
+to the achievement of Objective 3.1: Strengthened resilience to natural disasters and climate change and mainstreaming
+disaster risk and climate change considerations in development planning and investments. It would also align with
+Objective 2.1: Increased resilience of infrastructure and Objective 2.2: Greater preparedness for shocks in the draft RPF
+FY25-29.
+
+15. The proposed project is consistent with Samoa’s climate and disaster resilience strategies, including its Nationally
+Determined Contributions (NDC), long-term development strategies, National Adaptation Plans, national climate
+change policies, and other relevant strategies. The project supports the 2050 Strategy for the Blue Pacific Continent, a
+comprehensive and long-term plan committed to addressing regional challenges including climate change and disasters.
+The project’s alignment also further extends to various national long-term strategies, including Samoa’s Pathway for the
+Development of Samoa (2021-2026), MHEWS Policy (2023), Second NDC (2021), and Climate Change Policy (2020). In
+addition, it aligns with the National Disaster Management Plan (NDMP) and the National Action Plan for Disaster Risk
+Management (NAP), which define the disaster risk management framework and its implementation, as well as Samoa
+2040, which links climate resilience and disaster risk objectives to sustainable development goals. This proposed project
+also directly supports sector-specific goals communicated in Samoa’s climate adaptation strategies, especially to
+strengthen community preparedness and response capacities.
+
+
+ C. Proposed Development Objective(s)
+ 16. The proposed Project Development Objective (PDO) is to improve the capacity of the Government Samoa to
+ prepare for and manage the impacts of natural hazards effectively, to strengthen the resilience of select urban areas,
+ and in case of an eligible crisis or emergency, respond promptly and effectively to it.
+
+  Key Results (From PCN)
+
+17. The project is expected to benefit a total of approximately 218,000 people (the total population of Samoa). PDO-level
+indicators could include:
+     a. People with enhanced resilience to climate risks (number, disaggregated by gender) corporate indicator.
+     b. People in high-risk areas with access to, and enhanced understanding of, multi-hazard early warning systems
+         (percentage, disaggregated by gender).
+
+
+                                                                                                                          Page 6
+        The World Bank
+        Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+     c. People in high-risk areas with access to an enhanced emergency response system (percentage, disaggregated by
+        gender).
+     d. People living in urban areas guided by a sustainable management plan incorporating land-use strategies and risk
+        considerations (percentage, disaggregated by gender).
+ D. Concept Description
+
+18. The proposed project is structured under four components as described below, with tentative funding to be
+confirmed during project preparation. Activities would be determined based on: (i) strategic alignment with national
+development planning and DRM strategies; (ii) recommendations from technical assessments and diagnostics;6 (iii)
+funding availability; and (iv) complementarity with other DRM programs and initiatives.
+
+Component 1: Strengthening Hazard Monitoring and Early Warning Systems
+
+19. Activities under Component 1 will invest in global, regional, and country-level decision support systems,
+instrumentation, and capacity and institutional strengthening for MHEWS, supporting both climate-related and
+geophysical hazards. This includes strengthening the “upstream” end of effective MHEWS through investments in
+observations and forecasting, including for the Global Basic Observation Network (GBON).7 Potential activities include
+early warning delivery systems, monitoring and communication equipment, and institutional strengthening and capacity
+building.
+
+Component 2: Emergency Preparedness and Response
+
+20. Activities under Component 2 will enhance national- and community level response capacities to better prepare
+for, and respond to, future disasters. This will be achieved through supporting the “downstream” end of effective
+MHEWS, particularly investments in dissemination and communication, and EP&R at the country and community levels.
+Potential activities include emergency management infrastructure, emergency management capacity, and dissemination,
+education, and outreach.
+
+Component 3: Urban Resilience
+
+21. Activities under Component 3 will invest in national and local activities to reduce the exposure and vulnerability of
+priority assets to climate and natural-related hazards. This will be achieved through the risk-informed town planning,
+strengthening of critical public facilities, physical climate adaptation measures, and institutional strengthening related to
+infrastructure resilience. Potential activities include planning and institutional strengthening, and resilient public facilities
+investments.
+
+Component 4: Project Management and Contingent Emergency Response Component (CERC)
+
+22. Activities under Component 4 will support project management across components and a CERC. Responsibilities
+would include environmental and social management, procurement and contract management, financial management,
+
+
+6 Such as the Bank’s ongoing Emergency Preparedness and Response Diagnostic and Urban Resilience Multi-Hazard Risk Assessment and Investment
+
+Options for Sālelologa, and the SOFF Country Hydromet Diagnostic.
+7 GBON is a fundamental element of global weather forecasting systems based on the international exchange of observational data, which underpin
+
+all weather, climate, and water services and products. SOFF is facilitating implementation of GBON in the Least Development Countries and Small
+Island Developing States, including Samoa, to generate and internationally exchange the required GBON station data.
+
+                                                                                                                                          Page 7
+      The World Bank
+      Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+communication, monitoring and evaluation, and training. This component could include a CERC that could be activated
+following an eligible emergency.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                Triggered?
+ Projects on International Waterways OP 7.50                                    No
+ Projects in Disputed Area OP 7.60                                              No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Yong Jian Vun
+  Senior Disaster Risk Management Specialist
+
+  Vica Rosario Bogaerts
+  Senior Disaster Risk Management Specialist
+
+  Jessica Rachel Schmidt
+  Urban Specialist
+
+ Borrower/Client/Recipient
+  Independent State of Samoa
+
+ Implementing Agencies
+
+
+
+
+                                                                                                               Page 8
+     The World Bank
+     Pacific Region Preparedness, Adaptation and Resilience - Samoa(P507749)
+
+
+ Ministry of Natural Resources and Environment
+ Lealaisalanoa Frances Debra Brown-Reupena
+ Chief Executive Officer
+ fran.reupena@mnre.gov.ws
+
+ Ministry of Works, Transport and Infrastructure
+ Fui Tuapi Mau Simanu
+ Chief Executive Officer
+ mau.simanu@mwti.gov.ws
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Yong Jian Vun, Vica Rosario Bogaerts, Jessica Rachel Schmidt
+
+Approved By
+
+Practice Manager/Manager:               Bjorn Philipp                           26-Sep-2024
+
+Country Director:                       Stephen N. Ndegwa                       28-Oct-2024
+
+
+
+
+                                                                                                       Page 9
+

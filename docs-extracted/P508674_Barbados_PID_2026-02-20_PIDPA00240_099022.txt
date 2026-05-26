@@ -1,0 +1,442 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Barbados Water Security and Sector Performance Program (P508674)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 20-Feb-2026 | Report No: PIDPA00240
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                              Official Use Only
+     The World Bank
+     Barbados Water Security and Sector Performance Program (P508674)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                     Operation ID                Operation Name
+                                                                                      Barbados Water Security
+                               LATIN AMERICA AND
+Barbados                                                  P508674                     and Sector Performance
+                               CARIBBEAN
+                                                                                      Program
+Financing Instrument           Estimated Appraisal Date   Estimated Approval Date     Practice Area (Lead)
+Program-for-Results
+                               12-Feb-2026                27-Apr-2026                 Water
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+Barbados                       Barbados Water Authority
+
+Proposed Program Development Objective(s)
+To enhance water security, pollution management, and the performance of water services in Barbados
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 Yes
+Is this project Private Capital Enabling (PCE)?           Yes
+
+SUMMARY
+  Government program Cost                                                                                    196.30
+
+  Total Operation Cost                                                                                       181.25
+    Total Program Cost                                                                                   181.12
+    Other Costs (Front-end fee,IBRD)                                                                          0.13
+  Total Financing                                                                                            181.25
+
+  Financing Gap                                                                                                0.00
+
+FINANCING
+  Total World Bank Group Financing                                                                            50.00
+
+
+                                                                                                                Page 1
+
+
+
+                                                                                                      Official Use Only
+       The World Bank
+       Barbados Water Security and Sector Performance Program (P508674)
+
+
+     World Bank Lending                                                                                                50.00
+   Total Government Contribution                                                                                      129.25
+
+   Total Non-World Bank Group Financing                                                                                  2.00
+     Private Capital and Commercial Financing Amount                                                                    2.00
+        of which Private Capital                                                                                        2.00
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+ B. Introduction and Context
+  Country Context
+
+
+1. Barbados is a Small Island Developing State (SIDS) with a population of approximately 269,000 and a highly service-
+oriented economy strongly dependent on tourism for income generation, export earnings, and employment. Tourism
+supports approximately one-third of total employment and represents a major share of GDP and exports. Agriculture and
+fisheries contribute modestly—around one percent of GDP and about three percent of employment—yet their economic
+and social importance far exceeds their monetary value, being essential for food security and rural livelihoods. As a small
+island economy with geographic isolation and reliance on a narrow set of service-oriented activities, Barbados remains
+structurally vulnerable to external shocks. Economic performance and labor market outcomes are closely tied to tourism,
+related transport and accommodation services, utilities, and agri-food supply chains. Disruptions to air and sea
+connectivity, water and energy provision, coastal and marine conditions, or visitor perceptions can rapidly affect visitor
+arrivals, firm revenues, food availability and prices, and fiscal stability, translating into job losses, reduced working hours,
+and income volatility across the economy.
+
+
+  Sectoral and Institutional Context
+2. Climate-driven threats to water security pose a systemic risk to Barbados’ economic stability, jobs, and long-term
+resilience. As one of the most water-scarce countries in the world, Barbados relies on groundwater for approximately 86
+percent of its potable supply, with withdrawals already approaching safe yield limits. Climate change is intensifying drought
+frequency, rainfall variability, saline intrusion, rising temperatures, and coastal flooding, further reducing aquifer recharge
+and threatening supply reliability. Recent drought episodes have recorded rainfall deficits of up to 35–40 percent below
+long-term averages, and modeling suggests groundwater yields could decline significantly by mid-century under certain
+scenarios. Given the island’s limited surface storage capacity and heavy dependence on groundwater, climate variability
+rapidly translates into supply stress. Coastal infrastructure—including hotels, utilities, and wastewater assets—is also
+exposed to storm surge and sea level rise, compounding economic vulnerability in tourism-dependent areas. Water
+insecurity has direct macroeconomic implications: approximately one-quarter of GDP and 44 percent of employment are
+concentrated in water-dependent sectors, particularly tourism, which accounts for over 20 percent of GDP. Disruptions to
+
+
+
+                                                                                                                          Page 2
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Barbados Water Security and Sector Performance Program (P508674)
+
+
+water supply, marine ecosystem degradation, and exposure of coastal infrastructure to storm surge and sea level rise
+therefore directly affect productivity, fiscal stability, and livelihoods.
+
+3. Beyond climate pressures, structural and institutional constraints further undermine Barbados’ water security. The
+Barbados Water Authority (BWA), the sole provider of water supply and sanitation services, faces longstanding challenges
+related to aging infrastructure, high levels of non-revenue water (NRW, estimated at approximately 55 percent), limited
+asset management systems, and capacity constraints. Although BWA has established a dedicated NRW unit and initiated
+district metered areas, water losses remain high and maintenance practices largely reactive. Metering coverage is
+extensive, yet automation, data integration, and digital systems are not fully optimized, affecting operational efficiency,
+billing accuracy, and customer service performance. Rising energy costs associated with groundwater pumping and
+desalination further strain finances, while limited internal financing capacity constrains the scale of capital investments
+required to modernize infrastructure, reduce losses, expand wastewater services, and strengthen climate resilience.
+Institutional limitations also affect water resources management. While BWA’s Water Resources and Environmental
+Management Unit (WREMU) holds a central mandate for groundwater management and well licensing, monitoring
+networks, data systems, and inter-institutional coordination remain insufficient to support fully evidence-based resource
+planning. Gaps in standardized data protocols and limited oversight of private abstractions constrain the effectiveness of
+emerging tools, including groundwater modeling. Strengthening water resources governance, improving data systems, and
+enhancing coordination across sectors—particularly agriculture, energy, tourism, coastal management, and climate
+resilience—are critical in a context of extreme water scarcity. Addressing these operational and institutional constraints
+requires modernization of organizational structures, digital systems, and performance management frameworks.
+Strengthening technical capacity, improving data transparency, and embedding accountability mechanisms will be essential
+to transform BWA into a more efficient, financially sustainable, and customer-focused utility capable of delivering reliable
+services under increasing climate stress.
+
+4. Inadequate wastewater management in Barbados threatens critical groundwater and coastal resources. Only 15
+percent of the population is sewered with remaining households reliant on septic tanks or suck wells often serviced
+informally with limited oversight of effluent conveyance and disposal. BWA is currently upgrading two wastewater
+treatment plants to tertiary level to facilitate treated water reuse, one of the few utilities in the region to take such steps.
+However, the need to expand sewerage coverage persists (including exploring lower-cost technologies) and to ensure that
+septic tanks are properly managed with collected waste conveyed for treatment at designated sewage treatment plants
+(STPs). Poor wastewater and septage management are major sources of groundwater and coastal contamination in
+Barbados, as approximately 80 percent of the island is highly vulnerable to aquifer pollution, particularly from percolation
+of nitrogen and phosphates into groundwater. These nutrients reach coastal waters through subsurface flow, thereby
+negatively affecting the health of marine ecosystems.
+
+5. Recognizing the severe constraints posed by Barbados’ water scarcity context and the need to enhance the reliability
+and quality of water and sanitation services, the Government of Barbados (GoB) has elevated water security as a national
+priority. It has acknowledged the need for substantial institutional strengthening within BWA to ensure that service delivery
+keeps pace with climate pressures and expected service quality. To advance this objective, the GoB has established a high-
+level BWA Transformation Committee tasked with preparing and guiding a comprehensive utility turnaround. The
+subsequently developed BWA 2025-2030 Strategic Plan (SP) aims to modernize BWA’s systems, processes, and
+organizational culture, and strengthen its strategic and operational capabilities.
+
+
+
+
+                                                                                                                          Page 3
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         Barbados Water Security and Sector Performance Program (P508674)
+
+
+    PforR Program Scope
+6. The Barbados Water Security and Sector Performance Program-for-Results (PforR) supports BWA’s Strategic Plan
+(SP, 2025-2030), which seeks to position the BWA as a fit for purpose, 21st century water utility that is able to deliver
+equitable and reliable access to water for citizens. The Program constitutes Phase I of the Caribbean Water Security Multi-
+Phased Approach (MPA). The Program comprises three results areas (RAs).
+
+7. Results Area 1 – Building BWA capacity for well-performing service delivery. This RA, aligned with MPA’s Pillar 2 –
+Strengthening Utility Performance and Service Delivery, will support the modernization of BWA’s operations and its
+comprehensive capacity building towards more efficient service delivery. The efforts include utility-wide digital integration
+with modernization of systems, processes, and procedures. Digital integration, including cross-cutting financial and
+commercial systems, NRW and service delivery management, improved customer engagement, optimization of metering
+management, professionalization of technical operations, and asset management. The bulk of the results are to
+be achieved by BWA joining efforts with an experienced WSS operator (could be in association with a specialized
+consultancy firm) through a Modernization Partner (MP) contract that will have clear targets on performance and service
+delivery outcomes. The DLIs/DLRs for this RA include:
+
+    • DLI 1: Improved BWA services continuity capacity and reduced water losses: This DLI promotes a shift toward a
+    modern, data-driven operations, towards improved operational performance through: (i) the development and
+    approval of a robust disaster recovery and business continuity framework for service reliability during climate and
+    operational shocks (DLR 1.1); (ii) the operationalization of 24 priority District-Metered Areas (DMAs) (DLR
+    1.2), encompassing about 18,000 water connections; (iii) the modernization of 80,000 customer water meters to smart
+    meters, fully integrated with BWA’s central data systems (DLR 1.3); and (iv) the achievement of 30 percent or less NRW
+    (physical and commercial losses) in the target DMAs (DLR 1.4).
+
+    • DLI 2: Improved BWA customer responsiveness and financial performance: This DLI will incentivize the strengthening
+    of BWA’s commercial and financial performance through three complementary DLRs. DLR 2.1 will incentivize the
+    establishment and full operationalization of a Digital Customer Portal with an updated customer database and system
+    generation of commercial reports, integrated with a Commercial Management System. DLR 2.2 will incentivize customer
+    service by rewarding incremental improvements in BWA’s responsiveness to customer complaints per regulatory
+    standards. DLR 2.3 will drive long-term financial sustainability and creditworthiness improvement by incentivizing
+    improvements in operating revenues.
+
+    • DLI 3: BWA’s organizational reform, systems digitalization, and staff enhancement program are implemented: This
+    DLI incentivizes a comprehensive strengthening of BWA’s institutional capacity, performance management, and
+    digital modernization. DLR 3.1 will drive improved service performance oversight through the signing of a Performance
+    and Service Level Agreement with the government and the annual publication of a performance report. DLR 3.2 will
+    incentivize BWA’s digital transformation by supporting the operationalization of three priority modules
+    (Technical, Financial and WRM1) of the integrated utility-wide Management Information System (MIS). DLR 3.3 will
+    incentivize organizational reform and capacity building through approval and roll out of a new BWA organizational
+    structure clarifying roles, responsibilities, accountability across the utility.
+
+
+
+1
+  This module will be implemented through a Water Resources Information Management System (WRIMS), envisioned as an integrated system for managing and
+visualizing water resources information, linked to associated decision-support tools and other relevant systems managed by BWA for WRM. WRIMS will also enables
+data-sharing and integration with relevant national agencies involved in water resources management.
+
+
+                                                                                                                                                           Page 4
+
+
+
+                                                                                                                                                 Official Use Only
+       The World Bank
+       Barbados Water Security and Sector Performance Program (P508674)
+
+
+8. Results Area 2 – Pollution management through country-wide safely managed sanitation services. This RA, aligned
+with MPA Pillar 3 – Pollution management through safely managed sanitation, will support the reduction of pollution
+loads reaching the ocean and the aquifer by incentivizing improvements in safely managed sanitation services. This RA will
+also support establishing water reuse and reforming septage management regulations. The DLI/DLRs for this RA include:
+
+  • DLI 4: Reduced unsafe disposal of untreated wastewater and septage: This DLI will incentivize regulatory reforms
+  (DLR 4.1), improved sewerage coverage using lower-cost technologies (DLR 4.2), and strengthened septage
+  management (DLR 4.3).
+
+
+9. Results Area 3 – Foundations for long term water security. This RA, aligned with MPA Pillar 4 – Building foundations
+for long term water security, resilience, and disaster response, will support improvements in the GoB’s capacity to manage
+its water resources sustainably and adapt to climate variability. This RA will support the establishment of a high-level
+coordination mechanism across relevant sectors, operationalization of the WWMC and integrate water information
+systems with utility modernization efforts45. The DLI/DLRs for this RA include:
+
+  • DLI 5: Implemented institutional, legal and technical mechanisms for water security management and reporting: This
+  DLI will incentivize critical institutional and regulatory reforms as well as adoption of digital systems for improved
+  national water governance and groundwater resource management. DLR 5.1 will incentivize BWA for the establishment
+  of a high-level coordination mechanism for water security as well as for strengthened regulations for the Water and
+  Wells committee’s functioning, including the operationalization of provisions to support actions associated with drought
+  management; update of the national wells monitoring and inventory linked to the Water Resources Information
+  Management System. DLR 5.2 incentivizes the publication of an annual water resources status report
+
+ C. Proposed Program Development Objective(s)
+
+ 10. To enhance water security, manage pollution, and improve the performance of water services in Barbados.
+ PDO-level results indicators are as follows:
+  • Improved operational performance of BWA for water service delivery
+  • People provided with safely managed sanitation services
+  • People benefiting from climate-resilient planning, preparation, surveillance and/or response
+
+
+ D. Environmental and Social Effects
+
+11. The overall environmental and social (E&S) risk of the Program is moderate. None of the activities fall under the
+policy exclusion definition in Paragraph 14 of the World Bank's guidance on Environmental and Social Systems Assessments
+(ESSA). The Program design and screening processes exclude actions and activities that would have significant adverse
+impacts that are sensitive, diverse, or unprecedented on the environment and/or affected people, and the Program will
+not finance: (i) works that require land acquisition; (ii) works within or adjacent to protected areas, marine reserves, coastal
+buffer zones, or designated ecologically sensitive sites; (iii) works in zones prone to coastal erosion, landslides, or flooding;
+or (iv) works involving the use of prohibited materials or technologies, such as asbestos-containing materials, lead-based
+paints, or hazardous chemicals prohibited under international conventions.
+
+
+
+
+                                                                                                                           Page 5
+
+
+
+                                                                                                                   Official Use Only
+       The World Bank
+       Barbados Water Security and Sector Performance Program (P508674)
+
+
+12. The Program is anticipated to deliver significant positive outcomes for both the people of Barbados and the
+environment. It will enhance service reliability and improve environmental management through reduced groundwater
+extraction and upgraded wastewater management, which will help protect water resources, decrease pollution, and
+promote public health. By improving water conservation and reducing energy consumption, Barbados’s water system will
+be more robust and efficient, while the Program will also build the capacity of institutions and staff, ensuring better
+management, engagement with consumers, and oversight of water and sanitation services.
+
+
+13. The main social risks are related to interactions with the community during small civil works as well as engagement
+with broader society and BWA staff. They include temporary access disturbances, minor and short-term business
+disruptions, traffic and mobility impacts, the possibility of chance finds in excavations works, occupational and community
+health and safety, digital exclusion of vulnerable users, termination of informal or unregistered connections, gaps in
+communication and stakeholder engagement, sexual exploitation and abuse/harassment (SEA/SH), and potential concern
+amongst BWA staff due to organizational changes. From an environmental standpoint, although activities are confined to
+small-scale works within established rights-of-way, risks include dust, noise, minor soil disturbance, waste generation,
+temporary community inconveniences, and occupational hazards related to excavation, traffic, and heat exposure.
+
+
+14. The Bank has developed an Environmental Social System Assessment (ESSA) for the Program. The ESSA finds that
+Barbados’ national systems are well-aligned with World Bank PforR core principles, especially in areas
+like environmental protection, worker safety, and grievance mechanism. However, there are gaps in BWA’s institutional
+capacity and operational procedures, particularly in staffing, standardized Environmental Codes of Practice (ECoPs),
+standard operating procedures (SOPs), and monitoring systems. The program includes the following E&S actions agreed
+with the BWA: (i) strengthen the E&S capacity of the BWA by engaging professionals to focus on E&S risk management
+during the implementation and build E&S capacity of BWA staff; (ii) develop and agree with the Bank a screening checklist
+to identify environmental risks as well as E&S requirements to be included in the Programs' bidding and contracting
+documents; (iii) develop standardized ECoPs and SOPs for small-scale water and sanitation works; and (iv) standardize
+consultation and disclosure procedures for all water and sanitation small works. The consultation process of the
+ESSA included engagements with BWA and other relevant agencies to gather information and discuss findings, including
+sessions in November and on December 9, 2025 and January 20, 2026. The draft ESSA has been disclosed on January 30,
+2026 (prior to appraisal). Feedback received through different channels, including public consultation will be integrated
+into the final ESSA report and recommended actions. The ESSA will be finalized prior to Program negotiations and
+publicly disclosed before World Bank Board approval.
+15. Grievance Redress. Communities and individuals who believe that they are adversely affected as a result of a Bank
+supported PforR operation, as defined by the applicable policy and procedures, may submit complaints to the
+existing Program grievance mechanism or the Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints
+received are promptly reviewed in order to address pertinent concerns. Program affected communities and individuals
+may submit their complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses the Inspection
+Panel, which determines whether harm occurred, or could occur, as a result of Bank non-compliance with its policies
+and procedures, and the Dispute Resolution Service, which provides communities and borrowers with the opportunity to
+address complaints through dispute resolution. Complaints may be submitted at any time after concerns have been
+brought directly to the Bank's attention, and Bank Management has been given an opportunity to respond. For information
+on how to submit complaints to the Bank’s Grievance Redress Service (GRS), please visit http://www.worldbank.org/GRS.
+For information on how to submit complaints to the Bank’s Accountability Mechanism, please
+visit https://accountability.worldbank.org.
+
+
+
+
+                                                                                                                      Page 6
+
+
+
+                                                                                                              Official Use Only
+       The World Bank
+       Barbados Water Security and Sector Performance Program (P508674)
+
+
+E. Financing
+
+16. Program Financing. The proposed Program scope is 92 percent (US$181.12 million) of the Strategic Plan
+(Government program), i.e. US$196.27 million, with the WB financing of US$50 million or about 28 percent of
+the Program (see table below).
+                                                    Table: Program Financing Summary
+                                   Source                                       Amount (US$ Million)      % of Total
+     Counterpart Funding                                                                         129.12                71.3%
+        National Government & BWA revenues                                                       129.12                71.3%
+     International Bank for Reconstruction and Development (IBRD)                                 50.00                27.6%
+     Commercial Financing                                                                          2.00                1.10%
+        Unguaranteed Commercial Financing                                                          2.00                1.10%
+                            Total Program Financing                                              181.12
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Lilian Pena Pereira Weiss
+   Lead Water Supply and Sanitation Specialist
+
+ Borrower/Client/Recipient
+  Barbados
+
+ Implementing Agencies
+  Barbados Water Authority
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+ @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+ APPROVAL
+
+
+ Task Team Leader(s):                           Lilian Pena Pereira Weiss
+
+ Approved By
+
+
+
+                                                                                                                           Page 7
+
+
+
+                                                                                                                   Official Use Only
+     The World Bank
+     Barbados Water Security and Sector Performance Program (P508674)
+
+
+
+Practice Manager/Manager:             David Michaud                     29-Jan-2026
+
+Country Director:                     Federico E. Baechli               20-Feb-2026
+
+
+
+
+                                                                                              Page 8
+
+
+
+                                                                                      Official Use Only
+

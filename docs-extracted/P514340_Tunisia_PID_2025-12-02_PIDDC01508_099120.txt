@@ -1,0 +1,507 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Potable Water Security and Resilience Project(P514340)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 02-Dec-2025 | Report No: PIDDC01508
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Potable Water Security and Resilience Project(P514340)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Tunisia                        P514340                      Potable Water Security and Resilience Project
+Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+MID EAST,NORTH                 16-Dec-2025                  31-Mar-2026                   Water
+AFRICA,AFG,PAK
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Ministry of Economy and      SONEDE
+Financing (IPF)                Planning
+
+Proposed Development Objective(s)
+To improve the quality and resilience of potable water services; and to strengthen the operational performance of the
+national urban water utility
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                           240.00
+
+  Total Financing                                                                                                240.00
+             of which IBRD/IDA                                                                                 210.00
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                210.00
+  Non-World Bank Group Financing
+   Other Sources                                                                                                 30.00
+
+                                                                                                                    Page 1
+
+
+
+                                                                                                            Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+       Arab Fund for Economic and Social Development                                                                30.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                    Concept Review Decision
+Substantial                                                     The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1.       Tunisia is a lower middle-income country with a highly diversified economy led by a large service sector, but
+suffering from slow growth, high dependency on public expenditures, persisting regional disparities and
+unemployment. After stalling in 2023, Tunisia’s economy is showing gradual recovery, with growth of 1.4% in 2024 and
+1.9% projected for 2025. Assuming drought conditions ease, it is expected that moderate growth will occur over 2025–27
+but risks to this remain substantial. Transfers to State-Owned Enterprises (SOEs), together with public sector employment,
+subsidies and social protection programs, contributed to a rising debt burden from 40% (2010) to 80% (2023) of GDP. The
+debt of the 50 largest SOEs constitutes 38% of the GDP (2020). Inequality increased for the first time in decades: the Gini
+Index rose from 32.8 (2015) to 33.7 (2021). Disparities persist between poorer interior regions and developed coastal
+regions. Unemployment stands at 16%, with high gender disparities (22% for women versus 13% for men). Graduate
+unemployment is 31%, reflecting youth exclusion.
+
+2.       Following the 2024 Presidential elections, the government identified its priorities for the next five years. These
+maintain continuity with the directions outlined in the 2023-2025 National Development Plan and are expected to be
+formalized through the 2026-2030 Plan under preparation. While keeping the overall goal of promoting sustainable
+growth and social justice, a new focus on jobs and economic inclusion was ranked amongst the top priorities. Enhancing
+human capital remains critical, with a focus on employability. Other priorities include energy transition, addressing water
+scarcity, expanding digitalization, improving the business environment, and supporting private sector development.
+
+3.      The Tunisian economy is highly vulnerable to water scarcity. According to the Tunisia Country Climate and
+Development Report (CCDR, 2023), 83% of Tunisia’s GDP is produced in areas under high or very high water stress,
+rendering the economy vulnerable in the face of droughts. In Tunisia, 39% of the jobs are water-dependent (half in
+agriculture; half in construction and manufacturing), implying even greater vulnerability to water stress than in other
+MENA countries (e.g. in Egypt and Jordan the analogous rates of job water dependence are 32% and 19%, respectively)
+(CLEAR dashboard, 2023).
+
+ Sectoral and Institutional Context
+
+Increasing water demand-supply gap
+
+
+
+
+                                                                                                                       Page 2
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+4.      Tunisia successfully developed its water supply to the benefit of its population and economy. The country
+achieved nearly universal access to drinking water, and the provision of some form of sanitation for 97% of the population.
+The country fully developed its irrigation potential, with 450,000 ha equipped (15% of arable land). Irrigated agriculture
+uses 75% of the water (in years of no restrictions) and generates 43% of agricultural production (CCDR, 2023). More
+recently, Tunisia has been investing in non-conventional sources, however, at present desalination and reuse of treated
+wastewater (TWW) contribute only 2% and 1%, respectively, to the total water supply.
+
+5.       The traditional supply-oriented approach is reaching its limit with regard to conventional resources. Surface
+water is mobilized to almost full capacity (95%). Groundwater is overexploited (133%), leading to saltwater intrusion and
+increased costs for abstraction. Water quality is at risk: 27% of the effluents treated by the sanitation utility (Office
+National de l’Assainissement, ONAS) do not comply with national standards. This undermines the potential for TWW reuse,
+and it exacerbates risks to ecosystems and public health.
+
+6.       Climate change further threatens Tunisia’s water endowment. The CCDR highlighted that Tunisia is among the
+countries most vulnerable to climate change in the Middle East and North Africa (MENA). Since 2015, the country has
+been grappling with a multiyear drought which has resulted in significantly low reservoir levels, well below historical
+averages. As a coping mechanism, farmers and other water users have increased withdrawals from aquifers, aggravating
+over-exploitation. Across all climate change scenarios, it is projected that by 2050, the increase in temperature and
+uncertainty around precipitation, coupled with changes in the frequency and intensity of extreme weather events, will
+drive a further decline in water availability.
+
+7.       Demand for water has been increasing due to population growth (threefold since 1950), increased urbanization,
+irrigation expansion and economic growth. Despite increasing water scarcity, Tunisia has not exceled at demand-side
+management, intended as reducing losses and optimizing usage. About 23% of drinking water and 30% of irrigation water
+in public schemes is lost through leakages before reaching consumers. Major investments in efficient on-farm irrigation
+technologies failed to decrease water consumption due to lack of concomitant governance actions (quotas, volumetric
+water pricing, incentives). Tunisia records lower agricultural water productivity than Morocco, Egypt and Jordan.
+
+8.       Tunisia’s growing water gap threatens the country's socio-economic development: if no action is taken to
+address water insecurity, a quarter of the country’s water demand will go unmet by 2050 (CCDR, 2023). Mismatch
+between supply and demand is dealt with on a reactive emergency basis, rather than in a more coherent and structural
+manner. In times of drought, priority is generally given to human and industrial demands, while restrictions are imposed
+on irrigation with far-reaching consequences for agricultural production. As a result, farmers lack visibility on water
+allocation, which complicates planning for the agricultural season and inclines them to focus on lower-value crops,
+affecting incomes, jobs, and food security, while fueling groundwater overexploitation. It is particularly concerning that
+despite the severe restrictions on irrigation, the potable water utility (Société Nationale d’Exploitation et de Distribution
+des Eaux, SONEDE) does not receive sufficient water to meet the needs for drinking water and carries out water rationing.
+In a business-as-usual scenario, the economy could shrink by 3.4% of GDP in 2030 and by 6.4% in 2050 (CCDR, 2023). The
+agricultural sector would be particularly affected, with its value added expected to fall by 15% by 2030 and by 29% by
+2050. By 2030, the poverty rate would increase to 21.3%, a 1.5% increase relative to the baseline scenario.
+
+Governance, Institutional and Legal framework
+
+9.    The water sector’s outdated legislative framework renders tackling the growing water gap in Tunisia even more
+complex. Tunisia’s Water Code dates back to 1975, when the country was not yet suffering from water deficits. The
+
+
+
+                                                                                                                         Page 3
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+revision of the Water Code has been under discussion since 2009, but high turnover in key political positions and some
+lack of consensus at technical level have been significantly delaying its approval.
+
+10.     The Tunisian water sector involves a multiplicity of institutions. The Ministry of Agriculture, Hydraulic Resources,
+and Fisheries (Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, MARHP) oversees the potable water
+sub-sector through the SONEDE; the irrigation sub-sector through its regional offices (Commissariats Régionaux de
+Développement Agricole, CRDAs); as well as cross-cutting aspects of water resources management through its planning
+department. The State Secretary for water resources reports to the MARHP Minister. The Ministry of Environment
+oversees the sanitation sub-sector through the ONAS. As is common in public administration in Tunisia, institutions in the
+water sector suffer from delays in the decision-making, as well as complex and cumbersome administrative procedures.
+Users’ groups play a role in rural areas across the sub-sectors, such as the water users associations (Groupement de
+Developpement Agricole, GDA) in irrigation.
+
+11.      Lack of adequate interministerial coordination results in suboptimal and delayed responses to structural water
+scarcity and droughts. This is apparent in the case of TWW reuse, for which there is insufficient communication between
+ONAS, the Ministry of Environment and MARHP, and lack of alignment on investment priorities for wastewater treatment
+and reuse. Decisions that need to be approved by the Interministerial Council often suffer delays. For example, ONAS's
+proposed tariff increases have been repeatedly postponed by the Interministerial Council since 2023.
+
+12.       Efforts to modernize the institutional and legal framework have failed to deliver appreciable results. For public
+irrigation schemes, a draft Decree that transitions the institutional set-up from the CRDA/GDA towards a single operator
+(utility) has been under discussion since 2018, backed by the WB-supported Irrigated Agriculture Intensification Project
+(PIAIT, P160245); but it has failed to materialize largely due to lack of political will to push through the reform and high
+turnover of the leadership in MARHP. For TWW reuse in agriculture, a draft Decree clarifying roles and responsibilities
+across the multiplicity of stakeholders involved has been in the making since 2023, but its interministerial nature (Ministry
+of Environment, MARHP and Ministry of Health) is slowing down its approval.
+
+Financial sustainability
+
+13.     Water utilities and operators in Tunisia largely rely on increasingly strained public resources. Subsidies are
+needed to make up for the shortfall in the revenue collected from customers which is not adequate to cover operation
+and maintenance (O&M), let alone the capital requirements for the renewal and extension of the infrastructure. But these
+subsidies are insufficient, prompting a downward spiral of deteriorating infrastructure, technical and financial
+performance. The challenge of financial sustainability in the sector has been further exacerbated by rising inflation in
+recent years. More specifically:
+• The SONEDE recovers 90% of O&M costs. A tariff adjustment program has been under implementation since 2019.
+    SONEDE’s financial viability risks being further undermined by Tunisia’s program of expansion of desalination capacity,
+    which is very expensive.
+• The ONAS recovers 70% of O&M costs. No tariff adjustments have been implemented since 2022, while the
+    operational subsidies have been falling short, with only partial coverage of maintenance needs. ONAS’ dire financial
+    position is at the heart of the hiring freeze that has been in place since 2008, with the consequent loss of expertise in
+    the sub-sector.
+• The CRDAs and GDAs recover only 50% of O&M costs. Tariffs have been frozen since 2002. In 2021, a gradual tariff
+    increase was launched, but shortly after suspended due to the prolonged drought, which led to restrictions in water
+    provision to farmers.
+
+
+
+                                                                                                                         Page 4
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+14.      ONAS is increasingly leveraging private sector participation in O&M to overcome its operational challenges. The
+ONAS is outsourcing its O&M functions for 32% of WWTPs, 56% of pumping stations and 47% of networks. This is a
+significant progression compared to 2022 values of 14%, 18% and 17%, respectively. Through the WBG-supported
+Sanitation Public-Private Partnership (PPP) Support Project (ONAS PPP, P162957), the ONAS is exploring concession
+contracts that involve more advanced forms of private sector engagement, including performance-based compensation,
+extended contract durations (ten years), and targeted infrastructure improvements with a modest private contribution to
+capital investment (limited to 4%). IFC provided transaction advisory to help ONAS develop this project and the Bank is
+financing it. The ONAS PPP project is also strengthening the PPP Unit in ONAS in charge of monitoring all PPP contracts,
+to facilitate interactions with the concessionaires and the national PPP Authority (IGPPP). Through IGPPP’s technical
+support, the ONAS now aspires to go even further by leveraging higher shares of private sector financing through PPPs, as
+indicated by the ongoing tender for El Hessiane WWTP DBFMO (Design, Build, Finance, Maintain, Operate) contract (final
+bid expected in December 2025). For this transaction, IFC is partnering with the ONAS and the IGPPP to lead a group of
+DFIs for the review of the bankability of the investment based on which bidders will submit their offers.
+
+The Plan Eau 2050
+
+15.     The Plan Eau 2050 – the MARHP’s water strategy - aims to close the water demand-supply gap by 2050. As such,
+it serves as a cornerstone for the country’s economic development (livelihoods and jobs), human development (food
+security and public health), and environmental sustainability. Presented to the Higher Water Council in 2023, the Plan Eau
+2050 advocates for infrastructure development, institutional and governance improvements, legal reforms, and
+interministerial coordination mechanisms; but political ownership of several proposals remains limited. The Plan -
+segmented into a series of 5- to 10-year investment plans - estimates a total financing need of US$23 billion, or US$900
+million per year. This is well beyond the financing capacity of the budget, corresponding to 60% of total public annual
+investments.
+
+Tunisia Water Security and Resilience (RESEau) Program
+
+16.     In November 2023, the Government of Tunisia requested World Bank’s financial support for a significant
+expansion of the country’s capacity for TWW reuse, primarily in agriculture. The subsequent technical review by the
+Bank and associated policy dialogue led to the recommendation to take a programmatic approach to broaden the support
+to potable water, sanitation and irrigation; in recognition of the interconnected nature of the challenges across all water
+sub-sectors and of the need for a holistic approach to achieve impact at scale.
+
+17.     As part of this process, the World Bank prepared a Water sector note based on priorities identified in the Plan
+Eau 2050, which was socialized with several concerned Ministries (Ministry of Economy and Planning, MEP; Ministry of
+Finance; MARHP; Ministry of Environment) in December 2024. The note identifies institutional and governance reforms
+across all water sub-sectors, touching on water demand, supply and financial sustainability. These measures need to be
+implemented in parallel with infrastructure investments under the current 5-year plan of the Plan Eau 2050, to ensure
+that the anticipated benefits of the investments would materialize and be sustainable. The priority reforms include the
+high-level governance framework, which needs to be aligned with – and improve upon – the actual reality on the ground.
+Regulatory obstacles and inefficiencies should be removed, to ensure that institutions are put in the best conditions to
+perform. Finally, there is a need for adoption of a performance-based approach in managing the water infrastructure base.
+The ten priority reforms are laid out along these axes (governance, regulation and performance) for demand management,
+supply augmentation and financial sustainability.
+
+
+
+
+                                                                                                                       Page 5
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+                            Table 1: Ten priority governance and institutional reforms in the water sector in Tunisia
+                                    Demand management             Supply augmentation              Financial sustainability
+                                                                    1-Approval of the Water code
+               Governance                                  2-Enhancement of interministerial coordination
+                                         3-Adoption of          4-Adoption of industrial
+                                    groundwater strategy        pre-treatment program
+                                   5-Decree on operator of
+               Regulation               public irrigation       6-Decree on TWW reuse             7-Circular on TWW tariff
+                                           schemes
+                                                                                                9- Commercial performance
+                                    8- Technical performance improvement of SONEDE,         improvement of SONEDE, ONAS and
+              Performance
+                                                ONAS and irrigation operators                       irrigation operators
+                                                                                            10-Signature of PPP for desalination
+
+
+ Relationship to CPF
+
+18.      The RESEau Program is aligned with the World Bank Group’s Country Partnership Framework (CPF; Report No.
+180304-TN) 2023-2027 for Tunisia. It supports the GoT’s development plan to expand the economy to benefit all, create
+quality jobs, integrate environmental sustainability and boost resilience to climate change. The proposed Program is
+aligned with:
+• High-Level Objective 3 on improved resilience to climate change, and notably to Objective 3.3 on improving water
+    services. Through its interventions across all water sub-sectors (potable water, irrigation and sanitation), the Program
+    supports sustainable water management, climate resilience, and access to high-quality services.
+• High-Level Objective 1 on greater accountability of public institutions, by strengthening technical and commercial
+    performance of utilities (SONEDE and ONAS) and public operators (CRDAs), laying the foundations towards fiscal
+    sustainability, and stimulating private sector participation.
+
+The Program will contribute to the World Bank Group’s Global Challenge Program (GCP) on Fast-Tracking Water
+Security and Climate Adaptation and to key initiatives in MENA. The ultimate targets of the Plan Eau 2050 align with
+the pillars of the WBG’s Meyahuna Hayatuna Initiative in MENA, with a priority focus on water for people, food, planet,
+growth and jobs.
+
+ C. Proposed Development Objective(s)
+ To improve the quality and resilience of potable water services; and to strengthen the operational performance of the
+ national urban water utility
+
+
+  Key Results (From PCN)
+
+ 19.      The proposed PDO indicators are (i) water losses reduced (10 Mm3/yr); (ii) production of desalination and TWW
+ increased (18 Mm3/yr); (iii) interruptions of service reduced (or alternative indicator of technical performance); and (iv)
+ collection rate increased (or alternative indicator of financial performance).
+
+ D. Concept Description
+
+20.   Component 1. Demand management – SONEDE aims to manage demand through a combination of technical and
+managerial measures (Reform #8), including reducing physical losses through network upgrades; enhancing operational
+
+                                                                                                                                           Page 6
+
+
+
+                                                                                                                                   Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+efficiency through improved network management; and through sensitization of clients in the use of the resource. This
+component will finance the upgrade of existing networks, possibly adopting a performance-based contract. Private sector
+financing, even if in limited amounts, will be explored.
+
+21.    Component 2. Supply diversification and increase – The SONEDE aims to diversify and increase supply through
+the expansion of existing desalination plants, possibly adopting a DBO or BOOT model.
+
+22.      Component 3. Financial sustainability and institutional strengthening – The SONEDE aims to improve its
+commercial performance (Reform #9), by identifying a more efficient way of doing business. The project is expected to
+finance the digitalization of operations to improve operational, financial, and commercial performance, notably by: (i)
+replacing obsolete water meters with smart meters; (ii) introducing improved monitoring systems; (iii) enhancing
+customer management through digital billing and mobile payment solutions; and (iv) introducing client relationship tools
+to strengthen revenue collection and service quality. This component will also support an analysis of the impacts of
+desalination expansion on cost structures and the implications for tariffs, together with trainings for SONEDE staff on
+identifying and structuring PPPs. This would be conducive to the preparation and signature of a first batch of PPP contracts
+(Reform #10). This component will be complemented by grant resources to lay foundations for improved inter-ministerial
+coordination and planning.
+
+23.     Component 4. Project Management – Activities will include, among others: (i) project management, monitoring
+and evaluation activities, including the purchase of equipment, and carrying out project financial and technical audits; (ii)
+establishing a comprehensive environmental and social management system (including creating the structures, processes,
+and skills necessary for long-term compliance with international standards); and (iii) stakeholder communication and
+advocacy strategy.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                       Policies                                                       Triggered?
+ Projects on International Waterways OP 7.50                                              No
+ Projects in Disputed Area OP 7.60                                                        No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+24.      The environmental risk rating is assessed as Substantial, based on the nature and scale of the planned physical
+interventions, the sensitivity of the project’s coastal setting, and the current limitations in the institutional capacity of the
+implementing agency. The operation involves extensive civil works in densely populated urban and peri-urban areas,
+including the rehabilitation of potable water networks and the expansion of a coastal desalination plant. These activities
+carry the potential for a range of adverse environmental impacts, including brine discharge into the marine environment,
+localized air and noise pollution, generation of hazardous and non-hazardous waste, and high energy consumption during
+both construction and operation phases. While the planned works are not located in protected or critical habitats, the
+coastal location of the desalination facility introduces potential risks to marine ecosystems, particularly related to salinity
+
+                                                                                                                            Page 7
+
+
+
+                                                                                                                    Official Use Only
+       The World Bank
+       Potable Water Security and Resilience Project(P514340)
+
+
+changes and thermal impacts. Although some of these risks are expected to be site-specific, they involve technical
+complexity and require robust, sustained monitoring and mitigation. At this stage, the implementing agency, SONEDE,
+does not have an operational Environmental and Social Management System (ESMS) aligned with ESF and has not
+previously implemented Bank-financed projects under ESF. This may limit its ability to meet relevant standards without
+targeted capacity support. To address these gaps, institutional strengthening measures including ESMS development will
+be integrated into project design, alongside site-specific environmental management tools. The social risks are also
+assessed Substantial, due to social exclusion, labor and working conditions, community health and safety, and stakeholder
+engagement weaknesses. Key risks include (i) social exclusion, particularly of rural communities, women and girls who
+may be left behind if project benefits are not distributed equitably. Inclusive design measures will be necessary to ensure
+fair access to services and equal opportunities. (ii) Labor and working conditions risks, including potential labor influx,
+unequal employment opportunities, and gaps in occupational health and safety, may lead to community tensions or
+violations of labor standards (e.g., child labor, unfair treatment wage gaps, or restrictions on freedom of association).
+Labor management procedures and mechanisms to integrate labor force will be put in place to mitigate these risks. (iii)
+Community health and safety risks are expected during construction due to accidents or exposure to hazardous materials.
+Risks of Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) will be addressed through a dedicated SEA/SH action
+plan outlining mitigation measures. Meaningful and inclusive consultations are essential to ensure transparency and
+responsiveness throughout project implementation. Special efforts will be made to engage vulnerable groups and
+promote their active participation. Both environmental and social risks are considered manageable with appropriate
+mitigation measures, strong implementation support, and a clear commitment to building institutional capacity. The
+project offers a valuable opportunity to enhance E&S practices particularly through institutionalizing SONEDE’s ESMS, and
+strengthening inclusive stakeholder engagement processes in the water sector.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Stephane Dahan
+   Senior Water Specialist
+
+   Floris Dalemans
+   Water Specialist
+
+   Habab Taifour
+   Lead Water Specialist
+
+ Borrower/Client/Recipient
+  Ministry of Economy and Planning
+
+ Implementing Agencies
+  SONEDE
+
+ FOR MORE INFORMATION CONTACT
+
+
+                                                                                                                       Page 8
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     Potable Water Security and Resilience Project(P514340)
+
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Stephane Dahan, Floris Dalemans, Habab Taifour
+
+Approved By
+
+Practice Manager/Manager:               Michael Haney                         20-Nov-2025
+
+Country Director:                       Alexandre Arrobbio                    02-Dec-2025
+
+
+
+
+                                                                                                    Page 9
+
+
+
+                                                                                            Official Use Only
+

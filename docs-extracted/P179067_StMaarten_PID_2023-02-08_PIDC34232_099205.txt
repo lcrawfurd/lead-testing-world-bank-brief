@@ -1,0 +1,491 @@
+Public Disclosure Authorized
+                                        The World Bank
+                                        SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                      Project Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                                     Concept Stage | Date Prepared/Updated: 09-Dec-2022 | Report No: PIDC34232
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               Dec 07, 2022                                                                                      Page 1 of 10
+         The World Bank
+         SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                   Parent Project ID (if any)   Project Name
+  St Maarten                                     P179067                                                   SINT MAARTEN:
+                                                                                                           WASTEWATER
+                                                                                                           MANAGEMENT
+                                                                                                           PROJECT (P179067)
+  Region                                         Estimated Appraisal Date     Estimated Board Date         Practice Area (Lead)
+  LATIN AMERICA AND                              Jul 21, 2023                 Sep 15, 2023                 Water
+  CARIBBEAN
+  Financing Instrument                           Borrower(s)                  Implementing Agency
+  Investment Project Financing                   Government of Sint Maarten   National Recovery Program
+                                                                              Bureau
+
+   Proposed Development Objective(s)
+
+    The objectives of the Project are to (i) increase access and improve sustainability and resilience of wastewater services
+    in Sint Maarten, and (ii) reduce risk of coastal and surface waters pollution.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+   Total Project Cost                                                                                                        25.00
+
+   Total Financing                                                                                                          25.00
+
+                             of which IBRD/IDA                                                                                0.00
+   Financing Gap                                                                                                              0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+   Non-World Bank Group Financing
+
+       Counterpart Funding                                                                                                   15.00
+          National Government                                                                                                15.00
+
+       Trust Funds                                                                                                           10.00
+          Sint Maarten: Hurricane Irma Recon., Rec., & Res. Prg TF                                                           10.00
+
+
+
+
+Dec 07, 2022                                                                                                             Page 2 of 10
+           The World Bank
+           SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+
+     Environmental and Social Risk Classification                                      Concept Review Decision
+     Substantial                                                                       Track II-The review did authorize the preparation to
+                                                                                       continue
+
+
+
+     Other Decision (as needed)
+
+     B. Introduction and Context
+
+      Country Context
+
+     1.    Sint Maarten is a constituent country of the Kingdom of the Netherlands located in the Caribbean. The country
+     occupies the southern half of an island shared with the French overseas collectivity of Saint Martin. Spurred by economic
+     development, the island's population (estimated at 41,177 in 2019) has been steadily increasing over the past several
+     decades, making Sint Maarten one of the most densely populated countries in the Caribbean.
+
+     2.     Sint Maarten's economy is largely based on tourism. Restaurants, hotels, and other tourism-related sectors
+     account for about 45 percent of the country’s Gross Domestic Product (GDP), and tourism accounted for 73 percent of
+     foreign exchange income, with tourism creating employment for approximately one-third of the employed population1.
+     Sint Maarten primarily caters to cruise tourists, with the island’s only deep-water port located in Philipsburg. About 80
+     percent of the visitors to the island are short-stay cruise tourists
+
+     3.       Sint Maarten is highly vulnerable to natural disasters and adverse climatic events due to its location within the
+     hurricane belt. For the past decades, the country has been exposed to high winds and numerous hurricanes, including
+     notably intense storms: Donna in 1960 (Category 3), Hugo in 1989, Lenny in 1999, Luis in 1995 (Category 4), and Irma in
+     2017 (Category 5 of the Saffir-Simpson scale). Due to the small size of the country, a single storm has the potential to
+     impact the entire population directly. High winds, rainfall, and flooding are the principal risk factors while the country is
+     also vulnerable to earthquakes. Coastal areas are exposed to flood risk from sea level rise, storm surge and potential
+     tsunamis. Increased urbanization, climate change, and limited capacity in the country to build resilience to its
+     vulnerability to natural hazards. The World Bank estimated damages and losses related to Hurricane Irma at US$1.38
+     billion and US$1.35 billion respectively (about 129 percent of the Gross Domestic Product then), affecting 90 percent of
+     all infrastructure and large parts of the natural environment.
+
+     Sectoral and Institutional Context
+
+     4.     Sewerage network coverage is low in Sint Maarten and 89 percent of households rely on mostly unsafe septic
+     tanks or direct discharges into water bodies.. Prior to the COVID-19 pandemic, Sint Maarten experienced rapid economic
+     development along with population growth for a few decades, however, this growth was not followed by sufficient
+     investment in wastewater infrastructure. As a result, existing public sewerage network coverage is severely limited, and
+     covers only a few districts and neighborhoods of Sint Maarten, leaving significant areas and percentage of the population
+
+
+ 1
+   National Recovery and Resilience Plan, Government of Sint Maarten, June 2018. Labor Force Survey 2017: tourism-based economy includes wholesale and retail
+ industries, hotels, restaurants, and catering.
+
+
+Dec 07, 2022                                                                                                                                         Page 3 of 10
+           The World Bank
+           SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+     uncovered. Although the GoSM has made several wastewater investments over the time, including the construction of a
+     municipal wastewater treatment plant (WWTP) and development of sewerage infrastructure in various residential and
+     commercial districts2, it is estimated that only 23 percent of GEBE’s water customers in east Sint Maarten have sewerage
+     connections. In total, less than 11 percent of the properties in the country, corresponding to approx. 2,000 properties
+     are connected to the sewerage network. Instead, 89 percent of households rely on mostly unsafe septic tanks or direct
+     discharges into water bodies.
+
+     5.     Contaminated runoff negatively impacts the environment, affects the water quality of coastal areas, which are
+     important for tourism, and represents a health threat to residents. Removal of the sludge from septic tanks does not
+     take place in a general or in a structural manner. As a result, those tanks are prone to overflow, causing untreated
+     discharge, often into open gutters which in turn flow into Little Bay or the Simpson Bay Lagoon and are eventually
+     released into the sea. Given the low connection rate to the public sewer system on the island and the above-described
+     problems, expanding the sewage network to connect more properties has been recognized as a priority necessary to
+     protect the health of the population and mitigate pollution of the island’s ponds and coastal/beach areas.
+
+     6.     Sint Maarten’s wastewater treatment infrastructure requires an upgrade to deal with current and future loads.
+     The country’s single existing public biological treatment plant located on A. T. Illidge Road, is designed to service the
+     Greater Philipsburg area (including Cul de Sac, Upper Prince’s Quarter and the Lower Prince’s Quarter areas) and other
+     sewered districts. The WWTP (co-funded by GoSM and the Netherlands) has the capacity to treat 4750 m3 of sewage/day
+     (up to 30,000 households), and is currently operating at approx. 70 percent of its design hydraulic load. An unknown part
+     of these flows originates from the intrusion of stormwater, and discharge from cruise ships that are docking at Sint
+     Maarten. Additionally, it receives about 450 m3/d of household septic sludge delivered by trucks to the plant. Treated
+     wastewater is discharged into the Fresh Pond, a small water body connected to the sea via an blocked open canal that is
+     only occasionally used for water discharge. A.T. Illidge Road WWTP and the sewer network on Sint Maarten are currently
+     operated by Ministry for Public Housing, Spatial Planning, Environment and Infrastructure (VROMI) in collaboration with
+     `Wastewater Maintenance and Management (WWMM)` company, a private operator. A.T. Illidge Road WWTP has a
+     VROMI issued Hinderance Permit (No. HP.12.006) that specifies the required performance of the plant, including effluent
+     quality, water quality monitoring and plant operation (noise, air pollution, etc.). Since wastewater quality monitoring
+     process in the plant is inadequate, it is not clear to what extent those standards are fulfilled. There are also several
+     individual WWTPs in Sint Maarten that are operated by individual resorts that are not part of public wastewater system
+     and that cover only the specific needs of the resorts or island facilities, like the Princes Juliana International Airport (PJIAE)
+     WWTP that treats wastewaters from airport operations, and it is operated separately.
+
+     7.      Extreme weather events are causing direct or indirect discharge of untreated wastewater, leading to land,
+     surface water and sea pollution. After storms and hurricanes, septic systems tend to overflow and sludge collection and
+     transport to the country’s wastewater treatment plant get interrupted for a considerable period, leading to land, surface
+     water and coastal water pollution. Even without extreme weather events, in the most densely developed, low-lying areas
+     of Sint Maarten, septic systems are saturated, leading to groundwater pollution and sewage runover to public roads and
+     private properties. Clean coastal and bathing waters and rich biodiversity constitute the island’s major assets, which are
+     essential for the development of a tourism-based economy. However, this richness of nature is acutely threatened by
+     the pollution created by the direct or indirect discharge of untreated wastewater. Studies and tests, done by the Nature
+     Foundation St Maarten (*https://naturefoundationsxm.org/tag/water-quality/) that episodically monitors the country’s
+
+ 2
+   The districts connected to the public sewerage system include South Reward, Ebenezer, St. Peters Road, St. John’s Estate, Belvedere, Middle Region Road, ‘911’
+ Emergency Homes at Union Farm, A. Th. Illidge Road (Dutch Quarter) Madame Estate, Fort Willem, FOGA, Hope Estate, and parts of Philipsburg. In Philipsburg
+ however, many streets are only partially connected to the main line on the WJA Nisbeth Road. Furthermore, some of those districts have partial or even fully
+ complete sewerage pipelines without home connections and not connected to the existing public wastewater system.
+
+
+Dec 07, 2022                                                                                                                                             Page 4 of 10
+           The World Bank
+           SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+     coastal water quality and coral reefs status have confirmed the unsatisfactory state of the coastal waters, with medium
+     to elevated levels of phosphorus and nitrogen and presence of fecal coliform bacteria, indicating sewerage pollution of
+     coastal waters. The effluents from A. T. Illidge Road WWTP discharge into the nearby so-called ‘Fresh Pond’, which is
+     interconnected with the `Great Salt Pond`, itself connected with the Great Bay coastal area via an open canal that can be
+     opened during strong rainfall events. Data on water quality of those ponds are very limited, but it can be concluded that
+     there is a noticeable level of water pollution in both ponds.
+
+
+     8.       There are multiple reasons for inadequate sanitation in Sint Maarten. The limited advance in the solution of
+     wastewater management in Sint Maarten results from a number of socio-economic, technical, and institutional issues,
+     including (i) budget deficits leaving no room for capital expenditures, or budget allocation prioritized for other projects;
+     (ii) lack of a wastewater financing model and no tariff or billing system for the provision of public wastewater services;
+     (iii) lack of a sewerage development master plan to address the existing problem; (v) limited capacity - insufficient data,
+     fragmented knowledge and lack of clearly defined roles and responsibilities among the main stakeholders active in the
+     water sector; and (vi) limited public awareness and reaction to wastewater pollution, in part due to the absence of
+     comprehensive and continuous monitoring of the water quality on Sint Maarten beaches. A few concepts for expansion
+     of wastewater system were prepared over time but without follow-up actions. In an effort to define future developments
+     of wastewater system of Sint Maarten, several feasibility studies and development plans3 for wastewater management
+     system on the island have been prepared over the past two decades. However, no implementation has followed, and the
+     wastewater management situation in Sint Maarten had seen only marginal improvements in the last decade, while the
+     major wastewater pollution-related challenges and risk to coastal/beach waters remain. The last document developed is
+     the `Sewerage master Plans 2020-2030` completed in 2022, which gives a comprehensive overview of the current
+     situation and a general direction for future developments of wastewater system. However, this plan has not been
+     formally endorsed by the GoSM.
+
+
+     Policy Context
+
+     9.      The Ministry for Public Housing, Spatial Planning, Environment and Infrastructure (Ministerie van
+     Volkshuisvesting, Ruimtelijke Ordening, Milieu & Infrastructuur - VROMI) is responsible for the policies and regulation
+     of WSS municipal services in Sint Maarten. VROMI’s responsibilities include infrastructure development, environmental
+     protection, and management of natural resources. The VROMI Ministry Plan 2015-2018 envisaged the preparation of
+     several sectoral studies for the expansion of the primary physical infrastructure network for roads, utilities, sewerage,
+     and drainage. A Project Plan for Wastewater Management was prepared by VROMI Department for Infrastructure
+     Management in 2020. It described the strategy and required investments for an effective and sustainable management
+     of wastewater. The Plan describes three main goals to create an affordable, reliable, culturally acceptable, and
+     (economically) sustainable wastewater system are: (i) to protect public health from the potentially harmful effects of
+     wastewater; (ii) to enable sustainable economic development through the provision of adequate, culturally acceptable
+     and affordable wastewater services; and (iii) to protect the environment by minimizing adverse environmental impacts
+     from wastewater discharges. VROMI is also responsible for the preparation of environmental and technical standards
+     and the issuing of relevant permits for service provision (including the WWTP hindrance permit). The country has its own
+     legal framework that governs the water sector, including water quality and wastewater standards.
+
+
+
+
+ 3
+  Basis Rioleringsplan in 1998, Eilandelijk Rioleringsplan in 1998, Aquanet report in 2000, Preliminary Design Cole Bay 2015, Nature and Environment Policy Plan for
+ Netherland Antilles 2004-2007, Project Plan for Wastewater Management 2020, etc).
+
+
+Dec 07, 2022                                                                                                                                              Page 5 of 10
+            The World Bank
+            SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+     10.    Future investments in wastewater on Sint Maarten are proposed to be funded under the Sint Maarten Recovery
+     Reconstruction and Resilience Trust Fund. The Steering Committee of the Sint Maarten Recovery Reconstruction and
+     Resilience Trust Fund agreed on March 9, 2022, to allocate unallocated resources to new activities to develop and
+     strengthen social and utility services, including US$10M for the improvement of wastewater services (co-financed by
+     GoSM). This confirms the strong commitment and support of the Steering Committee to prioritize investments in
+     wastewater collection and treatment, to reduce risks to public health and protect Sint Maarten’s surface water and
+     beaches from environmental degradation, preserving the country’s extraordinary natural assets and enhancing the
+     sustainability of the tourism economy.
+
+
+     Relationship to Higher Level Objectives
+
+     11.      The proposed project is closely aligned with the priorities highlighted in the Strategic Framework 2019-2025:
+     Sint Maarten Reconstruction, Recovery and Resilience Trust Fund4. The Strategic Framework outlines the planned
+     cooperation between the World Bank and Sint Maarten for the period 2019 to 2028. The planned investments are
+     expected to be financed by the Government of the Netherlands through the SXM TF. The areas highlighted in the Strategic
+     Framework aim to (i) promote sustainable economic recovery, (ii) support citizens and resilient communities, and (iii)
+     build the foundations to improve long-term resilience and good governance. The proposed project will directly contribute
+     to the two key objectives identified under Focus Area 1 – Promote Sustainable Economic Recovery, which are resilient
+     utility services and improved sanitation services. Moreover, among the seven prioritized areas identified as critical for
+     investment in the long term, sewage management is emphasized along with hurricane-resistant schools and shelters,
+     psychosocial support and mental health, tourism recovery, and low-income housing. This is because appropriate sewage
+     management is critical for health safety, flood risk mitigation, ocean cleanliness, tourism, and the country's long-term
+     resilience. Therefore, the proposed project will significantly contribute to Sint Maarten’s development agenda.
+
+     12.    The proposed Project will directly support the implementation of the National Recovery and Resilience Plan
+     (NRRP5). GoSM defines priorities and a roadmap for Sint Maarten’s recovery, reconstruction, and resilience following
+     Hurricane Irma, which are then executed by NRPB. Under the proposed interventions, there is emphasis on the urgent
+     need for expanding the existing sewage network and upgrading the wastewater treatment infrastructure were necessary.
+     Moreover, NRRP stressed that significant resources should also be directed to upgrading the country’s sewerage network
+     in the interest of public health. Furthermore, the proposed project is closely in line with the Sint Maarten National
+     Development Vision 2020-2030 (draft).
+
+     13.    The Project will also work in synergy with other World Bank projects supported by the Trust Fund. Specifically,
+     the Project will exchange information and collaborate with the ongoing First Emergency Recovery Project (ERP-I) and the
+     Emergency Debris Management Project (EDMP) which also has the objective of strengthening the institutional framework
+     by establishing a Waste Authority. Specific areas of synergies or collaboration will be discussed during project preparation
+     and included in the final design of the Project.
+
+
+     C. Proposed Development Objective(s)
+
+     14.   The objectives of the Project are to (i) increase access and improve the sustainability and resilience of
+     wastewater services in Sint Maarten, and (ii) reduce the risk of coastal and surface water pollution.
+
+ 4 Strategic Framework 2019-2025: Sint Maarten Reconstruction, Recovery and Resilience Trust Fund
+ 5
+     Sint Maarten National Recovery and Resilience Plan, 2019. https://nrpbsxm.org/wp-content/uploads/2019/08/NRRP.pdf
+
+
+Dec 07, 2022                                                                                                             Page 6 of 10
+         The World Bank
+         SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+
+  Key Results (From PCN)
+
+  15.     The PDO level results indicators are the following:
+          1) Number of people (out of which share of female) /households provided with access to the public sewer
+              system (objective 1)
+          2) Operating cost ratio for the wastewater sector: total annual operational revenues/total annual operational
+              cost (objective 1)
+          3) Volume of BOD/COD removed by wastewater treatment before discharge (objective 2)
+          4) Seawater and surface water quality level in selected project locations (objective 2)
+
+  D. Concept Description
+
+  Project beneficiaries
+
+  16.     While the direct project beneficiaries from new sewerage access will be around 11,000 people (25 percent of
+  the Sint Maarten population) residing in the areas to be covered by the project, the complete population will benefit
+  from a safer environment and improved water quality on the island. Direct beneficiaries will benefit from improved
+  quality and resilience of sanitation services, primarily through the construction, rehabilitation, and modernization of
+  sewerage networks, and from the reduction of pollution due to the elimination of uncontrolled wastewater runoff. The
+  rest of the population of Sint Maarten will also benefit from improved municipal wastewater service provision achieved
+  through the improved policy and regulatory environment, cleaner surface and coastal waters, and a safer environment.
+  Moreover, the key beneficiary will be the island’s tourism-based economy, and through it the complete island population
+  that will benefit from cleaner coastal waters for bathing, which is a precondition for the long-term sustainable
+  development of the hospitality sector as a backbone of the island economy.
+  Project components
+
+  17.    The Project will include three components: (i) Wastewater infrastructure investment, (ii) Policy and institutional
+  development and coastal seawater and surface water quality monitoring, and (iii) Project management.
+  Component 1: Wastewater infrastructure investment (Tentative amount: US$20 million)
+
+  18.     This component would finance all stages of infrastructure development, including identification, design,
+  supervision, and construction of new wastewater collection infrastructure, and/or rehabilitation of existing wastewater
+  infrastructure. Component 1 will include two sub-components:
+
+  A.           Wastewater collection This first sub-component aims at improving the coverage and resilience of wastewater
+               collection. This will be done through the:
+               (i)     Expansion of the existing sewerage network to enable the connection for residents and commercial
+                       enterprises. The priority project areas that are being considered include: (a) Cul-de-Sac, (b) St. Peters
+                       Main Road, (c) Philipsburg, and (d) Lower Prince’s Quarter;
+               (ii)     Rehabilitation of critical parts of the existing sewage system to improve its climate resilience and
+                       operational efficiency
+               (iii)   Improvement in collection and treatment of wastewater from septic tanks.
+
+
+Dec 07, 2022                                                                                                          Page 7 of 10
+         The World Bank
+         SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+           This sub-component would include the preparation of Feasibility Studies, Environmental Impact Assessments,
+           and other project documentation necessary to secure required permits, detailed designs, and final bidding
+           documents. The Project will support providing more energy-efficient wastewater services to minimize energy
+           costs of service provision, and explore possibilities for decentralized wastewater management, including the
+           introduction of appropriate individual and close-to-nature wastewater solutions. The Project support will focus
+           on the area where investments can deliver the biggest benefits to the population’s health and safety, as well as
+           protection of the environment especially in the area with high population density, low sewerage coverage,
+           sources of pollution, and direct threat to surface and coastal waters, etc. Given the existing water scarcity on the
+           island, the Project will also promote potential wastewater reuse in line with applicable national legislation, where
+           technically feasible and economically justified.
+
+  B.       Upgrading of existing A. T. Illidge Road WWTP. The second sub-component will be the rehabilitation and
+           expansion of the existing WWTP that would be required for adequate treatment of the additional wastewater
+           flows that will be collected through the Project financed sewerage network expansion. Such rehabilitation and
+           expansion work will include upgrades of both wastewater treatment and sludge treatment lines, capacity
+           strengthening for measurement and analysis of wastewater, as well as preparation of WWTP development plans
+           for further expansion of the sewerage network that would cover the whole Sint Maarten.
+
+  19.    Concrete investments to be financed under both above-mentioned sub-components would be identified during
+  the Project preparation or in initial stage of Project implementation, following the review of existing development plans,
+  based on Government priorities, readiness for implementation, costs, and social and environmental impacts.
+
+  Component 2: Policy and institutional development and surface and sea water quality monitoring (Tentative amount:
+  US$3 million)
+
+  20.   Component 2 aims at creating the framework for the sustainable provision of efficient wastewater services in Sint
+  Maarten. This would include the following activities:
+
+         (a) capacity strengthening of the line Ministry (VROMI) for planning, regulation, and supervision of wastewater
+             services.
+         (b) strengthening of the legal and regulatory framework for sustainable wastewater service provision (building on
+             existing plans and ordinance), and introduction of cost recovery principles through the adoption of wastewater
+             tariffs. The institutional and financial modality for the operational management of wastewater services would
+             be defined to contribute to the financial sustainability and resilience of the services that would allow the service
+             providers to better respond to and reduce the impact of extreme weather events resulting from climate
+             change. The project would aim to bring international experience, knowledge, and innovation in wastewater
+             service provision, customized to the specific needs of Sint Maarten. The main elements of the institutional and
+             financial modality will be defined during Project preparation and agreed upon before Project negotiation.
+         (c) development and adoption of national WSS strategies and mid/long-term implementation plans for
+             wastewater management, including the adoption of circular economy principles.
+         (d) establishment of an adequately financed system for monitoring seawater quality in coastal areas/beaches and
+             the surface water quality of inland ponds. The first objective of this activity is to establish a national,
+             comprehensive, and standardized system for seawater and surface water quality monitoring, with a particular
+             focus on bathing waters quality monitoring, which would provide adequate information on status of Sint
+             Maarten’s coastal waters, and existing inner ponds (primarily Fresh Pond and Great Salt Pond). The activity
+             would aim at consolidating all seawater and surface water quality information, through collection into a single,
+
+
+Dec 07, 2022                                                                                                           Page 8 of 10
+           The World Bank
+           SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+               central publicly accessible database. The second objective of this activity is to implement at least one year of
+               measurement that would include a sufficient number of sampling points to provide reliable info on the status
+               of coastal and surface water.
+
+     21.   Possible institutions that would carry out the above-mentioned functions, as well as gaps in the institutional
+     framework would be identified, and the concrete needs for strengthening their capacity or creating new institutions
+     would be assessed during project preparation. The potential for consolidation or simplification of institutional
+     arrangements would be analyzed to ensure that the necessary functions are being delivered in the most cost-efficient
+     manner possible.
+
+     Component 3: Project management (Tentative amount: US$2 million)
+
+     22.    Under this Component, the Project will support the project management and coordination capacity of the
+     implementing unit of NRPB as a Project Implementation Unit (PIU), including support to the PIU to: (i) project monitoring
+     and evaluation activities; (ii) environmental and social risk mitigation measures; (iii) training of PIU staff; (iv) annual audits
+     for the project and providers; and (v) establishment of citizen engagement measures and grievance redress mechanisms
+     for the project activities.
+
+
+     Legal Operational Policies                                                                  Triggered?
+     Projects on International Waterways OP 7.50                                                No
+     Projects in Disputed Areas OP 7.60                                                         No
+
+     Summary of Screening of Environmental and Social Risks and Impacts
+     .
+
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Stjepan Gabric
+     Senior Water Resources Management Specialist
+
+
+     Borrower/Client/Recipient
+     Government of Sint Maarten
+
+
+
+
+     Implementing Agencies
+
+
+
+Dec 07, 2022                                                                                                                 Page 9 of 10
+         The World Bank
+         SINT MAARTEN: WASTEWATER MANAGEMENT PROJECT (P179067)
+
+
+
+  National Recovery Program Bureau
+  Claret Connor
+  Director
+  c.connor@nrpbsxm.org
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                     Stjepan Gabric
+
+  Approved By
+  APPROVALTBL
+  Country Director:                    Ogo-Oluwa Oluwatoyin Jagha   08-Feb-2023
+
+
+
+
+Dec 07, 2022                                                                      Page 10 of 10
+

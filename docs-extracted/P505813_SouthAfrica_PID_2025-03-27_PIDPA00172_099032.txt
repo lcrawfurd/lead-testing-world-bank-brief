@@ -1,0 +1,511 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   South Africa Metro Trading Services Program (P505813)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 27-Mar-2025 | Report No: PIDPA00172
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     South Africa Metro Trading Services Program (P505813)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                       Operation ID                  Operation Name
+                               EASTERN AND SOUTHERN                                       South Africa Metro Trading
+South Africa                                                P505813
+                               AFRICA                                                     Services Program
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+Program-for-Results
+                               31-Mar-2025                  30-Apr-2025                   Urban, Resilience and Land
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               Nelson Mandela Bay
+                               Metropolitan Municipality,
+                               Buffalo City Metropolitan
+                               Municipality, City of
+The Republic of South          Tshwane, City of
+Africa                         Johannesburg, eThekwini
+                               Metropolitan Municipality,
+                               Magaung Metropolitan
+                               Municipality, City of Cape
+                               Town, City of Ekurhuleni
+
+Proposed Program Development Objective(s)
+The development objective is to improve the accountability, financial and operational performance of trading services
+in South Africa’s metropolitan municipalities.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   No
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Government program Cost                                                                                   3,000.00
+
+  Total Operation Cost                                                                                           927.31
+    Total Program Cost                                                                                        925.00
+
+
+                                                                                                                    Page 1
+           The World Bank
+           South Africa Metro Trading Services Program (P505813)
+
+
+         Other Costs (Front-end fee,IBRD)                                                                                                                2.31
+       Total Financing                                                                                                                                927.31
+
+       Financing Gap                                                                                                                                     0.00
+
+    FINANCING
+       Total World Bank Group Financing                                                                                                               925.00
+         World Bank Lending                                                                                                                           925.00
+       Total Government Contribution                                                                                                                     2.31
+
+
+    @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+    Decision
+    The review did authorize the team to appraise and negotiate
+
+
+
+
+    B. Introduction and Context
+    Country Context
+    1.     South Africa's eight metropolitan municipalities (metros) 1 are home to 22 million people across 30,000 square
+    kilometers and generate 85% of the country’s economic activity. 67% of South Africans live in urban areas and this
+    proportion is expected to increase to 77% by 2050. Recognized in the National Development Plan 2030, metros form the
+    backbone of the national economy, providing essential services like water supply and sanitation (WSS), electricity, and
+    solid waste management (SWM), collectively known as ‘trading services’, to both residents and industrial customers.
+    Trading services are services for which consumption charges are levied and determined with the intention to make a
+    surplus (profit) on the delivery of the services. Given the revenue-generating nature of WSS, electricity and solid waste
+    trading services, they are referred to as ‘businesses’ in the South African context. Urbanization compounded with the
+    enduring legacy of apartheid spatial planning have led to pronounced spatial challenges and inefficiencies. These include
+    spatial injustice and inequality, where the urban poor tend to settle in peripheral urban areas far from social and
+    economic opportunities.
+
+    2.      South Africa's metros are facing a crisis in the provision of basic services, marked by declining safety, reliability,
+    and accessibility. This significant decline over the last 10 years is due to several factors: i) low collection rates resulting
+    in loss of revenues; ii) trading services departments not having full control of the revenue cycle (governance failures); iii)
+    lack of financial transparency and suboptimal procurement processes; iv) lack of proper asset management; and v)
+    underinvestment in infrastructure operations and maintenance. In many metros, the sustained deterioration of trading
+    services infrastructure has been associated with poorly defined lines of accountability, with support services such as
+    finance and collections, human resources, supply chain management, information technology, and fleet management,
+    often fragmented under separate units (e.g., Executive Directors or Heads of Departments) of the metro administration.2
+
+1
+    Namely Buffalo City, City of Cape Town, City of Ekurhuleni, City of Johannesburg, City of Tshwane, eThekwini, Mangaung, and Nelson Mandela Bay.
+2 WB, DBSA (2023) ‘Going beyond the Infrastructure Funding Gap: A South African Perspective’, World Bank and Development Bank of Southern Africa; Eberhard, R.
+
+(2023) State of Water in Cities: The Case for Change. A report produced for National Treasury’s Cities Support Programme by the WB.
+
+
+                                                                                                                                                           Page 2
+         The World Bank
+         South Africa Metro Trading Services Program (P505813)
+
+
+ Urgent action is needed to reverse the rapid deterioration and increasing vulnerability to shocks of urban services and
+ support the turnaround of trading services to improve the quality of life and resilience for metropolitan residents.
+
+  Sectoral and Institutional Context
+ 3.      At the national level, the National Treasury (NT) is taking a leading role driving policy implementation and
+ enhancing performance of metropolitical municipalities. For more than a decade, NT has been implementing an
+ umbrella program through its Intergovernmental Relations (IGR) division to enable cities to address the inefficiencies in
+ the built environment and drive meaningful change. The Cities Support Program (CSP) focuses on strengthening the
+ intergovernmental environment for this agenda, improving performance and strengthening governance towards
+ inclusive economic growth. Considering the multi-sectoral challenges that are faced by the metros, IGR coordinates and
+ collaborates with government stakeholders across the three spheres of government.
+
+ 4.     There has been a significant decline in WSS services in most of South Africa’s metros. About 46% of households
+ lack access to a safely managed water supply and 49% lack access to safely managed sanitation services.3 The largest
+ share of the water gap to meet safety and reliability objectives, as per the Sustainable Development Goals (SDGs), is due
+ to quality and reliability issues, while the largest sanitation gap is due to inadequately managed faecal sludge.4 Poor
+ resource allocation and underinvestment in infrastructure over the past five to ten years have led to infrastructure
+ collapse and unaffordable backlogs for maintenance and new projects. Among the key challenges faced by South Africa’s
+ WSS are the high levels of non-revenue water (NRW), at 41% of the system input volume. About 85% of NRW is due to
+ technical losses (leaks, bursts, illegal connections), and the remaining to commercial losses (low collection rates).5
+
+ 5.     The electricity sector in South Africa has been experiencing challenges for the last 10-15 years but, until recently,
+ most of the attention has been focused on power generation given the supply deficit evidenced by persistent
+ loadshedding6. Poor performance of the national utility (Eskom) in recent years severely impacted municipalities via
+ frequent supply interruptions of bulk electricity (i.e. foregone revenue) and damage to municipal equipment due to
+ recurrent power stoppages and restarts. This deterioration is a major concern given that revenue from electricity trading
+ services is key for overall financial health of municipalities. Most metros indicate aging infrastructure as one of their main
+ challenges. Although the institutional arrangements and performance in the metros differ widely, most metros have a
+ challenge with available capital for refurbishment. The problem has become so acute that some metros only invest on
+ refurbishment and replacement using grant funding. Metro’s electricity service departments are caught in a vicious cycle
+ of underperformance, as poor financial viability and operational inefficiency lead to poor service delivery.
+
+ 6.     South Africa’s municipal solid waste sector faces critical challenges across institutional frameworks, waste
+ generation, service coverage, and financing. The country generated an estimated 122 million tons of waste in 2022, yet
+ integrated solid waste management systems remain elusive, with many landfills running out of airspace and failing
+ compliance audits and licensing conditions. Uneven service coverage, particularly in underserved and informal areas,
+ exacerbates inequality and public health risks. Financing remains a key obstacle, with waste services accounting for just
+ 4% of metro operating budgets. Many metros lack functional weighbridges, basic fleet and route optimization, and
+ robust waste collection and disposal data systems (e.g. Management Information System) needed to monitor waste
+ flows, ensure accurate disposal, and comply with national reporting requirements, such as Integrated Waste
+
+
+3 World Bank (WB) and Development Bank of Southern Africa (DBSA), (2023). Going Beyond the Infrastructure Funding Gap: A South African Perspective; Stats SA
+
+(Statistics South Africa), 2019. General Household Survey 2019. Statistical Release P0318. Stats SA, Pretoria.
+4 WB and DBSA (2023), Ibid.
+5 DWS, 2018. National Water and Sanitation Master Plan (NWSMP). DWS, Pretoria.
+6 Load shedding is scheduled shutdown of electric power in a part or parts of a power-distribution system, generally to prevent the failure of the entire system when
+
+the demand strains the capacity of the system.
+
+
+                                                                                                                                                                 Page 3
+         The World Bank
+         South Africa Metro Trading Services Program (P505813)
+
+
+ Management Plans. Poor service delivery and insufficient waste management has also led to stormwater drainage system
+ blockages causing urban flooding.7
+
+ PforR Program Scope
+ 7.      The Government Program (the Metro Trading Services Program, MTSP) will consist of a new targeted
+ performance-based fiscal transfer (grant) to the Metros (the Metro Trading Services Grant, MTSG) that will be
+ allocated to metros on achievement of specific results over the next six years. To participate in the Program, Metros
+ will prepare sector-specific PIAPs for each trading service which adhere to prescribed templates developed by NT. The
+ PIAPs will reflect clear targets as well as a six-year budget envelope for proposed activities to achieve those targets, with
+ sources of funding identified (MTSG and other sources). Metros will obtain Council approval for each PIAP as a sign of
+ stakeholder commitment and submit the plan to NT for national government technical review and approval in order to
+ be considered eligible for inclusion in the program and receive grant allocation.
+
+ 8.      The PIAPs account for the heterogeneity of the metros’ institutional, technical, and financial circumstances and
+ baselines. The PIAPs will consolidate recent efforts by metros outlining their reform interventions for water supply and
+ sanitation, and electricity, respectively, which to date have included trading service turnaround strategies, institutional
+ reforms roadmap, and business and investment plans. The proposed operation supports the MTSP and the
+ implementation of PIAPs through the provision of funds to the metros with the aim of improving the accountability,
+ financial and operational performance of the trading services. Given Metro capacity constraints, the scope of the MTSP
+ preparation by NT and other stakeholders over 2024-25, and the “reform readiness” of the Metros, the WSS and
+ Electricity TSs will, by default, enter the Program from inception (first wave of metro participation, 2025/26), whereas
+ entry of the SWM TS will be delayed by a year.
+
+ 9.     Program Boundary and Result Areas: (a) Results Area 1: Improve Accountability Performance of Metro Trading
+ Services. Reforming the Recipients institutional structures and governance processes to improve the management of the
+ Trading Services businesses through establishment of a single point of management accountability for each trading
+ service; (b) Results Area 2: Improve Financial Performance of Metro Trading Services, and (c) Results Area 3: Improve
+ Operational Performance of Metro Trading Services- Water and Sanitation (WSS) operations, Electricity and Energy
+ operations, and Solid Waste Management (SWM) operations.
+
+ 10.     The key financing mechanism within the MTSP is the new performance-based fiscal transfer, the MTSG, which
+ comprises the PforR that the proposed operation will support. The PforR scope and boundary is identical to the
+ Government program in all respects except the total financing envelope; the Government program includes central
+ government financing as well as financing provided by metros from their own sources to support the implementation of
+ PIAPs while the PforR comprises only the part financed by the central government. The Government program includes:
+ (i) financing envelope of the MTSG (US$3 billion) to support implementation of PIAPs for water supply and sanitation,
+ electricity, and solid waste services, and (ii) all Metro expenditure from their own revenues and borrowing across the
+ three trading services to implement the PIAPs (currently projected at ~US$6 billion), for a total Government program size
+ of ~US$9 billion. The PforR comprises only the Metro Trading Services Grant (US$3 billion), which includes IBRD financing
+ (US$1 billion) and NT financing (US$2 billion). The PforR expenditures are all those under the MTSG, but do not include
+ the MTSP expenditures financed by the Metros from their own resources. Based on an analysis of grant parameters
+ compared to existing metro capex investment in the trading services, the funding level is assessed to be adequate to
+
+
+
+7 Water Research Commission (2020). Detection and Removal of Illegal Discharges into Stormwater Systems. WRC Report No. TT 808/19. Water Research
+Commission; Dube, K., Nhamo, G., & Chikodzi, D. (2022). Flooding trends and their impacts on coastal communities. GeoJournal, 87(Suppl 4), 453-468.
+
+
+                                                                                                                                                      Page 4
+      The World Bank
+      South Africa Metro Trading Services Program (P505813)
+
+
+incentivize the metros to undertake reforms in governance and accountability, operational and financial performance
+improvement.
+
+11.     The Government expenditure on the Program is the expenditure on the MTSG. Consistent with South African
+national and IMF accounting practices, this expenditure occurs at the time that the grant is disbursed by NT to the
+metros. The MTSG funds received by the Metros will be used to support capital and operating expenditures in the Trading
+Service sectors to achieve the results of the PIAP. Hence, the MTSG constitutes the Program expenditure framework. The
+World Bank will monitor the disbursement of the MTSG to the metros to ensure that the Government’s expenditure on
+the grant is greater than the amount disbursed by the Bank to finance the grant over the life of the operation. MTSG
+funds will be appropriated by NT using the national budget framework, and the Division of Revenue Act (DORA) will
+provide the legal and budgetary basis for the disbursement of the grant. The DORA, passed annually by Parliament as
+part of the budget, generally includes a summary framework for conditional grants with annual and medium-term budget
+envelopes and allocation and eligibility criteria for local governments. NT has prepared a conditional grant framework for
+the MTSG for inclusion in the annual budget for FY2025/26 and medium-term expenditure framework for the next three
+FYs. The Medium-Term Budget Policy Statement issued by NT on October 30, 2024, describes GoSA’s intention to
+introduce this new grant ‘to incentivize reforms to trading services and unlock additional infrastructure financing’.
+
+12.     Permitted investments funded by the MTSG fully align with the Government Program and include technical
+ assistance to support the consolidation, adoption, and implementation of the metro’s trading services Turnaround
+ Strategies and accompanying institutional reform roadmaps, investment plans, and capacity building at both central
+ and local levels. Permitted expenditures of the use of MTSG funds include capital investments and operations and
+ maintenance costs incurred by metros to achieve their PIAP targets; these expenditures will be costed by Metros and
+ included in their annual budgets. Permitted investments also consist of low-risk physical investments to support
+ institutional strengthening across the TSs (e.g., rehabilitation or expansion of distribution networks, fleet optimization).
+ However, investments that may cause significant adverse impact on the environment and/or nearby population as
+ defined in the WB Policy and Directive on PforR Financing will be excluded. All works, goods, and consultancy contracts
+ above the Operations Procurement Review Committee (OPRC) thresholds of US$25m will be excluded.
+
+13.     Given the scale of the reform across these critical trading services, select development partners have expressed
+an interest and willingness to support the MTSP through either financing or technical assistance. The Agence Française
+De Développement (AFD) has confirmed willingness to provide co-financing in a first tranche of US$105 million (€100
+million) through a Multi-Tranche Facility (MTF). AFD’s support to the MTSG is within the Program’s boundary, including
+the same DLIs and with a focus on the electricity sector. Two additional tranches of €100 million are proposed to be
+approved in 2026 and 2027. Similarly, firm interest in supporting the Program is expressed from the New Development
+Bank (NDB) up to US$1 billion, the Asian Infrastructure Investment Bank (AIIB) up to US$500 million, and the Kreditanstalt
+für Wiederaufbau (KfW) Development Bank up to US$219 million (€200 million). This financing has the potential to
+leverage an additional US$78 million in grant funding from the above-mentioned development partners to provide
+technical assistance for program implementation. The Swiss State Secretariat for Economic Cooperation (SECO), who
+have supported the CSP for over a decade, have indicated interest in providing technical assistance to MTSP with a
+specific emphasis on the institutional and infrastructure thematic areas of the Program. The WBG - including International
+Bank for Reconstruction and Development (IBRD), the Multilateral Investment Guarantee Agency (MIGA), and the
+International Finance Corporation (IFC) - is uniquely positioned to support the GoSA reform, including enhancing the
+potential role of the private sector.
+
+
+
+
+                                                                                                                        Page 5
+      The World Bank
+      South Africa Metro Trading Services Program (P505813)
+
+
+C. Proposed Program Development Objective(s)
+Program Development Objective(s)
+
+The development objective is to improve the accountability, operational and financial performance of trading services
+in South Africa’s metropolitan municipalities.
+
+14. The following outcome indicators will be used to measure the achievement of the PDO:
+   • PDO Indicator #1: Number of metros with improved accountability, financial and operational performance in
+      water and sanitation services.
+   • PDO Indicator #2: Number of metros with improved accountability, financial and operational performance in
+      electricity services.
+   • PDO Indicator #3: Number of metros with improved accountability, financial and operational performance in
+      solid waste management services.
+
+D. Environmental and Social Effects
+15.      The environmental and social risk rating is considered Substantial. While the exact details of the activities which
+require physical interventions and supported will only be known during implementation, it is anticipated that the
+activities will largely take place at existing facilities, therefore the environmental and social impacts and risks will be site
+specific, medium to short term in duration and not likely to lead to significant adverse direct, indirect, or cumulative
+impacts to human health or the environment. There is a minor risk of some resettlement associated with the water
+sector infrastructure scheduled for expansion or re-habilitation. However, this can be avoided by utilizing existing
+wayleaves. Some risk to informal settlements may occur but the South African Prevention of Illegal Eviction and Unlawful
+Occupation of Land Act (Act 19 of 1998) would offer some protection even in this eventuality. Activities of high
+environmental and social risks and impacts will not be eligible for grant support consideration. A list of activities not
+eligible for support and those that will require further E&S screening is included in the ESSA. Once more details on the
+designs and locations of activities are available, it will be screened using an environmental and social screening list,
+included as part of the POM, to exclude activities considered high in environmental and social risks and to determine
+eligibility for support. Overall, the outcome of the Program is expected to result in substantial environmental benefits as
+it will result in more climate resilient infrastructure, improved air, soil and water quality and water and energy use
+efficiencies.
+16.     The Program risks are mostly considered to be predictable and not as complex as high-risk activities, while
+impacts associated with the eligible infrastructure support will be site specific, medium to short term in duration and
+not likely to lead to significant adverse direct, indirect, or cumulative impacts to human health or the environment.
+The Program is not likely to impact on areas of high value or sensitivity as most works will take place at existing facilities
+belonging to the metropolitan municipalities. Typical environmental impacts include soil and water pollution, generation
+of construction waste and potential health and safety impacts. These risks and impacts are considered manageable by
+applying existing policies, laws, norms and standards. An area of concern may be the approach applied by various
+municipalities to the registration of waste -pickers, and the potential for this to exclude vulnerable persons from
+participation or reduce access to their resource streams. No activities of high environmental and social risk will be
+financed. Certain types of infrastructure will be considered ineligible and placed put on a “negative” (or prescribed)
+investment list – these will include infrastructure items that are likely to have a significant negative social or
+environmental impact(s). There is a minor risk of some resettlement associated with the water sector infrastructure
+scheduled for expansion or re-habilitation. However, this can be avoided by utilizing existing wayleaves. Some risk to
+informal settlements may occur but the South African Prevention of Illegal Eviction and Unlawful Occupation of Land Act
+(Act 19 of 1998) would offer some protection even in this eventuality.
+
+                                                                                                                           Page 6
+       The World Bank
+       South Africa Metro Trading Services Program (P505813)
+
+
+
+ 17.    The draft Environmental and Social Systems Assessment (ESSA) has been consulted with different stakeholders
+ on January 20 and 21, 2025 and disclosed on February 11, 2025. The ESSA is being finalized and will be redisclosed after
+ receiving final comments from stakeholders.
+
+ 18. Grievance Redress. Communities and individuals who believe that they are adversely affected as a result of a
+ Bank supported PforR operation, as defined by the applicable policy and procedures, may submit complaints to the
+ existing program grievance mechanism or the Bank’s Grievance Redress Service (GRS). The GRS ensures that
+ complaints received are promptly reviewed in order to address pertinent concerns. Project affected communities and
+ individuals may submit their complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses
+ the Inspection Panel, which determines whether harm occurred, or could occur, as a result of Bank non-compliance
+ with its policies and procedures, and the Dispute Resolution Service, which provides communities and borrowers with
+ the opportunity to address complaints through dispute resolution. Complaints may be submitted at any time after
+ concerns have been brought directly to the Bank's attention, and Bank Management has been given an opportunity
+ to respond. For information on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit
+ https://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s Accountability
+ Mechanism, visit https://accountability.worldbank.org.
+
+ 19. Gender: The historical legacy of social exclusion in South Africa includes a low representation of women in
+ science, technology, engineering, and mathematics (STEM) and technical sectors including water supply and
+ sanitation, electricity and solid waste management. An estimated 13% of graduates in STEM fields are women, and
+ 23% of employed individuals in STEM professions are women. The project seeks to narrow this gender gap by
+ supporting the inclusion of more women in STEM professions within the WSS, electricity and SWM sectors. The GoSA
+ Employment Equity Act No. 55 of 1998 (EEA) provides a framework for increased inclusion of women in the labor
+ market and the Commission of Employment Equity reviews progress annually.
+
+ 20. The PIAP Operational Indicators include periodic performance gender targets for each sector as reflected in
+ the DLIs. Program activities will increase the number of women hired in technical positions (see PIAP indicator A5,
+ Annex 3). Metros are required to track progress toward gender targets annually, and the degree of improvement will
+ impact disbursement in the final allocation for the program. Due to project complexity, with differentiated baselines
+ by city and sector, limited baseline gender data is available in the three focus sectors. To address these gaps, the
+ operation will include a gender assessment as a program activity to inform metro A1: Institutional Roadmap revisions.
+ The assessment will inform both baseline data and end targets, and technical assistance will be provided to metros
+ to ensure the A1 plans include measures for increasing inclusion, such as training and mentorship programs.
+
+E. Financing
+                                         Program Financing (Template)
+
+                             Source                                Amount (US$, Millions)            % of Total
+
+      Counterpart Funding                                                         2,000.00                     66.67%
+
+        National Government                                                       2,000.00                     66.67%
+
+
+
+
+                                                                                                                     Page 7
+     The World Bank
+     South Africa Metro Trading Services Program (P505813)
+
+
+    International Bank for Reconstruction and Development
+                                                             1,000.00   33.33%
+    (IBRD)
+
+                  Total Program Financing                    3,000.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Eric Dickson
+ Lead Disaster Risk Management Specialist
+
+ Diego Juan Rodriguez
+ Lead Economist
+
+ Tatyana Vladimirovna Kramskaya
+ Senior Energy Specialist
+
+Borrower/Client/Recipient
+ The Republic of South Africa
+ Ulrike Britton
+ Head: Policy Coordination (ODG)
+ ulrike.britton@treasury.gov.za
+
+Implementing Agencies
+
+
+
+
+                                                                             Page 8
+    The World Bank
+    South Africa Metro Trading Services Program (P505813)
+
+
+Nelson Mandela Bay Metropolitan Municipality
+Mandla George
+Acting City Manager
+cm@mandelametro.gov.za
+
+Buffalo City Metropolitan Municipality
+Mxolisi Yawa
+City Manager
+MxolisiY@buffalocity.gov.za
+
+City of Tshwane
+Johan Mettler
+City Manager
+Citymanager@tshwane.gov.za
+
+City of Johannesburg
+Tshepo Makola
+City Manager
+Makolat@joburg.org.za
+
+eThekwini Metropolitan Municipality
+Musa Mbhele
+City Manager
+Musa.Mbhele@durban.gov.za
+
+Magaung Metropolitan Municipality
+Sello More
+City Manager
+sello.more@mangaung.co.za
+
+City of Cape Town
+Lungelo Mbandazayo
+City Manager
+Lungelo.Mbandazayo@capetown.gov.za
+
+City of Ekurhuleni
+Imogen Mashazi
+City Manager
+City.Manager@ekurhuleni.gov.za
+
+FOR MORE INFORMATION CONTACT
+
+
+
+
+                                                            Page 9
+     The World Bank
+     South Africa Metro Trading Services Program (P505813)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Eric Dickson, Diego Juan Rodriguez, Tatyana Vladimirovna Kramskaya
+
+Approved By
+
+Practice Manager/Manager:              Peter D. Ellis                        04-Feb-2025
+
+Country Director:                      Satu Kristiina Jyrintytar Kahkonen    27-Mar-2025
+
+
+
+
+                                                                                                            Page 10
+

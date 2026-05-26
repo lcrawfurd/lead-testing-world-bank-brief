@@ -1,0 +1,542 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Mozambique Urban Water Security Project(P509890)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 07-Apr-2025 | Report No: PIDDC01256
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Mozambique Urban Water Security Project(P509890)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Mozambique                     P509890                      Mozambique Urban Water Security Project
+Region                         Estimated Appraisal Date     Estimated Approval Date        Practice Area (Lead)
+EASTERN AND SOUTHERN           30-Apr-2025                  30-May-2025                    Water
+AFRICA
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Republic of Mozambique       Ministry of Public Works,
+Financing (IPF)                                             Housing, and Water
+                                                            Resources
+
+Proposed Development Objective(s)
+Increase access to improved water supply services and to improve the sustainability of water supply services in
+selected cities.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                            146.00
+
+  Total Financing                                                                                                 146.00
+             of which IBRD/IDA                                                                                    146.00
+  Financing Gap                                                                                                     0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                    146.00
+        of which IDA Recommitted                                                                                  146.00
+
+
+                                                                                                                     Page 1
+          The World Bank
+          Mozambique Urban Water Security Project(P509890)
+
+
+           IDA Grant                                                                                                                   146.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                     Concept Review Decision
+Substantial                                                                      The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+    1.      Mozambique has experienced significant economic fluctuations over the past few decades. Following the end
+    of the civil war in 1992, the country saw robust economic growth, averaging 7.9 percent from 1993 to 2015. However,
+    the revelation of undisclosed debts in 2016, natural disasters in 2019, and ongoing conflict in the Cabo Delgado province
+    have hindered growth, which averaged 3 percent between 2016 and 2019, followed by an increase from -1.2 to 5.4
+    percent, between 2020 and 2023, reflecting the post-Coronavirus Disease 2019 recovery. Despite these challenges,
+    Mozambique's economic growth is expected to strengthen, with projections of 8 percent growth over 2024-2027, driven
+    by recovery in services, increased liquified natural gas production, and high commodity prices. The current account deficit
+    is anticipated to remain high but will be financed through trade credits and foreign direct investment, with gross reserves
+    expected to stay at comfortable levels.1
+    2.      Mozambique is one of the most vulnerable countries to climate change in the region, and its economic growth
+    is historically correlated to climate shocks. A catastrophe risk modeling study estimates that Mozambique faces average
+    annual losses of US$440 million due to floods alone.2 A recent analysis of climate shocks and household well-being in
+    Mozambique finds that a cyclone, flood, or drought event can lead to a 25–30 percent drop in per capita food
+    consumption and 0.4 fewer meals per day per person. Exposure of Maputo, Gaza, and Inhambane provinces to extreme
+    temperature, recurrent droughts, extreme precipitation, and flooding was assessed as high, with moderate impacts to
+    physical infrastructure and assets. This implies that potentially damaging and life-threatening floods and droughts are
+    expected to occur at least once during the 30-year life span of planned infrastructure.
+    3.     Investments in water security have led to significant economic and human development gains. The
+    socioeconomic gains of water investments in Mozambique are evident in the main urban centers, where more than two
+    decades of consistent investments and the contribution of the local private sector have resulted in increased access to a
+    water supply, from 60 percent in 2000 to close to 90 percent in 2020, and contributed to a reduction in child mortality
+    from 95 (per 1,000 children) in 2003 to 69 in 2011, as well as a reduction in the prevalence of diarrheal diseases in children
+
+
+1 World Bank. 2023. Mozambique - Country Climate and Development Report (English). Washington, D.C.: World Bank Group. Available at:
+
+    https://imagebank2.worldbank.org/Search/34206509
+2
+    World Bank. 2018. Extreme Weather and Household Well-being: Evidence from Multiple Shocks in Mozambique. Policy Research Working Paper;
+    No. 8667.
+
+                                                                                                                                          Page 2
+        The World Bank
+        Mozambique Urban Water Security Project(P509890)
+
+
+ under five, from 13.4 percent in 2003 to 9.9 percent in 2018.3, 4, 5 Further, the gains in the water sector have contributed
+ to narrowing the gap in gender equality and led to the creation of jobs. Nevertheless, the water sector still lags behind
+ sector goals by 2030.
+
+
+ Sectoral and Institutional Context
+ 4.     A substantial share of the Mozambican urban population continues to lack access to safely managed drinking
+ water services. Although access to basic water in urban areas has reached around 87 percent in 2022,6 the service
+ continues to suffer from intermittent supply. In addition, a significant portion of the urban population lacks access to a
+ piped connection, with 8 percent relying on public standpipes and 17 percent on taps in neighbors’ dwelling.7,8 At
+ present, none of the 21 main cities served by the 15 primary systems9 have continuous water supply service, with only
+ 7 systems reaching the target service level of 16 hours of supply per day defined by the Water Regulatory Authority
+ (AURA) as the threshold for good performance.10 With the urban population growth rate at 4.4 percent per year11, public
+ drinking water service managed by state agencies is not expanding at the same speed as the growth of urban
+ settlements. Therefore, private water providers (PWP) are filling the gap in service expansion and access,12 mainly in
+ peri-urban areas. In the Greater Maputo Region, where 97 percent of the population has access to improved water
+ sources,13 with the public water service covering 49 percent of the population.14 Therefore, above 40 percent of the
+ urban population relies on services from PWP, most of them unlicensed15 and abstracting groundwater from poorly
+ drilled boreholes that put the aquifers at risk of contamination. In addition, PWPs charge a tariff 51 percent higher than
+ the public utility, meaning that poor households in periurban areas pay more for drinking water service.16
+ 5.    Increased investment in urban water supply has not always translated into improved services. The latest
+ regulator’s report for 2023 indicates that 12 out of 15 main urban water supply systems have a poor performance.17 The
+ 2020 Water Sector Public Expenditure Review (PER)18 indicates that, from 2013 to 2018, increases in the Water Supply
+
+3 MISAU (Ministério da Saúde). 2005. Demographic and Health Survey 2003 Report.
+4 MISAU (Ministério da Saúde). 2013. Demographic and Health Survey 2011 Report.
+5 MISAU (Ministério da Saúde). 2018. Inquérito de indicadores de imunização, malária e HIV 2015.
+6 WHO (World Health Organization), and UNICEF (United Nations Children’s Fund). 2020. Joint Monitoring Program – Mozambique Rural and Urban
+
+Service Levels. link.
+7 According to the Service Regulation Report for 2019 (AURA 2022) the highest level of use of standpipes of 26 percent of the urban population was
+
+registered in Nampula and Angoche cities.
+8 INE 2021. Results from the Households Budget Survey 2019/20.
+9 A single water system can provide water services to contiguous cities. This is the case of the Greater Maputo system which provides access to
+
+Maputo and Matola, the most populated urban centers of the country.
+10 AURA 2024. Service Regulation Report for year 2023.
+11 World Bank. 2022. Data Portal. Urban population growth (annual percent) – Mozambique. link:
+
+https://data.worldbank.org/indicator/SP.URB.GROW?locations=MZ
+12 A Survey conducted by the National Directorate of Water Supply and Sanitation in 2018, identified 1,830 PWP supplying water to 1.8 million
+
+people through piped connections mainly in urban areas from the Southern Region, with more than 75 percent of total share of this business,
+nearly 1.4 million in the Greater Maputo Region.
+13 INE 2020. Results from the Census 2017.
+14 AURA 2022. Service Regulation Report for year 2019.
+15Only 20 percent of the private water supply systems were licensed by the end 2019.
+16 The tariff updates from November 2021 fixed the PWP tariff in 70 MT per cubic meter for system connected to the power grid and 80 MT per
+
+cubic meter for systems powered by diesel generators (Resolution 3/2021 from AURA). The average tariff for the Greater Maputo Region for the
+public utility was fixed at 46.28 MT per cubic meter (Resolution 2/2021 from AURA).
+17 A performance compounded index below 50 percent is considered low and attributed the lowest rating “C” in the five-range scale (A+, A, B+, B
+
+and C).
+18 DH Infrastructure and MB Consulting. 2020. Public Expenditure Review of the Mozambican Water Sector 2010-2018 (prepared for the World
+
+Bank).
+
+                                                                                                                                             Page 3
+        The World Bank
+        Mozambique Urban Water Security Project(P509890)
+
+
+ Asset Holding and Investment Fund (Fundo de Investimento e Património do Abastecimento de Água, FIPAG)
+ expenditures resulted in only small increases in urban water supply access, and coincided with declining financial and
+ operational performance and quality of service. Currently, FIPAG is not able to make payments on its contracted debt
+ due to the poor operational and financial performance of the Regional Operating Companies (ROCs)19 and its own
+ operational structure and costs. While the main financial problem is low collection rates - most ROCs have collection
+ rates below 80 percent - non-revenue water (NRW) remains the biggest operational problem for ROCs and the largest
+ contributor to poor financial performance. No ROC has consistently reduced NRW, and most ROCs report NRW of around
+ 50 percent. Although part of this decline in service can be associated with underfunding of the sector and the rapid
+ population growth in the main cities, it indicates that a more sustainable expansion of the water supply service demands
+ a paradigm shift from concentrated investments in infrastructure to a coupling of investments with managerial and
+ institutional strengthening that includes incentives for service performance improvement.
+ 6.    The occurrence of droughts is correlated with the decrease in drinking water service performance indicators.
+ The Southern Region has the highest occurrence of droughts in the country. A prolonged drought which affected the
+ Umbeluzi river basin between 2014 and 2019 reduced water availability causing restrictions in drinking water supply,
+ with average hours of supply declining in Greater Maputo to the lowest value of nine hours per day. Besides decline in
+ volume, deteriorating water quality in both surface and groundwater sources is threatening urban water security. Poor
+ watershed protection, with an increased loss of natural vegetation to cropland and use of fertilizers in buffer zones is
+ contributing to a reduction in water quality in Guiua, Inhanombe and Jatingue (main water source to Chibuto city) rivers.
+ 7.    Strengthening urban water security requires a comprehensive response. This includes improving the
+ management of challenging hydrological environments to secure water in quantity and quality at the source,
+ strengthening weak water institutions, and reversing the under-investment in water infrastructure. The recent
+ investments to increase storage capacity at Corumana Dam20 combined with Phase I of the Sabie water treatment plant
+ (WTP) and complementary transport and distribution infrastructure,21 have together successfully contributed to
+ improve water security in the Greater Maputo Region.22 Nevertheless, despite these investments, several operational
+ challenges remain. The overall water service reliability throughout the system did not improve as the broader
+ operational challenges of the utility have not been addressed, including high rates of NRW (estimated at 48 percent in
+ 2024).23
+ 8.    Women and girls experience the greatest burden of inadequate Water, Sanitation and Hygiene (WASH).
+ Although Mozambique has been experiencing a positive socio-demographic transformation, with women increasingly
+ taking a lead role in the economy and society, women are “time poor” relative to men. This is mostly driven by the
+ unequal division of labor within the household caused by the extra time women and school-aged girls devote to fetching
+ water from public standpipes. Furthermore, with one in three women having experienced some form of gender-based
+ violence (GBV) in Mozambique, the risks are higher for women without access to water in the premises. Growing
+ evidence points to widespread fear or experiences of GBV while collecting water from public water points or using shared
+ or public latrine blocks.
+
+
+19 The Water supply in main urban centers is done by four regional utilities covering the Greater Maputo Metropolitan Area, Southern Region,
+
+Central Region and Northern Region.
+20 Mozambique - National Water Resources Development Project (P107350). Washington, D.C.: World Bank Group. link:
+
+https://projects.worldbank.org/pt/projects-operations/project-detail/P107350
+21 Greater Maputo Water Supply and Expansion Project (P125120). Washington, D.C.: World Bank Group. link:
+
+https://projects.worldbank.org/pt/projects-operations/project-detail/P125120
+22 At present the Umbeluzi WTP is the main water source with a treatment capacity of 240,000 cubic meters per day, followed by Sabie WTP with
+
+60,000 cubic meters per day, and boreholes in Kongolote, Intaka, Mali and KaTembe with a production of 9,400 cubic meters per day.
+23 Data on key performance indicators for primary systems shared by FIPAG.
+
+
+
+                                                                                                                                               Page 4
+        The World Bank
+        Mozambique Urban Water Security Project(P509890)
+
+
+ 9.    The Ministry of Public Works, Housing, and Water Resources (MOPHRH) has the overall responsibility for the
+ water sector. The MOPHRH’s National Directorate for Water Supply and Sanitation (DNAAS) oversees policy
+ development, planning, and investment promotion in WASH, while the National Directorate for Water Resources
+ Management (DNGRH) oversees water resources management. In the water resources management sub-sector, three
+ (Southern, Central and Northern) Regional Water Administrations (ARAs) are responsible for the operational
+ management, allocation, conservation and investments on water resources and related infrastructure.
+ 10. The urban WSS sector is structured under the Delegated Management Framework (DMF). Under the DMF, three
+ institutions were created to serve as the backbone of the urban WSS sector in the country: the Water Supply Asset
+ Holding and Investment Fund (FIPAG); the Water and Sanitation Infrastructure Administration (AIAS, created 10 years
+ after FIPAG, during the second phase of the DMF); and the Water Regulatory Authority (AURA). FIPAG owns the country’s
+ main water systems (serving 21 major urban areas) and is responsible for contracting operators for the ROCs. AIAS is the
+ national investment and asset management agency for 130 small towns and district headquarters (and contracts with
+ operators to run those systems), and for sanitation in both primary and secondary towns. AURA has the overall
+ responsibility for ensuring a balance between the quality of the WSS service provided, the interests of users, and the
+ economic sustainability of the water supply systems, through economic regulation.
+ 11. The process of attracting and transferring system operations to the private sector has been slow due to poor
+ financial viability and operational complexities in major urban water systems. Only one FIPAG system has ever been
+ effectively transferred to a private operator (PO) – the water system in Greater Maputo.24 However, that transfer was
+ not considered successful, and despite the separation of operations from asset ownership for two decades, service
+ delivery and operational performance in Greater Maputo has not improved. Therefore, the contracting strategy and
+ accountability framework needs to be reviewed to incentivize private sector investment and expansion and
+ improvements in quality of services. There is also the need to derisk the sector to attract private investment. Progress
+ in this direction was made with the approval of a decree with a clear framework for regular annual tariff adjustment
+ based on the principles of cost recovery and affordability, thus clarifying the mechanism to reinstate the economic and
+ financing equilibrium when significant changes occur in the operating context.
+ 12. The water sector’s medium-term investment plan is outlined in the Water Sector Action Plan (PASA, 2015-
+ 2030),25 which supports the achievement of SDGs, and is in line with the National Strategy for Urban Water and
+ Sanitation (ENASU, 2011–2025) and the National Water Resources Plan (NWRP).26 Building on a consistent track record
+ of investments in major urban centers through the National Water Development Projects I and II (P039015 and P052240,
+ 1998 to 2009), the National Water Resources Development Program (P107350, 2012-2020), the Greater Maputo Water
+ Supply Project (2015-2021) and the Water Services and Institutional Support (WASIS, P104566, 2007-2015) and WASIS
+ II (P149377, 2016 to date), the GoM is committed to increasing investments to secure water at source in both quantity
+ and quality to meet increasing urban demand, expand treatment and distribution capacity, to promoting efficiency in
+ service delivery, and fostering sustainability, with the aim of delivering safely managed water to all. The proposed project
+ will support the implementation of the PASA and the updated investment plan for the urban water sector.
+
+
+
+24 The Great Maputo system was operated by a consortium of Portuguese (Aguas de Portugal, AdP) and French (SAUR) operators between 2000
+
+and 2010 but was eventually transferred back to FIPAG. In December 2001, SAUR International left the consortium following a strategic decision
+from its main shareholder, Bouygues Group, of eliminating less lucrative business. AdP assumed the lead of the consortium and remained in this
+position until December 2010. FIPAG bought the shares from AdP, following an agreement with this company, and became the main shareholder
+representing the Mozambican state. AdM was renamed Águas da Região de Maputo (AdeM). The lease contract between FIPAG and AdeM ended
+in November 2018.
+25 Resolution 40/2018 from the Council of Ministers. Approval of the Water Sector Action Plan for Implementation of the Sustainable Development
+
+Goals 2015-2030.
+26 Resolution 11/2019 from the Council of Ministers. Approval of the National Water Resources Plan.
+
+
+
+                                                                                                                                           Page 5
+     The World Bank
+     Mozambique Urban Water Security Project(P509890)
+
+
+13. In addition, to providing support for water supply service improvements, the World Bank (WB) also supports
+complementary interventions in urban sanitation. These include the Mozambique Urban Sanitation Project (MUSP,
+P161777) which is financing the rehabilitation and extension works of the Infulene wastewater treatment plant, serving
+Maputo and Matola cities, and priority sewerage network. Furthermore, the Maputo Urban Transformation Project
+(P171449) is financing the improvement of the urban drainage system in Maputo City. This new operation will also
+complement the active institutional development support provided by the WASIS II.
+
+
+Relationship to CPF
+14. The Project is consistent with the World Bank Group Country Partnership Framework (CPF) for Mozambique for
+FY23‐27 discussed by the Board on February 23, 2023 (Report N°176672). The Project primarily contributes to the
+“Inclusive green job creation” (High‐Level Outcome Two) by expanding infrastructure services (objective 6). The Project
+will improve water supply services and utilities’ creditworthiness; this will also ultimately help diversify the sources of
+investment financing to meet the goal of universal and equitable access to safe and affordable drinking water for all by
+2030. Water is a vital factor in production and job creation, and the Project will enable the growth of micro, small, and
+medium enterprises (objective 5) operating in the water supply and contribute to job creation. The Project also supports
+“More inclusive institutions” (High‐Level Outcome One) by enhancing public sector capacity for inclusive public services
+(objective 2) in the water sector and investing in institutional strengthening, including providing financial incentives for
+performance improvement of water utilities. Last, it will contribute to “Improved human capital and women’s
+empowerment” (High‐Level Outcome Three), supporting the improvement of selected health and education outcomes
+(objective 7) through the reduction of the lack of access through the reduction of the lack of access to WASH at home
+and school that has a negative impact on children’s health and education, particularly for girls.
+15. The project contributes to the WBG twin goals of ending extreme poverty and promoting shared prosperity and
+is well aligned with the principles of Green, Resilient and Inclusive Development (GRID). Reliable and affordable
+sources of clean water is an essential precondition for a healthy population and robust economic activity, especially in
+the Mozambican context of high incidences of WASH-related diseases and constrained economic activity. This project is
+closely aligned with the GRID approach to promoting a strong and durable recovery and growth through green, resilient,
+and inclusive development as it contributes to boosting human capital as a foundation for shared prosperity by targeting
+investments in inclusive and equitable access to WSS services in Mozambique’s poorest communities. In addition,
+engagement of the private sector will foster job creation and economic transformation. The project also seeks to build
+resilience to the impacts of climate change and other shocks and stresses by promoting adaptation measures such as
+climate-resilient infrastructure design, mitigation measures, including non-revenue water reduction, and sustainability
+of infrastructure investments and solar-powered infrastructure.
+16. The project also supports the sector strategies, particularly the project contributes to implementation of the
+PASA 2015–2029, the water sector action plan for the achievement of the SDG6–universal access to safe WSS, and the
+NWRP 2018, contributing to the objective of increasing the resilience of existing strategic storage infrastructure; the
+project also encourages PSP and clarity of institutional functions in WSS service delivery in the urban space under the
+DMF set by the ENASU 2011–2025. The project will also contribute to Mozambique’s Nationally Determined Contribution
+(NDC) by reducing people’s vulnerability to climate-change-related vector-borne diseases and develop resilient climate
+infrastructures, on the adaptation side.
+
+
+
+
+                                                                                                                       Page 6
+      The World Bank
+      Mozambique Urban Water Security Project(P509890)
+
+
+C. Proposed Development Objective(s)
+
+
+
+ 17. The project development objective (PDO) is to increase access to improved water supply services and to
+ improve the sustainability of water supply services in selected cities.
+
+ Key Results (From PCN)
+18.    Successful achievement of the PDO above will be measured with the following proposed key results indicators:
+        a. Number of people provided with access to improved water supply services (disaggregated by male and
+           female)
+        b. Operating cost recovery ratio (operating revenues divided by operating costs)
+
+
+D. Concept Description
+
+
+19.     The project is an Investment Project Financing (IPF) of a proposed amount of US$ 146 million, with Performance-
+Based Conditions (PBC). The project is expected to last for five years. The use of PBC will serve as an incentive for
+strengthening services and institutions, and for operational performance improvement. The Project financing will focus
+on: (i) supporting strategic reforms and institutional strengthening; (ii) developing attractive service delivery models
+including O&M of water supply; and (iii) earmarked investments to secure water sources, increase water treatment,
+transport, and distribution capacity, with high impact in utilities technical and financial performance.
+20.    The project will focus on the Greater Maputo Region, complementing past investments from two WB financed
+projects to increase water storage (the NWRDP) and production to meet the demand (the GMWSP) in this area. In
+addition, this operation will also support priority investments in WSS serving the Southern Region to improve their
+climate resilience (reducing their vulnerability to droughts) and improve their efficiency and sustainability.
+21.      The Project’s three main components are: (i) C1. Water sector development support to improving the enabling
+environment for private sector participation (PSP); (ii) C2. Sustainable and climate resilient service delivery (access); and
+(iii) C3. Improvement of performance and efficiency of services. In addition, the Project includes a cross-cutting area
+aiming at human capital strengthening. The scope of each component is described below.
+Component 1. Water sector development support to improving the enabling environment for PSP (US$34 million
+equivalent)
+22.    Component 1 will support several critical actions underpinning the operationalization of a sector reform effort
+led by the Government of Mozambique (GoM) to improve the enabling environment for PSP and to achieve universal
+and equitable access to safe and affordable drinking water and to improve the. This component will be divided into
+three sub-components, specifically:
+(a) Support for the implementation of the second generation of the DMF for water supply systems, including the
+    envisaged engagement of the private sector in the four ROCs created in May 2021. This sub-component will support
+    FIPAG in managing the process of restructuring the urban water supply sector, including strengthening it to be an
+    institution focused on investment and asset management, migrating from its previous focus on operations.
+(b) Improvement of policies and regulatory environment for PWPs, which will also support the development of the
+    legal framework for the integration of PWP services into the regulated service provision (the development of
+
+
+                                                                                                                        Page 7
+        The World Bank
+        Mozambique Urban Water Security Project(P509890)
+
+
+     technical standards, including best practices for climate-proofing of operations and service, and bulk water supply
+     models), including the licensing and monitoring of their water quality and services.
+ (c) Strengthening the regulatory role of AURA to promote efficiency and inclusiveness in the provision of services by
+     extending them to the poorest segments of the population and reducing the risk of investment in the sector through
+     economic regulation that guarantees tariffs that fully cover operating costs, debt service, a return on private
+     investment and ensure service to poor segments of the population.
+Component 2. Access to sustainable and climate resilient water services (US$50 million equivalent)
+ 23.     Component 2 will support a combination of interventions from source to tap to strengthen the climate
+ resilience and sustainability of urban water supply services that are regularly affected by climate-change-exacerbated
+ droughts and floods events, contributing to the implementation of priority climate adaptation investments enacted in
+ the country’s NDC, specifically under the water resources and resilient water supply and sanitation systems strategic
+ area. Component 2 is structured in three sub-components, specifically:
+(a) Expansion of access to climate-resilient water supply, including investments for the expansion of water treatment
+    and transport capacity, as well as downstream investments to expand the distribution network following the key
+    principles for climate-resilient water infrastructure design, with key water treatment plant (WTP), pumping stations,
+    and bridge crossings for main pipes designed to withstand and be installed above historic flood levels, following the
+    protocol for climate-proofing of water supply infrastructure and service.27
+(b) Improvement of the quality of services provided by PWPs through grants for upgrading PWP water supply
+    infrastructure to comply with technical standards, with best practices for climate-proofing of operations and service,
+    and to enable them to distribute bulk water supply purchased from the regional utilities.
+(c) Reducing climate hazards impacting water supply infrastructure and services through Integrated Water Resources
+    Management (IWRM) and watershed management, including providing strategic support to ARA-Sul to fulfill its
+    mandate, covering investments that will contribute to strengthening of climate-informed water planning and
+    allocation, the enhancement of water quality through improved watershed management that reduces climate-
+    change-exacerbated water source contamination, assurance of water availability to meet urban demand via source
+    diversification and demand conservation, licensing of water users, strengthening of management and ARA-Sul’s
+    financial sustainability, capacity building, including in climate-risk prevention, management and response, and
+    institutional development support.
+Component 3. Improvement of performance and efficiency of services (US$60 million equivalent)
+ 24.     Component 3 will support the improvement of performance and efficiency of water supply services in the
+ GMMA and Southern Region provided by AdRMM and AdRS respectively, allocating one-third of the project investments
+ to activities that will contribute to lower energy consumption and greenhouse gas (GHG) emissions, specifically NRW
+ reduction and energy efficiency.
+(a) Performance improvement for the service area of the Greater Maputo Metropolitan Area (GMMA). Carrying out a
+    performance-based program of activities defined under a Performance Improvement Action Plan (PIAP) for the
+    GMMA, which include investments for (i) NRW reduction led by the utility not covered by the NRW Performance-
+    Based Contract (PBC) (3.c), (ii) improving energy efficiency, (iii) improving the collection ratio and the operational cost
+    coverage ratio, (iv) digitalization of operations, (v) training and capacity building in key areas for the utilities, (vi)
+    women empowerment within, (vii) improving ROC governance and accountability, (viii) establishment of
+    communications platforms for information sharing on water quality and services and timely resolution of complaints,
+    and (ix) implementation of the turn-around plans derived from the Utilities of the Future (UoF) assessment.
+
+
+27 WBG. 2020. Resilient Water Infrastructure Design Brief. Link: http://hdl.handle.net/10986/34448
+
+
+
+                                                                                                                          Page 8
+       The World Bank
+       Mozambique Urban Water Security Project(P509890)
+
+
+(b) Performance improvement for the Southern Region service area. Carrying out a performance-based program of
+    activities defined under a PIAP for the Southern Region, which include investments for (i) co-management contract
+    for NRW reduction, (ii) improving energy efficiency, (iii) improving the collection ratio and the operational cost
+    coverage ratio, (iv) digitalization of operations, (v) training and capacity building, (vi) women empowerment, (vii)
+    improving utility’s governance and accountability, (viii) establishing of communications platforms for information
+    sharing on water quality and services and timely resolution of complaints, and (ix) implementation of the turn-around
+    plans derived from the UoF assessment.
+(c) NRW PBC for Greater Maputo area. PBC for NRW reduction to be signed between FIPAG and a contractor to be
+    selected on a competitive basis to implement investments to reduce NRW, including investments to reduce both
+    physical and commercial losses, management technologies, and capacity-building programs, in the service areas of
+    GMMA and the Southern Region.
+Component 4. Project Management Support (US$2 million equivalent)
+25.    Project management support comprises technical assistance and incremental operating costs to ensure fiduciary
+compliance including financial management (FM), procurement and environment and social safeguards, monitoring and
+evaluation (M&E). This component will support necessary equipment (e.g. computers, software and other goods),
+capacity building (training), and incremental staff to allow the project implementing unit to carry out their
+responsibilities.
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                   Triggered?
+ Projects on International Waterways OP 7.50                                        Yes
+ Projects in Disputed Area OP 7.60                                                  No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Jaime Palalane
+   Senior Water Supply and Sanitation Specialist
+
+   Pierre Francois-Xavier Boulenger
+   Senior Water Supply and Sanitation Specialist
+
+
+
+                                                                                                                     Page 9
+     The World Bank
+     Mozambique Urban Water Security Project(P509890)
+
+
+Borrower/Client/Recipient
+ Republic of Mozambique
+
+Implementing Agencies
+ Ministry of Public Works, Housing, and Water Resources
+ Raul Mutevuie Júnior
+ National Director
+ bombatejunior@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Jaime Palalane, Pierre Francois-Xavier Boulenger
+
+Approved By
+
+Practice Manager/Manager:              Francis Ghesquiere                     06-Mar-2025
+
+Country Director:                      Antonio Benigno Nunez                  07-Apr-2025
+
+
+
+
+                                                                                            Page 10
+

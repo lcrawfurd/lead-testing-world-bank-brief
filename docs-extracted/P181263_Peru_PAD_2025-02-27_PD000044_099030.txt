@@ -1,0 +1,2262 @@
+Public Disclosure Authorized
+                                                                        FOR OFFICIAL USE ONLY
+                                                                                                                       Report No: PD000044
+
+                                                  INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+
+
+
+Public Disclosure Authorized
+                                                                     PROGRAM DOCUMENT FOR A
+
+
+                                                                            PROPOSED LOAN
+
+
+                                                               IN THE AMOUNT OF US$ 500 MILLION TO
+
+
+                                                                           REPUBLIC OF PERU
+
+
+
+
+Public Disclosure Authorized
+                                                                                FOR THE
+
+
+                                   GREEN AND RESILIENT DEVELOPMENT FOR A DECARBONIZED ECONOMY IN PERU DEVELOPMENT
+                                            POLICY FINANCING WITH A DEFERRED DRAWDOWN OPTION (DPF – DDO)
+                                                                    February 27, 2025
+
+
+
+
+Public Disclosure Authorized
+                                Energy & Extractives
+                                Latin America And Caribbean
+
+
+
+                               This document is being made publicly available prior to Board consideration. This does not imply a presumed
+                               outcome. This document may be updated following Board consideration and the updated document will be made
+                               publicly available in accordance with the Bank’s policy on Access to Information.
+                                               Republic of Peru
+                                      GOVERNMENT FISCAL YEAR
+                                               July 1 – June 30
+
+                                          CURRENCY EQUIVALENTS
+                            (Exchange Rate Effective as of January 31, 2025)
+                                                Currency Unit
+                                            US$1.00=PEN 3.748
+
+                                ABBREVIATIONS AND ACRONYMS
+AFD        French Development Agency          MFD      Maximizing Finance for Development
+
+ANIN       National Infrastructure Authority           MIDAGRI    Ministry of Agricultural Development and
+                                                                  Irrigation
+ARCC       Agency for Reconstruction with              MIGA       Multilateral Investment Guarantee Agency
+           Changes
+ATU        Urban Transport Authority for Lima          MINAM      Ministry of Environment
+           and Callao
+BCRP       Central Bank of Peru                        MINEM      Ministry of Energy and Mines
+
+CC         Climate Change                              MRCVFFS    Forestry and Wildlife Control and
+                                                                  Surveillance Regional Roundtable
+CCDR       Country Climate Development Report   MtCO2eq           million tons of carbon dioxide equivalent
+CENEPRED   National Center for Disaster Risk MTC                  Ministry of Transport and Communications
+           Assessment, Prevention and Reduction
+CPF        Country Partnership Framework        MVCS              Ministry of Housing, Construction and
+                                                                  Sanitation
+DDO        Deferred Drawdown Option                    MW         Megawatt
+DPF        Development Policy Financing                NAP        National Adaptation Plan
+DR         Disaster Risk                               NCRE       Non-Conventional Renewable Energy
+DRM        Disaster Risk Management                    NDC        National Determined Contributions
+EIA        Environmental Impact Assessment             OECD       Organization for Economic Co-operation
+                                                                  and Development
+ENSO       El Niño Southern Oscillation                PA         Prior Action
+EVs        Electric Vehicles                           PCE        Private Capital Enabling
+FOREX      Foreign Exchange                            PCM        Presidency of the Council of Ministers
+GCP        Global Challenge Program                    PEDN       Strategic Plan for National Development
+GDP        Gross Domestic Product                      PFM        Public Financial Management
+GHG        Greenhouse Gas                              SEIA       National Environmental Impact Assessment
+                                                                  System
+GIZ        German Agency for International             SECO       Swiss State Secretariat for Economic Affairs
+           Cooperation
+GoP        Government of Peru                          SERFOR     National Forest and Wildlife Service
+GRS        Grievance Redress Service                   SIAF       Integrated Financial Management System
+IADB       Inter-American Development Bank             SIH        Social Interest Housing
+IBRD       International Bank for Reconstruction       SINADOT    National Land Use Planning System
+           and Development
+ICE      Internal Combustion Engine              SINAGERD      National System for Disaster Risk
+                                                               Management
+IFC      International Finance Corporation       SNCVFFS       Forestry and Wildlife Control and
+                                                               Surveillance National System
+IMF      International Monetary Fund             TA            Technical Assistance
+INDECI   National Institute of Civil Defense     WSS           Water Supply and Sanitation
+KfW      German Development Bank                 WB            World Bank
+LULUCF   Land use, Land-use Change, and          WBG           World Bank Group
+         Forestry
+MEF      Ministry of Economy and Finance
+
+
+
+
+                Regional Vice President: Carlos Felipe Jaramillo
+                      Regional Director: Maria Marcela Silva
+                       Country Director: Issam A. Abousleiman
+                      Practice Manager: Gabriela Elizondo Azuela
+                     Task Team Leaders: Janina Franco Salazar, Paula Restrepo Cadavid
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+                                                                     REPUBLIC OF PERU
+
+              Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+                                                           TABLE OF CONTENTS
+
+
+SUMMARY OF PROPOSED FINANCING AND PROGRAM ....................................................................... i
+I. COUNTRY CONTEXT AND OPERATION SUMMARY...........................................................................1
+II. MACROECONOMIC POLICY FRAMEWORK ......................................................................................3
+      A. Recent Economic Developments ..................................................................................................... 3
+      B. Macroeconomic Outlook and Debt Sustainability ........................................................................... 7
+      C. IMF Relations .................................................................................................................................... 8
+III. PROPOSED OPERATION .................................................................................................................8
+      A. Link to Government Program, CPF, other WBG operations, and Corporate Priorities.................... 8
+      B. Prior Actions, Triggers, Expected Results and Analytical Underpinnings....................................... 10
+      C. Consultations and Collaboration with Development Partners ...................................................... 20
+IV. OTHER DESIGN AND APPRAISAL ISSUES ......................................................................................20
+      A. Poverty and Social Impacts ............................................................................................................ 20
+      B. Environmental, Forests, and other Natural Resources Aspects ..................................................... 21
+      C. PFM, Disbursement, and Auditing aspects .................................................................................... 22
+      D. Monitoring, Evaluation, and Accountability .................................................................................. 23
+V. SUMMARY OF RISKS AND MITIGATION ........................................................................................24
+ANNEX 1. Policy and Result Framework ............................................................................................ 25
+ANNEX 2: Paris Alignment ................................................................................................................ 28
+ANNEX 3. Operation Specific Annex: Environment & PSIA .................................................................. 32
+ANNEX 4: Required Accompanying Documentation........................................................................... 33
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+The Green and Resilient Development for a Decarbonized Economy in Peru Loan was prepared by an IBRD
+team consisting of Janina Franco (Task Team Leader, Senior Energy Specialist, ILCE1), Paula Restrepo Cadavid
+(Co-Task Team Leader, Lead Urban Development Specialist, ILCUR), Dmitry Sivaev (Senior Urban Development
+Specialist, ILCUR), Ines Perez Arroyo (Energy Specialist, ILCE1), Felipe Targa (Program Leader, ILCDR), Gabriel
+Arrisueno (Senior Urban Development Specialist, ILCUR), Mariela Perez-Costa (Urban Specialist, ILCUR),
+Viviana Nunez De Urquidi (Energy Specialist, consultant, ILCE1), Kamila Galeza (Social Development Specialist,
+SLCSO), Diana Rubiano (Senior Disaster Risk Management Specialist, ILCUR), Maria Carolina Rogelis (Disaster
+Risk Specialist, Consultant, ILCUR), Aiga Stokenberga (Senior Transport Economist, ILCT1), Cecilia Escalante
+(Transport Specialist, ILCT1), Malva Baskovich (Senior Water Supply and Sanitation Specialist, SLCWA), Zael
+Sanz (Senior Water Supply and Sanitation Specialist, SLCWA), Karina V. Olivas (Senior Country Officer, LCC6C),
+Bledi Celiku (Senior Economist, ELCMU), Eliana Rubiano (Senior Economist, ELCPV), Paola Buitrago (Economist,
+ELCPV), Mizushi Satoh (Senior Environmental Specialist, SLCEN), Douglas J. Graham (Environmental Specialist,
+Consultant, SLCEN), Ricardo Mendoza (Environmental Specialist, Consultant, SLCEN), Maria Vizeu Pinheiro
+(Environmental Specialist, SLCEEN), Maria Virginia Hormazabal (Finance Officer, WFACS), Isabella
+Drossos(Senior Counsel, LEGLE), Nelly Ikeda (Senior Financial Management Specialist, ELCG1), Kevin McCall
+(Senior Environmental Specialist, SLCEN), Ana Bucher (Senior Environmental Specialist; SAEE3), Renato Trujillo
+(Economist, Consultant, ELCPV), Antonio Cusato (Economist, ELCMU), Marcelo Ordonez (Economist,
+consultant, ELCMU), Marisol Noriega (Program Assistant, LCC6C), and Agostina Signorini (Senior Operations
+Assistant, ILCE1).
+
+The operation was prepared under the overall guidance of Issam A. Abousleiman (Country Director, LCC6C),
+Maria Marcela Silva (Regional Director, ILCDR), Benoit Bosquet (Regional Director, SLCDR), Gabriela Elizondo
+(Practice Manager, ILCE1), and Federica Ranghieri (Practice Manager, ILCUR).
+     The World Bank
+     Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddpfbasicinformation#doctemplate
+SUMMARY OF PROPOSED FINANCING AND PROGRAM
+
+
+BASIC INFORMATION
+
+
+Operation ID            Programmatic                  If programmatic, position in series
+P181263                 Yes                           1st in a series of 2
+
+
+Proposed Development Objective(s)
+To support the Government of Peru (GoP) in: (i) strengthening climate change adaptation; and (ii) promoting
+decarbonized development in selected sectors.
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+ Borrower:                     The Republic of Peru
+
+ Contact                       Title                       Telephone No.           Email
+ Maribel Amasifen              Economista - Direccion de   51991224100             mamasifen@mef.gob.pe
+                               Creditos
+ Implementing Agency:          Ministry of Economy and Finance
+
+ Contact                       Title                          Telephone No.        Email
+ Maribel Amasifen              Economista                     51991224100          mamasifen@mef.gob.pe
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+
+Is this project Private Capital Enabling (PCE)?               Yes
+
+SUMMARY
+
+  Total Financing                                                                                             500.00
+
+
+
+
+                                                                                                                       i
+     The World Bank
+     Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+DETAILS
+
+ World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                                 500.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                                  Contributing Practice Areas
+                                                                      Urban, Resilience and Land; Water; Transport;
+Energy & Extractives
+                                                                      Environment, Natural Resources & the Blue Economy
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padoverallrisk#doctemplate
+OVERALL RISK RATING
+Overall Risk                                                                                      Moderate
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddpfannexpolicyandresult#doctemplate
+RESULTS
+
+
+   Baseline                                                             Closing Period
+   Pillar 1 - Strengthening climate change adaptation
+   Regional governments that have developed disaster risk prevention, reduction and emergency response plans. (Percentage)
+   Jan/2024                                                             Dec/2027
+   0                                                                    80%
+   Subnational governments that have incorporated DRM targets and procedures in their land-use planning instruments (Percentage)
+   Jan/2024                                                             Dec/2027
+   3.90                                                                 6.80
+   Investment projects in the water and sanitation sector registered in the repository of public investments (Banco de Inversiones) and
+   adjusted technical profile that include a circular economy approach (Percentage)
+   Jan/2024                                                             Dec/2027
+   0                                                                    10
+   Increase in number of women in leadership positions within Water Supply and Sanitation utilities (as board members and in managerial
+   roles) (Percentage)
+
+
+
+                                                                                                                                          ii
+  The World Bank
+  Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+Jan/2024                                                              Dec/2027
+13                                                                    15
+People benefiting from climate resilient infrastructure (Number of people) CRI
+Jan/2024                                                              Dec/2027
+45,000                                                                2,300,000
+  People benefiting from climate resilient infrastructure - Female (Number of people) CRI
+Jan/2024                                                              Dec/2027
+25,000                                                                1,150,000
+  People benefiting from climate resilient infrastructure - Youth (Number of people) CRI
+Jan/2024                                                              Dec/2027
+9,000                                                                 460,000
+Pillar 2 - Promoting a decarbonized development in selected sectors
+Share of Internal Combustion Engine public transport vehicles replaced by Electric Vehicles (Percentage)
+Dec/2023                                                              Dec/2027
+0                                                                     3
+Social housing units with construction licenses on consolidated central urban land upon entry into force of the social Interest housing
+regulations of the Sustainable Urban Development law. (Number)
+Sep/2023                                                              Dec/2027
+0                                                                     46,000
+Complaints received & satisfactorily addressed regarding potentially illegal forestry activities in the departments of Amazonas, Cuzco,
+Junín, Loreto, San Martin and Ucayali. (Percentage)
+Dec/2024                                                              Dec/2027
+65                                                                    90
+Renewable energy capacity enabled with policy support (Megawatt) CRI
+Jan/2024                                                              Dec/2027
+1,716                                                                 2,005
+
+
+
+
+                                                                                                                                          iii
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+                                           IBRD PROGRAM DOCUMENT FOR A PROPOSED LOAN TO
+
+                                                                     REPUBLIC OF PERU
+  I. COUNTRY CONTEXT AND OPERATION SUMMARY
+1. The proposed Green and Resilient Development for a Decarbonized Economy in Peru Development Policy Loan with
+a Deferred Drawdown Option (DPF-DDO I) for US$500 million is the first operation in a programmatic series of two. The
+series seeks to support the Government of Peru (GoP) in: (i) strengthening climate change (CC) adaptation; and
+(ii) promoting decarbonized development in selected sectors. The proposed DPF builds on long-standing collaboration
+between the GoP and the World Bank (WB) in advancing the climate development agenda by expanding to new sectors
+and complementing reforms supported under the earlier DPF series 1 and the recently approved Fiscal Policy and
+Sustainable Growth DPF-DDO series. This operation is particularly relevant for Peru, a country highly exposed to climate-
+related events and committed to meeting the mitigation targets defined in its updated Nationally Determined
+Contributions (NDCs). Moreover, in the context of high uncertainty and financial market volatility, the GoP values the DDO
+instrument as an important part of its debt management strategy and a hedge against increasing global interest rates, the
+volatility of international capital markets, and climate shocks. The proposed DPF is also aligned with the GoP’s strategic
+plans and the Organization for Economic Co-operation and Development’s (OECD’s) Accession Core Principles for Peru, 2
+the Peru Country Partnership Framework (CPF) FY2023–27, as well as the World Bank Group’s (WBG) Global Challenge
+Program (GCP). 3
+2. Since 2014, Peru’s growth has decelerated, shifting towards a new trajectory marked by stagnation in convergence
+and poverty reduction. The aftermath of the commodity boom posed challenges for sustained growth, with annual Gross
+Domestic Product (GDP) growth falling to 3.5 percent between 2013 and 2019—half the pace of the preceding decade.
+The COVID-19 pandemic led Peru into one of the deepest recessions in Latin America and increased the national poverty
+rate by 10 percent. While the economy rebounded to pre-pandemic levels in 2021, and poverty declined to 25.9 percent
+that year, poverty remains above pre-pandemic levels, hampered by the lower quality of employment and a high rate of
+informality. Following a mild recession in 2023 due to adverse weather events, social unrest, and deteriorating business
+confidence, the economy is recovering in 2024, and business confidence is at levels not observed since 2021. Over the
+medium term, GDP growth is expected to converge toward a rate of about 2.5 percent, below pre-pandemic levels.
+3. Despite the current political volatility, the GoP remains committed to transitioning to a decarbonized economy and
+strengthening its efforts toward CC adaptation given its overall development benefits. Innovation from low-carbon
+technologies attracts private capital investment and green job creation, increasing labor productivity and competitiveness.
+Similarly, climate resilient planning and investments can mitigate the risks from economic and welfare losses from climate
+events, and support Peru’s overall development and sustainable growth. Peru’s Strategic Plan for National Development
+(PEDN 2050), launched in September 2023, outlines the GoP’s vision with a 2050 horizon, which aspires for a more
+sustainable management of the territory and natural resources, the implementation of measures to tackle CC and formal
+job creation. Peru reinforced its climate commitments with the updated NDC (2020), 4 which was followed by the adoption
+of the Law on Climate Change (Law No. 30754, 2021) and the National Adaptation Plan for Climate Change (2021). 5 The
+updated NDC commits to not exceed net greenhouse gas (GHG) emissions of 208.8 million tons of carbon dioxide
+equivalent (MtCo2eq) (unconditional) and 179 MtCo2eq (conditional) by 2030. It also commits to strengthening CC
+
+1 The Enabling a Green and Resilient Development DPF approved in 2023 (P179214).
+2 The OECD’s Accession Principles for Peru include ensuring effective protection of the environment and biodiversity, and action on CC to achieve the Paris Agreement.
+
+The proposed DPF supports reforms linked to OECD Accession Principles, including (i) combating deforestation; (ii) increasing incentives for the development of
+nonconventional renewable energy (NCRE); and (iii) strengthening infrastructure for disaster risk mitigation and water quality monitoring.
+3 The proposed DPF supports reforms linked to the following GCP: (1) Fast-Track Water Security and Climate Adaptation; (2) Energy Transition, Efficiency and Access;
+
+and (6) Forests for Development, Climate, and Biodiversity.
+4 Gobierno de Perú, Contribuciones determinadas a nivel nacional del Perú: Reporte de actualización periodo 2021–2030 (Perú: Gobierno de Perú, 2021).
+5 MINAM ,Plan Nacional de Adaptación al Cambio Climático del Perú (NAP) (Lima, Perú: MINAM, 2021).
+
+
+
+
+                                                                                                                                                               Page 1
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+adaptation by prioritizing cross-cutting areas such as strengthening its National System for Disaster Risk Management
+(SINAGERD, for its acronym in Spanish), water resources, and forest management, all of which can help alleviate the
+burden from climate driven disaster events.
+4. Peru’s high exposure to climate-related disasters calls for enhanced efforts to achieve more resilient development.
+Nearly half of Peru’s national territory is classified as being highly to very highly vulnerable to natural hazards, 6 whose
+frequency, severity, and impact are expected to increase due to CC. In the past two decades, economic losses linked to
+natural events surpassed US$4 billion dollars, with El Niño Southern Oscillation (ENSO)-caused damages exceeding
+US$3.1 billion, equivalent to 1.6 percent of the country’s GDP, in 2017. 7 Patterns of territorial development and disorderly
+urbanization in Peru are increasing vulnerability, as unplanned occupation of risk-prone areas rises exposure to natural
+hazards. Moreover, Peru is highly vulnerable to changing precipitation patterns, with increased risks of extreme flooding
+and prolonged droughts. Significant reductions in water availability are likely to be expected as early as 2030 and water
+shortages are likely to become more severe as demand for water increases, challenging food security, particularly for
+communities reliant on subsistence farming. The country’s disaster risk management (DRM) system also needs to be
+strengthened to incorporate CC adaptation and mainstream DRM across administrative layers. By 2030, without further
+CC adaptation actions and investments, the income of Peru’s poorest 40 percent could decline by 5.2 percent, and another
+0.6 percent of the population could be pushed into extreme poverty. 8 As outlined by the Country Climate Development
+Report (CCDR), earthquakes, landslides, droughts, and floods together cause average annual asset losses of 2 percent of
+GDP and will cause welfare losses equivalent to 5.2 percent of GDP by 2050 and negatively affect the economy’s
+productive structures. The CCDR emphasizes the urgent need for adaptive measures to mitigate CC impacts and protect
+the most vulnerable populations while introducing policies to innovate and help increase productivity.
+5. Fulfilling its NDC commitments and improving its resilience for a net zero economy by 2050 is critical for Peru’s
+overall development and will require tackling those critical high emitting sectors like energy, transport, while increasing
+carbon sinks. Various studies have shown that the energy transition will create significant net additional employment in
+the energy and associated sectors and a boost to economic growth and overall jobs in the economy through the new
+energy investment. 9 In a business as usual scenario net emissions from highest emitting sectors as the energy, transport,
+land use, land-use change, and forestry (LULUCF) sectors expected to increase by 83 percent over the next 30 years. 10
+However, to fulfill its NDC commitments Peru needs to mitigate emissions from set baselines in the energy sector
+(30.1 percent), and LULUCF (47.9 percent), 11 including reducing deforestation and increasing carbon sequestration to
+advance climate mitigation actions. Further, the development of low-carbon technologies in the power and transport
+sector are opportunities for green value chain creation that can enhance increased productivity and competitiveness,
+especially in a context of Clean Border Adjustment Mechanisms, 12 while at the same time creation of green skilled jobs.
+6. The proposed DPF-DDO series aims to strengthen and further advance reforms for a more resilient and low-carbon
+development in Peru to foster a greener economy. The operation will support reforms in priority areas, as identified by
+the GoP’s PEDN 2050 and climate commitments. Pillar 1 aims to strengthen CC adaptation by: (i) strengthening the DRM
+system; (ii) enabling risk-informed territorial planning; (iii) incentivizing circular economy approaches in the water supply
+and sanitation (WSS) sector; and (iv) facilitating the execution of disaster risk reduction infrastructure and post-disaster
+reconstruction efforts by the National Infrastructure Authority (ANIN). Pillar 2 supports climate mitigation efforts in
+
+6 MINAM, El Perú y el Cambio Climático: Tercera Comunicación Nacional del Perú a la Convención Marco de las Naciones Unidas sobre Cambio Climático
+7 RPP Noticias, “El Niño costero: Daños ya suman $3,124 millones según Macroconsult,” March 24, 2017.
+8 World Bank, Peru Country Climate and Development Report, CCDR Series (Washington, DC: World Bank, 2022).
+9 IRENA. 2020. Measuring the Socio-Economics of Transition: Focus on Jobs. Technical paper 2/2020, international Renewable Energy Agency, Abu Dhabi. IEA. 2020
+
+World Energy Outlook Special Report on Sustainable Recovery. Paris: International Energy Agency. World Bank, Energy Sector Management Assistance Program
+(ESMAP). 2023. Jobs for a Livable Plante: Job Creation Potential of the Clean Energy Transition. Washington D.C.
+10 World Bank staff calculations using the World Bank Macro-Fiscal Model (MFMoD) with a climate change module.
+11 MINAM, “Peru: Distribution of GHG Emissions by Sector and Source (2019),” https://infocarbono.minam.gob.pe/inventarios-nacionales-gei/.
+12 EC. 2024. The Future of European Competitiveness.[Link];
+
+
+
+
+                                                                                                                                                       Page 2
+       The World Bank
+       Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+selected sectors by promoting: (i) expansion of renewable energy (RE) investments by the private sector; (ii) enabling a
+low-carbon transport through electromobility; and (iii) strengthened forest control and monitoring in the Amazon. The
+program also supports reforms enhancing female labor force participation in companies providing WSS services. In
+addition, policies for renewable energy and compact urban development (in the second operation) aim to attract,
+respectively, private investment in renewable energy and affordable real estate investments.
+
+ II. MACROECONOMIC POLICY FRAMEWORK
+  A. Recent Economic Developments
+7. Peru's macroeconomic policy framework is considered adequate. The Central Bank of Peru’s (BCRP’s) decisive
+monetary policy response to the food and fuel price inflation shocks has brought inflation within the target band. The
+BCRP has cautiously lowered the policy rate, stimulating demand as inflation declined. The exchange rate remains flexible,
+with limited foreign exchange intervention to reduce volatility. International reserves are high at US$83 billion. The
+financial sector is sound, supported by appropriate macroprudential policies and strong supervision. Peru's public debt is
+low and sustainable, and the country has been able to maintain a low and stable Emerging Market Bond Index (EMBI)
+spread during a period of high political uncertainty, providing access to international capital markets on favorable terms.
+The government's commitment to the OECD accession process is expected to provide a clear roadmap for ambitious
+structural reforms to boost growth and strengthen institutions.
+8. In 2024, the Peruvian economy recovered from the 2023 recession. In 2023, the economy contracted by 0.6 percent
+due to adverse weather events, social unrest, and deteriorating business confidence. Output started to recover in 2024 as
+the cumulative annual growth rate between January and November was 3.1 percent. The economic recovery is broad-
+based across all sectors, with fishing, construction, and manufacturing (19.4, 3.6, and 3.0 percent, respectively) being the
+most important. The climate shocks related to the ENSO pattern in 2023 dissipated, business confidence reached levels
+not observed since early 2021, and there was an improvement in export prices. In addition, strong public investment and
+the easing of monetary conditions by the BCRP complemented the recovery. The estimated poverty rate, defined by the
+US$6.85 daily income threshold, increased to 33.8 percent in 2023 from 32.2 percent in 2022.
+9. The fiscal deficit closed in 2024 at 3.6 percent of GDP; albeit markets and rating agencies-maintained confidence on
+the medium-term fiscal stance. In 2023, the fiscal deficit target was not met due to the recessionary scenario, which was
+reflected in a 2.3 p.p. decline in government revenues. The deterioration in the government revenue-to-GDP ratio
+continued in 2024, widening the budget deficit and reaching a plateau in October. Unlike 2023, when the government did
+not adhere to the fiscal rule due to exogenous shocks, this year, it amended the rule to allow a higher fiscal deficit for
+2024, raising it from 2 percent to 2.8 percent of GDP. Despite this adverse scenario, public debt (32.6 percent of GDP in
+the third quarter of 2024) and sovereign spreads (157 basis points at the end of 2024) remained historically low and among
+the lowest in the region. In April 2024, S&P Global Ratings downgraded Peru's local and foreign currency sovereign ratings,
+citing political instability as a key risk. In September 2024, Moody's changed its outlook to stable from negative, citing the
+recent adoption of political reforms (approval of a second legislative chamber and re-election of legislators) that reflect a
+period of consensus between the legislative and executive branches and a reduced perception of political risk. Similarly,
+in November 2024, Fitch revised its outlook to stable from negative, noting that fiscal consolidation is the most likely
+future scenario.
+
+
+
+
+                                                                                                                        Page 3
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+                                                Table 1. Selected Economic and Financial Indicators 13
+                                                                 2021       2022       2023      2024p       2025p        2026p    2027p
+                                                                         Annual percentage change, unless otherwise indicated
+       National accounts
+       GDP at constant prices                                    13.4         2.7        -0.6        3.1         2.5        2.5      2.4
+       Private consumption                                       12.4         3.6         0.1        2.4         2.1        2.2      2.1
+       Government consumption                                     4.8        -0.2         4.6        4.1         2.2        2.2      2.2
+       Gross fixed investment                                    34.6         0.7        -5.4        6.4         2.9        2.9      2.9
+       Exports of goods and services                             13.3         5.2         4.9        1.5         3.2        3.2      3.2
+       Imports of goods and services                             17.9         3.9        -1.4        4.0         3.1        3.1      3.0
+       Sectoral contribution to growth
+         Agriculture (ppts)                                        0.3        0.2        -0.2        0.2         0.2        0.1      0.1
+         Industry (ppts)                                           5.5        0.5        -0.4        0.8         0.7        0.7      0.7
+         Services (ppts)                                           7.6        2.0         0.1        2.0         1.6        1.7      1.6
+       Inflation
+       GDP deflator                                                7.3        3.8        7.3         5.4         1.4        2.1      2.4
+       Consumer prices                                             6.4        8.5        3.2         2.2         2.0        2.0      2.0
+       Selected monetary accounts
+       Credit to private sector                                    4.1        4.5         1.3         3.0         5.0       4.5      4.5
+       Broad money (M2)                                           -0.9        0.5         3.9         6.5         4.0       4.0      4.0
+                                                                              Percent of GDP, unless otherwise indicated
+       External sector
+       Current account balance (including grants)                -2.1        -4.0         0.8         1.8         0.6       0.4     -0.1
+       Exports (goods and services)                              29.2        29.1        27.5       28.5         27.4      27.0     27.0
+       Imports (goods and services)                              25.9        28.4        23.6       22.4         22.0      21.6     22.0
+       Foreign direct investment (net inflow)                    -2.3        -4.8        -0.9        -2.5        -2.5      -2.5     -2.2
+       Terms of trade (pct change)                                9.0       -10.6         6.8       12.1         -2.3       0.1      0.1
+                                                                              Percent of GDP, unless otherwise indicated
+       Debt
+       Public debt                                               35.8        33.9       32.9        33.6        34.7       35.0     34.5
+         External                                                19.4        17.6       15.8        15.1        15.6       14.0     14.0
+         Domestic                                                16.4        16.3       17.1        18.5        19.1       21.0     20.5
+       Fiscal accounts
+       Total revenues                                            20.9       22.1       19.8        19.1        20.2        20.3    20.4
+       Total expenditures                                        23.5       23.8       22.6        22.7        22.7        22.2    21.9
+       Overall fiscal balance                                     -2.5       -1.7       -2.8        -3.6        -2.5        -1.9    -1.5
+       Memorandum items
+       GDP per capita (real 2015 USD)                           6,553      6,663       6,568     6,707     6,807     6,911     7,015
+       Gross reserves (US$ millions, EOP)                      78,495     71,883      71,033    81,227    84,066    84,394    84,734
+         In months of next year's imports                        13.6       13.7        13.0      14.3      14.2      13.6         --
+       Nominal GDP (millions of soles)                        878,373    936,622     999,195 1,086,281 1,129,017 1,182,031 1,222,557
+       Nominal GDP (US$ millions)                             226,302    244,467     266,870   293,589   309,320   328,342   339,599
+       Source: Central Bank, Ministry of Finance and World Bank staff projections.
+
+
+
+13 Cutoff date for the macro framework is January 31, 2025.
+
+
+
+
+                                                                                                                                       Page 4
+       The World Bank
+       Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+                                           Table 2. Key Fiscal Indicators (percent of GDP)
+                                                2021          2022         2023       2024P        2025P        2026P        2027P
+   Total revenues                                20.9         22.1         19.8         19.1         20.2         20.3         20.4
+   Revenue                                       20.9         22.1         19.8         19.1         20.2         20.3         20.4
+     Tax revenue                                 15.9         16.8         14.7         14.7         15.0         15.0         15.1
+       Direct taxes                               6.2          7.5          6.3          6.1          6.6          6.5          6.5
+       Indirect taxes                            10.1         10.6          9.4          9.1          9.5          9.6          9.7
+         Taxes on goods and services              9.9         10.4          9.3          9.0          9.3          9.4          9.5
+         Taxes on international trade             0.2          0.2          0.2          0.1          0.2          0.2          0.2
+       Other taxes2                              -0.4         -1.2         -1.0         -0.4         -1.1         -1.1         -1.1
+     Non-tax revenue3                             5.0          5.3          5.1          4.4          5.2          5.3          5.3
+   Grants                                         0.0          0.0          0.0          0.0          0.0          0.0          0.0
+   Total expenditures                            23.5         23.8         22.6         22.7         22.7         22.2         21.9
+   Current expenditures                          18.6         17.5         17.3         16.6         16.8         16.5         16.2
+     Wages and salaries                           6.2          5.9          6.3          6.3          6.3          6.3          6.3
+     Goods and services                            6.8          6.4          6.3          5.8          6.0         5.8          5.6
+     Current Transfers                             4.2          3.6          3.1          2.8          2.8         2.7          2.6
+     Interest expense                              1.5          1.6          1.7          1.7          1.7         1.7          1.7
+   Capital expenditures                            5.0          6.1          5.3          6.2          6.7         6.7          6.5
+   Other expenditures 4                           -0.2          0.2          0.0         -0.2         -0.8        -0.9         -0.8
+   Overall Fiscal balance1                        -2.5         -1.7         -2.8         -3.6         -2.5        -1.9         -1.5
+     Primary balance                              -1.0         -0.1         -1.1         -1.9         -0.8        -0.3          0.2
+   Financing                                       2.5          1.7          2.8          3.6          2.5         1.9          1.5
+     Net foreign financing                         6.1          0.5          0.0          1.6          0.6         0.3          0.0
+     Net domestic financing                       -3.6          1.2          2.8          2.0          1.9         1.6          1.5
+       of which: privatization                     0.0          0.0          0.0          0.0          0.0         0.0          0.0
+   Source: Central Bank, Ministry of Finance and World Bank staff projections.
+   1/ Non-Financial Public Sector.
+   2/ Includes revenues from the financial transaction tax (ITF), the temporary tax on net assets (ITAN), among others. Negative
+   values are due to tax refunds.
+   3/ Includes General Government non-tax revenue, Capital revenue and Revenues from SOE.
+   4/ Includes SOE expenditures.
+
+10. The current account reached a surplus of 0.6 percent in 2023, and during the first three quarters of 2024 has shown
+the same positive pattern. A relatively large trade surplus in the context of the previous year's recession explains the
+current account surplus in 2023. In 2024, the current account recorded a surplus of 2.5 percent of GDP in the first three
+quarters of the year, showing an improvement in the external accounts compared to the previous year. This is largely due
+to better export prices and higher earnings on assets held abroad by Peruvians. The exchange rate remained relatively
+stable in 2024, following a managed flexible exchange rate regime that makes the Peruvian currency one of the most
+stable in the region, with a cumulative depreciation rate of 6.7 percent over the last 24 years. Net international reserves
+stood at 28.5 percent of GDP in September 2024 (14 months of import cover). External debt, public and private, has
+remained broadly stable at 39 percent of GDP, increasing by only 4 percentage points over the last decade. Gross external
+financing needs were low in 2023, at around 5 percent of GDP.
+
+
+
+                                                                                                                                   Page 5
+       The World Bank
+       Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+11. By mid-2024, inflation had returned to the midpoint of the BCRP's 1-3 percent target band. After reaching a plateau
+of around 8 percent (y-o-y) for 12-months between mid-2022 and mid-2023, inflation has steadily declined and closed the
+year 2024 at 1.97 percent. Core inflation, which excludes food and energy prices, stood at 2.60 percent y-o-y in December.
+Inflation expectations are well anchored. In line with the decline in inflation, the BCRP's policy rate has been lowered from
+7.75 percent around mid-2023 to 5.0 percent in December 2024.
+                              Table 3. Public and Publicly Guaranteed Debt Stock and Debt Service, 2023-26
+                                                     Debt stock (end of period)                                       Debt service
+                                                               2023                         2024         2025         2026      2024       2025   2026
+                                                       in       (%
+                                                                           (% of
+                                                     million   total                              in million US$                       (% of GDP)
+                                                                           GDP)
+                                                      US$      debt)
+               Total Debt                            87,908     100.0       32.9           13,225        7,269       8,596           4.5    2.3       2.6
+               External Debt                         42,289       48.1      15.8            5,561        4,361       4,468           1.9    1.4       1.4
+                 Credits                             12,437       14.1           4.7        1,996        2,188       1,777           0.7    0.7       0.5
+                    Multilateral creditors           10,212       11.6           3.8        1,503        1,655       1,307           0.5    0.5       0.4
+                    Paris Club                         1,223       1.4           0.5             205       201         191           0.1    0.1       0.1
+                    Commercial creditors               1,002       1.1           0.4             288       332         279           0.1    0.1       0.1
+                    Other creditors                        0       0.0           0.0               0           0         0           0.0    0.0       0.0
+                 Bonds                               29,852       34.0      11.2            3,564        2,173       2,691           1.2    0.7       0.8
+               Domestic Debt                         45,619       51.9      17.1            7,664        2,908       4,128           2.6    0.9       1.3
+                 Long term                           42,263       48.1      15.8            7,664        2,908       4,128           2.6    0.9       1.3
+                    Credits                             382        0.4           0.1             264           56       50           0.1    0.0       0.0
+                    Treasury Bonds                   41,881       47.6      15.7            7,400        2,852       4,078           2.5    0.9       1.2
+                 Short term                            3,382       3.8           1.3               -            -         -            -      -         -
+                    Credits                            3,382       3.8           1.3               -            -         -            -      -         -
+                    Treasury Bills                         -         -             -               -            -         -            -      -         -
+               Memo items
+               Non-Financial Public Sector Net
+                                                     60,166       68.4      22.5                   -            -         -            -      -         -
+               Debt
+               PPP Liabilities                          193        0.2           0.1               -            -         -            -      -         -
+
+               Fuel Prices Stabilitation Fund           241        0.3           0.1               -            -         -            -      -         -
+
+               Source: BCRP and Ministry of Finance projections
+
+
+
+
+                                       Table 4. External Financing Needs and Sources (millions of US$)
+                                                                         2021            2022          2023          2024P     2025P        2026P           2027P
+               Financing requirements (US$)                            -8,606          -13,511     -1,841            1,144    -2,526        -3,226      -5,094
+                 Current account deficit                               -4,674           -9,743         2,219         5,369     1,918         1,370           -340
+                 Medium and long-term debt amortization                -3,932           -3,768     -4,060            -4,225   -4,444        -4,597          -4,754
+               Financing Sources (US$)                                   8,606         13,511          1,841         -1,144    2,526         3,226          5,094
+                 FDI and portfolio investments (net)                  16,841           13,101      -1,780            4,464     6,204         7,434          6,894
+                 Capital grants                                             0               0             0              0            0           0             0
+                 Medium and long-term debt disbursements
+               (excl. IMF)                                            -10,754          -10,356          -900         4,586      -839        -3,880          -1,460
+                 Change in reserves (- = Increase)                     -3,789           6,612           850         -10,194   -2,839          -328           -340
+                 Net Errors and Omissions                                6,307          4,155          3,671             0            0           0             0
+               Source: BCRP, Ministry of Finance and World Bank staff projections.
+
+12. Despite subdued economic activity, the financial sector demonstrated resilience. Credit to the private sector grew
+year on year by 1.3 percent between December 2022 and 2023; and 0.7 percent in November 2024. From the point of
+view of firms, this moderate expansion was the combination of a reduction in the credit to micro, small and medium size
+
+                                                                                                                                                                     Page 6
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+firms, and the recovery in lending to large and corporate firms. As of November 2024, the capital adequacy ratio was a
+robust 17.1 percent, well above the 9.5 percent regulator minimum, indicating a strong buffer against insolvency risks.
+The nonperforming loan ratio in the banking sector was a moderate 3.9 percent in November 2024, where medium size
+firms face a worse scenario and reported a ratio of 15.3 percent.
+
+ B. Macroeconomic Outlook and Debt Sustainability
+13. Growth is expected to have reached 3.1 percent in 2024. The approval by Congress of a law allowing withdrawal of
+private pension funds (which represented 2.4 percent of GDP) boosted consumers' real disposable income in a context of
+declining inflation rates during the second half of 2024. In addition, higher terms of trade, improved business confidence,
+easier financial conditions and public investment acceleration supported growth. In the medium term, annual growth is
+projected at 2.5 percent in 2025-2026. New investments in the mining sector (e.g. Zafranal, Corani, Reposición Antamina,
+and possibly Tía María) and the opening of the port of Chancay at the end of 2024 would help support medium-term
+growth.
+14. After two years of missing the fiscal deficit target, consolidation is expected for 2025. The expected improvement
+in the numbers for 2025 is due to the regularization of income taxes, because of higher mining commodity prices and
+profits during 2024, 14 and a relatively moderate growth in the 2025 government budget. 15 The fiscal deficit is expected to
+decline to 2.5 percent of GDP in 2025. The recent revision of the fiscal rule also raised the fiscal deficit ceiling from 1.5 to
+2.2 percent of GDP in 2025 and from 1.0 to 1.8 percent of GDP in 2026. Over the medium term, fiscal consolidation will
+continue, driven by higher tax revenues from increased economic activity, better commodity prices, and a reform-induced
+reduction in tax evasion.
+15. Peru’s public sector debt is sustainable and resilient to various shocks. The public-debt-to-GDP ratio is projected to
+decline slowly, remaining above pre-pandemic levels, but under the 38 percent fiscal rule debt ceiling. A deterioration of
+the primary fiscal balance of 2 p.p. of the GDP (one standard deviation shock) for 2025 and 2026 could result in the ratio
+of public debt to GDP increasing by over 2 percentage points. A similar scenario outcome is expected if GDP contracts by
+more than 3 percent during 2025 and 2026 after a one standard deviation shock. 16 Real interest rate and exchange rate
+shocks would have more moderate effects. Only a combined shock (all previous shocks simultaneously) would elevate the
+ratio of public debt-to-GDP ratio temporarily above the 38 percent ceiling. GDP growth higher than the projected
+2.4 percent average (from 2027 onwards) could easily expedite the debt-to-GDP ratio decline. Total external debt is
+projected to continue declining, to approximately 34 percent of GDP by 2027. In the medium term, gross external financing
+will remain low, below 5 percent of GDP.
+16. The current account surplus reached 1.8 percent of GDP in 2024. This increase reflects an improvement in the trade
+balance, supported by higher terms of trade. The economic recovery in 2025 explains the expected decline in the current
+account surplus. In terms of financing sources, foreign direct investment inflows are expected to be the main source as
+some medium-size projects (e.g. the mining projects of Zafranal, Corani, Reposición Antamina, and possibly Tía María)
+enter their execution phase and are projected to converge to 2.5 percent of GDP in the medium term.
+17. The economic outlook for Peru is subject to significant but manageable risks. Domestic risks related to political
+uncertainty will continue to drag on economic growth and the presidential election in 2026 will add a layer of uncertainty
+that could undermine private investment. If the government fails to adjust its fiscal accounts over the medium term, it
+could weaken the credibility of fiscal policy, with potential implications for the market outlook for debt. Lack of progress
+
+14In 2021, the combined price of copper and gold (weighted by the value of Peruvian exports) increased by a little more than 30 percent, which was translated into an
+
+increase in mining taxes of 1.5 percentage points of GDP, while the ongoing increase in prices (with information up to October 2024) is in the order of 14 percent.
+15 In addition, the initial budget approved to Congress for 2025 represents an increase of 4.5 percent, which is much lower than the budget for 2024 which was 12
+
+percent higher compared to 2023.
+16
+    A shock of the order of magnitude of 5.9 p.p. is quite large because it is calculated using the periods of the COVID19 crisis and the following recovery.
+
+
+                                                                                                                                                              Page 7
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+on growth-enhancing structural reforms to address Peru's productivity and institutional challenges could lead to lower-
+than-projected growth. External risks have diminished but include lower-than-expected growth in China, which buys
+34 percent of Peru's exports, falling commodity prices, rising interest rates, and escalating threats from climate change.
+However, these risks appear manageable given Peru's solid macroeconomic buffers and in addition, the DPF program
+would improve mitigation efforts, disaster risk management and increase Peru’s preparedness.
+                                                              Figure 1. Public Debt Sustainability
+
+
+
+
+Source: World Bank staff calculations. Notes: All shocks consist of a reduction/increase of one standard deviation of their base values. 1/ Primary balance shock consists
+of a reduction of 2.0 percentage points in the variable for two years (2025-2026). 2/Real GDP shock consists of a reduction of 5.9 percent in GDP for two years (2025-
+2026). This also increases primary balance and the interest rate on debt. 3/ Real interest rate shock consists of an increase of 160 basis points in the interest rate paid
+on domestic debt and 650 basis points on the interest rate on external debt during 2026. 4/ Exchange rate shock consists of a one-off 5.5 percent depreciation during
+2025. 5/Combined shock consists in the worst scenario combining the size and duration of the shocks under 2/, 3/ and 4/.
+
+ C. IMF Relations
+18. The GoP maintains an active dialogue with the International Monetary Fund (IMF) on macroeconomic policy. The
+IMF supported the authorities' decision to exit the Flexible Credit Line arrangement when it expired in May 2024, given
+the balanced risks and the strength of Peru's buffers. In May 2024, the IMF concluded its Article IV consultation with Peru,
+and consultations for the 2025 Article IV are expected to take place in the first half of 2025. The IMF Board noted that
+Peru's very strong economic fundamentals and institutional policy framework, as well as its sustained track record of
+implementing very sound macroeconomic policies, have helped the country absorb large adverse shocks related to climate
+and social turmoil. To revive growth, structural reforms to boost productivity and a commitment to strengthen the
+effectiveness of governance institutions are needed. A renewed structural reform agenda in the context of the OECD
+accession process will be crucial to improve the business climate and promote sustainable and inclusive growth.
+
+ III. PROPOSED OPERATION
+ A. Link to Government Program, CPF, other WBG operations, and Corporate Priorities
+19. The policy program supports Peru’s economic development through CC adaptation and mitigation reforms that are
+aligned with the goals established in Peru’s PEDN 2050, NDC 2020, and National Climate Change Adaptation Plan. The
+operation is also aligned with objective 2 and 3 of the PEDN 2050, which aim to achieve a more sustainable management
+of the territory and support the sustainable use of natural resources. The program supports strengthening DRM and
+resilient territorial planning (PA1 and PA2), protecting the natural environment through forestry (PA7), and facilitating a
+transition to a low-carbon economy (PA5 through PA7). In addition, the operation is aligned to the GoP’s program “Con
+Punche Peru 2,” as it promotes climate resilience (PA1 and PA2) and enhances the climate sustainability of the transport
+
+
+                                                                                                                                                                   Page 8
+            The World Bank
+            Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+sector (PA6). The program also contributes to the OECD’s Accession Core Principles for Peru. specifically, PA1 and PA3
+support policies required to follow the accession principle on investing in CC adaptation, including the principles related
+to increasing DRM and sustainable water management. PA5 and PA6 support mitigation actions in the energy and
+transport sectors, while PA7 contributes to meeting the accession principle on ensuring effective enforcement and
+reducing deforestation.
+20. The proposed operation is aligned with the CPF for Peru (FY2023-FY2027) and complements various ongoing
+projects and Technical Assistance (TA) engagements. 17 It significantly contributes to the CPF pillar on improving access
+to services. It does so by promoting investments in WSS (PA3, Trigger 3), enhancing resilient land use planning (PA2, Trigger
+2), building capacity for large-scale resilience infrastructure execution (PA4), promoting clean energy infrastructure (PA5,
+and Trigger 4) and low-carbon transport (PA6 and Trigger 5). It also complements ongoing projects including the Enabling
+a Green and Resilient Development DPF series (P177765 and P179214); and the Peru Circular Economy for Water Supply
+and Sanitation Service Delivery Project (P505093). The proposed program deepens support in several areas covered in the
+earlier DPF series (i.e., DRM, territorial planning, low-carbon transport, and the energy transition) and expands to cover
+reforms to address water scarcity and strengthen the capacity to monitor and reduce deforestation—two priority areas
+identified in the Peru’s CCDR and OECD’s Accession Core Principles.
+21. The program also supports WBG Corporate Priorities, by promoting gender equality and mobilizing private capital.
+It aims to advance women’s participation in decision making in the WSS sector, in alignment with the new WBG Gender
+Strategy 2024-2030. It does so by introducing the guiding principles for improving gender inclusion in WSS provision,
+targeting a 10 percent increased presence of women in decision making roles at WSS provision entities. The DPF reform
+program is also consistent with the principles of the Maximizing Finance for Development (MFD) and is Private Capital
+Enabling (PCE). The reform program can be considered private capital enabling as it supports policies that create incentives
+for private investors in two critical infrastructure sectors: renewable energy, and affordable housing (the latter in the
+second operation). The following reforms are aligned with the principles of the MFD approach: (i) promoting renewable
+energy and distributed generation (PA5 and Trigger 5)—as this will extend tax incentives for renewable energy
+investments for the next decade, increasing the private sector’s interest in making these investments, and will include the
+development of regulation to promote distributed generation, all with the expectation to generate 289 megawatts (MW)
+of nonconventional renewable energy (NCRE) by the end of the program; and (ii) promoting investment incentives that
+allow municipalities to introduce incentives for building social interest housing (SIH), in the form of additional
+development rights (e.g., allowing higher maximum heights when projects allocate a portion of housing units to affordable
+housing) – Trigger 6. This last Trigger is expected to generate at least 46,000 affordable housing units with construction
+licensed in consolidated urban areas by the end of the Program.
+22. This operation aligns with the mitigation and resilience goals of the Paris Agreement (see Annex 2).
+23. The DPF program complements activities by the International Finance Corporation (IFC) and the Multilateral
+Investment Guarantee Agency (MIGA) to enhance the ecosystem for affordable and green housing provision. The World
+Bank Group has been supporting the GoP to develop a more inclusive, greener and resilient housing sector. This support
+includes TA provided by the Bank to develop the 2021 National Housing Policy, and an ongoing Rapid Housing Sector
+Assessment which has provided recommendations to reform housing finance instruments and subsidy programs to
+enhance access to affordable housing and promote private sector involvement. In 2023, MIGA provided a guarantee for a
+US$300 million loan by J.P. Morgan Chase Bank's to Fondo MiVivienda aimed at improving access to housing for women
+and vulnerable groups. The IFC has also engaged with commercial banks and SIH developers, providing a US$60 million
+loan to BBVA Peru for green home mortgages and a US$400 million financing package in collaboration with the Japan
+International Cooperation Agency (JICA) to support sustainable and green housing construction in 2023 and 2024. IFC is
+
+17
+     Discussed by the Board of Executive Directors on January 31, 2023 (Report No. 179046-PE).
+
+
+                                                                                                                       Page 9
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+also currently working with Los Portales, a real estate developer supporting SIH in Peru, and preparing a lending operation
+with them.
+24. The proposed DPF series benefits from lessons learned from previous operations in the country. 18 Three lessons
+from prior DPFs were incorporated into the program design: (i) having strong analytical underpinnings to provide the
+foundations for a well-designed operation; (ii) supporting reforms with strong links to other WB TA and investment
+operations; and (iii) focusing on strengthening governance frameworks and institutions.
+ B. Prior Actions, Triggers, Expected Results and Analytical Underpinnings
+PILLAR I: STRENGTHENING CLIMATE CHANGE ADAPTATION
+25. Pillar I promotes strengthening CC adaptation by supporting priority reforms to bolster the national DRM system, the
+country’s institutional capacity for risk-informed territorial planning, a more resilient provision of WSS services, and the
+implementation of investment programs to reduce disasters risks and enhance CC adaptation.
+Prior Action # 1. To strengthen the SINAGERD, the Presidency of the Council of Ministers (PCM) has modified Law No. 29664 and its regulations to: (i)
+introduce principles of disaster risk (DR) prevention; and (ii) strengthen institutional capacity through professional certification in DRM.
+
+26. Rationale. Peru’s geographical location and environmental conditions make it vulnerable to seismic, geodynamic, and
+hydrometeorological events. 19 CC is expected to make climate events more frequent and more intense, in turn impacting
+economic development and hindering poverty reduction efforts. Global experience shows that exposure to disaster risk is
+correlated with high instances of poverty, 20 while analysis in Peru has revealed both high relevance of DRM agenda to
+development, and institutional challenges associated with it. 21 Law No. 29664, enacted in 2011, established the SINAGERD
+and outlined its objectives, composition, and functioning. The SINAGERD functions as a collaborative, interinstitutional
+system that encourages participation from all levels of government, the private sector, and communities in DRM, but was
+missing until now the incorporation of CC adaptation measures. It aims to identify and prioritize preventive measures,
+reduce risks, and ensure disaster preparedness and response. In 2021 and 2022, the GoP approved the National DRM
+Policy and DRM Plan, which acknowledged the urgent need to strengthen and reinforce the SINAGERD in response to the
+continued risk posed by CC and limited local capacity to manage disaster risks. The lack of incorporation of DRM and CC
+adaptation approaches into institutional planning instruments has led to a regular occurrence of emergencies and
+disasters, due to the lack of a DRM-preventive approach, particularly during the increased recurrency and frequency of
+ENSO events. Also, there is a need to strengthen enforcement mechanisms, and who is responsible for enforcement, to
+ensure compliance with the law.
+27. Substance of the prior action. To address the identified gaps and include CC adaptation into DRM planning, on
+November 24, 2023, the Borrower issued Legislative Decree No. 1587, which modifies Law No. 29664. It introduces: (i) the
+principles of DRM prevention to manage the emergence of more frequent and recurrent climate related disaster risks;
+(ii) the structure and responsibilities of the National Council for DRM, regional and local governments; and (iii) the
+mandate of professional competency certification, and enforcement mechanisms to ensure compliance and
+accountability. The purpose of these modifications is to strengthen the SINAGERD by emphasizing principles such as
+prevention which will be reflected in the effective integration of DRM and CC adaptation into regional risk prevention,
+reduction and emergency response plans. Additionally, on June 6, 2024, the Borrower approved the Supreme Decree No.
+060-2024-PCM, which updates the SINAGERD regulations requiring regional and local governments to prioritize risk
+prevention and reduction; ensure officials have proper certifications; and develop specific plans for risk prevention,
+
+
+18 These include ICRs on programmatic DPF loans to Peru including the Environmental Development Policy Series (P101471, P116152 and P118713) and the Post COVID-
+
+19 Recovery DPF (P17440).
+19 The World Bank. (2022). Peru Country Climate and Development Report. Washington, DC: The World Bank.
+20 Hallegatte, S., et al (2016). Shock Waves: Managing the Impacts of Climate Change on Poverty. Washington, DC: The World Bank.
+21 The World Bank (2021). Institutions, inclusion and territory, Proposals to strengthen resilience to disaster risk in Peru.
+
+
+
+
+                                                                                                                                                       Page 10
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+emergency response. Together, these reforms, are instrumental in strengthening Peru’s adaptation capacity by enhancing
+its preparedness for, and resilience against, the impending risks posed by natural and climate-related hazards.
+28. Indicative Trigger. To further strengthen disaster risk quantification and the country’s capacity to respond to disasters,
+the GoP is developing mandatory guidelines for the implementation of DR (including climate related) assessments and for
+the acquisition, storage, and distribution of humanitarian aid goods for emergency and disaster relief. The guidelines will
+allow establishing standardized approaches across relevant agencies for conducting DR assessments and managing
+humanitarian aid.
+29. Expected results. The PA and trigger are expected to result in more regional governments with developed disaster
+risk prevention, reduction and emergency response plans that incorporate CC —with the share expected to grow from
+0 percent, in 2024, to 80 percent in 2027. This, in turn, will support establishing comprehensive preparedness and
+response strategies within government entities and strengthening the overall resilience to disasters and CC.
+Prior Action # 2. To strengthen land use and territorial planning incorporating DRM and CC adaptation, the PCM has submitted to Congress the Land
+Use Planning Bill, that: (i) establishes the National Land Use Planning System (SINADOT); (ii) clarifies roles and facilitates coordination among various
+authorities responsible for land use planning; and (iii) integrates DRM and CC adaptation across all land-use planning instruments.
+
+30. Rationale. There has been little progress in land use or territorial planning in Peru in the past decades given the lack
+of an adequate regulatory framework and governance system for decision-making on sustainable land occupation.
+Constraints in the regulatory framework relate to the lack of: (i) a clear definition of the regulatory power over land-use
+planning; (ii) a clear assignment of responsibilities for land-use planning in the current institutional system; and
+(iii) articulation of central and local government responsibilities, powers, and instruments with regard to land-use
+planning. 22 Land occupation and development in Peru have therefore been led by informal expansion processes driven by
+population seeking to address their housing needs, even in areas highly exposed to climatic hazards. Unplanned
+occupation of the territory is increasing vulnerability of low-income households and economic activities, diminishing their
+resilience and dampening their capacity to be adaptive to CC. This process is also straining ecosystems and its services,
+and their capacity to regenerate, thus increasing degradation and biodiversity loss. 23 To regularize land development and
+prevent occupation of areas exposed to elevated risks of natural disasters and CC, Peru needs a system that clearly defines
+land-use planning instruments and their hierarchies, and assigns clear responsibilities for their development,
+implementation, and enforcement.
+31. Substance of the prior action. On August 16, 2023, the Borrower submitted to Congress the Land Use Planning Bill 24
+that proposes the creation of the SINADOT—a governance system under the leadership of the PCM—to better articulate
+land-use planning instruments and facilitate coordination among territorial interventions and decision-making among
+different sectoral authorities and levels of government. The new regulatory framework encourages the sustainable
+occupation of the territory through the orderly allocation of land-use rights, and adequate natural resource management
+under a comprehensive territorial approach, which includes assessments of high-risk DRM and CC adaptation. The
+issuance of the regulatory framework will reduce vulnerability to climate events (e.g., hydrometeorological events, floods,
+etc.) and help make the territory safer, greener, and more resilient by supporting the identification of risk-prone areas
+and informing infrastructure investments and urbanization. The Bill also defines the roles and responsibilities of different
+actors within the system and outlines how land-use planning instruments should articulate. As the leading regulatory body
+of the SINADOT, the PCM will be responsible for reviewing regional land-use plans, to ensure proper alignment with the
+objectives and principles set forth in the Bill and in the upcoming National Land Use Planning Policy, with the aim of
+
+22 World Bank. (2020). Institucionalidad, inclusión y territorio: Propuestas para fortalecer la resiliencia del Perú frente a desastres.
+23 According to MINAM (Programa Nacional de Bosques), between 2001 and 2020, 2,636,585 hectares of forest have been cleared in Peru.
+
+24 On June 17, 2024, the Congressional Committee on Decentralization, Regionalization, Local Governments, and Modernization of State Management made a decision
+
+on Bills No. 5723/2023-PE (the Land Use Planning Bill submitted by the Borrower to Congress) and approved a substitute text for the Law on Land Use Planning and the
+Creation of the National Land Use Planning System.
+
+
+                                                                                                                                                           Page 11
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+increasing CC resilience at the subnational level. The Bill was approved by the responsible Congressional Committee on
+June 17, 2024, and voting by the plenary assembly is expected to take place in the current legislative term
+32. Indicative Trigger. To further promote an orderly and sustainable occupation and use of the territory, the PCM is
+advancing in the development of the first National Land Use Planning Policy which will detail specific actions, targets, and
+responsible entities and assure a proper articulation of territorial planning instruments and integration of DR
+consideration in land use planning. 25
+33. Expected results. This PA is expected to result in a more orderly and climate resilient occupation and use of the
+territory. The Land Use Planning Bill represents a major shift towards a better informed and structured model of territorial
+planning, including incorporation of climate risks assessments and DRM considerations into land use planning instruments
+and strengthening the governance systems for land use planning. The PA together with the trigger, are expected to reduce
+the occupation of land exposed to high flooding, landslide and other disaster risks, increasing the share of sub-national
+governments that have incorporated DRM aspects in their land-use planning documents from 3.9 percent in 2024 to
+6.8 percent by the end of 2027, with the aim of increasing climate resilience at the regional, provincial and district level. 26
+Prior Action # 3. To strengthen resilience and increase social inclusion in the provision of WSS services, the Ministry of Housing, Construction and
+Sanitation (MVCS) has modified Law No. 1280 to mandate WSS service providers to: (i) incorporate circular economy approaches through the re-use
+of water; (ii) promote an efficient use of water resources, including in the design of WSS investments; and (iii) incorporate principes of inclusion to
+promote equal participation of women and men in the sector through a Legislative Decree.
+
+34. Rationale. Peru’s aging water infrastructure and the limited implementation of its water management framework
+have amplified water security risks, which are exacerbated by the country’s high climate variability and significant spatial
+rainfall distribution. Natural water storage in glaciers and groundwater is under increasing threat and pollution is further
+limiting the water endowment availability. 27 In 2016, the GoP enacted the Framework Law for the Management and
+Provision of Sanitation Services (Law No. 1280), which prioritized promoting efficiency and financial sustainability among
+service providers and the revised functions of WSS sector institutions to close access gaps. However, additional regulatory
+gaps prevent Peru from advancing toward its water security vision, which includes a need to mainstream circular economy
+approaches and redundancy of water sources and infrastructure, and to promote social inclusion in water management.
+Enhancing the recycling and reuse of wastewater effluents is critical for increasing the availability of water and
+strengthening resilience and adaptation to CC, while greater gender diversity in water and sanitation service delivery can
+drive innovation and efficiency.
+35. Moreover, persistent gender disparities in participation in the decision making of Peru’s WSS sector, pose a challenge
+for a transition to a circular economy that supports efficient water usage under drought prone environments. Evidence
+suggests that companies with higher gender diversity are more likely to reduce water use; companies with more gender-
+inclusive boards are 46 percent more likely to reduce water use and 39 percent more likely to decrease GHG emissions. 28
+As is the case in many countries, there is a large gender disparity in leadership in Peru’s WSS sector. As of April 2023,
+among the 50 WSS utilities serving 64 percent of the country’s total population (and 80 percent of the urban population),
+men make up 87 percent of the 153 board members, while women accounting for only 13 percent of the remaining boards.
+Additionally, men hold 86 percent of general manager positions, with women occupying just 14 percent. These disparities
+
+25 The approval of the National Land Use Planning is not contingent on the approval of the Land Use Planning Bill. The National Land Use Planning Policy identifies four
+
+priority objectives (each with detailed actions, responsible actors, results indicators and targets): to guarantee a safe and ordered occupation of the territory taking
+into consideration its potential (Objective 1), achieve higher equity between territories (Objective 2), improve decision-making of actors based in an integral knowledge
+of the territory (Objective 3), and strengthen institutions for the governing of territories (Objective 4).
+26 Land-use planning instruments can identify urban areas, areas of non-mitigable risk, areas for public equipment and amenities, conservation areas, among others,
+
+establishing permittable land-uses and construction requirements (occupation index, heights, etc.).
+27 World Bank. (2023). Water Security Diagnostic: Peru Strategic Actions Toward Water Security. Washington, DC: The World Bank.
+
+28
+   World Bank. (2019). Women in Water Utilities: Breaking Barriers. Washington, DC: The World Bank.
+FP Analytics, Women as Levers of Change, https://womenasleversofchange.com/static/pdf/Women-As-Levers-Of-Change-English-Executive-Summary.pdf.
+
+
+                                                                                                                                                                Page 12
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+find their origin in rooted societal norms and implicit practices that dictate the roles that women and men should play in
+infrastructure sectors. These translate into gender stereotypes, occupational sex-segregation, lower participation of
+women in STEM fields, insufficient policies to reconcile work and family, weak provisions towards sexual harassment in
+the workplace, and even self-perceptions among women in the sector themselves. 29 In this context, influencing norm
+change and advancing women’s participation in decision making has enormous potential to support Peru’s water sector’s
+transition to a circular economy approach.
+36. Substance of the prior action. To strengthen a more resilient use of water and wastewater service, on December 21,
+2023, the Borrower approved Legislative Decree No. 1620 (which amends Law No. 1280) to: (i)incorporate circular
+economy approaches through the re-use of water; (ii) promote an efficient use of water resources, including in the design
+of WSS investments, including measures for redundancy in water sources; and (iii) incorporate principles of inclusion to
+promote equal participation of women and men in the sector. These elements are crucial for making Peru’s sector more
+adaptable and resilient in ensuring water security. Historically, the sector has predominantly operated under a linear
+“take-make-consume-waste” model with wastewater treatment plants discharged into the sea, leading to the loss of
+valuable resources. To mitigate water pollution and increase the availability of water, it is crucial to adopt circular “reduce-
+reuse-recycle-recover” approaches. The Legislative Decree will facilitate sector investments in water reuse, the recycling
+of sanitation by-products, energy efficiency, supplementary investments in water contingency measures, and the
+exploration of new water sources. The purpose of these initiatives is to ensure the continuous provision of WSS services
+during extreme weather events, conserve water sources, and promote efficient use of water. Moreover, circular water
+systems must incorporate resilience and inclusivity to prepare for unforeseen shocks and stressors, thereby avoiding
+disruptions to water services and food production.
+37. Furthermore, the Legislative Decree explicitly incorporates inclusivity as a guiding principle, recognizing that the
+effectiveness of WSS provision relies on equitable representation of women and men. Building upon this mandate, the
+MVCS has been implementing a series of actions (also under the umbrella of Peru’s National Policy on Gender Equality 30)
+towards fostering norm change in the sector and increasing the representation of women in decision-making positions.
+Among others, the MVCS has established Committees for Gender Equality and other working groups across WSS facilities
+to foster and monitor equitable representation of men and women in their staff composition, launched workplace surveys
+to assess gender stereotypes across the sector, and adopted as a regular standard the use of inclusive language to foster
+mindset change (e.g., Law 1620 deliberately adopts inclusive language when specifying the staff composition of WSS
+managerial bodies). Importantly, the MVCS has adopted a 10 percent increase commitment in the current baseline of
+women in boards.
+38. Indicative Trigger. To further promote a circular economy in WSS service provision the GoP is also preparing
+regulations to introduce circular economy principles in WSS public and private provision and measures to better account
+for potential emergencies and disasters in the WSS value chain. In addition, to further monitor progress in women’s
+participation in managing WSS service providers, the MVCS is preparing regulations to mandate tracking the number of
+women in decision-making roles within service provision, as part of its upcoming multisectoral WSS policy.
+39. Expected results. The PA is expected to result in a progressive introduction of circular economy and redundancy of
+water sources in WSS project investments supporting CC adaptation. This will be measured through the increase in the
+percentage of project ideas registered in the national public investment system (Invierte.pe) and adjusted technical
+profiles that include circular economy approaches. The share of qualifying projects that include circular economy
+principles is expected to reach 10 percent by 2027.
+
+
+29 Cooperación Económica Suiza (2024). Oportunidades y Barreras para el Desarrollo de la Carrera Profesional o Técnico de las Mujeres en el Sector de Saneamiento.
+
+Lima, Peru.
+30 Peru's Ministry of Women and Vulnerable Populations, April 2019. Decreto Supremo N° 008-2019-MIMP.
+
+
+
+
+                                                                                                                                                         Page 13
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+40. The PA is also expected to contribute to increasing women participation in decision making positions and leadership
+of the WSS sector. It will reduce information gaps in overall monitoring –i.e., data collection, reporting, and statistical
+systems- for increased related to women’s involvement in decision-making within the sector. The PA and trigger are
+expected to increase the current baseline of women in decision making positions in WSS utilities from 13 percent to reach
+15 percent by 2027, specifically as board members and in managerial roles in WSS water utilities. This target is consistent
+with the time frame of the proposed operation.
+Prior Action # 4. To enable the closing of infrastructure gaps with a territorial and disaster prevention lens and promote CC adaptation, the PCM has
+approved the regulations for Law 31841 that detail ANIN's role in formulating, executing, and maintaining infrastructure projects aimed at preventing
+and controlling floods and other hazards and supporting climate change adaptation through a Supreme Decree.
+
+41. Rationale. Infrastructure gaps and institutional challenges related to its implementation and delivery remain major
+challenges for poverty alleviation and economic growth in Peru. 31 32 Over the past decade, the GoP has recognized the
+importance of creating mechanisms to address critical risks in infrastructure investments and post-disaster reconstruction
+efforts. In 2017, following the devastating effects of the coastal ENSO, which caused US$4 billion in infrastructure and
+housing damage and affected 1.5 million people, 33 the GoP created the Agency for Reconstruction with Changes (ARCC
+for its acronym in Spanish) to lead the execution and supervision of the reconstruction of public infrastructure damaged
+only during the 2017 coastal ENSO. In 2018, incorporating lessons learned from other large-scale infrastructure
+interventions (i.e. Juegos Panamericanos, Proyectos Especiales), 34 the GoP also allowed the ARCC to follow expedited and
+simplified processes for recovery and reconstruction efforts of the 2017 ENSO. More recently, the GoP identified the need
+to reinforce the implementation of risk reduction actions, to strengthen the executive branch’s means to plan and execute
+public investment programs for DRM and CC adaptation (which often require a cross-sector approach and action across
+different administrative layers). Given the narrow mandate of the ARCC (which was intended to reconstruct damage linked
+only to the 2017 coastal ENSO), the GoP also identified the need to move towards having a permanent institution to lead
+large-scale risk reduction investments and spearhead reconstruction efforts following natural disasters. As a first step to
+address these gaps, on July 21, 2023, the Borrower issued Law No. 31841, which created the ANIN.
+42. Substance of the prior action. To help close infrastructure gaps from the perspective of DR prevention and promote
+CC adaptation, on October 11, 2023, the Borrower issued Supreme Decree 115-2023-PCM, which approves the regulations
+for the functioning of the ANIN. These regulations further detail the ANIN’s role in formulating, executing, and maintaining
+large-scale infrastructure specifically for preventing and controlling floods and other climate induced hazards and
+supporting CC adaptation. These include the implementation of early-warning systems, pluvial and fluvial drainage
+infrastructure, and riverbank protection. They also outline the ANIN’s mandate in addressing multisectoral issues requiring
+a territorial approach for infrastructure planning and execution and its role in leading multisectoral reconstruction
+efforts—in areas where emergency declarations have been made—following a natural disaster. To enable a more efficient
+investment cycle and a quicker reconstruction, the approved regulations, allow the ANIN to follow simplified and
+expedited administrative procedures, including for licensing and procurement. As part of its mandate, the ANIN has been
+developing an investment package specifically meant for mitigating flood risks incorporating climate change resilience,
+improving land use, and implementing early-warning systems in 19 prioritized water basins. 35 More recently, in June 2024,
+
+
+31 Organization for Economic Co-operation and Development (OECD). (2017). La contratación pública en el Perú: Reforzando capacidad y coordinación.
+32 Leiva Calderón, D. (2023). Desafíos para una inversión pública de calidad en Perú. Ponencia.
+33 WFP (World Food Programme), USAID (United States Agency for International Development), INDECI (Instituto Nacional de Defensa Civil), and Save the Children
+
+International, “Fortaleciendo la Respuesta ante Desastres en el Perú”
+34 “Contratacion publica y la experiencia de los juegos panamericanos”, J.C Medina Flores
+35 On July 30, 2024, a law for the creation of the new Infrastructure Ministry was submitted to Congress (Proyecto de ley #8508 /2024-PE). The law stipulates that the
+
+ANIN will be incorporated into the new ministry, although it also stipulates that all investment programs of the units absorbed by the ministry will continue
+implementation and that documents defining the functions and management of these entities will remain active and relevant until the completion of existent programs
+(Point FIVE in “Disposiciones Complementarias Finales”).
+
+
+                                                                                                                                                             Page 14
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+the Borrower approved additional dispositions to allow the ANIN to hire specialized TA for project management and apply
+standardized engineering and construction contracts aligned with international practices. 36
+43. Expected results. The regulation is expected to improve Peru’s capacity to carry out large infrastructure investments
+for DRM and CC adaptation. It is expected that by December of 2027, the ANIN’s integrated climate resilient infrastructure
+to prevent flooding in 19 prioritized water basins, will benefit at least 2.3 million people. 37
+PILLAR II: PROMOTING DECARBONIZED DEVELOPMENT IN SELECTED SECTORS
+44. Pillar II promotes a transition to greener and low-carbon development in those high GHG emission sectors to support
+Peru’s overall development and increase its competitiveness and job creation. It does so by targeting Peru’s high emitting
+sectors: energy, including transport (responsible for 30.1 percent of emissions, with transport accounting for 14.7 of those
+emissions); and reducing forestry (which together with land use and land use change are responsible for 47.9 percent of
+emissions). The pillar supports tax incentives to foster renewable energy investments; promoting charging infrastructure
+for electromobility; and improving control and surveillance of forests to protect carbon sinks.
+Prior Action # 5. To promote decarbonization of the power sector and private sector investment in renewable energy, the MEF has sent to Congress
+a Bill that extends the validity of the tax benefit to incentivize investment in power generation from renewable energy sources.
+
+45. Rationale. Although Peru is endowed with world-class solar and wind power resources, it has limited NCRE power
+generation (representing only 6.1 percent of the total power generation in 2023) and its power matrix is dominated by
+hydropower and natural gas (47.8 percent and 44.6 percent, respectively, of total generation in 2023). 38 Given hydrological
+pattern changes and potential droughts, Peru’s power matrix is increasingly vulnerable to the likely impacts of CC, which
+increases GHG emissions from thermal generation during water scarcity periods and jeopardizes energy security.
+Investments in new power generation have declined significantly since 2014, 39 and studies by the power system operator
+have highlighted the risk of relying on diesel-based generation if no new large-scale generation comes into operation by
+the end of 2027. To promote economic recovery and contribute to Peru’s NDC climate commitments, policies that
+promote cleaner and reliable energy are critical. Renewable energy, especially NCRE, can play a key role in: (i) meeting the
+short- and medium-term growth in electricity demand—especially given the lower cost and faster deployment of solar
+and wind energy; (ii) making the power system more efficient and resilient through the diversification of the power mix;
+(iii) facilitating the energy transition and the overall decarbonization of the economy while meeting climate national
+commitments; (iv) promoting private investment, in turn increasing competition in the power market; and (v) contributing
+to local economic growth through green job creation. The GoP is actively promoting regulation to foster the development
+of large-scale renewable energy, such as the reform to electricity supply auctions to enable the participation of NCRE
+(modifications to Law No. 28832), which was part of the previous DPF series and was recently approved. 40 However, it is
+a suite of regulation that will attract private sector investments in NCRE to be able to make a dent to the current low
+(6 percent) share of NCRE generation in the country.
+46. Substance of the prior action. To reactivate the economy in the energy sector, provide strong signals to private
+investors for large-scale NCRE projects and contribute to reduce GHG emissions, in conventional and NCRE projects, on
+
+36 Supreme Decree 094-2024-EF approved on June 4, 2024.
+37 The target reflects the population benefiting from 40 public investment projects (note that the number of beneficiaries is included as part of the registry approved
+
+by the Invierte.pe system), aimed at building comprehensive solutions for flood reductions in 19 water basins, which are expected to be implemented between 2024
+and 2027.
+38 NCRE includes solar, wind, biomass, and small hydro power plants (of up to 20MW), geothermal or tidal energy. Statistics on the Operation of the Sistema Eléctrico
+
+Interconectado Nacional de Perú (SEIN), 2023; Comité de Operación Económica del Sistema Interconectado Nacional (COES), 2024.
+39 Investments in new power generation have decreased significantly since 2014 and are currently at 2010 levels; they recovered slightly since the COVID-19 pandemic,
+
+as stated in MINEM (Ministerio de Energía y Minas), “Exposición de motivos, Proyecto de Ley 6747-2023-PE,” 2023.
+40 On March 24, 2023, the GoP submitted to Congress a draft law that amends Law No. 28832, to enable NCRE suppliers to participate in technology-neutral electricity
+
+supply auctions for regulated market users, which was approved by Congress on December 12, 2024. The Law’s regulation should be in place in 120 days after its
+promulgation by the Executive.
+
+
+                                                                                                                                                                Page 15
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+January 3, 2024, the Borrower submitted to Congress the Bill 6747-2023-PE, which seeks to extend for 10 years (from
+December 31, 2025, until December 31, 2035, the longest period thus far) the tax benefit granted through Legislative
+Decree No. 1058, of June 2008. The Decree establishes an accelerated depreciation regime for income tax purposes for
+NCRE and hydropower electricity generation activities; including for machinery, equipment, and the civil works necessary
+for the installation and operation of these renewable generation plants—up to a maximum 20 percent annual depreciation
+rate (versus a standard 5 percent rate for civil works in any industry and a maximum 10 percent depreciation rate for
+machinery and equipment allowed under the ordinary income tax regime). 41 This provides private sector developers a
+greater incentive to allocate resources to new renewable energy investments without causing any loss of fiscal tax
+revenue, since it serves as a deferral of potential tax payment. This Bill includes modifications, in accordance with
+international best practice, to enhance transparency principles and requires the Tax Administration Authority (SUNAT for
+its acronym in Spanish) to annually publish the total amount of these deductions and the list and/or number of taxpayers,
+the sectors to which they belong, and the corresponding deductions. Although this will be the third extension of the
+benefit, it is the longest so far, spanning a decade (instead of previous three-year extensions), and aims to provide more
+certainty and a stronger signal to the private sector. 42 This tax incentive effort, coupled with regulatory changes to modify
+power supply auctions, is expected to increase interest among investors and developers in renewable energy to support
+Peru in its energy transition and commitments to climate mitigation.
+47. Indicative Trigger. To further promote the development of NCRE and enhance a cleaner and more resilient power
+matrix the Ministry of Energy and Mines (MINEM for its acronym in Spanish) is preparing regulation to enable and promote
+the use of distributive renewable energy generation among small and medium consumers. The regulation will establish
+the different elements to support the integration of distributed generation, including among other, the maximum capacity
+for small and medium systems, minimum technical requirements and protocols to connect to the grid, processes for the
+recognition of investments, as well net billing payment processes. This would enable distributed renewable generation
+projects to take place at the residential and public level and promote the development of rooftop solar service provision
+companies as has been the case in countries such as Brazil or Chile.
+48. Expected results. The PA and trigger will promote private investments in renewable energy, which are expected to
+increase by 289 MW during the DPF series period, to reach at least 2005 MW of NCRE installed capacity by 2027. This
+result will contribute to increased competition through the entry of new private sector players, potentially reducing
+electricity prices, and increasing the provision of clean energy to regulated customers. In turn, this will diversify the energy
+matrix while increasing resilience to the likely impacts of CC on hydrology patterns and reducing Peru’s overall carbon
+footprint by displacing fossil fuel–based generation.
+Prior Action # 6. To promote low-carbon transportation, the MINEM has issued a regulation that establishes new parameters and standards that
+enable the installation and operation of charging infrastructure for electromobility through a Supreme Decree.
+
+49. Rationale. The transport sector accounts for 14.7 percent of Peru’s carbon emissions, or approximately half of all
+energy related emissions. Transport sector emissions increased by nearly 50 percent in 2010-2018, driven by rapid
+motorization in the form of internal combustion engine (ICE) vehicles that also have significant local externalities in terms
+of air and noise pollution, and public health. Transition to electric vehicles (EVs) can be an effective means to decarbonize
+the road transport sector, especially in countries like Peru that predominantly rely on a relatively clean power matrix for
+their electricity needs. As highlighted by the Peru CCDR, if Peru wants to meet net zero commitments by 2050, then it will
+be important to move towards the electrification of the vehicle fleet, along with other measures. However, while EV and
+
+
+41 EY (Ernst & Young), “El régimen fiscal del negocio de energías renovables,” 2018.
+42 Since 2008, when the tax benefit was originally put in place, investments in renwable energy increased from US$400 million to almost US$2000 million in 2014.
+
+However, between 2016 and 2023 power capacity increase in only about 1,100 MW, reflecting a deceleration of investments, reaching its lowest level during the
+pandemic. The 10-year extension of the acclerated depreciation for renewable energy generation will provide predictabiliy regarding the tax treatment for investors.
+Large generation companies like Enel and Engie declared that the 10-year tax benefit was indeed welcomed by the sector to expand clean energy generation.
+
+
+                                                                                                                                                            Page 16
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+hybrid sales in the country have increased, from representing only 0.21 percent of vehicles sold in 2019 to 1.9 percent in
+2023, 43 the share remains low compared with some neighboring countries. 44 According to studies in the region, key
+barriers to adoption of EVs include the high prices, lack of tax incentives and public policies, and the lack of charging
+infrastructure which is critical for a sustained expansion in the private vehicle fleet. 45 According to the Peruvian
+Automotive Association (AAP), growth in EVs and hybrids could be faster if there were more public policies to promote
+them, 46 including adequate charging infrastructure. However, only 31 charging stations are currently publicly accessible
+across the entire Peru, with no clearly established minimum standards. Also Lima, which concentrates 52 percent of the
+country’s motorized vehicle fleet, 47 has a limited number of EV charging points. 48 The expansion of electric buses (e-buses)
+in the public transport fleet in Peru remains constrained by the significantly higher upfront purchase price as compared
+to diesel buses, despite much lower operating costs that allow recouping the investment within about five years; so far e-
+buses have only been introduced on a pilot basis. 49
+50. Substance of the prior action. To promote low-carbon transportation, the MINEM has approved a regulation that
+establishes new parameters and standards to enable the installation and operation of charging infrastructure for
+electromobility (Supreme Decree 036-2023-EM, published in the Official Diary on December 31, 2023). The regulation
+aims to facilitate the introduction of more energy efficient transportation technologies, reduce hydrocarbon consumption
+and GHG emissions, improve air quality, and contribute to the fulfillment of Peru's NDCs. Specifically, it guides the different
+actors involved in the installation and operation of the charging infrastructure for electric mobility and establishes the
+minimum requirements for the installation, operation, safety, and maintenance of EV charging infrastructure, for example,
+defining the specific permitted charging technologies in residential buildings, offices, parking facilities, public buildings,
+and on the roads.
+51. Indicative Trigger. To further support a shift to electromobility, the Ministry of Transport and Communication (MTC
+for its acronym in Spanish) is developing a Supreme Decree on the National Strategy for a Professional and Sustainable
+Public Transport. The Strategy aims to modernize urban public transport services through the establishment of a
+Guarantee Fund to facilitate the acquisition or renewal of electric vehicles for public transportation, combined with the
+professionalization of public transport providers. It aims to reach an EV share in the national public transport fleet of 75
+percent by 2050 and will contribute to MTC’s goal of replacing the public combi and coaster fleet with electric minibuses
+over the medium term.
+52. Expected results. The approval of the regulation on EV charging infrastructure and the subsequent approval of the
+National Strategy (Trigger #5) are expected to promote a shift to electric vehicles in the private and public transport fleets
+in Peru, thus reducing carbon and local pollutant emissions. Recent life-cycle analysis of ICE versus Battery Electric Vehicles
+(BEV) and Hybrid Electric Vehicles (HEV) for Peru suggests that each kilometer traveled in an EV emits a total of 0.229 kg
+CO2eq, compared to 0.345 kg CO2eq in the case of ICE (gasoline) vehicles. 50 During the timeframe of the DPF (2027), the
+policy interventions are expected to result in the replacement of 3 percent of ICE public transport vehicles with electric
+buses, compared to from a 0 percent baseline. 51
+
+
+
+43 https://www.elperuano.pe/noticia/241666-aumentan-las-ventas-de-vehiculos-electricos-en-el-peru
+44 Between January and September 2024, 5,010 hybrid and electric vehicles were sold in Peru, or 4% of all vehicles sold over the period. In contrast, in Colombia, EV
+
+and hybrid sales during the same period accounted for 24%. Mexico and Chile follow Colombia in terms of the largest share of EVs sold.
+45 Costa, E. Et al. (2021). Diffusion of electric vehicles in Brazil from the stakeholders' perspective. International Journal of Sustainable Transportation
+46 Delgado Tong, A. (2024). “Venta de vehículos eléctricos aumentó en 56% en lo que va del 2024, reporta el AAP.” October 12.
+47 GIZ. (2019). Sistematización de la estimación del parque vehicular de transporte terrestre circulante a nivel nacional.
+48 16 in the entire Province of Lima, according to https://www.electromaps.com/es/puntos-carga/peru
+49 Gestión. (2024, February 21). Bus eléctrico: MTC dará incentivos para promover la electromovilidad. Gestión. [Link] .
+50 Rodríguez Pérez, B. (2021). Evaluación comparativa de la introducción masiva de vehículos eléctricos en el Perú. Revista Universidad y Sociedad.
+51 The universe of vehicles considered for replacement includes formal public transport vehicles in Lima and Callao that in 2024 were at least 20 years old, according to
+
+the records from the Urban Transport Authority of Lima and Callao (i.e., some of the most polluting and least energy efficient vehicles).
+
+
+                                                                                                                                                                Page 17
+            The World Bank
+            Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+Trigger # 6. To promote sustainable urban land management and financing mechanisms the MVCS has issued regulations which (i) establish urban
+management and land value capture instruments; and (ii) introduce a new set of financial incentives to promote the supply of Social Interest Housing
+(SIH) through Supreme Decrees.
+
+53. Rationale. Almost one in four Peruvian households face a housing deficit. 52 Due to the lack of available affordable
+housing, most low-income households meet their housing needs through illegal land occupation, with self-constructed
+poor-quality housing in cities’ outskirts. 53 In the past 20 years, 93 percent of the urban growth in the country has been
+driven by informal homebuilding. 54 Further, high land prices in the central denser areas of cities push developers to build
+social housing on cheaper land, at urban peripheries far from services, public transport, and employment opportunities.
+Both housing supply and demand for lower-income households are driving low-density urban expansion. Recent studies
+of urban expansion provide evidence of the links between sprawl and GHG emissions. A 1 percent increase in the share of
+population living in low-density suburban areas is associated with a 0.41 percent increase in GHG emissions in Latin
+American cities (this increase reaches 0.8 percent for cities with population above 1 million and 1.3 percent for large cities
+like Lima). Urban sprawl drives up the carbon footprint due to higher transportation needs, congestion, and the higher
+energy cost of providing basic services; it also reduces economic potential and economic dynamism of urban areas.55 By
+contrast, a 1 percent increase in population density is associated with a reduction of 0.58 percent in per capita CO2
+emissions. 56 Urban expansion also often leads to occupation of land exposed to natural disaster risks, which is made worse
+by the low quality of self-constructed houses.
+54. There are important policy gaps to address barriers preventing the private sector in Peru from revitalizing and
+densifying urban centers. The lack of a regulatory framework for urban renewal has limited private investment in the
+provision of centrally located affordable housing. A critical aspect to break this vicious cycle is to introduce a new toolkit
+of incentives and land management instruments to facilitate redevelopment of centrally located but underutilized land
+plots and encourage the private sector to develop housing (including affordable units) in city centers. There is also a need
+to expand financing instruments for the provision of affordable housing, without which, urban growth will continue to be
+led by self-built homes in available plots.
+55. Substance of the Trigger. With the aim of promoting the provision of decent, affordable, adequate, and sustainable
+housing while fostering low-carbon urban development, the MVCS has prepared draft regulations of the Sustainable
+Urban Development Law to: (i) establish urban management and land value capture instruments; and (ii) introduce a new
+set of financial incentives to promote the supply of SIH. Together, they are expected to provide a new regulatory
+framework that will promote a denser, more compact, and inclusive urban development. The new urban management
+and land value capture instruments will boost local governments’ urban management capabilities through the provision
+of a set of land management and financing instruments for urban transformation and for regeneration of centrally located
+but underutilized lands. In addition, these reforms are expected to support the reduction of the housing deficit with
+instruments that incentivize densification, a more compact urban development, reducing the need to invest and expand
+trunk infrastructure to urban peripheries and supporting the use of public transit modes and existing urban amenities.
+They are also aligned with previous efforts (Sustainable Building Code 2021 - supported under the previous DPL series)
+which mandate the incorporation of energy and water efficiency standards and bioclimatic design in the provision of
+sustainable SIH projects. Thus, new affordable housing solutions are expected to offer safer, more energy efficient and
+climatic adaptable dwellings to low-income and vulnerable groups in centrally located areas. This Trigger will thus help a
+
+
+52 equivalent to 1.9 million households or 23 percent of all households. “Censo Nacional de Población y Vivienda,” INEI, 2017.
+53 World Bank. (2021). La vivienda en el Perú: Un instrumento para la recuperación económica inclusiva y resiliente. Washington, DC: The World Bank.
+54 Álvaro Espinoza and Ricardo Fort, “La expansión urbana en el Perú 2001–2018, Development Analysis Group (GRADE),” 2020.
+
+55   Lall, S. V., Lebrand, M., Park, H., Sturm, D., & Venables, A. J. (2021). Pancakes to Pyramids: City Form to Promote Sustainable Growth. Washington, DC.
+56 R. Van der Borght and M. Pallares Barbera, “How Urban Spatial Expansion Influences CO Emissions in Latin American Countries,” Cities 139 (August 2023): 104389,
+                                                                                        2
+[Link]
+
+
+                                                                                                                                                               Page 18
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+shift towards a lower-carbon urban development model reducing the urban carbon footprint, while boosting access to
+housing, services, public and non-motorized transport, and employment opportunities.
+56. Expected results. The introduction of the SIH regulation and the regulation on urban management and land value
+capture instruments is expected to result in an increase in the provision of affordable and centrally located social housing.
+By 2027, the supported reform is expected to result in at least 46,000 SIH units with construction licenses in consolidated
+urban areas, thereby reducing urban sprawl and contributing to reducing urban carbon footprint.
+Prior Action # 7. To strengthen forest monitoring and control of illegality in the forest sector in the Amazon, the Regional Governments of Ucayali and
+Loreto have issued resolutions establishing their respective Forestry and Wildlife Information Management Units responsible for providing satellite
+georeferenced information and data to the Regional Forestry and Wildlife Control and Surveillance Roundtables (MRCVFFS), through regional
+government resolutions.
+
+57. Rationale. Deforestation in the Peruvian Amazon results from multiple factors, including limited capacity of regional
+governments for monitoring and controlling forest resources. Despite the existence of the Forestry and Wildlife Control
+and Surveillance National System (SNCVFFS, for its acronym in Spanish), the actual operational monitoring and
+enforcement must be implemented at the regional level to be effective. To achieve this, each regional government in the
+Peruvian Amazon must establish a MRCVFFS and a Forestry and Wildlife Information Management Unit to have
+appropriate tools and be fully operational to monitor and control illegal forestry and related activities impacting
+deforestation and land degradation. In Peru, out of the seven MRCVFFs established, 57 only two are fully operational with
+active Information Management Units equipped with geographic information systems (GIS) and datasets to effectively
+monitor and control deforestation. The absence of fully operational Forestry and Wildlife Information Management Unit
+hinders the forest monitoring and control capacities of regional governments, their capacity to act on reported illegal
+forestry activities, and effectiveness of regional response mechanisms, all of which are central to addressing deforestation
+and illegal forest activities. 58
+58. Substance of the prior action. To strengthen forest monitoring and control of illegal deforestation in the Amazon, the
+Borrower, through the regional governments of Ucayali and Loreto, has issued regional government resolutions,
+establishing and expanding their respective Forestry and Wildlife Information Management Units responsible for providing
+satellite georeferenced data to the MRCVFFSs. This PA addresses critical gaps in regional-level implementation of the
+SNCVFFS by ensuring regional authorities are equipped with the infrastructure, funding, and clear mandates needed to
+fulfill their monitoring and control roles over illegal forestry and forest degradation, including the availability of geospatial
+data for detecting and addressing illegal forestry activities. The PA’s focus is not only on improving monitoring capabilities
+but also on fostering better coordination within the SNCVFFS, enabling more effective responses to complaints of illegality.
+While outcomes such as reduced illegal deforestation are expected in the long term, immediate benefits lie in
+operationalizing regional monitoring systems as an essential foundation for future progress. The PA also supports the
+operationalization of the National Forest and Wildlife Policy by enhancing institutional and operational capacities. Through
+this PA, the Forestry and Wildlife Information Management Units in Loreto and Ucayali will cover 57 percent of the
+remaining forests of the Peruvian Amazon, enabling greater oversight and action in areas prone to deforestation. The PA
+directly contributes to Peru’s emission mitigation and decarbonization goals, by strengthening regional monitoring and
+control capacities to increase prevention and protection of forestry, and reduce illegal forestry and forest and land
+degradation, thereby reducing emissions from deforestation and increasing conservation of carbon sinks.
+59. Indicative Trigger. To further strengthen forest monitoring and control in the Amazon the Borrower is preparing a
+Supreme Decree that defines the mechanisms and procedures for the joint intervention of relevant sector ministries and
+entities of the SNCVFFS. The Borrower has also approved the establishment of MRCVFFS in the departments of Amazonas,
+
+57 To date, seven MRCVFFSs have been established by the Departments of San Martín, Ucayali, Loreto, Madre de Dios, Lambayeque, Tumbes, & Huánuco.
+58 World Bank. (2024). Policies to Reduce Deforestation in Peru: Políticas para reducir la deforestación en el Perú. Washington, DC: The World Bank.
+
+
+
+
+                                                                                                                                                       Page 19
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+Cusco and Junín, to be fully operational at the regional level for about 68 percent of the remaining Amazon forests in Peru.
+These interventions will enhance coordination across key regions, ensuring comprehensive coverage of forest monitoring
+and control activities in the Peruvian Amazon.
+60. Expected results. The reforms supported by this PA and trigger are expected to significantly enhance the capacity of
+regional governments to monitor and control illegal forestry activities in the Peruvian Amazon, expanding regional
+operationalization coverage to approximately 68 percent of the remaining Amazon forests. This expansion will allow for
+better-informed, managed, and coordinated control of illegal activities, increasing responsiveness of regional
+governments to illegal forestry activities, thereby directly contributing to reducing deforestation. The reform will also
+double the existing number of MRCVFFs fully operational by establishing two Forestry and Wildlife Information
+Management Units, which will strengthen the responsiveness of the MRCVFFs to complaints of illegal activities. 59
+Specifically, it is anticipated that the percentage of complaints regarding illegal forestry activities addressed according to
+the procedures of the SNCVFFS will increase from 65 percent in 2024 to 90 percent by December 2027. This reflects the
+anticipated improvements in coordination and action across government levels, which over time will lead to reductions in
+illegal deforestation.
+
+ C. Consultations and Collaboration with Development Partners
+61. The objectives, pillars, policy actions, and expected results of the operation have been defined in collaboration with
+GoP’s key sectoral entities through a consultation process led by the Ministry of Economy and Finance (MEF).
+Additionally, the operation’s task team maintained an ongoing dialogue with representatives from key line ministries,
+agencies, and sectoral entities, including the MEF, PCM, MVCS, MTC, MINEM, CENEPRED (National Center for Disaster Risk
+Assessment, Prevention and Reduction), National Forest and Wildlife Service (SERFOR), Urban Transport Authority for
+Lima and Callao (ATU), and ANIN. The PAs have undergone the necessary national consultation process, as part of their
+approval processes, 60 with many of them (such as PAs 1, 2, 4, 6, & 7) publishing draft regulations on their ministerial
+websites for comments and sharing them among relevant sector ministries and subnational governments for feedback.
+Furthermore, all bills presented to Congress are entered into the Congress’ virtual legislative forums to encourage citizen
+and civil society participation during the legislative process. 61
+62. The DPF operation is part of the WBG’s broader program of support for Peru and has benefited from close
+coordination with development partners. These include the IMF, Inter-American Development Bank (IADB), German
+Agency for International Cooperation (GIZ), German Development Bank (KfW), Swiss State Secretariat for Economic Affairs
+(SECO), and French Development Agency (AFD) under the overall guidance of the MEF. Some of the PAs supported by this
+program are informed by long-standing TA from the WB and other international partners. Staff from these institutions
+have met regularly to coordinate efforts and align messages. For instance, in conjunction with the Bank, SECO has
+developed TA on urban development and land management instruments, which are reflected in Trigger#6, and the WB
+has closely coordinated with IADB and AFD regarding urban and housing technical cooperation provided to the GoP. In
+the transport sector, the WB has collaborated closely with GIZ and KfW to support the development of safe Non-motorized
+Transportation infrastructure.
+
+ IV. OTHER DESIGN AND APPRAISAL ISSUES
+ A. Poverty and Social Impacts
+
+59 Although measurable reductions in illegal activities may take several years, these actions will lay the necessary groundwork for regional governments to effectively
+
+tackle illegal forestry and implement sustainable forest management practices.
+60 According to Article 14 of Supreme Decree No. 001-2009-JUS, public agencies are required to publish draft bills in the official gazette, on their electronic portals
+
+(websites), or through any other means, at least 30 days prior to the scheduled date for the bill’s entry into force, except in exceptional cases.
+61 The No. 9 2012 2013/COUNCIL-CR Agreement of the National Congress’ Directive Board stipulates that all bills of law that are presented and published, are entered
+
+in the Congress’ virtual legislative forums.
+
+
+                                                                                                                                                              Page 20
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+63. Prior actions under Pillar I, are anticipated to yield both direct and indirect benefits for household welfare and
+poverty reduction by minimizing disaster losses and improving public services. The strengthening of the National DRM
+System is expected to contribute to poverty reduction by lowering potential losses and improving recovery capabilities of
+poor households affected by disasters (PA1). 62 Additionally, strengthening territorial planning and promoting a resilient
+occupation of the territory is likely to decrease the number of people living in hazard-prone areas, thereby mitigating the
+adverse effects of climate disasters on incomes and further reducing poverty (PA2). 63 Improving resilience in the provision
+of WSS services is projected to positively influence household welfare and contribute to poverty reduction by improving
+the quality of these services at home and through access to better production procedures. 64 Assuming health
+improvements result from this program, it could lead to a reduction in the health budget and consequently to poverty
+alleviation (PA3). 65 Furthermore, enabling the implementation of resilient infrastructure investments is expected to
+enhance household welfare and indirectly promote poverty reduction by improving the quality of production and assets. 66
+Flood risk investments supported ANIN can also create job opportunities, leading to an increase in household incomes
+(PA4). 67
+64. Prior actions under Pillar II, are expected to have indirect positive effects on household welfare and poverty
+reduction. Initiatives to decarbonize the power sector and stimulate private investment in clean energy (PA5) are expected
+to create job opportunities (assuming an increase in investment) 68 and enhance public health by reducing GHG
+emissions. 69 Furthermore, lowering household energy costs can contribute to alleviating poverty.70 Promoting low-carbon
+transportation and electromobility is also expected to contribute to lowering air pollution and indirectly to poverty
+reduction through improving health and minimizing risks associated with zero-carbon modes, thereby reducing the
+likelihood of incurring health expenses and losing income due to accidents (PA6). 71 Strengthening forest monitoring and
+control to support reducing deforestation in the Amazon is expected to indirectly contribute to poverty reduction by
+facilitating the efficient development of other productive activities such as agriculture, and the reduction of future health
+concerns (PA7). 72 However, the transition to a carbon-neutral economy may temporarily increase poverty due to
+decreased activity and job losses in high-emitting sectors. 73
+
+ B. Environmental, Forests, and other Natural Resources Aspects
+65. The policy program was screened and PAs 2, and 7 are expected to have a significantly positive effects on Peru’s
+environment, forests, and other natural resources. Based on a screening and assessment of the PAs under the proposed
+operation and their short- and long-term effects in Peru as well as other contexts, significant positive impacts are expected
+for PA2 and PA7. PA2 is expected to promote climate resilient and sustainable environmental management through
+territorial planning. The integration of environmental authorities into the planning governance system has proven
+significantly effective in conservation efforts. 74 PA7 is expected to result in significantly positive long-term effects through
+
+62 World Bank 2021.Overlooked: Examining the impact of disasters and climate shocks on poverty in the Europe and Central Asia region. Washington, DC.
+63 World Bank Group 2023. The Impact of Infrastructure on Development Outcomes: A Qualitative Review of Four Decades of Literature.
+64 Access to water is relevant for local farmers and entrepreneurs who process raw goods for food, improving their quality and price.
+65 World Health Organization and the United Nations Children’s Fund (UNICEF) 2023. Water, sanitation, hygiene, waste and electricity services in health care facilities:
+
+progress on the fundamentals. 2023 global report.
+66 Medeiros et al. 2021. Infrastructure and household poverty in Brazil: A regional approach using multilevel models. World Development, 131, 1-14.
+67 Hansen et al. 2019. Climate risk management and rural poverty reduction. Agricultural Systems, 172, 28-46.
+68 Wirawan and Gultom 2021. The effects of renewable energy-based village grid electrification on poverty reduction in remote areas: The case of Indonesia. Energy
+
+for Sustainable Development, 62, 186-194.
+69 Mneimneh et al. 2023. Roadmap to Achieving Sustainable Development via Green Hydrogen. Energies, 16(3), 1-25.
+70 Yadoo and Cruickshank 2012. The role for low carbon electrification technologies in poverty reduction and climate change strategies: A focus on renewable energy
+
+mini-grids with case studies in Nepal, Peru and Kenya. Energy Policy, 42, 591-602.
+71 Liu, Zheng, and Wang 2020. Does air pollution aggravate income inequality in China? An empirical analysis based on the view of health. Journal of Cleaner Production,
+
+271. and Huang 2016. Identifying risk factors for household burdens of road traffic fatalities. BMC Public Health, 16, 1-11.
+72 Wajim 2020. Impacts of Deforestation on Socio-Economic Development and Environment in Nigeria. The International Journal of Social Sciences.
+73 Mneimneh et al. 2023. Roadmap to Achieving Sustainable Development via Green Hydrogen. Energies, 16(3), 1-25.
+74 See World Bank. 2007. Liveable cities: the benefits of urban environmental planning - a cities alliance study on good practices and useful tools.
+
+
+
+
+                                                                                                                                                               Page 21
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+strengthening GoP’s capacity to monitor, control and combat deforestation. Addressing institutional weakness, which was
+considered enablers of deforestation, is anticipated to lead to conservation outcomes with positive effects similar to those
+outlined in the analysis of PA2. 75
+66. To mitigate any potential adverse environmental impact, Peru’s has a robust system in place for effective
+management. The country’s Environmental Impact Assessment (EIA) framework is particularly robust, 76 ensuring that
+investments with potential adverse impacts are managed primarily through the National Environmental Impact
+Assessment System (SEIA), established under Law No. 27446 and Decree No. 019-2009-Ministry of Environment (MINAM
+for its acronym in Spanish). The legislation mandates the development of an EIA for projects that may prompt negative
+environmental impacts. In terms of capacity, Peru scored average among its Latin America & Caribbean peers according
+to the Environmental Performance Index. 77 Similar to other Latin American countries, the SEIA has faced challenges such
+as inefficiencies and delays, which can affect project approvals and increase costs.78 However, Peru has invested in
+developing institutional capacity to enhance efficiency, monitor and enforce compliance with national environmental
+legislation through MINAM and the Environmental Assessment Control Agency, supported by previous and ongoing WB
+support. Please find more details in Annex 3.
+     C. PFM, Disbursement, and Auditing aspects
+67. Peru’s public financial management (PFM). Peru’s budgeting practices meet most of the principles of the IMF Fiscal
+Transparency Code at a good or advanced level and increased the budget availability of information ranking 71 out of
+125 in the Open Budget Survey. 79 Although moderate shortcomings exist, they do not pose material risks to the
+operation’s development objectives. The areas for improvement include challenges in the medium-term budget planning,
+which are reflected in constant changes in the initially approved budget compared to the executed budget.
+68. Budget transparency and control are reflected in the budget policy which is formulated using a Multiannual
+Macroeconomic Framework. The legal framework establishes clear procedures for preparing, approving, and executing
+the budget. The transparency section of the MEF’s website provides access to information on budget execution and
+reports available in programmatic, functional, and administrative classifications. Budget execution, the Single Treasury
+Account, and monitoring occur through the integrated financial management system (SIAF for its acronym in Spanish). 80
+The use of budget resources does not pose material risks to the development objectives of the operation.
+69. Public Procurement System. Public procurement is governed by the Public Procurement Law (Ley de Contrataciones
+del Estado), its amendments and rulings, which establish the criteria to carry out procurement with transparency,
+efficiency, competitivity, equality, and integrity. The Public Procurement Law complies with good international practices
+related to the control of public procurement regarding independent control institutions and the existence of defined
+mechanisms of control under the direction of the General Comptroller. In addition, for public procurement, the electronic
+procurement system (SEACE for its acronym in Spanish) is mandatory, easily accessible, and free for all user levels,
+providing information on contracting procedures. Therefore, no major procurement risks related to the implementation
+of the PAs are expected. In addition, a new Procurement Law has been sanctioned, 81 which will enter into force ninety
+(90) calendar days after the day following the publication of its Regulation, which is under preparation. The new
+Procurement Law will further strengthen the regulatory framework to make effective the timely procurement of goods,
+
+
+75 World Bank Group.2022. Peru - Country Climate and Development Report. Washington, D.C.: World Bank Group. See
+76 According to the EPI index, Peru scored among the highest in the Latin America and Caribbean region
+77 Peru showed scored average among LAC peers (46.5) . https://epi.yale.edu/
+
+78   World Bank. 2022. Peru - Enabling a Green and Resilient Development Development Policy Financing. Washington, D.C. : World Bank
+Group.https://documentsinternal.worldbank.org/search/33758936
+79 https://internationalbudget.org/sites/default/files/country-surveys-pdfs/2023/open-budget-survey-peru-2023-en.pdf
+80 SIAF (Perú’s integrated financial management system – in Spanish: Sistema Integrado de Administración Financiera)
+81 Law 32069 published on June 24, 2024.
+
+
+
+
+                                                                                                                             Page 22
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+services and works, with the purpose of maximizing the value for money and the use of public resources in the
+procurement of goods, services and works by the Government.
+70. Foreign Exchange Management (FOREX). FOREX internal control environment as managed by the BCRP do not pose
+material risk to the development objectives of the operation. The published audited financial statements of the BCRP for
+2023 were reviewed and they are aligned with International Financial Reporting Standards. 82 The audit was carried out in
+accordance with the International Standards on Auditing by an audit firm acceptable to the WB. Unmodified audit opinions
+did not reveal significant issues related to the internal control environment, and the FOREX internal control environment
+indicates the country has arrangements in place to ensure that loan proceeds reach the country’s official FOREX reserves,
+before being credited to an account of the government to finance budgeted expenditures.
+71. Funds Flow Arrangements and Auditing aspects. Upon effectiveness of the Loan Agreement, and the fulfillment of
+applicable withdrawal conditions, the Borrower may submit a disbursement application requesting the loan proceeds to
+be disbursed into an account at the BCRP, which is part of the country’s FOREX reserves. Withdrawal applications may be
+submitted up to the Program’s Closing Date. The funds will then be transferred into the Single Treasury Account managed
+by MEF at the BCRP. Transactions and balances will be fully incorporated into the GoP’s accounting records and financial
+statements through SIAF. The GoP within 45 days after the withdrawal of funds from the financing account, shall report
+to the WB: (i) the exact sum received into the account referred to in Section 2.03 (a) of the General Conditions; (ii) the
+details of the account to which the local currency equivalent of the loan proceeds was credited; and (iii) the record that
+an equivalent amount has been accounted for in the GoP’s budget management systems. Given the adequacy of the
+control environment into which the DPF proceeds would flow, the WB will not require a dedicated account at the BCRP
+for managing loan proceeds. On this basis, no specific audit of the deposit of the loan proceeds and no additional fiduciary
+arrangements are considered necessary.
+ D. Monitoring, Evaluation, and Accountability
+72. As the implementing entity, the MEF is responsible for monitoring the implementation of the program and progress
+toward achieving results. The MEF will coordinate actions among the agencies involved in the reform program, including
+MEF, PCM MVCS, MTC, MINEM, INDECI (National Institute of Civil Defense), CENEPRED, SERFOR, ATU, and ANIN. The WB
+has worked closely with the MEF and relevant sectoral entities to establish clear and measurable results indicators.
+Monitoring and evaluation of the operation will occur through ongoing policy dialogue during the preparation of any
+subsequent operations and the accompanying TA projects.
+73. Grievance Redress. Communities and individuals who believe that they are adversely affected by specific country
+policies supported as Prior Actions or tranche release conditions under a World Bank Development Policy Financing may
+submit complaints to the responsible country authorities, appropriate local/national grievance mechanisms, or the Bank’s
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+pertinent concerns. Project affected communities and individuals may submit their complaint to the WB’s independent
+Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm occurred, or could
+occur, as a result of WB non-compliance with its policies and procedures, and the Dispute Resolution Service, which
+provides communities and borrowers with the opportunity to address complaints through dispute resolution. Complaints
+may be submitted at any time after concerns have been brought directly to the WB’s attention, and Bank Management
+has been given an opportunity to respond. For information on how to submit complaints to the World Bank’s corporate
+Grievance Redress Service (GRS), please visit http://www.worldbank.org/GRS. For information on how to submit
+complaints to the Bank’s Accountability Mechanism, please visit https://accountability.worldbank.org.
+
+
+
+82 Given that an IMF Safeguard Assessment Report has not been done since 2007.
+
+
+
+
+                                                                                                                     Page 23
+       The World Bank
+       Green and Resilient Development for a Decarbonized Economy in Peru DPF DDO (P181263)
+
+
+
+ V. SUMMARY OF RISKS AND MITIGATION
+74. The overall risk rating for the proposed operation is assessed as Moderate. The key risk ratings are included in the
+table below. The major risks identified include: (i) political and governance; and (ii) institutional capacity for
+implementation and sustainability.
+75. Political and governance risks are considered Substantial. Peru is experiencing significant political volatility,
+characterized by frequent turnover of high-level government officials at the ministerial level. This trend is likely to continue
+during the implementation period of the proposed DPF program, which poses a risk of slower reform implementation,
+and/or a lack of continuity of GoP programs due to shifting priorities. To mitigate these risks, the operation includes
+measures such as: (i) ensuring strong commitment from the administration to the proposed reforms through ongoing
+policy dialogue; (ii) maintaining continuous engagement with key government bodies to ensure that new officials are
+informed of the Program’s objectives and intended outcomes; and (iii) closely monitoring potential political and
+governance risks throughout implementation and the use of adequate mitigation strategies, when necessary. Given that
+political turnover cannot be fully anticipated or mitigated, its impact on achieving the operation’s development outcomes
+is considered Substantial (residual risk).
+76. Institutional capacity for implementation and sustainability risk is rated Substantial due to the involvement of
+multiple agencies under the DPF operation. The success of the proposed reforms will require a high level of coordination
+among line ministries, specialized agencies, and regional and local governments. Coordination among agencies in Peru is
+often weak, and building consensus can be time consuming, potentially leading to delays in implementation. To address
+these risks, the operation prioritizes reforms that benefit from long-standing policy dialogue and TA from the WB and
+other donors. Additionally, certain reforms, such as those supported by the new SINAGERD Law, the draft Territorial
+Planning Law, and forestry reforms are expected to enhance coordination mechanisms by clarifying responsibilities and
+introducing new measures to enforce accountability for policy implementation. Effective mitigation will require
+heightened coordination among line ministries, specialized agencies, and regional and local governments. However, the
+impact on achieving the operation’s development outcomes remains Substantial (residual risk).
+                                   Table 5: Summary Risk Ratings
+ @#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+                                Risk Categories                                                      Rating
+ 1. Political and Governance                                                       Substantial
+ 2. Macroeconomic                                                                  Moderate
+ 3. Sector Strategies and Policies                                                 Moderate
+ 4. Technical Design of Project or Program                                         Moderate
+ 5. Institutional Capacity for Implementation and Sustainability                   Substantial
+ 6. Fiduciary                                                                      Moderate
+ 7. Environment and Social                                                         Moderate
+ 8. Stakeholders                                                                   Moderate
+ 9. Other                                                                         
+ Overall                                                                           Moderate
+
+
+
+
+                                                                                                                         Page 24
+             The World Bank
+             Green and Resilient Development for a Decarbonized Economy in Peru(P181263)
+
+
+ ANNEX 1. Policy and Result Framework
+                                                  Prior actions and Triggers                                                                               Results
+                                                                                                                                                                                     Closing
+                    Prior Actions under DPF 1                                            Triggers for DPF 2                               Indicator Name                 Baseline
+                                                                                                                                                                                     Target
+ Pillar I. Strengthening climate change adaptation
+ Prior Action # 1. To strengthen the SINAGERD, the PCM                        (Indicative) Trigger # 1. To develop clear      Results Indicator #1. Regional             0%         80%
+ modified Law No. 29664 and its regulations to: (i)                           and effective guidelines to measure DR and      governments that have developed            (2024)     (2027)
+ introduce principles of disaster risk (DR) prevention; and                   strengthen disaster response capacity, the      disaster risk prevention, reduction and
+ (ii) strengthen institutional capacity through professional                  PCM has approved mandatory guidelines           emergency response plans. (%)
+ certification in DRM. 83 84                                                  for: (i) the implementation of DR
+                                                                              assessments; and (ii) the acquisition,
+                                                                              storage, and distribution of humanitarian
+                                                                              aid goods for emergency and disaster
+                                                                              relief.
+ Prior Action # 2. To strengthen land use and territorial                    (Indicative) Trigger # 2. To promote orderly     Results Indicator # 2. Subnational         3.9%       6.8%
+ planning incorporating DRM and CC adaptation, the PCM                       and sustainable occupation and use of            governments 86 that have incorporated      (2024)     (2027)
+ has submitted to Congress the Land Use Planning Bill, 85                    territory, the PCM, has approved the             DRM targets and procedures in their
+ that: (i) establishes the SINADOT; (ii) clarifies roles and                 National Policy for Land Use Planning,           land-use planning instruments. (%)
+ facilitates coordination among various authorities                          detailing specific actions and responsible
+ responsible for land use planning; and (iii) integrates                     entities to develop and articulate territorial
+ DRM and CC adaptation across all land-use planning                          planning instruments.
+ instruments.
+ Prior Action # 3. To strengthen and increase social                         (Indicative) Trigger # 3. To promote circular    Results Indicator # 3. Investment          0%         10%
+ inclusion in the provision of WSS services, the MVCS has                    economy and gender inclusion in WSS              projects in the water and sanitation       (2024)     (2027)
+ modified Law No. 1280 to mandate WSS service providers                      service provision, the MVCS, has issued the      sector registered in the repository of
+ to: (i) incorporate circular economy approaches through                     implementing regulations for Legislative         public investments (Banco de
+ the re-use of water; (ii) promote an efficient use of water                 Decree 1620 to introduce: (i) circular           Inversiones) and adjusted technical
+ resources, including in the design of WSS investments;                      economy approach in public and private           profiles that include a circular economy
+ and (iii) incorporate principles of inclusion to promote                    water and sewage service provision ; (ii)        approach. (%)
+
+
+
+83 Legislative Decree No. 1587 published in the Official Gazette on November 24, 2023
+84 Supreme Decree No. 060-2024-PCM published in the Official Gazette on June 8, 2024
+85 Draft Law Nº 5723/2023-PE, Official Letter No. 273-2023-PR on August 16, 2023
+86 Subnational governments include regional, provincial and district governments.
+
+
+
+
+                                                                                                                                                                                         Page 25
+               The World Bank
+               Green and Resilient Development for a Decarbonized Economy in Peru(P181263)
+
+
+                                              Prior actions and Triggers                                                                        Results
+     equal participation of women and men in the sector             prevention and response measures to           Results Indicator # 4. Increase in         13%      15%
+     through a Legislative Decree. 87                               better account for potential emergencies      number of women in decision making         (2024)   (2027)
+                                                                    and disasters in the water and sanitation     positions within WSS utilities,
+                                                                    value chain; and (iii) measurement of         specifically in managerial roles and as
+                                                                    women's participation in WSS service          board members, according to the
+                                                                    providers in the WSS Policy slated for        Multisectoral WSS Policy slated for
+                                                                    publication by the end of 2024.               publication by the end of 2024. (%)
+     Prior Action # 4. To enable the closing of infrastructure                                                    Results Indicator # 5. People              45,000   At least
+     gaps with a territorial and disaster prevention lens and                                                     benefiting from climate resilient          (2024)   2,300,000
+     promote CC adaptation, the PCM has approved the                                                              infrastructure. (Number) 89                         (2027)
+     regulations for Law 31841 that detail ANIN's role in
+     formulating, executing, and maintaining infrastructure
+     projects aimed at preventing and controlling floods and
+     other hazards and supporting climate change adaptation
+     through a Supreme Decree. 88
+     Pillar II – Promoting decarbonized development in selected sectors.
+     Prior Action # 5. To promote decarbonization of the            (Indicative) Trigger # 4. To promote          Results Indicator # 6. Renewable           1,716    At least
+     power sector and private sector investment in                  decarbonization of the power sector and       Energy Capacity enabled with policy        (2024)   2,005
+     renewable energy the MEF has sent to Congress a Bill, 90       private sector investment in clean energy,    support (MW) 91                                     (2027)
+     that extends the validity of the tax benefit to incentivize    the MINEM has issued regulations to enable
+     investment in power generation from renewable energy           distributed generation among small and
+     sources.                                                       medium consumers.
+     Prior Action # 6. To promote low-carbon transportation,        (Indicative) Trigger # 5. To strengthen low- Results Indicator # 7. Share of ICE public 0 %       3%
+     the MINEM has issued a regulation that establishes new         carbon modes of transport, the MTC has       transport vehicles replaced by EVs. (%)    (2023)    (2027)
+     parameters and standards that enable the installation          presented a Supreme Decree on the
+     and operation of charging infrastructure for                   National Strategy for a Professional and
+     electromobility through a Supreme Decree. 92                   Sustainable Public Transport that includes
+                                                                    promoting shifts to electromobility.
+
+
+87 Legislative Decree 1620 on December 21, 2023
+88
+     Supreme Decree N.° 115-2023-PCM published on October 11, 2023
+89 Corporate Result Indicator
+90 Draft Law No. 6747/2023-PE sent to Congress on January 3, 2024
+91 Corporate Result Indicator and PCE Indicator (Non-Monetary)
+92 Supreme Decree No. 036-2023-EM, published on December 31, 2023
+
+
+
+
+                                                                                                                                                                            Page 26
+             The World Bank
+             Green and Resilient Development for a Decarbonized Economy in Peru(P181263)
+
+
+                                             Prior actions and Triggers                                                                                   Results
+                                                                   (Indicative) Trigger # 6. To promote                     Results Indicator # 8. Social housing           0           At least
+                                                                   sustainable urban land management and                    units with construction licenses on             (2023)      46,000
+                                                                   financing mechanisms the MVCS has issued                 consolidated central urban land upon                        (2027)
+                                                                   regulations which (ii) establish urban                   entry into force of the SIH regulations
+                                                                   management and land value capture                        of the Sustainable Urban Development
+                                                                   instruments; and (ii) introduce a new set of             law. (Number) 93
+                                                                   financial incentives to promote the supply
+                                                                   of SIH through Supreme Decrees.
+ Prior Action # 7. To strengthen forest monitoring and             (Indicative) Trigger # 7. To strengthen                  Results Indicator # 9. Complaints             65%           90%
+ control of illegality in the forest sector in the Amazon, the forest monitoring and control of illegality in               received and satisfactorily addressed         (2024)        (2027)
+ Regional Governments of Ucayali and Loreto have issued            the forest sector in the Amazon, Ministry                regarding potentially illegal forestry
+ resolutions establishing their respective Forestry and            of Agriculture Development and Irrigation                activities in the departments of
+ Wildlife Information Management Units responsible for             (MIDAGRI), SERFOR, and the Regional                      Amazonas, Cuzco, Junín, Loreto, San
+ providing satellite georeferenced information and data to governments of Amazonas, Cuzco and                               Martin and Ucayali. (%)
+ the Regional Forestry and Wildlife Control and                    Junín: (i) adopted a Supreme Decree that
+ Surveillance Roundtables (MRCVFFS)., through regional             defines the mechanisms and procedures
+ government resolutions. 94                                        for the joint intervention of competent
+                                                                   sector ministries and various entities of the
+                                                                   SNCVFFS; and (ii) approved resolutions
+                                                                   establishing Regional MRCVFFS in the
+                                                                   departments of Amazonas, Cuzco and
+                                                                   Junín.
+
+
+
+
+93 PCE Indicator (Non-Monetary)
+94Regional General Management Resolution No 376-2023-GRU-GGR from the Regional Government of Ucayali approved on November 13, 2023, and Regional General Management Resolution N.° 446-2023-
+
+GRL-GGR from the Regional Government of Loreto, approved on July 12, 2023
+
+
+                                                                                                                                                                                               Page 27
+       The World Bank
+       Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+ANNEX 2: Paris Alignment
+
+    Program Development Objective(s): To support the GoP in: (i) strengthening climate change adaptation, and (ii) promoting
+    decarbonized development in selected sectors.
+    Step 1: Considering the climate analysis Answer: Yes
+    undertaken, is the operation consistent with Explanation: The Program Development Objective (to support Government
+    the country climate commitments, including policies to: (i) strengthening climate change adaptation, and (ii) promoting
+    for instance, the NDC, NAP, LTS, and other decarbonized development in selected sectors. is directly contributing to the
+    relevant strategies?                                 decarbonization of Peru’s economy and reducing vulnerability to observed and
+                                                         anticipated CC impacts. As such, the PDO is aligned with the Paris Agreement
+                                                         goals.
+    Adaptation and resilience goals: assessing and managing the risks
+    PA # 1. To strengthen the SINAGERD, the PCM modified Law No. 29664 and its regulations to: (i) introduce principles of disaster
+    risk (DR) prevention; and (ii) strengthen institutional capacity through professional certification in DRM.
+    Step A2: Are risks from climate hazards likely Answer: NO
+    to have an adverse effect on the prior Explanation: The contribution of the prior action to the Development Objective
+    action’s contribution to the Development is not likely to be significantly impacted by current or future physical climate risk.
+    Objective(s)?                                      The PA aims to strengthen the country’s disaster risk management system
+                                                       SINAGERD by emphasizing principles such as social solidarity, timely information
+                                                       dissemination, prevention, sustainability, and by enhancing institutional
+                                                       capacities at all levels of government.
+    Conclusion for PA 1: PA1 is aligned with the Paris Agreement.
+     PA # 2. To strengthen land use and territorial planning incorporating DRM and CC adaptation, the PCM has submitted to Congress
+     the Land Use Planning Bill, that: (i) establishes the SINADOT; (ii) clarifies roles and facilitates coordination among various
+     authorities responsible for land use planning; and (iii) integrates DRM and CC adaptation across all land-use planning instruments.
+     Step A2: Are risks from climate hazards likely Answer: NO
+     to have an adverse effect on the prior Explanation: The prior action’s contribution to the development objective is not
+     action’s contribution to the Development likely to be affected by climate hazards since it is promoting a more sustainable
+     Objective(s)?                                     occupation of the territory, which involves regulating land uses and prohibiting
+                                                       occupation in high or non-mitigatable risk areas that are more vulnerable to
+                                                       climate events.
+     Conclusion for PA 2: PA2 is aligned with the Paris Agreement.
+     PA # 3. To strengthen resilience in the provision of WSS services and increase social inclusion in the provision of WSS, the MVCS
+     has modified Law No. 1280 to mandate WSS service providers to incorporate circular economy approaches through the re-use of
+     water, promote an efficient use of water resources, and in the design of WSS investments, and incorporate inclusivity as a guiding
+     principle promoting equal participation of women and men in the sector through a Legislative Decree.
+     Step A2: Are risks from climate hazards likely Answer: NO
+     to have an adverse effect on the prior Explanation: On the contrary, the PA will support the water sector to be better
+     action’s contribution to the Development prepared against climate and natural hazards. More efficient water use, by
+     Objective(s)?                                     reusing water or recycling sanitation subproducts, join to improve of energy use,
+                                                       will help the country to mitigate CC risks and effects.
+     Conclusion for PA 3: PA3 is aligned with the Paris Agreement.
+     PA # 4. To enable the closing of infrastructure gaps with a territorial and disaster prevention lens and promote CC adaptation, the
+     PCM has approved the regulations for Law 31841 that detail ANIN's role in formulating, executing, and maintaining infrastructure
+     projects aimed at preventing and controlling floods and other hazards and supporting climate change adaptation through a
+     Supreme Decree.
+     Step A2: Are risks from climate hazards           Answer: NO
+     likely to have an adverse effect on the prior Explanation: The contribution of the prior action to the Development Objective
+     action’s contribution to the Development          is not likely to be significantly impacted by current or future physical climate
+     Objective(s)?                                     risk. The PA aims to strengthen mechanisms to plan and execute infrastructure
+                                                       aimed at preventing and controlling floods and/or reconstruction efforts
+                                                       following natural disasters.
+     Conclusion for PA 4: PA4 is aligned with the Paris Agreement.
+
+
+
+                                                                                                                                           Page 28
+  The World Bank
+  Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+PA # 5. To promote decarbonization of the power sector and private sector investment in renewable energy the MEF has sent
+to Congress a Bill, that extends the validity of the tax benefit to incentivize investment in power generation from renewable
+energy sources.
+Step A2: Are risks from climate hazards likely Answer: NO
+to have an adverse effect on the prior Explanation: Climate risks are not expected to adversely impact this reform since
+action’s contribution to the Development they are not material to the substance of the reform. In addition, diversifying
+Objective(s)?                                      Peru’s energy mix will increase resiliency to climate change impacts on water
+                                                   hydrology thus ensuring a more resilient energy supply.
+Conclusion for PA 5: PA5 is aligned with the Paris Agreement.
+PA # 6. To promote low-carbon transportation, the MINEM has issued a regulation that establishes new parameters and standards
+that enable the installation and operation of charging infrastructure for electromobility through a Supreme Decree.
+Step A2: Are risks from climate hazards likely Answer: NO
+to have an adverse effect on the prior Explanation: The prior action will support development of new parameters and
+action’s contribution to the Development standards that enable charging infrastructure which could be impacted by climate
+Objective(s)?                                      risk, however, with adequate planning, and accounting for climate risk exposure
+                                                   in specific locations these risks can be minimized. Given that Peru has sufficient
+                                                   capacity for adopting such measures the risk can be considered negligible.
+Conclusion for PA 6: PA6 is aligned with the Paris Agreement.
+PA # 7. To strengthen forest monitoring and control of illegality in the forest sector in the Amazon, the Regional Governments of
+Ucayali and Loreto, have issued resolutions establishing their respective Forestry and Wildlife Information Management
+Units responsible for providing satellite georeferenced information and data to the Regional Forestry and Wildlife Control and
+Surveillance Roundtables (MRCVFFS)., through regional government resolutions.
+Step A2: Are risks from climate hazards likely Answer: NO
+to have an adverse effect on the prior Explanation: Climate hazards will not have any impact on the creation and
+action’s contribution to the Development functioning of the management units created through the prior action.
+Objective(s)?
+Conclusion for PA 7: PA7 is aligned with the Paris Agreement.
+Mitigation goals: assessing and reducing the risks
+PA # 1. To strengthen the SINAGERD, the PCM modified Law No. 29664 and its regulations to: (i) introduce principles of disaster
+risk (DR) prevention; and (ii) strengthen institutional capacity through professional certification in DRM.
+Step M2.1: Is the prior action likely to cause Answer: NO
+a significant increase in GHG emissions?           Explanation: The PA will not result in significant increase in GHG emissions nor
+                                                   reduction of carbon sinks since its focus is on enhancing the country’s DRM
+                                                   system (SINAGERD) and practices at the subnational and sectoral levels thereby
+                                                   helping Peru’s achievement of increased resilience and sustainable development
+                                                   goals. Strengthening of the DRM system is going to increase sustainability of
+                                                   infrastructure, thus reducing future needs for reconstruction.
+Conclusion for PA 1: PA1 is aligned with the Paris Agreement.
+PA # 2. To strengthen land use and territorial planning incorporating DRM and CC adaptation, the PCM has submitted to Congress
+the Land Use Planning Bill, that: (i) establishes the SINADOT; (ii) clarifies roles and facilitates coordination among various
+authorities responsible for land use planning; and (iii) integrates DRM and CC adaptation across all land-use planning instruments.
+Step M2.1: Is the prior action likely to cause Answer: NO
+a significant increase in GHG emissions?           Explanation: the PA will not cause a significant increase in GHG emissions due to
+                                                   its focus on promoting a safer occupation of the territory and sustainable use of
+                                                   resources. On the contrary, territorial planning, informed by CC adaptation and
+                                                   DRM considerations can help the country enhance its resilience to CC-related
+                                                   events and promote adaptation and mitigation at all government levels.
+Conclusion for PA 2: PA2 is aligned with the Paris Agreement.
+PA # 3. To strengthen resilience in the provision of WSS services and increase social inclusion in the provision of WSS, the MVCS
+has modified Law No. 1280 to mandate WSS service providers to incorporate circular economy approaches through the re-use of
+water, promote an efficient use of water resources, and in the design of WSS investments, and incorporate inclusivity as a guiding
+principle promoting equal participation of women and men in the sector through a Legislative Decree.
+Step M2.1: Is the prior action likely to cause Answer: NO
+a significant increase in GHG emissions?           Explanation: The PA will not cause a significant increase in GHS emissions due to
+                                                   its focus on promoting wastewater treatment plants to improve their energy
+
+
+                                                                                                                                        Page 29
+  The World Bank
+  Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+                                                  efficiency, water reuse and sanitation subproducts recycling. In fact, the circular
+                                                  economy approaches introduced by the PA are expected to lead to a reduction of
+                                                  GHG. PA will increase efficiency of water use thus contributing to low-carbon
+                                                  transition.
+Conclusion for PA 3: PA3 is aligned with the Paris Agreement.
+PA # 4. To enable the closing of infrastructure gaps with a territorial and disaster prevention lens and promote CC adaptation, the
+PCM has approved the regulations for Law 31841 that detail ANIN's role in formulating, executing, and maintaining infrastructure
+projects aimed at preventing and controlling floods and other hazards and supporting climate change adaptation through a
+Supreme Decree.
+Step M2.1: Is the prior action likely to cause Step M2.1: Is the prior action likely to cause a significant increase in GHG
+a significant increase in GHG emissions?          emissions? The PA is not likely to cause a significant increase in GHG emissions
+                                                  since it aims to promote risk reduction infrastructure (flood risk) and support
+                                                  reconstruction efforts following natural disasters. The regulation is expected to
+                                                  increase the quality of planning and coordination in delivery of critical climate
+                                                  change resilience infrastructure, thus even if the volume of delivered
+                                                  infrastructure will be increased, it will be offset by increased efficiency and better
+                                                  planning which will help minimize waste and thus GHG emissions. While the PA is
+                                                  expected to result in new infrastructure development (which is likely to produce
+                                                  GHG emissions), is it is resilience infrastructure, so it is expected to protect other
+                                                  infrastructure and buildings from effect of natural disasters and extreme weather,
+                                                  through which the need for reconstruction will be reduced, which will contribute
+                                                  to low carbon transition.
+Conclusion for PA 4: PA4 is aligned with the Paris Agreement.
+PA # 5. To promote decarbonization of the power sector and private sector investment in renewable energy the MEF has sent
+to Congress a Bill, that extends the validity of the tax benefit to incentivize investment in power generation from renewable
+energy sources.
+Step M2.1: Is the prior action likely to cause Answer: NO
+a significant increase in GHG emissions?         Explanation: This PA is universally aligned since it promotes investments in
+                                                 power generation from renewable sources with negligible lifecycle GHG
+                                                 emissions. The PA will promote the entry of new conventional and NCRE into
+                                                 Peru’s energy matrix, thus supporting the reduction of GHG emissions, helping
+                                                 the country to reach its climate targets.
+Conclusion for PA 5: PA5 is aligned with the Paris Agreement.
+PA # 6. To promote low-carbon transportation, the MINEM has issued a regulation that establishes new parameters and standards
+that enable the installation and operation of charging infrastructure for electromobility through a Supreme Decree.
+Step M2.1: Is the prior action likely to cause Answer: NO
+a significant increase in GHG emissions?         Explanation: The PA will not result in an increase of GHG emissions due to its
+                                                 focus on increasing attractiveness of electric vehicles and facilitating low carbon
+                                                 transition in the transport sector. The PA is expected to support the transition to
+                                                 non-motorized modes of transport, thus supporting low carbon transition. GHG
+                                                 emissions associated with development of charging infrastructure, can be
+                                                 considered minor.
+Conclusion for PA 6: PA6 is aligned with the Paris Agreement.
+PA # 7. To strengthen forest monitoring and control of illegality in the forest sector in the Amazon, the Regional Governments of
+Ucayali and Loreto, have issued resolutions establishing their respective Forestry and Wildlife Information Management Units
+responsible for providing satellite georeferenced information and data to the Regional Forestry and Wildlife Control and
+Surveillance Roundtables (MRCVFFS)., through regional government resolutions.
+Step M2.1: Is the prior action likely to cause Answer: NO
+a significant increase in GHG emissions?         Explanation: The intention of the policy action is to reduce illegal forestry
+                                                 activities so the expected results would reduce Peru’s GHG emissions. The PA is
+                                                 expected to strengthen forest protection, thus contributing to low carbon
+                                                 transition.
+Conclusion for PA 7: PA7 is aligned with the Paris Agreement.
+
+
+
+
+                                                                                                                                           Page 30
+  The World Bank
+  Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+OVERALL CONCLUSION OF PARIS ALIGNMENT ASSESSEMENT: The DPF is fully aligned with and supporting the mitigation and
+resilience goals of the Paris Alignment.
+
+
+
+
+                                                                                                                     Page 31
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+ANNEX 3. Operation Specific Annex: Environment & PSIA
+Environment and Poverty/Social Analysis
+
+
+                                                                                   Significant poverty, social or distributional effects positive or
+    Prior Actions       Significant positive or negative environment effects
+                                                                                                               negative
+
+
+
+Pillar I: Strengthening climate change adaptation
+                                                                                 Positive indirect effects by mitigating the adverse effects of
+PA # 1                 Positive                                                  natural disasters on vulnerable populations, resulting in fewer
+                                                                                 injuries and preserving assets.
+                       Significant Positive. PA is expected to promote
+                       sustainable environmental management through
+                                                                                 Positive indirect effects by reducing the population affected by
+PA # 2                 territorial planning. The integration of environmental
+                                                                                 natural disasters, resulting in fewer injuries and preserving assets.
+                       authorities into planning has proven significantly
+                       effective in conservation globally.
+                                                                                 Positive indirect effects by improving health, creating new jobs in
+                                                                                 recycling, waste management, or sustainable resource
+PA # 3                 Positive
+                                                                                 management through promoting circular economies in water and
+                                                                                 sanitation.
+                                                                                 Positive indirect effects by creating opportunities for trading
+PA # 4                 Neutral                                                   connections and job creation, and the protection of production
+                                                                                 and assets.
+Pillar II: Promoting a decarbonized development in selected sectors
+                     Positive. Potential negative effects could arise from the
+                     development of Non-Conventional Renewable Energy
+                     (NCRE) projects if not adequately managed. However,         Potential temporary negative effects by reduced economic
+                     Peru's legal framework, particularly the EIA regulations    activity and job losses in high-emitting industries due to
+PA # 5
+                     in Peru, established under the National System for the      decarbonizing the power sector, requiring worker reallocation to
+                     SEIA through Law No. 27446, play a crucial role in          greener sectors and robust re-employment training programs.
+                     mitigating potential environmental damage.
+
+                     Positive. Potential negative effects could arise if EVs are
+                     not adequately managed and disposed of. However,
+                     Peru's legal system, particularly Supreme Decree No.        Positive indirect effects by creating job opportunities, improving
+PA # 6
+                     009-2019-MINAM, addresses this by establishing a            health and reducing household energy costs.
+                     special regime for the management and handling of
+                     waste from electrical and electronic equipment (WEEE).
+                      Significant Positive. Significantly positive long-term     Positive indirect effects by creating sustainable forestry jobs for
+                      effects through strengthening the institution's            local communities, providing alternative income sources through
+PA # 7
+                      capacities, particularly in forest monitoring and control strengthening forest control and surveillance in the Amazon, and
+                      to combat deforestation                                    reducing future health problems.
+
+
+
+
+                                                                                                                                             Page 32
+    The World Bank
+    Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+ANNEX 4: Required Accompanying Documentation
+
+ 1. Letter of Development Policy
+
+
+
+
+                                                                                   Page 33
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 34
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 35
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 36
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 37
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 38
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 39
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 40
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 41
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 42
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 43
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 44
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 45
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 46
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 47
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 48
+   The World Bank
+   Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+2. Funds Relations Note
+
+
+
+
+                                                                                  Page 49
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 50
+The World Bank
+Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+
+
+                                                                               Page 51
+          The World Bank
+          Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+    3. Bibliography
+
+  Prior                                 Bibliography                                            Operational Support
+ Actions
+Pillar 1: Strengthening climate change adaptation
+             •   Hallegatte, S., Bangalore, M., Fay, M., Kane, T., Narloch, U.,   Sustainable Growth and Finance DPF-DDO
+                 Rozenberg, J., Treguer, D., & Vogt-Schilb, A. (2016). Shock      (P178591)
+                 Waves: Managing the Impacts of Climate Change on Poverty.        Enabling a Green and Resilient Development DPF
+                 Washington, DC: The World Bank.                                  series (P177765 and P179214);
+                 https://doi.org/10.1596/978-1-4648-0673-5
+ PA # 1
+             •   The World Bank. (2021). Institutions, inclusion and territory:
+                 Proposals to strengthen resilience to disaster risk in Peru.
+                 Washington, DC: The World Bank.
+             •   The World Bank. (2022). Peru Country Climate and
+                 Development Report. Washington, DC: The World Bank.
+                                                                                  Sustainable Growth and Finance DPF-DDO
+                                                                                  (P178591)
+             •   World Bank. (2020). Institucionalidad, inclusión y territorio:   Enabling a Green and Resilient Development DPF
+ PA # 2          Propuestas para fortalecer la resiliencia del Perú frente a      series (P177765 and P179214)
+                 desastres. Washington, DC: The World Bank.                       National Urban Cadaster and Municipal Support
+                                                                                  Project (P162278); Strengthening Urban Cadasters
+                                                                                  for Urban Governance in Peru (P176222)
+             •   World Bank. (2023). Water Security Diagnostic: Peru Strategic    Peru Circular Economy for Water Supply and
+                 Actions Toward Water Security. Washington, DC: The World         Sanitation Service Delivery Project (P505093)
+ PA # 3          Bank.
+              • World Bank. (2019). Women in Water Utilities: Breaking
+                 Barriers. Washington, DC: The World Bank.
+            • OECD. (2017). La contratación pública en el Perú: Reforzando        Sustainable Growth and Finance DPF-DDO
+                capacidad y coordinación. Paris: OECD Publishing.                 (P178591)
+                https://doi.org/10.1787/9789264289661-es                          Enabling a Green and Resilient Development DPF
+            • Leiva Calderón, D. (2023). Desafíos para una inversión pública de series (P177765 and P179214);
+                calidad en Perú. Ponencia.
+                https://observatorioplanificacion.cepal.org/sites/default/files/s
+                ession/Daniel%20Leiva%2C%20Desaf%C3%ADos%20para%20un
+                a%20inversi%C3%B3n%20p%C3%BAblica%20de%20calidad.pdf
+            •    MEF. (julio de 2019). Plan Nacional de Infraestructura para la
+ PA # 4         Competitividad. Retrieved from
+                https://ww.mef.gob.pe/contenidos/inv_privada/planes/PNIC_2
+                019.pdf
+                MEF. (2021). Plan Nacional de Competitividad y Productividad.
+                Retrieved from
+                https://www.gob.pe/institucion/mef/campa%C3%B1as/229-
+                plan-nacional-de-competitividad-y-productividad
+
+
+
+
+Pillar 2: Promoting decarbonized development in selected sectors
+
+
+
+
+                                                                                                                            Page 52
+         The World Bank
+         Green and Resilient Development for a Decarbonized Economy in Peru (P181263)
+
+
+          •   IMF, OECD, United Nations (UN), & World Bank (WB). (2015).             Enabling a Green and Resilient Development DPF
+              Opciones para el uso eficaz y eficiente de los incentivos fiscales a   series (P177765 and P179214)
+              la inversión en países de ingreso bajo. Washington, DC: The            Transmission Investment Plan (PIT) to support
+              World Bank.                                                            Post-COVID-19 Green Economic Recovery in Peru
+          •   World Bank. (2023). Scaling Up to Phase Down: Financing Energy         (P174812)
+              Transitions in the Power Sector. Washington, DC: The World             Peru Energy Systems and Access Engagement
+              Bank.                                                                  (P171140)
+PA # 5 •      IRENA. (2020). Measuring the Socio-Economics of Transition:            Peru Energy Sector Resilience ASA (P172702)
+              Focus on Jobs. Technical Paper 2/2020, International Renewable
+              Energy Agency, Abu Dhabi.
+          •   IEA. (2020). World Energy Outlook Special Report on Sustainable
+              Recovery. Paris: International Energy Agency.
+          •   World Bank, Energy Sector Management Assistance Program
+              (ESMAP). (2023). Jobs for a Livable Plante: Job Creation Potential
+              of the Clean Energy Transition. Washington D.C.
+          •   Costa, E. Et al. (2021). Diffusion of electric vehicles in Brazil from Improving Lima Traffic Management and
+              the stakeholders' perspective. International Journal of                supporting Sustainable Transport (P178842)
+              Sustainable Transportation 15 (11).
+          •   GIZ. (2019). Sistematización de la estimación del parque vehicular
+PA # 6
+              de transporte terrestre circulante a nivel nacional.
+          •   Rodríguez Pérez, B. (2021). Evaluación comparativa de la
+              introducción masiva de vehículos eléctricos en el Perú. Revista
+              Universidad y Sociedad, 13(1), 159-166.
+          •   SERFOR. (2024). Política Nacional Forestal y de Fauna Silvestre al Integrated Forest Landscape Management Project
+              2030. Lima: SERFOR.                                                    in Atalaya, Ucayali (P163023)
+          •    World Bank. (2024). Policies to Reduce Deforestation in Peru:
+              Políticas para reducir la deforestación en el Perú. Washington,
+PA #8
+              DC: The World Bank.
+          •   MIDAGRI. (2024). Draft Decreto Supremo for the Sistema
+              Nacional de Control y Vigilancia Forestal y de Fauna Silvestre.
+              Lima: MIDAGRI.
+
+
+
+
+                                                                                                                              Page 53
+

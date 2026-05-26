@@ -1,0 +1,686 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Belize Blue Cities and Beyond Project (P181064)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Appraisal Stage | Date Prepared/Updated: 26-Aug-2024 | Report No: PIDIA00321
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Belize Blue Cities and Beyond Project (P181064)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                     Operation ID                Operation Name
+                               LATIN AMERICA AND                                      Belize Blue Cities and
+Belize                                                    P181064
+                               CARIBBEAN                                              Beyond Project
+Financing Instrument           Estimated Appraisal Date   Estimated Approval Date     Practice Area (Lead)
+                                                                                      Environment, Natural
+Investment Project
+                               02-Sept-2024               31-Oct-2024                 Resources & the Blue
+Financing (IPF)
+                                                                                      Economy
+Borrower(s)                    Implementing Agency        GEF Focal Area
+                               Ministry of Economic
+The Government of Belize                                  Climate Change
+                               Development
+
+Proposed Development Objective(s)
+To improve Belize's management capacity for sustainable coastal and blue economy development, increase safe water
+supply and reduce land-based pollution discharges at targeted urban areas, and respond effectively in case of an
+eligible emergency.
+
+Components
+Policy Development and Capacity Building
+Water, Sanitation and Waste Management
+Project Management
+Contingent Emergency Response
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 Yes
+Is this project Private Capital Enabling (PCE)?           Yes
+
+SUMMARY
+  Total Operation Cost                                                                                         30.96
+
+  Total Financing                                                                                              30.96
+              of which IBRD/IDA                                                                            23.20
+
+
+                                                                                                                 Page 1
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+
+    Financing Gap                                                                                                                            0.00
+
+ DETAILS
+    World Bank Group Financing
+      International Development Association (IDA)                                                                                          23.20
+         IDA Credit                                                                                                                        23.20
+    Non-World Bank Group Financing
+      Trust Funds                                                                                                                            7.76
+         Global Environment Facility (GEF)                                                                                                   3.76
+         PROBLUE MDTF                                                                                                                        4.00
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+Substantial
+
+
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+ B. Introduction and Context
+ Country Context
+
+
+1.       In 2023, Belize has a population of 410,825, a gross domestic product (GDP) of US$3.28 billion, and a per capita
+GDP over US$7,988.1 Classified as an upper-middle-income country in Central America and a Small Island Developing State
+(SIDS) in the Caribbean Region,2 Belize relies on its coastal and marine ecosystems for the protection of its cities, towns
+and villages, the livelihoods of its fishing families, food security, and the development of its important economic sectors—
+tourism, marine transport and fisheries.3 Despite these assets, Belize maintained a high poverty rate of 35.7 percent in
+the same year, and infrastructure gaps are still identified as one of top constraints to the country’s economic growth.4 For
+instance, the national water and sewerage utility, Belize Water Services Limited (BWS), provides water connection to
+
+
+1 https://data.worldbank.org/.
+2 For country group information, please see https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-
+
+groups. For population information, please see https://sib.org.bz/statistics/population/. For GDP information, please see
+https://data.worldbank.org/country/belize.
+Despite not being an island, Belize shares similar development challenges of a SIDS with close socioeconomic and political ties to the wider
+Caribbean Region and is considered a Caribbean SIDS (see https://sustainabledevelopment.un.org/topics/sids/list).
+3 “Together, the coral reef and the extensive mangroves ecosystem shelter Belize’s extensive coast from storms and high velocity winds that cause
+
+floods and coastal damage.” (World Bank Group. 2017. Country Partnership Framework for Belize).
+4 International Monetary Fund. 2023. Belize: 2023 Article IV Consultation - Staff Report. The country’s official consumption poverty estimates from
+
+2018 indicate that more than half of Belize’s population (52 percent) is poor, 10 percent is extremely poor, and 10 percent is vulnerable.
+
+                                                                                                                                               Page 2
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+about 71% of the population but sanitation connection to only 18% of its water users.5 These infrastructure gaps reflect
+the country’s low urbanization rate of 46.4%, which is low compared to the rates of over 80% for other Caribbean and
+Central American countries, as well as Latin American and Caribbean Region as a whole.6
+
+2.        Under a changing climate, Belize is exceptionally vulnerable to adverse impacts from climate-related shocks.
+Ranked third in terms of disaster risk and fifth in climate change risk among all SIDS, Belize’s coastal areas are threatened
+by hurricanes, storms, coastal erosion, and flooding, while the low-lying terrain of these areas exacerbates the effects of
+flooding and sea level rise.7 Additionally, the degradation and bleaching of coral reefs due to ocean acidification and
+warmer sea temperatures threaten biodiversity, coastal and marine food webs, and the livelihoods of vulnerable
+communities dependent on these ecosystems. Beyond climate-induced shocks, Belize's vulnerability is further
+compounded by its high poverty rates and limited capacity to respond to disasters. With over half of its population living
+in rural areas and dependent on agriculture and fisheries, climate-induced disruptions such as prolonged droughts, erratic
+rainfall, and intensified storms, could lead to significant socio-economic instability. Rapidly expanding urban areas are also
+increasingly unprepared for frequent and severe climate events. These climate-related impacts pose threats to food
+security and livelihoods and worsen poverty, making it harder for communities to recover and adapt. This leads to
+substantial economic losses, health risks, and disruptions to daily life, especially for vulnerable groups like women, girls,
+and the elderly. External shocks, such as increasing energy prices and the COVID-19 pandemic, have the potential to
+weaken the country’s external position and reduce the purchasing power of its population. To address its climate and
+socio-economic vulnerabilities, which disproportionally affect its rural, poor and vulnerable population, Belize has to
+embark on an economic development and urbanization path that are environmentally sustainable, socially inclusive and
+climate resilient.8 Recognizing unique challenges faced by Belize, the International Development Association (IDA) in its
+December 2023 mid-term review granted Belize’s access to IDA financing under its Small Island Economy Exception Policy.
+Belize receives its first IDA allocation in Fiscal Year (FY) 2025.
+
+ Sectoral and Institutional Context
+
+
+3.       Endowed with 386 km of coastline, the largest barrier reef in the northern hemisphere, offshore atolls, numerous
+sand cays, mangrove forests, coastal lagoons and estuaries, Belize has fully embraced the concept of blue economy and
+attached high importance to the conservation and sustainable uses of such blue assets.9 According to the Government of
+Belize, “more than half of the population of Belize depends directly on marine activities”, and “the reef contributes more
+
+
+
+
+5 PlanEHS, 2022. Belize Water Supply and Modernization Program (BL-1043): Environmental and Social Analysis, Environmental and Social
+
+Management Plan (https://bws.bz/media/BL-L1043-ESA-ESMP-First-draft-FFD.pdf).
+6 https://population.un.org/wup/Country-Profiles/.
+7 Economically, the country has recently witnessed high loss caused by Hurricane Lisa in 2022, estimated at about 10 percent of Belize’s national
+
+budget. (Statement by Hon. Orlando Habet, Minister of Sustainable Development, Climate Change and Disaster Risk Management at the 27th
+Conference of the Parties to the United Nations Framework Convention on Climate Change.
+https://unfccc.int/sites/default/files/resource/BELIZE_cop27cmp17cma4_HLS_ENG.pdf)
+8 Bailey, S., and F. Ciardi. 2020. Case Study on Shock-Responsive Social Protection in Belize. Oxford Policy Management and World Food Programme.
+
+https://docs.wfp.org/api/documents/WFP-0000118598/download/.
+9 As a broad concept, blue economy (a) “seeks to promote economic growth, social inclusion, and the preservation or improvement of livelihoods
+
+while at the same time ensuring environmental sustainability of the oceans and coastal areas” and (b) includes traditional sectors (such as fisheries,
+tourism, and maritime transport), emerging sectors (such as offshore renewable energy, mariculture, seabed mining, and marine biotechnology),
+as well as ecosystem services (such as carbon sequestration, coastal protection, waste disposal, and biodiversity). (World Bank and United Nations
+Department of Economic and Social Affairs. 2017. The Potential of the Blue Economy: Increasing Long-term Benefits of the Sustainable Use of
+Marine Resources for Small Island Developing States and Coastal Least Developed Countries. World Bank, Washington DC.)
+
+                                                                                                                                                 Page 3
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+than a billion dollars [about 40 percent] to … national economy through tourism, fisheries, and shoreline protection.”10
+Since 2011, the Government has incorporated the conservation and sustainable use of its blue assets into its national
+development strategies.11 In 2022, Belize launched the country’s first Blue Economy Development, Policy and Strategy
+with a high-level objective that “Belize’s Blue Economy, by year 2030, is productive, sustainable, resilient and vibrant,
+contributing sustainably to the socioeconomic well-being of the country and its people” and its first Belize Maritime
+Economy Plan with concrete recommendations on how to promote sustainable practices for the country’s main blue
+economy sectors—coastal development, tourism, shipping and ports, fisheries—and underscoring the importance of
+developing marine renewable energy, aquaculture and mariculture, and ecosystem services. It is noteworthy that Belize’s
+Updated Nationally Determined Contribution (NDC, August 2021) incorporates crucial climate actions to cut greenhouse
+gas (GHG) emissions by preserving and restoring ecosystems, enhancing waste and wastewater management, and
+bolstering the resilience of the tourism and fisheries sectors.12
+
+4.       As of 2024, Belize has two cities, Belmopan and Belize City, seven towns (mostly along its coast and in its cayes)
+and 192 villages. Cities and towns are governed by an elected mayor and villages managed by village councils. Aside from
+Belmopan and Belize City, Belize’s towns and villages rely on the national government’s financial support for investment
+projects and the provision of essential public services such as waste disposal, roads, markets and parks. These local
+authorities have limited capacity for regulating local planning and development activities, as well as for evaluating and
+collecting property taxes and other local revenues. For instance, San Pedro Town Council has experienced a surge in
+tourism development post-COVID within and beyond its administrative boundaries, yet it struggles to collect adequate
+revenue to provide quality services to its population. At the institutional level, the Ministry of Rural Transformation,
+Community Development, Labor, and Local Government (MRTCDLLG) is responsible for legislation related to city, town
+and village councils. In an effort to improve urban management, the national government's 2023 #Plan Belize initiative
+has set a goal to develop an Urban Development Strategy for the country by 2026.
+
+5.       In 2024, Belize has underscored its commitment to the blue economy by restructuring the Ministry of Blue
+Economy and Civil Aviation, established in 2020, into the Ministry of Blue Economy and Disaster Risk Management
+(MBEDRM) as of April 2024. This ministry's mandate is to advance the blue economy and enhance the well-being of
+Belizeans through the scientific stewardship of the nation's aquatic resources and spaces.13 Given its multisectoral nature,
+Belize’s blue economy development involves various ministries such as the Ministries of Finance, Economic Development,
+and Investment (overall development strategy and financing); the Ministry of Sustainable Development and Climate
+Change (biodiversity/conservation, forest and environmental management, and climate change); the Ministry of Natural
+Resources, Petroleum, and Mining (management of land and water resources); the Ministry of Tourism and Diaspora
+Relations (tourism development); the Ministry of Health and Wellness (MoHW- drinking water quality and food safety);
+the Ministry of Public Utilities, Energy, Logistics, and E-Governance (MPUELE - management of public utilities); the Ministry
+of Infrastructure, Development and Housing (infrastructure development); and MRTCDLLG. In concert with these
+
+
+
+10 Belize Ministry of Blue Economy and Civil Aviation, 2022. Belize Maritime Economy Plan.
+
+(https://assets.publishing.service.gov.uk/media/63e1244ee90e0762692b96cd/Belize_Maritime_Economy_Plan_August_2022.pdf). In April 2024,
+the ministry’s responsibilities were adjusted to manage both blue economy and disaster risk management portfolios of the government.
+11 Such as the Horizon 2030 Vision in the National Development Framework of Belize (2010–2030), the Growth and Sustainable Development
+
+Strategy (2016–2019), and most recently the 2023 #Plan Belize and its Medium-Term Development Strategy (2022–2026).
+12 The NDC calls for the implementation of the National Solid Waste Management Policy to avoid emissions of up to 18,000 MT CO2e per year by
+
+2030 and develop a legal and policy framework for sustainable solid waste management. However, NDC has not included specific actions on
+wastewater management.
+13 See Annual Report 2021 of the Ministry of Blue Economy and Civil Aviation. The ministry has a Blue Economy Unit, a Fisheries Department, a
+
+Coastal Zone Management Authority and Institute, and a Belize Port Authority to coordinate the sustainable management and use of Belize’s
+coastal and marine resources.
+
+                                                                                                                                          Page 4
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+ministries, domestic and international nongovernmental organizations (NGOs) have actively worked with the Government
+to manage and safeguard the country’s blue assets.14
+
+6.       Belize has been working closely with multilateral and bilateral donors on various engagements to promote its blue
+economy and urban development. The World Bank supported the Municipal Development Project (P111928) and Climate
+Resilient Infrastructure Project (P127338) and the recently closed Marine Conservation and Climate Adaptation Project
+(MCCAP, P131408). The Inter-American Development Bank (IDB) has been implementing a series of operations on
+fisheries; sustainable livelihood and climate resilience project for micro, small, and medium enterprises; disaster
+management; tourism; and solid waste management.15 Other key donors include the Caribbean Development Bank (CDB);
+the Foreign, Commonwealth and Development Office (FCDO); the European Union (EU); Central American Bank for
+Economic Integration (CABEI); the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ); and the Caribbean
+Community Climate Change Center (5C).16 Beyond conventional technical assistance and investment project financing,
+Belize signed a debt-for-nature swap agreement with The Nature Conservancy (TNC) in November 2022.17 Currently, the
+Government is working with TNC and the World Wildlife Fund (WWF) to design a coastal and marine Project Financing for
+Permanence Initiative to mobilize sustainable financing for Belize’s marine protected areas and broader ecosystems.18 The
+WWF and the government of Belize were also consulted to identify synergies with the Resilient Bold Belize child project
+under the GEF-8 Integrated Program Blue and Green Island (BGI IP).
+
+7.       Belize’s efforts on urban and blue economy development are facing several interconnected challenges. These
+include rapid but uncoordinated urban development at its prime tourism destinations and coastal cities/communities.
+Due to existing gaps in its land use and environmental policies and regulations, limited monitoring and enforcement of its
+existing planning and environmental policies, lack of sustainable financing for key municipal infrastructure such as water
+and sanitation and waste management, such rapid development has increased land-based pollution from its coastal
+cities/communities, caused coastal erosion, and degraded its critical coastal and marine ecosystems.19 If this trend
+
+14 One example is that after multiple years of lobby efforts of civil society organizations and the public, in December 2017, Belize made history by
+
+placing an indefinite moratorium on offshore oil in Belize’s marine territory. Another example is that the Association of Protected Areas
+Management Organizations with its 16 NGO members has been working across the country to invest in eco-tourism within protected areas such as
+the Blue Hole Natural Monument, a popular diving spot with crystal clear water and diverse fish species.
+15 IDB’s current operations related to blue economy include (a) Promoting Sustainable Growth in the Blue Economy Program (BL-L1042, July 2023
+
+approval), (b) Water Supply and Modernization Program (BL-J0005/BL-L1043, May 2023 approval), (c) Sustainable and Inclusive Belize Project (BL-
+L1041, September 2022 approval), (d) Contingent Loan for Natural Disaster Emergencies (BL-O0005, June 2019 approval), (e) the Climate
+Vulnerability Reduction Program (BL-L1028, December 2017 approval), and (f) the Solid Waste Management Project II (BL-L1021, May 2016
+approval).
+16 Among others, CDB is implementing a Third Water - Ambergris Caye Project to support a safe, reliable, and climate-resilient supply of potable
+
+water with a focus on southern part of the Caye. FCDO has supported the development of Belize Maritime Economy Plan and is developing its
+bilateral activities in Belize under the Ocean Country Partnership and Sustainable Blue Economies Programmes. EU is co-financing IDB’s blue
+economy operation and implementing programs to finance small-scale infrastructure at the community level in two southern coastal districts of
+the country. GIZ is now supporting a study on the recycling sector of Belize in collaboration with the Central American Committee on Environment
+and Development. 5C is working on a number of Green Climate Fund proposals.
+17 For details of this blue bond transaction, please see https://www.imf.org/en/News/Articles/2022/05/03/CF-Belize-swapping-debt-for-nature and
+
+https://www.nature.org/en-us/newsroom/blue-bonds-belize-conserve-thirty-percent-of-ocean-through-debt-conversion/. This agreement reduced
+the country’s external debt by over 30 percent and in return Belize commits to, among others, double its marine protected areas to about 30
+percent of its oceans, designate all remaining public lands within the Belize Barrier Reef Reserve System as strict mangrove reserves, allocate US$4
+million annually on marine conservation until 2041, and facilitate blue carbon transactions. For blue carbon, the Government has received support
+of the Pew Charitable Trusts, TNC, WWF, and the Smithsonian Institute to investigate the baseline of the country’s blue carbon assets and explore
+the potential of marketing such assets in international carbon markets.
+18 https://www.wwfca.org/en/?375845/Belize-to-develop-worlds-first-fully-Coastal-and-Marine-Project-Finance-for-Permanence-PFP-Initiative.
+19 Take San Pedro, the top tourist destination of the country, as an example. The town and the Ambergris Cay where the town is located have
+
+suffered from rampant and unplanned investments and property development beyond the administrative boundary of its town council. Tourism-
+driven investments are implemented without essential municipal services planning, leaving gaps in municipal service provision, increasing costs of
+
+                                                                                                                                                  Page 5
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+persists, it could jeopardize the long-term health of Belize's coastal and marine environments, and by extension, the
+viability of its blue economy. The 2022 Report Card on the Health of the Mesoamerican Reef reveals that Belizean reef
+health has dropped from the ‘Fair’ rating attained five years ago to a ‘Poor’ rating due to overfishing, critical habitat
+destruction, and potential biodiversity loss.20 The report highlights that, after overfishing, nutrient pollution, mainly from
+improperly treated sewage from urban and coastal settlements, is a leading contributor to the region's coral mortality.21
+
+8.      Recognizing these challenges, the Government of Belize has requested the World Bank’s support to develop a
+three-phase program aimed at fostering sustainable development and securing sustainable financing for critical blue
+economy investments in key coastal cities and communities. The intention is to use the first operation to (a) enhance the
+enabling environment, (b) finance priority infrastructure investments that are ready for investment, and (c) develop an
+investment program with sustainable financing mechanisms that can be financed by the subsequent operations and other
+donors. In response to this request, the World Bank has developed this first project through extensive consultations with
+key national ministries/agencies, local authorities, and development partners. This project aims to (a) tackle critical policy
+and capacity deficiencies in urban and blue economy development at both national and local levels, (b) finance priority
+climate-resilient water and sanitation infrastructure in priority urban areas, and (c) support the government to formulate
+a blue economy investment program that will promote sustainable urban and blue economy development. The
+preparation for the second project is anticipated to commence in FY27, followed by the third in FY29.
+
+ C. Proposed Development Objective(s)
+ Development Objective(s) (From PAD)
+
+ 9.      The Project Development Objectives (PDOs) are to improve Belize's management capacity for sustainable
+ coastal and blue economy development, increase safe water supply and reduce land-based pollution discharges at
+ targeted urban areas, and respond effectively in case of an eligible emergency.
+
+  Key Results
+
+10.      The proposed PDO level indicators are the following:
+
+         •      Number of key spatial planning and environmental policies adopted
+         •      Number of critical blue economy assets and activities under improved monitoring
+         •      A comprehensive legal framework for carbon market access adopted
+         •      Amounted of chemical oxygen demand (COD) load discharges reduced by the upgraded WWTP
+         •      Number of people provided with water, sanitation and hygiene
+
+
+  D. Project Description
+
+
+
+
+investment, generating uncontrolled discharges of untreated waste and wastewater, and causing serious coastal erosion issues. Such pollution
+discharges are visible issues and begin to affect visitor perceptions of the cleanliness of Belize’s marine environment and affecting the
+attractiveness of the destination to its core markets.
+20 https://www.healthyreefs.org/cms/wp-content/uploads/2022/12/2022-Report-Card-MAR.pdf.
+21 Jackson, et al., eds. 2014. “Status and Trends of Caribbean Coral Reefs: 1970-2012.” Global Coral Reef Monitoring Network, Gland, Switzerland.
+
+
+
+                                                                                                                                              Page 6
+       The World Bank
+       Belize Blue Cities and Beyond Project (P181064)
+
+
+11.   The project will support four components: policy development and capacity building; water, sanitation, and waste
+management; project management; and a contingent emergency response component (CERC).
+
+12.     Component 1: Policy Development and Capacity Building. This component encompasses four subcomponents:
+policy development, capacity building, carbon market readiness, and the formulation of a blue economy investment
+program. Its objective is to address climate-related and socio-economic challenges that are impeding the sustainable
+development and management of Belize’s coastal communities and blue economy. This will be achieved through the
+advancement of policies, regulatory reforms, institutional strengthening, capacity building, carbon market readiness and
+investment preparation.
+
+13.      Subcomponent 1.1. Policy Development will support Belize to review and refine its spatial planning, tourism and
+environmental policies that are critical to sustainable development of Belize’s coastal communities and its blue economy
+development. Development of these policy actions will require cross-sectoral and cross-jurisdiction collaboration and
+active public participation. Mitigation measures for expected climate impacts (such as hurricanes, floods, sea level rises)
+will be fully incorporated into policies developed under the project.
+
+14.     For land-uses, this subcomponent will support (a) the Ministry of Natural Resources to develop national geospatial
+and spatial planning policies and legislations and associated national spatial development plan and (b) selected local
+governments and township councils (Belize City, San Pedro and Placencia) to develop their respective urban land-use
+planning after the approval of the National Land Use Policy (expected approval in 2024). Ecological urban planning and
+nature-based solutions (NBS) will be integrated into these national and local planning policies and plans. For tourism, this
+subcomponent will support policies related to sustainable tourism development and management, including the review
+and development of regulation for improving local governance of tourism with the municipal governments, the Ministry
+of Tourism and the Belize Tourism Board (BTB), green building code with the Ministry of Infrastructure, Development and
+Housing and the Central Building Authority to increase climate resilience and environmental sustainability among tourism
+investments, and green standards and certification for tourism business with BTB to address environmental externalities
+stemming from tourism investments and businesses.
+
+15.     For environmental policies, this subcomponent will focus on the monitoring and protection of the country’s critical
+blue assets – water and fisheries. It will first support the Ministry of Natural Resources to lead the development of a
+national water master plan and prescribe the country’s water quality control strategy and implementation plan. It will also
+support MPUELE, the Public Utilities Commission (PUC), BWS and other relevant stakeholders to develop a national
+sanitation master plan. These plans will focus on provision of climate-resilient water resources management and
+sanitation services to urban and rural population of the country, particularly those living in underserved communities.
+Moreover, the subcomponent will support the Ministry of Sustainable Development and Climate Change and its
+Department of Environment (DOE) to work with the Ministry of Health and Wellness (MoHW) and develop surface water,
+marine water, and groundwater quality standards; and MPUELE and its Public Utilities Commission to work with the MHW
+to develop potable water standards and regulations. It will also support the Ministry of Investment to develop a green and
+blue industrial policy and strategy. Finally, it will support the DOE to revise effluent discharge standards to minimize
+environmental impacts of such discharges to Belize’s coastal and marine ecosystems, and the Ministry of Blue Economy
+and Disaster Risk Management (MBEDRM) and its Belize Fisheries Department to lead the development of integrated
+monitoring policies and procedures for sustainable fisheries.
+
+16.     Subcomponent 1.2. Capacity Building will support Belizean stakeholders (including NGOs and private sector
+actors) to develop their technical capacity in blue economy management under a changing climate through (a) the
+establishment of a blue economy monitoring center under the MBEDRM with active participation of other related agencies
+to properly monitor the status of blue assets (water quality, mangrove, coral reefs, biodiversity etc.) and blue economy
+
+                                                                                                                        Page 7
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+activities (fisheries, navigation, and tourism) for evidence-based decision making;22 (b) the development of the Belize
+National Spatial Data Infrastructure and an associated continuous operating reference station network;23 (c) technical
+assistances on municipal finance and governance, sustainable financing mechanisms,24 NBS and disaster risk management,
+sustainable tourism and destination management, and sustainable fisheries and alternative livelihood development for
+fishing communities; (d) technical assistance for the Office of Auditor General, on carbon audits, and the auditing of blue
+economy assets and activities, amongst others, and (e) knowledge and learning activities including technical trainings and
+Belize’s participation in learning events under the Global Environmental Facility (GEF)’s Sustainable Cities Impact Program
+Global Platform (SCIP-GP) knowledge platform to help Belize learn from other countries and share Belizean experience on
+integrated urban planning, low carbon and climate-resilient urban infrastructure, sustainable wastewater and waste
+management, and NBS for urban and coastal sustainability.
+
+17.       Subcomponent 1.3. Carbon Market Readiness will support Belize to develop (a) carbon market regulatory
+mechanisms (regulations, standards and guidelines on carbon ownerships and benefit sharing mechanisms, carbon
+markets and carbon registry, monitoring, reporting and verification (MRV) protocols, authorization and corresponding
+adjustments, co-benefits - e.g. biodiversity credits); (b) a new carbon governance structure to supervise carbon project
+approvals, carbon registry, carbon transactions, MRV, and benefit sharing; and (c) digital carbon market infrastructure,
+including a carbon registry, a carbon transaction platform, a MRV information system (focusing on carbon transactions)
+and a benefit sharing information system. In doing so, this subcomponent will enable Belize to develop high-quality and
+high integrity carbon credits that can be marketed internationally. The elements listed have been identified as priorities
+for the development of the general carbon market infrastructure and especially for a comprehensive inclusion of the
+critical blue ecosystems of the country. This initiative will provide an important approach of blue ecosystem inclusion to
+promote a correct understanding of the different characteristics and needs to properly account for blue assets in the
+national carbon market, per the recommendations of the Blue Carbon Readiness Framework and Blue Carbon Market
+Infrastructure reports supported by PROBLUE. For example, in the MRV, infrastructure capable of including all ecosystems,
+including sea grasses and mangroves will need to be chosen.
+
+18.       Subcomponent 1.4. Blue Economy Investment Program will help prioritize and develop investment proposals for
+critical investments for sustainable coastal and blue economy development under a changing climate. Such investments
+include but are not limited to (a) additional monitoring and surveillance infrastructure to generate accurate, reliable, and
+timely data for informed decision-making; (b) climate resilient municipal infrastructure and services with an emphasis on
+NBS interventions for coastal ecosystem resilience and blue assets conservation and restoration; (c) sustainable tourism
+infrastructure; and (d) sustainable fishery infrastructure and alternative livelihood investments. Detailed technical designs
+and financing plans for these investments will be developed as part of investment proposals. Potential financial sources
+to be explored include, but are not limited to, financing from international financial institutions, grant financing from
+multilateral environmental/climate fund (such as GEF, Green Climate Fund) and bilateral donors, blue carbon, biodiversity
+credits, sustainability linked bonds, and parametric insurances (such as the Caribbean Oceans and Aquaculture
+Sustainability Facility, COAST), extended producer responsibility (EPR) mechanisms, and public-private partnerships. This
+investment program will serve as a platform for domestic stakeholders and donors to coordinate their support to blue
+economy development of Belize.
+
+
+22 Design of the blue economy monitoring center will build upon CABEI’s support to the development of a blue economy office complex for the
+
+ministry and IDB’s technical support to improve sustainable fisheries practices in the country.
+23 These were initiated under the Belize Climate Resilient Infrastructure Project (P127338) but not completed due to funding shortage during the
+
+COVID-19 pandemic.
+24 Including financing mechanisms for sustainable waste management and circular economy development, which will review full cost recovery
+
+needs at the national and local levels and the design and adoption of EPR schemes while considering existing environmental tax schemes in the
+country.
+
+                                                                                                                                              Page 8
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+19.      Component 2: Water, Sanitation and Waste Management. This component encompasses three
+subcomponents—upgrade of the existing Belize City Wastewater Treatment Plant (WWTP25), expansion of water supply
+in South San Pedro, and waste management pilot in San Pedro. BWS will manage the first two subcomponents as part of
+its long-term investment plan to improve the coverage of its water and sanitation service. Expected climate impacts
+(hurricane, flood etc.) will be integrated into the design and implementation of these interventions.
+
+20.     Subcomponent 2.1. Belize City WWTP Upgrade will help BWS renovate the existing and only WWTP of Belize City,
+which consists of a facultative lagoon, followed by a polishing lagoon, a sludge storage lagoon and an effluent discharge
+canal conveying treated effluent through a mangrove area to the Caribbean Sea. Due to the lack of maintenance over
+many years, the existing lagoons are filled with sludge, so the treatment system has currently a minimal level of treatment
+effect with uncontrolled methane releases. The proposed investments will be performed within the physical boundaries
+of the existing WWTP to expand its treatment capacity to accommodate the forecasted population growth for at least the
+next 25 years and its treatment performance will be improved to meet the national effluent discharge standards.
+
+21.     Subcomponent 2.2. Expansion of water supply in South San Pedro will help BWS expand the existing drinking
+water distribution system to meet current and future potable water demand for the residents and tourism development
+of South San Pedro area.26 The scope of works to be implemented includes (a) about 2.84 km of 8-inch distribution water
+main, (b) 0.61 km of 6-inch distribution water main, and (c) 1.68 km of 4-inch distribution water main.
+
+22.     Subcomponent 2.3. Waste management pilot in San Pedro will support the Belize Solid Waste Management
+Authority, the San Pedro Town Council, the newly created Belize Waste Managers and Recyclers’ Association to work with
+local communities, business associations, and private waste management firms to design effective interventions that will
+help reduce waste generation and dumping, increase waste separation of recyclable and green materials for residents and
+businesses at sources, transfer separated recyclable materials for processing or exporting and green materials for
+composting using private operators and promote circular economy investments in San Pedro Ambergris Caye. Based on
+findings of a behavior study, the proposed interventions will mobilize stakeholder participation through extensive
+awareness-raising campaigns at the community level, employ a competitive process to identify private sector operators,
+and provide necessary technical and financial support to ensure the sustainability of public and private waste management
+operations supported by the project.27 This pilot will include targeted interventions to manage sargassum wastes and
+minimize its negative impacts on local tourism operations. It is expected that this pilot will help demonstrate successful
+business models for sustainable waste management operations that can be scaled up at the national level.
+
+23.      Component 3: Project Management. This component will support the Central Executing Unit (CEU) of the Ministry
+of Economic Development (MED) to coordinate overall project implementation, perform monitoring and evaluation (M&E)
+activities at the project level, manage the implementation of project activities under Component 1 and Subcomponent
+2.3. BWS will manage Subcomponents 2.1 and 2.2 as a part of its own investment program and will not request specific
+project financing to its project management activities. BWS will perform its own M&E activities and submit its M&E
+information for CEU’s consolidation and reporting. A Project Steering Committee (PSC) comprising relevant ministries and
+key non-government organizations (NGOs), and on which MED will serve as the chair, will provide general oversight to the
+
+
+
+
+25
+   Project activities won't support the provision of anaerobic treatment plants with high unabated methane emissions, or large-scale sanitation
+systems that significantly rely on the use of on-site fossil fuels.
+26
+   BWS provides water supply to San Pedro through its desalination operations.
+27
+   The study examined waste management behaviors of key stakeholders and identified incentives needed to improve waste management
+practices in San Pedro.
+
+                                                                                                                                                  Page 9
+        The World Bank
+        Belize Blue Cities and Beyond Project (P181064)
+
+
+CEU and the BWS. The PSC will be supported by a technical working group (TWG) of focal points identified from among
+the PSC’s members.
+
+24.     Component 4: CERC. This component is included in the project in accordance with IPF Policy, paragraphs 12 and
+13, for Situations of Urgent Need of Assistance and Capacity Constraints. This will allow for rapid reallocation of
+uncommitted project funds in the event of an eligible emergency as defined in OP 8.00.28 For the CERC to be activated and
+financing to be provided, the Government will need (a) to submit a request letter for CERC activation and the evidence
+required to determine eligibility of the emergency, as defined in the CERC Annex to the Project Operations Manual; (b)to
+submit an Emergency Action Plan, including the emergency expenditures to be financed; and (c) to meet the
+environmental and social requirements as agreed in the Emergency Action Plan and the Environmental and Social
+Commitment Plan.
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                                             Triggered?
+ Projects on International Waterways OP 7.50                                                            Yes
+ Projects in Disputed Area OP 7.60                                                                      Yes
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+25.      Overall, the Project is expected to result in positive environmental and social (E&S) outcomes by reducing land-
+based pollution, promoting sustainable management of coastal zones, and improving the health and wellbeing of the
+population. The Environmental and Social Risks Classification (ESRC) is Substantial with a Substantial environmental risk
+rating, and a Moderate social risk rating. The key environmental risks are associated with Component 2 activities and
+include (a) soil, water, and air pollution resulting from the desludging of facultative ponds and septage disposal; (b)
+leakages and emissions of greenhouse gases from anerobic lagoons; (c) generation, management and disposal of waste;
+(d) occupational health and safety (OHS) risks during construction; and (e) community health and safety risks during
+construction and operation.
+
+26.      The main social risks of the project activities are (a) the social exclusion of the disadvantaged and vulnerable
+groups (fishers, female-headed households, low-income households, the youth, the LGBTI+ community, persons with
+disabilities, etc.) from the consultation and decision-making processes; (b) transparency of stakeholder participation and
+public information disclosure; (c) inadequately addressing and promoting E&S capacity building and institutional
+strengthening; (d) potential moderate risk associated to labor influx and low SEASH risks; (e) low-moderate risk for child
+labor, along with labor safety concerns; and (f) weak capacity of contractors to manage E&S risks and impacts. Currently,
+no physical or economic displacement related to ESS5 is envisaged as a result of project activities. Overall, the E&S risks
+are likely to be temporary, short-term, and limited in extent and can be managed through routine preventive and
+mitigation E&S measures and capacity strengthening. The ESRC will be reviewed regularly during preparation and
+
+
+
+28 An eligible emergency is defined as an event that has caused, or is likely to imminently cause, a major adverse economic and/or social impact
+
+associated with natural or man-made crises or disasters. Such events include a disease outbreak.
+
+                                                                                                                                              Page 10
+       The World Bank
+       Belize Blue Cities and Beyond Project (P181064)
+
+
+implementation to reflect the project's risk level. The Government of Belize will prepare appropriate assessments to
+manage the E&S risks.
+
+27.      Prior to appraisal, the Borrower has prepared: (a) a draft Stakeholder Engagement Plan (SEP) with its Grievance
+Mechanism (GM) - the SEP also addresses the requirements of meaningful consultations in contexts of IPs, consistent with
+ESS7, and for the implementation of activities under Component 1. Two consultations were conducted in San Pedro and
+Belize City on May 21 and 22, 2024; (b) draft terms of reference (ToR) for the E&S Assessment for Subcomponent 2.1
+activities; and (c) a draft ESCP which will be finalized during negotiations. The SEP, ToR, and ESCP have been disclosed
+prior to Appraisal. During implementation, and within the timeframes listed in the ESCP, the Borrower will prepare and
+implement (a) Labor Management Procedures (LMP) with a labor GM; (b) an environmental and social management plan
+(ESMP) for subcomponent 2.2; and (c) an ESMP for subcomponent 2.3 which will be reviewed by the Bank, disclosed for
+consultations, updated, and finalized.
+
+ E. Implementation
+
+ Institutional and Implementation Arrangements
+
+28.     Given the need for strong cross-sectoral coordination, the Government of Belize will establish a Project Steering
+Committee (PSC) to coordinate project preparation and implementation. The PSC is to be chaired by MED with
+representatives from relevant ministries, local government, relevant regulatory or promotion agencies, and key non-
+government organizations (NGOs) that are involved in proposed project activities. The PSC will meet annually to review
+the project’s annual implementation plans and biannually on project implementation status to ensure proper planning
+and implementation of all project activities. As needed, the PSC will organize additional review meetings at the request of
+its members. In all such review meetings, the PSC may identify implementation challenges, provide technical and strategic
+advice at the sectoral and project levels, facilitate the cooperations across agencies and between state and non-state
+stakeholders, and make decisions on actions needed to address identified implementation challenges. The PSC will be
+supported by a technical working group (TWG) of focal points identified from among the PSC’s members.
+
+29.     The existing CEU of MED will be the lead implementing agency for the project, managing overall project
+coordination and implementing activities under Component 1, Subcomponent 2.3, and Component 3. The existing PIU of
+the BWS will manage the water and sanitation investments under Subcomponents 2.1 and 2.2. Both the CEU and PIU of
+BWS have qualified specialists and experience in managing donor-financed investment projects. In addition, the project
+will support the CEU to hire a full-time project manager; a full-time knowledge management specialist; and four part-time
+analysts on procurement, financial management (FM), E&S issues, and monitoring and evaluation (M&E). In cooperation
+with the BWS PIU, CEU is leading the preparation of the project’s operations manual (POM) which will prescribe roles and
+responsibilities of each PIU and its members and procedures and requirements of implementation tasks. Following the
+POM, the CEU and the BWS PIU will prepare their respective reports on project implementation while the CEU will
+integrate reports from both units and produce consolidated reports for the entire project.
+
+30.      For technical activities, the CEU will rely on related stakeholders to supervise technical requirements of such
+activities, including, but not limited to, the development ToR of project-financed consultancies and knowledge
+management events, the development technical specifications of project-financed equipment and goods, and technical
+review and acceptance of project deliverables. For the BWS, its PIU will work with its technical departments to manage
+technical aspects of project investments under Subcomponents 2.1 and 2.2.
+
+
+
+
+                                                                                                                      Page 11
+     The World Bank
+     Belize Blue Cities and Beyond Project (P181064)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Nicolas Benjamin Claude Desramaut
+ Senior Environmental Engineer
+
+Borrower/Client/Recipient
+ The Government of Belize
+
+Implementing Agencies
+ Ministry of Economic Development
+ Osmond Martinez
+ Chief Executive Officer
+ ceo@med.gov.bz
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Nicolas Benjamin Claude Desramaut
+
+Approved By
+
+Practice Manager/Manager:                Genevieve Connors                   30-May-2024
+
+Country Director:                        Federico E. Baechli                 26-Aug-2024
+
+
+
+
+                                                                                           Page 12
+

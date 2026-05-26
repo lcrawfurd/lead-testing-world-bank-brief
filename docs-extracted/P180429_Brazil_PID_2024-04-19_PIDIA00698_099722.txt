@@ -1,0 +1,751 @@
+Public Disclosure Authorized
+                                          The World Bank
+                                          Bahia Sustainable Rural Development Project (P180429)
+
+
+
+
+                                      @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                        Project Information Document (PID)
+
+
+            _For Official Use Only_
+                                                       Appraisal Stage | Date Prepared/Updated: 19-Apr-2024 | Report No: PIDIA00698
+
+
+
+
+Public Disclosure Authorized
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                        Operation ID                  Operation Name
+                               LATIN AMERICA AND                                           Bahia Sustainable Rural
+Brazil                                                       P180429
+                               CARIBBEAN                                                   Development Project
+Financing Instrument           Estimated Appraisal Date      Estimated Approval Date       Practice Area (Lead)
+Investment Project
+                               23-Apr-2024                   12-Aug-2024                   Agriculture and Food
+Financing (IPF)
+Borrower(s)                    Implementing Agency
+                               CAR - Companhia de
+Government of the State of
+                               Desenvolvimento e Acao
+Bahia
+                               Regional
+
+Proposed Development Objective(s)
+To increase market access, agricultural productivity and develop resilience of family farmers to shocks while expanding
+access to resilient water services in selected rural areas.
+
+Components
+Component 1: Increasing agricultural productivity, access to markets, and resilience to shocks
+Component 4: Contingent Emergency Response Component (CERC)
+Component 2: Water supply for rural communities.
+Component 3: Designing and Scaling Innovative Solutions.
+Component 5: Project Management
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                            160.16
+
+  Total Financing                                                                                                 160.16
+               of which IBRD/IDA                                                                               100.00
+
+
+                                                                                                                   Page 1
+       The World Bank
+       Bahia Sustainable Rural Development Project (P180429)
+
+
+
+   Financing Gap                                                                                                    0.00
+
+ DETAILS
+   World Bank Group Financing
+     International Bank for Reconstruction and Development (IBRD)                                                100.00
+   Non-World Bank Group Financing
+     Counterpart Funding                                                                                          60.16
+       Borrower/Recipient                                                                                         50.00
+       Local Communities                                                                                          10.16
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+Moderate
+
+
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1. Recent economic development has been characterized by a mix of positive and negative trends. Between 2001 and
+2014, Brazil experienced growth averaging 3.3 percent annually in real terms. This growth was propelled by favorable
+commodity prices, capital flows, and sound macroeconomic management, enabling the financing of important social
+protection programs and helping lift over 27 million people out of poverty. However, by 2014, a combination of falling
+commodity prices, political instability, and unaddressed structural challenges had plunged the economy into a recession.
+From 2014 to 2019, real Gross Domestic Product (GDP) growth averaged -0.3 percent. In 2020, the COVID-19 pandemic
+caused a decline in the GDP growth of -3.3 percent. By 2021, the unemployment rate jumped to 14 percent.
+2. Following a rebound from the COVID-19 pandemic, economic growth slowed down. In 2021, the post-COVID-19
+recovery begun with a rebound in economic growth of 5 percent. This surge was fueled by fiscal stimulus, a successful
+COVID-19 vaccination, favorable conditions in commodity markets, and high demand for services. From 2022 to 2023,
+growth moderated to 3 percent, which was primarily attributed to expansion in agriculture, exports, and fiscal transfers
+to low-income households. Projections indicate a further decline in economic growth to 2 percent over the next five years.
+Meanwhile, inflation peaked at 12 percent year-over-year in 2022 driven by high energy and food prices and a robust
+domestic economy. The implementation of a monetary policy resulted in a decline in inflation to 3.9 percent in 2023.
+3. Brazil will experience rapid change in climate conditions and its impacts will be spatially varied. By the end of the
+century, the average temperature in Brazil is expected to rise, depending on the trajectory of global GHG emissions, by
+
+
+
+                                                                                                                   Page 2
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+1.7 °C to 5.3 °C from the 1986–2005 average1. All of Brazil’s biomes are vulnerable to the impact of changes in temperature
+and rainfall, though with significant regional differences2. In rural areas, more frequent and severe climate events such as
+droughts and floods are likely to cause major impacts on agriculture productivity, logistics (lowering conditions of rural
+roads) and delivery of water and sanitation services due to dwindling water supply.
+
+
+ Sectoral and Institutional Context
+4. The agricultural sector is highly heterogenous. There are nearly 5 million rural properties distributed over 65 million
+of hectares of land. Nearly, 3.9 million rural properties are classified as family farms3, 4, 5. They represent 77 percent of all
+rural properties in Brazil. Family farmers, often, work on less than 100 hectares each. The Northeast region holds the
+highest concentration of family farmers, accounting for 47 percent of all family farms in Brazil. The South region comes in
+second place with 18 percent followed by the Southeast region with 17 percent. The North region accounts for 12 percent
+and the Center-West region account for 5 percent of all family farmers in Brazil. These family farmers co-exist with 1.1
+million small, medium, and large-scale commercial farmers. Family farmers exhibit significant diversity, some are highly
+productive and commercially oriented, embracing technological innovations6. In contrast, others follow subsistence-
+oriented farming practices, lacking access to markets and relying on traditional farming methods.
+5. The agrifood sector plays an important role in the national economy and livelihoods of the poor. The primary
+agriculture sector accounts for 5 percent of the national GDP, nearly USD 175 billion. Considering the back and forward
+linkages along the entire agrifood system ranging from input providers, farmers, agribusiness firms and distributors, its
+contribution to the national economy reaches 26 percent of GDP. The primary agricultural sector employs 15 million
+people, accounting for 20 percent of the national workforce. Brazil is now a top-5 producer of 34 agricultural commodities,
+and it is the largest net agrifood exporter in the world. Half of its agrifood production, USD 123.2 billion, is sold in
+international markets. The agrifood exports represent 37 percent of Brazil’s total exports. Overall, Brazil’s agrifood sector
+has performed well on aggregate. It is estimated that 1 percent of the rural properties, mostly medium and large-scale
+farms, generate 50 percent of the gross agricultural value of production7. While many family farmers struggle to make
+ends meet, rural poverty is estimated to be at 38.7%, which is more than twice the urban poverty rate8.
+6. The agrifood sector witnessed an annual growth rate of 2.03 percent in TFP from 1970 to 20179. The Center-West
+region demonstrated the most impressive performance, with an annual agricultural TFP growth of 3.9 percent. The South
+and Southeast regions also experienced significant growth, at 2.43 percent and 1.91 percent respectively. However, the
+North and Northeast regions witnessed a decline in agricultural TFP growth rates during the more recent period between
+2006 and 2017. This high TFP growth overall was achieved through investments in: (i) agricultural innovation (i.e. research
+and development, agricultural extension and technical assistance); (ii) agriculture finance (i.e. credit and insurance); (iii)
+infrastructure; and (iv) agricultural trade liberalization. Small-to-mid size farmers (20-200 hectares) and those in the North
+
+
+1World Bank. 2021. “Climate Risk Country Profile: Brazil.” Washington, DC: World Bank Group.
+2 Painel Brasileiro de Mudanças Climáticas (PBMC). 2013. “Executive Summary.” In Impactos, Vulnerabilidades e Adaptação: Contribuição do Grupo
+
+de Trabalho 2 ao Primeiro Relatório de Avaliação Nacional do Painel Brasileiro de Mudanças Climáticas edited by E.D. Assad and A.R. Magalhães. Rio
+de Janeiro: Universidade Federal do Rio de Janeiro.
+3 Instituto Brasileiro de Geografia e Estatística. 2017. Censo Agropecuário. Rio de Janeiro.
+4 Law No. 11.326 defines family farmers as: owning land under 4 fiscal modules, family performing most of farm work, significant income come from
+
+farm activities, farm must be managed by the owner family, and total annual household income below R$ 360,000.
+5 Fiscal module defines the minimum land size per municipality needed for a family farm to succeed, considering subsistence, social progress, and
+
+full dedication to agriculture. This area ranges from 5 to 110 hectares.
+6 Schwab, K. 2016. The fourth industrial revolution. World Economic Forum.
+7 Souza, G., et al. 2018. Imperfeições de mercado e concentração de renda na produção agrícola. Revista de Política Agrícola, ano 27, n. 2, p. 31-38.
+8
+  Instituto Brasileiro de Geografia e Estatistica (IBGE). 2023. Síntese dos indicadores sociais (SIS).
+9 Gasques, J.G. et al. 2020. Crescimento e produtividade da agricultura brasileira: uma análise do censo agropecuário,” in José Eustáquio Ribeiro
+
+Vieira Filho and José Garcia Gasques, eds., Uma jornada pelos contrastes do Brasil. Cem anos de Censo Agropecuário. IPEA. Rio de Janeiro, Brasil.
+                                                                                                                                             Page 3
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+and Northeast of Brazil have recorded the lowest TFP growth through this period. Despite the country’s overall
+improvement in competitiveness, certain regions (i.e. North and Northeast) and specific farmers segments lag behind.
+Prioritizing agricultural TFP improvements in lagging regions and farmer segments is a priority for Brazil to unlock sectoral
+further economic growth, while reducing poverty and inequality.
+7. Factors that weigh on Brazil’s future agrifood potential. Despite the recent growth and future potential of the
+agrifood sector in Brazil, there are several challenges to be overcome.
+8. Challenge #1 – Delivery of last-mile agricultural public goods and services. The literature shows that agricultural
+public goods like rural infrastructure (rural roads, electrification, irrigation, etc) and services (land administration, food
+safety and agriculture health, agriculture innovation, etc) are fundamental for addressing food security and sustainable
+development10, 11. Brazil invests only 1 percent of its agricultural GDP on agricultural public goods and services compared
+to the OECD average of 3.4 percent 12. As a result, few farmers benefit from them (i.e. 20 percent of farmers benefit from
+agricultural extension services) and 63 percent of the rural population has experienced food insecurity. This low coverage
+is compounded by the poor-quality of public goods and services provided13. Roads are another example of the challenges
+of delivering such agricultural public goods in rural areas. In Brazil, roads are essential to moving over 305 million tons of
+agricultural output between farms and markets annually. Rural roads near agriculture production areas are often unpaved
+and in poor condition14, leading to high transport cost for inputs and outputs15. This problem is significant for family famres
+located in remote areas. Furthermore, the provision of water supply services is also deficient in Brazil, as acknowledged
+by the National Program for Rural Water Supply and Sanitation approved in 2019.
+9. Challenge #2 - Building assets for an inclusive agrifood system. Most family farmers struggle with poverty with
+household incomes falling below USD 1.24 daily threshold. This struggle can be attributed, in part, to the lack of minimum
+assets endowment. The current literature underscores the crucial role of land administration efforts to secure land tenure
+and empowering family farmers16 and highlights the significance of minimum asset ownership for production17. Also,
+recent research provides compelling evidence for the effectiveness of supporting rural households through various
+productive inclusion phases using a multifaceted "graduation approach18" and "productive alliances”19 programs20. These
+approaches and programs, combining productive asset transfers, technical and business administration assistance, and
+access to saving accounts, have demonstrably led to long-term sustained increases in income and consumption for
+participating family farmers.
+
+
+10 Atkin, David, and Dave Donaldson. 2015. “Who’s Getting Globalized? The Size and Implications of IntraNational Trade Costs.” NBER Working Paper.
+11 Porteous, Obie. 2019. “High Trade Costs and Their Consequences: An Estimated Dynamic Model of African Agricultural Storage and Trade.”
+
+American Economic Journal: Applied Economics 11 (4): 327–66.
+12 Organization for Economic Development (OECD). 2023. Agricultural Policy Monitoring and Evaluation 2023. Adapting Agriculture to Climate
+
+Change.
+13 Davis, K., S. C. Babu, and C. Ragasa. 2020. Agricultural Extension: Global Status and Performance in Selected Countries. Washington, DC:
+
+International Food Policy Research Institute.
+14 Vieira Filho, José Eustáquio Ribeiro Organizador et al. 2019. Diagnóstico e desafios da agricultura brasileira. Rio de Janeiro: IPEA, 2019.
+15 Brazil ranks 74th on the Road Connectivity Index and 51st logistics performance (LPI). it is lagging peers in the quantity and quality of its
+
+infrastructure. By comparison China’s rank is 19th and India’s 38th on LPI.
+16 Deininger, Klaus. 2003. Land policies for growth and poverty reduction. The World Bank Publications.
+17 Eswaran, Mukesh, and Ashok Kotwal. 1986. “Access to Capital and Agrarian Production Organization.” The Economic Journal 96(382): 482-98.
+18 The Bangladeshi organization BRAC (www.brac.net) designed a livelihood program known as the “Graduation approach. This program provides
+
+ultra-poor households with a productive asset, training, coaching, access to savings, and consumption support to help them graduate from extreme
+poverty. The program has been replicated in many countries and rigorously evaluated.
+19 Productive Alliances are business partnerships among the following partners: (i) technical (either private or public), commercial (wholesalers,
+
+processors, and/or retailers), and financial (banks) along with producers organizations (POs) designed to strengthen the position of family farmers
+within agricultural value chains.
+20 Abhijit Banerjee, Dean Karlan, Robert Osei, Hannah Trachtman, Christopher Udry. 2022. Unpacking a multi-faceted program to build sustainable
+
+income for the very poor, Journal of Development Economics, Volume 155
+                                                                                                                                           Page 4
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+10. Challenge # 3 – Improving agrifood system sustainability. Brazil’s agrifood sector accounts for more than one third
+of total national GHG emissions. When combined with land-use change and forestry, the agrifood sector’s contribution
+reaches 60 percent of the national GHG emissions21. In addition, the use of outdated farm technologies and farming
+practices leads to soil degradation and water pollution. In 2019, Brazil was the fourth largest global consumer of fertilizers.
+Overuse of fertilizer is associated with leaching of nitrates into groundwater, emission of nitrogen oxides, pollution of soil
+with toxic heavy metals, and surface runoff of nitrogen and phosphorus. Furthermore, family farmers are highly exposed
+to extreme weather events (i.e. high spatial and temporal rainfall variability), which combined with low asset’s
+endowment and income levels, make them highly vulnerable to climate change. To address the issue, a simultaneous
+approach is recommended: (i) implementing environmental policies to halt agricultural frontier expansion (i.e. turning
+unassigned public lands into protected areas, improving the implementation of the rural environmental cadaster– CAR)
+and (ii) promoting agriculture intensification of family farmers through the adoption of climate-smart agriculture (CSA)
+technologies and farming practices.
+11. Challenge #4 - Agrifinancing for sustainable agrifood sector development. Returns from investing in agrifood
+production can be highly uncertain because of significant variations in natural conditions and volatility in agrifood markets.
+Availability of credit heavily influences agrifood (i.e. crop and livestock selection, type of production technologies and
+practices, etc). The Brazil's agrifinance market relies, USD 228.5 billion credit market in 2023/24, is dominated by the
+private sector, providing 67 percent of total credit (USD 154 billion). The public sector remains a significant contributor,
+at 33 percent (USD 75 billion from Plano Safra). Despite the use of preferential credit schemes as the key agriculture public
+support policy, only 15 percent of family farmers access credit lines, indicating a pressing need for improved agrifinance
+accessibility to family farmers22. Furthermore, the current available agrifinance instruments could be strengthened to
+provide incentives for the adoption of CSA practices and technologies, contributing towards improvement in agrifood
+productivity, environmental goals, and improved livelihoods.
+12. Challenge # 5 –Enhancing women participation on agrifood system development. Despite comprising over 32
+percent of Brazil’s farmers, women face marginalization within the agrifood sector. Sociocultural norms limit their access
+to essential resources such as land, water, financing, inputs, and innovation services23. Furthermore, women
+disproportionately bear the burden of unpaid domestic and caregiving responsibilities. They spend 2.3 times as much time
+on unpaid domestic and caregiving work than men24. Moreover, women’s leadership within farmers’ organizations, such
+as cooperatives and community associations, remain underrepresented25. Recent findings indicate that female-owned
+properties are 61 percent less productive26, on average, than male-owned ones27. Female farmers yields are 20-30 percent
+smaller than those of male farmers28. Additionally, agricultural commercialization is lower when farmers' organizations
+are led by women, as compared to those led by men29. Addressing these gender inequalities in the agrifood system of
+Brazil could improve yields, incomes, and food security.
+13. The Plano Pluriannual (PPA) for 2024-2027 was approved by Congress in 2023 and it is being implemented. The
+PPA 2024-27 has three pillars: (i) Social Development and Guarantee of Rights; (ii) Economic Development and Socio-
+
+21 According to SEEG, in 2022, Brazil’s net GHG emissions were of 1.688 GtCO2e. Agriculture and livestock emitted a net 617 MtCO2e (or 36 percent
+
+of total net GHG emissions), while land-use change and forest sector emitted 489 MtCO2e.
+22 Souza, Priscila and Amanda Albuquerque. 2023. Family Farming in Brazil: Inequalities in Credit Access. Rio de Janeiro: Climate Policy Initiative, 2023.
+23 Only 20 percent of women have access to land within the family agriculture segment. Additionally, only 12 percent of women obtain technical
+
+assistance (Censo Agropecuário – IBGE, 2017).
+24 World Bank Gender Data Portal. 2023. Brazil Country Profile.
+25 Women participation in associative activities is only 5.3 percent, while 12.8 percent two men participate in some type of association. (Censo
+
+Agropecuário – IBGE, 2017).
+26 Female-owned properties as less capital-intensive, relying on fewer modern inputs, hiring fewer workers, and having limited credit access
+
+compared to male-owned properties.
+27 Araujo, R. et al. 2024. Seeds of Disparity: The Gender Land Divide from Brazil’s Agricultural Transition (No. dk4bc). Center for Open Science.
+28 Northern Michigan University, 2021. https://nmu.edu/gender/sites/gender/files/2021-01/Martz-GC.GN495-Zine.pdf
+29 In Brazil, farmers sell, on average, 60 percent of their output. Among women led farmers, they only sell 46 percent of their outputs.
+
+                                                                                                                                                  Page 5
+       The World Bank
+       Bahia Sustainable Rural Development Project (P180429)
+
+
+Environmental and Climate Sustainability; and (iii) Defense of Democracy and Reconstruction of the State and Sovereignty.
+It also proposes five cross-cutting agendas: women, indigenous people, racial equality, children and adolescents, and
+green action. It involves renewed emphasis on themes present under President Lula’s 2003-10 administrations, new
+programs (e.g. the Ecological Transformation Plan-ETP) and more ambitious versions of earlier initiatives, such as: (i) the
+third Growth Acceleration Program (PAC) with USD 350 billion in infrastructure-related investments; (ii) the fifth Action
+Plan for Deforestation Prevention and Control in the Legal Amazon and Cerrado (PPCDAm and PPCerrado) to support the
+control of deforestation; (iii) National Programme for the Conversion of Degraded Pastures into Sustainable Agricultural,
+Livestock and Forestry Production Systems (iv) a bolder Plano Safra, with more than US$ 70 billion in credit lines for
+farmers and a stronger focus on climate mitigation, (iv) a new industrial policy, with USD 60 billion of financing until 2026;
+and (v) the ABC+ Plan aiming to promote adaptation to climate change and reduce GHG emissions.
+ C. Proposed Development Objective(s)
+ Development Objective(s) (From PAD)
+
+ 14. To increase market access, agricultural productivity and develop resilience of family farmers to shocks while
+ expanding access to resilient water services in selected rural areas.
+  Key Results
+    a) Increase the adoption of improved varieties, breeds or tress, and management practices that are climate-
+       environmentally friendly by POs and farmers supported by the project.
+    b) Increase sales of agricultural and food products from the POs supported by the project.
+    c) Increase in income of family farmers supported by the project (social inclusion).
+    d) Reduce the gender gap in revenue from sales between female-led and male-led POs.
+    e) Increase water availability and security in rural areas.
+  D. Project Description
+
+     Project Development Objective
+
+        (i) PDO Statement
+15. To increase market access, agricultural productivity and develop resilience of family farmers to shocks while
+expanding access to resilient water services in selected rural areas.
+
+
+
+
+                                                                                                                       Page 6
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+         (ii) PDO Level Indicators
+ PDOs                             Unit         PDO-Indicator
+
+ PDO #1. Increase                                i. Market Access: Increase in the sales of Producer Organizations (POs) - ( disaggregated
+ access to markets,                                 by POs classified as dynamic and in transition to market).
+ agricultural                                   ii. Market Access: Increase in agriculture sales for farmers supported by the project.
+ productivity, and            Percentage            (disaggregated by female-headed, male-headed, and indigenous and traditional
+ climate change                                     communities).
+ resilience of family
+                                               iii. Gender: Reducing (%) the inequality in gross sales between female-led and male-led
+ farmers
+                                                    Producer Organizations (POs).
+                                               iv. Agricultural Productivity: Farmers adopting improved agricultural technology
+                                                   (disaggregated by female, male, and youth)
+                                Number
+                                                v. Resilience to Shocks: People with enhanced resilience to climate risks (disaggregated
+                                                   by female, male, and youth) (ScoreCard).
+ PDO #2. Increase                              vi. Access to Drinking Water: People provided with water, sanitation, and hygiene, of
+ access to resilient            Number             which (%) is safely managed - (disaggregated by female , male, youth, families-led by
+ water services                                    indigenous and traditional communities) (ScoreCard).
+
+    Project Components
+16. Component 1. Increasing agricultural productivity, access to markets, and resilience to shocks (US$53,02 million
+IBRD and US$26,51 million from Government of Bahia). This component will finance technical studies, technical
+assistance (TA), and matching grants to co-finance business and ethnodevelopment plans of producer organizations (POs)
+and to support investments in climate-smart agriculture (CSA)30.
+17. Subcomponent 1.1. Pre-investments for business plans and ethnodevelopment plans. This subcomponent will
+finance: (i) raising awareness about the matching grant opportunities for potential beneficiaries of the project; (ii)
+preparation of business plans, which will include assessments of: market opportunities, POs business management
+capacity, and its members primary production challenges; (iii) technical assistance to POs financial and its member on
+financial literacy, access to finance and financial management; (iv) organizational development through learning from
+successful market-oriented POs (e.g., exchange of practical experience); (v) capacity building to POs and its member on
+food and nutrition security; (vii) capacity building for POs and its members on CSA technologies and good farming
+practices; (vi) capacity building to POs and its members on issues related to gender and youth on agricultural value chains;
+(vii) capacity building to technical service providers (from both public and private sector) to enable them to implement
+the proposed innovations of the project; (viii) design and development of digital platforms for the delivery of and
+monitoring of agricultural extension services; (ix) PO’s subscription to specialized digital services for market access; (x)
+food marketing studies and specialized technical services of sales prospecting in the agrifood system; (xii) technical
+assistance to ensure POs compliance with environmental required licensing; and (xiii) specialized services on logistic and
+operational support for POs; and (xv) support for POs participation in meetings, workshops, and events related to food
+industry and trade shows, among others. To properly finance the subprojects, the call for proposals will be value chain
+specific (i.e., cocoa, coffee, fruits, honey, livestock, etc).
+18. Subcomponent 1.2. Implementation of business and ethnodevelopment plans. This subcomponent will co-finance
+through matching grants the business and ethnodevelopment plans (“subprojects”) designed and approved under
+
+30 CSA practices and technologies are defined as those that contribute to climate change resilience, and/or climate change mitigation. CSA practices
+
+and technologies are those which contribute to achieving two or more of the three CSA pillars: improving productivity, adapting, and improving
+resilience to climate change, and mitigating climate change.
+
+                                                                                                                                             Page 7
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+subcomponent 1.1. Subprojects under subcomponent 1.2 will be required to incorporate CSA practices and technologies
+as a criterion for the grant award. The matching grants will co-finance a range of good and services related to the
+implementation of the approved business/ethnodevelopment plans including: (i) works - small infrastructure linked to the
+adoption of climate resilient technologies and farming practices; and (ii) strategic inputs such as plant, equipment,
+machinery, and tools related to the requirements of the business/ethnodevelopment plan.
+19. An evaluation committee will oversee the selection process of POs. This committee will, among other tasks,
+implement the following steps/tasks (see Table 1). A detailed explanation of all procedures and processes involved in the
+selection and approval process of POs will be provided in the POM.
+                   Table 1. A brief overview of the main task to be performed by the evaluation committee.
+
+ Steps                                Tasks
+ 1. Raise Awareness                   • Disseminate information about matching grant opportunities in rural areas through public
+                                        calls for expression of interests (EOI).
+                                      • These EOIs will outline eligibility criteria for participation.
+ 2. EOI Evaluation                    • Assess and select individual EOIs with the potential to be developed into business and
+                                        ethnodevelopment plans.
+ 3. Business/Ethnodevelopment         • Evaluate and select the business and ethnodevelopment plans submitted for implementation
+ Plan Selection                         under subcomponent 2.2.
+ 4. Selection and Evaluation          • Follow the eligibility and selection criteria specific to each grant window, targeted value
+ Criteria                               chains, and climate change requirements.
+                                      • Ensure that business plans selected properly rigorously incorporate activities to improve
+                                        market accessibility, increase productivity, foster sustainability, and build climate resilience.
+                                      • These strategies should be quantifiable and measurable for effective monitoring by the
+                                        Project Management Unit (PMU).
+ 5. Baseline, Interim Targets,        • Ensure that approved business or ethnodevelopment plans have baseline data, interim
+ and Outcomes                           targets, and anticipated outcomes to ensure a comprehensive approach toward achieving
+                                        project objectives.
+20. Subcomponent 1.3 - Improving access to rural credit, food safety certificates and environmental compliance. It will
+finance: (i) advisory services to translate the approved business/ethnodevelopment plans of POs into individualized credit
+requests tailored to each family farmer's needs; (ii) advisory services to assist the POs to leverage their developed
+business/ethnodevelopment plans to access additional credit lines from financial institutions to complement the matching
+grants awarded by the project when needed; (iii) technical assistance on land rights formalization to support the
+completion of essential documentation for land ownership verification; (iv) technical assistance to guide POs through the
+process of obtaining food safety licenses and certificates necessary for market access; and (v) technical assistance to
+ensure compliance with environmental regulations for POs and their members, which is becoming increasingly important
+for accessing credit lines and markets. Financing under this component will support investments that generate benefits
+for climate change resilience and mitigation31.
+21. Component 2. Bringing safe water services to rural communities (US$26,6 million from IBRD and US$13,3 million
+from the Government of Bahia). While this component will fund water infrastructure to improve and expand the access
+to water services from rural dwellers, its main objective will be to support the Bahia state efforts to develop a rural water
+state policy and bringing about institutional changes in the water sector to mainstream a strategy for managing rural water
+
+31
+  The PMU will establish technical cooperation agreements with designated financial institutions such as Banco do Brasil (BB), Banco do Nordeste
+(BNB), Cooperativas de Crédito Rural com Interação Solidária (CRESOL), Sistema de Cooperativas de Crédito do Brasil (SICOOB), and Programa
+Nacional de Fortalecimento da Agricultura Familiar (PRONAF). This effort aims to expand the pool of available credit to POs and their members.
+
+                                                                                                                                          Page 8
+         The World Bank
+         Bahia Sustainable Rural Development Project (P180429)
+
+
+services. Specifically, the component will support the implementation of the new “Centrais de Águas da Bahia” Program,
+which will promote the Centers of Community Associations (CCAs), known as ‘Centrais de Associações’ to address the
+chronic failures to reach sustainability of water services32. Following the client’s priorities, the Project will target the
+provision of water services33. This component will finance both, technical assistance (TA) to create and strengthening the
+CCAs and works of investments related with water supply systems. All activities under this Component are designed to
+strengthen the climate resilience of the beneficiaries and to integrate climate change mitigation and adaptation strategies.
+22. Subcomponent 2.1. Strengthening and consolidating the multi-community management model for water supply
+services. This subcomponent will support the establishment of the management model of “Centrais de Associações”. It
+will finance: (i) the organization of new CCAs and strengthening of existing ones; (ii) development of management skills,
+business plans, and training in the administration, operation, and maintenance of water systems; (iii) community
+mobilization and organization to encourage active participation of community users, hygiene promotion and
+environmental education, promotion of connectivity and tariff payment behavior. The menu of the technical assistance
+package may include, inter alia: (i) programs to control and reduce non-revenue water losses, installation of pressure
+reducing valves, leak detection and control; (ii) implement demand management practices, including commercial systems,
+revenue policies, and customer outreach to promote water conservation and communication strategies with the users
+before, during, and after extreme weather events to enhance climate resilience; (iii) improve supply management, which
+may include the establishment of information systems to monitor water resource quantity and improvements in
+maintenance planning; and (iv) strengthen social accountability measures to improve customer responsiveness. The action
+plan developed by the state foresees an average time of 24 months to support existing CCAs and 60 months for new ones.
+It will also support the strengthening of the model at state level with the consolidation of the technical assistance support
+by the Bahia Water and Sanitation Company (EMBASA) and the Water Engineering and Sanitation Company (CERB).
+23. Subcomponent 2.2. Investments in water infrastructure. This subcomponent will fund the design, construction of
+works and the supervision of investments related to the construction, expansion, and rehabilitation of drinking water
+supply infrastructure in targeted rural communities, where there has been a prior agreement to utilize the CCAs
+management model. It will finance, inter alia: (i) water intakes and borehole wells, pumping stations, transmission mains,
+water storage tanks, water treatment units including disinfection, distribution networks, household connections with
+water meters and, if applicable, environmental mitigation activities; (ii) technical and operational designs that will include
+hydrology and climate impact assessments, engineering designs, economic and financial assessments, social and
+environment aspects; and (iii) the supervision of works. Project activities would neither support the design and
+construction of new dams or rely on existing dams; water is expected to be supplied mostly by borehole wells, and in some
+specific cases from surface water streams, the hydraulic structures to be built will not fall under the category of storage
+or regulation dams or structures that could cause significant safety hazards as defined in ESS4.
+24. When designing and implementing the systems, CERB will adopt measures to increase the climate resilience of the
+water services, including: i) reservoirs capacities sized on the basis of the pump's operating time, which will result in the
+adoption of larger reservoir volumes than recommended in conventional technical literature; ii) adoption of a safe yield
+equivalent to a maximum of 70 percent of the well's tested flow rate; iii) demand management to raise awareness on
+rational water; iv) use and/or drilling of a complementary well in low yield aquifers; v) furthermore, when operating the
+systems, CERB, through its Management Unit of the ‘Centrais de Águas da Bahia’ Program (Gerencia de Gestão de
+Programa Centrais, GECEN), will monitor the operating flow rate of the wells to identify unexpected consumption
+
+
+
+32 The Error! Reference source not found. presents the results obtained in the Bahia’s previous implemented project (P147157). It explains the
+
+implementation of CCAs (Centrais de Águas da Bahia).
+33 The Bahia Sustainable Development Project (P147157) included the provision of rural water and sanitation services. However, it struggled to
+
+generate demand for rural household sanitation.
+
+                                                                                                                                        Page 9
+       The World Bank
+       Bahia Sustainable Rural Development Project (P180429)
+
+
+increases and/or lowering of the flow rate, for the adoption of corrective and/or preventive actions to prevent system
+damages. All these activities reduce vulnerability to climate change.
+25. Component 3. Designing and Scaling Innovative Solutions (US$4.7 million from IBRD and US$2.4 million from the
+Government of Bahia). This component will finance the design and scaling of innovations that can have a positive impact
+on the medium and long-term sustainability of the interventions on POs and Centrais.
+26. Subcomponent 3.1. Scaling innovations to improve productivity and access to markets. It will finance: (i) the
+implementation of Units of Technological Reference (UTRs); (ii) implementation of experimental fields dedicated for
+research on novel CSA technologies tailored to the region's specific needs; (iii) developing innovative technology licensing
+to ensure wider adoption of proven innovations by POs; (iv) the provision of real-time weather data and early warning
+systems for climate risks to POs; (v) Implement pilot projects to evaluate the carbon footprint of agricultural technologies
+and practices; (vi) design and implement studies on agroforestry systems and reforestation; (vii) and implement an online
+platform offering technical assistance resources, educational materials, and market access information for POs; (viii)
+strategic market certification for POs (e.g, organic and/or fair-trade); (ix) the establishment of participatory guarantee
+systems (PGSs) for organic certification together with training programs to equip POs with the skills to manage PGS; (x)
+advisory services to POs in integrating Environmental, Social, and Governance (ESG) principles into their operations; (xi)
+acquisition of online platforms to secure online ordering, payment processing solutions, and real-time market price and
+product availability information systems; (xii) improvements in the BiblioteCAR; (ii) technical assistance to implement
+communication strategies to promote brands and products from POs; and (iii) promotion of POs brands and products in
+food industry events and trade fairs.
+27. Subcomponent 3.2. Implementing photovoltaic power plants (PVPP) for sustainable RWS. This subcomponent will
+finance: (i) feasibility study - a comprehensive assessment to evaluate factors like solar irradiance, water demand, existing
+infrastructure, and estimated costs; (ii) system design and engineering - based on the feasibility study, engineers design
+the PVPP system, considering factors like panel type, inverter capacity, battery storage requirements, and integration with
+the existing water pumping infrastructure; (iii) acquisition of high-quality solar panels, inverters, batteries, and other
+necessary equipment and installation by qualified personnel; and (iv) commissioning and training - the system will be
+thoroughly tested and commissioned to ensure proper operation. Finally, training will be provided to local personnel for
+system maintenance and troubleshooting. All financing under this subcomponent will contribute to climate-smart
+outcomes through the promotion of renewable energies.
+28. Component 4. Contingency Emergency Response Component - CERC (US$0 million). The CERC is a mechanism for
+borrowers (Bahia) to access funds rapidly to respond to an eligible crisis or disasters and health emergency. Standard
+conditions will apply to allow the activation of the CERC and ensure its adequate implementation, completion, and
+evaluation. An operation manual will detail implementation arrangements including activities that may be included,
+eligible expenditures, financial management (FM), procurement procedures and methods, as well as environmental and
+social (E&S) standards management framework for the implementation of CERC related activities.
+29. Component 5. Project Management (US15.5 million IBRD and US$7.7 million from the Government of Bahia). It will
+finance activities related to: (i) financial management; (ii) procurement; (iii) monitoring and evaluation; (iv) managing
+compliance with social and environmental standards; (v) communication; and (vi) overall coordination from the Project;
+(vi) operating expenses and personnel costs of the Project Management Unit (PMU); (vii) information technology
+equipment, software for project management; (viii) hiring consultants in key project management areas; (ix) capacity
+building and training for implementation units; (x) the design and implementation of information management and
+communication activities on the project's processes and results; and (xi) implementation/improvement of project
+management systems. The administrative and operational process of calling, screening, selecting, awarding proposals,
+and managing contracts will be financed under component 5.
+
+
+
+                                                                                                                      Page 10
+       The World Bank
+       Bahia Sustainable Rural Development Project (P180429)
+
+
+30. Project estimated cost. The estimated cost of Phase 1 is US$150 million, of which US$100 million is financed with
+resources from IBRD and US$50 million is co-financing from the State Government of Bahia. The estimated costs
+consolidated by component and sub-component is displayed in Error! Reference source not found..
+                                                      Table 2. Estimated Costs
+
+      Components                                                                        Project budget US$ million
+                                                                                      IBRD     Local Total       %
+      Component 1. Increasing access to markets, productivity, and resilience         51.90    26.00   77.90      52.4
+      Component 2. Bringing safe water services to rural communities                  26.70    13.30   40.00      26.9
+      Component 3. Designing and scaling innovative solutions                         5.00      2.50    7.50      5.1
+      Component 4. Contingency Emergency Response Component - CERC                    0.00      0.00    0.00      0.0
+      Component 5. Project Management                                                 15.60     7.80   23.30      15.7
+      Total                                                                           99.20    49.60   150.00     100
+
+
+    Project Beneficiaries
+
+31. The project aims to reach at least 91,694 people. Direct beneficiaries include family farmers (crop and livestock),
+indigenous people, quilombolas, traditional communities, producer organizations (community associations and
+cooperatives), and Centrais associations. At least 50 percent of beneficiaries across all project components will be women.
+For components 1, the estimated number of beneficiaries will reach 36,294. For component 2, the estimated number of
+beneficiaries is nearly 55,400. Additional beneficiaries include other food system actors, schools, public and private
+institutions, federal and state agencies.
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                             Triggered?
+ Projects on International Waterways OP 7.50                                            No
+ Projects in Disputed Area OP 7.60                                                      No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+32. Overall, the project is expected to contribute to sustainable, resilient and inclusive rural development, generating
+positive environmental impacts and eco co-benefits. The environmental and social risk classification is proposed as
+Moderate. This accounts for the project scope and potential environmental and social risks and impacts resulting from the
+activities related to the small scale primary agricultural production, food processing, and the construction or rehabilitation
+works from small rural water supply systems. The project interventions are small-scale, and community based in nature
+which are not expected to have any significant or unmitigable social impacts and there will likely be no adverse impacts
+linked to resettlement or land acquisition. No significant adverse impacts are anticipated. The expected impacts are
+predictable, site specific, have minimal adverse impacts and easily mitigated. Based on the experience from previous
+project, CAR and CERB have developed a robust framework, and related systems to manage subprojects’ risks and impacts,
+including subprojects selection and exclusion criteria, impact identification, and monitoring of performance. To manage
+the risks and impacts, CAR and CERB worked together and prepared a ESFM in accordance with ESF requirements, and
+strengthen the systems they already have. The ESFM includes criteria for the eligibility of subprojects and an exclusion list
+
+
+                                                                                                                         Page 11
+           The World Bank
+           Bahia Sustainable Rural Development Project (P180429)
+
+
+including resettlement and activities that cause serious impacts on biodiversity. CAR prepared and published, prior to
+appraisal,a draft versions of SEP, ESMF, RF and IPPF. The final versions of these instruments, with consultation results, will
+be disclosed and adopted within 30 days of implementation, as described in the ESRS .To manage risks and impacts from
+this project, CAR must complete a new updated version of the ESMF during project preparation, in accordance with the
+requirements from ESF, and strengthen the systems they already have in place.
+33. Citizen Engagement. The Project has a robust citizen’s engagement approach. The participatory process, that includes
+consultations during preparation and implementation, will play a key role in engaging with stakeholders and receiving
+feedback from beneficiaries. The Project will use grassroot-level committees (e.g. Rural Development Forums/Collegiate
+Bodies and community associations) or other local participatory forum to support community participation and
+monitoring. The GRM will be linked to the Project’s monitoring and will collect information on beneficiary feedback and
+close the feedback loop with stakeholders by the indicator: Beneficiaries satisfied with productive investments and water
+access (Percentage) (Disaggregate by gender, indigenous and traditional communities) Disaggregate by Component 1
+beneficiaries and Component 2 beneficiaries. The Project will track the percentage of grievances responded to and
+resolved, in relation to the delivery of Project’s activities, by the indicator: Complaints and inquiries received through the
+Grievance Redress Mechanism that are registered and addressed. (Percentage). Culturally appropriate materials and
+differentiated strategies will be used so that indigenous peoples and vulnerable groups are not excluded from surveys and
+instruments, and monitoring and evaluation strategies.
+ E. Implementation
+ Institutional and Implementation Arrangements
+For the MPA
+       1. The World Bank, through its implementation support effort of the various phases, will work with MDA and Ministry
+         of Agriculture, Livestock and Food Supply (MAPA) in coordinating the program participation, overseeing monitoring
+         and evaluation activities, and fostering a robust learning agenda for the entire MPA. Each project management unit
+         (PMU) will be staffed with monitoring and evaluation (M&E) and knowledge specialists who will be partially
+         responsible for participating in the MPA learning agenda. Other specialized agencies from the Federal Government
+         may participate in the overall MPA coordination and learning (i.e. Embrapa, National Agency of Technical Assistance
+         – ANATER, Development Banks, among others) as needed to help the MPA’s implementation. The implementation
+         of the institutional arrangements for the MPA is, however, contingent upon on the federal level operation approval
+         and/or trust funds made available for this specific purpose.
+For the Bahia Sustainable Development Project (Phase 1).
+       2. The borrower is the State of Bahia with the Federative Republic of Brazil serving as the Guarantor. The State
+         Secretariat of Rural Development (SDR) will act as the implementing entity. The SDR will delegate the project
+         implementation to Company of Regional Development and Action (CAR), who will house a Project Management
+         Unit (PMU). The PMU will oversee the management, coordination, monitoring and evaluation of all project activities
+         and will assume key fiduciary responsibilities. The PMU will have full-time professionals dedicated to technical,
+         operational, and administrative tasks. The SDR/CAR have considerable experience working with the proposed PMU,
+         which was acquired through the implementation of previously projects financed by the World Bank34.
+       3. Following the experience of the previous project, CAR will establish a results-based contract with Luis Eduardo
+         Magalhães Foundation (FLEM) - a private non-profit institution that serves as a center for modernization and
+         development of public administration, who will support the PMU in managing the project, including the recruitment
+         of professionals needed for the project‘s execution. This shared management model has proven to be a best practice
+
+34
+     Produzir I (Loan 4623-BR), II (Loan 7327-BR), III (Loan 7732-BR), and Bahia Produtiva (P147157).
+
+                                                                                                                       Page 12
+            The World Bank
+            Bahia Sustainable Rural Development Project (P180429)
+
+
+          in previous World Bank-funded projects, offering agility in processes and high rates of professional retention
+          throughout implementation35.
+        4. To support the implementation of key activities of the project, CAR will establish cooperation agreements with:
+          (i) federal institutions: EMBRAPA, ANATER, Universidade Federal do Recôncavo Baiano - UFRB, Comissão Executiva
+          do Plano da Lavoura Cacaueira – CEPLAC, Banco do Brasil - BB, Banco do Nordeste - BNB; and (ii) state/municipal
+          level public institutions including: Superintendência Baiana de Assistência Técnica e Extensão Rural – BAHIATER,
+          Agencia de Defesa Agropecuaria da Bahia – ADAB, and Consorcios Públicos TerritoriaisError! Bookmark not defined.; and (iii)
+          credit cooperatives including: SISCOOOB and CRESOL. A Project Operating Manual (POM) will be prepared by the
+          State Government of Bahia and agreed with the World Bank before effectiveness. The POM will detail: (i) roles; (ii)
+          responsibilities, (iii) processes and (iv) procedures required to implement the project, among other things.
+5.     The project will involve the Bahia Water Engineering and Sanitation Company (CERB), which is part of the State
+  Secretariat of Water Infrastructure and Sanitation (SIHS). CERB will be a co-implementing entity for Component 2. It will
+  be responsible for the construction of new and rehabilitation of old rural water supply systems and the social and
+  environmental activities associated with it. In this component, CAR will be responsible just for setting up the new CCAs
+  and continuing strengthening the existing ones. To implement the component 2, CERB will establish technical agreements
+  with two key institutions in the water sector: EMBASA and GECEN. EMBASA will: (i) provide technical, commercial, and
+  operational support to the CCAs, and (ii) contribute to increase the number of water connections by transferring rural
+  water supply systems from EMBRASA to Centrais. In the other hand, GECEN will: (i) support planning and implementation
+  of institutional strengthening for CCAs, (ii) provide technical support for the renewal of environmental regularization
+  processes, (iii) provide technical support for the cadaster and/or update of existing rural water supply systems, (iii)
+  implement the rural water system operational management software to strengthen Centrais, (iv) provide training for
+  operators of rural water systems, and (v) procure gauging equipment for hydrometers.
+   @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+   CONTACT POINT
+
+   World Bank
+       Eirivelthon Santos Lima
+       Senior Agriculture Economist
+
+       Carlos Bellas Lamas
+       Senior Transport Specialist
+
+       Luis Alfonso Alvestegui Justiniano
+       Senior Water Supply and Sanitation Specialist
+
+   Borrower/Client/Recipient
+       Government of the State of Bahia
+       Jeronimo Rodrigues
+       Governor
+       governador@governadoria.ba.gov.br
+
+
+
+ 35
+      FLEM and CAR have had a partnership since 2008, when Mata Branca project was implemented, with a World Bank grant.
+
+
+                                                                                                                              Page 13
+     The World Bank
+     Bahia Sustainable Rural Development Project (P180429)
+
+
+Implementing Agencies
+ CAR - Companhia de Desenvolvimento e Acao Regional
+ Fernando Cabral
+ Coordinator
+ fernandocabral@car.ba.gov.br
+ Jeandro Ribeiro
+ Director
+ jeandro.ribeiro@car.ba.gov.br
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+                                       Eirivelthon Santos Lima, Carlos Bellas Lamas, Luis Alfonso Alvestegui
+Task Team Leader(s):
+                                       Justiniano
+
+Approved By
+
+Practice Manager/Manager:
+
+Country Director:
+
+
+
+
+                                                                                                               Page 14
+

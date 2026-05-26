@@ -1,0 +1,398 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Peru: Wastewater Management and Circular Economy (P505093)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 03-Jul-2024 | Report No: PIDDC00686
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Peru: Wastewater Management and Circular Economy (P505093)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+Peru, Peru                     P505093                     Peru: Wastewater Management and Circular Economy
+Region                         Estimated Appraisal Date    Estimated Approval Date       Practice Area (Lead)
+LATIN AMERICA AND              09-Dec-2024                 20-Feb-2025                   Water
+CARIBBEAN
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Republic of Peru            Ministry of Housing
+Financing (IPF)                                            Construction and
+                                                           Sanitation , Safe Water
+                                                           Program for Lima and
+                                                           Callao
+
+Proposed Development Objective(s)
+Increase access to safely managed sanitation in selected basins and strengthen government capacity for
+mainstreaming circular economy principles in wastewater treatment
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+Is this project Private Capital Enabling (PCE)?            No
+
+SUMMARY
+  Total Operation Cost                                                                                          240.00
+
+  Total Financing                                                                                               240.00
+             of which IBRD/IDA                                                                              200.00
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                             200.00
+
+                                                                                                                   Page 1
+       The World Bank
+       Peru: Wastewater Management and Circular Economy (P505093)
+
+
+
+   Non-World Bank Group Financing
+     Counterpart Funding                                                                                              40.00
+       National Government                                                                                            40.00
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                      Concept Review Decision
+Substantial                                                       The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1.      Peru's growth potential has slowed since 2014, leading to stagnation in both convergence and poverty
+reduction. The aftermath of the commodity boom posed challenges for sustained growth, with Gross Domestic Product
+(GDP) growing at an annual rate of 3.5 percent between 2013 and 2019—at half the pace of the previous decade. The
+COVID-19 pandemic led Peru into one of the deepest recessions in Latin America and increased the poverty rate by 10
+percent. The economy rebounded in 2021 to pre-pandemic levels, and, while poverty declined to 25.9 percent in 2021, it
+remains above the 2019 rate, hampered by lower employment quality and higher informality.
+2.      Water is a key driver of economic development in Peru. Water is crucial to Peru's economic development, with
+water-intensive sectors like manufacturing, mining, hydrocarbons, construction, agriculture, and utilities comprising
+nearly 40% of GDP. Agriculture alone, dependent on irrigation, employs nearly a quarter of the workforce and is vital for
+rural development, where poverty is prevalent. Mining and agriculture also dominate exports, accounting for 63% and
+16% respectively. Hydropower, generating 57% of the country’s electricity, further underscores water's role across GDP-
+contributing sectors. Additionally, Peru's diverse ecosystems, including wetlands, rivers, and lakes, support tourism,
+contributing 4.5% of GDP in 2020. Improving water security is essential for Peru’s prosperity and climate resilience. Despite
+being water-rich, Peru faces threats from climate change, pollution, and inefficient water use, making enhanced water
+management critical.
+3.       In this challenging context, embracing circular economy principles is essential for Peru’s roadmap towards
+water security. This is particularly important for municipal water supply and the agriculture sector, which together
+account for 98 percent of water consumption. These, as other productive sectors, have operated historically with a
+predominantly linear “take, make, consume and waste” model. In Peru coastal areas, characterized by water scarcity and
+concentrating most of the national population and consequently where most of sewerage flows are generated, urban
+wastewater infrastructure has, in the best of cases, relied on large collectors to convey wastewater to centralized
+wastewater treatment plants (WWTPs), with effluent discharged into the sea, resulting in the loss of valuable resources.
+Similarly, technical losses in drinking water supply systems are high, and irrigation efficiency is between 30 and 35 percent.
+Moreover, the lack of wastewater treatment, and poor irrigation, drainage nutrient management practices in agriculture
+are putting pressure on natural water bodies. Besides polluting water bodies, the water and agricultural sectors are
+accountable for over 16 percent of greenhouse gas (GHG) emissions.
+
+
+ Sectoral and Institutional Context
+
+                                                                                                                         Page 2
+        The World Bank
+        Peru: Wastewater Management and Circular Economy (P505093)
+
+
+
+4.      Despite having a comprehensive legal framework for water management, Peru has not reaped its benefits due
+to low levels of implementation. Over the past two decades, the Government of Peru (GoP) has demonstrated its
+commitment to strengthening the water sector by developing policies, plans and legislation on water resources
+management, water and sanitation services delivery, irrigation, and disaster risk mitigation. Although the reforms are
+comprehensive, implementation is lagging due to wider governance challenges pertaining to bias in the allocation of water
+usage rights,1 low levels of decentralization, the need for greater collaboration across sectors in water management and
+disaster management approaches, and limited gender equity in water resources management.
+5.       Peru is developing a policy and regulatory framework to transition to a circular economy, aiming to enhance
+water security. Challenges persist in achieving effective interinstitutional collaboration. The Ministry of Housing,
+Construction and Sanitation (MVCS) has introduced a circular economy roadmap for drinking water supply and sanitation
+under Legislative Decree 1620, yet regulatory and financial incentives for its implementation by water utilities are still in
+progress. Barriers in the energy and solid waste sectors hinder projects combining renewable energy generation with
+wastewater treatment and sludge utilization. The Ministry of Agricultural Development and Irrigation (MIDAGRI) has
+drafted a circular economy plan but awaits official enactment, lacking specific actions for reclaimed wastewater in
+irrigation or sludge as fertilizer. The Water Resources Law anticipates mechanisms for enhancing water efficiency across
+sectors, but implementation by the National Water Authority (ANA) is pending. Reclaimed water is recognized under law,
+but integration into basin-level water management plans and allocation schemes remains inadequate.
+6.      Peru faces significant challenges in wastewater treatment and circular economy due to heavy investment
+needs, low sector execution capacity, and weak utility performance. The National Sanitation Plan (2022-26) estimates
+an additional US$2.6 billion per year is needed to achieve universal access to safely managed water and sanitation services
+by 2030. However, in recent years, Peru has only allocated about US$1.6 billion annually to the sector, with a budget
+execution rate of just 50-60%. Low tariffs for water services, averaging US$0.62 per cubic meter compared to the regional
+average of US$1.44, further hinder utility performance and service quality. Consequently, 77% of the country’s 171
+wastewater treatment plants (WWTP) fail to meet discharge and reuse standards, with rural areas particularly affected.
+The situation necessitates a paradigm shift in the delivery and management of wastewater treatment infrastructure,
+adopting basin-wide and circular economy approaches, leveraging private capital through public-private partnerships, and
+ensuring appropriate technology and management models. This also requires balanced responsibility and risk allocation
+among the government, utilities, community organizations, and the private sector.
+
+
+ Relationship to CPF
+
+7.                The proposed MPA aligns with the Peru Country Partnership Framework for FY23-FY27 and the
+Strategic Country Diagnostic update. It will contribute to its three High Level Objectives (HLO): increased quality economic
+opportunities (HLO1), improved access to quality public services across the territory (HLO2), and increased resilience to
+shocks (HLO3), by promoting water security. The MPA also aligns with the Peru Climate Change Development Report,
+highlighting the need to improve the resilience of infrastructure and public services and tackling the decarbonization path
+by reusing wastewater and treating wastewater effluent. The proposed operation will contribute to the WB’s vision “to
+end extreme poverty and boost prosperity on a livable planet”; and aligns with the WB’s Global Challenge Program to
+Fast-Track Water Security and Climate Adaptation, which is designed to strengthen water security and related climate
+
+1 Female farmers oftentimes do not own the land that they farm, or if they do, do not hold the land titles under their names, which impacts their
+
+productivity and their participation in decision-making bodies, as land titles are required to obtain water rights and to become members of WUOs.
+Women have less access than male farmers to irrigation technology, extension services, finance, and information about markets and innovative
+concepts such as climate resilient agriculture. They are often under-represented, both as members and leaders, in irrigation institutions, such as
+water user associations, thereby limiting their voice in decision-making processes about the management of irrigation systems.
+
+                                                                                                                                             Page 3
+       The World Bank
+       Peru: Wastewater Management and Circular Economy (P505093)
+
+
+adaptation through systems change and targeted investments in water, sanitation, irrigation, water resources
+management, and by reducing flood and drought risks.
+ C. Proposed Development Objective(s)
+ Increase access to safely managed sanitation in selected basins and strengthen government capacity for mainstreaming
+ circular economy principles in wastewater treatment
+
+  Key Results (From PCN)
+
+ D. Concept Description (MPA and first phase IPF)
+
+8.      The proposed MPA is a comprehensive, four-phase, multisectoral program with overlapping Investment Project
+Financing (IPF) operations over a 10-year implementation period. Two of these IPF operations, led by MVCS, will focus
+on reducing pollution, increasing water availability, enhancing resilience against, and mitigating the impact of climate
+change. This will be achieved by strengthening the governance framework and implementing basin-wide pilot initiatives
+for wastewater treatment and reuse, adopting circular economy principles. The other two IPF operations will be jointly
+implemented by MIDAGRI and ANA, aiming to enhance water security by strengthening the institutional capacity of these
+two institutions to improve water resources governance, facilitate the adoption of green and climate-smart agricultural
+practices, and increase water access and efficiency of irrigation services.
+
+
+
+
+9.      Mainstreaming circular economy approaches will require a triple shift of integrating various institutions’
+approaches, developing a new generation of circular projects in critical basins and improving PPP models learning from
+first phase. The MPA instrument gives the opportunity to bring various institutions and involves coordinating multiple
+actors and ministries with diverse mandates. The MPA offers flexibility by enabling a focus on immediate challenges while
+also providing support for addressing longer-term, structural challenges. In particular, during the first phase, the
+instrument will enable the implementation of non-regrettable circular economy solutions. It will also lay the foundation
+for a regulatory framework that facilitates the adoption of sustainable practices identified in the roadmap of circular
+economy in the water sector for Peru and WWTP strategy development. Additionally, this phase will prepare the
+groundwork for the next generation of circular projects and PPP models, which will be implemented in subsequent phases.
+
+10.     The Program Development Objective (PrDO) is to “strengthen the capacity of the Peruvian government for
+mainstreaming circular economy principles to improve water security in the national territory”. For this, the MPA will
+use “reduce-reuse-recycle-recover” circular approaches by: (i) improving and increasing wastewater treatment an
+supporting the adoption of enhanced nutrient management techniques in agriculture to reduce pollution and maintain an
+acceptable quality of water resources for all uses; (ii) improving the efficiency of irrigation systems and recycling and
+reusing wastewater effluents to increase water availability for all uses; (iii) recovering renewable energy, nutrients and
+
+
+                                                                                                                      Page 4
+       The World Bank
+       Peru: Wastewater Management and Circular Economy (P505093)
+
+
+other byproducts of agricultural activities and the wastewater treatment process to mitigate climate change (CC) and the
+impact of water service delivery on natural ecosystems. The MPA will also build resilience against CC induced droughts
+and floods, supporting the development of water security plans both at basin and utility level, increasing the capacity to
+regulate natural water flows, balancing the use of gray (dams) and green (managed aquifer recharge) infrastructure.
+
+11.      In a context of high vulnerability to climate change, Phase I will target the Lurín river basin, which constitutes
+the southern expansion area of the Lima Metropolitan region in its lower part. As part of this phase, MVCS will design
+wastewater treatment infrastructure and intervention approaches to be tested in two other basins (the rural water scarce
+basin intervened in phase II and the third basin screened for its circular economy and PPP potential) during Phase III. The
+Lurín basin faces challenges of insufficient water quantity and low water quality, in a context of strong anthropogenic
+pressure and vulnerability to climate change. The Lurín river is born in the central mountain range of the Andes (5,300
+meters above sea level) and flows 111 km into the Pacific Ocean. Of the total water demands in the basin, 86 percent is
+for irrigation and 14 percent is for municipal, industrial, and mining uses. However, only 20 percent of the agricultural
+water demand is met during the dry period (September-November), mainly due to the basin’s unregulated condition. In
+addition to having an unmet demand cover, according to the last water balance for 2023-2024, the Lurín aquifer is being
+slightly overexploited with a groundwater deficit between May and December.
+
+12.      Phase I Project Development Objective (PDO) is to increase access to safely managed sanitation in selected
+basins and strengthen government capacity for mainstreaming circular economy principles in wastewater treatment.
+The operation of the WWTPs will benefit approximately 500,000 people by providing direct access to safely managed
+sanitation services. Additionally, these operations will remove organic contamination from the Lurín River, improving
+environmental conditions. Water reuse practices will make additional water available for 2,000 hectares of agricultural
+land in the Lurín Water Basin. The proposed PDO indicator for the first phase is: i) people provided with access to safely
+managed sanitation services (target 500,000); ii) m3/year of wastewater reuse (TBD); iii) mass of BOD pollution load
+removed by WWTPs developed under the project (TBD); and iv) adoption of a water security plan for the water utility,
+establishing drought and flood management measures in an area affected by climate change–aggravated droughts.
+
+13.       This first component will finance the infrastructure and studies needed to enable circularity projects in the
+ Lurín basin (US$210 million). Specific component activities are:
+(i)       Expansion of the Julio C. Tello and Manchay WWTPs and associated, energy cogeneration, and sludge treatment
+facilities. These infrastructure works will also include activities needed for water reclamation and aquifer recharge.
+(ii)      Water and sanitation infrastructure for rural communities located up stream of SEDAPAL’s service area,
+including wastewater treatment facilities employing technologies adapted to the local rural context.
+(v)       Necessary engineering and environmental studies needed for the infrastructure under this component.
+
+14.     The governance component will support the improvement of MVCS’ institutional capacity and of wastewater
+management and circular economy governance frameworks, necessary to scale up lessons learned through program
+implementation (US$ 12 million). This will improve the government’s IWRM and help it mainstream circular economy
+principles in its policy planning and implementation, thus contributing to climate resilience.
+
+15.      The project management component will finance the procurement of equipment and tools, the hiring of
+specialized personnel, and consulting services for the two implementing units of Phase I. (US$ 18 million). The
+infrastructure component of the project will be implemented by the Water Security Program for Lima and Callao (PASLC
+in its Spanish acronym), an autonomous execution agency operating under the authority of the MVCS, in charge of
+
+
+                                                                                                                       Page 5
+       The World Bank
+       Peru: Wastewater Management and Circular Economy (P505093)
+
+
+developing WSS infrastructure in the Lima Metropolitan area. The governance component will be implemented by MVCS’
+DGPPCS. Under the management component, the PASLC will hire a Project Management Office (PMO) to support the
+implementation and supervision of the project.
+
+16.      In Phase I, MVCS’ DGPPCS and PASLC will be the PIUs in charge of the governance and infrastructure
+components, respectively. PASLC will consolidate interim financial reports for the project and prepare the annual financial
+audit report. PASLC is an autonomous execution agency operating under the authority of MVCS, responsible for
+developing WSS infrastructure in the Lima Metropolitan area. Since its creation in 2017, PASLC has significantly expanded
+its project portfolio and has been responsible for implementing 88 projects over the past four years, with an average
+annual investment budget of around USD 85 million and an average burn rate of 90 percent. While this will be the first
+project involving the construction of wastewater treatment facilities, PASLC has previous experience managing large works
+contracts, particularly for WSS network construction, with its biggest project having a budget of US$ 86 million. This will
+by the first operation for PASLC not funded exclusively with fiscal resources. DGPPCS conducts projects with private sector
+participation, contracts pre-investment studies for co-financed state initiatives, and defines the scope of PPP contracts
+with the national PPP unit, Proinversión. While DGPPCS has previous experience managing large consulting contracts, it
+has no previous experience with WB procurement and financial management regulations. Figure 3 below illustrates the
+implementation arrangements considered for Phase I of the MPA.
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                                                                                    Triggered?
+                                                              Last approved                             Current
+ Projects on International Waterways OP 7.50                        No
+ Projects in Disputed Area OP 7.60                                  No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+The environmental and social risk rating is currently considered Substantial. The first component includes at least four
+types of infrastructure interventions: i) two types of WWTPs (Manchay and Julio C. Tello) requiring a deeper E&S
+assessment, ii) water and sanitation infrastructure, and iii) aquifer recharge infrastructure in the lower part of the aquifer.
+The precise location of the infrastructure works in the upper Lurin basin are still unknown. Associated facilities, such as
+the expansion of the sewage network for the new WWTPs are potentially relevant, this will be confirmed during project
+preparation. Preliminary environmental and health & safety risks and impacts include: i) non-compliance with
+environmental quality standards (EQS) in the receiving water body due to seasonal and scarce/dry basin conditions ii)
+untreated sludge accumulation due to unavailable disposal/reuse options, iii) EHS risks rising from transportation of
+equipment, construction materials and project waste, iv) affectation of archaeological remains (Julio C. Tello WWTP is
+adjacent to the Pachacamac Archaeological Sanctuary), v) community accidents, public space occupation, and traffic
+
+
+                                                                                                                          Page 6
+       The World Bank
+       Peru: Wastewater Management and Circular Economy (P505093)
+
+
+obstructions, and vi) outages or overflows at the existing WWTP during the construction of the new plants, risking
+untreated wastewater spills and community health.
+
+The main social risks that contribute to the rating include: (i) potential minor physical and economic displacement; ii)
+opposition from community members to the expansion of the two wastewater treatment plants or construction of new
+plants; iii) disturbances to local communities during civil works, such as noise, dust and traffic disruptions; (iv) occupational
+health and safety risks for project workers; and (v) potential exclusion of vulnerable groups and water users from project
+benefits, particular for the expansion of water supply and sewer networks in the Lurin and Manchay districts, and exclusion
+from decision making processes under the governance component to support the improvement of MVCS’ institutional
+capacity and water and wastewater management frameworks. In addition, the client does not have experience in
+managing environmental and social risks under the WB ESF and making them compulsory to their contractors. Measures
+to mitigate environmental and social risks include the preparation of a Stakeholder Engagement Plan and Labor
+Management Procedures by appraisal and site specific environmental and social management plans for Tello and Manchay
+WWTP by appraisal and plans for the rural WWTPs during implementation. These measures will be summarized in the
+Environmental and Social Commitment Plan drafted by appraisal and agreed to during negotiation.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Malva Baskovich
+   Senior Water Supply and Sanitation Specialist
+
+   Zael Sanz Uriarte
+   Senior Water Supply and Sanitation Specialist
+
+ Borrower/Client/Recipient
+  Republic of Peru
+
+ Implementing Agencies
+  Ministry of Housing Construction and Sanitation
+  Carolina Gizella Lenkey Ramos
+  General Director of the General Directorate of Programs and Projects in Construction and Sanitation
+  clenkey@vivienda.gob.pe
+
+  Safe Water Program for Lima and Callao
+  Max Alberto Sáenz Carrillo
+  Executive Director of the Safe Water Program for Lima and Callao
+  msaenz@vivienda.gob.pe
+
+  FOR MORE INFORMATION CONTACT
+
+
+
+                                                                                                                            Page 7
+     The World Bank
+     Peru: Wastewater Management and Circular Economy (P505093)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                 Malva Baskovich, Zael Sanz Uriarte
+
+Approved By
+
+Practice Manager/Manager:            David Michaud                        18-Jun-2024
+
+Country Director:                    Karina V. Olivas                     03-Jul-2024
+
+
+
+
+                                                                                        Page 8
+

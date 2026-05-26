@@ -1,0 +1,451 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 19-Mar-2026 | Report No: PIDDC01401
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)        Operation ID                    Operation Name
+Montenegro                      P512709                         Montenegro Water Services and Climate Resilience Phase
+                                                                1 Project
+Region                          Estimated Appraisal Date        Estimated Approval Date         Practice Area (Lead)
+EUROPE AND CENTRAL              12-Jun-2026                     30-Oct-2026                     Water
+ASIA
+Financing Instrument            Borrower(s)                     Implementing Agency
+Investment Project              Montenegro                      Ministry of Agriculture,
+Financing (IPF)                                                 Forestry and Water
+                                                                Management, PROCON -
+                                                                DOO "Project - Consulting",
+                                                                Ministry of Ecology,
+                                                                Sustainable Development
+                                                                and Northern Region
+                                                                Development
+
+Proposed Development Objective(s)
+The objective of the project is to improve access, reliability, efficiency, and climate resilience of water services in
+Montenegro.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                       Yes
+Is this project Private Capital Enabling (PCE)?                 No
+
+SUMMARY
+  Total Operation Cost                                                                                                    58.00
+
+  Total Financing                                                                                                         58.00
+             of which IBRD/IDA                                                                                         35.00
+  Financing Gap                                                                                                            0.00
+
+
+
+                                                                                                                            Page 1
+      The World Bank
+      Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+ DETAILS
+   World Bank Group Financing
+     International Bank for Reconstruction and Development (IBRD)                                                35.00
+   Non-World Bank Group Financing
+     Other Sources                                                                                               23.00
+       OPEC FUND                                                                                                 23.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                   Concept Review Decision
+Substantial                                                    The review did authorize the preparation to continue
+
+
+
+
+Other Decision (as needed)
+
+B. Introduction and Context
+
+Country Context
+
+1. Montenegro is a small, upper-middle-income economy whose strategy is anchored in EU accession. After a historic
+   15.3 percent decline in 2020, growth rebounded strongly in 2021–23 but moderated to about 3 percent in 2024 and
+   is projected around that pace in 2025 amid softer industrial output and a challenging global environment. Private
+   consumption and investment continue to support economic activity, helped by higher real wages, solid employment,
+   and credit growth. Inflation eased to nearly 3-4 percent in 2024 and is expected to converge toward 2-3 percent over
+   the medium term.
+
+2. Fiscal and debt dynamics have improved since the pandemic, but vulnerabilities persist. Public debt fell from 103.5
+   percent of GDP in 2020 to about 60–61 percent by 2023–24, yet sizable and lumpy Eurobond redemptions in 2025-
+   27, together with higher financing costs, point to rising debt ratios in the mid‑60s without additional consolidation.
+   Deficits are projected above 3 percent of GDP due to higher social spending and capital outlays and recent labor tax
+   and contribution cuts, underscoring the need for disciplined policy, medium‑term fiscal frameworks, and revenue
+   and expenditure measures to preserve sustainability.
+
+3. EU accession remains as the reform anchor. A positive Interim Benchmark Assessment in June 2024 on the
+   rule‑of‑law track enabled the country to begin closing chapters, signaling renewed momentum. The country is widely
+   expected to join the EU around 2028, provided it completes accession negotiations by 2026 and secures unanimous
+   approval from all member states. Alignment with the acquis - especially Chapter 27 on Environment and Climate
+
+
+                                                                                                                      Page 2
+        The World Bank
+        Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+     Change - drives the agenda and shapes investment priorities, with the FY25-29 CPF centering on better economic
+     opportunities, improved environmental outcomes, and institutional strengthening, while leveraging EU and private
+     finance.
+
+ 4. The economic structure - highly reliant on tourism - brings jobs and external receipts but leaves the economy
+    exposed to shocks and seasonality. Tourism contributes more than 30 percent of the country’s GDP, underscoring
+    its outsized role. The current account deficit remains large and only partly financed by foreign direct investment (FDI),
+    contributing to external vulnerabilities. The financial sector is well capitalized and liquid, with declining non-
+    performing loans (NPLs), but credit and real‑estate cycles require careful supervision. Labor market outcomes have
+    improved: employment and activity rates reached record highs; unemployment fell to around 11-12 percent in 2024,
+    and poverty (upper‑middle‑income line) is projected to decline toward the high‑single digits by the mid‑2020s.
+
+ 5. Climate and environmental risks are material for growth, fiscal stability, and EU accession. Montenegro is
+    experiencing increasing climate variability, characterized by more frequent and severe droughts, reduced summer
+    precipitation, and episodic flooding linked to intense rainfall events. Rising temperatures and declining rainfall during
+    the summer months are reducing surface and groundwater availability, while floods - though episodic - strain water
+    infrastructure without significantly improving usable water quantities. These dynamics are particularly challenging in
+    tourism-intensive areas, where peak water demand coincides with the driest period of the year, exacerbating supply
+    constraints. Climate change is intensifying hydrological stress and increasing the vulnerability of water supply
+    systems. Decarbonization and adaptation priorities1 include scaling energy efficiency, integrating renewables,
+    strengthening climate‑resilient infrastructure and land/water management, and enhancing disaster risk
+    management - actions that are consistent with the Western Balkans Country Climate and Development Report2
+    (CCDR) and the CPF focus on improved environmental outcomes.
+
+ Sectoral and Institutional Context
+
+ 6. Montenegro is a water‑rich country with abundant resources and high precipitation shaped by its mountainous
+    landscape. Nevertheless, achieving water security and climate resilience is challenging due to complex hydrological
+    conditions influenced by the Dinaric Karst and compounded by increasing climate variability. Seasonal droughts,
+    episodic flooding, and karstic groundwater dynamics create spatial and temporal mismatches between availability
+    and demand, heightening operational and investment needs for resilient water management.
+
+ 7. Service performance issues further constrain sector outcomes. While access to piped water supply exceeds 90
+    percent, significant gaps persist in wastewater services: less than half of wastewater is treated, and many treatment
+    plants face operational difficulties, particularly with sludge management and rising energy costs. The efficiency and
+    sustainability of water supply systems are pressing concerns, with non‑revenue water (NRW) averaging about 68
+    percent nationally and ranging from approximately 34 percent in Tivat to 85 percent in Danilovgrad3. These losses
+    and commercial inefficiencies underscore the urgency of modernizing water supply infrastructure and strengthening
+    utility business operations.
+
+
+
+1 Government of Montenegro. 2021. Updated Nationally Determined Contribution (NDC) submitted to the UNFCCC on 15 June 2021. UNFCCC.
+2 World Bank Group. 2024. Western Balkans Six - Country Climate and Development Report. Washington, DC.
+3 Annual Report on the Comparison of Business Indicators of Regulated Communal Activities for 2023, REGAGEN 2024
+
+
+
+                                                                                                                                      Page 3
+      The World Bank
+      Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+8. These water security risks are further intensified by unsustainable water and sediment management practices,
+   which threaten the country’s strategic water resources. Scientific studies conducted in recent years suggest that
+   extensive gravel extraction from the Morača River has caused riverbed deepening and, in turn, reduced discharge
+   from the Bolje Sestre spring - the main strategic water source for the coastal water supply - over the past decade
+   (Figure 1). As a result, in July 2025, the Regional Water Supply Company for the Montenegrin Coast operated at nearly
+   90% of its delivery capacity even before the August peak season, when demand surges due to tourism. This situation
+   poses a growing risk to coastal tourism, which contributes more than 30% of the country’s GDP (Figure 2).
+   Institutional fragmentation among sector stakeholders further hampers efficiency and weakens governance, limiting
+   the sector’s ability to respond effectively to these challenges.
+    Figure 1: Discharge trend of the Bolje Sestre spring        Figure 2: Contribution of tourism to Montenegro’s GDP
+
+
+
+
+9. Montenegro’s EU alignment in the water sector requires major investments and targeted policy and institutional
+   reforms. The World Bank is supporting Montenegro’s water sector through a range of initiatives, including the
+   ongoing Sava‑Drava Integrated River Corridor Project (SDIP) as well as technical assistance and capacity building
+   efforts in the frame of the Danube Water Program and the Utilities of the Future Centre of Excellence. Furthermore,
+   the World Bank is supporting the ongoing sector reform in Montenegro, which includes a revision of the Law on
+   Utility Services, and the development of a new Law on Water Services. Under the ongoing negotiations for EU
+   accession, envisaged for 2028, timelines for compliance with the EU Drinking Water Directive (DWD) and the Urban
+   Wastewater Treatment Directive (UWWTD) are being discussed for 2035. Meeting these requirements will mean
+   expanding and rehabilitating water supply and wastewater networks, ensuring adequate treatment, upgrading
+   sludge management, and modernizing monitoring and reporting - alongside energy‑efficiency improvements in
+   utilities. On the policy side, alignment entails transposing and implementing risk‑based Water Safety Plans, stronger
+   leakage control, and clear consumer information for drinking water. For urban wastewater, it requires robust
+   permitting, sensitive‑area designation, compliance monitoring, and transparent performance reporting. These
+   actions must be supported by regulatory and tariff reforms that secure service quality and financial viability,
+   consistent with the EU Water Framework Directive’s (WFD) cost‑recovery principle. Timely, well‑prioritized
+   investments and modernization of sector policies, regulation, and institutions are therefore a national imperative.
+
+10. The proposed project seeks to support Montenegro in addressing a number of these challenges through strategic
+    investments in water services infrastructure, enhanced and integrated management of river basins, and
+    strengthened governance frameworks for water management. Improving policies, institutions, and regulations will
+    be crucial to enhancing service provision and ensuring the long-term resilience and sustainable use of water
+    resources, ultimately supporting Montenegro’s socio-economic development and advancing its EU accession agenda.
+
+
+                                                                                                                        Page 4
+       The World Bank
+       Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+Relationship to CPF
+
+11. The proposed project is closely aligned with the World Bank Group’s Country Partnership Framework (CPF) for
+    Montenegro, which prioritizes sustainable, resilient, and inclusive growth. By addressing critical gaps in water
+    supply, wastewater management, and climate resilience, the project contributes directly to CPF objectives related to
+    improving infrastructure efficiency, strengthening environmental sustainability, and enhancing institutional capacity.
+    Investments in water services and integrated river basin management will support improved public service delivery,
+    reduce vulnerability to climate change, and safeguard the natural resources that underpin Montenegro’s tourism-
+    driven economy. Furthermore, the project will advance the country’s EU accession agenda by supporting compliance
+    with the EU Drinking Water Directive and the Urban Wastewater Treatment Directive, thus reinforcing Montenegro’s
+    long-term development and integration goals. Additionally, the project is consistent with Montenegro’s Nationally
+    Determined Contribution (NDC)4, which has a GHG emission wide reduction target of 35% by 2030 compared to base
+    year (1990) emissions, excluding land use, land-use change, and forestry (LULUCF). Moreover, the water sector -
+    particularly the projected increase in droughts and seasonal pressure on water use during summer, and the resulting
+    impacts on tourism and the coastal region - is identified as a priority.
+
+C. Proposed Development Objective(s)
+The objective of the project is to improve access, reliability, efficiency, and climate resilience of water services in
+Montenegro.
+
+
+ Key Results (From PCN)
+
+12. Proposed Key Results Indicators. A concise, activity‑linked set of indicators is proposed that captures service
+    improvements, climate resilience, coastal water security, and enabling policy and regulatory reforms. These include:
+    (i) people provided with access to improved water supply and/or sanitation services in participating municipalities;
+    (ii) reduction in non-revenue water (%) in targeted utilities; (iii) coastal water security: supplementary
+    treatment/abstraction capacity for the Malo Blato/Bolje Sestre coastal system commissioned and operational
+    (liters/second), with availability during summer peak demand; (iv) adoption and initial implementation of a national
+    water supply and sanitation sector strategy; (v) adoption and application of an updated, cost‑recovery‑oriented
+    tariff methodology; (vi) operationalization of a national utility performance platform with regular reporting by
+    participating utilities; and (vii) number of utilities adopting improved O&M practices following capacity‑building and
+    training. Key Results Indicators will be further developed and refined during the further project preparation.
+    Baselines and feasible end targets will be confirmed at appraisal, with institutional indicators tracked through formal
+    adoption and operational status.
+
+D. Concept Description
+
+13. This Phase 1 (hereinafter, Project) will focus on three key areas: (i) Strategic Investments in Water Services
+    Infrastructure and Resilience; (ii) Integrated Approaches for Coastal Water Security; and (iii) Strengthening the
+    Enabling Environment for Effective Water Sector Governance and Management to support Montenegro’s water
+    sector and climate resilience.
+
+
+https://unfccc.int/sites/default/files/NDC/2022-06/Updated%20NDC%20for%20Montenegro.pdf
+
+                                                                                                                          Page 5
+      The World Bank
+      Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+14. The Project offers a timely opportunity to advance the modernization and strengthening of Montenegro’s policy,
+    institutional, and regulatory framework as part of the ongoing water sector reform and in the context of climate-
+    induced water scarcity and change precipitation patterns. In addition, it will tackle the most urgent water security
+    challenges exacerbated by climate change, with a particular focus on the coastal region, while promoting broader
+    improvements in access, quality, and efficiency of water supply and sanitation services nationwide. The proposed
+    Project will be structured around four key components.
+
+15. Component 1 - Strategic Investments in Water Services Infrastructure and Resilience. This component aims to
+    rehabilitate, modernize and expand water services infrastructure, thereby increasing access, efficiency, safety, and
+    climate resilience of services for households and businesses. This includes targeted investments in: (a) the
+    rehabilitation of dated centralized water supply systems and replacement of asbestos pipes to reduce water losses
+    and mitigate health risks associated with long-term ingestion of contaminated water; (b) the expansion of centralized
+    wastewater treatment services to reduce water pollution and improve environmental health; and (c) the
+    modernization and expansion of decentralized water services infrastructure to better serve rural populations in
+    remote areas - all of which ultimately increases climate resilience.
+
+16. Component 2 - Integrated Approaches for Coastal Water Security. This component is designed to tackle pressing
+    challenges in securing the coastal water supply managed by the Regional Water Supply Company for the Montenegrin
+    Coast. The water is sourced from the Bolje Sestre spring in the vicinity of the Morača River, which discharges into
+    Lake Skadar, the largest lake in the Balkans, and transported through bulk supply lines to the coastal region. However,
+    a decrease in the spring's discharge over the last decade in connection with gravel excavation activities from the
+    Morača River, necessitates immediate action to ensure the continued reliability of the coastal water supply. To
+    address these challenges, the component will focus on two key issues: (i) sub-component 2.1 – Enhancement of lake
+    water treatment capacity and (ii) sub-component 2.2 – Technical Assistance for Enhancing the Morača River’s Hydro-
+    Morphological Regime and Water Resource Sustainability.
+
+17. Component 3 - Strengthening Enabling Environment for Effective Water Sector Governance and Management.
+    Presently, water sector services are threatened both for their financial and operational sustainability. The
+    implementation plan for the Drinking Water Directive lists an estimate of EUR 580 million needed for water supply
+    alone, including EUR 220 million identified as priority investments by 2036, while the Municipal Wastewater
+    Management Plan (2019) foresees the need for EUR 471.5 million in wastewater-related investments by 2035. To
+    address these challenges, strengthening policies, institutions, and regulatory frameworks is essential. Such
+    improvements will foster an enabling environment for the necessary investments by enhancing governance,
+    increasing sector resilience and preparedness for climate change, ensuring compliance with EU Directives, and
+    improving operational efficiency. In addition, Component 3 will seek to create conditions that progressively enable
+    alternative financing and service delivery arrangements, including through greater involvement of the private sector
+    over time. Ultimately, these measures will support the goal of providing universal access to resilient and safe water
+    supply and sanitation services. Proposed activities under discussion for Component 3, mainly supported via
+    specialized consultancy services, will focus on: legislative and regulatory reforms; tariff methodology updates;
+    techno-economic analysis of water services delivery; development of a National Water Services Provision Strategy
+    and Action Plan; strengthening of sector data collection, monitoring, and benchmarking systems; and capacity
+    building at both the water operator and local government levels.
+
+
+
+                                                                                                                       Page 6
+       The World Bank
+       Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+ 18. Component 4 - Project Management will support effective project management and coordination to ensure timely
+     and efficient implementation of all project activities. This component will finance the establishment and operation
+     of a Project Implementation Unit (PIU) responsible for overall project oversight, fiduciary management - including
+     financial management, procurement, and auditing - application of environmental and social safeguards, and
+     monitoring and evaluation of project progress. It will also strengthen institutional capacity through targeted training
+     and technical assistance, facilitate knowledge management and dissemination of lessons learned, and support the
+     development and implementation of a comprehensive communications and stakeholder engagement strategy. By
+     reinforcing project governance structures and promoting transparent coordination among stakeholders, Component
+     4 will help mitigate implementation risks and contribute to the achievement of project objectives and sustainable
+     outcomes.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+The Project is classified as Substantial Environmental and Social Risk due to its nationwide, multi-site civil works to
+rehabilitate, modernize, and expand water and wastewater infrastructure. Relevant ESF standards: ESS1, ESS2, ESS3, ESS4,
+ESS5, ESS6, ESS8, ESS10. Activities may include replacement of asbestos-containing pipes, WWTP
+expansion/reconstruction, extensive urban/rural network works, capacity expansion at Malo Blato near sensitive water
+bodies, and TA for the Morača River basin. Substantial environmental risk stems from: (i) hazardous materials and legacy
+issues (asbestos, sludge) requiring licensed handling, transport, and disposal; (ii) dispersed construction interfaces with
+communities creating CHS risks (open trenches, traffic conflicts, dust, noise, vibration, utility strikes); (iii) works
+near/discharges to sensitive aquatic systems with hydrology and water quality risks; (iv) uncertainty and oversight
+complexity across multiple entities, contractors, and remote sites. While largely site-specific and mitigable, risks demand
+robust instruments, capacity, and supervision. CHS risks include exposure to noise, dust, traffic, hazardous materials
+(asbestos, biological pollutants), and hazards linked to sludge facility rehabilitation (transport, storage, treatment). CHS
+risks may also involve safe access to adequate water quality during rehabilitation, pipeline replacement, and
+commissioning of new facilities due to temporary disruptions or water quality fluctuations. Mitigation will include an ESMF
+with screening/exclusion of high-risk activities; site-specific ESMPs and contractor CESMPs; and other instruments
+prepared before works based on subproject risk screening. TA ToR for the Morača basin will embed ESF-consistent
+assessment of hydrology, sediment, biodiversity, ecosystem services, and cumulative impacts to manage downstream risk.
+Social impacts are expected to be localized and temporary, especially in rural/peri-urban areas. Most construction will
+occur in existing utility corridors or public land, but some locations remain undefined. Certain subprojects (e.g., rural
+
+
+                                                                                                                        Page 7
+       The World Bank
+       Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+expansion or new treatment capacity) may require limited land acquisition or temporary land use, potentially causing
+minor physical/economic displacement, to be addressed through an RPF and site-specific RAPs per ESS5. Temporary
+disruptions to access, livelihoods, and small businesses may occur during construction, especially in remote areas.
+Ineffective inclusion and accountability mechanisms may constrain meaningful stakeholder participation and equitable
+access to project benefits. Specific drivers include insufficient consultation, uneven information disclosure, weak grievance
+redress mechanisms (GRMs), and limited institutional coordination. The risk is elevated where interruptions to quality
+water services occur, potentially increasing dissatisfaction, grievances, and erosion of trust. Vulnerable and marginalized
+groups—including low-income households, rural communities, and Roma—may face additional barriers to information,
+access, and participation, heightening the likelihood of exclusion, inequitable outcomes, and social tensions. Mitigation
+will strengthen municipal/PIU capacity, ensure inclusive engagement, enforce CHS measures, monitor equitable access,
+minimize land impacts, and establish effective, well-coordinated grievance mechanisms. Labor risks are moderate. Most
+works will use local contractors, limiting influx; larger subprojects may involve non-local workers, posing CHS and social
+tension risks. These will be managed via LMP, worker codes of conduct, and community awareness, consistent with ESS2.
+Overall social risk is substantial due to project complexity and limited capacity at central/local levels. Given multiple
+activities with locations/designs/schedules confirmed during implementation, a framework approach will be adopted. The
+Borrower will prepare, consult, and disclose ESMF, RPF, LMP, SEP, and ESCP by appraisal (or, where justified, by
+effectiveness as specified in the ESCP). These frameworks establish screening procedures, eligibility/exclusion criteria,
+mitigation measures (including SEA/SH-sensitive grievance pathways), and roles/responsibilities. Subsequently, site-
+specific instruments (e.g., ESIAs/ESMPs and RAPs/LRPs, as relevant) will be prepared, consulted, disclosed, and cleared
+prior to bidding and strictly before any civil works, land acquisition, or access restrictions commence; requirements will
+be included in procurement documents and contracts. For the lake water treatment facility expansion, an E&S audit will
+be conducted prior to negotiations to identify compliance gaps, legacy issues, and corrective actions; findings will inform
+the ESCP and choice of instrument. The Project will rely on qualified social specialists and targeted capacity-building to
+identify, mitigate, and manage risks throughout implementation.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Raimund Mair
+   Senior Water Resources Management Specialist
+
+   Igor Palandzic
+   Senior Water Supply and Sanitation Specialist
+
+ Borrower/Client/Recipient
+  Montenegro
+
+ Implementing Agencies
+
+
+
+
+                                                                                                                         Page 8
+     The World Bank
+     Montenegro Water Services and Climate Resilience Phase 1 Project(P512709)
+
+
+ Ministry of Agriculture, Forestry and Water Management
+
+ PROCON - DOO "Project - Consulting"
+
+ Ministry of Ecology, Sustainable Development and Northern Region Development
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Raimund Mair, Igor Palandzic
+
+Approved By
+
+Practice Manager/Manager:              Winston Yu                            25-Feb-2026
+
+Country/Division Director:             Xiaoqing Yu                           19-Mar-2026
+
+
+
+
+                                                                                           Page 9
+

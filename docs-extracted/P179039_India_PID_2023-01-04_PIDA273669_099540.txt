@@ -1,0 +1,746 @@
+Public Disclosure Authorized
+                                         The World Bank
+                                         Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                      Program Information Documents (PID)
+
+
+
+Public Disclosure Authorized
+                                                    Appraisal Stage | Date Prepared/Updated: 04-Jan-2023 | Report No: PIDA273669
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                               January 4, 2023                                                                                     Page 1 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+
+   BASIC INFORMATION
+
+  OPS_TABLE_BASIC_DATA
+   A. Basic Program Data
+
+    Country                           Project ID                    Program Name                Parent Project ID (if any)
+    India                             P179039                       Karnataka Sustainable
+                                                                    Rural Water Supply
+                                                                    Program
+    Region                            Estimated Appraisal Date      Estimated Board Date        Practice Area (Lead)
+    SOUTH ASIA                        09-Jan-2023                   14-Jul-2023                 Water
+
+    Financing Instrument              Borrower(s)                   Implementing Agency
+    Program-for-Results Financing     India                         Rural Drinking Water and Sanitation Department,
+                                                                    Government of Karnataka, Rural Development and
+                                                                    Panchayat Department, Government of Karnataka
+
+   Proposed Program Development Objective(s)
+
+   To increase access to safely managed drinking water and strengthen institutions for sustainable rural water service
+   delivery in Karnataka.
+
+   COST & FINANCING
+
+   SUMMARY (USD Millions)
+
+   Government program Cost                                                                                       3,449.04
+   Total Operation Cost                                                                                          2,840.40
+        Total Program Cost                                                                                       2,839.50
+        Other Costs                                                                                                    0.90
+   Total Financing                                                                                               2,840.40
+   Financing Gap                                                                                                       0.00
+
+
+   FINANCING (USD Millions)
+
+
+  Total World Bank Group Financing                                                                                 363.00
+
+     World Bank Lending                                                                                             363.00
+
+
+  Total Government Contribution                                                                                  2,477.40
+
+
+January 4, 2023                                                                                                   Page 2 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+            B. Introduction and Context
+
+            Country Context
+
+            1.       India’s economy will slow down, coming off a strong recovery in FY21/22 (April 2021–March
+            2022). The spillovers from the Russia-Ukraine war and the global monetary policy tightening cycle are
+            expected to weigh on India’s economic outlook: elevated inflation on the back of higher prices of key
+            commodities, heightened global uncertainty, and rising borrowing costs will affect domestic demand,
+            while slowing global growth will dampen India’s export growth. The growth in FY22/23 will slow to 6.9
+            percent from 8.7 percent in FY21/22.1 Domestic demand is expected to remain on a moderate recovery
+            path, despite external headwinds. The Government’s strong capital expenditure (CAPEX) program will
+            support investment, while private consumption will benefit from consumer spending in high- and middle-
+            income groups. Net exports will continue to drag growth. The rising merchandise trade deficit will push
+            the current account deficit to 3.2 percent of gross domestic product (GDP) in FY22/23. Due to recovering
+            demand and elevated food and oil prices, headline inflation is expected to stay above the Reserve Bank
+            of India’s tolerance range but should gradually ease to 5 percent next year.2 The Government’s gradual
+            fiscal consolidation efforts will be bolstered by strong revenue performance. Goods and Services Tax (GST)
+            collections continue to be strong, having crossed the INR 1 trillion mark every month since July 2021,
+            reaching as high as INR 1.67 trillion in April 2022.
+
+            2.       Although India has made remarkable progress in reducing extreme poverty over the past two
+            decades, the COVID-19 pandemic has slowed progress and poses risks to welfare. Before the pandemic,
+            the share of the population living below US$2.15 per person per day (2017 purchasing power partiy) is
+            estimated to have fallen from 22.5 in 2011 to 10 percent 2019.3 This was accompanied by a sharp decline
+            in the incidence of multidimensional poverty, from 27.7 percent in 2005/06 to 16.4 percent in 2019/21.4
+            However, the pace of poverty reduction has slowed in recent years, with key welfare indicators being slow
+            to improve.5 More than 40 percent of India’s population lived below the lower-middle-income poverty
+            line even before the pandemic.6 Inequality in consumption has remained stable, with a Gini index of
+            around 35 over the past two decades. Child malnutrition has remained high, with 35.5 percent of children
+            under the age of 5 years being stunted and 67 percent of children ages 6–59 months being anemic in
+            2019–21.7 Despite a substantial social protection response from the Government of India (GoI), the
+
+            1 World Bank real GDP forecasts for FY22/23 published in Macro Poverty Outlook, October 2022.
+            2 Ibid.
+            3 World Bank Poverty and Inequality Platform. https://pip.worldbank.org/country-profiles/IND. In 2004, India’s extreme poverty
+
+            rate was 39.9 percent using the same international poverty line.
+            4 UNDP (United Nations Development Programme), OPHI (Oxford Poverty and Human Development Initiative). 2022. 2022
+
+            Global Multidimensional Poverty Index (MPI): Unpacking deprivation bundles to reduce multidimensional poverty. New York.
+            5 World Bank Poverty and Inequality Platform. https://pip.worldbank.org/country-profiles/IND.
+            6 US$3.65 per capita per day (2017 PPP). World Bank Poverty and Inequality Platform. https://pip.worldbank.org/country-
+
+            profiles/IND.
+            7 Government of India, Ministry of Health and Family Welfare, 2022. National Family Health Survey (NFHS - 5), 2019–21 report.
+
+
+
+January 4, 2023                                                                                                                         Page 3 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            COVID-19 pandemic has likely reversed recent welfare gains, exposed vulnerabilities in the labor market,
+            and posed new risks to welfare. Urban unemployment has increased, with an increasing share of self-
+            employed and casual wage workers, suggesting an incomplete and uneven recovery from the pandemic.8
+
+            3.       Karnataka is an economic powerhouse that is facing serious water challenges. According to the
+            2011 census, Karnataka’s population is 61 million, of which around 60 percent lives in rural areas. The
+            state’s GDP per capita is approximately US$3,000 compared to US$1,900 for India. Karnataka is India’s
+            sixth largest state by area, of which 77 percent is arid or semiarid, making it the second most drought-
+            prone state in India.9 The state contains seven river basins and has high rainfall diversity with the western
+            ghats receiving nearly 4,000 mm rain annually compared to less than 500 mm in the eastern districts, and
+            an overall decline in annual rainfall is predicted for the south-western and north-eastern regions of the
+            state (2021–50). Karnataka is expected to face increased water challenges due to climate change. The
+            state is vulnerable to climate-change-related rainfall variability, leading to droughts and floods, which
+            contribute to groundwater depletion and deteriorating water quality. Almost 60 percent of the state
+            experienced drought conditions of varying severity between 2001 and 2020, and 23 of the 31 districts face
+            acute water scarcity. These water challenges need to be tackled if Karnataka is to deliver safe and reliable
+            water supply to all citizens and make its economy less vulnerable to water stress.
+
+            Sectoral and Institutional Context
+
+            4.       The Government of Karnataka (GoK) intends to provide every household with a functional
+            household tap connection (FHTC) by 2024 as part of the Jal Jeevan Mission (JJM), launched by the GoI
+            in 2019. The JJM objective is to supply drinking water in adequate quantity, of prescribed quality, and on
+            a sustainable basis to every rural household in India. The JJM investment is by any measure the largest
+            and most ambitious investment in rural water supply (RWS) in India to date, and the central and state
+            governments have jointly pledged to allocate more than US$44 billion to the JJM program. In 2018, the
+            GoK launched its own program, Jaladhare, to provide all rural households of Karnataka with FHTCs at the
+            earliest to achieve Sustainable Development Goal (SDG) 6.110 on safe drinking water. In Karnataka, the
+            Jaladhare11 infrastructure is being constructed at a record pace, and the Rural Drinking Water and
+            Sanitation Department (RDWSD), the implementing agency (IA) for Jaladhare, is stretching its
+            implementation capacity to achieve the ambitious infrastructure targets. As a result of these efforts, rural
+            access to the FHTC in Karnataka rose from 24 percent in 2019 up to 55.19 percent in 2022,12 benefiting
+            almost 3 million households since the launch of the program. Nonetheless, 44.81 percent of Karnataka’s
+            rural population is still to be served by FHTCs.
+
+            5.      Karnataka’s experience, over the last three decades, in rural water provision reveals challenges
+            associated with weak ownership of systems and inadequate operations and maintenance. Although
+            Karnataka has made progess in rural water provision over the past few decades, evidence from earlier
+
+
+            8 World Bank Macro Poverty Outlook. October 2022. Estimates from PLFS data.
+            9 Environmental Management & Policy Research Institute and The Energy and Resources Institute, (2012). Karnataka State
+
+            Action Plan on Climate Change, 1st Assessment.
+            10 SDG 6.1 is defined as: By 2030, to achieve universal and equitable access to safe and affordable drinking water for all. The
+
+            corresponding indicator is “Proportion of the population using safely managed drinking water services”. To meet this criteria
+            households must use an improved source that is: accessible on premises, available when needed, and free from contamination.
+            11 This document refers to the Jaladhare program, meaning Karnataka’s JJM program which goes beyond 2024.
+            12 As of September 9, 2022.
+
+
+
+January 4, 2023                                                                                                                          Page 4 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            World Bank projects13 suggests that operation and maintenance (O&M) and sustainability issues have
+            plagued most rural water projects in Karnataka and, more broadly, in India. As per the 73rd Amendment
+            to the Constitution of India, Gram Panchayats (GPs), rural local governments, and their Village Water and
+            Sanitation Committees (VWSCs) are responsible for post-construction operations, maintenance, and
+            service delivery of drinking water. Historically, lack of ownership and inadequate capacity at the GP level
+            have led to poor operational performance. Most GPs have been unable to establish cost recovery
+            mechanisms. Tariff collection targets are not met, leaving critical O&M activities unfunded and undone,
+            resulting in many defunct or partially defunct water schemes. Thus far, the ultimate goal of providing safe
+            water 24/7 to all rural households remains aspirational.
+
+            6.      Groundwater depletion and water quality challenges. Groundwater levels have been declining
+            at an alarming rate for several decades in many parts of the state. This is attributed to overreliance on
+            groundwater, especially by the irrigation sector coupled with insufficient groundwater recharge,14 which
+            has directly affected the rural water sector as sources simply dry up. Groundwater also suffers from
+            contamination due to fluoride and nitrate, which compounds the problem further. Ensuring reliable rural
+            drinking water in Karnataka is complex as it involves solving a multitude of challenges in a time when the
+            rural population is increasingly demanding a higher level of service.15 Single-village schemes (SVSs) are the
+            traditional and prevalent service delivery model for RWS in Karnataka where water is largely sourced from
+            groundwater. Efforts to recharge the dwindling groundwater are slowly mounting and small tanks (ponds
+            or reservoirs) are recognized for serving a range of socio-ecological purposes such as soil and water
+            conservation, groundwater recharge, and enhanced resilience in the context of floods and droughts.1617
+            Because of prevalent water quality issues with groundwater, the state also provides water quality test kits
+            to GPs and is building laboratories in each district for routine testing. Nevertheless, there is limited testing
+            capacity for bacteria such as Escherichia coli (E. coli) as the microbiological testing capacity is still being
+            built. More data on bacterial contamination, a leading indicator of fecal pollution, could inform decisions
+            to increase chlorination in SVSs, which is currently not standard. The state plans to develop a modern
+            water quality database where information can easily be accessed by the public.
+
+            7.       The transition from groundwater to bulk surface water through multi-village schemes (MVSs).
+            Along with the groundwater and water quality efforts, the GoK has made a long-term strategic decision
+            to use surface water for most of its rural villages through MVSs where water is sourced from large lakes
+            or rivers and then treated and piped as bulk water to rural villages. While the shift to bulk surface water
+            supply will ensure more reliable drinking water, mitigate water quality concerns, and enhance climate
+            change resilience, it inevitably brings about significantly higher O&M costs and necessitates more support
+            and supervision from district- and state-level governments.
+
+
+
+
+            13 Implementation Completion and Results Report, Second Karnataka RWS and Sanitation Project (2014). Report No: ICR3124.
+            14 http://cwp-india.org/wp-content/uploads/2018/03/Report-on-Karnataka-SWP-with-regard-to-National-Water-Policy-
+
+            2012.pdf.
+            15 India https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/15503-
+
+            WB_India%20Country%20Profile-WEB.pdf.
+            16 Ratna Reddy, V. 2018. “Tank Rehabilitation in India: Review of Experiences and Strategies.” Agricultural Water Management
+
+            209: 32–43.
+            17 Tank is an ancient approach of harvesting and preserving the local rainfall. It is a water reservoir of any size found throughout
+
+            India. Tank use is critical in storing water after the monsoon season and can play in important role in recharging groundwater.
+
+
+January 4, 2023                                                                                                                               Page 5 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            8.       Electricity costs and arrears: Two challenges hurting financial sustainability. The Jaladhare
+            program supports the move toward a cost-reflective tariff, but very few states have managed to advance
+            this agenda. In Karnataka, the sector has over the last decades moved from handpumps with low O&M
+            requirements to electric deep-well pumping systems for SVSs and lately the emerging energy-intensive
+            multivillage bulk water systems with household piped-water provision. Presently there are 549 MVSs
+            covering a population of 20 million in Karnataka. Approximately 450 of the MVSs are operational, while
+            the remaining MVSs are under implementation. This climate-resilient service-level improvement with
+            household connections with 55 liters per capita per day (lpcd) is associated with significantly higher O&M
+            costs. The first challenge is that the estimated electricity costs from MVSs amount to US$100 million per
+            year—which is currently borne by the state. The second challenge relates to the fact that GPs have
+            accumulated insurmountable electricity arrears (unpaid electricity bills). The GoK’s budget data show that
+            approximately 98 percent of the GPs are largely able to cover their O&M costs from their collection rates,
+            excluding electricity arrears. When arrears are included, only around 40 percent of the GPs are able to
+            achieve cost recovery from their current tariff collection. This is only seven years after the state in 2015
+            cleared the principal amount on electricity arrears of the GPs. This makes Karnataka’s rural water sector
+            reliant on substantial and arguably unsustainable state subsidies. Going forward, the GoK will have to
+            decide if GPs should cover a larger portion of electricity and bulk water supply costs and how the GPs can
+            reduce their energy consumption.
+
+            9.       The investment of the century brings the challenge of the century. Institutions governing rural
+            water infrastructure have an unfortunate record of deferring maintenance, causing the infamous cycle of
+            ‘build, neglect, and rebuild’. Should this cycle repeat, there is a real risk that the Jaladhare infrastructure
+            will deteriorate long before its design life, leaving the rural population far short of Jaladhare’s drinking
+            water service levels. Resolving this challenge goes beyond RDWSD’s civil engineering capacity as it
+            necessitates financial and social engineering, capacity strengthening, and reorientation of institutions
+            toward improved operational performance. Realizing the current shortcoming, the GoK has drafted a
+            comprehensive O&M Policy with the objective of institutionalizing capacity and arrangements that will
+            move the sector toward delivering and maintaining service levels and source sustainability. Among other
+            things, the O&M Policy sets specific targets on water tariffs and bulk water charges between the MVS and
+            the benefitting GPs. While the pending notification of the policy is a critical milestone for the sector, its
+            operationalization is arguably the greatest sector-specific challenge for the GoK.
+
+            10.     Introduction of household meters. Under the Jaladhare program, and in a move beyond the
+            national JJM scope, Karnataka decided in 2019 to include a household volumetric water meter with every
+            FHTC. A few GPs have successfully introduced a volumetric tariff, but most GPs have not. Achieving
+            financial sustainability is important for the sector and efforts are being made to raise community
+            awareness of GP-incurred O&M costs to start a community-led transition to cost recovery; the metered
+            household connections may play a critical role in reaching this goal in the future. Equally important, the
+            meters provide direct evidence of equity in the delivery of rural water services, as the meter readings
+            serve as a proof as to whether water was delivered, and in what quantity, to remote or marginalized
+            households.
+
+            11.     Aspirational upgrading to 24/7 continuous water supply service. Rural water supply is typically
+            available to water users between 4 and 12 hours per day, sometimes less. Providing 24/7 continuous
+            water supply through piped networks has several advantages over intermittent water supply for the
+            benefiting households as they can transition away from the traditional reliance on in-house water storage,
+
+January 4, 2023                                                                                                          Page 6 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            which can lead to microbiological contamination at the point of use if the storage containers are not
+            periodically cleaned. Second, continuous water supply can reduce pumping by 16 percent because of
+            reduced water consumption and hence save energy. This is beyond the scope of both the JJM and
+            Jaladhare but would lead to significant service improvement for rural populations. If done correctly,
+            continuous water supply would bring about significant water and energy savings from avoiding water
+            storage and wastage. Building the capacity to roll out 24/7 service could also allow the GoK to move the
+            sector toward cost recovery by providing a much higher level of service which customers will value. The
+            Program will help demonstrate how 24/7 service can be achieved at scale; if successful, this could also
+            serve as a model for other states to replicate.
+
+            12.      Women’s employment in technical job roles is critical to Karnataka’s growth. As the state’s
+            economy transitions away from agriculture, women’s access to nonfarm jobs is a critical factor affecting
+            the state’s growth trajectory. Women’s workforce participation rate in Karntaka is 31 percent, slightly
+            above the national average of 28.7 percent.18 However, women’s access to technical job roles in off-farm,
+            nontraditional sectors continue to remain poor. In rural Karnataka, women experience multiple barriers
+            in finding paid work opportunities outside of agriculture, and among women who do work, domestic
+            cleaning work is the second most common profession after textile-related jobs. Nonfarm jobs are rare,
+            especially for women.19 However, RWS activities have good potential to offer women’s entry and
+            retention in technical job roles such as plumbers, and this Program will prioritize these efforts.
+
+            13.      Building on the long-term engagement between the GoK and the World Bank, the Government
+            has requested the World Bank’s assistance to address the above challenges and aspirations. By engaging
+            with a more advanced state such as Karnataka, there is potential for setting a new benchmark for the
+            Indian rural water sector. The World Bank is well placed to support the state to operationalize its O&M
+            Policy through core technical, social, institutional, and financial performance criteria at the GP level. Such
+            performance criteria relate not just to the actual provision of water supply through construction of
+            infrastructure but also to ensuring that water is available and of the prescribed quality and services are
+            provided equitably. These criteria will include targeted incentives to promote and strengthen institutional
+            capacity that foster a culture of water scheme maintenance and sustained functionality. The Program will
+            support the GoK in institutionalizing a three-pronged approach that will (a) develop a system of incentives
+            for improvements in source, financial, and technical sustainability across all levels of government for
+            improved service delivery; (b) establish a last-mile monitoring system to track performance at the GP level
+            across technical, social, institutional, and financial parameters; and (c) establish a system of ‘rewards in
+            installments’ to ensure that GPs are incentivized to perform not just at the beginning of the Program but
+            also until the end and beyond. The World Bank has a unique opportunity to support the state to
+            systematically institutionalize, operationalize, and monitor new rural water services performance criteria,
+            which would otherwise have proven problematic for the state to achieve at scale.
+            PforR Program Scope
+            14.     Karnataka’s Jaladhare program (‘p’, the program) was announced in 2018 to provide safe and
+            sustainable pure drinking water at the rate of 55 lpcd in rural areas. The GoK set a goal that all rural
+            households of Karnataka should be provided with FHTCs in a phased manner to achieve SDG 6, at an
+            estimated cost of US$6.5 billion. Through this and other efforts, Karnataka has in the past provided state
+
+            18 Periodic Labor Force Survey (PLFS), Ministry of Statistics and Programme Implementation, 2021.
+            19 World Bank analysis, PLFS data 2018/19, 2019/20.
+
+
+
+January 4, 2023                                                                                                         Page 7 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            funding and occasionally used counterpart funding for centrally sponsored schemes (CSSs) such as JJM.
+            These combined efforts have helped the GoK move up the ladder on the provision of services to the rural
+            households. The Jaladhare program was aligned to the JJM, when the latter was launched by the GoI in
+            2019, but the Jaladhare has a more comprehensive scope, specially on sustainability and its mandate goes
+            beyond the JJM’s 2024 closing date. Like the JJM, Jaladhare aims to facilitate speed, scale, and a dedicated
+            focus on achieving universal access to the FHTC. The approach is similar to that of other successful national
+            Indian programs on electricity to every household, toilet to every family, and cooking gas cylinders to poor
+            households to make kitchens smoke-free. The Jaladhare program uses MVSs in areas where surface water
+            is available and SVSs sourced by groundwater in areas where surface water is not readily available.
+
+            15.      Up to 2024, the GoK will receive 50 percent co-financing from the JJM (CSS) and after 2024, state
+            funding will address any gaps to achieve the goal of 100 percent FHTC coverage. Through the proposed
+            World Bank-funded Karnataka Sustainable Rural Water Supply Program (KSRWSP, ‘P’) seeks to improve
+            and sustain O&M of the drinking water infrastructure created under Jaladhare through a combination of
+            community ownership, O&M performance criteria, handholding and capacity building, and an advanced
+            monitoring and evaluation (M&E) system focused on O&M and financial sustainability. This will be
+            financed by (a) the state government through Jaladhare, which will be funded through the state budget;
+            (b) GPs’ own sources; and (c) collection of water charges from users.
+
+            16.      To a large extent, the Jaladhare program incorporates many of the past lessons from RWS
+            initiatives in India. Different management models are developed for SVSs and MVSs with the latter
+            moving to professional private sector service delivery, along with appropriate efforts to achieve efficient
+            and accountable services. The GPs’ prior responsibilities on planning, procurement, and project
+            implementation have been shifted to the districts which also provide technical post-construction
+            backstopping support to GPs. GPs retain responsibility for management of distribution infrastructure and
+            services within the area under their jurisdiction. This transition seeks to balance the importance of GP
+            ownership with a more centralized and professional district-level and private sector support. The key
+            activities of the Jaladhare program are as follows:
+
+                  (a)   O&M Policy. With the transition to bulk surface water, larger water schemes, and household
+                        connections, reforming the institutional and policy architecture is essential for the achievement
+                        of sustainable service delivery. Conscious of the need for reform, the GoK has prepared a
+                        comprehensive O&M Policy with the clear objective of improving institutional capacity and
+                        human resources of RDWSD, GPs, and VWSCs to provide sustainable water supply services. The
+                        O&M Policy clarifies institutional roles and responsibilities of sector stakeholders and provides
+                        guidance on technical, institutional, and financial sustainability of water schemes in the state.
+                        The policy sets specific targets on water tariffs and bulk water charges. However, there is
+                        insufficient capacity to systematically institutionalize the O&M policy across the 5,963 GPs.
+                  (b)   Jaladhare engages implementation support agencies (ISAs) which are local organizations
+                        contracted by the districts to mobilize and train the GPs to plan, design, manage, operate, and
+                        maintain in-village water supply infrastructure. The ISAs play a crucial role in the last-mile
+                        delivery of Jaladhare and eventually the Karnataka O&M Policy vision. The ISAs are typically
+                        contracted for a one-year period with six to eight staff covering an entire district of 100–200 GPs.
+                        Jaladhare’s resource allocation to community mobilization (ISA) is arguably underfunded.
+
+
+
+January 4, 2023                                                                                                           Page 8 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+                        Inadequate capacity and strategy to link and synergize social mobilization and local capacity
+                        building efforts has hindered the ability of GoK to sustain community engagement in O&M issues.
+
+                  (c)   Community contribution. The Jaladhare program includes a one-time community contribution
+                        of 10 percent of the total capital investments for the in-village distribution network, which are
+                        typically around US$250-300 per household; this does not include the capital cost of the bulk
+                        water infrastructure of MVSs. In terms of O&M costs, most villages in Karnataka still pay a flat
+                        rate for water ranging from US$0.3 to US$1.2 per household per month. This is generally
+                        insufficient to cover the full O&M costs, which include electricity and bulk water charges
+                        envisaged under the O&M Policy. The state has, through the introduction of FHTCs under
+                        Jaladhare included volumetric meters at every household without introducing a volumetric tariff.
+                        Thus, operationalization of the O&M budget exercise and cost-recovery remains unresolved.
+
+                  (d)   Water quality. To ensure clean drinking water, the GoK installed 18,000 reverse osmosis (RO)
+                        water treatment plants, one for every village with water quality problems under a five-year build
+                        and operate contract with private contractors. The GoK has shown interest in approaches to
+                        sustainably dipose of reject water from these RO plants. The operators typically charge INR 2–5
+                        for 20 liters of water. In addition, the state provides water quality field test kits (FTKs) to GPs and
+                        is building laboratories to NABL standards in each district for routine testing. Laboratories for
+                        testing microbiological parameters are not yet built, and public dissemination of periodic water
+                        quality results from labs is not practiced.
+                  (e)   Greywater management. The Jaladhare program moves water access points from the traditional
+                        community standposts to household taps typically placed outside the house and facing the road.
+                        The program provides 55 liters per capita per day which equates to 275 liters for the average
+                        household for drinking, bathing, washing, and so on. This does create post-use challenges for
+                        villages as about 65 percent of the total water supplied reemerges as greywater. Greywater from
+                        households discharged into the surroundings poses environmental and public health risks.
+                        Village-level greywater management plans and implementation through soak pits and waste
+                        stabilization ponds are a peripheral yet critical part of the Jaladhare program. Greywater
+                        management is a small component under Jaladhare, and the collection, treatment, and reuse
+                        are included in the villages action plan; Jaladhare does not formally fund but, rather, facilitates
+                        convergence with other programs such as SBM, by sourcing funding from them. State-wide
+                        system for planning and implementation of greywater management is pending.
+
+            17.      RDWSD has embraced the private sector in its implementation and operation of the Jaladhare
+            program. For the SVS, the private sector is tasked with construction of the distribtution system along with
+            a one-year maintenance contract. By contrast, the MVSs are built through design-build-operate-tansfer
+            (DBOT) contracts with private contractors, which include five-year O&M post-construction contract meant
+            to be re-tendered every five years. To date, Karnataka has invested approximately US$1.6 billion in 548
+            MVSs.20 The MVS contractors are tasked with sourcing, treating, and distributing bulk surface water to
+            village overhead tanks (OHTs). The MVS can range from smaller schemes comprising three to five villages
+            to larger bulk water supply where one MVS covers more than 500,000 people. From the OHTs, the GPs
+            and their VWSCs are responsible for the distribution and in-village O&M equivalent to SVSs. Household
+
+
+            20 https://english.swachhamevajayate.org/water-2/.
+
+
+
+January 4, 2023                                                                                                              Page 9 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            connections are used for both SVSs and MVSs. The 548 MVSs in Karnataka are believed to consume energy
+            to the tune of US$100 million per year. For MVSs, there are considerations to extend the operation period
+            from the current 5 years to 10–15 years, and the proposed Program will seek to include energy efficiency
+            performance criteria for re-tendering the operations contracts for the existing MVSs and carry out energy
+            audits to save energy.
+
+            18.     Source sustainability and tank rejuvenation. The Mahatma Gandhi National Rural Employment
+            Guarantee Scheme (MGNREGS) provides livelihood security in rural areas by providing at least 100 days
+            of guaranteed wage employment per year to every household whose adult members volunteer to carry
+            out unskilled manual work. Rejuvenation of minor irrigation tanks with a command area of 40 ha is an
+            important part of MGNREGS’ activities. There are clear synergies between MGNREGS and Jaladhare
+            program to promote employment, increase water storage, and recharge groundwater. The Rural
+            Development and Panchayati Raj Department (RDPR) is responsible for small tank rejuvenation as these
+            tanks are under the jurisdiction of GPs.
+
+            19.      The KSRWSP Program seeks to augment the GoK’s Jaladhare efforts through following three
+            results areas (RAs) to enable a transition to sustainable and resilient service delivery system: (a) increase
+            access to safely managed rural water supply, (b) strengthen policies and institutions to improve
+            sustainability of rural water services, and (c) improve water source sustainability and climate resilience.
+            The Program will strengthen institutional capacity and enhance resilience to climate change by solving a
+            multitude of technical, financial, institutional, source, and social sustainability issues in RWS.
+            PforR Program Scope
+            20.    The proposed Program will support and strengthen the implementation of the GoK’s Jaladhare
+            program by focusing on a core set of service delivery improvements. As a subset of the Government
+            program, the PforR’s boundaries are defined as follows:
+                  • Duration. The Program will be implemented over five years (2023–28).
+                  • Geographical coverage. The Program will cover all 31 districts of Karnataka. With regard to tank
+                    rejuvenation for groundwater sustainability, the scope is limited to seven water-stressed districts.21
+                  • Service delivery. The Program will cover (a) construction/rehabilitation of in-village distribution
+                    infrastructure (such as piped network, storage reservoirs) and metered FHTCs as well as quality
+                    assurance of the infrastructure; (b) strengthening of operational and energy efficiency in MVSs;22 (c)
+                    institutional performance enhancement; (d) increase implementation capacity on greywater
+                    management, water quality, and M&E system; and (e) tank rejuvenation and sustainability.
+
+                  • Implementation and readiness. The KSRWSP will be implemented by RDWSD, the nodal agency,
+                    which is the custodian of the Jaladhare program. The district and block units of RDWSD are mandated
+                    to implement the Program with post-construction handover of the water assets to the GPs. RDWSD
+                    will coordinate Program activities, including M&E, and provide necessary technical and financial
+                    support to the relevant service delivery agencies, with support from Panchayat Raj Engineering
+
+
+
+
+            21 The proposed districts are Bengaluru Rural, Bengaluru Urban, Bidar, Chikkaballapura, Kalaburgi, Kolara, and Tumakuru.
+            22 GoK has sufficient resources to finance MVSs. The Program will only focus on sustainability and efficiency of existing MVSs.
+
+
+
+January 4, 2023                                                                                                                           Page 10 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+                  Division (PRED) which will implement tank rejuvenation.23 The Program will be implemented
+                  following the Government’s fiduciary and social and environmental safeguards systems. More than
+                  40 percent of the PforR cost of contracts for civil works are either awarded or ready for award.
+
+            21. Financing support. The total program budget is proposed as US$2,840.40 million, with US$363 million from
+                the IBRD-supported KSRWSP
+
+           C. Proposed Program Development Objective(s)
+
+            Program Development Objective(s)
+
+            22. To increase access to safely managed drinking water and strengthen institutions for sustainable rural water
+                service delivery in Karnataka.
+
+            23.      The proposed key result indicators for the Program are as follows:
+
+                     •     People living in rural areas provided with access to safely managed drinking water
+                           (Number)
+                     •     Gram Panchayats with sustainably functioning water service (Number)24
+                     •     Sector M&E system enhanced (Yes/No)
+                     •     GPs with an annual revenue collection rate above 75 percent (Number)
+                     •     Tank rejuvenated in water scarce districts (Number)
+
+            24.      The intermediary results indicators include 24/7 service delivery in 500 villages, a behavior change
+            communication campaign and a water security strategy among others. It is estimated that 10 million
+            people will benefit from access to safely managed rural drinking water under the Program. Safely
+            managed rural drinking water is an SDG indicator and constitutes the highest level on the Joint Monitoring
+            Program (JMP) drinking water service ladder and is defined as “drinking water from an improved source
+            that is accessible on premises (at the household), available when needed, and free from faecal and priority
+            chemical contamination.” The JMP definition is in line with the Jaladhare program where the aim is to
+            provide every rural household with an adequate quantity of water of prescribed quality through an
+            individual household tap connection.
+
+            D. Environmental and Social Effects
+
+            25.     Under the Program, construction of infrastructure would be limited to (a) in-village works such as
+            replacing/laying distribution pipelines, installing house connections/meters/automatic chlorination
+            systems, constructing additional OHTs or borewells wherever required, and so on; (b) small renovation
+            works on existing MVS infrastructure—no new MVS will be financed by this Program; (c) greywater
+            disposal works, including in-village drainage network and final disposal infrastructure; (d) tank
+            rejuvenation works—selected existing tanks of surface area lesser than 40 ha; and (e) construction of a
+
+            23 The Program will be coordinated with the Minor Irrigation and Groundwater Development Department and the Water
+
+            Resources Department including the Advanced Centre for Integrated Water Resources Management (ACIWRM).
+            24 As per the definition of “Basic-level” under DLI 3.1.
+
+
+
+January 4, 2023                                                                                                                 Page 11 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            new building for housing the Center of Excellence. Most contracts issued under the World Bank-supported
+            PforR operation will be engineering, procurement, and construction ones.
+
+            26.      In line with the World Bank PforR Guidance, an Environmental and Social Systems Assessment
+            (ESSA) was carried out. The ESSA comprised desk review of relevant systems documents and meetings
+            with RDWSD and PRED officials at the state, district, and divisional levels, along with ‘key informant
+            interviews’ with VWSC members and beneficiaries. Furthermore, the ESSA identified the risks and
+            opportunities and confirmed compatibility of the Program with the core principles on (a) environmental
+            and social management systems, (b) natural habitats and cultural properties, (c) public and worker safety,
+            (d) land acquisition and livelihoods, and (e) the needs and concerns of vulnerable groups.
+
+            27.      The Program is likely to have positive social impacts due to an increase in the number of
+            households having access to safely managed rural drinking water services. It is also likely to result in
+            improved health and time savings for communities, particularly women and children at large. Possible key
+            environmental risks include impacts on ecologically or culturally sensitive/protected areas, groundwater
+            stress and contamination-related issues, construction-related impacts, safety aspects in design and
+            construction, waste management/disposal, and worker safety. Since most in-village water supply
+            infrastructure creation/augmentation activities are expected to take place in habitations having some
+            previously created water supply infrastructure, location-related issues such as impacts on ecologically or
+            culturally sensitive areas are likely to be minimal, including in case of construction of the Center for
+            Excellence building that is to be sited on government land without encumbrance. Impacts due to limited
+            groundwater availability and poor groundwater quality will also be largely offset by RDWSD’s current
+            focus on supplying bulk water to most villages in the state through the surface water-sourced MVSs.
+
+            28.      Social risks related to the Program include (a) minor land-related impacts in cases where land is
+            required for in-village infrastructure; (b) possible eviction of informal occupants near existing tanks for
+            bund/waste weir and outlet repairs; (c) likelihood of users and community members facing construction-
+            induced temporary impacts during laying of pipelines, FHTCs, and repair of OHTs; (d) labor welfare, health,
+            and safety risks in case of noncompliance of regulations by contractors; (e) possible inequity in service
+            levels to low-income and marginalized communities which may arise due to poor last-mile connectivity;
+            and (f) inadequate resource allocation and geographical distribution of community outreach which may
+            result in limited awareness and participation of VWSCs and communities in the planning, decision-making,
+            and monitoring process. The ESSA provides a negative list to exclude any activity from the Program that
+            may have significant adverse E&S impacts and are sensitive, diverse, or unprecedented. Thus, the ESSA
+            rated the E&S risks ‘Moderate’.
+
+            29.       Overall, the ESSA found that the E&S policies and legal framework applicable to this sector are
+            largely compatible with the E&S core principles of PforR. The Program is aligned to the JJM, which
+            emphasizes aspects such as source sustainability, water treatment, use of advanced technology,
+            community participation, transparency and inclusion through IEC, social audit, and other support
+            activities. However, the ESSA recommends addressing institutional capacity issues and gaps within
+            RDWSD and PRED across a range of E&S management system limitations. These include (a) hiring E&S
+            staff in RDWSD at the state level as well as environment specialists at the district level who would address
+            Program E&S requirements, (b) augmenting capacity through trainings, (c) conducting E&S screening to
+            exclude activities that involve adverse impacts including avoidance of encumbered public lands, and (d)
+            streamlining the monitoring and reporting process on E&S issues such as land procurement, occupational
+
+
+
+January 4, 2023                                                                                                      Page 12 of 15
+           The World Bank
+           Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+            health and safety during civil works, citizen engagement, social inclusion, and grievance management.
+            These recommendations will be summarized as actions to be incorporated in the PAP.
+
+            30.      Grievance redress. RDWSD has developed PARIHARA, a grievance redress mechanism (GRM)
+            software, to redress water-related complaints. PARIHARA features include multiple options to file
+            complaints (internet, phone, or social media), user categorization, alert generation, response, real-time
+            monitoring, customer feedback, and escalation flow. The KSRWSP will strengthen PARIHARA by enhancing
+            staff capacity to manage the call center, increase public outreach and awareness, strengthen links with
+            field staff and other relevant agencies for improved efficiency, and extend PARIHARA to tank rejuvenation
+            works.
+
+            E. Financing
+            31.     An Integrated Fiduciary Systems Assessment (IFSA) for the selected IAs (RDWSD and PRED) was
+            carried out in accordance with World Bank Policy and Directive for PforR financing. The IFSA concludes
+            that present fiduciary systems of IAs together with proposed mitigation measures provide reasonable
+            assurance that the financing proceeds would be used for the intended purposes. Based on the IFSA and
+            given the multiagency engagement for operation and execution, the combined fiduciary risk is rated as
+            ‘Moderate’. A Government Order (GO) will be issued by the GoK to operationalize the Program. The GO
+            will cover the entire program, the implementation arrangements, budgets, and fund flow arrangements
+            covering all the key aspects of the Program. The GO will include implementation arrangements, results
+            and DLIs to be achieved.
+
+            32.      The Program will be subject to ‘Guidelines on Preventing and Combating Fraud and Corruption
+            in Program-for-Results Financing’, dated February 1, 2012, and revised on July 10, 2015.These guidelines
+            shall be applied in an unrestricted manner to all activities within the ‘Program boundary’.
+
+                                             Program Financing (Template)
+
+                                  Sources                                      Amount                    % of Total
+                                                                             (USD Million)
+       Counterpart Funding                                                             2,477.40                         87.22
+
+         Borrower/Recipient                                                             2,477.40                        87.22
+        International Bank for Reconstruction and Development
+                                                                                         363.00                         12.78
+      (IBRD)
+      Total Program Financing                                                           2840.40
+
+
+
+
+  .
+
+
+
+January 4, 2023                                                                                                   Page 13 of 15
+          The World Bank
+          Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+
+   CONTACT POINT
+
+
+   World Bank
+
+   Name :                  Kristoffer Welsien
+                           Senior Water Supply and Sanitation
+   Designation :                                                 Role :    Team Leader(ADM Responsible)
+                           Specialist
+   Telephone No :          5220+30651 /                          Email :   kwelsien@worldbank.org
+
+   Name :                  Mariappa Kullappa
+                           Senior Water Supply and Sanitation
+   Designation :                                                 Role :    Team Leader
+                           Specialist
+   Telephone No :          5785+47848 /                          Email :   mkullappa@worldbank.org
+
+
+   Borrower/Client/Recipient
+
+   Borrower :              India
+   Contact :               Mr. Hanish Chhabra                    Title :   Director
+   Telephone No :          01123094140                           Email :   hanish.ias@ias.nic.in
+
+   Implementing Agencies
+
+                           Rural Development and Panchayat
+   Implementing
+                           Department, Government of
+   Agency :
+                           Karnataka
+   Contact :               Mr. L.K Atheeq                        Title :   Additional Chief Secretary
+   Telephone No :          08022353929                           Email :   lk.atheeq@gov.in
+
+
+                           Rural Drinking Water and Sanitation
+   Implementing
+                           Department, Government of
+   Agency :
+                           Karnataka
+   Contact :               Mr. Gangadhra Swamy G M               Title :   Director
+   Telephone No :          080-22240508                          Email :   krwssd@gmail.com
+
+
+
+
+January 4, 2023                                                                                         Page 14 of 15
+          The World Bank
+          Karnataka Sustainable Rural Water Supply Program (P179039)
+
+
+
+   FOR MORE INFORMATION CONTACT
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+
+January 4, 2023                                                        Page 15 of 15
+

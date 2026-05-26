@@ -74,6 +74,7 @@ FIELDS = [
     "grantamt",
     "sectorcode",
     "major_sector_code",
+    "major_sectors",   # nested structure with per-sector percentages
 ]
 
 WATER_SUPPLY = "WWC"
@@ -149,6 +150,65 @@ def commitment_usd(rec: dict) -> float:
         except ValueError:
             pass
     return total
+
+
+def sector_percent_sum(rec: dict, target_codes: list[str]) -> float:
+    """Sum of sector_percent values for any matching sector code.
+
+    Returns 0.0 if no major_sectors data or none of the target codes
+    appear with non-zero percent. The API populates sector_percent for
+    roughly half of active water projects; the rest report 0% across
+    all sectors, which here we treat as "data missing" → weighted
+    commitment of 0 for that project.
+    """
+    total = 0.0
+    for major in rec.get("major_sectors", []) or []:
+        m = major.get("major_sector", {}) if isinstance(major, dict) else {}
+        for s in m.get("sectors", []) or []:
+            code = (s.get("sector_code") or "").strip()
+            if code in target_codes:
+                try:
+                    total += float(s.get("sector_percent") or 0)
+                except (ValueError, TypeError):
+                    pass
+    return total
+
+
+def weighted_commitment_usd(rec: dict, target_codes: list[str]) -> float:
+    """Hybrid sector-percent-weighted commitment.
+
+    Two sources of share information per project:
+      (a) API's `sector_percent` field — populated for ~half of active
+          water projects; reliable where present.
+      (b) Project's full set of sector codes — always available.
+          The water sectors' share of the total code list is a useful
+          structural proxy.
+
+    Strategy:
+      - If `sector_percent` is populated for the target codes
+        (>0% sums to a real value), use that.
+      - Otherwise fall back to (water_codes / total_codes) × full_commitment.
+
+    For a project tagged WWC + four other sector codes with no
+    sector_percent populated, this attributes 20% of the commitment
+    to water. That's a structural lower bound — assumes equal
+    weighting across sectors — but matches reality better than
+    either dropping the project (0%) or assuming 100%.
+
+    Reconciliation to the Bank's stated $8.7B (WWC + WWA, sector-
+    percent-weighted internally) is documented in README.md.
+    """
+    pct = sector_percent_sum(rec, target_codes)
+    if pct > 0:
+        return commitment_usd(rec) * pct / 100.0
+    # Fall back to proportional share by sector-code count
+    codes = sector_codes(rec)
+    if not codes:
+        return 0.0
+    water_count = sum(1 for c in codes if c in target_codes)
+    if water_count == 0:
+        return 0.0
+    return commitment_usd(rec) * water_count / len(codes)
 
 
 def main() -> int:
@@ -258,27 +318,44 @@ def main() -> int:
     with out_path.open("w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["Project_ID", "Project_Name", "Country", "Approval_Date",
-                    "Status", "Total_Commitment_USD", "Sector_Codes"])
+                    "Status", "Total_Commitment_USD",
+                    "Water_Sector_Percent",
+                    "Weighted_Commitment_USD",
+                    "Sector_Codes"])
         for rec in rows:
+            full = commitment_usd(rec)
+            pct = sector_percent_sum(rec, target_sectors)
+            weighted = weighted_commitment_usd(rec, target_sectors)
             w.writerow([
                 rec.get("id", ""),
                 rec.get("project_name", ""),
                 rec.get("countryshortname", ""),
                 (rec.get("boardapprovaldate") or "")[:10],
                 rec.get("projectstatusdisplay") or rec.get("status", ""),
-                int(commitment_usd(rec)),
+                int(full),
+                round(pct, 1),
+                int(weighted),
                 ",".join(sorted(sector_codes(rec))),
             ])
     print(f"\nWrote {out_path} ({len(rows)} projects)", file=sys.stderr)
 
     total_usd = sum(commitment_usd(r) for r in rows)
-    print(f"Total commitment: ${total_usd/1e9:,.2f} B")
+    total_weighted = sum(weighted_commitment_usd(r, target_sectors) for r in rows)
+    n_with_percent = sum(1 for r in rows
+                         if sector_percent_sum(r, target_sectors) > 0)
+    print(f"Total commitment (unweighted): ${total_usd/1e9:,.2f} B")
+    print(f"Total commitment (sector-percent-weighted): "
+          f"${total_weighted/1e9:,.2f} B  "
+          f"[from {n_with_percent}/{len(rows)} projects with populated "
+          f"sector_percent]")
 
     print(f"\nTop {args.top} by commitment:")
     for rec in rows[:args.top]:
         amt = commitment_usd(rec)
+        wt  = weighted_commitment_usd(rec, target_sectors)
         print(f"  {rec.get('id','?'):10s} {rec.get('countryshortname','?'):25s} "
-              f"${amt/1e6:>7,.0f} M  {rec.get('project_name','')[:60]}")
+              f"${amt/1e6:>7,.0f} M  (wt: ${wt/1e6:>5,.0f}M)  "
+              f"{rec.get('project_name','')[:50]}")
 
     return 0
 

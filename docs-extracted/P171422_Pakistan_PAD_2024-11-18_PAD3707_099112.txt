@@ -1,0 +1,2686 @@
+Public Disclosure Authorized
+                                                                                                                               Report No: PAD3707
+
+                                                   INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+                                                                                      AND
+
+                                                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+Public Disclosure Authorized
+                                                                      PROJECT APPRAISAL DOCUMENT
+                                                                                 ON A
+                                                                            PROPOSED LOAN
+
+                                                                    IN THE AMOUNT OF US$240 MILLION
+
+                                                                                    TO THE
+
+                                                                       ISLAMIC REPUBLIC OF PAKISTAN
+
+
+
+
+Public Disclosure Authorized
+                                                                                     FOR A
+
+                                             SECOND KARACHI WATER AND SEWERAGE SERVICES IMPROVEMENT PROJECT
+
+                                                   AS PHASE 1 OF THE MULTI-PHASE PROGRAMMATIC APPROACH
+                                          PAKISTAN URBAN WATER, SANITATION, AND HYGIENE (WASH) SERVICES PROGRAM
+
+                                                      WITH AN OVERALL FINANCING ENVELOPE OF US$840 MILLION
+
+                                                                              November 18, 2024
+
+
+
+
+Public Disclosure Authorized
+                                Water Global Practice
+                                South Asia Region
+
+
+
+
+                               This document has a restricted distribution and may be used by recipients only in the performance of their official
+                               duties. Its contents may not otherwise be disclosed without World Bank authorization.
+                      CURRENCY EQUIVALENTS
+
+           (Exchange Rate Effective September 30, 2024)
+
+               Currency Unit =     Pakistan Rupee (PKR)
+                 PKR 277.6998 = US$1
+                    US$0.0036 = PKR 1
+
+
+                             FISCAL YEAR
+                           July 1 to June 30
+
+
+
+
+Regional Vice President: Martin Raiser
+     Regional Director: Dina Umali-Deininger
+      Country Director: Najy Benhassine
+     Practice Manager: Josses Mugabi, Abedalrazq Khalil
+  Task Team Leader(s): Khairy Al-Jamal, Tiziana Smith, Davison Muchadenyika
+                       ABBREVIATIONS AND ACRONYMS
+
+ADB       Asian Development Bank
+AIIB      Asian Infrastructure Investment Bank
+AM        Accountability Mechanism
+Cat DDO   Catastrophe-Deferred Drawdown Option
+CCDR      Country Climate and Development Report
+CERC      Contingent Emergency Response Component
+CHS       Community Health and Safety
+CO2       Carbon Dioxide
+CoC       Commitment of Cooperation
+CPF       Country Partnership Framework
+CPS       Country Partnership Strategy
+DA        Designated Account
+E&S       Environmental and Social
+ERs       Emission Reductions
+ESCO      Energy Service Company
+ESCP      Environmental and Social Commitment Plan
+ESF       Environmental and Social Framework
+ESIA      Environmental and Social Impact Assessment
+ESMP      Environmental and Social Management Plan
+ESS       Environmental and Social Standards
+FM        Financial Management
+FY        Fiscal Year
+GAP       Gender Action Plan
+GBV       Gender-Based Violence
+GDP       Gross Domestic Product
+GHG       Greenhouse Gas
+GIS       Geographic Information System
+GoP       Government of Pakistan
+GoS       Government of Sindh
+GRM       Grievance Redress Mechanism
+GRS       Grievance Redress Service
+IBRD      International Bank for Reconstruction and Development
+IDA       International Development Association
+IFC       International Finance Corporation
+ILC       In-Line Chlorination
+IMF       International Monetary Fund
+IPF       Investment Project Financing
+IRR       Internal Rate of Return
+IUFR      Interim Unaudited Financial Reports
+KBFU        Kalri Baghar Feeder Upper
+km          Kilometers
+KTP         Karachi Transformation Plan
+KWSC        Karachi Water & Sewerage Corporation
+KWSSIP      Karachi Water and Sewerage Services Improvement Project
+LARP        Land Acquisition and Resettlement Plan
+M&E         Monitoring and Evaluation
+MDB         Multilateral Development Bank
+MGD         Million Gallons per Day
+MIS         Management Information System
+MPA         Multiphase Programmatic Approach
+NPV         Net Present Value
+NRW         Non-Revenue Water
+O&M         Operations and Maintenance
+OCCR        Operating Cost Coverage Ratio
+OHS         Occupational Health and Safety
+OP          Operational Policy
+PCP         Punjab Cities Program
+PICP        Punjab Inclusive Cities Program
+PDO         Project Development Objective
+PforR       Program-for-Results
+PIE         Project Implementing Entity
+PIU         Project Implementation Unit
+PKR         Pakistani Rupee
+PMC         Program Management Consultancy
+PPP         Public-Private Partnership
+PPSD        Project Procurement Strategy for Development
+PrDO        Program Development Objective
+PSC         Project Steering Committee
+SEA         Sexual Exploitation and Abuse
+SMF         Social Management Framework
+US$/USD     United States Dollar
+VGF         Viability Gap Fund
+WAPDA       Water and Power Development Authority
+WASH        Water, Sanitation, and Hygiene
+Water GCP   Water Security and Climate Adaptation Global Challenge Program
+WBG         World Bank Group
+WSS         Water Supply and Sanitation
+                                                            TABLE OF CONTENTS
+
+DATASHEET ............................................................................................................................ i
+I.    STRATEGIC CONTEXT ...................................................................................................... 1
+      A. Country Context ................................................................................................................................ 1
+      B. Sectoral and Institutional Context .................................................................................................... 2
+      C. Relevance to Higher Level Objectives ............................................................................................... 4
+      D. Multiphase Programmatic Approach................................................................................................ 5
+II.   PROJECT DESCRIPTION ................................................................................................... 9
+      A. Project Development Objective ........................................................................................................ 9
+      B. Project Components ......................................................................................................................... 9
+      C. Project Beneficiaries ....................................................................................................................... 12
+      D. Rationale for Bank Involvement and Role of Partners ................................................................... 12
+      E. Lessons Learned .............................................................................................................................. 13
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 13
+      A. Institutional and Implementation Arrangements ........................................................................... 13
+      B. Results Monitoring and Evaluation Arrangements ......................................................................... 14
+      C. Sustainability ................................................................................................................................... 14
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 15
+      A. Technical, Economic, and Financial Analysis .................................................................................. 15
+      B. Fiduciary .......................................................................................................................................... 18
+      C. Legal Operational Policies ............................................................................................................... 19
+      D. Environmental and Social ............................................................................................................... 20
+V.    GRIEVANCE REDRESS SERVICES ..................................................................................... 23
+VI. KEY RISKS ..................................................................................................................... 24
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 26
+ANNEX 1: Implementation Arrangements and Support Plan ................................................. 35
+      The World Bank
+      Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Pakistan                 Second Karachi Water and Sewerage Services Improvement Project (KWSSIP-2)
+                                                     Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                     Classification
+                         Investment Project
+P171422                                              High
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padmpaprocessing#doctemplate
+Financing & Implementation Modalities
+[✓] Multiphase Programmatic Approach (MPA)                     [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                   [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                        [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                    [ ] Conflict
+[ ] Deferred Drawdown                                          [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                 [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                 Expected Closing Date                    Expected Program Closing Date
+12-Dec-2024                            31-Dec-2030                              31-Dec-2034
+Bank/IFC Collaboration                 Joint Level
+Yes                                    Complementary or Interdependent project requiring active coordination
+
+
+@#&OPS~Doctype~OPS^dynamics@padmpa#doctemplate
+MPA Program Development Objective
+To provide safely managed WASH services in urban areas in Pakistan
+
+
+MPA FINANCING DATA (US$, Millions)
+
+
+
+                                                                                                          Page i
+      The World Bank
+      Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+MPA Program Financing Envelope                                              2,180.00
+
+
+Components
+ Component Name                                                                                        Cost (US$)
+ Component 1: Capacity Building and Reform of KWSC                                                  14,000,000.00
+ Component 2: Safely Managed Water Supply and Sanitation Services                                 958,560,000.00
+ Component 3: Project Management and Studies                                                        25,240,000.00
+ Component 4: Contingent Emergency Response Component (CERC)                                                   0.00
+
+
+Organizations
+Borrower:                        Islamic Republic of Pakistan
+Implementing Agency:             Province of Sindh through the Karachi Water and Sewerage Corporation (KWSC)
+
+
+MPA FINANCING DETAILS (US$, Millions)
+
+
+MPA Program Financing Envelope:                                             2,180.00
+
+     of which Bank Financing (IBRD):                                        440.00
+
+     of which Bank Financing (IDA):                                         400.00
+
+     of which Other Financing sources:                                      1,340.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                       No
+
+Is this project Private Capital Enabling (PCE)?                 Yes
+
+SUMMARY
+
+  Total Operation Cost                                                                                    999.00
+
+  Total Financing                                                                                         999.00
+             of which IBRD/IDA                                                                            240.00
+
+
+
+
+                                                                                                    Page ii
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+ Financing Gap                                                                                                    0.00
+
+DETAILS
+Private Sector Investors/Shareholders
+
+Equity                                      Amount         Debt                                         Amount
+
+   Government Contribution                       730.00       Commercial Debt                                     188.00
+
+        Government Resources                     250.00           Unguaranteed                                    188.00
+
+        IBRD                                     240.00
+
+        Other Donors                             240.00
+
+   Non-Government Contribution                     81.00
+
+        Private sector Equity                      81.00
+
+Total                                            811.00                                                           188.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year                   2025       2026          2027              2028           2029        2030                2031
+
+Annual                 9.33       24.00         36.00          48.00             48.50       50.00           24.17
+Cumulative             9.33       33.33         69.33          117.33            165.83      215.83          240.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                       Contributing Practice Areas
+                                                           Urban, Resilience and Land; Infrastructure, PPP's &
+Water
+                                                           Guarantees
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+                                                                                                      Page iii
+      The World Bank
+      Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                  High
+2. Macroeconomic                                                             High
+3. Sector Strategies and Policies                                            Moderate
+4. Technical Design of Project or Program                                    Moderate
+5. Institutional Capacity for Implementation and Sustainability              Substantial
+6. Fiduciary
+Financial Management Risk rating from Specialist:
+Moderate as of 2024-07-31T07:20:10Z                                         Substantial
+Procurement Risk rating from Specialist:
+Substantial as of 2024-07-29T00:00:00Z
+7. Environment and Social
+Environment Risk rating from Specialist:
+Substantial as of 2024-08-26T10:18:17Z                                      High
+Social Risk rating from Specialist:
+High as of 2024-08-26T10:18:17Z
+8. Stakeholders                                                              Substantial
+9. Other                                                                     Substantial
+10. Overall                                                                  Substantial
+Overall MPA Program Risk                                                     Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes    [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+                                                                                            Page iv
+      The World Bank
+      Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                    Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                   Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                          Relevant
+ESS 2: Labor and Working Conditions                                                Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                 Relevant
+ESS 4: Community Health and Safety                                                 Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement     Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                   Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                   Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                           Not Currently Relevant
+ESS 9: Financial Intermediaries                                                    Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+1. The Project Implementing Entity (PIE) shall, no later than twelve (12) months from the Effective Date, enter into a
+performance agreement with KWSC, which shall include (a) performance targets for KWSC and action steps for regular
+performance review by the PIE; and (b) updates and revisions to the principles and objectives set out in the
+Commitment of Cooperation, all in form and substance acceptable to the Bank.
+2. The PIE shall, no later than six (6) months after the Effective Date, appoint a performance auditor acceptable to the
+Bank to monitor and carry out performance assessments of KWSC’s achievement of the targets set out in the
+performance agreement between the PIE and KWSC.
+3. The PIE shall, no later than eighteen (18) months from the Effective Date, publish the performance auditor’s first
+annual performance assessment report of KWSC, and shall provide the Bank for its review the results of the
+performance auditor’s annual performance assessments no later than six months after the end of the Fiscal Year, and
+promptly thereafter disclose those assessments to the public in the form of annual performance reports of KWSC.
+4. The PIE shall cause KWSC to prepare, within one (1) year from the Effective Date, a financial sustainability roadmap,
+acceptable to the Bank, based on a utility financial model with time-bound actions to achieve an OCCR for water supply
+
+
+
+                                                                                                         Page v
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+operations of at least one hundred thirty percent (130%) (including electricity costs and without compensation of these
+costs).
+5. The PIE shall take all necessary measures to ensure that KWSC’s total revenues are not less than the sum of its total
+operating expenses and debt service requirements (if any).
+6. The PIE shall cause KWSC to have its financial statements for each Fiscal Year audited by independent auditors
+acceptable to the Bank in accordance with consistently applied accounting standards acceptable to the Bank and make
+such audited financial statements publicly available in a timely fashion in a manner acceptable to the Bank.
+7. The PIE shall, no later than June 30, 2027, develop operating rules for the Keenjhar Lake based on a revised water
+allocation model to ensure at least ninety-four percent (94%) supply reliability to Karachi city.
+8. The PIE shall, no later than eighteen (18) months from the Effective Date, adopt a new water and wastewater tariff
+review framework that enables recovery of the full cost of service provision on a timeline acceptable to the Bank.
+9. Without limitation to the provisions of Section 5.03 of the General Conditions, the Borrower shall cause the PIE to
+provide an amount at least equivalent to one hundred twenty million Dollars ($120,000,000) as the Counterpart Funds
+for the Project.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                          Citation                       Description                    Financing Source
+                                                             The PIU has recruited one
+                                                             senior environmental
+Effectiveness                 5.01 (a)                       specialist and one senior      IBRD/IDA
+                                                             social development
+                                                             specialist.
+                                                             The POM has been
+                                                             updated, in form and
+Effectiveness                 5.01 (b)                       substance acceptable to        IBRD/IDA
+                                                             the Bank, and adopted by
+                                                             KWSC.
+                                                             The K-IV Coordination and
+                                                             Environmental and Social
+Effectiveness                 5.01 (c)                       (E&S) Implementation           IBRD/IDA
+                                                             Committee described in the
+                                                             ESCP has been formed.
+                                                             The AIIB Co-financing
+                                                             Agreement has been
+                                                             executed and delivered and
+                                                             all conditions precedent to
+Effectiveness                 5.01 (d)                       its effectiveness or to the    IBRD/IDA
+                                                             right of the Borrower to
+                                                             make withdrawals under it
+                                                             (other than the
+                                                             effectiveness of the Loan
+
+
+                                                                                                        Page vi
+     The World Bank
+     Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+                                                        Agreement) have been
+                                                        fulfilled.
+                                                        Notwithstanding the
+                                                        provisions of S.2.III.A of the
+                                                        Loan Agreement, no
+                                                        withdrawal shall be made
+                                                        for payments made prior to
+                                                        the Signature Date, except
+                                                        that withdrawals up to an
+                                                        aggregate amount not to
+                                                        exceed (i) forty-three
+                                                        million five hundred
+                                                        thousand Dollars
+                                                        ($43,500,000) may be
+                                                        made for payments made
+                                                        prior to this date but on or
+                                                        after November 1, 2024,
+                                                        for Eligible Expenditures
+                                                        under Category (1) and (ii)
+                                                        four million five hundred
+Disbursement               S2. III. B.1. (a)                                             IBRD/IDA
+                                                        thousand Dollars
+                                                        ($4,500,000) may be made
+                                                        for payments made prior to
+                                                        this date but on or after
+                                                        November 1, 2024, for
+                                                        Eligible Expenditures under
+                                                        Category (2)(a), provided
+                                                        that the Borrower has
+                                                        completed, in a manner
+                                                        and substance satisfactory
+                                                        to the Bank, the
+                                                        environmental and social
+                                                        audit referred to in the
+                                                        ESCP for those works under
+                                                        Part 2.5(i) of the Project
+                                                        completed prior to the
+                                                        request for such
+                                                        withdrawal
+                                                        Notwithstanding the
+                                                        provisions of S.2.III.A of the
+Disbursement               S2. III. B.1. (b)            Loan Agreement, no               IBRD/IDA
+                                                        withdrawal shall be made
+                                                        for goods, works, non-
+
+
+                                                                                                    Page vii
+     The World Bank
+     Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+                                                        consulting services, and
+                                                        consulting services under
+                                                        Part 2.5(ii) of the Project
+                                                        under Category (2)(b),
+                                                        unless and until: (i) in the
+                                                        Bank’s opinion at the time
+                                                        of contract award for Part
+                                                        2.5(ii) (or such other time
+                                                        as the Bank may determine
+                                                        in its sole discretion), K-IV
+                                                        Phase 1 and works to
+                                                        deliver increased annual
+                                                        inflows to Keenjhar Lake by
+                                                        an amount greater than or
+                                                        equal to the required
+                                                        amount have been or will,
+                                                        at the same time as the
+                                                        activities contemplated
+                                                        under Part 2.5(ii) of the
+                                                        Project, be completed to
+                                                        the satisfaction of the
+                                                        Bank; and (ii) the corrective
+                                                        actions needed to align the
+                                                        K-IV Phase 1 associated
+                                                        facilities with the
+                                                        requirements of the World
+                                                        Bank Environmental and
+                                                        Social Framework have
+                                                        been implemented and
+                                                        completed in a manner
+                                                        acceptable to the Bank
+                                                        Notwithstanding the
+                                                        provisions of S.2.III.A of the
+                                                        Loan Agreement, no
+                                                        withdrawal shall be made
+                                                        for Emergency
+                                                        Expenditures under
+Disbursement               S2. III. B.1. (c)                                             IBRD/IDA
+                                                        Category (6), unless and
+                                                        until all of the following
+                                                        conditions have been met
+                                                        in respect of said
+                                                        expenditures: (i)(A) the
+                                                        Borrower has determined
+
+
+                                                                                                    Page viii
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+                                                   that an Eligible Crisis or
+                                                   Emergency has occurred,
+                                                   and has furnished to the
+                                                   Bank a request to withdraw
+                                                   Loan amounts under
+                                                   Category (6); and (B) the
+                                                   Bank has agreed with such
+                                                   determination, accepted
+                                                   said request and notified
+                                                   the Borrower thereof; and
+                                                   (ii) the Borrower has
+                                                   adopted the CERC Manual
+                                                   and Emergency Action
+                                                   Plan, in form and substance
+                                                   acceptable to the Bank.
+
+
+
+
+                                                                                 Page ix
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+
+    I.    STRATEGIC CONTEXT
+A. Country Context
+1.        Poverty has increased slightly amid recent shocks, despite some economic stabilization.
+Pakistan made significant progress towards reducing poverty between 2001 and 2018 with the expansion
+of off-farm economic opportunities and increased external remittances. However, this has not fully
+translated into improved socio-economic conditions: over one-third of school-age children across Pakistan
+were found to be out of school; nearly two-thirds of those in school in fiscal year (FY)24 were learning
+deprived; and alarmingly high rates of stunting (40 percent in FY23) persist. Critical constraints, including
+recurrent fiscal and current account deficits, protectionist trade policies, unproductive agriculture, a
+difficult business environment, a heavy state presence in the economy, and a financially unsustainable
+energy sector, have remained largely unaddressed, leading to slow and volatile growth. Amid the COVID-
+19 pandemic, the catastrophic 2022 floods and macroeconomic volatility, poverty has increased. The
+estimated lower-middle income poverty rate is 40.5 percent (US$3.65/day 2017 purchasing power parity)
+for FY24 with an additional 2.6 million Pakistanis falling below the poverty line from the year before.
+2.      Pakistan experienced heavy monsoon rains in 2022 leading to catastrophic and unprecedented
+flooding with enormous human and economic impacts. Roughly 33 million people were impacted, and
+many permanently displaced. More than 13,000 kilometers (km) of roads were destroyed, 2.2 million
+houses damaged, around 3.8 million hectares of crops were flooded, and an estimated 1.2 million
+livestock were killed. Limited access to input and output markets and temporary disruptions to supply
+chains subsequently drove up food prices and added to existing price pressures resulting from reduced
+agricultural yields and the global rise of food prices. The government’s Post-Disaster Needs Assessment 1
+estimated that the need for rehabilitation and reconstruction is at US$16.3 billion.
+3.       Pakistan has made recent progress towards macroeconomic stabilization, but risks remain
+extremely high and faster sustained growth will require substantial reform. At the beginning of FY24,
+Pakistan's economy faced a potential economic crisis in the face of political uncertainty, global monetary
+policy tightening, and fiscal and external imbalances, that led to pressures on domestic prices and foreign
+reserves. To preserve reserves, measures to manage imports and capital outflows were introduced, which
+disrupted local supply chains, economic activity and exacerbated inflationary pressures. Under the interim
+government, an International Monetary Fund (IMF) Stand-By Arrangement was approved in July 2023.
+Consequently, exchange rate flexibility was restored, import controls were relaxed, and steps were taken
+to contain the fiscal deficit. Political uncertainty also diminished with the successful conduct of the general
+elections. Coupled with favorable weather conditions and easing external conditions, the economy began
+recovering in FY24. Consequently, growth of real gross domestic product (GDP) at factor cost is estimated
+to have risen to 2.5 percent year on year in FY24, after contracting by 0.2 percent in FY23. Downside risks
+remain high, with the outlook predicated on the new IMF Extended Fund Facility program remaining on
+track, continued fiscal restraint, and additional external financing. Heavy banking sector exposure to the
+sovereign, domestic policy uncertainty, and geopolitical instability pose significant risks to the outlook.
+Robust economic recovery over the medium term will require the steadfast implementation of much
+broader fiscal and economic reforms.
+
+
+1 Government of Pakistan. 2022. Pakistan Floods 2022 Post-Disaster Needs Assessment. Ministry of Planning
+
+Development & Special Initiatives.
+
+
+                                                                                                            Page 1
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+4.     According to the 2022 Country Climate and Development Report (CCDR), Pakistan’s high
+vulnerability to climate change is a risk multiplier, compounding its human and economic development
+challenges. Pakistan consistently ranks among the top 10 countries most affected by climate change
+worldwide. 2 More frequent and extreme weather events adversely impact ecosystems, people, and their
+settlements and infrastructure. Droughts, flooding, and heat waves are prevalent risks. Coastal cities such
+as Karachi are also vulnerable to climate change-induced sea level rise, cyclones, saltwater intrusion, and
+coastal erosion. The risks from climate change and environmental degradation could further aggravate
+Pakistan’s economic fragility and ultimately reduce annual GDP by 18 to 20 percent per year by 2050.
+5.      Pakistan also faces an unfinished agenda on human development, which compounds its
+structural macro fragility and creates a drag on the economy. The country currently ranks 141 out of 174
+on the Human Capital Index, scoring 41 out of 100. The stunting rate of children under five remains among
+the highest in the world at 40 percent. Evidence suggests that the lack of safely managed water supply
+and sanitation and basic hygiene (WASH) services is partly responsible for this staggering loss of human
+potential. 3
+B. Sectoral and Institutional Context
+6.      Safely managed WASH services are the foundation of public health and quality of life and are
+central to addressing the stunting crisis in Pakistan. However, the country lags on WASH service
+indicators because of decades of underinvestment. Close to 126 million people (half of the population)
+do not receive safely managed water services, 166 million (three-quarters of the population) do not have
+access to safely managed sanitation services, and 36 million lack basic hygiene services. Data from the
+Pakistan Council of Research in Water Resources showed that 61 percent of drinking water samples tested
+nationwide failed to meet national drinking water quality standards in 2020. 4
+7.      WASH is a provincial mandate, and provinces are at different stages in addressing service gaps.
+Punjab and Sindh, the two largest provinces, have made commitments to address service gaps and have
+enabling policies and plans in place, such as the Punjab Water Policy 2018, Punjab WASH Sector
+Development Plan (2014-2024), Sindh Water Policy 2023, and Sindh WASH Sector Development Plan
+(2016-2026). Both provinces have also passed laws to enable service providers to become financially
+sustainable. In Punjab’s secondary cities, WASH services are the mandate of local governments. The
+Punjab Water Act (2019) strengthened the regulatory framework for water service delivery. Similarly, the
+recently enacted Karachi Water and Sewerage Corporation Act, 2023 converted the Karachi Water and
+Sewerage Board into a corporate entity with enhanced financial and managerial autonomy. However,
+massive capital injection is needed to address infrastructure gaps in all provinces.
+8.       Traditional investment approaches have been too small and fragmented. The 2014 Punjab
+WASH Sector Development Plan identified the need for annual spending of PKR 40 billion to provide two-
+thirds of the population with safely managed WASH services by 2024. However, actual spending was
+insufficient and focused mainly on infrastructure, neglecting operation and maintenance (O&M) and
+service delivery. Sindh did not sufficiently finance its WASH Sector Development Plan (2016-2026), and
+service indicators have continued to worsen. Low and unpredictable budget have led to ad hoc
+engagements. The absence of systematic monitoring undermined accountability and limited the ability of
+
+2 Eckstein, David, Vera Künzel, and Laura Schäfer. 2021. “Global Climate Risk Index 2021.” Germanwatch Briefing Paper.
+3 Mansuri, Ghazala et al. 2018. When Water Becomes a Hazard: A Diagnostic Report on The State of Water Supply, Sanitation
+
+and Poverty in Pakistan and Its Impact on Child Stunting. WASH Poverty Diagnostic Washington, D.C.: World Bank Group.
+4 Hifza, R., Fauzia. A., Kiran, A., and M. Ashraf. 2021. “Drinking Water Quality in Pakistan: Current Status and Challenges.”
+
+Pakistan Council of Research in Water Resources, Islamabad.
+
+                                                                                                                            Page 2
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+governments to amend plans. Provincial plans need more credible financing mechanisms.
+9.       A new generation of provincial programs is emerging that places more emphasis on service
+delivery and the financial performance of service providers. The Punjab Cities Program (PCP) is building
+the capacity of local governments to provide WASH services in selected secondary cities 5 and improving
+revenue collection and O&M systems. It has reached 3.15 million people (about 79 percent of the program
+area’s population) with safely managed WASH services. In Sindh, the 2019 Karachi Transformation Plan
+(KTP), a joint program of the Government of Sindh (GoS) and the Government of Pakistan (GoP), promised
+to address service delivery issues, including WASH, by investing in infrastructure and transforming the
+performance of service providers such as the Karachi Water and Sewerage Corporation (KWSC).
+10.     The KWSC is the largest water utility in Pakistan, and, given the size and role of Karachi as
+Pakistan’s economic and financial hub, its performance is of national significance. The KWSC provides
+WASH services to about 17 million people, almost 84 percent of Karachi’s population. Service hours are
+intermittent and range from two hours every two days to four hours per day with widespread rationing.
+Many Katchi Abadis 6 are unconnected and rely on informal water sources. Non-revenue water (NRW) is
+around 64 percent in part due to insufficient hydraulic capacity and leakages. The sewer network covers
+only about 75 percent of the city, with aging pipes, insufficient capacity, malfunctioning pumping facilities,
+and a lack of treatment capacity. The city’s three wastewater treatment plants operate at one-third of
+capacity, treating 50 million gallons per day (MGD) of the estimated 472 MGD generated.
+11.     Karachi and the KWSC’s water supply challenges are compounded by high and increasing
+competition for water (especially for Indus River water), a deteriorated and complex bulk water supply
+system, and the lack of regional water resources planning. Karachi’s primary water source is the Indus
+River, which also supplies the province’s extensive irrigation system and drinking water outside of Karachi.
+Currently, Karachi faces a water supply deficit of about 580 MGD, 7 but increasing supply requires
+investment and coordination. However, there is no water resources management plan or allocation
+mechanism within Sindh, nor are there formal operating rules for critical infrastructure conveying water
+to Karachi, which is mostly managed by the Sindh Irrigation Department.
+12.      From a financial and human resources standpoint, KWSC performs well below expectations for
+a water utility serving a major commercial hub. The utility has 1.07 million registered customers
+compared to Karachi Electric’s 3.5 million in the same area. No household has a meter, and only 75 percent
+receive bills. Billing efficiency is about 36 percent, and O&M cost recovery is around 73 percent. The total
+number of staff is almost 10,000, but staff productivity is low at 9.5 per 1,000 connections. At the same
+time, the utility has been unable to recruit new talent due to a GoS hiring moratorium from 2008 to 2024.
+A lack of diversity in the workforce undermines the KWSC’s potential. Women comprise only 4 percent of
+the workforce and only 10 women hold technical and managerial positions compared to 630 men. Due to
+the water sector being traditionally male-dominated and perceived as not supportive of women, as well
+as a lack of skills training, it is difficult for women to break into the sector. Recently, the KWSC has been
+making efforts to address its gender gap by establishing a Women’s Development Centre that includes a
+daycare and increasing training opportunities for women employees.
+13.    In 2019, as part of the KTP, the GoS embarked on a 10-year investment program to provide
+universal access to safely managed WASH services in Karachi, backed by reform commitments to
+
+5 In this context, secondary cities exceed the 100,000 population threshold, excluding provincial and national capitals. World
+
+Bank. 2024. Realizing the Potential of Pakistan’s Secondary Cities. Washington, DC: World Bank Group.
+6 Katchi Abadis are unplanned settlements as declared by the Sindh Katchi Abadis Authority.
+7 The per capita demand used to calculate the deficit is 40 gallons per capita per day for domestic use only.
+
+
+                                                                                                                         Page 3
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+transform the KWSC into a financially viable utility. The investment program addresses five structural
+problems in Karachi’s water and sanitation system: bulk water supply shortfall, a leaky water distribution
+network, an unreliable supply that does not meet quality standards, a lack of wastewater collection and
+treatment, and persistent poor service levels, especially in Katchi Abadis. The program included short-
+term interventions to rapidly improve services and KWSC revenues while laying the groundwork for more
+significant infrastructure investments. The World Bank supported the program by signing a Commitment
+of Cooperation (CoC) for the reform 8 of the KWSC together with the GoS and through a US$40 million
+International Bank for Reconstruction and Development (IBRD) loan for the Karachi Water and Sewerage
+Services Improvement Project (KWSSIP-1; P164704). Additionally, KWSC completed a Utility Performance
+Improvement Assessment, and Training for key staff focused on customer service management and billing
+development with Aguas de Portugal, concluding in June 2024.
+14.     The KWSC is on track to deliver, for the first time, safe drinking water for 2 million people by
+June 2025. The 2023 KWSC Act strengthened the KWSC’s financial and managerial autonomy. A new
+Board of Directors with more independent members appointed a new KWSC Chief Executive Officer and
+Chief Operating Officer in 2023 through open market competition. The new management has prioritized
+revenue-enhancing measures, including digitalizing hydrant management, addressing illegal connections,
+increasing metering, and recovering arrears. As a result of these measures, the KWSC’s revenue has more
+than doubled from PKR 8,305 million in FY19 to PKR 16,428 million in FY23. 9 Construction is underway of
+the Greater Karachi Bulk Water Supply Scheme (K-IV) Phase 1 to increase KWSC’s bulk water capacity.
+KWSC is also making investments to control water losses and developing two public-private partnerships
+(PPPs) for wastewater treatment and recycling (TP-I and TP-IV) advised by the Asian Development Bank
+(ADB). TP-I is at the Request for Proposal stage and is expected to reach financial close by July 2025.
+15.     The new generation of WASH programs in Sindh and Punjab is a springboard for new national
+WASH platforms to leverage capital from development partners and the private sector to scale up safely
+managed WASH services through long-term programmatic infrastructure investments and reforms. The
+proposed Pakistan Urban WASH Services Multiphase Programmatic Approach (MPA) provides the entry
+point for such a multi-province platform targeting urban and peri-urban areas. The Second Karachi Water
+and Sewerage Services Improvement Project (KWSSIP-2) is the proposed first phase of this MPA.
+C. Relevance to Higher Level Objectives
+16.     The MPA is part of a World Bank South Asia regional initiative or program of programs to
+provide WASH services to about 100 million people across the region by 2035. The proposed Pakistan
+Urban WASH Services MPA and the Bangladesh Water Security and Water Supply and Sanitation (WSS)
+MPA are the first in the program. These will likely be followed by a WASH MPA for India in FY25, and a
+Pakistan Rural WASH services MPA in FY26. Depending on client demand, MPAs or Series of Projects for
+Nepal and Sri Lanka may also be considered.
+17.      KWSSIP-2 is consistent with the World Bank Group (WBG) Country Partnership Strategy (CPS)
+FY15–19 for the Islamic Republic of Pakistan discussed by the WBG Board of Executive Directors on May
+1, 2014 (Report No. 84645-PK) and extended to FY20 by the corresponding Performance and Learning
+Review dated May 18, 2017 (Report No. 113574). The preparation of the new Country Partnership
+Framework (CPF) was deferred in FY21 due to the COVID-19 crisis and paused in FY23 due to the 2022
+floods. The new CPF is expected to be presented to the Board in FY25. The FY15–19 CPS objectives remain
+
+8 The Commitment of Cooperation (CoC) for the reform of the KWSC to Improve Service Delivery and Financial Viability of the
+
+KWSC was signed between GoS and the World Bank Group on May 30, 2019.
+9 Data from KWSC Financial Statements.
+
+
+                                                                                                                     Page 4
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+relevant, and this program contributes to Result Area 4: "Improving Service Delivery." It will lay out a
+longer-term engagement focusing on a select set of Pakistan's most daunting development challenges,
+including reducing child stunting through investments in safely managed WASH services.
+18.      The program is consistent with and supports Pakistan's climate change strategies, including the
+National Water Policy (2018), the National Climate Change Policy (2021), the National Adaptation Plan
+(2022), and the Nationally Determined Contribution (2021), as well as the Pakistan CCDR. The CCDR calls
+for strengthening human capital to achieve sustained and equitable development, and climate resilience.
+It recommends urgent public investment to expand access to safely managed WASH services and
+investment in climate-resilient water and wastewater infrastructure and services as a priority to transition
+to a green and resilient economy. Phase 1 will generate emission reductions (ERs) through adopting
+renewable energy, improvements in energy efficiency, and methane reduction in wastewater collection
+and treatment. The ERs generated through 2030 are expected to be monetized by the Transformative
+Carbon Asset Facility as a standalone activity. Additional monetization of ERs from other MPA Phases
+could be considered. The program is consistent with provincial policies and strategies on urban WASH
+services and water resources management. Finally, the program aims to mobilize private capital by
+supporting reforms and improving utility efficiency, financial performance, and creditworthiness.
+19.      The MPA is fully aligned with the global framework of the Water Security and Climate
+Adaptation Global Challenge Program (Water GCP), a priority program in the South Asia Region. More
+specifically, the MPA will contribute to achieving beneficiary targets under the Water GCP strategy pillar
+1: achieving universal access to safe WSS. The MPA in Pakistan is envisaged as one of the first programs
+in the South Asia Region to implement the Water GCP and enhance scale, speed, and impact.
+D. Multiphase Programmatic Approach
+20.     An MPA is conducive to the sustained focus and coordinated investments over a prolonged
+period at the province level that are needed to address urban WASH services gaps. It offers several
+advantages over a standalone Investment Project Financing (IPF) or Program-for-Results (PforR)
+operation. The MPA assures governments and stakeholders of the World Bank’s long-term commitment,
+offering more predictability to other development partners, including multilateral development banks
+(MDBs) and the private sector, and providing a platform to align partners, evaluate impact, and share
+lessons learned across provinces. At the same time, it offers sufficient flexibility to course-correct and
+adjust the program and its ambition based on results achieved, evolving government priorities, and
+finances. This Project Appraisal Document introduces the MPA and focuses on KWSSIP-2 as the first phase,
+signaling the commitment by the World Bank to support critical WASH outcomes over the long term.
+21.     The MPA Program Development Objective (PrDO) is to provide safely managed WASH services
+in urban areas in Pakistan. The PrDO result indicator is “people provided with safely managed WASH
+services,” and the target is 33.5 million by 2035. The people who count against this indicator are those
+receiving the three services of safely managed water, safely managed sanitation, and basic hygiene
+services as defined in the World Bank Corporate Scorecard. Safely managed water means drinking water
+from an improved water source accessible on premises, available when needed (a minimum of 12 hours
+per day), and free from fecal and hazardous chemical contaminants (including fluoride, arsenic, and lead).
+Safely managed sanitation means using an improved sanitation facility not shared with other households
+and where excreta is safely disposed of in situ or removed and treated offsite. Basic hygiene service means
+a handwashing facility with soap and water is available at home. The MPA’s theory of change is shown in
+Table 2. Participating provinces will have the flexibility to select from the menu of activities based on their
+needs, priorities, and capabilities, provided they are aligned with the PrDO and results chain.
+
+                                                                                                       Page 5
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+Table 1: Proposed Pakistan Urban WASH Services MPA Framework and Indicative Costing (FY25–FY35)
+ Phase          Phase’s Proposed Development                    IPF or     IDA/IBRD      Other      Estimated       Estimated
+                Objective                                       PforR        (US$         (US$      Approval         E&S Risk
+                                                                            million)     million)      Date           Rating
+ Phase 1:       Provide safely managed water and                  IPF        240          759          FY25            High
+ KWSSIP-2       sanitation services in Karachi and
+ (P171422)      increase KWSC’s financial and
+                operational performance.
+ Phase 2:       Provide safely managed water and                Hybrid       400           80          FY26        Substantial
+ PICP           sanitation and basic hygiene services in        PforR
+ (P508094)      selected cities of Punjab.
+ Phase 3:       Provide safely managed water,                     IPF        200          501          FY28            High
+ KWSSIP-3       sanitation and basic hygiene services in
+                Karachi and increase KWSC’s financial
+                and operational performance.
+ Total                                                                       840         1,340
+
+22.     The 10-year MPA will initially have three overlapping phases that are expected to scale-up
+existing successful operations with a total estimated envelope of US$2.18 billion, including US$840
+million from IBRD and the International Development Association (IDA) and US$1.34 billion expected
+from provincial governments, MDBs, and the private sector. The program is currently expected to target
+urban areas in Sindh and Punjab. Additional phases could include other provinces or cities, depending on
+client demand and investment needs. MDBs that have indicated a commitment to the MPA currently
+include the Asian Infrastructure Investment Bank (AIIB) and the ADB.10 The European Investment Bank
+has also expressed potential interest in parallel financing. Private capital will come primarily from equity
+and debt financing in Karachi (Phases 1 and 3) and potentially in Punjab Inclusive Cities Program (PICP, as
+the second phase of PCP). Table 1 summarizes the program plan.
+23.      Phase 1 will build up on KWSSIP-1 to provide 6 million people in Karachi with all three safely
+managed WASH services. It will leverage GoS and GoP capital already committed under the KTP, as well
+as MDB and private sector capital, to expand the scope of investments in bulk water augmentation, water
+treatment, wastewater treatment and reuse, behavior change, water distribution, and sewer network
+rehabilitation, including in Katchi Abadis. This phase will also deepen support for KWSC reform.
+24.     Phase 2, which is currently under discussion, intends to target 20 secondary cities in Punjab to
+reach 11.5 million people with all three safely managed WASH services, building on and expanding the
+scope of the successful ongoing PCP in the province. It is proposed to target secondary cities where child
+stunting is highest and partner with local governments to expand access to safely managed water and
+sanitation services, promote hygiene behavior change, and improve solid waste management, drainage,
+and flood management. PICP proposes to strengthen the institutional capacity of local governments by
+modernizing systems that support sustained, safely managed WASH service delivery, such as O&M and
+asset management, water quality monitoring, billing, revenue collection, and financial management.
+
+
+
+
+10 AIIB is co-financing Phase 1 with US$240 million. The World Bank will assume full fiduciary responsibility and operate within
+
+the cofinancing policy for cost recovery in accordance with a co-lending agreement with AIIB. ADB is transaction the advisor for
+TP-IV and is a potential financier of US$50 million for viability gap financing of TP-IV to the GoS as parallel financing.
+
+                                                                                                                         Page 6
+           The World Bank
+           Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+
+                      Table 2: Theory of Change for the Pakistan Urban WASH Services MPA
+                 Menu of Activities                              Typical Outputs                   Outcomes      Impacts
+Pillar 1: Safely Managed Water Services
+• Last-mile connectivity to water networks • Household piped connections installed.
+• Treatment plant and distribution network • Schools and health centers provided
+                                                                                            People
+  rehabilitation and expansion.                  with WASH.
+                                                                                           provided
+• Household water connections.                 • Network rehabilitated/expanded.         with safely
+• Water quality surveillance.                  • Functional water treatment plants.       managed
+• In-line chlorination (ILC) units and point-  • ILC and point-of-use units installed.      water
+  of-use treatment systems.                    • Water sources augmented.                  services.
+• Source sustainability and augmentation.      • Communities provided with communal                   Reduced
+• Communal potable water filtration plants.      potable water points                                    child
+Pillar 2: Safely Managed Sanitation and Basic Hygiene Services                                        stunting.
+• Last-mile connectivity to sewer networks • Sewerage connections installed.                People
+• Wastewater recycling plants.                 • Safe non-sewered sanitation in use.       provided
+• Sewer and stormwater drainage network • Wastewater treatment and fecal sludge with safely
+  expansion and rehabilitation.                  management plants operational.           managed
+• Household sewer connections.                 • Handwashing facilities with soap and     sanitation
+• Non-sewered sanitation and fecal sludge        water installed and in use.               services.  Reduced
+  management.                                  • Increased awareness/adoption of                     incidence
+• Handwashing facilities with soap and           hygiene practices.                                  of water-
+  water.                                       • Solid waste recovery and sanitary                     related
+                                                                                                     diseases.
+• WASH behavior change communication.            disposal infrastructure operational.       People
+• Solid waste recovery and sanitary disposal. • Stormwater drainage and climate            provided
+• Sustainable drainage and solutions for         adaptation infrastructure operational    with basic
+  water retention, percolation and storage. • Reduced greenhouse gas emissions             hygiene
+Pillar 3: Institutional Strengthening and Financial Sustainability                         services.
+• Technical, commercial, and operational       • Performance agreements signed.
+  efficiency interventions.                    • Billing/collection efficiency improved.
+• Capacity building of service providers.      • NRW reduced.
+• Service performance monitoring.              • PPP contracts signed.
+• Utility and institutional/regulatory reforms • Service providers’ operating cost
+                                                                                            People
+• Updated WASH programs and financing            coverage ratios increased.
+                                                                                           provided
+  roadmaps.                                    • Public financing committed to WASH.         with
+• PPP market facilitation, preparation, and • Private capital mobilized for WASH.         improved
+  PPP advisory.                                • Revised regulations, standards and      stormwater
+• Development of city resilience plans           specifications for WASH services          drainage
+• Revision of rates for key taxes and fees.    • Increased revenues from land and          services.
+• Expansion of Urban Immovable Property          property-related taxes and fees
+  Tax base.                                    • Improved energy and resource
+• Accessing eligible carbon financing.           efficiency
+Critical assumptions: (i) households have financial means and willingness to connect to water and sanitation systems; (ii)
+people reached with hygiene awareness campaigns are the correct target (e.g., women); (iii) people reached have access to
+quality preventative/curative health care, nutrition, and food security.
+
+
+                                                                                                              Page 7
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+25.       Phase 3 aims to scale up all three safely managed WASH services to 16 million additional people
+in Karachi, building on KWSSIP-2. It would leverage GoS, GoP, MDBs, and private sector capital to expand
+investments in water treatment, wastewater treatment and reuse, behavior change, water distribution,
+and sewer network rehabilitation and expansion, including in Katchi Abadis. It would scale up metering
+(district, bulk user, and households), service connection rehabilitation, and telemetry replacement and
+installation to better monitor and operate WSS systems. It would continue to support KWSC’s reform,
+focusing on access to corporate finance or private capital. Phase 3 may also include a partial risk guarantee
+to support PPPs, subject to meeting appraisal requirements, including market demand.
+26.      The MPA includes a robust learning agenda to enable learning across provinces on WSS service
+provider reforms and hygiene behavioral change. The MPA will facilitate knowledge sharing, drawing on
+country, regional, and global evidence on how different institutional models (corporatized utilities,
+statutory bodies, ringfenced municipal departments, etc.) perform in various contexts and what reforms
+are needed. For instance, lessons from utility corporatization reforms in Karachi under Phase 1 will inform
+the design of similar reforms for water service providers in secondary cities in Punjab under Phase 2. In
+addition, lessons from PPP transactions and utility turnaround strategies in Phase 1 will inform similar
+initiatives in Phases 2 and 3. Moreover, the MPA will invest in building institutional capacity for capturing
+and sharing lessons at the municipal and utility levels so that the learning could, over time, benefit other
+regions as well. Phase 3 will be informed by the lessons learned from Phases 1 and 2 as well as KWSSIP-1.
+27.     The learning agenda will generate evidence to inform context-specific hygiene behavioral
+change interventions to maximize public health gains from WASH services. Robust monitoring and
+evaluation (M&E) of MPA activities will help assess the impact of such interventions on outcomes like
+reduced exposure to water-borne diseases and child stunting. Program assessments will answer short-run
+behavior questions, such as the effective framing of hygiene messages to encourage the adoption of new
+behaviors and the uptake of services. In contrast, more traditional impact evaluations will answer longer-
+term questions, such as the impact of program interventions on reducing child stunting.
+28.      The Bank will facilitate learning through a country WASH knowledge platform. This platform will
+deliver a mix of analytical, capacity-building, advisory, and convening services (forums, learning events,
+networking) to ensure the diffusion of knowledge and learning into each MPA phase. Financing for each
+phase will cover some aspects of the knowledge platform (e.g., long-term impact evaluations). Others,
+such as program assessments, capacity building, and advisory, will be Bank-executed. The learning agenda
+will also draw on the World Bank’s published body of knowledge, including case studies on the
+characteristics of well-performing public water utilities, 11 water utility turnaround frameworks, 12 water
+utility maturity models, 13 roadmaps for building the resilience of water utilities to climate change, 14 as
+well as recent work on behavior insights for the water sector. 15
+29.      The Bank will leverage existing country and regional networks, including the Pakistan Water
+
+
+11 Baietti, Aldo, William Kingdom, and Meike van Ginneken. 2006. “Characteristics of Well-performing Public Water Utilities.”
+
+Water Supply and Sanitation Working Notes No. 9. World Bank Group, Washington, DC.
+12 Soppe, Gerard, Nils Janson, and Scarlett Piantini. 2018. “Water Utility Turnaround Framework: A Guide for Improving
+
+Performance.” World Bank Group, Washington, DC.
+13 Kayaga, Sam Mbaziira, William D. Kingdom, and Josses Mugabi. 2013. “Evaluating the Institutional Sustainability of an Urban
+
+Water Utility: A Conceptual Framework and Research Directions.” Utilities Policy 27 2013-12.
+14 World Bank. 2018. “Building the Resilience of WSS Utilities to Climate Change and Other Threats: A Road Map.” World Bank,
+
+Washington, DC.
+15 Joseph, George, Sophie Ayling, and Alejandra Quevedo Cardona. 2023. “Behavioral Insights for the Water Sector: Improving
+
+Outcomes by Changing Mindsets.” World Bank, Washington, DC.
+
+                                                                                                                         Page 8
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Operators Network, the South Asia Water Utility Hub, and the Singapore Water Center, to provide
+opportunities for water utilities to regularly share knowledge and experiences on common issues such as
+tariff reform, human resource reforms, performance management, digitization, NRW reduction, and PPPs.
+
+ II. PROJECT DESCRIPTION
+
+A. Project Development Objective
+30.     The Project Development Objective (PDO) of Phase 1 is to provide safely managed water and
+sanitation services in Karachi and increase KWSC’s financial and operational performance. The PDO
+indicators are: (i) People provided with safely managed water (including female and youth) (number); (ii)
+People provided with safely managed sanitation (including female and youth) (number); and (iii) KWSC
+operating cost coverage ratio improved (percent). The first two are WBG Corporate Scorecard indicators.
+B. Project Components
+31.     The project scope consists of three components that contribute to the PDO and a Contingent
+Emergency Response Component (CERC) with zero allocation, providing flexibility to the GoP/GoS to
+reallocate funds to support emergency response activities in case of an eligible emergency. 16
+32.      Component 1 – Capacity Building and Reform of KWSC (US$14 million, of which IBRD US$5.6
+million, AIIB US$5.6 million, GoS US$2.8 million). This component will finance capacity building and
+reform support activities to enable KWSC’s evolution into a well-functioning utility that is resilient to
+climate change. The component will finance: (i) technical assistance and capacity building related to
+technical and commercial operations, including asset management, geographic information systems (GIS)
+and data systems, hydraulic modeling, NRW reduction, billing and revenue management, financial
+management, communications, and customer service; (ii) implementation of organizational structure
+reforms to enhance efficiency, accountability and commercial orientation in service delivery; (iii)
+implementation of a human resource reform plan, including a gender-inclusive recruitment and training
+strategy; (iv) preparation and implementation of water safety plans, including the establishment of a
+centralized water quality testing laboratory capable of carrying out biological and key chemical tests
+(including lead and other heavy metals); (v) rehabilitation and upgrade of office spaces and establishing
+an innovation, research, development, and learning center; (vi) technical assistance on PPPs, their
+outsourcing and management; (vii) preparation of all required rules, regulations and guidelines to enable
+full operationalization of the KWSC Act and their adoption as standard operating procedures for
+operationalizing the utility; and (viii) any other capacity-building activities necessary to strengthen KWSC’s
+corporate governance and increase its operational and financial performance and adaptive capacity, such
+as technical trainings for women in the KWSC, support to the newly established Environmental and Social
+(E&S) cell at KWSC , and support to improve groundwater management.
+33.      Component 2 –Safely Managed Water Supply and Sanitation Services (US$958.56 million, of
+which IBRD US$223.824 million, AIIB US$223.824 million, GoS US$241.912 million, private capital
+US$269 million). The component will finance investments to enhance Karachi’s water supply and
+sanitation infrastructure. The medium-term investment plan addresses five interlinked structural
+problems in Karachi’s water and sanitation system: a bulk water supply shortfall, a leaky water distribution
+network, an intermittent supply that does not meet drinking water quality standards, a lack of wastewater
+collection and treatment capacity, and persistent poor service levels, especially in Katchi Abadis.
+
+16 The front-end fees (US$600,000 each) of the World Bank and AIIB loans will be paid from the proceeds of each loan and are
+
+included in the total project cost.
+
+                                                                                                                      Page 9
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+34.     Sub-component 2.1: Provision of Safely Managed Drinking Water and Sanitation Services in
+Selected Unplanned Settlements (Katchi Abadis) (US$28.88 million, of which IBRD US$11.55 million, AIIB
+US$11.55 million, GoS US$5.78 million). This sub-component will finance the expansion of safe drinking
+water and sanitation services in at least seven Katchi Abadis, benefiting over half a million people.
+Investments will include rehabilitation and expansion of water distribution systems, installation of ILC
+units, metered house connections, sewerage network rehabilitation and expansion, and accompanying
+social marketing and WASH behavior change communication. The KWSC will deliver services in
+partnership with local non-governmental organizations and community-based entrepreneurs as well as
+local women’s organizations and transgender people’s organizations.
+35.      Sub-component 2.2: Priority Sewer Network Rehabilitation and Expansion (US$23.22 million, of
+which IBRD US$9.29 million, AIIB US$9.29 million, GoS US$4.64 million). This sub-component will finance
+priority sewerage network rehabilitation and expansion to restore network integrity in critical areas and
+reduce sewer overflows and flooding that currently impact an estimated 3.02 million people in these
+areas. The networks for rehabilitation have been identified based on levels of deterioration, under-sizing,
+and combined sewer/ open channel sewers. These sewers carry wastewater to TP-I and TP-III, which are
+under rehabilitation by the KWSC.
+36.      Sub-component 2.3: Priority Water Distribution Network Rehabilitation and Expansion
+(US$56.93 million, of which IBRD US$22.77 million, AIIB US$22.77 million, GoS US$11.39 million). This
+sub-component will finance rehabilitation and upgrading of the water distribution network, including the
+creation of pressure zone boundaries and District Metered Areas for physical water loss monitoring,
+installation of ILC units, and installation of modern, digital network monitoring systems, including modern
+flow meters (district, domestic and bulk customer meters), pressure loggers, automatic metering reading
+and advanced metering infrastructure, and remote monitoring and sensing tools to monitor real-time
+residual chlorine levels. The sub-component will also finance network expansion to areas of Karachi that
+are currently not covered. In addition, the sub-component will finance a performance-based NRW
+reduction program to reduce physical and commercial water losses, prioritizing physical water losses by
+improving system maintenance, active leakage control, speed and quality of leak repairs, and pressure
+management. Reducing physical water losses will help reduce pressure on water sources and build
+resilience to droughts. An initial set of areas for rehabilitation has been established based on the potential
+for NRW reduction and energy-saving benefits relative to E&S complexity and costs. District Metered
+Areas financed under this sub-component, complemented by the installation of customer meters from
+the KWSC metering program, will support the implementation of NRW reduction plan.
+37.      Sub-component 2.4: Improvement of Energy Efficiency (US$19.90 million, of which IBRD US$7.96
+million, AIIB US$7.96 million, GoS US$3.98 million). This sub-component will finance a range of energy-
+saving interventions to reduce energy consumption in KWSC’s pumping stations and water treatment
+plants as well as the utilization of feasible renewable energy resources, and thus reduce energy costs and
+KWSC’s carbon footprint. The KWSC will partner with competitively selected Energy Service Companies
+(ESCOs) to develop, design, build, and co-finance interventions that save energy, reduce energy costs, and
+decrease operations and maintenance costs at Dhabeji water pumping station, secondary pumps, and
+other major facilities. ESCOs will function as project developers for comprehensive energy conservation
+measures and assume the technical and performance risks associated with the selected interventions.
+ESCOs will be engaged on performance-based contracts with payments linked to actual energy cost
+savings. If needed, about US$6 million is allocated for viability gap funding (VGF).
+38.    Sub-component 2.5: K-IV Augmentation (US$256.87 million, of which IBRD US$77.75 million,
+AIIB US$127.75 million, GoS US$51.37 million). This sub-component will finance: (i) 2.7 km of the
+                                                                                                     Page 10
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+transmission line from reservoir 2 running from National Institute of Public Administration to the Expo
+Centre in Hasan Square in Karachi constructed as part of a common corridor; and (ii) apart from those 2.7
+km, the construction of three transmission mains to bring 260 MGD of treated water into the existing
+network from three separate treated water reservoirs currently under construction as part of the ongoing
+government-financed K-IV Phase 1.
+39.      Sub-component 2.6: Rehabilitation and Reconstruction of Existing Water Treatment Plants
+(US$120.75 million, of which IBRD US$29.50 million, AIIB US$29.50 million, GoS US$14.75 million,
+Private Sector US$47 million). This sub-component will: (i) finance the rehabilitation and upgrade of two
+water treatment plants (NEK-KII, 100 MGD; and Pipri JBIC, 50 MGD) with a total installed capacity of 150
+MGD to ensure treated water entering the network from these plants is safe and meets national drinking
+water quality standard; and (ii) support the financing of the reconstruction of up to two water treatment
+plants (COD, 180 MGD, and NEK-KIII 100 MGD) with a total capacity of 280 MGD to increase treated water
+production design capacity. The KWSC intends to pilot the reconstructions through PPPs, lessons from
+which might enable future PPPs in other water treatment plants. A feasibility study indicates a total cost
+of US$87 million for these two water treatment plant reconstructions. A preliminary assessment suggests
+an opportunity for a PPP supported by a VGF of US$40 million. The VGF would finance payments against
+construction milestones outlined in the PPP contract. Of the estimated US$47 million of private capital
+mobilized, which will comprise US$14 million in equity and US$33 million as debt, 84 percent (US$40
+million) is attributed to World Bank financing. 17
+40.      Sub-component 2.7: Construction of Malir Basin Wastewater Interceptor, TP-IV Wastewater
+Treatment, Recycling Plant, and new Recycled Water Distribution Network (US$452 million, of which
+IBRD US$65 million, AIIB US$15 million, GoS US$150 million 18, private sector US$222 million). This sub-
+component will finance: (i) a wastewater interceptor (21.7 km) along the Malir River to capture the
+untreated wastewater currently discharged in the river and convey it to the TP-IV; (ii) TP-IV to treat 120
+MGD influent of mixed domestic and pre-treated industrial wastewater compatible with a domestic
+wastewater treatment plant; (iii) a recycling facility with advanced tertiary treatment to produce 50 MGD
+water for industrial use; and (iv) a distribution network to convey recycled water to industrial users. These
+investments will improve the KWSC’s ability to collect and treat wastewater in the Malir basin, reducing
+the pollution of the Malir River, which discharges into the Arabian Sea, and enhancing the resilience of
+the city’s water supply system to droughts with recycled water. The KWSC intends to implement the full
+scope of this subcomponent as a single hybrid PPP contract and this subcomponent will contribute
+towards the US$230 million of combined VGF from the IBRD, AIIB, and GoS (with financing from ADB
+under discussion). The ADB is advising the GoS on the PPP transaction with the issuance of a request for
+proposals expected in March 2025 and financial close estimated by March 2026. The VGF would finance
+payments against construction milestones outlined in the PPP contract. Of the US$222 million private
+capital mobilized, which will comprise US$67 million in equity and US$155 million as debt, 50 percent
+(US$111 million) is attributed to World Bank financing. 19
+
+17 This calculation is in accordance with the MDB Methodology for Private Investment Mobilization - Reference Guide - June
+
+2018. The World Bank contributes US$27 million or 84 percent to the total VGF from the two MDBs (WB and AIIB) of US$32
+million (AIIB US$5 million or 16 percent). The GoS counterpart share is US$8 million. It is assumed that 30 percent of private
+capital will come in the form of equity and 70 percent in the form of debt.
+18 This amount includes US$20 million of project counterpart financing under KWSSIP-2 as well as an additional US$80 million of
+
+financing approved by the GoS cabinet on August 9, 2023 as part of the ongoing provincial S-III project (the revised PC-1 for S-
+III, which includes TP-IV, was approved on February 7, 2018) as well an additional $50 million of VGF under discussion with ADB.
+19 This calculation is in accordance with the MDB Methodology for Private Investment Mobilization - Reference Guide - June
+
+
+
+
+                                                                                                                      Page 11
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+41.      Component 3 – Project Management and Studies (US$25.24 million, of which IBRD US$10.096
+million, AIIB US$10.096 million, GoS US$5.048 million). This component finances: (i) project management
+and coordination, including design review and construction supervision, project management support,
+E&S risk management, and project results monitoring and evaluation as well as beneficiary surveys and
+the Project’s impact evaluation; and (ii) technical assistance for advance studies for potential subsequent
+water and wastewater infrastructure projects, including feasibility studies, engineering designs, E&S
+studies, and special studies on applicability of trenchless technology in water and wastewater
+infrastructure development in Karachi.
+42.      Component 4 – Contingent Emergency Response Component (CERC) (US$0 million). The
+Borrower may request the Bank to reallocate project funds for the provision of immediate response to an
+Eligible Crisis or Emergency, as needed. This component would draw from the uncommitted loan
+resources under the project from other project components to cover emergency response.
+C. Project Beneficiaries
+43.     The MPA will provide an estimated 33.5 million people with all three aspects of safely managed
+WASH services (PrDO indicator). Phase 1 targets 6 million people, Phase 2 targets 11.5 million people,
+and Phase 3 targets 16 million people. Under Phase 1, 16 million people in Karachi will receive safely
+managed water (PDO indicator i), and 7.5 million people will receive safely managed sanitation (PDO
+indicator ii). Phase 1 will also support hygiene behavior change communication for all citizens of Karachi.
+About half of Karachi's inhabitants are women, and 18 percent are youth (aged 15–24).
+D. Rationale for Bank Involvement and Role of Partners
+44.     The WBG brings a combination of financial, knowledge, and convening services that are critical
+to the success of the Pakistan Urban WASH Services MPA program. The Bank has been a longstanding
+and valued partner in the Pakistan water sector for over 30 years. Through analytics and sustained
+engagement, the Bank has helped bring the issue of WASH service gaps and the link to child stunting to
+the forefront of policy discourse and helped catalyze and support a new generation of impactful WASH
+programs, such as KWSSIP-1 and achieving geographic convergency with other engagements (health,
+nutrition, etc.) that are relevant to reducing child stunting. The International Finance Corporation (IFC) is
+also active in the Pakistan water sector, with two advisory/market facilitation mandates for bulk water
+PPPs in Karachi 20 and promising leads on wastewater PPPs in Punjab, wastewater reuse for industrial parks
+in Karachi, and bulk water PPPs for Islamabad and Rawalpindi. The Multilateral Investment Guarantee
+Agency is exploring opportunities for political risk insurance products to support water PPPs in Pakistan.
+45.      The World Bank plays a catalytic role in mobilizing additional concessional financing from other
+MDBs and the private sector. The AIIB has committed to finance KWSSIP-2 with potential parallel
+financing from ADB. Investments will also help mobilize private capital as part of KWSSIP-2. Bank support
+to the MPA also includes private capital-enabling activities such as utility reform, capacity building, and
+efficiency improvements to enhance creditworthiness. KWSSIP-2 is expected to lay the groundwork to
+enable the mobilization of an estimated US$225 million of private capital during the implementation
+KWSSIP-3, assuming 50 percent private financing of the US$50 million required for the rehabilitation of
+two water treatment plants (Pipri Old, 105 MGD, and Gharo, 30 MGD) and of the US$400 million
+
+2018. The World Bank contributes US$65 million or 50 percent to the total potential VGF from the three MDBs of US$130
+million (AIIB US$15 million or 12 percent, ADB up to US$50 million or 38 percent). It is assumed that 30 percent of private
+capital will come in the form of equity and 70 percent in the form of debt.
+20 Hub canal PPP (30 MGD) and Karachi District South Water Supply (65 MGD). Recently, the GoS dropped the hub canal PPP at
+
+bid stage and instead opted to proceed with public procurement.
+
+                                                                                                                   Page 12
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+estimated for Karachi District South Water Supply project currently being advised by IFC. Of the US$225
+million mobilized, 50 percent (US$113 million) would be attributed to World Bank financing. 21
+E. Lessons Learned
+46.      The design of the MPA draws on lessons and evidence from analytical work and more than five
+decades of WBG experience supporting WASH operations worldwide. The project draws on a wealth of
+evidence that shows that lack of safe drinking water and sanitation and fecal contamination of the
+environment are the primary factors underlying the stunting crisis in Pakistan. 22 The project scope
+includes investments to reduce the risk of fecal-oral transmission of pathogens through the provision of
+safe drinking water, safe wastewater collection and treatment, and hygiene behavior change.
+47.      Lessons from global experience show that the World Bank is more impactful when it supports
+credible government programs that include infrastructure investments and institutional capacity
+strengthening. This MPA shifts the default approach from ad hoc, opportunistic, and short-term
+engagements typically emphasizing infrastructure to a long-term programmatic approach combining
+critical infrastructure investments with reforms and capacity strengthening of service providers to
+maximize chances of achieving and sustaining safely managed services.
+48.     Public utility reform initiatives in a complex socio-political context must deliver quick wins to
+maintain the support of all stakeholders. The scope of Phase 1 includes short-term investments, such as
+ILC units, to enable the KWSC to immediately start providing safe drinking water in selected parts of its
+service area, support for increasing revenues rapidly and reducing costs through energy efficiency
+interventions and leveraging technology in billing and revenue collection.
+49.    Finally, institutional reform requires sustained commitment from borrowers over the long term.
+The project uses legal covenants to maintain focus and attention on the most critical reforms relevant to
+improving the KWSC’s operational and financial performance. The project scope also includes
+complementary technical assistance and change management support to achieve results.
+
+ III. IMPLEMENTATION ARRANGEMENTS
+
+A. Institutional and Implementation Arrangements
+50.      Participating provinces and their corresponding PIUs will organize country- level annual learning
+events to discuss achievements, success, lessons learned and challenges in implementing the MPA. This
+will be carried out through the country WASH knowledge platform under the MPA, in collaboration with
+the Bank. The final scope of the platform will be finalized in the first year of the project implementation.
+51.     Phase 1 will retain the same implementation arrangements as KWSSIP-1. The existing KWSSIP-
+1 Project Steering Committee (PSC), which is chaired by the Chairman of the Planning and Development
+Department of GoS and includes high-level representatives of all agencies involved in the project, will
+continue to provide strategic oversight and high-level coordination for KWSSIP-2. The KWSC will remain
+the secretariat to the PSC and will invite PIU directors to the PSC meetings, as needed, to update on the
+overall project implementation progress, including its business plans and reform activities. The KWSC
+Board of Directors will continue to champion and direct KWSC reform through an internal change
+management task force comprising senior KWSC managers. A performance agreement to be signed
+
+21 Assuming the World Bank contributes 50 percent to the total VGF from the MDBs.
+22 Mansuri, Ghazala, Mohammed Farhanullah Sami, Muhammed Ali, Hang Thi Thu Doan, Bilal Javed, and Priyanka Pandey. 2018.
+
+“When Water Becomes a Hazard: A Diagnostic Report on the State of Water Supply, Sanitation and Poverty in Pakistan and its
+Impact on Child Stunting.” WASH Poverty Diagnostic Series Report, World Bank Group, Washington, DC.
+
+                                                                                                                  Page 13
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+between the GoS and KWSC will commit the KWSC (represented by its Board) to work towards the
+achievement of performance targets, including but not limited to the KWSSIP-2 results framework and
+updated targets from the 2019 CoC.
+52.     The KWSC has not had significant capital investment for over a decade and will need to develop
+its capacity to manage large projects. The KWSSIP-1 PIU has suffered from high staff turnover and
+struggles with M&E and project management. In addition to improved hiring, training, and management
+techniques and systems, the PIU will develop an updated Project Operations Manual including lessons
+learned from KWSSIP-1 prior to effectiveness. The KWSC will strengthen its PIU with additional technical
+and project management staff recruited from the market. In addition, the PIU will engage a Program
+Management Consultancy (PMC) firm with experience in managing complex capital programs to provide
+support in program coordination and managing interdependency risks.
+53.      Existing PIUs managing the Karachi WSS capital program will remain but with more robust
+coordination arrangements. The PIUs include the Water and Power Development Authority (WAPDA) PIU
+for the K-IV Phase 1, a Sindh Irrigation Department PIU for the Kalri Baghar Feeder Upper (KBFU)
+rehabilitation, and the KWSSIP PIU. A K-IV Coordination and E&S Implementation Committee, comprising
+the managers of the four major projects (KBFU, K-IV Phase 1, K-IV Augmentation Phase 1, and power
+transmission of 50 megawatts), shall be notified by the GoS to monitor and report on Environmental and
+Social Commitment Plan (ESCP) implementation and on construction progress on a quarterly basis. The
+GoS PPP unit and its transaction advisors will continue assisting the KWSC with the procurement and
+execution of all PPP projects. Further details of the implementation arrangements are in Annex 1.
+B. Results Monitoring and Evaluation Arrangements
+54.      Participating MPA provinces will be responsible for M&E through their respective PIUs. The
+results frameworks will form the basis for tracking progress toward the PrDO. Existing M&E systems at
+each PIU will be strengthened to create a comprehensive Management Information Systems (MIS). All
+assets created will be geo-tagged. The MIS will include a data management system to process all
+information related to beneficiaries, disbursements, verification, and monitoring. Field staff, consultants,
+and beneficiaries will be able to directly upload information to the MIS in real-time through their
+smartphones, which PIU staff will then verify and consolidate centrally. Data will be aggregated across
+phases through the program-level MIS. Each phase of the MPA will finance the necessary equipment and
+tools, technical assistance, and capacity building to strengthen results and process monitoring at the
+project level, equip the PIUs to fulfill these responsibilities, and prepare regular progress reports.
+55.     The World Bank, other interested or supporting development partners, and participating
+provinces will collaboratively conduct periodic program reviews to assess progress and course
+correction. These regular reviews will also allow for a reassessment of government priorities to ensure
+continued support for the MPA and adjust ambition and coverage as needed.
+C. Sustainability
+56.      The program design supports sustainable outcomes. First, participation is on a self-selection
+basis. Only those provinces that commit to the PrDO and to building credible service providers with the
+technical and financial capacity to sustain these services will join the program. Second, institutional
+capacity strengthening is included as a separate program pillar to draw attention to its importance as a
+critical factor in enhancing sustainability. Third, sustainability will require continuous support from
+provincial political leaders and civil service administrators, who may change over the life of the program.
+The World Bank will support the country WASH knowledge platform where leaders can share experiences
+
+                                                                                                   Page 14
+                   The World Bank
+                   Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+and benefit from change management support through the program activities. Finally, the project design
+has been informed by numerous studies to ensure that activities are of good technical design, least-cost,
+maximizing social and economic benefits, and are environmentally sustainable and climate resilient.
+
+ IV. PROJECT APPRAISAL SUMMARY
+A. Technical, Economic, and Financial Analysis
+Technical Analysis
+57.      The project is technically sound and adopts conventional WSS technology, incorporating
+resilience design principles and addressing critical infrastructure and institutional capacity gaps to
+improve service delivery. 23 The project will reduce the risk of fecal-oral transmission of pathogens
+through the provision of safe drinking water, safe collection and treatment of wastewater, and hygiene
+behavior change. Engineering designs and bidding documents are ready for around 60 percent of the
+project's investments, and KWSC has initiated procurement of the design review consultant for K-IV
+Augmentation (sub-component 2.5). The Bank has reviewed the cost estimates of all investments and
+found them reasonable. The ongoing institutional reform studies under KWSSIP-1, covering topics such as
+financial and human resources management, provide a basis for deepening reforms in KWSSIP-2.
+                         Figure 1: KWSC Demand (line) and Supply (bars) Projections through 2030
+
+                                                                                      1250         District South, 65
+                 1400                                       1225
+                                    1200
+                 1200                                                                                TP-IV Wastewater
+                               TP-I Wastewater                                                           Reuse, 50
+                 1000
+
+
+
+ Volume in MGD
+                                  Reuse, 35                                                            Hub Canal
+                 800
+                                                 K-IV Phase 1, 260        K-IV Phase 1, 260            Rehabilitation, 30
+                 600
+
+                 400                                                                                 TP-I Wastewater
+                               Existing                Existing                Existing
+                                                                                                        Reuse, 35
+                 200     Infrastructure, 620     Infrastructure, 620     Infrastructure, 620
+
+                   0
+                               2024                    2027                      2030
+
+58.      The K-IV Phase 1 remains the most viable path to quickly reducing the water deficit in Karachi.
+K-IV Phase 1 is being financed by the GoP and the GoS (the estimated cost is PKR 126 billion or US$410
+million) and implemented by WAPDA, who will also operate it for the first year. K-IV Phase 1 will withdraw
+an additional 260 MGD from Keenjhar Lake and convey the water for approximately 110 km via pipes to
+three new water treatment plants and reservoirs on the outskirts of Karachi. Keenjhar Lake is a Ramsar
+site that already serves as Karachi’s main water source and is supplied primarily by water from the Indus
+River from Kotri Barrage via the KBFU Canal. The K-IV Phase 1 requires 50 megawatts of power to be
+supplied via a 30 km transmission line and a grid substation to be designed and constructed by the Sindh
+Transmission and Dispatch Company (STDC). The STDC has hired technical consultants and an E&S
+consulting firm. The proposed sub-component 2.5 works will connect the K-IV Phase 1 ground storage
+reservoirs to Karachi’s existing water distribution network. It is expected that the K-IV Phase 1, including
+
+23 Engle, Nathan Lee, Medina Daniel, Greg Felter, and Nelson Sean. 2020. “Resilient Water Infrastructure Design Brief.” Water
+
+Global Practice Working Paper. World Bank Group, Washington, DC.
+
+                                                                                                                      Page 15
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+its power supply, would be completed by December 2026. Additionally, the GoS is pursuing the
+rehabilitation of an existing bulk water supply canal (Hub Canal), which would increase supply by 30 MGD.
+Figure 1 summarizes the KWSC's planned investments to close the bulk water supply deficit.
+59.      However, given the competing needs from agricultural water use for water in Keenjhar Lake,
+there is a risk that the K-IV Phase 1 will not always be capable of supplying the additional bulk water to
+Karachi at the required urban water supply reliability level (95 percent). To mitigate this risk, the Sindh
+Irrigation Department has recently started the rehabilitation of the KBFU canal to restore its hydraulic
+capacity, which is expected to increase water delivery to Keenjhar Lake by at least 260 MGD, enabling
+reliable supply to K-IV Phase 1 while maintaining existing agricultural water withdrawals and safeguarding
+the lake’s ecology. The project will cost an estimated PKR 40 billion (US$142 million) and is being financed
+equally by the GoS and GoP. The KBFU rehabilitation works expected completion date is June 2027, which
+aligns with the expected completion date of the K-IV Phase 1 and K-IV Augmentation.
+60.       The KWSC has programmed the distribution network rehabilitation investments to ensure that
+critical network upgrades are complete before K-IV Augmentation comes online. In addition to targeting
+old, damaged, and obviously leaking network segments, investments will be informed by a calibrated
+network hydraulic model supported by the project to analyze how the network may be modified to serve
+currently unserved areas to control water losses and save energy. The model will be used to simulate the
+benefits of the interventions in terms of reduced losses, increased hours of service, and pressure control.
+61.     Rehabilitating water treatment plants will ensure that treated water entering the network
+meets the national drinking water quality standards. In addition, the project will deploy ILC units at scale
+in the network to disinfect water before the collection point. ILCs are a cost-effective way to address
+microbial water quality risks in the network as part of a comprehensive water safety plan. Evidence from
+randomized control trials suggests that ILC units can reduce child diarrhea by up to 25 percent. 24
+62.     The operation is aligned with the mitigation and adaptation goals of the Paris Agreement.
+Regarding mitigation, all project activities are on the Universally Aligned List. The electricity utilized for
+the WASH services will be sourced from the grid and not utilize on-site fossil fuels as the main energy
+source. Regarding adaptation, Karachi is extremely vulnerable to water scarcity, extreme heat, flooding,
+sea level rise, and earthquakes. The program and the project intend to address climate risks in the project
+area to limit their impacts on the infrastructure and beneficiaries. The risks to WSS infrastructure will be
+reduced to an acceptable level by integrating the resilient design principles 25 within project design,
+ensuring that climate change and disaster risks are adequately considered in an interactive and
+participatory manner. 26 Such design principles include the use of submersible pumps, flood-proofing hard
+components, water quality and quantity data collection, structural bracing and/or use of reinforcements
+as applicable to project component thus enhancing the reliability of the water supply and sanitation
+services provided, especially during extreme weather events. The project will decrease the risk of climate
+change-aggravated flooding and droughts through supporting climate-resilient water supply network
+
+24 Pickering, Amy J., Yoshika Crider, Sonia Sultana, Jenna Swarthout, Frederick G. Goddard, Syed Anjerul Islam, Shreyan Sen,
+
+Raga Ayyagari, and Luby, S. P. 2019. “Effect of In-line Drinking Water Chlorination at the Point of Collection on Child Diarrhea in
+Urban Bangladesh: A Double-blind, Cluster-randomized Controlled Trial.” The Lancet. Global health 7 (9): e1247–e1256.
+25 This 2019 World Bank Resilient Water Infrastructure Design brief will be used to ensure the WSS infrastructure is itself
+
+resilient to floods, droughts, and high winds.
+26 Measures that may be considered include: reinforce surface water intakes, install flood barriers around the plant, installing
+
+pumps if needed to drain the area inside the barriers, elevating water tanks, pumping stations and electrical components,
+installing submersible pumps, developing procedures to adapt to source waters with higher pollutant loads, installing capacity
+to manage extreme changes in influent quality, etc.
+
+                                                                                                                          Page 16
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+rehabilitation (including NRW reduction) and expansion, duly considering current and projected climate
+change impacts, leak reduction, and efficient use of water sources. In addition, positive public health
+outcomes, including reduced child stunting, are boosted through the increased collection and treatment
+of wastewater and fecal sludge by the project. Lastly, the introduction of water reuse will increase
+available water, contributing to resilience to droughts. The CERC Manual provides the overall financing
+framework and types of activities to be financed under CERC. The task team will ensure that all eligible
+activities included in the CERC Manual/CERC Annex of the Project Operations Manual are Paris aligned. 27
+Immediate emergency preparedness and response activities that are temporary and time-bound (such as
+debris removal, emergency evacuation, structural stabilization, restoration of essential services,
+procurement of medicines, food security, and cash transfers) are considered low risk and therefore Paris
+aligned. Thus, risks from climate hazards have been reduced to an acceptable level and are not likely to
+have material impact on the operation and its development objectives.
+Economic Analysis
+63.      The economic rationale for this project is strong, with a positive net present value (NPV) of
+US$1,140 million and an economic internal rate of return (IRR) of 35 percent. The benefits considered
+include reduced cost of using alternative water sources, reduced time spent collecting water, and health
+benefits from reducing waterborne diseases. However, the direct environmental benefits of reducing
+pollution cannot be estimated reliably. Sensitivity analyses showed that the project is robust and that
+even significant changes in critical variables will not render the project unviable. For instance, a one-year
+delay in completing the K-IV Augmentation subproject critical to water service improvements only reduces
+the economic IRR of the subproject from 22 percent to 17 percent.
+64.      Greenhouse gas (GHG) ERs—monetized by applying a low and high shadow price of carbon—
+further add to the project's economic benefits. The project is expected to generate a net ER of 17,558,840
+tons of carbon dioxide (CO2) equivalent over its economic lifetime. The annual GHG reduction is estimated
+at 877,942 tons of CO2 equivalent. The ERs are driven by energy efficiency gains, reduced tanker water
+deliveries, and improved wastewater collection and treatment 28.
+Financial Analysis
+65.     The project is financially viable for KWSC with an NPV of US$470 million and IRR of 20 percent,
+assuming no cost of financing to KWSC. Although the KWSC Act enables the KWSC to operate on a
+commercial basis and to borrow to meet its capital expenditure and recover all its costs (including
+financing costs) through tariffs, the KWSC is still a long way from achieving full cost recovery. It will
+continue to depend on the GoS for capital financing for some time, especially for wastewater operations.
+66.     The KWSC has not produced complete audited financial statements, so the World Bank could
+not reliably ascertain its financial position. For the FY08-20 statements, the auditors have provided
+disclaimers due to insufficient audit evidence. An issue of concern is the ability of the KWSC to operate as
+a solvent and financially viable entity during and after the project, with reduced dependency on
+operational GoS subsidies. Operating cashflows, excluding subsidies, have remained negative for the past
+years. The KWSC faces the challenge of increasing revenue from its water sales due to an inaccurate and
+incomplete customer database, lack of customer metering, and archaic billing and collection practices.
+
+
+27 This would then be ensured for the specific activities to be financed and included in the Emergency Action Plan, based on the
+
+information available at the time of activation of CERC.
+28 A full analysis and estimate of the GHG were concluded from the use of the corporate model and further documented in the
+
+Climate Change Technical Note and project files.
+
+                                                                                                                       Page 17
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Although billings increased significantly since 2018, collection efficiency has remained stagnant at around
+70 percent. These trends point to opportunities for the KWSC to improve its financial performance and
+become a creditworthy entity capable of attracting capital, should it pursue more ambitious reforms to
+increase its revenues and control operating costs. With a large potential customer base in Karachi, the
+KWSC can improve its performance over time and recover the full costs of water supply services.
+67.      The project will accelerate the KWSC's progress toward cost recovery through NRW reduction,
+improved billing and revenue collection, energy efficiency, and other reforms to optimize costs. The
+World Bank estimates that these interventions will increase the KWSC's operating cost coverage ratio
+(OCCR) 29 for water supply from 75 to 150 percent (based on the outcome of a financial model
+incorporating projected improvements from the current baseline) by the end of the project. To maintain
+transparency and focused attention on the financial turnaround, the KWSC has agreed to: (i) prepare,
+within one year of project effectiveness, a financial sustainability roadmap based on a robust utility
+financial model with time-bound actions to achieve an OCCR for water supply of at least 130 percent
+(including electricity costs); and (ii) adopt a revised water and wastewater tariff framework consistent
+with the financial sustainability roadmap approved by the KWSC Board. Measures for increasing cost
+recovery may include financial restructuring, promotion of private sector participation, promotion of
+efficiency, and adjustments of the structure or levels of tariffs. The project will support advisory services
+to evaluate options for achieving financial sustainability as part of the scope of the performance audit.
+B. Fiduciary
+68.     The project financial management (FM) arrangements meet the requirements of the World
+Bank Policy for IPF, and risks are moderate. The FM unit under the existing PIU is sufficiently staffed and
+is headed by an FM Specialist. An assessment of the KWSC’s FM arrangements concluded that it maintains
+FM arrangements that are acceptable to the World Bank and that, as part of the overall arrangements in
+place for implementing the project, it provides reasonable assurance that proceeds of the loan will be
+used for the purposes for which they are allocated. The assessment provides reasonable assurance that
+finances are used for the intended purposes, with due attention to the principles of economy, efficiency,
+effectiveness, transparency, and accountability. The KWSC has a detailed chart of accounts for recording
+transactions that will be used for the project accounting. A unified public FM system exists at all levels of
+government in Pakistan. Funds from the World Bank will be transferred to the project’s designated
+account (DA), established per the Revolving Fund Assignment Account Procedure, and released through
+the Finance Department to the Implementing Agency. Annual external FM audits will be conducted by the
+Department of Auditor General and submitted to the World Bank by December 31 each year.
+69.    The project will follow traditional transaction-based IPF with a total financing of US$240 million
+from IBRD and US$240 million from the AIIB. The project will benefit from FM software already
+implemented in KWSSIP-1, which can generate financial reports directly from the system in the agreed-
+upon format, i.e., Interim Unaudited Financial Reports (IUFRs). The project will submit the IUFRs on a
+semester basis within 45 days from the end of each calendar semester. Disbursements can be in direct
+payments for foreign currency payment outside Pakistan and report-based, with advances equivalent to
+six months' forecasted expenditure. This disbursement will be processed based on the provision of six
+monthly IUFRs containing cash forecasts. The World Bank will conduct FM reviews regularly to ensure that
+
+
+29 The OCCR is defined as the ratio expressed in percentage of collected revenues to the total operating cost but not including
+
+debt service or depreciation cost. The projected OCCR is indicative and will be confirmed based on the audited financial
+statements that meet international standards, expected at the end of year 1. The OCCR is expected to double from the baseline
+assumption at the end of the project as a result of performance improvements and envisaged tariff adjustment.
+
+                                                                                                                       Page 18
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+expenditures incurred are eligible.
+70.     Retroactive Financing. All project activities except subcomponents 2.5 and 2.7 are eligible for up
+to US$43.5 million of retroactive financing. Activities under subcomponent 2.5(i) are eligible for up to
+US$4.5 million of retroactive financing. Retroactive financing for sub-component 2.5(i) would be subject
+to the completion of an E&S audit and corrective measures for works completed up to the request for
+withdrawal as per the ESCP.
+71.     The project, including VGF components, will follow the World Bank’s Procurement Regulations
+for IPF Borrowers (Procurement in Investment Project Financing, Goods, Works, Non-Consulting and
+Consulting Services, Fifth Edition, September 2023). Some procurement activities may follow the national
+procurement procedures (national competition) subject to conditions specified in the textual part of the
+procurement plan approved by the World Bank. The project will be subject to the World Bank’s Guidelines
+on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits
+and Grants (revised as of July 1, 2016, Anti-Corruption Guidelines). The updated procurement risk
+assessment of the KWSC is detailed in Annex 1, including risk areas and mitigation measures agreed.
+72.       The KWSC has prepared a draft 18-month procurement plan and a Project Procurement Strategy
+for Development (PPSD) that addresses the overall procurement outlays, market availability, system
+constraints, procurement competencies, and implementation aspects of the project. Identified
+procurements include: (i) large infrastructure works for K-IV Augmentation (four lots costing US$68
+million, US$99.19 million, US$32.87 million, and US$56.81 million); (ii) contracts for other works using
+national and international bidding process (US$4–30 million); (iii) design and supervision consultancies
+costing US$4–6 million; (iv) other consultancies including energy audit follows up, communication
+strategy, M&E, and project management consultancy costing US$1–3 million; and (v) minor goods. The
+project will also finance VGF for PPPs under development. According to the Private Participation in
+Infrastructure database, Pakistan has closed 87 PPP projects in the last 20 years, but none in the water
+sector. Sindh province has awarded nine PPP projects in the transport, power, and health sectors. Market
+feedback from recent PPP projects tendered by the GoS is that the lack of an international arbitration
+clause in the contract rendered the project unattractive to international and local players. Currently, the
+Sindh cabinet is in the process of reforming statutory limits on international arbitration. Lessons learned
+from the ongoing TP-I tendering will inform TP-IV. The World Bank will conduct due diligence to confirm
+the technical and commercial aspects of the PPP, including the rationale and size of the VGF, affordability
+of tariffs, and market acceptability, and the PPSD will be updated accordingly.
+C. Legal Operational Policies
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+ Legal Operational Policies                                                           Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+73.     OP 7.50 (Projects on International Waterways) is triggered because the project involves the use
+of water from the Indus River, which is considered an international waterway. The project activities
+include rehabilitation and expansion of the existing water distribution network in Karachi and its Katchi
+Abadis, bulk water augmentation, and rehabilitation and upgrade of the existing water treatment plants.
+
+                                                                                                   Page 19
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+These investments do not change the nature of the existing schemes and will not adversely change the
+quantity or quality of water flows to other riparians. Moreover, the terms of reference for the studies and
+assessments on water infrastructure and groundwater and the preparation of KWSSIP-3 will include an
+examination of any potential riparian issues. Accordingly, an exception to the notification requirement
+under Paragraphs 7 (a) and (b) of the Policy was approved on August 8, 2024.
+D. Environmental and Social
+74.      The World Bank has assessed the project’s potential E&S risks and impacts. The project will
+provide safely managed WASH services and reduce environmental pollution from untreated wastewater.
+For the PPP activities in component 2, OP 4.03 (Performance Standards for Private Sector Activities) will
+be applied. The overall E&S risk is High due to social risks related to legacy resettlement issues in the
+associated facility and potential economic resettlement and livelihood impacts on non-titled people on
+public land and right of way during project implementation.
+75.      The project’s environmental risk is Substantial. Risks and impacts during construction include: (i)
+an increase in air and noise pollution; (ii) loss of trees and vegetation; (iii) generation of construction
+wastes and wastewater; (iv) quarrying activities and associated soil erosion; and (v) occupational health
+and safety (OHS) and community health and safety (CHS) issues, including traffic disruptions due to the
+activities in densely populated areas. During project operation, risks and impacts include the generation
+of sludge from wastewater and water treatment, OHS hazards related to chemicals management,
+potential soil, groundwater, and water distribution contamination due to any leakages of the sewerage
+pipes, and over-abstraction from Keenjhar Lake without offsetting or regulating additional withdrawals
+for K-IV Phase 1. Additionally, components of the project may also be exposed to flash floods, which will
+be considered while finalizing the project designs.
+76.     The project design includes actions to mitigate potential adverse environmental impacts on the
+Keenjhar Lake due to increased withdrawals. A Keenjhar Lake Water Balance Study and an Ecological
+Assessment for Keenjhar Lake and Downstream Indus Impacts confirmed that the most significant
+mitigation action for Keenjhar Lake is the rehabilitation of KBFU, which is ongoing. As per the ESCP, the
+Keenjhar Lake water balance will be regularly updated, and increased water delivery to the lake will be
+realized before an equal or lesser amount is withdrawn for K-IV Phase 1. The ESCP also requires
+implementation of the Keenjhar Lake Conservation Action Plan to begin before award the civil works
+under subcomponent 2.5(ii) and to be maintained throughout project implementation. The K-IV
+Coordination and E&S Implementation Committee will coordinate and report on ESCP compliance. The
+Ecological Assessment found that the increases in withdrawals from the Indus at Kotri Barrage to offset
+K-IV withdrawals at Keenjhar Lake represent no more than 3 percent of historical withdrawals at Kotri.
+The contribution of the project to the cumulative impacts of multiple withdrawals and degradation of the
+Indus watershed is therefore assessed as negligible. The planned irrigation improvements and improved
+water resources planning under the ongoing World Bank-financed Sindh Water and Agriculture
+Transformation Project (P167596) and Sindh Barrages Improvement Project (P131324, and its Additional
+Financing P179051) are expected to mitigate regional issues of overallocation and competition for water.
+77.       The project’s social risk is High, mainly due to legacy resettlement issues of the associated
+facility and potential livelihood, accessibility, and CHS issues, as the project will involve works in densely
+populated areas. The World Bank, in close collaboration with the KWSC and the PIU, has confirmed that
+no Anti-Encroachment Drives resulting in forced evictions have taken place on the direct footprint of the
+project. In addition, the project does not anticipate private land acquisition as the required land and Rights
+of Ways, including of transmission lines, are already owned by the KWSC or the GoS. Additionally, the GoS
+
+                                                                                                     Page 20
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+has recently adopted the 2022 Resettlement and Rehabilitation Policy, which is fully aligned with the
+World Bank’s ESF and which further mitigates social risks. Civil works in the densely populated and
+congested urban environment of Katchi Abadis may result in temporary negative livelihood impacts due
+to civil works (e.g., due to restricted access) on businesses, transporters, vendors, hawkers, etc.
+Rehabilitation of the water supply and sewerage network also poses the issue of severance of informal
+connections. This will be mitigated through a communications campaign for a clear connection
+regularization procedure and enforcement of the law. The project investments also pose labor-related
+risks and impacts (e.g., working conditions, OHS, contract terms, etc.). While locally available labor will be
+preferred, an influx of labor may be anticipated and labor camps may need to be established. Additional
+social risks include the exclusion of vulnerable communities from project benefits and the lack of
+meaningful engagement and consultation with communities, particularly vulnerable groups such as
+women, the elderly, minorities, and the poor. The project will mitigate the social impacts of any increases
+in water tariffs first through improved service, supporting the KWSC’s communications capacity, and by
+including affordability considerations in tariff setting.
+78.      Legacy Resettlement Issues and ESF Gaps for K-IV Phase 1 (Associated Facility): Based on the
+ESF, the government-financed K-IV Phase 1 is an Associated Facility. Even though it is not financed by the
+World Bank, it must comply with the World Bank’s ESF. A detailed gap assessment between government
+requirements and actions and the World Bank’s ESF requirements was concluded in December 2023 for
+the water conveyance system currently under construction. The most significant gap identified is related
+to the social legacy of low compensation rates for land acquisition. A Corrective Action Plan was
+developed, and the GoS has agreed to retroactively compensate project-affected people in accordance
+with the requirements under Environmental and Social Standards (ESS) 5. Other gaps identified require
+variation orders to the existing contracts between WAPDA and the K-IV Phase 1 contractors for remedial
+measures such as increasing E&S staffing, adopting labor management plans, and establishing a Grievance
+Redressal Mechanism (GRM). All corrective actions in the gap analysis must be completed before K-IV
+Augmentation works are awarded. The STDC will conduct an Environmental and Social Impact Assessment
+(ESIA) for the K-IV Phase 1 power transmission line in alignment with the World Bank ESF and develop a
+Land Acquisition and Resettlement Plan (LARP). Private land acquisition is not envisaged for the
+transmission line. All E&S instruments to be developed for the transmission line will be reviewed and
+endorsed by the World Bank; the ESIA will become part of the bidding documents for the engineering,
+procurement, and construction contracts; and payment of compensation under the LARP will be
+completed prior to the award of the K-IV Augmentation works under subcomponent 2.5(ii).
+79.     To address E&S risks, the KWSC has prepared an Environmental Management Framework and
+Social Management Framework that covers both KWSSIP-1 and KWSSIP-2, and additional E&S
+instruments for KWSSIP-2 in line with World Bank ESF requirements. 30 The documents identify
+mitigation measures for E&S risks to be incorporated in the subproject design and measures for managing
+and monitoring residual risks throughout the implementation of the project. These documents include:
+•   A ESIA for the Malir Basin Interceptor and TP-IV Wastewater Treatment Plant was disclosed locally
+    on April 25, 2024, and on the World Bank website on May 13, 2024. The ESIA will be updated during
+    project implementation once the design of the PPP is finalized.
+•   A ESIA for K-IV Augmentation was disclosed locally on April 25, 2024, and on the World Bank website
+    on May 21, 2024. This ESIA is informed by the Keenjhar Lake Conservation Action Plan.
+•   A Corrective Action Plan to align the resettlement planning and implementation of the government-
+
+30 Local disclosures are on the KWSSIP website. ESF documents required to be translated into Urdu have been disclosed locally.
+
+
+                                                                                                                     Page 21
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+    financed K-IV Phase 1 with the World Bank’s ESF was disclosed locally on May 27, 2024, and on the
+    World Bank website on June 27, 2024. Corrective Action Plan payments to private landowners will be
+    completed before works on K-IV Augmentation construction begins.
+•   A Labor Management Plan was disclosed locally on May 30, 2024, and on the World Bank website on
+    June 27, 2024.
+•   A merged Resettlement Plan covering Malir Basin wastewater interceptor, priority sewer network,
+    and K-IV Augmentation works was disclosed locally on May 27, 2024, and on the World Bank website
+    on June 27, 2024.
+•   An Abbreviated Resettlement Plan for Katchi Abadis was disclosed locally on July 24, 2024, and on
+    the World Bank website on July 31, 2024.
+•   A Stakeholder Engagement Plan was disclosed locally on May 27, 2024, and on the World Bank
+    website on June 27, 2024.
+•   Five Environmental and Social Management Plans (ESMPs) were disclosed locally as of July 20, 2024.
+    The five ESMPs were for the following sub-components: Provision of Safely Managed Drinking Water
+    and Sanitation Services in Selected Katchi Abadis; Priority Water Distribution Network Rehabilitation
+    and Expansion; Priority Sewer Network Rehabilitation and Expansion; Improving Energy Efficiency;
+    and Rehabilitation and Reconstruction of Water Treatment Plants.
+•   The ESCP was first disclosed locally on August 11, 2024, and updated on November 8, 2024. On the
+    World Bank website, it was first disclosed on August 26, 2024, and updated on November 14, 2024.
+•   The Appraisal Environmental and Social Review Summary was disclosed on the World Bank website
+    on August 26, 2024.
+80.     Grievance Redress Mechanism: A GRM is already established under KWSSIP-1 and will be
+retained for KWSSIP-2 with minor modifications. If required, modifications may be made to the existing
+GRM and web-based GRM portal to better address KWSSIP-2 activities. The GRM is designed to collect,
+collate, review, and redress stakeholders’ concerns, complaints, and grievances. Dedicated
+communication materials will be developed to help stakeholders become familiar with the grievance
+redress channels and procedures. The GRM will be accessible and understandable for all project
+stakeholders for the entire project life. A labor-specific GRM will be operationalized by the contractor at
+each sub-project site, with contextualized grievance registration channels for the laborers/workers.
+81.      The KWSSIP-2 PIU will include one Senior Environmental Specialist, one Senior Social Specialist,
+one Senior Gender Specialist, one OHS Specialist, and four field staff including two Environmental
+Specialists and two Social Specialists. In addition, the KWSC will continue to strengthen its E&S Cell. The
+PIU E&S team is responsible for the implementation of ESMPs, resettlement plans, and other E&S
+instruments, and they will ensure the contractor’s E&S requirements and bills of quantities are included
+in the contract documents, approve the contractor’s ESMPs, and supervise their implementation.
+Comprehensive training in E&S instruments for new PIU and KWSC staff will be conducted during project
+implementation. Contractors must engage adequate environmental, social, health, and safety specialists
+for project implementation. All institutional arrangements for the KWSC E&S Cell will be in place within
+one year of project effectiveness, including an E&S Director, Environmental, Social, Health, and Safety
+Specialists, support staff, and required permanent office arrangements. The K-IV Coordination and E&S
+Implementation Committee members will implement ESCP actions outside the purview of the PIU.
+82.    Gender-based violence (GBV) and sexual exploitation and abuse (SEA): The GBV/SEA risk is
+assessed as moderate. Most construction activities will occur in congested urban areas where the risk of
+occurrence of GBV/SEA is reduced. However, some will take place in rural/remote areas where there is a
+comparatively higher GBV risk and poor support systems for survivors. Additional risks include potential
+
+                                                                                                  Page 22
+         The World Bank
+         Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+exclusion of and lack of meaningful engagement with vulnerable groups. The low capacity of the PIU to
+manage social issues also raises the risk. To mitigate these risks, all workers will be required to sign a Code
+of Conduct and will receive training on GBV and harassment awareness. A SEA-sensitive GRM will be
+staffed by trained personnel, and service providers will be mapped to ensure appropriate responses to
+survivors. Additionally, the surrounding community will be informed about the risks and the GRM. Hiring
+a senior gender specialist in the PIU and E&S training programs will address these gaps as well.
+83.      Citizen Engagement: The project explicitly seeks to support the engagement of targeted
+beneficiaries and other stakeholders through consultative processes and feedback mechanisms, which
+will help adjust the approach to their inclusion and maximize benefits to vulnerable individuals. During
+project preparation, various stakeholder groups were consulted for the preparation of the E&S documents
+through focus group discussions, interviews, and meetings. Separate meetings with women were
+arranged to obtain their views and concerns. In addition, stakeholder workshops were also arranged, a
+broad range of institutional and grassroots stakeholders were invited, and their views, suggestions, and
+concerns were obtained. Civil society organizations were also invited to these workshops, and dedicated
+sessions were also arranged with the key civil society organizations to obtain their views and to benefit
+from their experience, particularly relating to working in Katchi Abadis. Extensive community
+consultations have also been conducted while designing the project interventions in the Katchi Abadis.
+Similar citizen and stakeholder engagement will be continued throughout the various phases of project
+implementation, details of which are provided in the Stakeholder Engagement Plan. The project results
+framework includes a customer satisfaction indicator which will be assessed through independent
+customer surveys commissioned by KWSC.
+84.     Gender: The project will build on KWSSIP-1 efforts to increase the recruitment and promotion
+of women in technical positions in KWSC as per the CoC. 31 The target for recruiting women in technical
+positions in KWSSIP-1 was delayed due to a hiring moratorium by the GoS since 2008 and delayed
+implementation of the Gender Action Plan (GAP) developed during KWSSIP-1. Achievements under the
+GAP include building women-specific bathrooms and prayer areas, on-site daycare support, and skills
+training for KWSC employees. With the lifting of the hiring moratorium and renewed momentum in the
+GAP, KWSSIP-2 will continue to address gender gaps in employment, representation, and leadership at
+the KWSC. Under Component 1, the project will continue to focus on recruiting more women in technical
+and decision-making positions by developing a gender-inclusive recruitment strategy as part of human
+resource reforms at KWSC. KWSSIP-2 will support technical training explicitly targeting women in the
+KWSC to help them progress to higher-level positions. The project will also support institutionalizing an
+internship program for women graduates from technical universities, creating pathways for employment
+at KWSC. To foster a safe and equal work environment, KWSSIP-2 will ensure that all employees go
+through training on SEA/sexual harassment. The project will establish a transparent complaint process
+and a trained inquiry committee. KWSSIP-2 will track the number of newly recruited staff in technical and
+managerial positions and support promoting women employees to higher-grade positions.
+
+ V. GRIEVANCE REDRESS SERVICES
+
+85.    Grievance Redress. Communities and individuals who believe that they are adversely affected by
+a project supported by the World Bank may submit complaints to existing project-level grievance
+mechanisms or the Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are
+promptly reviewed in order to address project-related concerns. Project affected communities and
+
+
+31 The CoC states that by 2030 at least 10 percent of employees in each grade must be female.
+
+                                                                                                      Page 23
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+individuals may submit their complaint to the Bank’s independent Accountability Mechanism (AM). The
+AM houses the Inspection Panel, which determines whether harm occurred, or could occur, as a result of
+Bank non-compliance with its policies and procedures, and the Dispute Resolution Service, which provides
+communities and borrowers with the opportunity to address complaints through dispute resolution.
+Complaints may be submitted to the AM at any time after concerns have been brought directly to the
+attention of Bank Management and after Management has been given an opportunity to respond. For
+information on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit
+http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s
+Accountability Mechanism, visit https://accountability.worldbank.org.
+
+ VI. KEY RISKS
+
+86.      The overall risk rating for the MPA is Substantial considering the risks inherent in program
+activities in all phases, including network infrastructure investments in dense urban contexts. The Phase
+2 E&S risk is rated substantial, while for phase 3 it is rated high. Macroeconomic risk is also rated High for
+phases 2 and 3. The Phase 2 and 3 risks on institutional capacity, fiduciary, and stakeholders are expected
+to reduce as a result of KWSSIP-2 risk mitigation measures. Moreover, the Program learning agenda will
+help strengthen measures for the MPA to reduce potential risks that would be revealed.
+87.     The overall risk rating for KWSSIP-2 is Substantial due to the following substantial and high risks.
+88.       Political and Governance risk is rated High. The project’s political context is complex, with
+multiple public and private actors. The risk of political disagreements affecting implementation is high,
+especially on contentious topics such as project target areas, tariff revisions, and PPPs. To mitigate these
+risks, the preparation process has emphasized a collaborative approach between the GoS, KWSC, and
+Karachi Municipal Corporation. This approach will continue through the PSC, which brings diverse political
+actors together. While the extent to which project-specific measures can mitigate political risks is limited,
+the project includes specific actions to build public support through broader stakeholder participation,
+strategic communication, and outreach. Governance risks will be mitigated through: (i) implementation
+of the institutional strengthening activities under the project; (ii) dialogue and close collaboration with
+the GoS and KWSC, as well as proactive engagement by the World Bank team, and management as issues
+arise; (iii) use of legal covenants to maintain focus on critical reforms and the outcomes of the reforms;
+and (vii) leveraging digital technologies tools and geospatial information systems in M&E.
+89.      Macroeconomic risk is rated High. While Pakistan’s economy has stabilized over the past 12
+months due to new external inflows and improvements in macroeconomic management, debt and
+external financing needs remain elevated, and risks remain very high. Significant risks include
+international price or interest rate shocks; natural disasters that may impact domestic production,
+revenue collection, or expenditure needs; reversal of recent reforms to constrain expenditures or to
+ensure exchange rate flexibility; and lack of progress in further structural reforms in the fiscal, state-
+owned enterprise, and energy areas. Realization of risks may lead to macroeconomic instability, with
+major impacts on economic activities, prices, and household incomes, thereby impeding achievement of
+project results. Risks will be partially mitigated by ongoing World Bank and other partners’ support to
+structural policy reforms in the fiscal, energy, and state-owned enterprise reform sectors. Mitigation
+measures also include the financing provided by the project through the IPF instrument and the
+monitoring by the PSC that resources will remain available during the implementation of the project. Risks
+will also be mitigated in the following ways: (i) project costing includes substantial price contingencies to
+mitigate the risk of an increase in the price of imported goods; and (ii) counterpart financing is limited to
+about one-quarter of the total project cost. However, the GoS has related obligations of approximately
+
+                                                                                                     Page 24
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+US$28 million for the K-IV Phase 1 (associated facility) and US$71 million for the financing of the KBFU
+Rehabilitation, therefore, even with these aforementioned measures which can be further exacerbated
+by the inability of GoS to secure funds to meet its financial obligations, the residual risk remains high.
+90.      Environment and Social risk is rated High. The combined E&S risks are rated high due to social
+risks associated with legacy resettlement at the associated facility. A Corrective Action Plan has been
+developed to mitigate these risks. Additional social risks from the potential economic displacement and
+livelihood impacts due to works in densely populated neighborhoods will be mitigated by implementing
+the merged Resettlement Plan and Abbreviated Resettlement Plan for Katchi Abadis. Substantial
+environmental risks include the potential for ecological impacts, mainly on mangroves at the mouth of
+the Malir River and on Keenjhar Lake due to water extraction for K-IV Phase 1. This risk is being mitigated
+by the ongoing rehabilitation of KBFU canal and ESCP actions requiring regular water balance studies of
+Keenjhar Lake and implementation of the Keenjhar Lake Conservation Action Plan, as well as increased
+water delivery to Keenjhar Lake before an equal or lesser amount is withdrawn for K-IV Phase 1. Before
+contract award for civil works for K-IV Augmentation, adequate funds for the KBFU rehabilitation and K-
+IV Phase 1 works must be secured to avoid material delay and ensure their timely completion. Failure may
+lead holding disbursement to pursue financing the K-IV Augmentation works. Additionally, the risk to
+mangroves at the mouth of the Malir River will be mitigated by controlling access to the mangroves from
+the TP-IV site, ensuring that no mangrove cutting takes place.
+91.       Institutional Capacity for Implementation and Sustainability risk is rated Substantial. The KWSC
+suffers from high staff turnover and struggles with M&E and management of project interdependences.
+These risks will be mitigated by: (i) hiring additional technical project management staff from the market;
+(ii) training PIU management and staff; (iii) improving PIU management and administrative systems; and
+(iv) engaging a PMC to provide support in managing coordination and project interdependences.
+92.      Fiduciary risk is rated Substantial. Procurement risk is rated as substantial due to the size of the
+K-IV Augmentation works contracts and the PPP interventions. The procurement risk will be mitigated
+through proper staffing of the PIU with procurement and contract management specialists, training and
+capacity building in procurement and contract management, and engagement of a PMC which will, inter
+alia, support the PIU in procurement and contract management.
+93.     Stakeholders risk is rated Substantial. The sector includes many stakeholders whose interests are
+often difficult to reconcile. A wide array of formal and informal organizations, private companies, non-
+governmental organizations, unions, religious institutions, and local government structures can be
+expected to vie for influence on project decisions and contracts. The project is financing a sustained,
+professional communications and outreach effort. The selection of Katchi Abadis could lead to
+controversy and opposition from local interest groups (e.g., current water vendors) and delay
+implementation. The KWSC will work with local councilors and engage with residents through the KWSC’s
+Katchi Abadi Cell. The KWSC will also establish a small local office in each of the selected Katchi Abadis
+and a special Katchi Abadi counter in its service centers.
+94.      Coordination risks are rated Substantial due to interdependencies that may cause delays and
+cost overruns. The interdependencies are: (i) technical dependency between K-IV Phase 1 (including its
+transmission line) and K-IV Augmentation; (ii) schedule dependency between KBFU and all K-IV projects,
+as the former affects the full operation of the latter; (iii) resource dependency between all K-IV projects,
+given limited public finance; and (iv) information dependency between all K-IV projects. To mitigate these
+risks, the GoS will notify a K-IV Coordination and E&S Implementation Committee and the KWSC will
+engage a PMC firm experienced in managing complex capital programs to support program coordination.
+
+                                                                                                    Page 25
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+VII.    RESULTS FRAMEWORK AND MONITORING
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline             Period 1               Period 2            Period 3            Period 4    Period 5     Period 6     Closing Period
+   MPA PrDO: Provide safely managed WASH services in urban areas in Pakistan
+   MPA PrDO: People provided with safely managed WASH services. (Number of people)
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      500,000             4,800,000           8,700,000   14,700,000   17,500,000   17,500,000
+   Provide safely managed water and sanitation services in Karachi
+   People provided with safely managed water (Number of people) CRI
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      0                   7,700,000           7,700,000   16,000,000   16,000,000   16,000,000
+     People provided with safely managed water - Female (Number of people) CRI
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      0                   3,850,000           3,850,000   8,000,000    8,000,000    8,000,000
+     People provided with safely managed water - Youth (Number of people) CRI
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      0                   1,386,000           1,386,000   2,880,000    2,880,000    2,880,000
+   People provided with safely managed sanitation (Number of people) CRI
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      1,000,000           2,000,000           3,000,000   7,500,000    7,500,000    7,500,000
+     People provided with safely managed sanitation - Female (Number of people) CRI
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      500,000             1,000,000           1,500,000   3,750,000    3,750,000    3,750,000
+     People provided with safely managed sanitation - Youth (Number of people) CRI
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+   0                    0                      180,000             360,000             540,000     1,350,000    1,350,000    1,350,000
+   Increase KWSC’s financial and operational performance
+   KWSC Operating Cost Coverage Ratio improved (Percentage)
+   Sep/2024             Sep/2025               Sep/2026            Sep/2027            Sep/2028    Sep/2029     Sep/2030     Dec/2030
+
+
+
+                                                                                                                                              Page 26
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+   76                   80                   100                   110                   120                  125          130        130
+
+
+Intermediate Indicators by Components
+
+   Baseline              Period 1             Period 2              Period 3               Period 4           Period 5     Period 6   Closing Period
+   Component 1: Capacity Building and Reform of KWSC
+   New water and wastewater tariff review framework adopted by KWSC (Yes/No)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   0                     0                    Yes                   Yes                    Yes                Yes          Yes        Yes
+   KWSC customer satisfaction improved (Percentage)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   0                     0                    0                     60                     70                 70           80         80
+   Geographic Information System (GIS) including digital mapping of water supply and sewerage system functional (Yes/No)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   No                    No                   No                    Yes                    Yes                Yes          Yes        Yes
+   KWSC Collection efficiency Improved (Percentage)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   61                    63                   67                    70                     73                 75           77         77
+   Water Safety Plan Implemented (Yes/No)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   No                    No                   Yes                   Yes                    Yes                Yes          Yes        Yes
+   Annual appointment of female staff in technical and managerial positions increased (Percentage)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   0                     0                    5                     10                     15                 20           30         30
+   Gender-inclusive recruitment strategy approved by KWSC board (Yes/No)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   No                    No                   Yes                   Yes                    Yes                Yes          Yes        Yes
+   KWSC staff productivity improved (Number)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   9.50                  9.50                 8                     7                      6                  5            5          5
+   Performance agreement signed between KWSC and GoS (Yes/No)
+   Sep/2024              Sep/2025             Sep/2026              Sep/2027               Sep/2028           Sep/2029     Sep/2030   Dec/2030
+   No                    Yes                  Yes                   Yes                    Yes                Yes          Yes        Yes
+   Component 2: Safely Managed Water Supply and Sanitation Services
+
+
+                                                                                                                                                       Page 27
+  The World Bank
+  Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Unplanned settlements provided with improved water and sanitation services and hygiene promotion (Number)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      0                    1                    2                   4                  6             7             7
+Sewer network rehabilitated or extended (Kilometers)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      10                   30                   60                  80                 100           117           117
+Water supply distribution network rehabilitated or extended (Kilometers)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      0                    0                    50                  60                 80            110           110
+NRW Reduced (Percentage)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+64                     64                   55                   44                  30                 30            30            30
+Specific energy consumption for water supply reduced (kWh per cubic meter) (Number)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0.43                   0.43                 0.38                 0.34                0.32               0.32          0.32          0.32
+Bulk water supply capacity increased (Cubic meters/year)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      0                    0                    431,400,000         431,400,000        431,400,000   431,400,000   431,400,000
+Wastewater Recycled for Industrial Use (Cubic meters/year)
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      0                    0                    0                   66,000,000         66,000,000    66,000,000    66,000,000
+Private capital mobilized through PPPs (Amount(USD))
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      0                    151,000,000          151,000,000         151,000,000        151,000,000   151,000,000   151,000,000
+Private capital enabled through PPPs (Amount(USD))
+Sep/2024               Sep/2025             Sep/2026             Sep/2027            Sep/2028           Sep/2029      Sep/2030      Dec/2030
+0                      0                    0                    0                   0                  0             0             113,000,000
+Component 3: Project Management and Studies
+Component 4: Contingent Emergency Response Component (CERC)
+
+
+
+
+                                                                                                                                                  Page 28
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+Monitoring & Evaluation Plan: PrDO and PDO Indicators by PrDO and PDO Outcomes
+PrDO: To provide safely managed WASH services in urban areas in Pakistan
+People provided with safely managed WASH services (Number of people)
+                    Number of people provided with safely managed WASH services under all phases of the program as defined in the
+                    World Bank Corporate Scorecard. People must receive all three of the below:
+                    Safely managed water means drinking water from an improved water source that is accessible on premises,
+                    available when needed and free from fecal and priority chemical contamination.
+                    Safely managed sanitation means use of improved facilities that are not shared with other households and where
+Description         excreta are safely disposed of in situ or removed and treated offsite.
+                    Basic hygiene services. Households with a handwashing facility with soap and water available on-premises.
+                    Hygiene for reducing transmission and recommend enforcing regular handwashing, ensuring daily disinfection
+                    and cleaning of surfaces, providing basic water, sanitation and waste management facilities, and following
+                    appropriate environmental cleaning and decontamination procedures.
+
+                   The descriptions of PDO indicators 1 and 2 provide more details.
+Frequency          Semi-annual
+Data source        PIUs reports, PIUs MISs, Hygiene surveys
+Methodology for
+                   Details will be in the project operations manual.
+Data Collection
+Responsibility for
+                    PIUs, KWSC zonal teams
+Data Collection
+PDO: To provide safely managed water and sanitation services in Karachi
+People provided with safely managed water, CRI (Number of people)
+                   Cumulative number of people provided with safely managed water supply services under the project meeting the
+                   following criteria:
+                   Improved drinking water sources means piped water or delivered water (tankers).
+                   Accessible on premises means house connections or water delivered to household by tankers.
+                   Available when needed. For a minimum of 12 hours per day. For piped water, availability data will be collected
+Description
+                   through pressure loggers in the distribution network. For supply through water tankers, availability data will be
+                   collected from KWSC’s recently installed digital tanker monitoring system that tracks volume and number of trips.
+                   Free from fecal and priority contamination means water supplied is free from E-coli contamination and meets
+                   national or WHO standards for arsenic and fluoride. KWSC will institutionalize a system of water quality
+                   surveillance at predetermined points in the water distribution network.
+Frequency          Semi-annual
+Data source        PIU reports, KWSC MIS
+Methodology for
+                   Details will be in the project operations manual.
+Data Collection
+Responsibility for
+                    PIU, KWSC zonal teams
+Data Collection
+People provided with safely managed water – Female, CRI (Number of people)
+Description        Cumulative number of females provided with safely managed water supply services under the project
+Frequency          Semi-annual
+Data source        PIU reports, KWSC MIS
+Methodology for
+                   As above, beneficiary disaggregated by gender
+Data Collection
+Responsibility for
+                   PIU, KWSC zonal teams
+Data Collection
+People provided with safely managed water – Youth, CRI (Number of people)
+Description        Cumulative number of youths provided with safely managed water supply services under the project
+Frequency          Semi-annual
+
+
+
+                                                                                                                                       Page 29
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Data source         PIU reports, KWSC MIS
+Methodology for
+                    As above, disaggregated by number youth. Youth defined as per UN definition (between 15 to 24 years old).
+Data Collection
+Responsibility for
+                    PIU, KWSC zonal teams
+Data Collection
+ People provided with safely managed sanitation, CRI (Number of people)
+                    Cumulative number of people provided with safely managed sanitation services under the project, where safely
+                    managed sanitation service means:
+Description
+                    Improved sanitation facility means toilets connected to sewer system or septic tanks.
+                    Excreta is removed and treated offsite means connection to a functional sewer network and treatment plant
+Frequency           Semi-annual
+Data source         PIU reports, KWSC MIS
+Methodology for
+                    Details will be in project operations manual.
+Data Collection
+Responsibility for
+                    PIU, KWSC zonal teams
+Data Collection
+People provided with safely managed sanitation – Female, CRI (Number of people)
+Description         Cumulative number of females provided with safely managed sanitation services under the project
+Frequency           Semi-annual
+Data source         PIU reports, KWSC MIS
+Methodology for
+                    As above, beneficiary disaggregated by gender
+Data Collection
+Responsibility for
+                    PIU, KWSC zonal teams
+Data Collection
+People with safely managed sanitation – Youth, CRI (Number of people)
+Description         Cumulative number of youths provided with safely managed sanitation services under the project
+Frequency           Semi-annual
+Data source         PIU reports, KWSC MIS
+Methodology for
+                    As above, disaggregated by number youth. Youth defined as per UN definition for age between 15 to 24 years old.
+Data Collection
+Responsibility for
+                    PIU, KWSC Zonal teams
+Data Collection
+To increase KWSC’s financial and operational performance
+KWSC Operating Cost Coverage Ratio improved (Percentage)
+                    Ratio expressed in percentage of collected revenues for water supply to the total operating cost for water supply
+Description
+                    but not including debt service or depreciation cost.
+Frequency           Annual, within one month of the end of the FY
+Data source         PIU and KWSC financial audit reports
+Methodology for
+                    PIU reports and KWSC entity audits.
+Data Collection
+Responsibility for
+                     PIU
+Data Collection
+
+
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+Component 1: Capacity Building and Reform of KWSC
+New water and wastewater tariff review framework adopted by KWSC (Yes/No)
+
+
+
+
+                                                                                                                                        Page 30
+        The World Bank
+        Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+                     Tariff review framework that enables recovery of the full cost of service provision considering the affordability
+Description          limits of users approved by the responsible authorities and adopted by KWSC board. Full cost of service provision
+                     includes production, distribution, and management costs as well as the E&S monitoring and mitigation costs.
+Frequency             Once and revised in accordance with the regulatory requirements.
+Data source           PIU and KWSC
+Methodology for
+                     PIU and KWSC reports
+Data Collection
+Responsibility for
+                     PIU
+Data Collection
+KWSC customer satisfaction improved (Percentage)
+Description         Customer Satisfaction Index (CSI) score measuring the level of satisfaction customers have with KWSC’s services.
+Frequency           Three surveys, first at the end of the first year, second at midterm review and the third - at the project closing.
+Data source         Independent customer survey commissioned by KWSC
+                    Customer survey questionnaire (based on a Likert-scale of 1 to 7) to assess (i) the importance customers attach to
+                    selected service attributes; and (ii) their level of satisfaction on these attributes. The survey will focus on a few
+                    service attributes determined through focus groups. Based on the survey, CSI shall be calculated as follows:
+                       • average of importance scores for each service attribute (I)
+Methodology for        • average of satisfaction scores for each service attribute (S)
+Data Collection        • average importance scores for all service attributes (Iall)
+                       • calculate weights (W) for each attribute by dividing the average of importance score for each attribute by
+                           the average for all attributes, i.e., W= I/ Iall
+                       • calculated weighted satisfaction scores (i.e., satisfaction scores that consider the importance ratings) = S*W
+                       • CSI = average of S*W for all service attributes expressed as a percentage.
+Responsibility for
+                     Customer survey firm engaged by KWSC
+Data Collection
+Geographic Information System (GIS) including digital mapping of water supply and sewerage system functional (Yes/No)
+                    GIS system is installed, water supply distribution system is mapped, sewerage system is mapped. The system is
+Description
+                    completed, functional and kept updated.
+Frequency           One plan to be monitored Annually
+Data source          PIU
+Methodology for
+                     PIU reports
+Data Collection
+Responsibility for
+                     PIU
+Data Collection
+KWSC Collection efficiency improved (Percentage)
+                    Ratio expressed in percentage of collected amounts to the amount billed for the same referenced period in
+Description         referenced currency. The collected amount may also include accounts receivables and connection/subscription
+                    fees.
+Frequency            Semi-annual
+Data source          PIU and KWSC
+Methodology for
+                     PIU and KWSC reports
+Data Collection
+Responsibility for
+                     PIU
+Data Collection
+Water Safety Plan Implemented (Yes/No)
+                    A Water Safety Plan (WSP) is a risk assessment and management tool that aims to ensure the safety of a drinking
+Description         water supply. An implemented plan will be annually updated by KWSC. An implemented plan is adopted and
+                    testing and monitoring of water quality is carried out as per the plan.
+Frequency           Once and update as necessary
+Data source         KWSC
+
+
+
+                                                                                                                                            Page 31
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Methodology for     PIU and KWSC Reports
+Data Collection
+Responsibility for  KWSC
+Data Collection
+Annual appointment of female staff in technical and managerial positions increased (Percentage)
+                    Percentage of women hired out of the total newly appointments in technical and managerial position in that year
+Description
+                    (i.e. the total number of women hired / total number of people hired in technical and managerial positions).
+Frequency            Semi-annual
+Data source          KWSC
+Methodology for
+                     PIU and KWSC reports
+Data Collection
+Responsibility for
+                     PIU
+Data Collection
+Gender-inclusive recruitment strategy approved by KWSC board (Yes/No)
+Description         Gender inclusive strategy developed and adopted by KWSC with guidance to promote female staff.
+Frequency           Semi-annual
+Data source         KWSC
+Methodology for
+                    PIU and KWSC Reports
+Data Collection
+Responsibility for
+                    PIU
+Data Collection
+KWSC staff productivity improved (Number)
+Description         Total number of KWSC staff divided by number of thousand registered customers.
+Frequency           Annual
+Data source         KWSC
+Methodology for
+                   KWSC Customer Digitalization Reports
+Data Collection
+Responsibility for
+                   KWSC
+Data Collection
+Performance agreement signed between KWSC and GoS (Yes/No)
+                   A utility performance-based agreement that sets out role, scope, and KWSC performance targets and review
+Description
+                   mechanism, satisfactory to the Bank is prepared and signed between the KWSC and the GoS
+Frequency            3-years contract to be monitored annually
+Data source          PIU and KWSC
+Methodology for
+                    PIU and KWSC reports
+Data Collection
+Responsibility for
+                    PIU
+Data Collection
+Component 2: Safely Managed Water Supply and Sanitation Services
+Unplanned settlements provided with improved water and sanitation services and hygiene promotion (Number)
+                    Katchi Abadis provided with improved water and sanitation services and hygiene promotion through behavior
+Description
+                   change campaigns
+Frequency           Semi-annual
+Data source         KWSC
+Methodology for
+                    PIU and KWSC reports
+Data Collection
+Responsibility for
+                    PIU
+Data Collection
+
+
+
+                                                                                                                                      Page 32
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Sewer network rehabilitated or extended (Kilometers)
+Description          Length of sewerage network rehabilitated and extended under the project.
+Frequency             Semi-annual
+Data source           KWSC
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+ Water supply distribution network rehabilitated or extended (Kilometers)
+Description           Length of water distribution network rehabilitated in Katchi Abadis under the project
+Frequency             Semi-annual
+Data source           KWSC
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+NRW Reduced (Percentage)
+                     The percentage of NRW measured as billed water quantity to supplied water quantity within the stipulated
+Description
+                     period. The NRW will account for both commercial and leakage losses.
+Frequency             Semi-annual
+Data source           KWSC
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+Specific energy consumption for water supply reduced (kWh per cubic meter) (Number)
+Description          Electricity consumption at the pump stations divided by the total quantity of water entering the supply system
+Frequency             Semi-annual
+Data source           KWSC
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+Bulk water supply capacity increased (Cubic meters/year)
+Description           Bulk water supply capacity developed through the K-IV Augmentation scheme
+Frequency             Semi-annual
+Data source           KWSC
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+Wastewater Recycled for Industrial Use (Cubic meters/year)
+Description          Recycled wastewater meeting quality standards for industrial use delivered and paid for by industrial users.
+Frequency             Semi-annual
+Data source           KWSC
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+
+
+
+                                                                                                                                      Page 33
+       The World Bank
+       Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+Private capital mobilized through PPPs (US $)
+                     Private capital invested in wastewater and water treatment attributed to World Bank financing during project
+Description
+                     duration.
+Frequency            Upon PPP financial close
+Data source          KWSC PPP contracts
+Methodology for
+                     PIU and KWSC reports
+Data Collection
+Responsibility for
+                     PIU
+Data Collection
+Private capital enabled through PPPs (US $)
+                     Amount of private capital investments attributed to World Bank financing made in KWSC projects within three
+Description
+                     years of project closure through PPPs in bulk water and water treatment plants
+                     Upon PPP financial close and if applicable, at each Implementation Status and Results Report (ISR),
+Frequency
+                     Implementation Completion Report (ICR), and 3 years post project closure
+Data source          KWSC PPP contracts
+Methodology for
+                      PIU and KWSC reports
+Data Collection
+Responsibility for
+                      PIU
+Data Collection
+
+
+
+
+                                                                                                                                    Page 34
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+
+                     ANNEX 1: Implementation Arrangements and Support Plan
+
+                             COUNTRY: Islamic Republic of Pakistan
+                 Second Karachi Water and Sewerage Services Improvemet Project
+         Pakistan Urban Water, Sanitation, and Hygiene Services (WASH) Services Program
+
+A. Project Institutional and Implementation Arrangements
+1.      The Implementing Agency of this project will be the GoS through the KWSC and the PIU
+established within the KWSC to manage KWSSIP-1 and subsequent KWSSIP projects. The PIU will report
+to KWSC management represented by the Chief Executive Officer/Managing Director and maintain liaison
+with the Board of Directors. The PIU and associated consultants are expected to reach 50 percent
+women’s participation over the project life.
+2.       Performance Agreement Assessment. The KWSC will select and manage a firm tasked with
+independent verification of the KWSC’s Performance Agreement, following terms of reference
+satisfactory to the Bank. The firm will verify achievement of targets, and in doing so shall examine
+secondary data, collect primary data, and conduct other measurements annually or periodically as
+needed. The firm will share the findings with the KWSC, who will, in turn, share them with the GoP and
+the Bank.
+3.      A PSC has been established to provide oversight and high-level coordination. The PSC includes
+high-level representatives of all agencies involved in the PSC. It provides planning and strategic guidance
+and facilitates multi-stakeholder cooperation for the development and implementation of a vision, policy
+reforms, and investment program towards the improvement of Karachi’s WASH services. The PSC has
+defined responsibilities to minimize overlaps, mitigate potential disagreements with the KWSC, and will
+be empowered to evolve its membership in case of changing circumstances.
+4.      Pursuant to a Project Co-Lenders’ Agreement with the AIIB, (which will be very similar to the
+one for KWSSIP-1), the World Bank will supervise the project and administer both the IBRD and the AIIB
+loans in accordance with the World Bank’s policies and procedures. The co-lender agreement will be
+signed by the World Bank and the AIIB in accordance with the 2016 Co-Financing Framework Agreement
+between World Bank and the AIIB (as amended in 2018). The AIIB and the World Bank will jointly finance
+the project in equal shares, with all components financed jointly by the partners.
+B. Financial Management and Disbursements
+5.        The project has a residual FM risk rating of Moderate (subject to timely implementation of the
+recommended mitigation measures and Action Plan) and has met the minimum FM requirement in
+accordance with the requirements of Bank Policy for Investment Project Financing effective October 1,
+2018. The FM arrangements provide reasonable assurance that the financing proceeds will be used for
+the intended purposes, with due attention to the principles of economy, efficiency, effectiveness,
+transparency, and accountability to support implementation and achieve the desired results. This
+objective will be sustained by ensuring that strong FM systems are maintained for the project throughout
+implementation. Detailed FM reviews will be conducted regularly, either within the proposed supervision
+plan or on a more frequent schedule if needed, to ensure that expenditures incurred by the project remain
+eligible.
+6.      Disbursements will be report-based with advance equivalent to six months forecast of expected
+
+
+                                                                                                              Page 35
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+payments. A segregated DA will be established following the Revolving Fund Assignment Account
+procedures by the Finance Division, GoP. Eligible expenditures will be comprised of works, consulting and
+non-consulting services, goods, workshops and training, and incremental operating costs incurred for
+implementing the project.
+7.    Risk Assessment and Mitigation. Table A1.1 identifies the key risks and required mitigation
+measures. The following are necessary features of a strong FM system:
+     •      An adequate number and mix of skilled and experienced staff in the accounting unit.
+     •      The internal control system should ensure the conduct of an orderly and efficient payment and
+            procurement process, and proper recording and safeguarding of assets and resources.
+     •      The accounting system should support the project’s requests for funding and meet its reporting
+            obligations.
+     •      An internal audit firm will review compliance with the rules and the project’s financial statements
+            and internal controls. The firm already hired for the KWSSIP-1 will perform this function for the
+            KWSSIP-2 as well.
+                                  Table A1.1: Risk Assessment and Mitigation
+         Risk       Risk Rating       Risk Mitigating Measures Incorporated into Project Design           Residual
+                                                                                                         Risk Rating
+ Country Level      Substantial                                                                          Substantial
+ Entity Level       Substantial    Capacity of FM unit needs enhancement and the requisite staff         Moderate
+                                   should remain available.
+ Project Level      Substantial    As above.                                                             Moderate
+ Control Risk
+ Budgeting          Moderate       Detailed budget and a Project Plan with quarterly breakup of          Low
+                                   activities along with estimated funds utilization report will be
+                                   prepared no later than one (1) month after the Effective Date.
+ Accounting         Moderate       Activity-wise expenditure recorded using the existing chart of        Moderate
+                                   accounts.
+ Internal           Substantial    Project team will follow the GoS rules and regulations along with     Moderate
+ Control                           the project operations manual for conduct of activities. Internal
+                                   Audit function will be strengthened by employing the services of an
+                                   Internal Audit Firm.
+ Fund Flow          High           FM standard operating procedures to clearly define the funds flow     Substantial
+                                   arrangements and service standards for release of funds. GoS to
+                                   ensure timely provision of counterpart funds to avoid delays in
+                                   project operations.
+ Financial          Moderate       FM trainings to be imparted to staff to provide handholding and on-   Moderate
+ Reporting                         field technical support.
+ Auditing           Low            Auditor General of Pakistan conducts audit of the project as per      Low
+                                   International Organization of Supreme Audit Institutions Standards
+                                   which are acceptable.
+
+
+8.       FM Staffing. The project shall retain the FM Specialist position from KWSSIP-1 and also hire a
+junior FM Specialist to support the increased workload under KWSSIP-2. This unit will also perform the
+FM function of KWSSIP-2.
+9.          Budgeting and Planning. The project is part of the Annual Development Program and is reflected
+
+                                                                                                                       Page 36
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+in the GoS budget. The annual budget for the project will be prepared by the PIU, which will be responsible
+for the preparation of budgets for all subprojects based on planned activities identified in the
+procurement plan and will be timely communicated to the Finance Manager for the allocation of
+resources for counterpart funding and the annual budget of the project. The Budget Section will seek
+input from all relevant departments and the Project Director for the preparation of the budget.
+10.      Accounting and Financial Reporting. The project accounts will be maintained on a cash basis as
+per GoS accounting policies and procedures and using the existing Chart of Accounts, which is
+comprehensive. Payment vouchers will be prepared for each transaction, and the relevant accounting
+codes, disbursement category, and project component will be mentioned on the payment vouchers.
+11.       For each semester, KWSSIP-2 will prepare a half-yearly IUFR that will be furnished to the Bank
+within 45 days of the close of the semester. IUFRs will report funds receipt and utilization during the
+quarter according to project components and disbursement categories. In addition, FM staff will prepare
+annual project financial statements as per the requirements of International Public Sector Accounting
+Standards Cash Basis and submit audited project financial statements within six months of close of
+financial year.
+12.       Internal Controls. Project documents describe standard processes, minimum documentation,
+and approval limits for processing different types of payments. Internal control activities at the project
+will, at a minimum, include the authorization and approval activity from the relevant authorities;
+segregation of duties; regular process verification of FM processes; ensuring physical controls for the
+assets; and effective internal audit to be performed twice a year by a firm of chartered accountants.
+13.       Fund Flow Arrangements. The project will mainly use the Advance and Direct Payment method
+of disbursements in line with the Disbursement and Financial Information Letter. For receipt of funds, the
+Implementing Agency will open a segregated DA in US Dollars at the National Bank of Pakistan. The DA
+will be operated in accordance with the provisions of “Revised Accounting Procedure for Revolving Fund
+Account (Foreign Aid Assignment Account)” issued by the Finance Division.
+14.       Disbursements will be report-based, and the project will mainly use the advance method of
+disbursement where the funds will be front-loaded into the DA based on six months cash forecast. Initial
+advance into DA will be provided by the Bank based on projections for the first six months. Subsequent
+advances will be based on forecasts for the following six months. The expenditure incurred during a
+semester against advance will also be documented in the Bank’s system, called Client Connection, based
+on the IUFRs. Further details regarding disbursements are provided in the Disbursement and Financial
+Information Letter. At the end of the project, if any unspent funds are lying with the Implementing Agency,
+the same will be refunded to the World Bank. In addition to the advance method, other methods of
+disbursement, which include direct payment and reimbursement, will be used as and when needed.
+15.       Auditing. Project financial statement will be audited by the Auditor General of Pakistan through
+the Director General Audit Sindh. Audited financial statements would be submitted to the Bank within six
+months of the close of each FY.
+16.       Implementation Support Plan. Two annual field supervision missions will review the FM
+arrangements at the PIU. The internal and external auditors' reports, as well as the project’s supervision
+reports, would be the primary sources of information about the FM arrangements at KWSSIP-2.
+C. Procurement
+17.       Procurement arrangements at the PIU will continue; however, additional staff will be required
+
+                                                                                                              Page 37
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+for technical support, procurement, and contract management. Evaluation committees will be formed
+within the PIU, and the Project Director will approve all procurement decisions and sign all contracts. The
+PPP node is agreed to be developed within the KWSC; however, the decision-making process regarding
+the PPP node and PPP unit of GoS is to be finalized. The PPSD will be updated on the PPP implementation
+aspects, including the type of standard procurement documents to be used to develop PPP documents
+for the planned interventions.
+18.          The identified risk and mitigation measures are summarized in Table A1.2.
+                                  Table A1.2: Risks and Mitigation Measures
+      Risk
+                          Risk Description                               Mitigation Measure
+      Area
+                     There could be delays in
+                     decision-making,              Project Director will continue to have delegation of powers in
+                     specifically on large         decision-making on evaluation and award of contracts as well as
+                     contracts and PPP             contract management.
+                     interventions.
+ Delayed                                           Clarity has been obtained from Sindh Planning and
+                     Decision-making on PPP        Development Department that there will be no need of re-
+ decision-
+                     interventions after the       approval if cost variation of any individual contract is up to 15
+ making
+                     selection of bidding          percent and the cumulative cost of all contracts does not exceed
+                     documents may require         the federal government’s appraisal document ceiling amount.
+                     discussions within the
+                     various stakeholders (PIU,    Clarity will be obtained on PPP decisions by negotiations.
+                     PPP unit, or even the PSC).
+                                                   K-IV Augmentation will be procured as one contract of three
+                     Market participation could    packages after pre-qualification to obtain economies of scale
+                     be a challenge for the        and attract the largest firms active in the region.
+                     largest contracts of K-IV     For the other contracts, packaging will be optimized. For all
+                     Augmentation works from       works contract price adjustment clause will be provided to limit
+                     international firms; other    the bidders’ risk.
+                     works contracts on
+                                                   Selection process of consultancy of K-IV design review and
+                     National Competitive
+                                                   construction supervision has commenced; however, the Bank’s
+ Inadequate          Bidding and smaller
+                                                   selection procedure is being used to ensure good participation.
+ market capacity     International Competitive
+                     Biddings; Consultancy         Selection process for design and supervision contract of works
+                     contracts of design and       other than K-IV Augmentation (Katchi Abadis, NRW, etc.) and
+                     supervision and project       project management firm will commence as early as possible
+                     management support. PPP       enabling adequate support to the PIU.
+                     interventions are also        Feasibility studies of PPP interventions will address the technical
+                     sensitive to market           and financing models, revenue mechanisms, contracting
+                     participation.                modalities, and concession terms. Potential market will also be
+                                                   assessed before these interventions are launched.
+                     Delays in contract awards     The current PIU competencies on technical and procurement
+                     are possible due to           aspects will be enhanced immediately, with additional hirings at
+ Delays in
+                     reasons such as evaluation    market competitive scales.
+ evaluation and
+                     delays, approval delays,
+ contract                                          Evaluation committee members will be adequately qualified,
+                     less than optimal
+ awards                                            and additional procurement training will be provided by the
+                     specification /terms of
+                     reference, revision of        Bank. Subject experts will be coopted in committees as/if
+
+
+                                                                                                                         Page 38
+The World Bank
+Second Karachi Water and Sewerage Services Improvement Project (P171422)
+
+
+                    bidding documents and         needed. Procurement timeline will be agreed for the evaluation
+                    complaints.                   and approval process within the PIU.
+                                                  The committees will be involved consistently in the preparation
+                                                  of procurement documents as well as evaluation and
+                                                  recommendation for award.
+                                                  Complaints will be handled promptly and responded to within
+                                                  the stipulated time.
+                                                  The design and supervision firms will be hired on priority so that
+                                                  adequate support is provided in evaluations.
+                                                  Cost estimates will be prepared based on market rates.
+ Cost and time                                    PIU contract manager(s) will be appointed for each contract and
+                    Cost and time overruns are
+ overruns and                                     procedures will be agreed and documented to allocate
+                    possible, which will impact
+ contract                                         responsibilities for timely identification of issues.
+                    project success.
+ administration                                   Contract management, Key Performance Indicators, and
+                                                  monitoring plans will be developed for large value contracts.
+                                                  Procurement plans (run up time and approach) will be prepared
+                    Import of material and        considering possible constraints in imports due to foreign
+ Import delays      foreign currency              currency payment restrictions to local firms.
+ and restrictions   limitations in the country
+                    may create supply delays.     Relevant Incoterms will used in bidding documents to facilitate
+                                                  bidding and payments.
+                                                  Adequate PPP implementation arrangements will be agreed
+                                                  within the PIU.
+                    There could be a tendency     Robust project assessment will be ensured finalizing the
+                    to commence PPP               available studies and filling in the gap if any.
+ Inadequate         activities without
+ design and         comprehensive technical       Resource allocation will be ensured for structing the
+ implementation     and financial feasibility,    interventions, developing contracting modalities, facilitating
+ of PPPs            financing /revenue model      healthy participation, and contract management.
+                    and market participation.     PPP fiscal risk assessment (PFRAM) to be undertaken and
+                                                  consideration of measures to address arising fiscal contingency
+                                                  risks, for example partial risk guarantees.
+
+
+
+
+                                                                                                                       Page 39
+

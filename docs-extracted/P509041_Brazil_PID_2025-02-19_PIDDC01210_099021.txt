@@ -1,0 +1,614 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 19-Feb-2025 | Report No: PIDDC01210
+
+
+
+
+Public Disclosure Authorized
+         The World Bank
+         Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)         Operation ID                 Operation Name
+Brazil                           P509041                      Tocantins Productive Resilient and Inclusive Development
+                                                              Project
+Region                           Estimated Appraisal Date     Estimated Approval Date      Practice Area (Lead)
+LATIN AMERICA AND                15-Aug-2025                  13-Feb-2026                  Transport
+CARIBBEAN
+Financing Instrument             Borrower(s)                  Implementing Agency
+Investment Project               Government of Tocantins      Secretary of Planning /
+Financing (IPF)                                               Secretaria de Planejamento
+                                                              - SEPLAN
+
+Proposed Development Objective(s)
+To enhance access to safe and resilient transport infrastructure and improve the climate resilience of family farmers
+and tourism activities in vulnerable communities in selected areas of Tocantins.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+Is this project Private Capital Enabling (PCE)?               Yes
+
+SUMMARY
+  Total Operation Cost                                                                                            250.00
+
+  Total Financing                                                                                                 250.00
+                of which IBRD/IDA                                                                              120.00
+  Financing Gap                                                                                                     0.00
+
+DETAILS
+  World Bank Group Financing
+    International Bank for Reconstruction and Development (IBRD)                                                120.00
+  Non-World Bank Group Financing
+
+                                                                                                                     Page 1
+         The World Bank
+         Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+       Commercial Financing                                                                                          100.00
+          Unguaranteed Commercial Financing                                                                          100.00
+       Counterpart Funding                                                                                             30.00
+          Local Govts. (Prov., District, City) of Borrowing Country                                                    30.00
+
+
+
+
+  @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                          Concept Review Decision
+Substantial                                                           The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1.    Brazil’s real Gross Domestic Product (GDP) grew by 2.9 percent in 2023 and is projected to expand by 3.7 percent
+in 20241 - driven by strong consumption, supported by a resilient labor market, strong consumption, recovering
+investment and fiscal transfers. Growth in 2023 was fueled by private consumption, fiscal stimulus, and declining inflation,
+while exports benefited from a record grain harvest and favorable external conditions. Growth is expected to moderate
+to 2.2 percent in 2025 and stabilize at 2.3 percent in the medium term. The government has made progress in reforms to
+improve the business environment, financial sector, and indirect taxes. However, faster, inclusive, long-term growth
+requires additional reforms to enhance competitiveness, reduce financial and market distortions, expand infrastructure
+investment, integrate into global value chains, and improve education quality.
+
+2.     In 2023, the poverty rate (US$ 6.85 per day) fell to 21.8 percent, linked to improvements in economic conditions
+and social protection policies. In July 2024, the unemployment rate fell to 6.8 percent (the lowest since 2014), and real
+household incomes rose 4.8 percent year-over-year. The rapid decline in the poverty rates from 2022 and 2023 has slowed
+down in 2024 as Bolsa Familia transfers have stabilized. Still, the poverty rate (US$ 6.85/day per capita, 2017 PPP)
+continued to decrease gradually to 21.3 percent in 2024, driven by a 3 percent increase in the real minimum wage and
+the strong labor market. Sustained job growth, strengthening the targeting of the social protection system and lowering
+inflation could support faster poverty reduction over the coming years.
+
+3.      Although deforestation has diminished by 21.8 percent in the Amazon region in 2023, climate change risks are
+still pressured by the high levels of land use emissions in the Amazon and Cerrado ecosystems. Brazil’s greenhouse gas
+(GHG) emissions are dominated by land use change (40.1 percent) and agriculture (30.4 percent). Climate change is
+altering temperature and rainfall patterns in the country, resulting in reduced water availability and extended droughts;
+it could push another 800,000 to 3 million Brazilians into extreme poverty as soon as 2030.
+
+
+1 According to the International Monetary Fund estimations.
+
+
+
+
+                                                                                                                             Page 2
+            The World Bank
+            Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+    Sectoral and Institutional Context
+
+4.       The State of Tocantins (TO), Brazil’s newest state, faces significant challenges related to rural development,
+economic inclusion, and infrastructure gaps, particularly in road transport. Created in 1988, Tocantins spans 277,620
+km² with a population of only 1.5 million. Its economy is heavily reliant on agribusiness, with 13.8 million hectares of
+arable land driving agricultural output, which contributed to a GDP of R$ 58.2 billion in 2022. However, the state ranks
+below national averages in socioeconomic indicators, including monthly household income of R$ 1,581 and Human
+Development Index (HDI) of 0.7312 (national averages of R$1,848 and 0.766, respectively), which embeds substantial
+disparities across its 139 municipalities. Rural poverty and economic vulnerability remain pervasive, exacerbating rural-
+to-urban inequalities.
+
+5.     Tocantins' agriculture and tourism sectors have grown remarkably, contributing 28.6 and 3.8 percent to the
+state’s gross value-added in 2021 respectively. Tocantins is an agriculture powerhouse, and its grains harvest is the largest
+in Brazil's Northern region, with 70% of soy production exported to China. Yet, rural poverty remains ubiquitous.
+Agriculture revenue increased sixfold over the past decade, yet family farmers3 remain excluded from these gains: nearly
+40% of the 300,000 inhabitants in rural areas depend on Bolsa Familia to survive.4 The state’s share of Brazil’s agricultural
+value-added rose from 1.1 percent in 2011 to 2.26 percent in 2021, driven by an expansion in planted area from 656,000
+hectares in 2011 to 2.2 million in 2024 and significant productivity improvements. However, family farmers face systemic
+barriers, including limited access to modern inputs, credit, markets, land, and technical assistance, which prevent them
+from benefiting proportionately. Employment in agriculture declined from 17.7 percent of the labor force in 2012 to 13.2
+percent in 2024 due to mechanization and consolidation among large-scale agribusinesses, with family farms losing
+workers every year. In 2017, family farms accounted for 60.7 percent of agricultural employment, involving 124,000
+people across 44,900 units, yet nearly 80 percent of these farmers lacked participation in cooperatives or other
+organizations, hindering their ability to access markets and certifications. In irrigated areas, cooperation among producers
+is limited, despite past attempts to enhance the productivity.5 Regarding tourism, the state's natural attractions, such as
+Jalapão, Cantão, and Serras Gerais, are key destinations, with Jalapão alone attracting close to 50 thousand visitors
+annually. However, the sector faces challenges including limited diversification, with a predominant focus on ecotourism,
+and inadequate infrastructure, particularly in road access to tourist sites. This even despite the large investments in rural
+roads done by the past two projects in TO, non-paved roads are still plagued with critical spots that impede all-season
+access, further isolating rural producers, underscoring the need for targeted investments to integrate family farmers into
+Tocantins’ agricultural growth
+
+6.      Support to family farming amongst poorest rural communities, and investments in low-carbon climate-resilient
+infrastructure, are critical to promote social inclusion in Tocantins, promoting convergence with the average levels of
+socioeconomic development in Brazil. In Tocantins, the challenges to the competitiveness and inclusion agendas are
+twofold: an infrastructure gap and unequal growth in agriculture productivity. One major effect of these challenges is the
+
+
+2
+    Source : http://www.atlasbrasil.org.br/
+3 Fulfilling the four criteria set out in the Brazil’s Farming Law (Law 11.326/2006). It defines family farmers as follows: (i) does not have under any tenure regime an area
+
+of more than four fiscal modules; (ii) predominantly relies on its own family labor; (iii) household income predominantly originates in the family farm; and (iv) family
+members operate the farm.
+4 Toledo Fonseca et al. (2021) “Rural Poverty in Northern Brazil: an analysis of the socioeconomic profile of the beneficiaries of the Bolsa Família Program”, in: Revista
+
+do Desenvolvimento Regional, vol. 26, 2021 (link).
+5 For instance, the PDRIS project included activities in support of the São João irrigated perimeter.
+
+
+
+
+                                                                                                                                                                       Page 3
+         The World Bank
+         Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+cost of transport disproportionately affecting family farmers, since 60 percent of freight is transported by road although
+Brazil lags peer countries in transport connectivity.6 Without improved transport connectivity to support critical sectors
+such as tourism and agriculture, Tocantins will struggle to climb the competitiveness ranking in Brazil – currently 15th out
+of 27 states – as the 2024 report shows.7 Productivity inequality is persistent between family farms and commercial
+enterprises in Tocantins. Family farming, despite accounting for more than 70 percent of rural establishments with some
+production in 2017, managed to generate only 16.9 percent of farm output, with an average value per productive unit of
+R$26,783. Meanwhile, the 17 thousand farmers with more than four fiscal modules8 were responsible for 83 percent of
+the agricultural revenue generated by the state 2017, averaging a production value of R$ 321,354.
+
+7.       Investments in supporting family farming and promoting sustainable infrastructure are critical to enhance
+social inclusion in the Northern Region of Brazil, including in TO, reducing rural-urban economic disparities. Between
+2000 and 2022, the share the State’s population living in rural areas dropped from 25.7 to 14.6 percent, an 11-point decline
+compared to a national average of 6.4 percentage points. Poor connectivity to markets limits the commercialization of
+produce and income generation, exacerbating vulnerability. Although 90 percent of farmers have access to electricity, and
+only 10% of farmers receive any type of Technical Assistance and Rural Extension services, compared with a national
+average of 20%. Access to credit is similarly constrained, with just 18.3 percent of family farmers able to secure loans.
+
+8.       Positioned as an entrepot of national logistical corridors, Tocantins relies heavily on road transport for the
+efficiency of its agricultural sector, but maintenance remains a big challenge. The state manages a 5,841 km paved road
+network,9 for accessibility and integration with national logistics corridors, such as the BR-153 and the North-South
+Railway. However, 20.1 percent of paved roads remain in poor or very poor condition despite recent large investments in
+the sector,10 causing high transport costs and safety risks, including 572 annual road fatalities in 2023.11 Insufficient
+maintenance funding and climate-induced vulnerabilities, such as erosion and pavement failures, further exacerbate the
+challenge – leading to rapid deterioration that requires large investments to repair much of the network.
+
+9.     Traffic deaths and severe injuries in Tocantins are a severe problem in rural areas, with one of the highest fatality
+rates in Brazil, compounded by the poor condition of the road network and lack of safe designs. According to data from
+Ministry of Health, between 2019 and 2023, road traffic fatalities have increased by 12 percent in the state, from 490 to
+572 traffic-related deaths, or from 31.1 to 34.8 fatalities per 100 thousand inhabitants, doubling the 16.9 national rate.
+Tocantins roads continue to lack adequate safe road designs – especially when crossing urban perimeters – and
+underinvest in maintenance of road safety infrastructure (signaling, median barriers, etc.). Despite implementing a road
+safety policy for the past decade, crash data system management, and equipment and policies for enforcement have yet
+to comply with best practices.
+
+
+
+6
+  More efficient modes such as rail and waterborne – both present in Tocantins - typically require very large scales of operation and are out of reach for small producers
+individually. Brazil ranks 74th in the Road Connectivity Index and 51st in the 2023 Logistics Performance Index, compared with China’s 19th and India’s 38th.
+7 Source : https://rankingdecompetitividade.org.br/norte/to/ranking-geral/nota-do-pilar?year=2024
+
+8 Fiscal modules refer to a measurement unit in hectares established by the National Institute for Colonization and Agrarian Reform (INCRA) for each municipality.
+
+Regarding size, rural properties are classified as: Smallholdings: rural properties with an area below the Minimum Parcel Fraction; Small Property: properties with an
+area between the Minimum Parcel Fraction and 4 fiscal modules.
+9 Based on the GIS data obtained at the State Geoportal. See Annex 3 for a map of the state’s paved network.
+
+10 Chronic lack of maintenance gives rise to a pattern of accelerated pavement degradation and cycles of costly reconstruction, which is well-documented in Brazil. See
+
+for instance Fiscal implications of historic maintenance strategies in Brazil, a study undertaken under the Green and Resilient Mobility and Logistics PASA (P179908).
+11 Pavement conditions are obtained from AGETO’s 2022 visual survey of the state road network. Road crash fatalities are from DATASUS 2023.
+
+
+
+
+                                                                                                                                                                    Page 4
+         The World Bank
+         Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+10. Gender disparities significantly affect Tocantins' agriculture, transport and tourism sectors, particularly
+disadvantaging women family farmers. Women run only 18.1 percentage of family agriculture units (and just of 11.8
+percent conventional farms), reflecting persistent inequalities in access to resources and opportunities.12 Women face
+structural barriers, including lower access to productive inputs, credit, and land compared to men, as well as insufficient
+access to information, technical assistance, and extension services. Social norms and the unequal division of domestic
+labor further restrict women’s mobility, autonomy, and agency, limiting their participation in producer organizations and
+access to markets. These challenges are compounded by the need to balance household responsibilities, which reduces
+the time available for productive activities and applying for financing. Moreover, pervasive domestic violence undermines
+women’s well-being and agency, exacerbating their economic vulnerability.
+
+11. Tocantins is highly vulnerable to climate change, with profound impacts on agriculture and road transport
+infrastructure, particularly for family farmers. Rising annual average temperatures from 23,9°C to 27,5°C by 2050, in one
+of the hottest States already in Brazil, as well as increasingly frequent extreme events, will affect lives and livelihoods
+across the state. Key crops like pineapples, cassava, soybeans, and corn, which are rainfed or increasingly reliant on
+irrigation, face growing risks from prolonged droughts and water scarcity, compounded by the loss of 28.3 percent of
+Tocantins’ native vegetation since 1985. Family farmers, disproportionately affected by climate impacts, also struggle with
+degraded pastures and poor environmental compliance, and often have their environmental cadaster (CAR) in irregular
+situation. Additionally, extreme weather events accelerate erosive processes (e.g. gullies), threatening road integrity and
+disrupting access to markets. Poor road conditions, exacerbated by inadequate drainage and lack of maintenance, shorten
+infrastructure lifespans and increase transport emissions by 4-5 percent.
+
+ Relationship to CPF
+
+12. The Project is fully consistent with Brazil’s 2024-2028 Fiscal Year (FY) Country Partnership Framework (CPF -
+Report CPF0000013). It is aligned to three focus areas of the CPF13: (i) greater productivity and employment; (ii) greater
+inclusion of the poor and underserved populations; and (iii) greener economy with reduced vulnerability to climate shocks.
+The project will support the agriculture and logistics competitiveness and employment with focus on underserved
+population and will promote climate resilient practices to reduce climate vulnerability.
+
+13. The Project is aligned with the Bank’s maximizing finance for development (MFD) strategy and contributes to the
+private capital mobilization (PCM) agenda supporting fiscal sustainability by providing a longer-term revenue stream for
+the private sector partner. The new generation of Performance-Based Contracts (PBCs) envisioned will not require tolls
+but will further delegate to the private sector responsibility in the management of the road infrastructure. PCM is
+envisioned for the rehabilitation and maintenance of specific roads through PBCs, with Government’s commitments to 90
+percent of the funding, while the private sector is responsible for the remaining 10 percent for road rehabilitation CAPEX
+investments. Additionally, the program will finance the structuring and implementation of several long-term CREMA PPPs,
+potentially counting as partial counterpart financing but contributing to the PCM agenda.
+
+
+
+
+12 IBGE. Censo Agropecuário 2017.
+
+13Link to the Brazil Country Partnership Framework - FY 24 to FY 28
+
+
+
+
+                                                                                                                       Page 5
+          The World Bank
+          Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+14. The Project is consistent with Brazil’s Nationally Determined Contribution (NDC – updated in 2024)14 by focusing
+on resilience and adaptation to climate change for family farmers and road networks in Tocantins. Guided by an
+assessment of Tocantins’ vulnerability to climate hazards, the Project integrates adaptation measures to address risks
+such as floods, landslides, and droughts. Improved road maintenance will provide all-season access to rural areas, ensuring
+reliable connectivity to markets, healthcare, and essential services, while climate-smart agricultural practices will
+strengthen resilience in rural communities. The Project aligns with the Sectoral Adaptation Plan for a Low Carbon
+Agriculture for Sustainable Development 2020-2030 (Plan ABC+)15 and the Climate Change Adaptation Strategy for the
+Brazilian Agriculture and Livestock Sector.16 Both addressing the importance of adaptation as it is fundamental to the
+agriculture and livestock sector in the face of climate change. Finally, the Project respond to the agriculture and transport
+sector priorities identified in the World Bank Country Climate and Development Report (CCDR) for Brazil,17 which includes
+increasing agricultural productivity, resilient maintenance of roads and climate gains as priority actions to be financed.
+The World Bank’s Climate Change Action Plan 2021-25 and the Roadmap for Climate Action in LAC are also supported.
+
+15. The proposed Project is also aligned with key World Bank priorities, such as closing gender gaps. The Project will
+apply a gender lens, by developing specific targeting approach to ensure outreach and capacity-building tailored to
+women, as well as disaggregate beneficiary indicators to track their participation and to tackle some of the gender gaps
+identified following the WBG’s Gender Strategy (2024-2030)18 and improve the economic vulnerability of women in rural
+Tocantins in all three sectors (transport, agriculture, and tourism). Gender gaps will also be identified throughout the
+Project design phase to inform gender indicators to be proposed relating to specific activities benefiting women.
+
+     C. Proposed Development Objective(s)
+     16. To enhance access to safe and resilient transport infrastructure and improve the climate resilience of family
+     farmers and tourism activities in vulnerable communities in selected areas of Tocantins.
+
+     Key Results (From PCN)
+
+17. The achievement of the project development objective is envisioned according to a Theory of Change (see Annex 1)
+linking project activities to outcomes, which would be measured through the following proposed indicators. At the PDO
+level:
+
+Enhance access to safe and resilient transport infrastructure:
+Component 1 aims to increase the safety of road infrastructure and adoption of climate-resilient practices in road
+networks. This will be measured by two main PDO indicators:
+       a) Share of paved roads with PBCs and resilient management response (percentage);
+       b) Reduction in annual road crash fatalities along targeted state road corridors in the State of Tocantins (number)
+
+14 Brazil. 2023. Adjustments to the National Determined Contribution to the Paris Agreement under the UNFCCC. (link)
+
+15
+ In addition to stimulating the adoption and maintenance of production systems, processes, and practices, the Plan incorporates the Integrated Landscape Approach,
+where the management of agricultural land considers the different elements of the rural landscape.
+16 Which is divided in four initiatives: R&D and Innovation, Technical Assistance and Rural Extension, Public Policy and Industry, Trade and Markets; and covers diverse
+
+axes that are contemplated in the Tocantins Project, such as: technological practices, diversified farming, or integrated land management.
+17 World Bank. 2023. The Brazil Country Climate and Development Report. Washington, DC.
+
+18 The Project covers all 3 of the strategic objectives of the new proposed 2024-2030 Gender strategy: End Gender-based Violence & Elevate Human Capital; Expand
+
+and Enable Economic Opportunities; and Engage Women as Leaders.
+
+
+                                                                                                                                                                  Page 6
+         The World Bank
+         Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+Improve the climate resilience of family farmers and tourism activities in vulnerable communities:
+Component 2 aims to increase the climate resilience of family farmers through the adoption of Climate Smart Agriculture
+(CSA) activities. Component 3 promotes inclusive and sustainable tourism development by supporting tourism revenues
+in vulnerable communities, and strengthens environmental management through enhanced conservation efforts,
+improved monitoring, and activities aimed at increasing biodiversity and resilience to climate shocks. Therefore,
+improvement in climate resilience will be measured through the following Indicator:
+
+     c) People benefiting from increased resilience of livelihoods, jobs or firms (Number of people, disaggregated by
+        gender and youth, Score Card (CRI) – measuring PDO 2, Component 2 and 3).
+
+ D. Concept Description
+
+18. Tocantins Productive Resilient and Inclusive Development Project (Projeto Tocantins Produtivo, according to the
+Government terminology) is an Investment Project Financing (IPF) Loan of US$120 million, with a total Project cost of
+US$250 million, including US$30 million in counterpart funding and US$ 100 million in estimated PCM for the road PPPs.
+Implemented over eight years, the Project’s main interventions in transport infrastructure, support to family agriculture,
+and support to community-based tourism aim to reduce rural vulnerability, improve living conditions, and increase
+economic opportunities for family farmers, Indigenous Peoples (IPs), other Traditional Peoples, Communities and
+Quilombolas, and other vulnerable groups. Environmental protection activities are also integrated. The Project will be
+prepared in close coordination with the Sustainable Development Project of Tocantins by the Inter-American
+Development Bank (IADB) in the same three sectors (transport, agriculture, and tourism), supporting collaboration
+between the two institutions. An additional financing is envisaged by the Government in the next 2 or 3 years, likely
+expanding the scale of the three main components.
+
+19. By targeting approximately 800 km of state roads for a CREMA-DBM pilot,19 the Project will build on previous
+CREMA experiences done in the State and will implement CREMA-PPP corridors for the first time in Tocantins to support
+agricultural trade. The selection of the 800 km of paved roads is being done based on a criticality analysis of infrastructure
+in different regions of the State, weighing local economic conditions, relation to family farming, access to jobs and services
+together with climate vulnerability (see Annex 2). Special emphasis will be placed on regions with socially vulnerable
+populations and areas at higher risk of climate impacts, ensuring that the Project contributes to a more inclusive and
+resilient rural economy. Regarding support to family farming, environmental protection and community-based tourism,
+the project will finance technical, financial and marketing support, among others. The road selection analysis will
+complement this selection in parallel, ensuring that the selected region for implementing road maintenance and
+improvements supports integrated strategies for the development of family farming and sustainable tourism routes,
+leveraging Tocantins’ rich cultural and natural heritage to create jobs and boost incomes. Thus, the Project connects
+remote populations as well as family farmers and tourism hubs to markets and public services. As a result, the Project will
+enhance the livelihood of beneficiaries, while reducing transport costs, ensuring long-term maintenance, improving
+climate resilience, and enhancing road safety. For specific corridors that are connected to other States, where heavy traffic
+and increased capital expenditure is needed, the implementation of low-tariff PPPs will be sought. The Project is structured
+into three main components plus a fourth one concerning Project implementation.
+
+19 CREMA refers to Road Rehabilitation and Maintenance Contracts, which in its new generation is being implemented in several Brazilian states under two main
+
+modalities: DBM (Design-Build-Maintain), for low-traffic paved segments, and PPP (public-private partnership), for high-traffic segments with potential for raising user
+revenues.
+
+
+                                                                                                                                                                  Page 7
+          The World Bank
+          Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+
+
+20. Component 1 – Proactive Maintenance, Resilient and Safe Road Infrastructure (US$206 million – including US$
+100 million for PCM). This component aims to strengthen Tocantins' road infrastructure by restoring, maintaining, and
+enhancing approximately 800 km of paved state roads with CREMA-DBM, which transfer maintenance responsibility and
+risk to contractors, incentivizing better road quality and cost efficiency. CREMA-PPPs are envisioned in three main State
+corridors with heavy truck traffic. CREMAs will include climate-resilient interventions such as improved drainage systems
+to reduce vulnerability to erosion and extreme weather events. Safety enhancements, such as better road signage and
+pedestrian protection in urban areas, will also be integrated. This component will contribute to reducing road fatalities,
+improving connectivity for rural populations, and ensuring the sustainability of investments through institutional capacity-
+building for road management. Elimination of critical spots providing all-season access to 200 km of non-paved State
+roads, as well as the enhancement of road safety in selected roads and urban places will be included as another
+subcomponent. Finally, an institutional strengthening subcomponent will focus on supporting sustainable and inclusive
+transport policies and providing road safety and climate resilience equipment and trainings.
+
+21. Component 2 – Enhanced Livelihoods and Climate Resilience of Family Farmers (US$33 million). This component
+seeks to strengthen the climate resilience of family farmers in Tocantins, increase their productivity, and enhance their
+integration into agrifood and sustainable community-based tourism markets. Using the productive alliance model,20 this
+component will provide targeted support to Producer Organizations (POs) and Community Associations (CAs) at different
+organizational levels. POs and CAs will benefit from matching grants to co-finance business plans respectively designed to
+improve productivity, market competitiveness, and climate resilience. The target outcomes include enhanced climate
+resilience of agrifood and agrotourism activities, increased inclusion of vulnerable family farmer groups — including
+women, IPs, Quilombolas, and youth — and improved market linkages and sales performance of family farmers. A first
+subcomponent will support linking family farmers to markets, focusing on integrating family farmers into agrifood and
+sustainable tourism value chains. 21 It will achieve this through targeted technical assistance (TA) and rural extension
+services provided by the Project, and matching grants under the productive alliance model, co-financing business plans
+for market-oriented activities.22 Pre-investment support will include targeted TA for developing comprehensive business
+plans, ensuring inclusivity by incorporating gender-sensitive assistance.23 Training centers will also be established.24 A
+second subcomponent will focus on strengthening institutions and systems of small CAs of Family Farmers.25 Activities are
+divided into two key areas. First, targeted TA will support the development and cofinancing of simplified Business Plans26
+
+
+20 The productive alliance model traditionally refers to a business relationship (alliance) between a group of producers, technical assistance provider, commercial
+
+financial institution, and identified market or buyer. These parties enter a joint business plan to meet a market demand while improving productivity, value addition,
+market position, and sales on a benefit-sharing basis. The participation of buyers is critical to the productive alliance model, as buyers provide the market linkages and
+may continue to do so after Project support has ceased. The WB has successfully implemented the productive alliances model in several agricultural operations across
+the LAC region (link).
+21
+  The definition of priority areas of action for this subcomponent will consider the selection of production chains and the presence of a production and market base to
+support the formation of production alliances. Some sectors included might be fluvial aquiculture, cattle and agriculture production of typical Cerrado fruits, among
+others.
+22 Business plans will be selected through a transparent public call for expressions of interest, using clear eligibility criteria. Mentorship and TA will be provided for
+
+eligible POs and CAs to prepare and implement their plans. Beneficiary contributions will constitute approximately 20 percent of the total value of the business plan,
+delivered in financial resources, assets, or in-kind contributions.
+23 It will also involve the development of gender-aware training modules tailored to specific community needs.
+
+24 Such as the one envisioned at the Mauro Mendanha Agrotechnology Park
+
+25 The definition of priority areas of action for this subcomponent will consider the presence of family farmers in a situation of greater social and environmental
+
+vulnerability, but with identified productive potential.
+26 including logistics, marketing, and resilience-focused production systems.
+
+
+
+
+                                                                                                                                                                    Page 8
+         The World Bank
+         Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+for the adoption of resilient agroecological production systems and training programs emphasizing agroecological
+practices, gender sensitivity, and youth inclusion, and support for promotional activities, such as participation in national
+and international agrifood and tourism fairs. The expected results include increased adoption of CSA practices and
+technologies,27 greater resilience to climate vulnerabilities, and enhanced participation in agrifood and tourism markets
+by family farmers.
+
+22. Component 3 – Regional Sustainable Development (US$7 million). This component promotes inclusive and
+sustainable tourism while strengthening environmental management in rural areas. Key activities include enhancing
+tourism infrastructure, such as signage and connectivity in priority regions like Jalapão, Cantão and Bananal Island; and
+supporting community-based tourism initiatives that involve Quilombolas – as the Kalungas in the South, IPs such as the
+Karajás, and other vulnerable groups. The component will also invest in improving the state’s capacity for environmental
+monitoring and management, including the use of advanced tools like drones and other technologies to control
+deforestation, manage natural resources, and restore degraded areas. Also, agri-forestry and restoration of Cerrado and
+Amazon biomes will be contemplated. Those actions might have support from related ongoing forestry project in Brazil.
+Those actions will aim to balance economic development with environmental conservation, protecting biodiversity and
+fostering climate resilience in targeted rural areas.
+
+23. Component 4 – Project Management (US$4 million). This component will finance the establishment and operation
+of the Project Management Unit (PMU), ensuring effective project implementation, monitoring, and compliance with
+environmental and social standards. It includes funding for technical support, capacity-building for implementing agencies,
+and operational costs related to Project coordination, reporting, and auditing.
+
+Beneficiaries
+
+24. The Project directly benefits rural populations, family farmers, and tourism-dependent communities across
+Tocantins. Approximately over half of the population will benefit from the CREMA-DBM and CREMA-PPP contracts,
+especially in the North and East of the State. Additionally, 6,000 family farms, including women-led, youth, and indigenous
+producers, will receive technical assistance and support to adopt climate-smart agricultural practices. Vulnerable groups,
+such as Quilombolas and IPs, will benefit from tourism-related initiatives aimed at promoting cultural heritage and
+economic inclusion. Improved road infrastructure will enhance access to markets, public services, and economic
+opportunities for rural residents while also reducing transport costs and travel times. Indirectly, the broader population
+of Tocantins will benefit from strengthened environmental management, reduced climate risks, and enhanced economic
+opportunities stemming from the Project’s interventions.
+
+Screening for climate change and disaster risks
+
+25. This operation has been screened for short and long-term climate change and disaster risks, resulting in a moderate
+vulnerability rating in face of flooding, landslides, soil erosion, extreme temperatures and drought. All those risks will be
+considered during the design and implementation, as climate adaptation and resilience is key in the proposed Project.
+
+
+27 CSA farming practices and technologies, as defined by FAO’s sourcebook, are those contributing to climate change resilience, and/or climate change mitigation while
+
+achieving two or more of the CSA pillars: (i) improving productivity, (ii) adapting and improving resilience to climate change, and (iii) mitigating climate change.
+https://www.fao.org/climate-smart-agriculture-sourcebook/en/
+
+
+                                                                                                                                                                Page 9
+       The World Bank
+       Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+26. The environmental and the social risks of the Project are rated as substantial. The precise location, scope and
+magnitude of diverse subprojects have not been defined, and the risks and impacts cannot be fully determined until the
+program and subproject details have been concluded. These impacts are expected to be site-specific, few if any of them
+irreversible, and in most cases mitigatory measures can be readily designed and implemented. Component 1 will support
+the maintenance of 350 km of state highways, with long-term performance-based road management contracts and the
+development of public private partnerships of state highway sections, in different parts of the State. The roads’
+maintenance works may pose significant environmental impacts and risks, inherent to heavy construction works, (e.g.
+excavation, earth movement, and paving). It may also require land acquisition and the clearing of right-of-ways in selected
+sections of the road network. It also involves the construction of a bridge over the Rio do Sono, nearby the Xerente
+Indigenous Land, in the TO 245 road, which may lead to temporary disturbances in nearby Xerente communities.
+Furthermore, the improvement or creation of access roads to previously inaccessible locations in the Jalapão region may
+indirectly lead to increased predatory tourism with adverse socioenvironmental impacts to local and traditional
+communities. Components 2, 3 and 4 comprise technical assistance activities, (e.g., capacity building), including measures
+to improve market access and climate resilience of family farmers and promotion of sustainable and inclusive tourism
+activities. The direct adverse environmental impacts of the technical assistance activities are negligible, but the technical
+assistance activities shall incorporate the ESS requirements in their design and implementation. Component 2 may also
+face the risk of excluding the most vulnerable groups of family farmers as well as female farmers who lack behind on
+access to information, technical assistance and participation in producers’ organizations. Aiming to promote community-
+based tourism in the Jalapão region, Component 3 may foster the use of (tangible and intangible) cultural heritage of
+indigenous and traditional communities. It shall be highlighted that – as many works and activities will occur in areas that
+are hard to supervise and highly vulnerable – there are concerns related to SEA/SH and gender-based violence in the daily
+interactions between project workers and between them and members of vulnerable communities.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+
+
+
+                                                                                                                        Page 10
+     The World Bank
+     Tocantins Productive Resilient and Inclusive Development Project (P509041)
+
+
+ Carlos Bellas Lamas
+ Senior Transport Specialist
+
+ Leonardo Bichara Rocha
+ Senior Agriculture Economist
+
+Borrower/Client/Recipient
+ Government of Tocantins
+ Sergislei Silva de Moura
+ Secretary of Planning
+ sergislei@gmail.com
+
+Implementing Agencies
+ Secretary of Planning / Secretaria de Planejamento - SEPLAN
+ Mauricio Fregonesi
+ PIU Coordinator
+ mauriciopdris@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Carlos Bellas Lamas, Leonardo Bichara Rocha
+
+Approved By
+
+Practice Manager/Manager:               Bianca Bianchi Alves                      04-Feb-2025
+
+Country Director:                       Pablo Facundo Cuevas                      19-Feb-2025
+
+
+
+
+                                                                                                Page 11
+

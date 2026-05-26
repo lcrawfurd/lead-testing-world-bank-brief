@@ -1,0 +1,530 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 22-Apr-2025 | Report No: PIDDC01083
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                  Operation Name
+Burundi, Burundi, Tanzania     P507207                       Burundi Water Supply and Sanitation Access Project
+Region                         Estimated Appraisal Date      Estimated Approval Date       Practice Area (Lead)
+EASTERN AND SOUTHERN           30-Sep-2025                   15-Dec-2025                   Water
+AFRICA
+Financing Instrument           Borrower(s)                   Implementing Agency
+Investment Project             Republic of Burundi -         Ministry of Water, Energy
+Financing (IPF)                Ministry of Finance and       and Mines
+                               Economic Planning
+
+Proposed Development Objective(s)
+To increase access to drinking water supply and sanitation services in selected urban and rural areas of Burundi and to
+strengthen institutional capacity for service delivery
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+Is this project Private Capital Enabling (PCE)?              Yes
+
+SUMMARY
+  Total Operation Cost                                                                                            95.00
+
+  Total Financing                                                                                                 95.00
+             of which IBRD/IDA                                                                                    80.00
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                    80.00
+      IDA Grant                                                                                                   80.00
+
+
+                                                                                                                    Page 1
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+     IFC Own Resources/Mobilization                                                                                  7.00
+   Non-World Bank Group Financing
+     Commercial Financing                                                                                            8.00
+       Unguaranteed Commercial Financing                                                                             8.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                    Concept Review Decision
+Substantial                                                     The review did authorize the preparation to continue
+
+
+
+
+ Other Decision (as needed)
+
+ B. Introduction and Context
+
+ Country Context
+
+
+1.       The Republic of Burundi is a low-income country whose economic growth is recovering. As of 2023, 62.1 percent
+of its 13.2 million people live below the international poverty linei of US$2.15/day, and 75 percent live in multi-
+dimensional poverty (as of 2021/2022).ii Burundi is one of the most densely populated countries in the world, with a
+population density of 442 people per square kilometer, exacerbating pressure on arable land. It ranks near the bottom for
+all global measures of human capital, with a Human Development Index of 0.42, making it one of the least developed
+nations.iii Gender disparities remain high in Burundi, ranking low on the Gender Inequality Index, placed 132nd out of 170
+countries.
+2.      The country has an undiversified economy heavily reliant on public services and agricultureiv. It’s multi-
+dimensional fragility results in political, economic, and security risks.v The political crisis of 2015 halted 11 years of
+growth, and Burundi’s GDP per capita - in decline since 2016 - was only US$ 200vi (2023), roughly one-eighth of the Sub-
+Saharan Africa average (US$ 1,637).vii A peaceful transfer of power in June 2020 marked a turn toward peace and stability,
+but challenges remain. Although economic growth in 2024 is expected to improve to 3.8 percent, this is insufficient to
+cope with rapid population expansion. Potential challenges include regional instability, influenced by the recent influx of
+refugees from the Democratic Republic of Congo, postponed exchange rate unification, and restricted external financing.
+3.      Burundi remains largely rural, with only a 15 percent urban population. However, it is one of the fastest-growing
+urban populations, growing by 5.7 percent per year between 2000 and 2021. The current urban population of 2 million
+will double by 2050. Approximately 58 percent of the urban population lives in unplanned areas, often under-resourced
+and without basic services. Adequate provision of basic services, conflicts over land ownership, exposure to disaster risks
+(see paragraph 6), as more people move to cities in search of livelihood opportunities, housing, and access to services.
+Bujumbura, the largest city, where 61 percent of the urban population lives, could play a key role supporting the economic
+
+
+
+                                                                                                                       Page 2
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+drivers in the country. Gitega, the country’s political capital and second largest city, faces a similar rapid urbanization
+process.
+4.       Burundi has embarked upon a territorial reform that is expected to take effect after the May 2025 municipal
+and parliamentary elections. The administrative set-up will be consolidated from 18 provinces and 119 communes to five
+new provinces and 42 communes with enlarged competencies. The aim is to streamline governance, improve resource
+allocation at the local level, and enhance service delivery, though such reforms may take several years to mature.
+5.      Although Burundi has the lowest per capita greenhouse gas emissions globally; climate change poses a serious
+threat to its weak infrastructure and livelihoods. Changes in rainfall patterns have led to increased frequency of extreme
+weather events such as floods, storms, landslides, and prolonged dry spells, which harm crop yields and threaten food
+security. Water levels in Lake Tanganyika surged to their highest level in 60 years due to heavy rains in early 2024, forcing
+over 230,000 people to relocate.
+ Sectoral and Institutional Context
+
+
+6.       Despite the country's considerable water endowments,viii a lack of investments and poor governance have led
+to widespread water insecurity. From 2016 to 2022, access to water supply, sanitation and hygiene (WASH) services barely
+improvement, with population growth absorbing gains. A 2021 directive from the Ministry of Interior halted water fee
+collection at public standpipes, especially rural service providers faced financial strain and services collapsed. As of 2022,
+only 62 percent of the population has basic water supply (urban: 90 percent; rural: 48 percent), and 46 percent has basic
+sanitation (urban: 41 percent; rural: 46 percent).ix
+7.       Achieving the SDGs for Universal Access to WASH by 2030 requires drastic acceleration. Yearly, over 1 million
+must gain access to basic sanitation, seven times faster than 2010-2020 progress. For water, over 0.8 million annually,
+three times faster than the past decade. In urban areas, only 58 percent have household connections, with 48 percent
+availability. This reflects the situation in the main cities of Bujumbura and Gitega where water production capacity is
+largely insufficient and water is rationed, with rotations to different quartiers every 2-3 days. In rural areas, only 3 percent
+of the population has access to a household connection. Only 2 percent of the urban population is connected to a sewer
+system, and proper sewage treatment is not guaranteed.
+8.      Lack of WASH services disproportionally impacts women and girls, with 78 percent of women responsible for
+water collection versus 17 percent of men. This highlights a deeply rooted inequality in the distribution of WASH-related
+domestic labor, with 40 percent of women fetching water for longer than 30 minutes per trip, exposing women to risks of
+gender-based violence (GBV).x Poor WASH services are a main contributor to diarrheal disease, the leading cause of child
+mortality in Sub-Saharan Africa (SSA).xi Access to water and sanitation in schools is about 45 percentxii and only 18 percent
+have handwashing facilities with soap, which negatively impacts school attendance, especially of girls during their periods.
+Malnutrition, directly linked to poor WASH services, stands at 53 percentxiii.
+9.      The Government’s Vision "Burundi Emerging Country 2040, Developed Country 2060" prioritizes WSS for
+urbanization, economic growth, health, and social stability. The National Development Plan (NDP) for Burundi 2018-2027
+plans investments in water supply, digital operations, sanitation facilities, and reforms. Public expenditure on WASH is
+modest at 1.5 percent of total spending, or US$ 6.6 million in 2022-2023. Development partners' spending, mostly off-
+budget, was US$7 million in 2022-2023. The government plans PPPs and sectoral reforms to improve investment climate.
+A national agency (ARCPxiv) has been set up to facilitate PPP-transactions.
+10.    The Ministry of Water, Energy and Mines (MINHEMxv) is the key government institution for the water supply
+sector and partially for the sanitation sector, mostly through its General Division for WSS (DGEPAxvi). MINHEM
+implements the code on the liberalization of the water and electricity sector of 2000,xvii although provisions relating to the
+
+
+                                                                                                                           Page 3
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+water supply sector are not fully applied due to lack of by-laws. A new law, expected later in 2025,xviii will clarify delegation
+of service provision to operators, including REGIDESO (the state-owned enterprise responsible for water and electricity
+services), private, or not-for-profit operators. A sustainable tariff policy is under development to address non-cost
+reflective tariffs and limited collection rates.
+11.     The rural arm of the MINHEM is the Agency for Rural Water Supply and Sanitation (AHAMR), responsible for
+construction and rehabilitation of rural water systems and sanitation activities.xix A major bottleneck for rural service
+provision is the current situation where water at standposts is free. Addressing these issues is essential for investment
+sustainability, necessitating a tariff policy, based on which the water supply regulator (AREENxx), under MINHEM can
+further develop regulatory instruments.
+12.      REGIDESO provides water services in urban areas to 8.5 percent of the population through 137,500 private
+connections and 880 water kiosks. Non-Revenue Water (NRW) is estimated at 40 percent (2019) and bill collection
+efficiency is around 80 percent (2023). The energy-side of REGIDESO has benefited from a long-standing World Bank
+engagement and performance improvement trajectoryxxi . A diagnostic for its water services and a prioritized performance
+improvement plan is under development.xxii REGIDESO has implemented an Enterprise Resource Management System to
+enhance operational, accounting, and commercial processes. Tariff reviews and operational improvements are crucial to
+eliminating energy subsidies to water services, especially since water tariffs haven't changed since 2012.xxiii
+13.      The urban sanitation sector is fragmented and suffers from a lack of clarity on institutional mandates and
+coordination. Sustainability concerns, due to a lack of tariff policy for sanitation, hinder investments in the urban
+sanitation sector from development partners and the private sector. MINHEM has implemented better government-
+partner coordination mechanisms through a WASH Sectoral Coordination Group. A roadmap with reform measures was
+jointly developed, and UNICEF and the World Bank are supporting the development of a national WASH investment plan
+2040. Key rural WASH partners include the European Union (EU), the African Development Bank, UNICEF, and Amazi
+Water, an NGO, and KfW for urban water supply. Potential co-financing for the WSS investments is being explored.
+
+ Relationship to CPF
+14.       The project contributes to the objectives laid out in the World Bank Group Burundi Country Partnership
+Framework (CPF) for Fiscal Year FY19-FY23 (Report No. 122878-BI), and the Performance and Learning Review (PLR)
+(Report No. Report 181794-BI) that extended the CPF to FY24xxiv. The project will promote public and private investments
+in critical water infrastructure to strengthen the foundations for economic and social resilience (Focus Area II). The project
+focuses on reaching the underserved, especially alleviating the burden of lack of WASH services for women and girls.
+Hence, the project indirectly supports human capital development (Focus Area I) and inclusion of women, poor and
+vulnerable groups. The project addresses fragility, conflict, and violence (FCV) focus areas, such as urbanization and youth
+employability (FCV Focus Area 3), through urban investments to support economic transformation, mobilization of the
+private sector and the creation of new WASH sector jobs. The project aims to build more accountable service provision,
+(FCV Focus Area 4) and is aligned with the WBG 2020-2025 Fragility, Conflict, and Violence Strategy.
+15.      The Project is aligned with the Mobilizing Finance for Development (MFD) principles, using a one WBG approach
+working in tandem with IFC and MIGA in support of the Scaling-up Water Finance initiative. The project will finance
+viability-gap financing for the proposed Bujumbura water treatment plant and prepares all tender documents for a second
+hybrid PPP for the treatment plant in Gitega, to be financed at a later stage. The project is thus tagged as Private Capital
+Mobilization (PCM) as well as Private Capital Enabling (PCE). The project is tagged as MFD -enabling as it supports reforms,
+the legal and regulatory framework, REGIDESO performance measures. The preparation will explore the need for
+deploying risk insurance instruments and payment guarantees through MIGA to unleash private investments.
+
+
+
+                                                                                                                            Page 4
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+16.      The project is aligned with the WBG Strategy on Water Security, the Global Challenge Program (GCP) on Water
+Security and Adaptation and the WBG Action Plan on Climate Change Adaptation and Resilience 2021–2025.
+Accelerating access to WASH is one of the three pillars of the GCP on Water Security and Climate Adaptation. On
+mitigation, the project will (a) promote the use of renewable energy (solar) in rural areas where grid access is not available
+and (b) increase energy and water use efficiency in water systems for the urban areas through NRW reduction and
+efficiency measures. On adaptation, the project will address vulnerabilities through (a) developing climate-resilient
+infrastructure by enhancing designs and protecting WSS infrastructure from flooding, droughts and landslides.
+17.     The Project is aligned with the WBG’s Gender Strategy 2024–30.xxv Project activities contribute to narrowing
+gender gaps on i) human endowments (i.e. time reduction for water collection and better learning environments for girls
+in schools), ii) economic opportunities through professional development programs and iii) agency through empowering
+women in water system oversight. The Project addresses security and GBV risks through at-home access to WSS facilities.
+
+
+ C. Proposed Development Objective(s)
+ To increase access to drinking water supply and sanitation services in selected urban and rural areas of Burundi and to
+ strengthen institutional capacity for service delivery
+
+
+  Key Results (From PCN)
+  The Project aims to achieve the following results:
+ • PDO indicator 1: number of people with access to at least basic water supply services (650,000). Disaggregated by
+   gender, by rural-urban and by level of service (400,000 people with access to safely managed water supply)
+ • PDO indicator 2: number of people with access to basic sanitation services (180,000). Disaggregated by gender, by
+   rural-urban.
+ • PDO indicator 3: number of schools and health centers with WASH facilities (70).
+ • PDO indicator4: number of beneficiaries with enhanced resilience to climate risks (650,000).
+
+
+ D. Concept Description
+
+18.   The proposed project is part of a proposed Africa East and South (AFE) WASH Access Multi-phase Programmatic
+Approach (MPA) (P506439). The concept description is below.
+
+19.      The Burundi Water Supply and Sanitation Project development objective is to increase access to WSS services
+in selected urban and rural areas of Burundi and to strengthen institutional capacity for service delivery. The Burundi
+WSS Access Project aligns with the AFE WASH MPA, which is planned for Board review in September 2025. The GoB
+priorities are the expansion of water supply systems in Bujumbura, the largest city and economic capital, in Gitega, the
+political capital and second largest city, as well as in rural areas that are most deprived in terms of WASH services. The
+project will improve access to safely managed drinking water services, through new access to previously unserved
+populations and through improving the quality of existing services through safe and available water access at home. The
+project will improve access to at least basic water supply and basic sanitation services in rural communes prioritized by
+the GoB and improve WASH access in selected schools and HCs in these communes.
+20.      The project will develop a national WASH program and prepare for phased investments to increase access,
+attract private capital, and utilize financing from development partners. Considering the allocation of up to US$80 million
+
+
+                                                                                                                         Page 5
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+in IDA financing, the scope of the project limits investments to the city of Bujumbura and prioritized rural centers within
+the selected communes.xxvi The project assumes a private capital mobilization for the hybrid PPP of up to US$15 million,
+bringing the total project cost to US$95 million. It is estimated that the project will provide basic water supply to 650,000
+people (of which 400,000 with safely managed water access), basic sanitation access to 180,000 people, and ensure
+functioning WASH facilities in 70 schools and HCs. All activities in this operation align with the scope of activities outlined
+in the proposed WASH MPA framework.
+21.     Component 1: Strengthening National WASH Platforms, Governance and Reforms (US$4 million IDA). This
+includes activities that are MFD-enabling and Private Capital Enabling (PCE) and consists of two subcomponents [each
+mapped to Pillars 1 and 2 of the MPA].
+• Subcomponent 1.1 – Strengthening National WASH Platforms (US$2.4 million) thereby increasing climate resilience and
+  promoting the design & development of climate informed city-specific sanitation systems: this subcomponent finances
+  technical assistance, training and equipment for (i) the preparation of a medium-term national WASH investment plan
+  (2040), (ii) technical assistance for coordination and the establishment of a National WASH Platform, (iii) the
+  development of a Management Information System (MIS) for the WASH sector, (iv) city-wide inclusive sanitation plans
+  and feasibility studies for Bujumbura and Gitega, (v) technical preparatory studies, including for initiating affermage
+  contracts for rural water supply with communes.
+• Subcomponent 1.2 – Improving Governance and Reforms (US$1.6 million) thereby increasing institutional capacity and
+  resilience to climate change impacts: this subcomponent finances technical assistance, training, equipment (including
+  vehicles) for the implementation of sector reforms and improvement of sector governance notably for: (i) the
+  dissemination of the proposed new law on WSS, (ii) the development of legal implementation texts, instruments and
+  policies for the WSS sectors, (iii) capacity development of the national WSS regulatory entity (AREEN) to better oversee,
+  monitor performance and determine tariffs thus enabling O&M investments & cost recovery, (iv) the institutional
+  strengthening and capacity development of the national WSS department (MINHEM-DGEPA), the rural water agency
+  (AHAMR), selected commune administrations, specifically their WSS unit (”services eau et assainissement”) to boost
+  policy coordination, (v) transaction advisory services for PPPs in Bujumbura and Gitega and (vi) exchange visits and
+  participation in international and regional training and forums.
+22.     Component 2: Service Providers Performance Improvement (US$12.5 million IDA) [Mapped to Pillar 3 of the
+MPA]. This component aims to enhance service delivery by improving the sustainability, efficiency, social inclusion and
+climate resilience of operations in both urban and rural areas. In urban areas the focus is on improving the performance
+of REGIDESO to improve its financial viability. In rural areas, the focus is on supporting the GoB in implementing a
+commune-wide professional management model through delegation contracts (affermage) with private operators for
+increased operational sustainability. It consists of two subcomponents.
+• Subcomponent 2.1 – Support to REGIDESO (US$10.5 million): this finances technical assistance, training, works, and
+  equipment specifically for: (i) capacity development and professional development of REGIDESO staff, including delivery
+  of courses on digitalization, water quality and NRW, (ii) improved customer engagement and female employment in
+  technical and management positions, (iii) the reorganization process into an independent water utility, (iv) measures to
+  reduce NRW, implementation of digital applications and automatic control systems (SCADA), and improved water
+  quality management systems, increasing energy efficiency and boosting climate resilience, (v) optimization of existing
+  water treatment plant capacity, and (vi) connections for 40,000 households in Bujumbura and technical assistance to
+  develop REGIDESO policies and procedures for a household connection revolving fund.
+• Subcomponent 2.2 – Support for Rural Water Service Providers (WSPs) (US$2 million) contributing to reduced climate
+  vulnerability and increased capacity: this finances technical assistance, training, works, and equipment specifically for:
+  (i) transaction advisory to communes and AHAMR to prepare and supervise the affermage contracts, (ii) business
+
+                                                                                                                          Page 6
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+  incubation support, capacity development and mentoring of domestic private service providers, (iii) development and
+  delivery of vocational courses and internships on solar pumping, plumbing and management of water operations, (iv)
+  communication and community mobilization in selected communes, including provision of connections for 6,000
+  households.
+23.       Component 3: Leveraging Finance to Increase WASH Access (US$ 73.3 million, US$58.3 million IDA, and US$15
+million in Private Capital Mobilization) [Mapped to Pillar 4 of the MPA]. This component aims to leverages equity (30
+percent) and debt (70 percent), through IFC and other lenders under a proposed hybrid PPP for the bulk water treatment
+plant in Bujumbura. The hybrid PPP with a VGF-grant aims to ensure an acceptable tariff for REGIDESO as off-taker and a
+tariff structure affordable to different consumer groups. It includes two subcomponents:
+•   Subcomponent 3.1 (US$53 million; US$38 million IDA, US$15 million PCM) – Access to climate-resilient drinking water
+    services in urban areas to reduce flood and drought vulnerability. This subcomponent finances infrastructure
+    investments in climate-resilient urban water supply distribution and production systems for Bujumbura. It includes (i)
+    a VGF-grant for a private developer of the bulk water production plant, including intake in Lake Tanganyika and
+    pumping station, (ii) investments for REGIDESO-managed urban drinking water systems, including transmission lines,
+    reservoirs and primary and tertiary distribution mains, (iii) preparation and implementation of Environmental and
+    Social Impact Assessments (ESIA) and Resettlement Action Plans (RAP) for Bujumbura and Gitega water supply
+    investments, (iv) supervision costs, and (v) resettlement costs associated with the water system in Bujumbura, and
+    (vi) necessary preparation studies related to water supply investments for Gitega, including hydrogeological studies.
+•   Subcomponent 3.2 - WASH access in rural areas and in institutions (US$20.3 million). This subcomponent finances (i)
+    the rehabilitation, expansion and construction of new gravity-fed and/or solar-pumped climate-resilient rural water
+    systems in the selected communes and associated preparation studies (including ESIA and PAR as needed) and
+    supervision costs,xxvii (ii) community mobilization and awareness activities, (iii) investments in WASH facilities in
+    schools and health care facilities that promote climate-proof infrastructure, (iv) community-led total sanitation (CLTS)
+    activities, including material support for latrine construction, (v) education programs for girls on menstrual hygiene
+    management, and (vi) resettlement costs related to the rural water systems.
+
+24.    Component 4: Project Coordination and Management (US$ 5.2 million). This component finances all project
+coordination, management, communication, implementation, monitoring and evaluation costs for the proposed Project
+Implementation Unit (PIU) within the MINHEM (subcomponent 4.1 of US$ 4.4 million), as well as a PIU within REGIDESO
+(subcomponent 4.2 of US$ 0.8 million).
+25.     Citizen Engagement, Social Inclusion and Gender: The project will integrate citizen engagement and social
+inclusion interventions to enhance voice and participation, including e.g. strengthening customer feedback for REGIDESO
+water services and a household connection program to remove barriers for those without services. In line with the WASH
+MPA framework on gender, the project will close gender gaps in the burden for water collection and enhances girls’ school
+attendance in schools through WASH facilities and menstrual hygiene education programs.
+26.      Climate Co-Benefits: The project increases access to WSS services essential for climate adaptation. It focuses on
+reducing water losses, climate-proofing WSS infrastructure in the face of increasing floods and droughts, as well as
+landslides. Subcomponent 3.1 finances expansion and improvement of the water production and supply systems for
+Bujumbura, which will make the city’s population resilient to droughts and its water supply system more resilient to lake
+flooding. Subcomponent 3.2, finances rural water systems, which will increase the adaptive capacity of rural communities
+now faced with water scarcity, arduous collection, and extremely high costs for a small amount of water consumed.
+Subcomponent 2.1 will contribute to mitigation by supporting REGIDESO in reduction of NRW and energy efficiency
+measures while subcomponent 2.2. will build capacity of rural operators in operating solar-pumped systems. Component
+
+
+                                                                                                                        Page 7
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+1 strengthens institutional capacities for climate resilient WASH investment planning and an enhanced regulatory
+environment.
+27.      Paris Alignment: The proposed project is considered aligned with the Paris Agreement on both climate mitigation
+and adaptation. It is consistent with the country’s nationally determined contributions (NDCs) and the National Strategy
+and Action Plan on Climate Change 2013-2025. Developing resilient WSS services is among the priority adaptation actions
+in the NDC 2021.xxviii The project directly supports climate adaptation through expansion of resilient water supply for urban
+and rural populations, and enhanced capacity of operators to manage and maintain systems in the face of climate risks
+(particularly flooding and drought in Bujumbura and water scarcity in rural communes). Regarding climate mitigation,
+project investments are on the Universally Aligned list and do not present risks of having a negative impact on Burundi’s
+low-GHG-emissions development pathway. The project has been screened for climate change and disaster impacts, and
+specific resilience-building measures will be identified and considered in the project documents prior to appraisal. No
+specific risks regarding the mitigation and adaptation aspects of the Paris Alignment assessment are reported at this stage.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           Yes
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+Potential environmental risks/impacts are expected for the activities under components 2 and 3 which include
+infrastructure investments in urban water supply distribution and production systems for Bujumbura, activities to be
+carried out through subsidies to a private developer of the bulk water treatment plant, investments for urban drinking
+water systems managed by REGIDESO, infrastructure investments for rehabilitation and construction of solar-based
+climate-resilient rural water systems in selected communes, investments in WASH facilities in schools and healthcare
+facilities.
+
+Key anticipated direct, indirect and cumulative risks and impacts associated with water and sanitation investments will
+entail : temporary disruption of utility services in the project area; traffic disruption as the excavation of trenches and
+laying of pipeline work will be done along main roads and streets; interference with fish and other aquatic organisms at
+intake sites; risk of increased turbidity and sedimentation downstream that may affect aquatic habitats; risk of pollution
+and oil spill; management of chemicals; waste generation; occupational and health and safety for workers; community
+safety due to active construction sites and activities within the community.
+
+The project will also support Technical Assistance (TA) activities of Types 1, 2 and 3 under components 1 and 2 which
+include the preparation of investment plans, preparation studies, transactions advisory services, capacity building,
+development of national legal and regulatory text and policies, etc. TA activities may have potential downstream
+environmental risks because of potential new investments. However, the risk level of these activities is not expected to
+exceed Substantial.
+
+                                                                                                                        Page 8
+       The World Bank
+       Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+
+
+This classification takes also into account the capacity of the Borrower, as well as all stakeholders involved in this
+project, including public entities and a potential private developer for the Bujumbura bulk water treatment plant, to
+manage potential risks. Potential social risks associated with the project include the exclusion of women and members
+of vulnerable groups from project benefits and activities such as training and capacity building and household
+connections under components 1 and 2, and work opportunities under components 3 and 4. Planned civil works under
+component 3 also present risks associated with influx of labor such as SEA/SH, communicable diseases, and labor, social
+conflicts, economic and physical displacement (mostly temporary), and community health and safety impacts. As
+indicated in the Environmental risk section, TA activities of Types 1, 2 and 3 under components 1 and 2 are likely to carry
+downstream impacts and the capacity of the foreseen MINHEM-PMU and REGIDESO-PIU will likely be low and will need
+substantial capacity building.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Susanna Smets
+   Senior Water Specialist
+
+   Feriha Mukuve Mugisha
+   Senior Water Specialist
+
+ Borrower/Client/Recipient
+  Republic of Burundi - Ministry of Finance and Economic Planning
+
+ Implementing Agencies
+  Ministry of Water, Energy and Mines
+  Nestor Girukwishaka
+  Director General Drinking Water and Sanitation
+  ngirukwishaka@gmail.com
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+ @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+ APPROVAL
+
+
+
+                                                                                                                       Page 9
+         The World Bank
+         Burundi Water Supply and Sanitation Access Project(P507207)
+
+
+
+  Task Team Leader(s):                                       Susanna Smets, Feriha Mukuve Mugisha
+
+  Approved By
+
+  Practice Manager/Manager:                                  Soma Ghosh Moulik                                         26-Mar-2025
+
+  Country Director:                                          Kofi Nouve                                                22-Apr-2025
+
+
+
+
+i World Bank Macro Poverty Outlook update (April 2024).
+ii UN Human Development Index Report 2021/2022. Table 6.
+iii https://data.undp.org/countries-and-territories/BDI (2022)
+iv https://www.worldbank.org/en/country/burundi/overview#1
+v World Bank Burundi Country Economic Memorandum (2022). Republic of Burundi - Country Economic Memorandum (CEM): the challenge of achieving stable and
+shared growth (English). Washington, D.C.: World Bank.
+vi World Bank data (2023) (https://data.worldbank.org/country/burundi)
+vii GDP in current prices; World Bank data (2023) (https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZG)
+viii Estimated at a total renewable water resources availability of 1,002 m3/inhabitant per year (2021) and with a low water stress indicator of 10 percent, reflecting
+that only 10 percent of freshwater resources are withdrawn for usages (AQUASTAT 2021); (https://data.apps.fao.org/aquastat).
+ix As per Joint Monitoring Program of UNICEF/WHO, https://washdata.org/ . For drinking water, a basic water supply means access to an improved source (standpost,
+protected spring, borehole) within 30 minutes return trip (including waiting time), while a safely managed water service means access at the premises/yard, availability
+when needed (> 16 hours a day), and free of contamination. A basic sanitation service means household level access (no sharing) to an improved facility that safely
+separates feces from human contact. A safely managed sanitation service requires an improved sanitation facility that is not shared with other households and where
+excreta are safely disposed of in situ or treated off site. Basic hygiene means presence of a handwashing facility with water and soap.
+x The World Bank. https://www.worldbank.org/en/data/interactive/2024/03/13/gendered-burden-of-water-collection-in-afe-afw-sub-saharan-africa
+xi Ngabo F, et al Can routinely collected national data on childhood morbidity and mortality from diarrhea be used to monitor health impact of rotavirus vaccination in
+Africa? Examination of pre-vaccine baseline data from Rwanda. Pediatr Infect Dis J. 2014 Jan;33 Suppl 1: S89-93.
+xii https://washdata.org/data/school#!/dashboard/new
+xiii National Nutrition Survey (2024)
+xiv Agence d'appui à la Réalisation des Contrats de Partenariat Public-Privé
+xv Ministère de l’Hydraulique, de l’Energie et des Mines
+xvi Direction Générale de l’Eau Potable et de l’Assainissement
+xvii With several amendments to this law and a new law on the electricity sector approved in March 2024.
+xviii The law has been submitted to the Council of Ministers for approval
+xix Although not strictly its mandate, it sometimes takes the role of operator taking care of operation and maintenance (O&M) for larger rural systems.
+xx Autorité de Régulation des secteurs de l'Eau potable et Energie
+xxi Through the Jiji and Mulemwba Hydropower project (P133610) and the ASCENT project (P181494)
+xxii Financed under the Urban Resilience Emergency project (P177146)
+xxiii An increasing block tariff is applied with the first domestic consumer block of 20 m3 charged at BIF 310/m3 (US$ 0.10/ m3). Non-domestic customer categories are
+charged higher rates. REGIDESO is self-reporting that the cost of production is over BIF 600 m3.
+xxiv A new CPF is under preparation.
+xxv World Bank Group Gender Strategy 2024 – 2030: Accelerate Gender Equality to End Poverty on a Livable Planet. World Bank Group; Washington DC.
+xxvi Baseline and feasibility studies are launched for four communes (June 2025 administrative boundary) to inform the selection of sites.
+xxvii Annex 3 illustrates the communes.
+xxviii This is alongside a suite of other measures such as promoting increased carbon stocks in the land use sector, protecting riverbanks, ensuring floodplain protection,
+identifying the most severely climate risk–affected areas, and building the country's capacity for climate risk management.
+
+
+
+
+                                                                                                                                                                    Page 10
+

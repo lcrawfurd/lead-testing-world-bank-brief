@@ -1,0 +1,448 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 02-Feb-2026 | Report No: PIDDC01510
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Sudan                          P514272                      Sudan Transition to Agriculture Recovery and Resilience
+                                                            Project
+Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+EASTERN AND SOUTHERN           08-Jul-2026                  02-Sep-2026                   Agriculture and Food
+AFRICA
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             A UN Agency or an INGO       A UN Agency or an INGO
+Financing (IPF)
+
+Proposed Development Objective(s)
+To restore and enhance agricultural and livestock productivity, strengthen seed systems, and support private sector-
+led agricultural value chains in selected areas.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                           90.00
+
+  Total Financing                                                                                                90.00
+
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  Non-World Bank Group Financing
+   Trust Funds                                                                                                   90.00
+      Sudan Country Engagement                                                                                   90.00
+
+
+
+
+                                                                                                                   Page 1
+
+
+
+                                                                                                           Official Use Only
+         The World Bank
+         Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                       Concept Review Decision
+Substantial                                                        The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+    1.     Sudan is facing an unprecedented crisis, with the ongoing conflict since April 2023 triggering the world’s fastest-
+    growing displacement emergency and a severe economic contraction. As of October 2025, more than 11.7 million
+    people have been forcibly displaced, including over 7.2 million internally and 3.4 million refugees and asylum seekers
+    who have crossed into neighboring countries.1 Sudan now has the largest number of internally-displaced persons (IDPs)
+    globally, and the humanitarian situation is compounded by recurrent outbreaks of disease, the destruction of critical
+    infrastructure, and widespread food insecurity. According to the latest Integrated Food Security Phase Classification
+    (IPC) analysis, an estimated 21.2 million people—around 45 percent of the population—were facing high levels of acute
+    food insecurity (IPC Phase 3 or above) in September 2025, with famine (IPC Phase 5) conditions already observed in El
+    Fasher (North Darfur) and Kadugli (South Kordofan). The conflict has devastated urban centers, particularly Khartoum,
+    and has disrupted the delivery of essential services, leaving millions without reliable access to health, education, water,
+    and sanitation.
+
+    2.     The economic impact of the conflict has been profound. Sudan’s economy was already strained by high debt and
+    stalled reforms; these structural weaknesses were compounded by the conflict. The real gross domestic product (GDP)
+    is estimated to have contracted by 29 percent in 2023 and a further 15 percent in 2024, driven by the collapse of private
+    and public consumption, investment, and the destruction of productive assets. Inflation surged to 170 percent in 2024,
+    fueled by currency depreciation, supply chain disruptions, and soaring food prices. Although inflation returned to double
+    digits in mid-2025, elevated prices continue to put pressure on households. The fiscal position has deteriorated sharply,
+    with government revenues declining due to reduced economic activity and a shrinking tax base. While high frequency
+    data suggest a nascent recovery in selected urban areas, the path to recovery remains highly challenging, as the conflict
+    continues, with damaged production capacity, financing and cash shortages, weak banking infrastructure, and persistent
+    macroeconomic instability.2
+
+    3.     Poverty and vulnerability have deepened across Sudan. Extreme poverty has more than doubled since the
+    outbreak of the conflict, rising from 23 percent in 2022 to an estimated 59 percent in 2024. The agrifood system –
+    traditionally a cornerstone of Sudan’s economy and employment - has been severely affected. According to a study by
+    the International Food Policy Research Institute (IFPRI), GDP in the agrifood sector has contracted by over 33.6 percent
+
+
+1
+  UNHCR. 2025. “Sudan Situation – Forcibly Displaced Persons.” UNHCR Operational Data Portal. Accessed October 22, 2025.
+https://data.unhcr.org/en/situations/sudansituation
+2
+  World Bank. 2025. Sudan Economic Update – May 2025.
+
+                                                                                                                            Page 2
+
+
+
+                                                                                                                    Official Use Only
+         The World Bank
+         Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+    and employment nearly halved under the severe scenarios.3 Rural populations and women have experienced the
+    sharpest losses in income and livelihoods. The World Bank’s Sudan Economic Update (May 2025) underscored the
+    urgent need for policies and interventions that restore economic productivity, support the recovery of agriculture and
+    employment, and expand social protection to households facing acute deprivation.
+
+
+    Sectoral and Institutional Context
+
+    4.    Sudan’s agriculture sector stands as a vital lifeline amid escalating fragility, economic collapse, and widespread
+    food insecurity. Prior to the recent conflict, agriculture was the most resilient contributor to GDP and employment,
+    employing 40 percent of the labor force and accounting for one-third of GDP.4 Cereal and livestock exports comprised
+    44 percent of total exports between 2012 and 2022, underscoring the sector’s importance to livelihoods and
+    macroeconomic stability. However, two years of conflict between the Sudanese Armed Forces (SAF) and the Rapid
+    Support Forces (RSF) have triggered a humanitarian catastrophe, with 24.6 million people now in urgent need of food
+    assistance and famine conditions emerging in several regions. The collapse of industrial capacity, soaring inflation, and
+    the near-total breakdown of market systems have further eroded the sector’s ability to sustain rural incomes and food
+    security.
+
+    5.     The conflict has sharply undermined agricultural production and productivity and disrupted the entire agrifood
+    value chain. Access to inputs, credit, and rural infrastructure is severely constrained, with high transport costs and fragile
+    seed security. Many farmers have been displaced, fields left unharvested, agriculture and irrigation equipment lotted
+    or destroyed, and seed production and storage disrupted. The ongoing conflict has severely disrupted Sudan’s livestock
+    sector, leading to the displacement of herders, loss of grazing lands, and destruction of critical infrastructure. The
+    destruction of veterinary facilities has limited the availability and distribution of essential animal vaccines increasing the
+    risk of disease outbreaks and further threatening livestock health and productivity. The collapse of banking services and
+    commercial activity in Khartoum has deeply impacted small and medium enterprises (SMEs), resulting in extensive asset
+    loss, rising unemployment, and fragile supply chain dynamics from farm to market. Insecurity and fuel shortages have
+    curtailed trade flows, while the destruction of rural infrastructure has limited market access and increased post-harvest
+    losses. Irrigated agriculture—long the backbone of Sudan’s farming economy, particularly in Gezira and other major
+    irrigation schemes—has deteriorated sharply, with damaged canals, fuel shortages, and halted maintenance reducing
+    water delivery and leaving large tracts of irrigated land underutilized or abandoned.
+
+    6.    Despite these challenges, recovery is possible. The World Bank’s June 2024 assessment indicates that modest
+    gains in access to inputs, particularly fertilizers and seeds, could spur agricultural GDP of 0.8 percent in 2025 and 1.1
+    percent in 2026, with medium-term potential reaching 3–4 percent. This growth would account for up to 40 percent of
+    total economic recovery (as a contribution to a pre-conflict GDP in 2023), demonstrating the sector’s central role in
+    contributing to Sudan’s recovery and growth. Revitalizing agriculture is not only a pathway to economic recovery but
+    also a key instrument for sustaining livelihoods and mitigating the impacts of displacement, inflation, and disrupted
+    trade. The proposed Sudan Transition to Agriculture Recovery and Resilience (STARR) Project aims to achieve this by
+    restoring and enhancing agricultural and livestock productivity, strengthening seed systems, and promoting private
+    sector–led value chain development in selected areas in of the country.
+
+
+3
+  International Food Policy Research Institute (2025). What are the economic and poverty implications for Sudan if the conflict
+continues through 2025? IFPRI blog.
+4
+  WFP/FAO statement (2021) & World Bank data (2022)
+
+                                                                                                                                  Page 3
+
+
+
+                                                                                                                          Official Use Only
+      The World Bank
+      Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+7.    The STARR Project’s design reflects lessons learned from the ongoing Sudan Thabat Community Enhancement
+Project (Sudan Thabat, P181490). Under the Sudan Thabat project, agricultural inputs, small scale irrigation
+rehabilitation and solarization have been provided to 148 Farming Production Organizations (FPOs), representing
+approximately 25,000 farmer households, and over 73,000 MT of wheat were harvested during the 2024/25 winter
+season (which represented 18.4 percent of the national output). The project has also addressed logistics constraints by
+supporting SMEs involved in transport and market integration, demonstrating the importance of coordinated value
+chain interventions. In addition, the expansion of digital platforms such as Mahsul has strengthened the value chain
+ecosystem by connecting farmers to markets and improving price transparency. The platform has also enabled
+consumer cooperatives to play a price-stabilizing role for households by purchasing directly from farmers and other
+primary suppliers, leveraging the SMEs supported by the project as the logistical and value-chain bridge.
+
+
+Relationship to CPF
+
+8.     Sudan does not have a Country Partnership Framework (CPF) in place. The most recent strategic engagement with
+Sudan was through a Country Engagement Note (CEN) for FY2021–2022, which guided the Bank’s activities during a
+period of transition and fragility. Following decades of very limited engagement, the program under the “re-engagement
+CEN” focused on supporting macroeconomic reforms, complementary social impact mitigation, and helping the country
+meet the Heavily Indebted Poor Countries (HIPC) debt relief benchmarks. It also aimed to contribute to a renewal of the
+social contract and building systems towards a full country program. However, the military coup in 2021 abruptly halted
+the transition and disrupted the process of reengagement with international organizations, a situation further
+exacerbated by the outbreak of the conflict in April 2023. Currently, WBG’s engagement in Sudan is framed by
+Operational Policy 7.30, which led to a shift in project implementation modalities from government-led to third-party
+entities, and repurposing of project funds to respond to urgent needs.
+
+9.     The STARR Project is fully consistent with IDA21’s strong emphasis on placing FCV considerations in WBG’s
+strategic approach in FCVs. The project’s focus on revitalizing agriculture is expected to improve food security and
+support livelihoods, in a sustainable way. At the same time, the project’s results will directly contribute to the dedicated
+indicator in the IDA21scorecard that tracks displaced people and people in host communities provided with services and
+livelihoods in FCVs. Furthermore, the project is aligned with the WBG’s FCV Strategy 2020-25 and in particular its pillar
+on remaining engaged during conflict and crisis situations, which is the guiding framework for IDA’s operations in Sudan
+and aims to preserve hard won development gains, protect essential institutions, build resilience, and be ready for
+future recovery.
+
+C. Proposed Development Objective(s)
+  10. To restore and enhance agricultural and livestock productivity, strengthen seed systems, and support private
+  sector-led agricultural value chains in selected areas.
+
+Key Results (From PCN)
+ 11. Key PDO indicators for the proposed project include:
+
+  ▪   Increased agricultural and livestock productivity (percentage increase in crop yield of key food security crops
+      including wheat, sorghum, millet, beans, vegetables AND percentage increase in average livestock output
+      including milk yield, meat production and herd size).
+  ▪   Share of project beneficiaries accessing improved seed systems (percentage of project-supported
+
+
+                                                                                                                        Page 4
+
+
+
+                                                                                                                Official Use Only
+      The World Bank
+      Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+      farmers/cooperatives reporting access to and use of improved, climate-resilient seeds through local seed banks
+      or enterprises).
+  ▪   Number of small- and medium-sized enterprises (SMEs) supported along agriculture and livestock value chains.
+
+D. Concept Description
+
+12.   The proposed project will comprise three components.
+
+Component 1: Revitalizing Irrigated Agricultural and Livestock Production Systems
+13. This component will focus on improving the productivity of key food security crops such as wheat, sorghum, millet,
+vegetables, and beans as well as livestock through the demand-based provision of improved inputs (including seeds,
+fertilizers, and animal feed), extension services, and veterinary support. It will finance the rehabilitation of community-
+based agricultural and rural infrastructure to boost agricultural and livestock production. Activities will adopt a demand-
+responsive approach, adopting Farmer-led Irrigation Development (FLID) to prioritize interventions such as
+rehabilitation of agricultural land and irrigation infrastructure (e.g., land leveling, terracing, clearing of
+irrigation/drainage canals and repairs of pumping equipment), restoration of rainwater harvesting structures (haffirs,
+hand-dug wells, earth dams) for multi-purpose use, and rehabilitation of livestock watering points, as well as solarization
+of irrigation pumping equipment, which would further enhance water availability for both crop and livestock systems,
+particularly in targeted drought-prone and conflict affected areas. The component will also support the repair of canals,
+headworks, and control structures to improve water use efficiency and revitalize irrigated agriculture. To reduce post-
+harvest losses and associated methane emissions, the project will support the rehabilitation and restoration of storage
+facilities, including grain silos and warehouses. The project support will also include climate-adaptive interventions and
+improved rural market access through the rehabilitation of feeder roads, bridges, and water crossings.
+
+Component 2: Strengthening Local Seed Systems and Community Seed Banks
+14. This component will support long-term access to quality seeds through the restoration and expansion of various
+types of seed banks, including training for local cooperatives on seed selection, multiplication, storage, and
+management. It will also support the restoration of research and development efforts for improved seed production
+and capacity building for seed certification in line with global good practices. Investments will be made in existing local
+seed enterprises to enhance the availability and diversity of climate-resilient varieties. By laying the foundation for a
+more sustainable seed system, the project will reduce dependency on external seed sources and enhance timely
+availability and recovery readiness in targeted communities.
+
+Component 3: Enhancing Agricultural Value Chains and Private Sector Engagement
+15. This component will strengthen agricultural and livestock value chains as a rapid response to food insecurity, while
+laying the foundation for durable recovery. It will mobilize private investment and position SMEs, farmers’ associations,
+and agricultural businesses as core market actors responsible for input supply, servicing, and processing across the value
+chain (e.g., milling, oil pressing, solar pump supply and servicing, irrigation system rehabilitation, transport, and
+logistics). By anchoring the local private sector, the component aims to reduce transaction costs, improve price discovery
+and transparency, and create employment opportunities for vulnerable groups, particularly youth and women. Building
+on the SME sub-component of the ongoing Sudan Thabat Enhancing Community Resilience Project, registered farming
+cooperatives, associations, and SMEs will be eligible to implement activities such as small-scale rehabilitation and
+upgrading of irrigation infrastructure (including solar pumps), transport and logistics (including storage and packaging),
+and post-harvest processing. Investments will be financed through competitively awarded matching grants based on
+technical proposals, complemented by technical assistance and business development services. This approach will
+
+
+                                                                                                                       Page 5
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+stabilize food supply and lower consumer prices in the short term, while supporting a more resilient, market-integrated
+value chain system capable of sustaining livelihoods and catalyzing broader local recovery.
+
+Digital Market Platform linking farmers, SMEs and markets
+16. The project will also support the expansion and operationalization of the Mahsul digital platform, currently
+maintained under the ongoing Sudan Thabat Project, to enhance market access and value chain integration for
+smallholder farmers, consumer cooperatives, and agri-SMEs. Since its launch in December 2024, Mahsul has been
+deployed in three states (Northern, River Nile and Kassala) and has onboarded 70 cooperatives. The platform enables
+individual farmer registration, tagged to their respective cooperatives, and facilitates both subsidized and B2B
+transactions, linking farmers directly to markets, SMEs and consumer cooperatives and other buyers in a transparent
+marketplace. Acting as a market ecosystem, the project will reduce price distortions created by intermediaries, promote
+price discovery and transparency, and contribute to more stable and predictable prices across targeted value chains. At
+the market points, aggregated commodities will be bulked and sold through organized selling points managed by
+cooperatives or local vendors, enabling vulnerable communities to access fairly prices food commodities.
+
+Geographical Targeting
+17. Target localities, communities, and agricultural cooperatives will be identified using a formula established under
+the ongoing Sudan Thabat Project, based on clearly defined criteria including security conditions, agricultural and
+livestock potential, access to water resources, availability of private sector services (e.g., transport, agro-processing),
+and complementarity with other development partner interventions. This project is designed as a national project to
+ensure geographical targeting based on agriculture potential and the situation on the ground. Given the improved
+security situation and high agricultural potential in Gezira and Sennar states, the project may prioritize these two states
+for initial targeting. Should conflict escalate in any of the proposed project target areas, project resources may be
+reallocated to alternative localities or states, in accordance with procedures and criteria defined in the Project
+Implementation Manual (PIM), and in consultation with the World Bank.
+
+Complementarity between Sudan Thabat and STARR Projects
+18. The STARR Project is designed to build on and complement the ongoing Sudan Thabat Project by scaling up proven
+approaches and leveraging established systems for agricultural recovery in fragile and conflict-affected environments.
+The Sudan Thabat Project’s Component 2 on Improving Food Security and the STARR Project are designed to work in
+tandem to strengthen food security and agricultural resilience in Sudan’s conflict-affected areas. Specifically, the Sudan
+Thabat Project has laid the groundwork by supporting farming cooperatives and SMEs with climate-smart inputs,
+technical assistance, and matching grants for irrigation, logistics, and post-harvest processing, while also scaling up
+community consumer cooperatives to stabilize local food supply and affordability. Building on these foundations, STARR
+will expand the scope and impact by deepening support for agricultural and livestock productivity, strengthening seed
+systems (including the restoration and expansion of community seed banks and access to climate-resilient varieties) and
+mobilizing private sector investment along the value chains. The STARR Project will leverage the networks, market
+linkages, and institutional capacities established under the Sudan Thabat Project, enabling a seamless transition from
+emergency food assistance and local market stabilization to broader, market-integrated recovery and sustainable
+livelihoods.
+
+
+
+
+                                                                                                                       Page 6
+
+
+
+                                                                                                               Official Use Only
+      The World Bank
+      Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                         Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+ Note to Task Team: This summary section is downloaded from the PCN data sheet and is editable. It should match
+ the text provided by E&S specialist. If it is revised after the initial download the task team must manually update the
+ summary in this section. Delete this note when finalizing the document.
+
+
+
+
+ Note: To view the Environmental and Social Risks and Impacts, refer to the Concept Stage ESRS Document. Delete
+ this note when finalizing the document.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Jeren Kabayeva
+  Senior Agriculture Specialist
+
+  Nooshafarin Tayebi
+  Senior Water Resources Management Specialist
+
+ Borrower/Client/Recipient
+  A UN Agency or an INGO
+
+ Implementing Agencies
+  A UN Agency or an INGO
+
+ FOR MORE INFORMATION CONTACT
+
+
+
+
+                                                                                                                       Page 7
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     Sudan Transition to Agriculture Recovery and Resilience Project(P514272)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Jeren Kabayeva, Nooshafarin Tayebi
+
+Approved By
+
+Practice Manager/Manager:               Frauke Jungbluth                        15-Jan-2026
+
+Country Director:                       Maryam Salim                            02-Feb-2026
+
+
+
+
+                                                                                                      Page 8
+
+
+
+                                                                                              Official Use Only
+

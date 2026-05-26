@@ -1,0 +1,686 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 23-Oct-2025 | Report No: PIDDC01390
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+         The World Bank
+         Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+Brazil                         P510383                     Bioeconomy and Sustainable Regional Development
+                                                           project
+Region                         Estimated Appraisal Date    Estimated Approval Date       Practice Area (Lead)
+LATIN AMERICA AND              20-Apr-2026                 30-Jul-2026                   Environment, Natural
+CARIBBEAN                                                                                Resources & the Blue
+                                                                                         Economy
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Federal Government of       Ministry of Integration and
+Financing (IPF)                Brazil                      Regional Development
+                                                           MIDR
+
+Proposed Development Objective(s)
+Expand access to finance to promote inclusive economic development and climate resilience in lagging regions of
+Brazil
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  Yes
+Is this project Private Capital Enabling (PCE)?            No
+
+SUMMARY
+  Total Operation Cost                                                                                       705.00
+
+  Total Financing                                                                                            705.00
+               of which IBRD/IDA                                                                            500.00
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  World Bank Group Financing
+    International Bank for Reconstruction and Development (IBRD)                                             500.00
+
+
+                                                                                                                   Page 1
+
+
+
+                                                                                                         Official Use Only
+      The World Bank
+      Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+
+   Non-World Bank Group Financing
+     Commercial Financing                                                                                            205.00
+       Unguaranteed Commercial Financing                                                                             205.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                     Concept Review Decision
+Substantial                                                      The review did authorize the preparation to continue
+
+
+
+
+Other Decision (as needed)
+
+B. Introduction and Context
+
+Country Context
+
+ 1.     Brazil's real GDP grew by 3.4 percent in 2024, driven by robust private consumption, bolstered by a tight labor
+ market and fiscal stimulus through expanded social transfers, and by recovering investment. The poverty rate declined
+ from 23.4 to 20.6 percent (US$8.30 per day, 2021 PPP) in 2024, supported by a strong labor market. GDP growth is
+ projected to moderate to 2.4 percent in 2025, as private consumption growth slows amid reduced government
+ transfers, and rising household indebtedness. Elevated interest rates and global uncertainty are expected to weigh on
+ investment and exports. Inflation is projected to gradually decline to 4.2 percent by 2027. Ensuring fiscal sustainability
+ remains a critical challenge. Despite efforts to raise revenues and contain spending, additional measures are needed to
+ reinforce fiscal credibility, while budget rigidity and the large share of indexed expenditures continue to limit policy
+ flexibility. Limited fiscal space will also constrain poverty reduction efforts, with the poverty rate expected to reach 19.9
+ percent by 2027. Brazil’s medium-term growth outlook is positive but constrained, with recent structural reforms
+ improving the business environment, the financial sector, and indirect taxation, and expected to raise potential output
+ to about 2.5 percent. However, achieving faster, more inclusive, long-term growth will require further reforms to
+ enhance competitiveness, reduce financial and market distortions, expand infrastructure investment, integrate into
+ global value chains, and improve the quality of education. A more adverse external environment, prolonged monetary
+ tightening, and slower-than-expected fiscal consolidation could undermine growth prospects and exacerbate debt
+ vulnerabilities.
+
+Sectoral and Institutional Context
+
+ 2.    Brazil’s persistent regional inequalities remain a core barrier to inclusive and sustainable development,
+ particularly in the North, Northeast, and Center-West regions. The North, Northeast, and Center-West regions,
+ together covering nearly 80 percent of the country’s territory and 43 percent of its population, remain structurally
+ disadvantaged compared to the South and Southeast in income, productivity, and access to infrastructure and basic
+
+                                                                                                                         Page 2
+
+
+
+                                                                                                                 Official Use Only
+         The World Bank
+         Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+  services. The North and Northeast are also at the lower end of the urbanization process, with around 77 percent of their
+  populations living in urban areas compared to 87 percent nationally, limiting economies of scale in service provision.
+  While Brazil has made significant progress in reducing poverty and expanding social services over the past two decades,
+  structural disparities endure. Rural poverty affects 38.7 percent of the population (more than double1, the urban
+  incidence) and in 2024 per capita household earnings in the Northeast were roughly half of those in the Southeast
+  (R$1,319 versus R$2,499)2. These gaps, rooted in historically concentrated industrialization and uneven public
+  investment, continue to hinder inclusive territorial development.
+  3.     Environmental and climate-related vulnerabilities further exacerbate structural inequalities in Brazil’s lagging
+  regions, but their persistence is linked to inadequate and inaccessible financing. Degradation, deforestation, and
+  drought already affect millions of livelihoods: 101 million hectares of pastureland—nearly two-thirds of Brazil’s total—
+  are degraded, with restoration costs estimated at R$116.1 billion3. The Northeast faces the highest drought exposure,
+  where projections indicate that by 2035 up to 20 million people could be at risk of severe water shortages. In the
+  Amazon, forest loss and fires are accelerating—fire outbreaks tripled in intensity over the past decade—while
+  biodiversity-rich bioeconomy value chains remain stunted, generating only US$2.4 billion in GDP and 340,000 jobs, far
+  below potential4.Although sustainable land use practices, climate-smart agriculture (CSA), and bioeconomy investments
+  yield high social and environmental returns, they are systematically underfunded because they require high upfront
+  costs, long payback periods, and involve risks unattractive to commercial lenders.
+  4.     These dynamics reveal a persistent financing gap across what can be conceptualized as Brazil’s “green” 5 and
+  “blue” investment agendas. On the green side, only 28 percent of farmers nationwide access credit through formal
+  financial institutions, while 72 percent rely on informal sources, self-financing, or trade credit. Smallholders and family
+  farmers—who dominate the North and Northeast—are particularly excluded: just 12 percent of farmers in these regions
+  access formal credit, compared to 30 percent in the Southeast. Formal credit programs such as Plano Safra6
+  disproportionately benefit larger, lower-risk farms in the South and Southeast, with 44 percent of credit volume
+  concentrated in large farms and 77 percent in short-term loans, leaving little space for long-term, transformative
+  investment.7 In the Legal Amazon, only 3 percent of Plano Safra credit supports low-carbon practices, meeting less than
+  half of the investment needed for a full transition to CSA. Weak enforcement of the Forest Code dampens demand for
+  restoration finance, although a carbon-driven restoration market is beginning to emerge. Mid-size bioeconomy firms
+  and forest concessionaires also face credit barriers due to limited guarantees, insufficient risk-mitigation tools, and
+  lenders’ weak understanding of their value chains and markets.
+  5.     On the blue side, water and sanitation and irrigation services face equally critical financing constraints.
+  Achieving the universal access targets set by the 2020 ‘Basic Water and Sanitation’ National Law8 requires scaling annual
+  investment from US$3 billion to US$18 billion, yet current flows remain closer to US$5 billion9 even with growing private
+
+1 IBGE, 2023. Síntese dos indicadores sociais (SIS).
+2 IBGE, 2025
+3 Laboratory of Image Processing and Geoprocessing (LAPIG), Pasture Atlas, 2023. For reference, based on the exchange rate reported by
+
+Bloomberg on September 30, 2025, 1 USD equals 5.33 Brazilian reais (BRL).
+4 Nobre, C.A. et al. (2023) New Economy for the Brazilian Amazon. São Paulo: WRI Brasil.
+5 For the purposes of this Project, the terms “green” and “blue” are used as follows: “green” denotes sustainable land-use investments—including
+
+(i) forest restoration value chains including forest concessions; (ii) bioeconomy value chains; and (iii) climate-smart agriculture (CSA) and other
+low-carbon agriculture practices. “Blue” denotes water-related investments—including (i) water supply, sanitation, and wastewater services (WSS);
+and (ii) irrigation infrastructure and services in concession or PPP arrangements.
+6 Plano Safra is the Brazilian government annual plan to support the agriculture sector through subsidized credit lines.
+7 World Bank, 2023. Brazil Rural Finance Policy Note
+8 Law n. 14,026. The law focuses on the service provision of water supply, sanitation, solid waste and drainage.
+9 SINISA, 2024
+
+
+
+                                                                                                                                              Page 3
+
+
+
+                                                                                                                                     Official Use Only
+        The World Bank
+        Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+  participation. The 2020 Basic Water and Sanitation law created incentives for private sector participation expecting to
+  address these financing gaps. Since then, private companies’ participation has substantially increased currently serving
+  almost 45 percent of Brazilians; and is expected to increase further with more concessions/Public Private Partnerships
+  (PPP) under way/planned. However, peri-urban and rural populations remain critically underserved: only 54 percent of
+  rural households in the Northeast and 13 percent in the North have access to basic water and sanitation. Irrigation
+  infrastructure also lags behind, and to boost production and regional development, the government has also fostered
+  private sector participation through concession projects for irrigated perimeters. National Water Resources and ‘Basic
+  Water and Sanitation’ Agency’s (Agência Nacional de Águas e Saneamento Básico - ANA) Irrigation Atlas highlights
+  opportunities to expand irrigated land especially in the Center-West and in specific States in the Northeast (Bahia and
+  Maranhão leading) but financing bottlenecks continue to constrain investment 10 .
+  6.     These persistent financing gaps reflect classic market failures that discourage private investment in socially
+  optimal sectors. High transaction costs, maturity mismatches, and risk–return asymmetries reduce the attractiveness
+  of green and blue investments, especially in lagging regions. Smallholders and family farmers lack collateral, long-term
+  uptake contracts, land titles, or credit histories to secure bank lending. Many bioeconomy and restoration activities have
+  long gestation periods and uncertain revenue streams, which are poorly aligned with banks’ preference for short-term
+  lending. Information asymmetries further deter lenders, who often lack technical expertise in bioeconomy, forestry or
+  CSA value chains. In water and sanitation, weak capacity among local service providers, challenging technical and
+  management solutions, and political risks associated with tariff adjustments discourage investment in underserved
+  territories. These failures perpetuate chronic underinvestment in activities with high social, environmental, and climate
+  resilience returns. Green and blue investments in lagging regions have typically higher costs due to lower availability of
+  qualified labor and poor infrastructure.
+  7.     Gender disparities exacerbate these financing and service gaps, with significant opportunity costs for inclusive
+  growth. Women play a central role in Brazil’s rural economy—85 percent engage in household farming and contribute
+  about 43 percent of family income11—yet remain structurally excluded from productive resources and leadership. Only
+  19 percent of agricultural establishments are women-led (23.2 percent in the Northeast; 19.4 percent in the North), and
+  just 10 percent of rural women access credit, compared to far higher rates for male farmers. Only 5 percent of rural
+  women benefit from technical assistance, limiting their participation in CSA adoption and bioeconomy value chains.
+  Service deficits also impose disproportionate time burdens: around 16 million rural women lack treated water, and 38
+  percent live without sewage collection, with the worst conditions in the North (40.7 percent) and Northeast (19.8
+  percent). These inequalities constrain women’s productivity, limit time for education or paid work, and restrict their
+  leadership roles in producer groups and cooperatives.
+  8.     The Ministry of Integration and Regional Development (Ministério da Integração e do Desenvolvimento
+  Regional – MIDR12) provides the institutional platform to address persistent financing gaps and advance Brazil’s
+  National Policy for Regional Development (PNDR13). MIDR oversees Brazil’s three Regional Development Funds—Fundo
+
+10 ANA’s Irrigation Atlas (2021) indicates that the irrigated area in Brazil covers 8,2 Mha (only 2.4% of which are public schemes); but would have the
+
+potential to increase additional 13,69 Mha of irrigated land.
+11 IBGE, 2017, Censo Agropecuario
+12 Key institutions related to the water sector are directly under MIDR, namely ANA; CODEVASF which is a state-owned enterprise responsible for
+
+promoting sustainable regional development in specific river valleys in the NE and NO, including a mission to expanding irrigated
+agriculture; and DNOCS which is a federal agency with a mission to promote sustainable development and water security in drought-prone regions,
+especially in the Northeast.
+13 Adopted in 2024, with the goal to promote the convergence of development levels and quality of life both within and between regions in the
+
+country, and to ensure equity in access to development opportunities in areas with low socioeconomic indicators (Decreto No 11.962, of March 22,
+2024).
+
+                                                                                                                                                  Page 4
+
+
+
+                                                                                                                                        Official Use Only
+        The World Bank
+        Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+  de Desenvolvimento da Amazônia (FDA), Fundo de Desenvolvimento do Nordeste (FDNE) established in 2001 and Fundo
+  de Desenvolvimento do Centro-Oeste (FDCO) established in 2009 to promote long-term investment in the country’s
+  least-developed regions.14 These funds are supervised and managed by their respective superintendencies: Amazon
+  Development Superintendency (Superintendência do Desenvolvimento da Amazônia - SUDAM), Northeast
+  Development Superintendency (Superintendência do Desenvolvimento do Nordeste - SUDENE), and Center-West
+  Development Superintendency (Superintendência do Desenvolvimento do Centro-Oeste - SUDECO). They are on-lent
+  through selected financial institutions, including Banco do Brasil (BB), Banco do Nordeste (BNB), and Banco da Amazônia
+  (BASA), among others. Funded primarily through a share of the Income Tax of Legal Entities (IRPJ), these funds aim to
+  reduce regional inequalities by financing infrastructure, basic services, and sustainable economic activities. Their
+  strategic focus spans sectors such as energy, logistics, water supply and sanitation, agribusiness, tourism, and
+  innovation, playing a key role in supporting economic diversification and social development in underserved areas.
+  9.     While the Regional Development Funds are central to Brazil’s territorial development strategy, their
+  transformative potential has not yet been fully realized. To date, impact has been tempered by limited capitalization,
+  fragmented project pipelines, and insufficient alignment with climate and biodiversity goals. While recent years have
+  seen annual allocations ranging from R$500 million to R$1.5 billion per fund, the 2025 combined budget is projected at
+  R$2.1 billion—well below demand, with proposed projects exceeding available resources sixfold. Operational
+  bottlenecks, including bureaucratic procedures, lengthy approval processes, and limited technical capacity at the local
+  level, have at times slowed disbursements and reduced incentives for private participation.15 In parallel, the absence of
+  systematic monitoring and evaluation mechanisms has constrained the ability to measure outcomes, ensure
+  accountability, and adapt strategies over time. In response, the MIDR is advancing governance reforms, notably through
+  Visão 360°, a centralized data platform that integrates project information with external indicators from the Brazilian
+  Institute of Geography and Statistics (Instituto Brasileiro de Geografia e Estatistica – IBGE), ANA, and other federal
+  systems. This initiative is expected to improve transparency, strengthen diagnostics, and enhance decision-making,
+  enabling the funds to mobilize private investment more effectively. By modernizing their operations, increasing its
+  management capacity, the funds will be better positioned to support transformative green and blue investments and
+  advance Brazil’s climate and sustainable development goals.
+  10. The proposed Project, to be implemented by MIDR, seeks to enhance private sector investments through
+  Brazil’s Regional Development Funds (FDA, FDNE, and FDCO) as catalysts for sustainable and inclusive territorial
+  development. The proposed operation will leverage the Regional Development Funds to expand access to long-term
+  credit for green (forestry, bioeconomy, CSA) and blue (water, sanitation, irrigation) investments, while streamlining
+  approval procedures and strengthening governance. By lowering private investment costs and harmonizing approval
+  and monitoring procedures16, the project will catalyze high-impact investments and enhance private-capital mobilization
+  in underserved territories.
+
+ Relationship to CPF
+
+14 Law No. 12.712 of August 30, 2012, and CMN Resolution No. 4.171 of December 20, 2012 for FDA and FDNE and Law No. 12.793/2013 for FDCO,
+
+established the conditions for the public financing of the Regional Development Funds with the goal to support infrastructure projects and sustainable
+development in these regions.
+15 In the past decade, even with authorization to proceed with the operation, about 50 percent of the applicants did not finalize the contract. The
+
+approval process for a credit operation by the Development Funds has a maximum timeframe defined to complete each phase (bringing the maximum
+time possible up to 710 days), Project developers that exceed those timelines to provide additional information must start over. On average approval
+process is much shorter, though varies based on the complexity of projects proposed Streamlining the steps to reduce approval times is currently
+being discussed with the client. AFD (2024). Diagnosticos dos Fundos de Desenvolvimento, FDA, FDNE, FDCO, Basehenge.
+16 This will be done in partnership with other Multilateral Development Banks.
+
+
+
+                                                                                                                                                 Page 5
+
+
+
+                                                                                                                                       Official Use Only
+        The World Bank
+        Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+
+
+  11. The proposed Project is aligned with the Country Partnership Framework (CPF) for Brazil CPF (FY24–FY28)17.. It
+  aligns with all three of the existing CPF Higher Level Objectives (HLOs) of: (a) greater productivity and employment; (b)
+  greater inclusion of the poor and underserved populations; and (c) greener economy with reduced vulnerability to
+  climate chocks.
+  12. The proposed project is Paris Aligned as it consistent with the country´s climate commitments reflected in its
+  new Nationally Determined Contribution (NDC), as well as the National Policy on Climate Change and supporting
+  plans in the forest, land use and agriculture sectors. Brazil´s new NDC (NDC 3.0)18, released in November 2024 at COP29
+  targets a 59–67 percent reduction in net GHG emissions by 2035 from 2005 levels, backed by the updated National
+  Climate Plan and instruments such as restoring 12 million hectares of degraded land (including forests and pastures) by
+  2030, alongside achieving zero illegal deforestation.19 In agriculture, the project will strengthen the Low-Carbon
+  Agriculture Program (ABC+ Program 2020-2030)20 and the National Program for Restoration of Degraded Pastures
+  (Caminhos Verdes - Nov 2023) to restore 40 million hectares. While momentum toward a more sustainable, inclusive
+  economy is growing, implementation is limited by subnational capacity, fragmented financing, and low private sector
+  participation. The project has been screened for climate and disaster risks; resilience measures will be defined before
+  appraisal. No mitigation or adaptation risks to Paris Alignment are identified at this stage.
+  13. The Project complements the WBG’s engagements on the climate agenda in Brazil. The WBG is advancing a
+  broad program in Brazil to bolster water security, sustainable growth, and climate action, building on longstanding
+  national and subnational engagement (e.g., Forest Code implementation, climate-smart agriculture, stronger water and
+  sanitation services, and sectoral pathways to net zero). The proposed Project complements ongoing WBG initiatives
+  with national development banks (Banco do Brasil, BNDES) on forest restoration and CSA; and with the Northeast
+  Consortium, MIDR, ANA and Northeastern states through the Integrated Regional Water Security Program ASA
+  (P502121) and MPA, in preparation (P511557). The WBG also supports multiple forest restoration, bioeconomy, CSA,
+  and productive landscape programs financed by the Forest Investment Program (FIP) under the Climate Investment
+  Program (CIF) and the Global Environment Facility (GEF), alongside partnerships with private firms in these areas. In
+  addition, land-use planning, environmental registries, and bioeconomy have become integral to several state-level
+  Investment and Policy Operations.
+  14. The project is compliant with the Maximizing Finance for Development (MFD) approach and contributes
+  towards Private Capital Mobilized (PCM) corporate scorecard indicator. Activities to build capacity of MIDR and
+  Superintendencies to analyze and monitor the financed sub-loans as well as to disseminate credit lines supported by
+  the Project and build a pipeline of bankable subprojects by private sector and Participating Public Development Banks
+  (PPDBs) under Component 2 are MFD-enabling in nature justifying the MFD-EP tag. Additionally, US$205 million in PCM
+  is expected in the form of equity co-financing from private companies to projects supported under Component 1 (US$
+  55 million) and contribution by the PPDB Banco do Brasil (US$ 167 million).
+
+ C. Proposed Development Objective(s)
+
+17 https://documents1.worldbank.org/curated/en/099031824151014222/pdf/BOSIB1a9c64a780861b8d01b824b30cdb50.pdf
+18 https://unfccc.int/sites/default/files/2024-
+
+11/Brazil_Second%20Nationally%20Determined%20Contribution%20%28NDC%29_November2024.pdf
+19 The Plans for the Prevention and Control of Deforestation in the Biomes (PPCDAm for the Amazon and PPCerrado for the Cerrado) and the
+
+National Plan for the Recovery of Native Vegetation (Planaveg).
+20 The Ministry of Agriculture has developed the Sectoral Plan for Adaptation to Climate Change and Low Carbon Emission in Agriculture (2020-2030)
+
+- ABC+, which focuses on sustainable, resilient, and productive agricultural systems as solutions for adaptation and mitigation. This includes practices
+like no-till farming, crop-livestock-forestry integration, and proper soil management.
+
+                                                                                                                                                   Page 6
+
+
+
+                                                                                                                                         Official Use Only
+        The World Bank
+        Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+
+ Expand access to finance to promote inclusive economic development and climate resilience in lagging regions of
+ Brazil.21 22
+
+
+  Key Results (From PCN)
+
+    PDO Theme                                                      PDO Indicator
+Expanding access to            Volume of subloans disbursed under the Project (cumulative, value in US$).
+finance                        Disaggregated by subloans targeted towards the bioeconomy, water security and CSA)
+Inclusive economic             Number of jobs created under the Project (cumulative, in number of jobs).
+development                    Disaggregated by gender and Indigenous/ traditional communities.
+Climate resilience             Area under enhanced conservation/management (hectares) – (ScoreCard)
+                               People provided with water, sanitation, and/or hygiene, and the number provided with
+                               safely managed services (ScoreCard)
+
+ D. Concept Description
+
+  15. The proposed Project is a Financial Intermediary (FI) loan designed to enhance the capacity of the Regional
+  Development Funds to finance inclusive and climate-smart investments in the North, Northeast, and Center-West. By
+  doing so, the Project also seeks to enhance the economic and climate resilience of targeted beneficiaries. The proposed
+  operation will be a US$500 million IBRD loan, potentially leveraging at least US$100 million of private capital financing.
+  It will be implemented over a 6-year period. The Project will leverage public and private financial resources to scale up
+  investment in support of Brazil’s sustainable development targets, particularly across land-based sectors including
+  water, agriculture, and forestry. It will enhance access to credit to promote income generation, job creation, climate
+  resilience, and social inclusion.
+  16. The structured financing mechanism will involve the US$500 million World Bank loan being on-lent by the
+  Federative Republic of Brazil, through MIDR lead by the National Secretary for Funds and Financial Instruments
+  (SNFI)23 as the Project Coordination Unit (PCU), to the three regional development funds—FDNE, FDA, and FDCO—
+  which are managed by their respective regional superintendencies (SUDENE, SUDAM, and SUDECO) acting as Project
+  Implementation Units (PIUs) responsible for sub-loan allocation. Financial products will then be channeled through
+  PPDBs meeting defined selection criteria24, that will act as financial intermediaries in delivering sub-loans. The operation
+
+
+21 The geographical scope of the project includes lagging areas within the North, Northeast, and Center-West regions of Brazil. In the Amazon region,
+
+it covers the states of Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins, and part of Maranhão. In the Northeast, it includes
+the states of Alagoas, Bahia, Ceará, Maranhão (overlapping with the Amazon region), Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Sergipe, as
+well as the northern areas of Minas Gerais and Espírito Santo, specifically municipalities located in the semi-arid zone. In the Center-West, the project
+encompasses the states of Mato Grosso (also part of the Amazon region), Mato Grosso do Sul, Goiás, and the Federal District.
+22 For the purposes of this Project, “inclusive economic development” denotes the prioritization of lagging regions (North, Northeast, and Center-
+
+West) and underserved populations, with a special focus on women-led enterprises and Indigenous Peoples and Communities (IPCs), through
+enhanced access to finance, employment, and basic services. “Climate resilience” refers to investments that reduce exposure and vulnerability to
+hydrometeorological stressors (e.g., drought), deforestation and land degradation dynamics, and deficits in water supply and sanitation, while
+strengthening adaptive capacity in productive systems. “Green investments” comprise forest restoration and concessions, bioeconomy value
+chains, and climate-smart agriculture (CSA). “Blue investments” comprise water supply, sanitation and wastewater services (WSS), and irrigation.
+23 Secretaria Nacional de Fundos e Instrumentos Financeiros
+24 The Project will be implemented through the main Public Development Banks of Brazil (Banco do Brasil, BNDES, Banco do Nordeste, Banco da
+
+Amazonia,), that are all already developing FI operations with the WB. Thus, FI assessment as well as ESF assessments have already been undertaken
+
+                                                                                                                                                    Page 7
+
+
+
+                                                                                                                                          Official Use Only
+        The World Bank
+        Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+  aims to close the persistent gap between demand for long-term credit and the limited availability of concessional
+  financing in specific regions and sectors. Investments will target green and blue sector investments.
+  17. A transparent, multi-stage subproject selection process will ensure the quality and alignment of financed
+  initiatives with the Project’s goals. Prospective borrowers will first engage in a preliminary consultation with the
+  Superintendencies, who will issue a framework agreement outlining conditions for project preparation. Upon receiving
+  authorization to proceed from the Superintendencies, borrowers will develop and submit full project proposals to a
+  PPDB. These proposals will undergo detailed assessments of economic and financial viability by the PPDB, including
+  technical, environmental and social risk assessments. Final approval will lead to a formal lending agreement. This
+  rigorous process is designed to maximize development impact and ensure effective use of funds.
+  18. Beneficiaries include private-sector actors, cooperatives, and local entrepreneurs (including women-led
+  enterprises and producer groups), who will access funding through regional development agencies (SUDAM, SUDENE,
+  SUDECO) and PPDBs. Direct beneficiaries also include accredited PPDBs, who receive an administration fee from the
+  sub-loans and are responsible for managing resources, assessing subproject proposals, and providing technical and
+  financial support; along with the regional superintendencies who receive a percentage of the sub-loans to supervise
+  sub-loan development. Indirect beneficiaries include workers in supported value chains, vulnerable communities
+  benefiting from jobs, income, improved infrastructure, access to potable water supply and sanitation, and Indigenous
+  Peoples and Traditional Peoples and Communities (TPCs) engaged in sustainable activities.
+  19. The proposed project consists of two components: (1) Credit lines and (2) Project Management.
+  20. Component 1: Credit lines (US$500 million IBRD, US$205 million private capital financing) 25. This component
+  will finance MIDR´s expansion of credits to the following lines: (i) Subcomponent 1: Credit line to the Amazon
+  Development Fund (US$ 200 million IBRD, US$ 22 million private capital financing); (ii) Subcomponent 2: Credit line to
+  the Northeast Development Fund (US$ 150 million IBRD, US$ 16 million private capital financing); and (iii)
+  Subcomponent 3: Credit line to the Center-West Development Fund (US$ 150 million IBRD, US$ 167 million private
+  capital financing). Eligible activities will target the following themes:
+     a. Green Finance. The Project will expand credit access for investments that strengthen sustainable land use and
+         reduce environmental pressures in Brazil’s lagging regions. Financing will target two priority areas: (i) Forest
+         restoration and concessions: sub-loans will support restoration on private lands and forest concessions, as well as
+         the industrialization of products derived from existing forest management concessions. By covering the full value
+         chain—planting, restoration, management, monitoring, and processing—these investments will foster viable,
+         long-term conservation practices and generate jobs in remote rural areas. (ii) Bioeconomy and Climate-Smart
+         Agriculture (CSA). Sub-loans will expand financing for local enterprises, cooperatives, and farmers engaged in
+         bioeconomy value chains—including non-timber forest products, fisheries, and ecotourism—while simultaneously
+         supporting the adoption of CSA practices across the North, Northeast, and Center-West. Eligible investments will
+         include productive technologies, processing, logistics infrastructure, and working capital to enhance value
+         addition and market access, as well as financing for soil health, biodiversity enhancement, emissions reduction,
+         and productivity improvements. Specific attention will be given to farmers with surplus Legal Reserve (Reserva
+         Legal, RL), incentivizing the conservation of native vegetation and rewarding sustainable land management. By
+
+
+
+for those PPDBs and this will be reflected during preparation and in the FI annex of the Project Appraisal Document. Selection criteria of PPDBs will
+be defined during preparation
+25 Lending terms will vary by project type, with financing covering 40% to 80% of eligible costs, in accordance with Resolução CMN nº 4.960/2021.
+
+The required co-financing is expected to mobilize additional public and private capital, including contributions from MDBs, constitutional funds, and
+domestic financial institutions.
+
+                                                                                                                                                Page 8
+
+
+
+                                                                                                                                      Official Use Only
+          The World Bank
+          Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+            easing upfront cost and risk barriers, the financing will enable a transformative shift toward low-carbon
+            production systems that integrate climate resilience with inclusive economic development.
+       b. Blue Finance. The Project will increase access to credit for private operators in the water supply, sanitation (WSS),
+            and irrigation sectors, which are critical to reducing regional service gaps and strengthening resilience to climate
+            change. Sub-loans for WSS investments will aim to advance universal access, with priority given to reaching last-
+            mile populations living in peri-urban and rural areas that remain excluded from service provision. Financing will
+            support infrastructure expansion, operational efficiency, and service quality improvements, contributing to the
+            targets established in the 2020 Basic Water and Sanitation Law. In irrigation, sub-loans will prioritize large-scale
+            private investments, with a particular focus on public irrigation schemes operated under concession arrangements
+            with the private sector. These investments will benefit both commercial and family farmers by modernizing
+            irrigation infrastructure, reducing vulnerability to drought, and improving water use efficiency. By combining
+            expanded WSS access with climate-resilient irrigation, the blue finance component will contribute to inclusive
+            territorial development, job creation, improved food security, and the sustainability of natural resource
+            management.
+     21. Under the proposed project, SUDENE, SUDECO, and SUDAM will assume the credit risk of eligible PPDBs which
+     will, in turn, assume the credit risk of the private sector borrowers. The financing will comprise a mix of investment
+     and working capital sub-loans, prioritizing investment, tailored to each target sector’s needs. Sub-loans will be
+     denominated in local currency, with the Federative Republic of Brazil bearing foreign exchange risk. Interest rates will
+     follow National Monetary Council Resolution 4,960 (2021), aligning with monetary conditions and regional development
+     needs.26 All participating PPDBs, private companies, and subprojects must meet eligibility criteria defined during
+     preparation and set out in the Project Operational Manual (POM), ensuring compliance with fiduciary, environmental,
+     social, and anti-corruption safeguards and the loan’s objectives. During preparation, roadshow and market assessments
+     will be carried out using Grant for Project Preparation (GFPP) funds to better inform project expected investments and
+     validate the existing bankable pipeline identified by MIDR and PPDBs.
+     22. Component 2. Capacity building and Project Management (MIDR: US$ 10 million27). Under this component, MIDR
+     and the Superintendencies will strengthen their capacities to analyze and monitor the financed sub-loans. Training and
+     capacity building will be supported during preparation through the GFPP assigned to MIDR (P181969), as well as the
+     improvement of Visao 360 monitoring platform. During implementation, the InterAmerican Development Bank (IADB)
+     who is developing a similar project with MIDR, has committed to finance institutional capacity building of MIDR and
+     Superintendencies. The component will also support engagement with private sector and PPDBs, to disseminate the
+     credit lines supported by the Project and build a pipeline of bankable subprojects. The PCU at SNFI/MIDR, supported by
+     the technical areas of the institution28, the regional development agencies, and the PPDBs, will comply with the terms
+     and conditions established in the Loan Agreement regarding financial management, E&S management, procurement,
+     monitoring and evaluation of Project activities, results monitoring, and other management related activities. MIDR will
+     develop management tools included in the POM, annual work plan, procurement plan, and disbursement projections,
+     project monitoring and reporting.
+
+
+
+
+26
+     https://www.bcb.gov.br/content/estabilidadefinanceira/especialnor/Resolu%C3%A7%C3%A3o4960.pdf
+27 To be further defined during preparation. Superintendencies receive 2 percent of the sub loans amount to manage project processing and 1.5
+
+percent of the sub loans repayments for research and development; PPDBs receive 0.2 percent and 2.5 percent of the sub loans to assess
+subproject proposal and supervise subproject implementation, respectively.
+28 With UNDP technical assistance support as well, funded with private capital mobilization, currently around BRL 3 million.
+
+
+
+                                                                                                                                           Page 9
+
+
+
+                                                                                                                                  Official Use Only
+     The World Bank
+     Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+2. Overall Risk and Explanation
+23. The overall Project risk is identified as Substantial. The key risks to successfully achieving the PDO of the proposed
+operation would be:
+24. Macroeconomic risks are rated as Substantial, arising mainly from the growth and monetary policy outlook.
+Inflationary pressures have motivated monetary policy tightening, which could dampen growth prospects, further raise
+the cost of finance, and reduce private sector and farmers’ appetite to invest in financed activities. These risks will be
+mitigated through the Federal Government assuming the exchange rate risk. Furthermore, during preparation meetings
+and workshops with potential investors will be organized to help build a bankable pipeline. In addition, during
+preparation options will be explored to try to: reduce sub loan processing time; customize sub loan financial terms by
+themes; study additional guarantee options; and improve PPBD’s administration fees.
+25. Implementation Arrangements are rated as Substantial. The assessment, management and monitoring of the
+sub-loans will be done through the three Superintendencies increasing the difficulty for MIDR to coordinate and compile
+all generated information. Furthermore, MIDR is developing other similar projects (though not on the same credit lines)
+with 3 other donors (IADB, New Development Bank - NDB and French Agency for Development – AFD), which will lead
+to a total increase of around 1.7 USD billion in the three Development Funds, increasing MIDR workload. To mitigate
+this risk, MIDR is fostering joint approaches between donors to align requirements (like ESF, and Financial Management).
+The GFPP attributed to MIDR will also help enhance its capacities, through training and will support the improvement
+of the Ministry’s tool to monitor the implementation of subloans – Visão 360, to facilitate and centralize the information
+and data the project will generate. IADB is committed to providing Technical Assistance to MIDR and its
+Superintendencies during implementation to strengthen their capacities to analyze and monitor sub-projects.
+26. Fiduciary risks are rated as Substantial. At this stage, the Financial Management Risk is assessed as Substantial
+mainly because (a) complex coordination among multiple financiers, with different eligibility criteria and timelines, and
+implementation units may cause compliance issues, risk oversight and lack of transparency; (b) fragmented
+responsibilities could hinder alignment of fiduciary and monitoring standards; (c) dual national and international
+compliance adds complexity and may cause delays; (d) varying institutional capacities may lead to inconsistent controls
+and a slowdown in sub-loan processing; and (e) sub-borrowers’ uneven capacity could increase costs, reduce sub-loan
+uptake, hampering PDO achievement.
+27. The proposed mitigation measures would be: (a) establish clear governance, roles, and procedures in a joint
+Operations Manual; (b) harmonize requirements and eligibility criteria in a compliance matrix and ensure transparent
+beneficiary selection; (c) appoint focal points and hold regular coordination meetings with standardized reporting; (e)
+the PIUs need to provide training and robust monitoring for sub-loan borrowers, with regular financial reporting; (f) use
+tiered support for sub-borrowers based on risk, leveraging technical assistance and grants; (vii) implement integration
+protocols and digital systems; (g) conduct regular audits and compliance reviews; and (h) adapt financial systems for
+dedicated accounts by funding source and expenditure.
+28. Based on the information available at this stage, the Environmental and Social risks are considered Substantial,
+from water and sanitation works, irrigation systems, and forest concessions. Key environmental concerns include waste,
+water pollution, air emissions, noise, soil erosion, and habitat disturbance; irrigation can lead to water depletion,
+salinization, and runoff, especially near dams; and bioeconomy and climate-smart agriculture may drive deforestation
+and soil degradation. Social risks include land-use change, potential physical and economic displacement, impacts on
+local, traditional, or Indigenous peoples, as well as social tension, labor influx, and SEA/SH risks. Most adverse effects
+are expected to be localized, temporary, and reversible, and can be mitigated by applying Good International Industry
+Practice, complying with Brazilian regulations, and leveraging the PPDBs’ robust ESMSs as tier-2 FIs.
+
+
+                                                                                                                     Page 10
+
+
+
+                                                                                                              Official Use Only
+      The World Bank
+      Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+ 29. To mitigate these risks, the borrower (MIDR), with World Bank support, will develop an Environmental and
+ Social Management Manual (ESMM) to guide E&S risk assessment and management. The ESMM will set principles,
+ rules, exclusion lists, and action plans to avoid, minimize, and mitigate adverse impacts and enhance positive outcomes;
+ define E&S requirements for PPDBs; assign obligations and responsibilities across implementation stages; ensure
+ consistent monitoring and reporting aligned with ESCP timelines. A Stakeholder Engagement Plan (SEP) will also be
+ prepared before Appraisal, incorporating procedures and channels from Development Fund operators and leveraging
+ the governance structures of SUDAM, SUDENE, SUDECO, and the Funds’ Deliberative Councils (FDA, FDCO, FDNE). These
+ Funds operate under legal frameworks requiring participatory annual plans reviewed and approved by Councils
+ representing government, private sector, and civil society, including worker organizations.
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                   Triggered?
+ Projects on International Waterways OP 7.50                                        No
+ Projects in Disputed Area OP 7.60                                                  No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Marie Caroline Paviot
+  Senior Agriculture Economist
+
+  Werner L. Kornexl
+  Senior Natural Resources Management Specialist
+
+  Juliana Menezes Garrido
+  Senior Water Supply and Sanitation Specialist
+
+ Borrower/Client/Recipient
+  Federal Government of Brazil
+
+ Implementing Agencies
+  Ministry of Integration and Regional Development MIDR
+
+
+
+                                                                                                                    Page 11
+
+
+
+                                                                                                             Official Use Only
+     The World Bank
+     Bioeconomy and Sustainable Regional Development project(P510383)
+
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Marie Caroline Paviot, Werner L. Kornexl, Juliana Menezes Garrido
+
+Approved By
+
+Practice Manager/Manager:             Erwin De Nys                           07-Oct-2025
+
+Country Director:                     Jorge A. Coarasa                       23-Oct-2025
+
+
+
+
+                                                                                                             Page 12
+
+
+
+                                                                                                      Official Use Only
+

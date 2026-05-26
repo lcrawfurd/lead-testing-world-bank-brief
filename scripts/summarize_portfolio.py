@@ -94,6 +94,10 @@ def main() -> int:
         country = p.get("Country") or ""
         name = p.get("Project_Name") or ""
         commitment = int(float(p.get("Total_Commitment_USD") or 0))
+        # Hybrid sector-percent-weighted commitment (from fetch_wb_projects.py).
+        # Used as the headline figure since unweighted overcounts projects
+        # where water is one of many sector tags.
+        weighted_commitment = int(float(p.get("Weighted_Commitment_USD") or 0))
 
         docs = manifest_by_pid.get(pid, [])
         table_pages = tables_by_pid.get(pid, [])
@@ -155,12 +159,14 @@ def main() -> int:
 
         totals[verdict] += 1
         totals["_usd"] += commitment
+        totals["_usd_weighted"] += weighted_commitment
 
         audit_rows.append({
             "project_id": pid,
             "country": country,
             "project_name": name,
             "commitment_usd": commitment,
+            "weighted_commitment_usd": weighted_commitment,
             "n_docs_scanned": len(docs),
             "lead_metal_keyword_hits": kw_lead_hits,
             "lead_rows_in_tables": len(lead_in_tables),
@@ -184,21 +190,23 @@ def main() -> int:
     with out_md.open("w") as f:
         f.write("# Portfolio Audit — Lead Testing in WB Water Projects\n\n")
         f.write(f"Total projects: **{len(audit_rows)}**   |   ")
-        f.write(f"Total commitment: **${totals['_usd']/1e9:,.1f} B**\n\n")
+        f.write(f"Weighted commitment to water: **${totals['_usd_weighted']/1e9:,.1f} B**   |   ")
+        f.write(f"(Unweighted: ${totals['_usd']/1e9:,.1f} B)\n\n")
         f.write("## Verdict distribution\n\n")
-        f.write("| Verdict | N projects | $ B |\n|---|---:|---:|\n")
+        f.write("| Verdict | N projects | Weighted $B | Unweighted $B |\n|---|---:|---:|---:|\n")
         usd_by_verdict = defaultdict(int)
+        wt_by_verdict = defaultdict(int)
         n_by_verdict = defaultdict(int)
         for r in audit_rows:
             usd_by_verdict[r["verdict"]] += r["commitment_usd"]
+            wt_by_verdict[r["verdict"]] += r["weighted_commitment_usd"]
             n_by_verdict[r["verdict"]] += 1
         for v in ["confirmed", "baseline-drinking", "baseline-only",
                   "effluent-only", "table-unclassified",
                   "mentioned", "absent", "no-docs"]:
             n = n_by_verdict.get(v, 0)
-            usd = usd_by_verdict.get(v, 0)
             if n:
-                f.write(f"| {v} | {n} | {usd/1e9:,.2f} |\n")
+                f.write(f"| {v} | {n} | {wt_by_verdict[v]/1e9:,.2f} | {usd_by_verdict[v]/1e9:,.2f} |\n")
 
         f.write("\n## Per-project details (sorted by commitment)\n\n")
         f.write("| Project | Country | $M | Docs | KW hits | Lead rows | Classes | Verdict |\n")
@@ -215,7 +223,8 @@ def main() -> int:
     print(f"Wrote {out_csv}")
     print(f"Wrote {out_md}")
     print(f"\nTotals: {dict((k,v) for k,v in totals.items() if not k.startswith('_'))}")
-    print(f"Total commitment: ${totals['_usd']/1e9:,.2f} B")
+    print(f"Weighted commitment: ${totals['_usd_weighted']/1e9:,.2f} B  "
+          f"(unweighted: ${totals['_usd']/1e9:,.2f} B)")
     return 0
 
 

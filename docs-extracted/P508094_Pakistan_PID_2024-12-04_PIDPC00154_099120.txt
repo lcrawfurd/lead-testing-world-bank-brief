@@ -1,0 +1,409 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Punjab Inclusive Cities Program(P508094)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                                Concept Stage | Date Prepared/Updated: 04-Dec-2024 | Report No: PIDPC00154
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Punjab Inclusive Cities Program(P508094)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                      Operation ID                  Operation Name
+                                                                                         Punjab Inclusive Cities
+Pakistan, Pakistan, Pakistan   SOUTH ASIA                  P508094
+                                                                                         Program
+Financing Instrument           Estimated Appraisal Date    Estimated Approval Date       Practice Area (Lead)
+Program-for-Results
+                               21-Apr-2025                 27-Aug-2025                   Urban, Resilience and Land
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               Local Government and
+                               Community Development
+Islamic Republic of Pakistan
+                               Department, Government
+                               of Punjab
+
+Proposed Program Development Objective(s)
+The Program Development Objective is to provide inclusive and sustainable WASH services in selected cities of Punjab.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Government program Cost                                                                                       900.00
+
+  Total Operation Cost                                                                                          480.00
+    Total Program Cost                                                                                       460.00
+    IPF Component                                                                                               20.00
+  Total Financing                                                                                               480.00
+
+  Financing Gap                                                                                                    0.00
+
+FINANCING
+
+
+                                                                                                                    Page 1
+        The World Bank
+        Punjab Inclusive Cities Program(P508094)
+
+
+
+    Total World Bank Group Financing                                                                                                   400.00
+      World Bank Lending                                                                                                              400.00
+    Total Government Contribution                                                                                                       80.00
+
+ @#&OPS~Doctype~OPS^dynamics@pidpfrconceptdecision#doctemplate
+Concept Review Decision
+The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+1. Poverty has increased slightly amid recent shocks, despite some economic stabilization. Pakistan made significant
+progress towards reducing poverty between 2001 and 2018 with the expansion of off-farm economic opportunities and
+increased external remittances. However, this has not fully translated into improved socio-economic conditions: over one-
+third of school-age children across Pakistan were found to be out of school; nearly two-thirds of those in school in FY24
+were learning deprived; and alarmingly high rates of stunting - 40 percent in FY23 - persist. Critical constraints, including
+recurrent fiscal and current account deficits, protectionist trade policies, unproductive agriculture, a difficult business
+environment, a heavy state presence in the economy, and a financially unsustainable energy sector, have remained largely
+unaddressed, leading to slow and volatile growth. COVID-19, 2022 floods, and economic volatility have worsened poverty,
+with an estimated 40.5% (US$3.65/day 2017 PPP) lower-middle income poverty rate in FY24, with an additional 2.6 million
+Pakistanis falling below the poverty line from the year before.
+2. Pakistan experienced heavy monsoon rains in 2022 leading to catastrophic and unprecedented flooding with
+enormous human and economic impacts. Roughly 33 million people were impacted, and many permanently displaced.
+More than 13,000 kilometers (km) of roads were destroyed, 2.2 million houses damaged, around 3.8 million hectares of
+crops were flooded, and an estimated 1.2 million livestock were killed. Limited access to input and output markets and
+temporary disruptions to supply chains subsequently drove up food prices and added to existing price pressures resulting
+from reduced agricultural yields and the global rise of food prices. The government’s Post-Disaster Needs Assessment1
+estimated that the need for rehabilitation and reconstruction is at US$16.3 billion.
+3. Pakistan has made recent progress towards macroeconomic stabilization, but risks remain high and faster
+sustained growth will require substantial reform. At the beginning of FY24, Pakistan's economy faced a potential
+economic crisis in the face of political uncertainty, global monetary policy tightening, and fiscal and external imbalances,
+that led to pressures on domestic prices and foreign reserves. To preserve reserves, measures to manage imports and
+capital outflows were introduced, which disrupted local supply chains, economic activity and exacerbated inflationary
+pressures. Under the interim government, an IMF Stand-By Arrangement was approved in July 2023. Consequently,
+exchange rate flexibility was restored, import controls were relaxed, and steps were taken to contain the fiscal deficit.
+Political uncertainty also diminished with the successful conduct of the general elections. Coupled with favorable weather
+conditions and easing external conditions, the economy began recovering in FY24. Consequently, growth of real GDP at
+factor cost is estimated to have risen to 2.5 percent y-o-y in FY24, after contracting by 0.2 percent in FY23. Downside risks
+
+1 Government of Pakistan. 2022. Pakistan Floods 2022 Post-Disaster Needs Assessment. Ministry of Planning Development & Special Initiatives.
+
+
+
+                                                                                                                                               Page 2
+        The World Bank
+        Punjab Inclusive Cities Program(P508094)
+
+
+remain high, with the outlook predicated on the new IMF-EFF program remaining on track, continued fiscal restraint, and
+additional external financing. Heavy banking sector exposure to the sovereign, domestic policy uncertainty, and
+geopolitical instability pose significant risks to the outlook. Robust economic recovery over the medium term will require
+the steadfast implementation of much broader fiscal and economic reforms.
+4. The 2022 Country Climate and Development Report (CCDR) highlights Pakistan’s severe climate vulnerability,
+ranking it among the top 10 most affected countries. Frequent droughts, floods, heat waves, and risks to coastal cities
+like Karachi from sea level rise and erosion increase development challenges and could reduce GDP by 18-20% annually
+by 2050.
+5. Pakistan also faces an unfinished agenda on human development, which compounds its structural macro fragility
+and creates a drag on the economy. The country’s Human Capital Index, is 41, meaning that a child born in Pakistan today
+will be 41 percent as productive when she grows up as she could be if she enjoyed complete education and full health.
+The stunting rate of children under five remains among the highest in the world at 40 percent. Evidence suggests that the
+lack of safely managed water supply, sanitation, and hygiene (WASH) services is partly responsible for this staggering loss
+of human potential.2
+Sectoral and Institutional Context of the Program
+6. Punjab is the most densely populated province in Pakistan with a large and rapidly growing urban population,
+which rose from 23 million in 1998 to 52 million in 2023. While Lahore, with 13 million people is the largest city, Punjab
+has 15 cities with populations over 500,000 and 40 cities over 200,000. While these intermediate cities are key drivers of
+Punjab’s economy, providing housing, jobs, and services, they remain underdeveloped due to infrastructure gaps and
+socioeconomic challenges.
+7. Pakistan’s stunting rate remains among the highest in the world and affects even those in the highest income
+quintiles.3 Poor Water, sanitation and hygiene (WASH) infrastructure is a key driver of this issue, as inadequate sanitation
+and exposure to contaminated water leads to recurrent infections and poor nutrient absorption in children, both of which
+contribute to stunting. While most urban households have access to toilets, there are major gaps in the networked
+sewerage services particularly in low-income areas and sewerage networks are poorly managed. There has been little
+progress on the safe treatment of wastewater, which has resulted in high concentrations of untreated fecal waste near
+human settlements and dangerous levels of bacterial contamination in surface and groundwater. Inadequate solid waste
+management (SWM) also contributes to water and air quality degradation, as it is often indiscriminately burnt within
+settlements or dumped into rivers, streams, sewers, and drainage networks.
+8. Many parts of Punjab are also vulnerable to climate change related risks with high exposure to extreme heat,
+flooding, and drought. Extreme heatwaves are expected to occur more frequently in its cities, and changes in precipitation
+seasonality, regularity, and extremes also create a higher risk of floods and drought with increased frequency and
+intensity. These risks are compounded by high rates of multidimensional poverty and weak coping capacity. Climate-
+induced displacement and declining water availability will exacerbate the pressure on WASH services in urban areas.
+9. Strengthening revenue performance at the provincial and local levels is critical to delivering core public services
+such as drinking water, sanitation, and solid waste management. Urban local governments (ULGs) and utilities are in a
+challenging financial position as operating costs for municipal services have surged while tariffs for these services have
+not kept pace. ULGs are subsequently highly reliant on taxes — particularly revenues from land and real estate — to
+service operating deficits and maintain services. In an increasingly constrained financial space, provincial and local
+
+2 Mansuri, Ghazala et al. 2018. When Water Becomes a Hazard: A Diagnostic Report on The State of Water Supply, Sanitation and Poverty in
+
+Pakistan and Its Impact on Child Stunting. WASH Poverty Diagnostic Washington, D.C.: World Bank Group.
+3 Pakistan Demographic and Health Survey 2017-18. Islamabad, Pakistan, and Rockville, Maryland, USA: NIPS and ICF. Compiled by World
+
+development Indicators.
+
+                                                                                                                                           Page 3
+        The World Bank
+        Punjab Inclusive Cities Program(P508094)
+
+
+governments will need to improve revenues significantly to continue to deliver and operate basic services. They will also
+need to take measures to enable private sector participation including authorizing regulatory environment, that will
+enhance private capital mobilization and enhance sustainability and scalability of services.
+ Relationship to CAS/CPF
+10. The proposed Punjab Inclusive Cities Program (PICP) is consistent with the World Bank Group (WBG) Country
+Partnership Strategy (CPS) FY15–19 for the Islamic Republic of Pakistan discussed by the WBG Board of Executive Directors
+on May 1, 2014 (Report No. 84645-PK) and extended to FY20 by the corresponding Performance and Learning Review
+dated May 18, 2017 (Report No. 113574). The preparation of the new Country Partnership Framework (CPF) was deferred
+in FY21 due to the COVID-19 crisis and paused in FY23 due to the 2022 floods. The new CPF is expected to be presented
+to the Board in FY25. The FY15–19 CPS objectives remain relevant, and this program contributes to Result Area 4:
+"Improving Service Delivery." It will lay out a longer-term engagement focusing on a select set of Pakistan's most daunting
+development challenges, including reducing child stunting through investments in safely managed WASH services. The
+PICP is consistent with and supports Pakistan's climate change strategies, including the National Water Policy (2018), the
+National Climate Change Policy (2021), the National Adaptation Plan (2022), and the Nationally Determined Contribution
+(2021), as well as the Pakistan Country Climate and Development Report.
+  Rationale for Bank Engagement and Choice of Financing Instrument
+
+11. PICP is the second phase in a 10-year Pakistan Urban WASH Services Multiphase Programmatic Approach (MPA),
+consisting of three phases. The first phase of the MPA aims to scale up safely managed WASH services in Karachi, Sindh,
+to reach 16 million people. PICP, as Phase 2, intends to target around 20 secondary cities in Punjab to reach 11.5 million
+people with safely managed WASH services, including SWM and stormwater drainage. The third phase will continue to
+support improved WASH services in Karachi.
+12. The PICP supports the government of Punjab’s key priorities by supporting increasing revenues, reducing stunting,
+and improving air quality. It builds on the achievements of the earlier initiatives4, including the ongoing Punjab Cities
+Program (PCP; US$200 million) which incentivized improved planning, resource management, transparency, and urban
+governance. PCP has delivered improved WASH services to 4.75 million citizens, operationalized new municipal e-
+governance systems, significantly enhanced own-source revenues in 16 ULGs, and commissioned wastewater treatment
+plants in 11 cities, among other investments. PICP will draw from global experience in strengthening urban governance,
+financing, institutional and service delivery systems, environment and social management. The PICP will build upon the
+robust learning agenda proposed in Phase 1 by enabling learning across provinces on water service provider reforms and
+hygiene behavioral change. It will support knowledge sharing, building on lessons from different institutional models in
+various contexts, particularly around PPP transactions that will be undertaken in phase 1.
+13. The proposed operation will be financed through a hybrid of Program for Results (PforR) and Investment Project
+Financing (IPF) instrument. The Government of Punjab (GoPunjab) has considerable experience with the PforR
+instrument, which has proven to be effective for managing conditional transfers and for strengthening institutions and
+country systems. The PforR modality provides a clear set of incentives to help reorient focus away from inputs and towards
+outcomes. The PforR will target improvements in delivery of WASH services, including SWM services. It will be
+complemented by an IPF window ($20 million) supporting technical assistance, investment preparation, and institutional
+strengthening of implementing agencies.
+ C. Program Development Objective(s) (PDO) and PDO Level Results Indicators
+
+
+
+4 The Punjab Municipal Services Improvement Project (US$ 50m IPF; 2006-2013), the Punjab Cities Governance Improvement Project (US$ 200m
+
+IPF with DLIs; 2012-2017); and the ongoing Punjab Cities Program (PCP).
+
+                                                                                                                                      Page 4
+         The World Bank
+         Punjab Inclusive Cities Program(P508094)
+
+
+
+    Program Development Objective(s)
+    14. PICP’s development objective is to provide inclusive and sustainable WASH services in selected cities of Punjab.
+
+    PDO Level Results Indicators
+    15. PDO Level Results Indicators are:
+       • People provided with WASH services, and the number provided with safely managed services (of which women).
+       • People provided with access to sustainable solid waste management including safe disposal (of which women).
+       • People provided with improved stormwater drainage systems to reduce flooding risks (of which women).
+       • WASH service providers with revenue from tariffs, taxes, and fees increased from baseline.
+    D. Program Description
+
+    PforR Program Boundary
+
+16. The GoPunjab is developing an extensive program for sustainable WASH services in Punjab, including the
+reorganization of WASH utilities.5 The GoPunjab has already launched the Suthra Punjab (Clean Punjab) program in 2024,
+which aims to provide effective end-to-end SWM services, from primary collection to sanitary disposal. Under the
+program, service areas of the eight waste management companies (WMCs) have been expanded to the entire division,
+with the mandate to collect household and commercial waste from all urban and rural areas in their respective divisions.
+A Safai Tax (cleanliness fee, as tariff for SW collection) has also been introduced with the expansion of services to improve
+financial sustainability of the program. The GoPunjab recognizes missing sanitary disposal facilities as a risk to the
+envisioned outcomes and plans to address this in phases with support from international partners. GoPunjab also aims to
+enhance provincial and local revenues to fund critical infrastructure and service delivery. The Revenue Mobilization
+Strategy currently under implementation envisages linking all taxes requiring property valuation to a single capital
+valuation table, while taking measures in parallel to bring the valuation table closer to market values, and moving to a
+progressive taxation approach as opposed to a flat tax. The Provincial Budget 2024-25 has implemented the shift in basis
+of UIPT valuation from annual rental value to capital value and announced an increase in stamp duty rate in urban areas
+to be effective from FY2026.
+17. PICP will support the implementation of GoPunjab’s investment program by: (i) sharpening the focus on critical
+results in water, sanitation, and SWM service delivery; (ii) supporting revenue enhancement targets; (iii) providing
+incentives to progressively move up the ladder of reforms that tackle core policy and institutional constraints in urban
+service delivery; (iv) supporting WASH investments in selected cities under the larger government program and
+expenditure framework; (v) strengthening institutions to manage complex environmental and social issues in investments
+such as wastewater and solid waste disposal; and (vi) strengthening government systems, building on past experience.
+18. The proposed PforR Program (‘P’, the Program; US$ 380 million) will support a subset of the GoPunjab’s program
+in participating cities focusing on three result areas: (i) climate resilient infrastructure and service delivery improvements;
+(ii) revenue enhancement; and (iii) institutional strengthening. Program funds will be used for works for selected
+municipal infrastructure and services under the Government program, including: (i) integrated water supply networks; (ii)
+sewerage networks and wastewater treatment facilities; (iii) stormwater drainage networks, nature-based solutions for
+flood control, and storage facilities; and (iv) SWM infrastructure for value recovery and sanitary disposal.
+
+
+5
+  A comprehensive WASH sector needs assessment is underway, including pre-feasibility studies of WASH investments for secondary cities. In
+parallel, the GoPunjab is also deliberating revisions to existing regulations for WASH sector institutions. The ongoing work will inform the design of
+a dedicated WASH sector investment program for secondary cities, which is scheduled to commence in fiscal year 2025-26.
+
+                                                                                                                                                  Page 5
+       The World Bank
+       Punjab Inclusive Cities Program(P508094)
+
+
+19. Program Result Areas. The Program will support three result areas: (i) Safely managed water services, (ii) Safely
+managed sanitation and hygiene services, and (iii) Institutional strengthening and financial sustainability. Around six
+Disbursement Linked Indicators will be developed.
+20. IPF Component on Technical Assistance and Institutional Strengthening; US$20 million: The IPF Component will
+assist GoPunjab to further develop its sector policy, strategy, and programs, strengthen its institutions and systems, and
+provide technical support to key provincial departments and urban agencies to deliver on Program targets and Program-
+related technical, fiduciary, social and environment management aspects, as well as Annual Independent Verification of
+the Program. It will also provide program management funds to the implementing agencies, as well as support an impact
+evaluation on poverty and stunting.
+ E. Initial Environmental and Social Screening
+
+21. The current Environmental and Social (E&S) risk for the Program is rated as Substantial. The Program will improve
+the quality and coverage of WASH services in selected cities. Given the absence of sanitary municipal waste disposal, PICP
+will support the development of one small-scale sanitary landfill site with the objective to demonstrate good practices
+and strengthen government’s systems and local capacity. While there are E&S risks associated with the demonstration
+landfill site, exclusion criteria will be developed during Program preparation for the selection of the land parcel for waste
+disposal, to ensure that the high E&S risk activities are excluded. The criteria for the selection of the site for the
+demonstration landfill will include, among other relevant E&S considerations: (1) situated away from densely populated
+urban centers, (2) no need for private land acquisition except for ensuring last mile connectivity, (3) no forced evictions in
+the past, (4) no history of legal proceedings and demonstrations, (5) no sensitive ecological receptors present, (6) any
+hazardous waste, if received, is in insignificant quantities. The selection criteria for the waste management company will
+also include a good track record on E&S. The design of the sanitary landfill will be in accordance with good international
+industry practice with proper lining, leachate and landfill gas collection, and management systems. Quantitative
+thresholds will be established to ensure compliance with the established criteria as already done in PCP, for interventions
+sensitive from an E&S perspective. A DLI will be developed to ensure implementation of E&S considerations. Experience
+gained and lessons learnt form the demonstration landfill will help GoPunjab in replicating it across the province.
+22. E&S management under the Program will be based on the existing legal, regulatory, and institutional system in
+Pakistan and the Punjab province and E&S core principles of the World Bank. The LG&CDD and PMDFC have successfully
+implemented water supply, sewerage including wastewater treatment, and drainage investments with several
+intermediate city governments under PCP. There will be no new land acquisition or forced evictions under the Program.
+However, private acquisition of small land parcels may be needed to ensure last mile connectivity of sub-projects covering
+the land needed for access roads, water and sewerage connectivity and other related uses. SOPs developed under PCP on
+land and resettlement will be updated and used for addressing such issues. Inclusion of low-income, marginalized, and
+vulnerable groups will be ensured, with stakeholder consultations throughout the life of the project. The Program will
+make efforts to enable their access to jobs, livelihood opportunities, and public services in order to mitigate potential
+adverse social impacts. Any locations which have been subjected to Anti-Encroachment Drives (AEDs) will be excluded
+from Program financing.
+23. An Environmental and Social Systems Assessment (ESSA) building on PCP’s ESSA will be conducted by the Task
+Team and disclosed, which will include stakeholder consultations. Program ESSA (building on the PCP ESSA) will assess
+E&S risks, analyze country systems, and propose measures to fill gaps between country E&S systems and Core Principles
+of PforR for the waste recovery facility and the demonstration landfill. While experienced WMCs are present in Punjab,
+they lack experience in landfill development and operation. Any investment proposals under the Program will be prepared
+through the IPF window. IPF funds will be used for technical feasibility, engineering design, detailed execution plans
+
+                                                                                                                         Page 6
+       The World Bank
+       Punjab Inclusive Cities Program(P508094)
+
+
+(covering construction, operations, and closure phases) and preparation of environmental and social impact assessments
+(ESIAs), which will be reviewed and publicly disclosed before investment appraisal and procurement for activities under
+the PforR window. An independent assessment of waste disposal infrastructure development and operations to ensure
+compliance with ESIAs and Environmental Health and Safety (EHS) guidelines for waste management facilities will be a
+mandatory requirement as part of the PAP.
+24. The ESIAs or Environmental and Social Management Plans (ESMPs) will address the environmental issues related to
+the design, construction, and operationalization of the proposed facilities including proper siting and containment/ design
+measures, OHS, solid and liquid waste management, gas emissions, and leachate generation. Social issues due to lack of
+meaningful engagement, exclusion of vulnerable and marginalized groups (including waste pickers) will be covered in the
+related instruments. The ESIAs/ESMPs will also include an assessment of potential Sexual Exploitation and Abuse or Sexual
+Harassment (SEA/SH) risks. For local communities in the vicinity of the demonstration landfill site, a careful assessment of
+risks and impacts pertaining to community health and safety and any potential livelihood impacts will also be undertaken
+and specific instruments prepared accordingly.
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                          No
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component
+
+
+25. The E&S risk rating for the IPF Window is Substantial due to the engineering design and ESIAs of potential waste
+treatment and disposal investments, including the demonstration landfill, which are considered substantial-risk
+investments. Other activities will likely have moderate residual risks. The Environmental and Social Framework (ESF) will
+apply to activities funded by the IPF Windows. Existing grievance redress systems of the main implementing agencies will
+be strengthened. E&S analysis and risk management measures, including stakeholder engagement and consultations, will
+be incorporated in the Terms of Reference of key TA activities.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Amena Raja
+   Senior Urban Specialist
+
+ Borrower/Client/Recipient
+  Islamic Republic of Pakistan
+
+
+
+                                                                                                                        Page 7
+    The World Bank
+    Punjab Inclusive Cities Program(P508094)
+
+
+Implementing Agencies
+ Local Government and Community Development Department, Government of Punjab
+ Nabeel Ahmed Awan
+ Chairman, Planning and Development Board
+ chairman@pndpunjab.gov.pk
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+
+
+                                                                               Page 8
+

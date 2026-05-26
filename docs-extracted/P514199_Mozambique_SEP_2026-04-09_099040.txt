@@ -1,0 +1,2345 @@
+Public Disclosure Authorized
+
+                                             REPUBLIC OF MOZAMBIQUE
+                                      MINISTRY OF PLANNING AND DEVELOPMENT
+
+
+
+
+Public Disclosure Authorized
+                                Northern Mozambique Social Cohesion
+                               Community Resilience for Jobs Program –
+                                            (P514199)
+
+
+
+
+Public Disclosure Authorized     Stakeholder Engagement Plan (SEP)
+
+
+
+
+Public Disclosure Authorized
+                                                APPRAISAL VERSION
+
+
+
+                                                   March 2026
+
+
+
+
+                                                                             Official Use Only
+Table of Contents
+1 INTRODUCTION ............................................................................................................ 1
+1.1 Country and sector context .......................................................................................... 1
+1.2 Project description ........................................................................................................ 1
+  1.2.1 Program targeted area.................................................................................................. 1
+  1.2.2 Program components ................................................................................................... 2
+2 OBJECTIVE OF THE SEP ............................................................................................. 6
+3 STAKEHOLDER IDENTIFICATION AND ANALYSIS ........................................... 6
+3.1 Methodology .................................................................................................................. 6
+3.2 Affected parties ............................................................................................................. 7
+3.3 Other interested parties ................................................................................................ 9
+3.4 Disadvantaged/vulnerable individuals or groups .................................................... 10
+4 STAKEHOLDER ENGAGEMENT PROGRAM ....................................................... 11
+4.1 Summary of stakeholder engagement undertaken during program preparation 11
+4.2 Summary of program stakeholder needs and methods, tools and techniques for
+stakeholder engagement ........................................................................................................ 20
+4.3 Proposed strategy to incorporate the views of vulnerable groups ......................... 23
+5 RESOURCES AND RESPONSIBILITIES FOR IMPLEMENTING
+STAKEHOLDER ENGAGEMENT .................................................................................... 24
+5.1 Implementation arrangements and resources .......................................................... 24
+6 GRIEVANCE MECHANISM ....................................................................................... 26
+6.1 Description of Grievance Mechanism (GM)............................................................. 26
+7 MONITORING AND REPORTING ............................................................................ 30
+7.1 Summary of how SEP will be monitored and reported upon ................................. 30
+7.2 Reporting back to stakeholder groups ...................................................................... 31
+ANNEX 1: TEMPLATE TO CAPTURE CONSULTATION MINUTES ....................... 32
+ANNEX 2: SAMPLE GRIEVANCE REGISTRATION FORM....................................... 32
+ANNEX 3: SAMPLE TABLE: MONITORING AND REPORTING ON THE SEP ..... 34
+ANNEX 4: LIST OF PARTICIPANTS IN PROGRAM PREPARATION
+CONSULTATIONS ............................................................................................................... 36
+
+List of Tables
+Table 1: Program components ................................................................................................................ 2
+Table 2: Stakeholders categorization ...................................................................................................... 7
+Table 3: Identified affected parties ......................................................................................................... 8
+Table 4: Other interested parties identified ............................................................................................. 9
+Table 5: Identified disadvantaged/vulnerable individuals or groups .................................................... 10
+Table 6: List of stakeholders’ engagement done during program preparation ..................................... 12
+Table 7: Summary of program stakeholder needs and methods, tools and techniques for stakeholder
+engagement ........................................................................................................................................... 21
+Table 8: Vulnerable groups and proposed techniques for consultation ................................................ 23
+Table 9: Budget for the implementation of SEP ................................................................................... 25
+Table 10: Description of GM steps ....................................................................................................... 28
+
+
+
+
+                                                                            i
+
+
+
+                                                                                                                                                  Official Use Only
+List of Acronyms
+ADIN        Northern Integrated Development Agency
+ANOP        National Administration of Public Works
+AQUA        Environmental Quality Agency
+CCPs        Community Fisheries Councils
+CERC        Contingent Emergency Response
+CFs         Community Facilitators
+CGRN        Sustainable Management of Natural Resources Committee
+CoC         Code of Conduct
+CoEs        Centers of Excellence
+CSOs        Civil Society Organizations
+DIT         District Implementation Team
+DLDPs       District Local Development Plans
+DNDEL       National Directorate for Local Development
+DNPDI       National Directorate for Promotion of Integrated Development
+DPAE        Provincial Directorate of Economic Activities and Environment
+DPAP        Provincial Directorate of Agriculture and Fisheries
+DPEDH       Provincial Directorate of Education and Human Development
+DPOP        Provincial Directorate of Public Works
+DPSAS       Provincial Directorate of Health and Social Action
+DPTOT       Provincial Directorate of Land and Territorial Planning
+E&S         Environmental and Social
+ESCP        Environmental and Social Commitment Plan
+ESF         Environmental and Social Framework
+ESHS        Environmental, Social, Health and Safety
+ESIA        Environmental and Social Impact Assessment
+ESMP        Environmental and Social Management Plan
+ESS         Environmental and Social Standard
+FAO         Food and Agriculture Organization
+FCV         Fragility, Conflict, and Violence
+GALS        Gender Action Learning System
+GBV         Gender-Based Violence
+GDP         Gross Domestic Product
+GM          Grievance Mechanism
+GRS         Grievance Redress Service
+
+
+                                                ii
+
+
+
+                                                                            Official Use Only
+IDPs     Internally Displaced Persons
+INGD     National Institute for Disaster Management
+IOM      International Organization for Migration
+LCC      Locality Consultative Councils
+LMP      Labor Management Procedures
+MAAP     Ministry of Agriculture, Environment and Fisheries
+M&E      Monitoring and Evaluation
+MD       Ministry of Defense
+MGCAS    Ministry of Gender, Children and Social Action
+MI       Ministry of the Interior
+MMMR     Mozambican Rural Women’s Movement
+MOPHRH   Ministry of Public Works, Housing and Water Resources
+MPA      Multiphase Programmatic Approach
+MPD      Ministry of Planning and Development
+MISAU    Ministry of Health
+NRCF     Northern Regional Consultative Forum
+NGOs     Non-Governmental Organizations
+O&M      Operation and Maintenance
+OHS      Occupational Health and Safety
+PAD      Project Appraisal Document
+PASP     Productive Social Action Program
+PCU      Project Coordination Unit
+PCR      Savings and Revolving Credit Groups
+PPT      Provincial Project Team
+PREDIN   Programa de Resiliência e Desenvolvimento Integrado do Norte
+PWD      Persons with Disabilities
+RAP(s)   Resettlement Action Plan(s)
+SA       Social Assessment
+SC       Steering Committee
+SDAE     District Services for Economic Activities
+SDEJT    District Education, Youth and Technology Services
+SDPI     District Planning and Infrastructure Services
+SDSMAS   District Health, Women and Social Action Services
+SEA/SH   Sexual Exploitation and Abuse / Sexual Harassment
+SEP      Stakeholder Engagement Plan
+SMS      Short Message Service
+
+                                            iii
+
+
+
+                                                                        Official Use Only
+UNICEF   United Nations Children’s Fund
+UNOPS    United Nations Office for Project Services
+WB       World Bank
+WFP      World Food Programme
+WHO      World Health Organization
+
+
+
+
+                                           iv
+
+
+
+                                                      Official Use Only
+1     INTRODUCTION
+1.1      Country and sector context
+Mozambique is a natural resource-based country experiencing high poverty and inequality rates. An
+estimated 81 percent of Mozambique’s 33 million population live under the international poverty line
+of US$3 per-day. The benefits of the economic boom and peace dividend that followed the end of the
+civil war in 1992 were not distributed in an inclusive manner and growth has since been derailed by a
+series of shocks, including the hidden debt crisis (2016), the escalation of insurgency in Northern
+Mozambique (since 2017), cyclones (such as Idai and Kenneth in 2019, and Freddy in 2023), and the
+COVID-19 pandemic (2020-2022). Real Gross Domestic Product (GDP) contracted 2.4 percent year-
+on-year in the first half of 2025, mainly due to declines in industry and services1. Within this context,
+Mozambique is experiencing multiple and interconnected fragility challenges, particularly in the
+Northern Region.
+
+The lack of basic services and community infrastructure has been exacerbated in northern Mozambique
+as a result of the violent extremist attacks and cyclones, further restricting livelihood and economic
+opportunities for already vulnerable communities. The destruction of infrastructure and economic assets
+has widened the existing urban-rural infrastructure gap in Cabo Delgado. Schools, health units, water
+systems, and other public and private infrastructure and services have been closed, severely damaged,
+or destroyed and the influx of IDPs adds pressure on already-stretched services. While the government
+launched recovery efforts in the south and reconstruction actions in the North of Cabo Delgado, violent
+extremist attacks resumed in mid-2024 and escalated to districts in northern Nampula and eastern
+Niassa, generating a new wave of displacements and destruction of public and private infrastructure.
+This has exacerbated grievances related to the lack of access to public services and jobs in the region.
+
+It is in this context that the Government of Mozambique, with the support of the World Bank, is
+preparing the Northern Mozambique Social Cohesion Community Resilience for Jobs Program for the
+northern region of Mozambique, provinces of Cabo Delgado, Nampula, and Niassa. This document
+presents the Stakeholder Engagement Plan (SEP) prepared as part of the required Environmental and
+Social (E&S) documentation for Northern Mozambique Social Cohesion Community Resilience for
+Jobs Program (P514199).
+
+Stakeholder engagement under this Program will be guided by the Mozambican Constitution, which
+guarantees citizens’ rights to participation in public life, as well as national decentralization frameworks
+and environmental regulations that require public consultation for development interventions. The SEP
+is designed to be consistent with these national requirements while meeting the World Bank ESF,
+particularly ESS10.
+
+1.2      Project description
+The Program Development Objective is to strengthen community and government collaboration and
+improve economic inclusion and access to resilient infrastructure in northern Mozambique. The
+Northern Integrated Development Agency (ADIN) will be the main coordinating entity of the activities
+at the regional level, across the three provinces. The Northern Mozambique Social Cohesion
+Community Resilience for Jobs Program is being prepared under the World Bank’s Environment and
+Social Framework (ESF).
+
+1.2.1      Program targeted area
+
+Program beneficiaries are local communities across Cabo Delgado, Nampula, and Niassa provinces, as
+well as district and province authorities. Women, men, youth, IDP, returnees, and host communities
+across the 56 districts will be provided with new and improved resilient community infrastructure, while
+
+
+1 WB (2026). Northern Mozambique Social Cohesion Community Resilience for Jobs Project (P514199). Project Concept Note (PCN).
+
+                                                                       1
+
+
+
+                                                                                                                                Official Use Only
+communities in ten districts2 in Cabo Delgado province will also benefit from rehabilitated and new
+public infrastructure. New and existing women and youth socio-economic enterprises across the three
+provinces will benefit from grants to develop and implement their business plans, and youth in selected
+districts will be provided with skills and job placement services. Communities in targeted districts will
+benefit from GBV prevention activities and strengthened GBV response services. All northern district
+(56) and province (3) authorities will benefit from technical assistance and training in participatory local
+development and economic enterprise development, and hands-on operational support in areas of
+procurement and environmental and social risk management, as well as financial management,
+monitoring and evaluation (M&E), and grievance redress.
+
+1.2.2 Program components
+
+The Northern Mozambique Social Cohesion Community Resilience for Jobs Program comprises the
+following five (5) components as described in the table below.
+
+                                               Table 1: Program components
+
+    Component                                Key Sub-component
+    Component 1: Strengthening               Sub-component 1.1: Mobilizing dialogue forums (US$2 million).
+    Community and Government                 This sub-component will activate the NRCF to become a dynamic
+    Collaboration (US$7 million)             and inclusive semi-annual northern cross-province dialogue forum,
+                                             where the governors from the three provinces and government and
+                                             community representatives from the districts will jointly discuss
+                                             and monitor the implementation of provincial development
+                                             strategies. The project will finance the cost of meetings and
+                                             workshops, as well as exchanges within the region. The project will
+                                             also support the development of a communication strategy to
+                                             ensure that the objectives of the dialogue forums and the process
+                                             of constituting them and selecting participants is clearly
+                                             communicated to all stakeholders as a way of building complicity
+                                             and ensuring transparency. The sub-component will also activate
+                                             provincial observatories (one in each northern province) that will
+                                             bring together district government and community representatives
+                                             to monitor the implementation of district development strategies;
+                                             and mobilize existing and new district-level Consultative Councils
+                                             to facilitate regular dialogue between the districts and community
+                                             groups and between different groups at the community level, by
+                                             financing their operating costs and training. The Project Operations
+                                             Manual will specify the level of representation and role of
+                                             communities in these forums and establish protocols for
+                                             transparent and accountable decision-making processes.
+
+                                             Sub-component 1.2: Developing District-level Development Plans
+                                             (US$5 million). This sub-component will finance the incorporation
+                                             of climate resilience considerations into MPD’s 2025 participatory
+                                             planning and budgeting tool and provide training to district,
+                                             provincial, and central project teams on its use. Under the oversight
+                                             of the National Directorate for Planning (DNP), the District
+                                             Implementation Team (DITs), with the support of Community
+                                             Facilitators (CFs), will engage with the selected localities to carry
+                                             out a community mapping exercise to identify needs, and develop
+                                             community projects (one per locality) that answer key needs, to be
+
+2
+    Balama, Chiúre, Muidumbe, Meluco, Mecufi, Metuge, Mocimboa da Praia, Montepuez, Namuno, and Palma.
+                                                                2
+
+
+
+                                                                                                              Official Use Only
+Component                     Key Sub-component
+                              financed under sub-component 3.1 within a financing envelope
+                              determined by the locality’s population size. Consultative
+                              committees of elected representatives of IDPs, host communities,
+                              returnees, men, women, youth, and people with disabilities will
+                              identify the projects. The selected projects will prioritize creating
+                              jobs and facilitating engagement with the private sector and
+                              address issues of accessibility, manpower, power sources, and
+                              availability of local skills and services to ensure projects’ viability.
+                              Each project will include an operation and maintenance (O&M)
+                              plan specifying the revenue source used to sustain the investments.
+                              The projects will be compiled into District-level Development
+                              Plans (DLDPs) to be reviewed and approved by the District
+                              Executive Committee, headed by the District Administrator, who
+                              will ensure that projects reflect recorded community needs, are
+                              eligible, viable, and sustainable, are aligned with the financial
+                              envelope, do not have negative impacts on neighboring localities,
+                              and create local jobs. The approved DLDPs will be endorsed by
+                              the provincial government. The CFs will be competitively
+                              recruited as volunteers, trained by the district teams, and provided
+                              with stipends and communication tools to coordinate the mapping
+                              exercises. The Project Operations Manual will outline transparent
+                              and inclusive project selection and approval processes.
+Component 2: Improving Sub-component 2.1: Supporting cash-for-work, youth upskilling,
+Access      to      Economic and women and youth socio-economic enterprises (US$20
+Opportunities and Jobs (US$22 million). This component will finance:
+million))
+                              a. Cash-for-work support to vulnerable people (US$8,000,000):
+                                  This sub-component will provide cash transfers and
+                                  livelihoods support to the most vulnerable households in the
+                                  56 districts to mitigate welfare shocks, stabilize household
+                                  consumption, and promote economic inclusion, while
+                                  mitigating risks of recruitment to violent extremism. Cash
+                                  transfers will also reduce people’s reliance on climate-
+                                  sensitive and environmentally degrading practices, including
+                                  charcoal production, wood extraction, bush burning for
+                                  hunting, and unsustainable fishing, particularly in coastal and
+                                  riverine districts. The design and implementation of this
+                                  intervention will build on the model of the World Bank
+                                  Productive Social Action Program (PASP), a package that
+                                  includes a mix of public works, basic training, and economic
+                                  inclusion components. The Project Operations Manual will
+                                  provide adaptations to the PASP model, informed by local
+                                  conflict and political economy analysis and social inclusion
+                                  considerations to ensure equitable access to resources, to avoid
+                                  exacerbating tensions, prioritizing women and youth, and to
+                                  strengthen community resilience. This intervention will
+                                  strengthen Mozambique’s social protection systems, such as
+                                  targeting tools, existing registry of vulnerable families, digital
+                                  payments mechanisms, and others, in consideration of the
+                                  fragile context and by stabilizing incomes, the intervention will
+                                  reduce pressure on natural resources and support more
+                                  sustainable livelihood strategies. This sub-component will use
+
+                                                  3
+
+
+
+                                                                                                  Official Use Only
+Component   Key Sub-component
+               strategic partnerships      with    third-party   providers   for
+               implementation.
+
+            b. Youth upskilling (US$4,000,000): SICsCenters of Excellence
+               (CoEs) - one in each province—such as tertiary technical
+               colleges or universities, will deliver technical and vocational
+               training, technology skills courses, artisanal courses,
+               mentorship, and certification guidance to youth in professions
+               relevant to local market demand. The SICCoEs will also
+               provide training to participating youth on climate risk
+               management, resilient business practices and integration of
+               resilience measures into business plans. The Project
+               Operations Manual will define transparent, inclusive, and
+               conflict-sensitive procedures for beneficiary identification and
+               selection.
+
+            c. Support to women and youth socio-economic enterprises
+               (US$8,000,000): The project will provide grants to existing
+               women and youth enterprises to, inter alia, implement their
+               business plans, expand operations, and generate employment
+               opportunities, including for youth graduating from the
+               SICCoEs. The grants will help enterprises integrate measures
+               to reduce their climate risks, such as basic planning for floods,
+               droughts, or other disruptions that may affect their operations.
+               The grant amount will be split evenly between women
+               enterprises and youth/people with disabilities enterprises. A
+               grants manual will specify eligibility criteria and a
+               transparent application process that mitigates risks of elite
+               capture.
+
+            Youth upskilling and support to socio-economic enterprises will be
+            informed by a market needs assessment to be carried out in
+            consultation with private sector actors, including from the LNG
+            industry, to determine the existing and future economic
+            opportunities and market access and thus ensure viability and
+            sustainability of the skills provided and enterprises supported.
+
+            Sub-component 2.2: Providing GBV and psycho-social support
+            services (US$2 million). This sub-component will focus on GBV
+            prevention and response through an integrated package of
+            awareness raising and community engagement activities to make
+            sure that trauma survivors are in a better position to participate in
+            economic activities. Targeted social and behavior change
+            communication campaigns on GBV, sexual and reproductive
+            health, and mental health will be implemented across the three
+            provinces using theater, radio, and printed materials,
+            complemented by community engagement through the GALS and
+            other psycho-social support programs in districts with high IDP
+            populations to address underlying drivers of GBV. The project will
+            strengthen existing district and community level structures to
+            improve GBV prevention, referral, and response by reinforcing the
+            capacity of community-based mechanisms and strengthening
+            coordination and referral pathways with formal service providers
+                            4
+
+
+
+                                                                             Official Use Only
+Component                        Key Sub-component
+                                 to ensure timely access to medical, psycho-social, and legal
+                                 support. Implementation will be carried out in close coordination
+                                 with the Capacity Building for Improved GBV Response Project
+                                 (P502471) to ensure alignment and leverage ongoing capacity
+                                 building and system strengthening efforts at district and
+                                 community levels.
+Component 3: Improving           Sub-component 3.1: Providing climate resilient community
+access to climate resilient      infrastructure (US$20 million). This sub-component will finance
+infrastructure (US$66 million)   the design, development/rehabilitation, and supervision of the
+                                 community infrastructure projects selected by the communities
+                                 under sub-component 1.2, and preferably ones that enable the
+                                 participation of community members in labor and monitoring, as
+                                 financed under sub-component 2.1. The design of the infrastructure
+                                 will be carried out by the relevant district departments with the
+                                 support of the provincial Public Works Department and ANOP,
+                                 while the tendering will be done by the district secretaries under
+                                 the leadership of the District Permanent Secretary.
+
+                                 Sub-component 3.2. Providing climate resilient public
+                                 infrastructure (US$46 million). This sub-component will finance
+                                 the construction, rehabilitation, and supervision of climate resilient
+                                 public infrastructure works that were prioritized by the government
+                                 under the Northern Crisis Recovery Project (NCRP, P176157) to
+                                 serve IDPs in relocation sites, host communities, and returnees in
+                                 ten districts in Cabo Delgado.14 The infrastructure includes
+                                 administrative post headquarters offices, locality secretariat
+                                 offices, primary and secondary schools, health centers, district
+                                 hospitals, houses for teachers, nurses, and doctors, community
+                                 markets, multipurpose social spaces, and a water supply system.
+                                 The sub-component will also finance the supervision of works and
+                                 assessment of damage and vulnerabilities of public infrastructure
+                                 in Niassa and Nampula provinces, and the preparation of bidding
+                                 documents for the works by ANOP, for financing by Phase II.
+                                 ADIN, in collaboration with ANOP and the provinces, will lead
+                                 the implementation of this sub-component, while ANOP will
+                                 provide technical designs and quality assurance to ensure resilient
+                                 construction. Works will engage community members as laborers
+                                 to enhance participation, ownership, and accountability, and to
+                                 provide employment. Following completion, infrastructure under
+                                 this sub-component will be handed over to the respective
+                                 provincial and district authorities for service delivery to local
+                                 populations, with support from active World Bank operations in
+                                 the north.
+
+                                 Income generated through employment under sub-components 3.1
+                                 and 3.2 is expected to reduce dependence on natural resource
+                                 extraction. Wages will enable households to access more durable
+                                 and climate-resilient construction materials, reducing the use of
+                                 locally sourced materials and contributing to more resilient
+                                 housing practices.
+Component 4: Improving           This component will finance the operating costs of an ADIN-
+Project Management and           housed Program Coordination Unit (PCU), Provincial Project
+Coordination and Financing a     Teams (PPTs) and DITs that will coordinate and manage the
+                                                 5
+
+
+
+                                                                                                   Official Use Only
+    Component                      Key Sub-component
+    Learning Agenda (US$5          project from fiduciary, E&S risk management, grievance redress,
+    million).                      and M&E perspectives. It will also finance the incremental
+                                   operating costs of a Steering Committee (SC) and the regional and
+                                   district dialogue forums and the costs of communication activities.
+                                   The component will also support the development of a climate
+                                   finance roadmap for MPD’s National Directorate of Climate
+                                   Finance to secure climate finance for the Northern Region to
+                                   further enhance community resilience. Finally, this component will
+                                   finance capacity evaluations, impact assessments, perception
+                                   surveys, and localized needs assessments in support of the
+                                   program’s learning agenda. The component’s costs reflects these
+                                   expenses and the expected elevated costs of work in remote and at-
+                                   risk areas.
+    Component 5: Contingent        This component will enable access to rapid financing by providing
+    Emergency Response (CERC)      for a possible reallocation of uncommitted project funds in the
+    (US$0)                         event of a natural disaster, either by a formal declaration of
+                                   emergency by the national or provincial government or upon a
+                                   formal request from the Government of Mozambique. A CERC
+                                   Manual and an Emergency Action Plan will be prepared separately
+                                   and approved by the World Bank, which will constitute a
+                                   disbursement condition for the CERC. If this component is
+                                   activated, the project will be restructured to reallocate funds, and
+                                   to revise the PDO, indicators, and implementation arrangements as
+                                   needed. The CERC activities will be carried out in accordance with
+                                   the CERC Manual and the Emergency Action Plan.
+
+2      OBJECTIVE OF THE SEP
+The overall objective of this SEP is to define a program for stakeholder engagement, including public
+information disclosure and consultation throughout the entire project cycle, and to ensure that
+stakeholder feedback is systematically considered and integrated into program design, implementation,
+and adaptive management. The SEP outlines the ways in which the ADIN will communicate with
+stakeholders and includes a mechanism by which people can raise concerns, provide feedback, or make
+complaints about the program and any activities related to the program. The SEP specifically
+emphasizes methods to engage groups considered most vulnerable and that are at risk of being left out
+of program benefits.
+
+
+3      STAKEHOLDER IDENTIFICATION AND ANALYSIS
+3.1     Methodology
+The following stakeholders have been identified and analyzed, taking into account their key groupings
+and subgroupings, as well as considering regulatory requirements and the program's targeted area. Desk
+review of diverse documents, including those of prior similar projects (P174635- Northern Mozambique
+Rural Resilience Project, P176157- Northern Crisis Recovery Project (NCRP)), as well as consultation
+with relevant stakeholders (details in table 6 and annex 4), was key for the development of this SEP. It
+was also considered how each of the stakeholder groups will be affected by the program and what
+influence they could have on the program, and this helps the process of designing an engagement
+strategy, as well as prioritizing stakeholders for consultation. Based on that, developing and
+implementing engagement methods that are effective and inclusive, considering the different access and
+communication needs of various groups and individuals, especially those more disadvantaged or
+vulnerable, was key. These stakeholders include affected parties (as defined in section 3.2), other
+interested parties (as defined in section 3.3) and disadvantaged/vulnerable individuals or groups (as
+defined in section 3.4).
+                                                    6
+
+
+
+                                                                                                   Official Use Only
+The table below summarizes the identified and categorized stakeholders and their level of participation
+and influence in the program. This table will be updated during the implementation of the program to
+ensure that no interested parties are excluded.
+
+                                            Table 2: Stakeholders categorization
+
+    Stakeholders that may be                    Stakeholders that take part in                Stakeholders with influence on
+    affected directly or indirectly by          implementation of the program                 the implementation of the
+    the program                                                                               program
+    General affected population,                ADIN                                          ADIN
+    internally displaced persons (IDPs)
+    in Cabo Delgado, Nampula and                Provincial Program Team (PPT),                Central Government (MOPHRH,
+    Niassa.                                     District Implementation Team                  MPD, Ministries of Finance,
+                                                (DIT), District administrators.               Ministry of Agriculture,
+    Vulnerable populations including                                                          Environment and Fisheries,
+    women, female headed                        District government institution               Ministries of Health, Education,
+    households, children/ child headed          (SDAE, SDPI, SDEJT, SDSMAS)3                  Gender, Child and Social
+    households, youth, Persons with                                                           Protection)
+    Disability (PWD), IODPs and                 CSOs, Locality Consultative
+    others                                      Councils (LCC)                                NGOs, CSOs, and Associations
+                                                                                              (at national and provincial
+    Civil society organizations (CSOs)          Ministry of Planning and                      levels)
+                                                Development (MPD), Ministry of
+    Private sector, small commercial            Public Works, Housing and Water               Provincial Governments of Cabo
+    farmers, subsistence farmers                Resources (MOPHRH)                            Delgado, Nampula, and Niassa
+
+    Public servants (health, education          Provincial Government                         UN entities (World Food
+    workers, public administration in           (Directorate of Agriculture,                  Program, UNICEF, UNOPS,
+    general)                                    Fisheries, Public Works)                      World Health Organization, IOM
+                                                                                              etc.).
+    NGOs and Associations operating             Targeted Municipalities in the
+    at local and provincial levels              provinces of Cabo Delgado,                    Universities     and     research
+                                                Nampula and Niassa                            institutions, National Disaster
+    Ministries involved (MPD                                                                  Management Institute - INGD,
+    MOPHRH)                                     Contractors and service providers,            media (local, and national level).
+                                                Consulting firms                              Community (community leaders,
+    Provincial and District                                                                   host families).
+    Government                                  Security companies
+
+    Small scale fisherman, small scale          NGOs (especially those working
+    farmers, beekeeping, milling,               on Gender Based Violence, child
+    builders and small business owners          and social action, social protection
+    (among IDPs and host                        reconstruction process, youth
+    communities)                                empowerment, peacebuilding)
+
+    Medical and health staff                    UN entities (UNOPS, UNICEF,
+                                                WFP, IOM)
+
+
+3.2      Affected parties
+Affected parties include local communities, community members and other parties that may be subject
+to direct impacts from the Program. Specifically, the following individuals and groups fall within this
+category, as indicated in table 3 below.
+
+
+3
+ SDAE- District Services for Economic Activities, SDPI- District Planning and Infrastructure Services, SDEJT- District Education Services
+Youth and Technology, SDSMAS- District Health, Women and Social Action Services.
+                                                                   7
+
+
+
+                                                                                                                                  Official Use Only
+The local communities will be directly affected by the Program through the implementation of
+construction and/or repair community education and health facilities, water supply and sanitation
+services, rehabilitation of local rural roads, including small bridges and culverts, construction of local
+markets, among others. Therefore, the involvement of the local community is important to ensure their
+effective participation in decision-making on the implementation of the Program; the decisions that
+may be of interest to local communities include, but will not be limited to: recruitment of local labor,
+and selection criteria; mechanisms for submitting concerns and grievances; alternative accesses in
+sections of local rural roads to be rehabilitated; role of local/traditional leaders; communication with
+Contractors; risks related to GBV/SEA/SH, especially due to the likely presence of private
+protection/security forces at construction sites.
+
+At this stage, the expected roles in engagement for all identified affected parties are consulted and
+collaborate and/or partnerships, depending on the specific program activities being carried out.
+
+                                    Table 3: Identified affected parties
+
+ Affected parties          Description
+ Local communities         Local communities will be directly affected by the program through the
+                           implementation of component 1 and 2 activities. This includes IDPs, host
+                           communities, especially in Nampula and Niassa district; communities of the 22
+                           targeted districts in the provinces of Cabo Delgado, Nampula, and Niassa, and more
+                           specifically the 400 communities covering 12,000 households.
+
+ Community-based           The participation of OCBs will be very important to stimulate members of these
+ organizations (OCBs       organizations in discussions and decision making on the implementation of the
+                           program throughout its life cycle, especially under component 1 and 2 activities.
+                           The OCBs to be affected include the following: Agricultural associations,
+                           sustainable management of natural resources (CGRN), savings and revolving credit
+                           groups (PCR), Community Fisheries Councils (CCPs), aquaculture associations,
+                           Locality Consultative Councils (LCC),
+ Non –Governmental         The participation of local, national and international non-governmental
+ Organizations (NGOs)      organizations (NGOs) will be important for the implementation of the stakeholder
+                           engagement plan throughout the program's life cycle, in relation to activities under
+                           component 1, 2 and 3. The NGOs to be affected include the following: all those
+                           working directly with the IDPs, REDE of Community Management of Natural
+                           Resources (REDE-GCRN), UNICEF, Mozambican Rural Women's Movement
+                           (MMMR).
+ Local Government          Provincial, district and local government offices are important and affected by the
+                           program under components 1, 2 and 3. It includes the Provincial Directorate of
+                           Public Works (DPOP), Agriculture and Fisheries (DPAP), Economic Activities,
+                           Environment (DPAE), Land and Territorial Planning (DPTOT), Health and Social
+                           Action (DPSAS), Education and Human Development (DPEDH), Fisheries
+                           Development Delegation, and Disaster Management, District Services for
+                           Economic Activities (SDAE), Planning and Infrastructure (SDPI), Health and
+                           Social Action (SDSAS), Education, Youth and Technology (SDEJT).
+ Interested Institutions   The institutionally affected stakeholders of the program are mainly the following:
+                           MOPHRH, MPD, Ministries of Finance, Ministry of Agriculture, Environment and
+                           Fisheries, Ministries of Health, Education, Gender, Child and Social Protection,
+                           provincial, district level and including the Project Coordination Units (PCU). This
+                           group includes the institutions that will supervise the program activities within their
+                           areas of responsibility, such as Environmental Quality Agency (AQUA), National
+                           Directorate for the Promotion of Integrated Development, Climate Change Unit-
+                           UMC.
+ Local Private Sector      The Program will support community‑driven investments and small‑scale
+                           infrastructure that can influence access to markets, natural resources, productive
+                           assets, and local economic opportunities. As such, local private sector and small
+                           business owners may experience both positive impacts (improved infrastructure,
+                           services, and local economic linkages) and temporary adverse impacts (such as
+                                                       8
+
+
+
+                                                                                                              Official Use Only
+ Affected parties           Description
+                            localized construction‑related disruptions or changes in resource use), requiring
+                            targeted engagement and mitigation measures in line with ESF requirements.
+
+
+3.3   Other interested parties
+The programs’ stakeholders also include parties other than the directly affected communities, including,
+but not limited to, the following described in table 4 below. The government institutions (Ministry of
+Economy and Ministry of Finance, ADIN, MAAP, MINEDH, MOPHRH, among others) at both the
+central and local levels, as well as international organizations, have an important role within the program
+area, which includes ensuring the provision of basic services such as education, health, housing, and
+water. These institutions/organizations will be affected and have interest in the program, as their related
+infrastructures and services will be intervened through program implementation. Their
+interest/intervention will be through supervising the activities within their areas of responsibility and
+coordinating certain activities along with the PPT and DIT. Through component 1.3, local government
+institutions will receive capacity building to plan climate-resilient infrastructures to respond to
+community needs. Their participation and interest are linked to the training in the participatory planning
+and monitoring process under component 2.1.
+
+At this stage, the expected roles in engagement for all identified other interested parties are consulted
+and collaborate and/or partnerships, depending on the specific program activities being carried out.
+
+
+                                 Table 4: Other interested parties identified
+
+ Other Interested            Description
+ Parties
+ Ministry of Economy,        These ministries are responsible for managing and establishing the government's
+ and Ministry of Finance     long-term financial strategy, as well as for the supervision and management of the
+                             financial resources of large investments in the country.
+ Northern Development        Responsible for the coordination, articulation and management of programs to
+ Agency (ADIN)               boost the integrated socioeconomic development of the North region, in the
+                             provinces of Nampula, Niassa and Cabo Delgado. ADIN is also responsible for
+                             managing multisectoral programs for development, business promotion,
+                             investment and employment, mobilization of internal and external resources to
+                             ensure the development of the northern part of the country in the medium and long
+                             term.
+ Ministry of Agriculture,    Responsible for allocating land to IDPs, management of agriculture and fisheries
+ Environment and             sectors, as well as ensuring the implementation of the environmental policy,
+ Fisheries (MAAP)            including monitoring and auditing of activities/projects in relation to the
+                             environmental management aspects, through the Environmental Quality Agency
+                             (AQUA).
+ Other sectors of the        Ministry of Public Works, Housing and Water Resources (MOPHRH), the
+ ministries                  Ministry of Health (MISAU), Ministry of Defense (MD), the Ministry of the
+                             Interior (MI), Ministry of Labor, Gender, and Social Action (MTGAS); Ministry
+                             of Education and Culture (MEC), National Institute for Social Assistance (INAS),
+                             and the National Institute for Disaster Management (INGD). It is also included in
+                             this group the Provincial Directorate of Public Works (DPOP), Agriculture and
+                             Fisheries (DPAP), Economic Activities, Environment (DPAE), Land and
+                             Territorial Planning (DPTOT), Health and Social Action (DPSAS), Education and
+                             Human Development (DPEDH), Fisheries Development Delegation, and Disaster
+                             Management, the District Services for Economic Activities (SDAE), Planning and
+                             Infrastructure (SDPI), Health and Social Action (SDSAS), Education, Youth and
+                             Technology (SDEJT).
+ United Nations              World Food Program (WFP), International Organization for Migration (IOM),
+ organizations               United Nations Children's Organization (UNICEF), World Health Organization
+
+
+                                                      9
+
+
+
+                                                                                                           Official Use Only
+ Other Interested            Description
+ Parties
+                             (WHO), WaterAid, United Nations Office for Project Services (UNOPS), Food
+                             and Agriculture Organization (FAO).
+
+
+3.4   Disadvantaged/vulnerable individuals or groups
+Disadvantaged/vulnerable individuals or groups, include those who may be more likely to be adversely
+affected by the program impacts and/or more limited than others in their ability to take advantage of a
+program’s benefits. Such an individual/group is also more likely to be excluded from/unable to
+participate fully in the mainstream consultation process and as such may require specific measures
+and/or assistance to do so. Within the Program, the vulnerable or disadvantaged groups may include,
+but are not limited to, the following described in table 5 below.
+
+As per the Mozambique Constitution (articles 35, 37, 125), discrimination against Persons with
+Disabilities (PWD) is prohibited, their rights are guaranteed, and special protection, rehabilitation, and
+social integration are offered. The National Action Plan for Disability (PNAD-2012) and the Strategy
+for Inclusive Education and Development of Children with Disabilities (2020-2029) operationalize the
+requirements from the Constitution. The Ministry of Labor, Gender and Social Action (MTGAS) and
+the National Institute for Social Assistance (INAS) are the key government entities for the
+implementation of actions to protect the PWD, while the Forum of Mozambican Associations of
+Disabled People (FAMOD) plays a crucial role in addressing discrimination and barriers to accessing
+public services. Activities of these institutions should be well coordinated with the program
+implementers (at the central, provincial, and district levels), including with ADIN, to ensure that
+consultation activities are aligned to avoid pressing the same communities and create consultation
+fatigue.
+
+                    Table 5: Identified disadvantaged/vulnerable individuals or groups
+
+ Disadvantaged/Vulnerable Individuals or          Description                  Possible Barriers they may
+ Groups                                                                        Encounter in Accessing
+                                                                               Information
+ Internal displaced people (IDPs).                These groups or              Language barriers, as most
+ Individuals and families affected by HIV.        individuals may be           of them speak one language
+ Elders.                                          potentially                  (local language).
+ People with chronic medical conditions.          disproportionally affected   They may feel inhibited due
+ Young people aged 18 to 35 who have not          and less able to benefit     to their status in the
+ attended school.                                 from opportunities offered   community, and as such are
+ People with reduced mobility of any nature       by the program due to        not always able to freely
+ regardless of whether they are under permanent   specific difficulties to     express their concerns and
+ care or self-cared.                              access and/or understand     interests about the program.
+ People with vision/hearing impairment,           information about the        Lack of transportation to the
+ cognitive disabilities.                          program and its              events.
+ Single parent headed households, male and        environmental and social     Accessibility of venues.
+ female.                                          impacts and mitigation       Their reduced mobility.
+ Female heads of low-income household or with     strategies.                  Lack of understanding of a
+ young children (under 5 years).                                               consultation process.
+ Economically marginalized and disadvantaged                                   Materials provided in
+ groups.                                                                       formats that are not
+ Communities in remote and inaccessible areas                                  formatted for screen readers,
+ with low communication.                                                       material in small font sizes.
+                                                                               Use of long sentences that
+                                                                               makes information difficult
+                                                                               to process.
+
+
+
+
+                                                     10
+
+
+
+                                                                                                        Official Use Only
+Vulnerable groups within the communities affected by the program will be further confirmed and
+consulted through dedicated means, as appropriate. Description of the methods of engagement that will
+be undertaken by the programt is provided in the following sections.
+
+
+4     STAKEHOLDER ENGAGEMENT PROGRAM
+4.1   Summary of stakeholder engagement undertaken during program preparation
+
+During program preparation, the following public consultation meetings were conducted, as described
+in the table below, and in Annex 4.
+
+
+
+
+                                                 11
+
+
+
+                                                                                                Official Use Only
+                                    Table 6: List of stakeholders’ engagement done during program preparation
+
+                                               Number of
+#     Location       Stakeholders             Participants           Date                          Summary of Key Issues Discussed
+                                             M          W
+1   Nampula      District Government -    42        8            17/02/2026     1.   The program that aims to strengthen stability and accelerate
+                 Ribaue, Memba,                                                      development in the province of Nampula was socialized, with an
+                 Mecuburi, Malema,                                                   investment of US$250 million, the initiative proposes long-term
+                 Muecate and Erati                                                   interventions aimed at promoting social cohesion, preventing
+                                                                                     conflicts and improving essential infrastructure.
+                                                                                2.   During the socialization of the program, it was emphasized that the
+                                                                                     districts should take an active role at all stages of the program cycle,
+                                                                                     with a view to ensuring their institutional ownership and
+                                                                                     sustainability.
+                                                                                3.   As part of the process of assessing the initial conditions for the start
+                                                                                     of the program, ADIN aims to promote the approximation between
+                                                                                     local development actors and potential beneficiaries, aligning them
+                                                                                     with the new approach introduced by the MozCommunity Program.
+                                                                                4.   The districts are expected to play a central role in conducting the
+                                                                                     planning processes from the locality level to the district level, and it
+                                                                                     is recognized that the district planning technical councils are active
+                                                                                     and have relevant experience on the applicable procedures.
+                                                                                5.   At the end of the meeting with the district governments, a form was
+                                                                                     shared to collect information on the current state of the communities
+                                                                                     and their socio-economic infrastructures, and it is hoped that all
+                                                                                     stakeholders will feel involved, engaged and committed to the
+                                                                                     implementation of the Program.
+2                Civil Society            41        23           18/02/2026     1.   It is expected that the districts will play a fundamental role in the
+                 Organizations                                                       Program, by conducting the processes from the level of the locality
+                                                                                     to the district level, based on the assumption that the Technical
+                                                                                     Councils of District Planning are active and have consolidated
+                                                                                     experience in the procedures, namely:
+                                                                                     • Identification of the problems and challenges of the
+                                                                                           communities.
+                                                                                     • Identification of priority locations for intervention.
+                                                                                     • Sharing good practice experiences from previous district
+                                                                                           planning processes, as well as lessons learned.
+
+                                                                       12
+
+
+
+                                                                                                                                                                Official Use Only
+                                                Number of
+#     Location        Stakeholders             Participants       Date                        Summary of Key Issues Discussed
+                                              M          W
+                                                                                •    Definition of mechanisms for participatory intervention of the
+                                                                                     different actors in the process of selecting beneficiaries.
+3                Private Sector          74          23       18/02/2026   1.   The participation of the private sector in the promotion of
+                                                                                employment and employability of young people was discussed,
+                                                                                necessarily influencing the mentality of young people, that is, the
+                                                                                way they position themselves and prepare themselves for the labor
+                                                                                market.
+                                                                           2.   It was recognized that the employability challenges in Mozambique
+                                                                                are interconnected and require a systemic approach: it is not only
+                                                                                about creating jobs, but also about strengthening and
+                                                                                institutionalizing collaboration platforms that promote applied
+                                                                                innovation, consolidate monitoring mechanisms and strengthen
+                                                                                shared responsibility between the State, training institutions and the
+                                                                                private sector. Also mentioned the need to provide more
+                                                                                opportunities to local companies rather than bringing companies
+                                                                                from Maputo or other provinces.
+                                                                           3.   The strategy of this Incubation Model is essentially focused on
+                                                                                changing the mentality of young people, through critical reflection,
+                                                                                analysis of opportunities and recognition of local potential as a basis
+                                                                                for building sustainable economic trajectories. Challenge raised on
+                                                                                lack of access to finance following incubation.
+                                                                           4.   By acting simultaneously with young entrepreneurs and established
+                                                                                companies, it becomes possible to create a resilient employability
+                                                                                ecosystem, capable of valuing local talent and generating lasting
+                                                                                impact in rural and peri-urban communities in Northern
+                                                                                Mozambique.
+4   Niassa       Provincial Government                                     1.   The Governor presented the potential of Niassa, having highlighted
+                                                                                agriculture as a priority of the province, such as the production of
+                                                                                beans, macadamia, strawberries and fruit trees.
+                                                                                     He presented the challenges, having highlighted the economic
+                                                                                     infrastructures, such as the roads, of the existing 7729Km, only
+                                                                                     900Km are paved.
+                                                                           2.   He requested the sharing of the concept note of the Program, for
+                                                                                better appropriation.
+
+                                                                   13
+
+
+
+                                                                                                                                                          Official Use Only
+                                              Number of
+#   Location       Stakeholders              Participants       Date                       Summary of Key Issues Discussed
+                                            M          W
+                                                                         3.   He suggested that the management of the funds be the responsibility
+                                                                              of ADIN, since many projects subcontract to third parties and a large
+                                                                              part of the funds are used for administrative costs to the detriment
+                                                                              of the beneficiaries (Population).
+                                                                         4.   He asked about the overall value of the program (how much value
+                                                                              will the Province of Niassa benefit?)
+                                                                         5.   He suggested that they prioritize the Province of Niassa in the
+                                                                              implementation of infrastructure projects, since the distances
+                                                                              between the districts are long and the access roads are degraded.
+                                                                         6.   He suggested reducing training costs for the construction or
+                                                                              rehabilitation of economic and social infrastructure
+                                                                         7.   The Provincial Director of Youth and Sports suggested the inclusion
+                                                                              of the construction of sports infrastructures at the level of the
+                                                                              Province of Niassa, and the inclusion of aspects related to economic
+                                                                              empowerment for Youth, such as allocation of self-employment kits
+                                                                              for Youth
+                                                                         8.   The Director of the Office of H.E. Governor asked about aspects of
+                                                                              environmental safeguards. (What aspects of environmental
+                                                                              safeguards will the project consider?)
+5              District Government -   11          5        19/02/2026   1.   The Permanent Secretaries and District Directors were unanimous
+               Nipepe, Mecula and                                             in stating that the districts have sufficient Human Resources and
+               Marrupa                                                        experience to manage funds, and competitions if the plans are clear
+                                                                              and flexible. Some Districts highlighted the experience they had
+                                                                              with the MOZNORTE Project, which was implemented in the same
+                                                                              way.
+                                                                         2.   About improving access to basic services and resilient
+                                                                              infrastructure, they suggested that the Project look at the
+                                                                              rehabilitation of roads and bridges, as access roads are degraded in
+                                                                              all districts of Niassa Province.
+                                                                         3.   Regarding the social cohesion component, the SPDs and DDs
+                                                                              suggested reducing the number of Members of the Associations that
+                                                                              will be covered from 30 Members to 20 or 15, since in Niassa there
+                                                                              are no associations composed of 30 Members. They also suggested
+                                                                              that this figure should consider local conditions.
+
+                                                                 14
+
+
+
+                                                                                                                                                      Official Use Only
+                                        Number of
+#   Location        Stakeholders       Participants       Date                       Summary of Key Issues Discussed
+                                      M          W
+6              Civil Society       44        22       20/02/2026   1.  All participants were unanimous in stating that the project reflects
+               Organizations                                           the needs of the Province and the Northern Region.
+                                                                   2. For the success of the project there is a need to clarify the selection
+                                                                       criterion of the companies (Associations, cooperatives and private)
+                                                                       to be covered.
+                                                                   3. Involvement of the different actors (Private Sector, CSOs,
+                                                                       community leaders).
+                                                                   4. Decentralization in the implementation of the Project at all levels
+                                                                       (From the Province to the Locality).
+                                                                   5. Clarity and transparency in the management of project funds.
+                                                                   6. Dissemination of the project at all levels (Province, District,
+                                                                       Administrative Post to the Locality).
+                                                                   7. Creation of synergies between the different actors (Government,
+                                                                       Civil Society, Private and the Community);
+                                                                   8. Build on the successful implementation experiences of previous
+                                                                       projects (LoCAL, Moz Norte).
+                                                                   9. Transparency of criteria in the selection of beneficiaries.
+                                                                   10. Transparency of the tenders to be launched.
+                                                                   11. Training of local health professionals so that they can ensure
+                                                                       continuous psychosocial support in the various components.
+                                                                   12. Training of activists who can ensure continuity of psychosocial
+                                                                       support and who speak the local language.
+                                                                   13. Creation of quotas to serve people with disabilities.
+                                                                   14. Ensuring advisory boards are inclusive.
+                                                                   15. Ensure the involvement of CSOs in the implementation and
+                                                                       monitoring of projects through outsourcing.
+                                                                   16. Involve CSOs to support beneficiaries at different stages in project
+                                                                       implementation from the preparation of Projects, Business Plans,
+                                                                       capacity building of aspects related to social cohesion.
+                                                                   17. Engage CSOs to support the promotion of spaces for dialogue
+                                                                       between Communities, Government and the Private Sector.
+7              Private Sector      35        10       20/02/2026   1. The Private Sector suggests that consultations for the
+                                                                       implementation of the project should also be carried out in the
+                                                                       communities.
+
+                                                           15
+
+
+
+                                                                                                                                                Official Use Only
+                                           Number of
+#     Location       Stakeholders         Participants       Date                       Summary of Key Issues Discussed
+                                         M          W
+                                                                      2.   Suggest clarifying the role of the Private Sector in project
+                                                                           implementation.
+                                                                      3.   The private sector must be integrated into local advisory councils.
+                                                                      4.   The Private Sector Suggests Tax Reform for Business Improvement
+                                                                      5.   Youth incubators should be built within Private Sector farms, if
+                                                                           conditions are created for funding Young People after incubation.
+                                                                      6.   They suggest the need to structure the market by linking to an
+                                                                           aggregator
+                                                                      7.   The private sector suggests improving access routes to allow the
+                                                                           flow of products.
+                                                                      8.   It suggests the need to support small entrepreneurs to register their
+                                                                           business
+8   Pemba        Provincial Government                   25/02/2026   1.   During the debriefing with His Excellency the Governor, the main
+                                                                           points related to the implementation of the Project and the strategic
+                                                                           guidelines for its operationalization were highlighted:
+                                                                      2.   The need for the appointment of a focal point at the provincial level
+                                                                           to facilitate institutional coordination and communication was
+                                                                           identified.
+                                                                      3.   It was recommended that the inclusion of local ombudsmen who
+                                                                           speak the local languages ensure greater effectiveness in
+                                                                           communication and community participation.
+                                                                      4.   The urgency in the implementation of the project was underlined,
+                                                                           given the existing local needs.
+                                                                      5.   ADIN should take over the coordination of the project in the
+                                                                           northern region and MOPH will provide support in the infrastructure
+                                                                           component.
+                                                                      6.   Aspects that need clarification were identified, noting that Cabo
+                                                                           Delgado does not intend to exclude any entity, prioritizing only
+                                                                           quality criteria.
+                                                                      7.   The private sector must be expanded and integrated, without
+                                                                           excluding other actors, and a specific mechanism must be put in
+                                                                           place to ensure its effective participation.
+                                                                      8.   The World Bank has proposed holding an integration workshop,
+                                                                           involving the three provinces covered, with the aim of establishing
+                                                                           a common vision, by the month of May.
+                                                              16
+
+
+
+                                                                                                                                                   Official Use Only
+                                               Number of
+#    Location       Stakeholders              Participants       Date                        Summary of Key Issues Discussed
+                                             M          W
+                                                                          9.   Governor noted that the private sector must be expanded and
+                                                                               integrated, without excluding other actors, and a specific mechanism
+                                                                               must be put in place to ensure its effective participation
+9               District Government -   87          13       24/02/2026   1.   The Permanent Secretaries questioned whether there are similarities
+                Pemba, Ancuabe,                                                between the Program and the MozNorte Project, stressing that the
+                Balama, Chiure, Ibo,                                           districts covered show human resource capacity for project
+                Macomia, Mecufi,                                               management.
+                Meluco, Metuge,                                           2.   They reiterated the need for the project to benefit all districts of the
+                Mocimboa da Praia,                                             province, arguing that there should be no exclusions justified by
+                Montepuez, Mueda,                                              insecurity.
+                Muidumbe, Namuno,                                         3.   They underlined that coordination should be ensured by ADIN,
+                Nangade, Palma and                                             while the planning and management of the program should be
+                Quissanga                                                      conducted at district level, to strengthen local autonomy and respect
+                                                                               the principles of decentralization.
+                                                                          4.   They suggested holding planning meetings with the districts and,
+                                                                               prior to implementation, specific meetings with the Permanent
+                                                                               Secretaries and the Finance and Procurement sectors.
+                                                                          5.   They stressed that the programs or projects must be aligned with the
+                                                                               priorities defined by the districts.
+                                                                          6.   The SPF reported that there is human resource capacity in the
+                                                                               districts, although challenges remain related to the mobility of
+                                                                               technicians, which can reduce the installed capacity. Thus, he
+                                                                               proposed that the management of funds be ensured at the provincial
+                                                                               level, with integration of district governments, and a gradual
+                                                                               decentralization according to local capacities.
+10              Civil Society           29          15       24/02/2026   1.   Projects must be implemented in a direct and dynamic manner,
+                Organizations                                                  considering that, despite the frequent consultation and training, there
+                                                                               is a slowness in the implementation phase.
+                                                                          2.   It is recommended that consultations be maintained, but the
+                                                                               execution of activities must be ensured by local organizations that
+                                                                               have in-depth knowledge of the communities.
+                                                                          3.   The coordination of the Program must be local, through ADIN, and
+                                                                               civil society organizations must be integrated in the implementation
+                                                                               of the projects.
+
+                                                                  17
+
+
+
+                                                                                                                                                          Official Use Only
+                                Number of
+#   Location   Stakeholders    Participants   Date                      Summary of Key Issues Discussed
+                              M          W
+                                                     4.   The integration of Community-Based Organizations in the funding
+                                                          opportunities made available by the Program must be ensured.
+                                                     5.   It is observed that a significant part of the organizations operating in
+                                                          the province are not formally registered, although they have the
+                                                          structure and capacity for financing. In this regard, it is important to
+                                                          create opportunities for institutional strengthening, including
+                                                          support for legalization.
+                                                     6.   It is necessary to analyze the negative aspects, verified in the
+                                                          MozNorte project, to avoid their recurrence, as well as to identify
+                                                          and reinforce the positive aspects by integrating them into the Moz
+                                                          Communities Program.
+                                                     7.   The program must rescue and strengthen spaces for dialogue and
+                                                          community planning, promoting inclusive participation.
+                                                     8.   It is recommended to avoid the dispersion of resources, considering
+                                                          the size of the project and the number of communities covered, to
+                                                          ensure more significant gains and visible impacts.
+                                                     9.   Priority should be given to projects with potential for economic
+                                                          return, considering the challenges associated with the rural exodus.
+
+
+
+
+                                               18
+
+
+
+                                                                                                                                     Official Use Only
+                                         Number of
+#    Location        Stakeholders       Participants       Date                       Summary of Key Issues Discussed
+                                       M          W
+11              Private Sector      23        12       24/02/2026   1.   They praised the inclusion of young people as an integral part of the
+                                                                         Program's target group.
+                                                                    2.   They said that, sometimes, the criteria for access to financing are
+                                                                         excessively strict, citing as an example the required contributions,
+                                                                         which force entrepreneurs to resort to credit.
+                                                                    3.   They pointed out that although the World Bank imposes strict
+                                                                         criteria for applying for financing, delays in the disbursement of
+                                                                         funds have been observed.
+                                                                    4.   They highlighted that challenges persist in hiring local personnel,
+                                                                         since, in many cases, candidates do not meet the minimum
+                                                                         requirements required.
+                                                                    5.   Suggest the integration of young people trained in internship
+                                                                         programs, such as Moz Youth, with a view to acquiring professional
+                                                                         experience and reducing the number of professionals recruited
+                                                                         outside Cabo Delgado province;
+
+
+
+
+                                                            19
+
+
+
+                                                                                                                                                 Official Use Only
+4.2   Summary of program stakeholder needs and methods, tools and techniques for stakeholder
+      engagement
+
+
+The Stakeholder Engagement Plan (SEP) outlines the engagement process, methods, including
+sequencing, topics of consultations and target stakeholders. The World Bank and the Borrower
+(MPD/MOPHRH) do not tolerate reprisals and retaliation against program stakeholders who share their
+views about Bank-financed projects.
+The process of documenting feedback and acting as part of stakeholder engagement should be a
+continuous requirement to ensure meaningful consultation and program sustainability. As such, the
+Project Coordination Unit (PCU), in collaboration with the PPT and DIT, should maintain a documented
+record of stakeholder engagement activities, which should be published in a timely and accessible
+manner, considering the methods indicated in table 7 and considering local languages. The
+documentation should include at least the participant profile, information disclosed, summary of
+feedback, and management response. The acting-upon process should consider adapting program
+design and implementation arrangements in case the feedback received highlights significant
+environmental or social risks; the SEP should also be updated to reflect the feedback received,
+particularly regarding how future engagement will be conducted; if the feedback identifies site-specific
+risks, its incorporation into mitigation measures will require updating the ESMP; more importantly,
+communicating back to the stakeholders on how their input/feedback influenced the final decisions is
+indispensable. Some of the tools for documentation include the following: (i) stakeholder engagement
+log/database; (ii) grievance mechanism (GM); (iii) minutes of meetings and attendance list; (iv)
+feedback report.
+
+The stakeholder’s engagement as part of District Local Development Planning (DLDP) cycles is a
+participatory, bottom-up approach involving local consultative councils (LCCs), civil society, and
+traditional leaders to identify community needs. The key phases of the engagement under the DLDP
+include community consultation, prioritization, and planning, aimed at sustainable development and
+climate resilience. The LCCs are the primary link between the local government and communities,
+comprising community leaders, youth, women, and various social groups to define essential
+infrastructure needs and public services. As the program (under components 2.1 and 2.2) will finance
+the rolling out of participatory planning tools, as well as the rehabilitation and development of basic
+services and community infrastructures, the community engagement should be integrated, avoiding
+multiple discussions with the same community members for the same goal. The role of the PPT and
+DIT is essential to materialize this approach.
+
+
+
+
+                                                  20
+
+
+
+                                                                                                   Official Use Only
+                                 Table 7: Summary of program stakeholder needs and methods, tools and techniques for stakeholder engagement
+
+ Program stage            Target stakeholders               Topic of consultation              Method used                  Language needs4              Responsibilities          Frequency/Timeline
+                                                            / message
+
+ Program design           Institutional                     SEP and ESCP                       Public consultation          Portuguese                   PCU environment and       Before commencement of
+                          (Government                                                          meetings                                                  social risk management    activities
+                          institutions, local                                                                                                            team
+                          authorities, local
+                          NGOs,
+                          implementation
+                          partners, donors,
+                          Public (the public in
+                          general).
+
+                          Public in general,                ESMF/ESIAs/ESMPs/                  Public consultation          Portuguese, and              ADIN                      Before commencement of
+                          local authorities, local          RAPs, the GRM;                     meetings, formal             summaries                                              respective activities
+                          and international                 Social Assessment                  meetings, one-on-            translated into
+                          NGOs,                             (SA), and other E&S                one interviews, e-           local languages
+                          implementation                    instruments.                       mail, website,               such as
+                          partners, donors.                                                    social media;                Emakhuwa,
+                                                                                                                            Ciyawo, Elomwe
+
+ Program                  Potential                         Implementation of                  Community                    Portuguese, and              ADIN, Provincial          During preparation of
+ Implementation           beneficiaries, local              ESIAs/ ESMPs for                   meetings, District           summaries                    Project Team (PPT) and    instruments.
+                          authorities, and                  sub-projects                       notice boards,               translated into              District Implementation
+                          general public.                                                      social media,                local languages              Team (DIT)                Before commencement of
+                                                                                               radio, SMS,                  such as                                                activities in sub-projects that
+                                                                                               website.                     Emakhuwa,                                              require these specific
+                                                                                                                            Ciyawo, Elomwe                                         instruments
+
+                                                                                                                                                                                   Minimum on a quarterly
+                                                                                                                                                                                   basis
+
+
+4 In Cabo Delgado Emakhuwa is language spoken by 67% of the population, while Portuguese is spoken by 6% of the population
+In Niassa province Emakhuwa is spoken by 42% of the population, Ciyawo (Yao) by 31%, while Portuguese is spoken by 9% of the population.
+In Nampula Emakhuwa is the dominant language, spoken by the vast majority of the population, followed by Elomwe, and Portuguese is spoken by less than 3% of the population.
+                                                                                                                  21
+
+
+
+                                                                                                                                                                                                               Official Use Only
+Program stage   Target stakeholders    Topic of consultation   Method used         Language needs4   Responsibilities          Frequency/Timeline
+                                       / message
+
+                Potential                                      Community notice,   Local languages   District Implementation   During preparation of
+                beneficiaries, Local                           boards, radio       such as           Team (DIT), CSOs,         instruments.
+                NGOs, CSOs and                                                     Emakhuwa,         NGOs
+                general public.                                                    Ciyawo, Elomwe                              Before commencement of
+                                                                                                                               activities in sub-projects that
+                                                                                                                               require these specific
+                                                                                                                               instruments
+
+                                                                                                                               Minimum on a quarterly
+                                                                                                                               basis
+
+
+
+
+                                                                             22
+
+
+
+                                                                                                                                                           Official Use Only
+4.3   Proposed strategy to incorporate the views of vulnerable groups
+
+
+The program will seek the views of Internal displaced people (IDPs); Individuals and families affected
+by HIV. Elders; People with chronic medical conditions; Young people aged 18 to 35 who have not
+attended school; People with reduced mobility of any nature regardless of if under permanent care or
+self-cared; people with vision/hearing impairment, cognitive disabilities. Single parent headed
+households, male and female; Female heads of low-income household or with young children (under 5
+years); Economically marginalized and disadvantaged groups; Communities in remote and inaccessible
+areas with low communication, through the following methods described in table below.
+
+
+                Table 8: Vulnerable groups and proposed techniques for consultation
+
+ Vulnerable Group               Proposed technique for consultation
+
+ IDPs and host communities      Information on consultations should be disseminated through
+                                community radio and other channels available at local level. The
+                                meetings will be held in host communities with the presence of
+                                translators with knowledge of local languages.
+
+ Elderly people, disabled,      The District Implementation Team (DIT) will provide
+ individuals and families       transportation to consultation facilities. In addition, meeting
+ affected by HIV                locations will be selected to ensure universal access for people with
+                                disabilities. DIT will ensure that elderly people, disable people and
+                                people with chronic disease are well represented by their
+                                parents/family or other.
+
+ Female heads of low-income     Specific locations and times will be identified depending on the
+ household                      availability of this group since they may have various
+                                occupations/activities during the day that make it difficult to
+                                participate in meetings.
+
+ People with reduced            Provide information in accessible formats, like braille, large print;
+ mobility, visual /hearing      offer multiple forms of communication, such as text captioning or
+ impairment                     signed videos, text captioning for hearing impaired, online materials
+                                for people who use assistive technology.
+
+ Women and children             Community meetings will be held with specific groups of women
+                                and children (focus groups). Communities’ leaders are key to
+                                encouraging these groups. One-on-one meetings will be organized,
+                                according to the situation.
+                                In addition, ensure community engagement teams are gender
+                                balanced and promote women's leadership within them, design
+                                online and face-to-face surveys and other engagement activities so
+                                that women in unpaid care work can participate in the engagement
+                                teams. Consultations with young women in this group should be
+                                conducted independently, in safe and confidential spaces, and with
+                                trained female
+
+
+
+
+                                                 23
+
+
+
+                                                                                                   Official Use Only
+    Young people aged 18 to 35   Location sketches, physical models, and film presentations may be
+    who have not attended        useful to communicate relevant information.
+    school
+
+
+All technical teams involved in the consultation will ensure that vulnerable groups are participating in
+consultative processes and that their voices are not ignored. This may require specific meetings with
+vulnerable groups in addition to general community consultations. In general, women may be more
+outspoken in women-only consultation meetings than in general community meetings. Similarly,
+separate meetings may be held with IDPs and host communities, should it be necessary. Further, it is
+important to rely on other consultation methods as well, which do not require physical participation in
+meetings, such as social media and radio broadcasting, to ensure that groups that cannot physically be
+present at meetings can participate. A social assessment three months after program effectiveness will
+investigate further specific needs of vulnerable groups during Program implementation, and the SEP
+will be updated as the results of the assessment are received. A GM will be implemented in a way that
+all groups identified as vulnerable have access to information and can submit their grievances and
+receive feedback as prescribed.
+
+
+5      RESOURCES AND RESPONSIBILITIES FOR IMPLEMENTING STAKEHOLDER
+       ENGAGEMENT
+5.1     Implementation arrangements and resources
+
+The overall responsibility for SEP implementation lies with the Project Coordination Unit (PCU)
+housed in ADIN. The implementation of the SEP will be conducted in strict coordination with the
+Provincial Project Team (PPT), and District Implementation Team (DIT
+
+The program’s stakeholder engagement implementation arrangements are as follows:
+   • The Program Coordination Unit (PCU) will include 1 full-time Environmental Health and
+       Safety Specialist; 1 full-time Social Specialist; 1 full-time GBV Specialist; and 1 full-time
+       Security Officer, responsible for oversight, reporting, and SEP implementation. In addition,
+       there will be provincial level Environment, Social/GBV and OHS officers in Nampula and
+       Niassa and district level GRM focal points that will support day-to-day implementation.
+
+The stakeholder engagement activities will be documented in a transparent, accessible, and timely
+manner to ensure that engagements are meaningful and that feedback influences program decisions.
+Documentation should be maintained by the Borrower throughout the program life cycle and included
+as part of the environmental and social assessment. As indicated in the Environmental and Social
+Standard 10 (ESS10) guidance note, stakeholders’ activities documentation should include, among
+others, the following:
+    • Date and location of each meeting or engagement, along with a copy of the notifications sent
+         to stakeholders.
+    • The objective of the engagement (e.g., to inform about program plans, or to gather views on
+         environmental/social risks).
+    • The form of engagement used (e.g., town halls, focus groups, written consultations, one-on-one
+         interviews).
+    • The number and categories of stakeholders involved (e.g., community members, local
+         authorities, NGOs), with particular attention to identifying vulnerable or disadvantaged groups.
+    • A list of the specific program documents or information disclosed to participants.
+    • A summary of the main points, concerns, and questions raised by stakeholders.
+
+                                                   24
+
+
+
+                                                                                                    Official Use Only
+    •   A summary of how stakeholder concerns were responded to, taken into account, or the reasons
+        why they were not.
+    •   Clear identification of issues requiring follow-up actions and how stakeholders are informed of
+        decisions.
+
+SEP implementation resources will be aligned with commitments set out in the ESCP. The budget
+estimate for the implementation of SEP is USD 1.595.400,000. It should be noted that budgets for SEP
+implementation in Northern Provinces of Mozambique tend to be higher than southern/central
+Mozambique due to security constraints and limited access; dispersed rural populations; presence of
+IDPs and host communities; need for continuous engagement, not just periodic consultations; and
+higher transport and logistics costs. The budget breakdown is described in the table below.
+
+                               Table 9: Budget for the implementation of SEP
+
+Budget categories                                 Quantity        Unit costs   Years Total costs
+
+1. Estimated Staff salaries and related expenses
+
+Salary for Social Specialist                      96 months       4.500,00     8       432.000,00
+
+Travel/transport costs for staff                  Lumpsum                              30.000,00
+
+Per diem for staff                                Lumpsum                              20.000,00
+
+Grievance Mechanism Focal Points                  96 months       2.800,00     8       268.800,00
+
+2. Consultations/ Participatory Planning, Decision-Making Meetings
+
+                                                                               First
+                                                  3 meetings      2.000,00
+Program launch meetings                                                        year    6.000,00
+
+Organization of focus groups                      1 quarterly     500,00       8       16.000,00
+
+3. Communication campaigns
+
+Radio, Posters, Theater, Comic books, Social
+                                                  8               40,000       8
+Media                                                                                  320.000,00
+
+4. Trainings
+
+Training on social/environmental issues for
+                                                  1/province/year 2.000,00     8
+PCU, PPT, DIT and contractor staff                                                     48.000,00
+
+Training on Gender-Based Violence (GBV) for
+                                            1/province/year 2.000,00           8
+PCU, PPT, DIT and contractor staff                                                     48.000,00
+
+5. Beneficiary surveys
+
+Mid-program perception survey                     1               50.000,00    1       50.000,00
+
+End-of-program perception survey                  1               50.000,00    1       50.000,00
+
+6. Grievance Mechanism
+
+Training of GM committees                         1               2.000,00     8       16.000,00
+
+Suggestion boxes in villages                      Lumpsum                              12.000,00
+
+                                                      25
+
+
+
+                                                                                                    Official Use Only
+Budget categories                                 Quantity         Unit costs    Years Total costs
+
+GM communication materials                        Lumpsum                                 80.000,00
+
+                                                  1/province/mon
+                                                                 500,00          8
+Grievance investigations/site visits              th                                      144.000,00
+
+GM Information System (setting up or
+                                                  Lumpsum
+maintenance)                                                                              40.000,00
+
+                                                  5% of the subtotal for GM
+Other GM Logistical Costs                         management                              14.600,00
+
+TOTAL STAKEHOLDER ENGAGEMENT BUDGET:                                                      1.595.400,00
+
+
+6     GRIEVANCE MECHANISM
+A Grievance Mechanism is a system that allows not only grievances, but also queries, suggestions,
+positive feedback, and concerns of program-affected parties related to the environmental and social
+performance of the program to be submitted and responded to in a timely manner.
+
+The GM should work within existing legal and cultural frameworks, providing an additional opportunity
+to resolve grievances at the local, program level. The key objectives of the GM are: (i) record, categorize
+and prioritize the grievances; (ii) settle the grievances via consultation with all stakeholders (and inform
+those stakeholders of the solutions); and (iii) forward any unresolved cases to the relevant authority.
+
+In principle, the traditional and community-based mechanisms should be considered as the first tier for
+dispute resolution before the program Grievance Mechanisms (GM). As such, the existing formal or
+informal mechanisms should be supplemented with program GM procedures to resolve grievances
+early, efficiently, and at no cost to the complainant. The traditional, local, or customary dispute
+resolution mechanisms are generally composed of elders, community councils, and leaders, which is
+what the program GM also considers as the principles of accessibility, cultural appropriateness, no-
+retaliation, confidentiality and inclusivity, and respect for human rights, which are integrated.
+
+The program Grievance Mechanism (GM) described below as part of this SEP provides an accessible,
+timely, and fair resolution of grievances for program-affected parties. If a grievance is not resolved to
+the satisfaction of the complainant at the program level, they have several escalation options before
+resorting to the judiciary. However, it is understood that not all grievances will be resolved to the
+complainant's satisfaction on the first attempt. If the grievance is not resolved to the satisfaction of the
+complainant at the program level, the complainant has the following escalation options before resorting
+to the judiciary: (i) after submitting the grievance to the program GM focal point, contractors, site
+engineers, or local community representatives; (ii) if not satisfied, the complainant can escalate to the
+Project Coordination Unit (PCU), and the grievance will have the intervention of the
+environmental/social specialists; (iii) the Project Steering Committee can also review the decision; (iv)
+and if the program-level GM fails to resolve the grievance, it can be escalated to the (v) World Bank
+directly,     through      the     World       Bank       Grievance       Redress      Service      (GRS)-
+http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service
+
+6.1   Description of Grievance Mechanism (GM)
+
+The GM implementation structure will be as follows: The GM considers resolution mechanisms
+comprising three levels: the community level, the program level, and the judiciary level by following
+the formal Mozambican justice process.
+
+
+                                                    26
+
+
+
+                                                                                                       Official Use Only
+•   Community-level: Local communities have traditional and culturally recognized grievance
+    mechanisms. It is expected that some grievances can be resolved using these mechanisms,
+    without the involvement of the contractor(s), the PCU, and/or the government judicial process.
+    Local leaders will be involved in resolving any land-related dispute.
+•   Program-level: It is expected that program-related grievances be small in size and complexity
+    and site-specific. They may be related to noise and vibration, dust emission from construction
+    activities, and conflicts between workers and the community, GBV/SEA/SH, among others.
+•   Judiciary-level: The program-level process will not prevent complainants from accessing the
+    formal Mozambican justice process. The complainant may choose to proceed with the formal
+    justice process in case grievance is not satisfactorily resolved at the program level. The program
+    staff will provide the complainant with the necessary information on submission of a case to
+    the formal justice system.
+
+
+
+
+                                               27
+
+
+
+                                                                                                 Official Use Only
+                                                                   Table 10: Description of GM steps
+
+Step                                Description of the process                                                             Timeframe              Responsibility
+Step 1: Reception, registration     Grievances can be submitted orally, in writing via suggestion/complaint box,           Immediately            GM focal point at local
+and classification of the           through free telephone hotline/mobile, mail, SMS, social media (WhatsApp,                                     district, provincial, and
+grievance                           Facebook, etc.), email, website of the program, at community levels. The GM will                              PCU level.
+                                    also allow anonymous grievances to be raised and addressed.
+
+Step 2: Confirmation of             Classifying the grievances based on the typology of complaints and the                 Within a maximum of    GM focal point
+reception and categorization of     complainants in order to provide more efficient response and provide the initial       5 working days.
+the grievance                       response immediately if possible. The typology will be based on the
+                                    characteristics of the complainant (e.g., vulnerable groups, people with reduced       This includes
+                                    mobility, people with language barriers, etc.) and also the nature of the complaint.   providing the
+                                                                                                                           complainant with the
+                                                                                                                           basic next step
+                                                                                                                           information.
+
+Step 3: Verification,               As grievance is preliminarily classified according to its complexity, investigations   Maximum of 15          GM committee or
+investigation and proposed          can be extended on a case-by-case basis. The investigation will need to provide        working days.          resolution team.
+response/solution/decision          elements to resolve the grievance to the satisfaction of the complainants. The
+                                    investigation will address the following elements: identification of the parties
+                                    involved, clarification of grievance and its impact, obtaining factual information
+                                    to determine responsibility (taking photos if relevant, discussing with witnesses,
+                                    etc.), discussions with all involved parties, and proposed solutions.
+
+                                    If the grievance is vague and not clear enough, the GM team is obliged to help and
+                                    provide counsel and even help in redrafting the description of the grievance for the
+                                    grievance to become clear for purposes of an informed decision by the GM team
+                                    in the best interests of the complainant. If the GM team cannot address the issues
+                                    raised by immediate corrective action, a long-term corrective action will be
+                                    identified.
+
+Step 4: Communication of the        The decision shall be in writing and shall be delivered to the person who filed the    Within 20 working      Social Specialist of the
+proposed                            grievance as well as to any other person or entity to which the recommendation         days upon reception    PCU
+response/solution/decision to the   and measures shall apply or is under obligation by law.                                of the grievance.
+complainant
+                                    The decision shall give a clear assessment of the grievance/complaint, a clear
+                                    ruling and recommendations for a fair remedy, and propose measures to modify
+                                                                                     28
+
+
+
+                                                                                                                                                                         Official Use Only
+Step                               Description of the process                                                               Timeframe                Responsibility
+                                   future conduct that caused the grievance as well as proposed measures to
+                                   compensate if mitigation measures cannot remedy the harm or injury. The
+                                   complainant should acknowledge the reception of the decision and indicate
+                                   whether he agrees with it or not.
+Step 5: Implementation of the      The Social Specialist of the program, along with other risk management experts (at       Within 15 working        Social Specialist of the
+solution/decision to resolve the   provincial and district level) and other entities involved in program implementation     days of signing the      PCU,
+grievance                          (including ADIN, ANOP, Government institutions, Contractor, Engineer) will take          agreement with the       Relevant Government
+                                   the necessary actions to implement the solution. For solutions that are complex and      complainant.             institutions (provincial
+                                   that require more time or multiple activities, the agreement will include an action                               and district level)
+                                   plan with a timeline. The agreement must also indicate the budget necessary for its                               Contractor, Engineer
+                                   implementation and the specific actors responsible for each activity.
+Step 6: Monitoring and             The number and types of complaints will be monitored to take proactive action to         Monthly                  PCU team responsible for
+evaluation                         avoid future complaints. The overall effectiveness will be evaluated (responses and                               GM management (led by
+                                   conclusions within the deadlines) as well as the overall satisfaction of the users and                            the Social Specialist),
+                                   the local community.                                                                                              guided by the program
+                                   Data on grievances will be collected in grievance log/database/agreements with                                    coordinator.
+                                   complainants and reported to the program coordinator every month. Specific
+                                   monitoring indicators are described in chapter 7 of this SEP.
+Step 7: Closure of the grievance   Once the solution/decision has been implemented and the complainant is satisfied         Once implementation      Social Specialist of the
+                                   with the outcomes, the grievance will be closed. A note to the file will be made to      of the                   PCU
+                                   state that the complaint is now following an independent legal system.                   solution/decision is
+                                                                                                                            complete and
+                                   If the grievance could not be resolved in an amicable endeavor, the complainant          complainant satisfied.
+                                   can resort to the formal judicial system, as made available under the national legal
+                                   framework. It should be noted that logging a grievance with the GM does not
+                                   preclude or prevent seeking resolution from an official authority, judicial or other,
+                                   at any time (including during the grievance resolution process) provided by the
+                                   national legal framework.
+
+
+
+
+                                                                                     29
+
+
+
+                                                                                                                                                                           Official Use Only
+SEA/SH grievances cannot be resolved in an informal manner and should never be the subject of
+mediation. Disciplinary sanctions for violation of a Code of Conduct (CoC) or Behavioral Standards
+should form part of a process that is internal and under the responsibility of the employer. Employer
+sanctions should be appropriate to the seriousness of misconduct and are a separate and independent
+process from the criminal proceedings, as this rests with the national justice system.
+
+Information about SEA/SH allegations won’t be disclosed, records of SEA/SH survivors will be stored
+separately from other general complaints and in a safe cabinet and systems accessible only to the Social
+Specialist and the program lead. Specific protocols and procedures will be established to handle
+SEA/SH grievances following the survivor centered approach and national laws.
+
+Labor GM, consistent with the Labor Management Procedures (LMP), as required in ESS2 and ESS10,
+should provide a detailed mechanism for the contracted, primary supply and community workers to
+raise workplace concerns, as well as handle issues such as demand for employment, labor wages,
+payment delays, unhealthy or unsafe working conditions, and labor-related SEA/SH. Workers should
+be informed about the GM at the time of recruitment, including the procedures for anonymous
+complaints and how the GM ensures protection against retaliation.
+
+As part of the program GM, the complaint resolution will consider appeal process, compensation, and
+training as described below: i) the appeals process includes the national judiciary or other mechanisms
+out of the program GM, allowing complainants to seek further redress if the initial resolution is
+unsatisfactory; ii) the reparations/compensation to provide remedies for program-affected parties,
+including compensation for losses, such as damage to property or loss of assets, in line with requirement
+for resettlement; iii) the training and capacity building of staff and external stakeholders to manage the
+GM effectively. This should include training on documenting grievances, handling complaints, and
+implementing resolutions.
+
+7     MONITORING AND REPORTING
+7.1   Summary of how SEP will be monitored and reported upon
+
+The SEP will be monitored based on both qualitative reporting (based on progress reports) and
+quantitative reporting linked to results indicators on stakeholder engagement and grievance
+performance.
+SEP reporting will include the following:
+    • A quarterly report prepared by the E&S team of the program, covering, in addition to the
+        indicators described below, the main commitments specified in the Environmental and Social
+        Commitment Plan (ESCP) in relation to the SEP.
+    • Cumulative qualitative reporting, prepared on a quarterly basis, included in the ESHS
+        performance report, as provided for in the ESCP, should provide feedback received during SEP
+        activities, in particular (a) issues that have been raised that can be addressed through changes
+        in program scope and design, and reflected in the basic documentation of the program such as
+        PAD, ESIA/ESMP, SEA/SH Action Plan, between others; (b) issues that have been raised and
+        can be addressed during program implementation; (c) issues that have been raised that are
+        beyond the scope of the program and are better addressed through alternative programs,
+        programs or initiatives; and (d) issues that cannot be addressed by the program due to technical,
+        jurisdictional or excessive cost-associated reasons. Minutes of meetings summarizing the
+        views of the attendees should also be annexed to the monitoring reports.
+    • The following minimum indicators should be covered:
+             o Number of grievances received, disaggregated by gender of workers and worksite,
+                 resolved within a specified time frame.
+             o Number of SEA/SH cases reported in the program areas.
+             o Number of grievances that have been (i) opened, (ii) opened for more than 30 days,
+                 (iii) resolved, (iv) closed, and (v) number of responses that satisfied the
+                                                   30
+
+
+
+                                                                                                     Official Use Only
+                 complainants, during the reporting period disaggregated by category of grievance,
+                 gender, age, and location of complainant.
+            o    Number of actions taken in a timely manner in response to feedback received during
+                 consultation sessions with program affected parties.
+            o    Number of consultation meetings and public discussions where the feedback and
+                 recommendation received is reflected in sub-programs design and implementation.
+            o    Number of disaggregated engagement sessions held, focused on at-risk groups in the
+                 program.
+            o    Percentage of SEP activities implemented.
+            o    Number of adjustments made in the stakeholder engagement approach to improve
+                 programs’ outreach, inclusion and effectiveness.
+            o    Number of instances where consultation feedback was communicated back to
+                 communities, including actions taken.
+
+In annex 3 a sample table is included with more details on monitoring and reporting on the SEP,
+specifically with key evaluation questions, indicators and data collection methods.
+
+7.2   Reporting back to stakeholder groups
+
+This SEP will be periodically revised and updated as necessary in the course of program implementation
+in order to ensure that the information presented herein is consistent and is the most recent, and that the
+identified methods of engagement remain appropriate and effective in relation to the program context
+and specific phases of the development.
+
+The results of stakeholder engagement activities will be reported back to both program-affected parties’
+stakeholders and different stakeholder groups using methodologies and means identified in sections 4.2
+and 4.3 of this SEP. Quarterly summaries on grievances, inquiries, should be included in the ESHS
+performance report as provided for in the ESCP, together with the status of implementation of
+associated corrective/preventative actions, to be collated by the E&S team of the program and referred
+to the program coordinator. The quarterly summaries will provide a mechanism for assessing both the
+number and the nature of grievances and requests for information, along with the program's ability to
+address those in a timely and effective manner.
+
+
+
+
+                                                    31
+
+
+
+                                                                                                      Official Use Only
+Annex 1: Template to capture consultation minutes
+ Stakeholder          Dates of          Summary           Response of        Follow-up     Timetable/
+ (Group or          Consultations          of              Program          Action(s)/Next   Date to
+ Individual)                            Feedback        Implementation          Steps      Complete
+                                                            Team                           Follow-up
+                                                                                            Action(s)
+
+
+
+
+Annex 2: Sample Grievance registration form
+  A unique code should be assigned to each grievance at the first time they submit a complaint, and
+        the same code should be used for all future grievance reported by the same person.
+ 1. INCIDENT IFORMATION
+ 1.1 Received By:                       1.2 Date received:                   1.3 Reported by:
+
+
+
+ 1.4 Grievance category - (Circle as appropriate)
+ (Compensation/Land access/Inadequate Notification/Disruption to business or property/ Property
+ damage/Environmental damage/Safety Risk/Traffic/Boundary Dispute/Other)
+ Other
+ ………………………………………………………………………………………………………………………
+ ….
+ 1.5 Program Related?                   1.6 Date of the report to            1.7 Date of the report to
+                                        Contractor:                          PCU:
+ Yes: ☐ No: ☐
+
+ - If the grievance is not related to
+ the program do not continue.
+
+ 1.8 Case ID:                           1.9 Location                         1.10 District:
+
+
+ 1.11 Contract Number:                                      1.12 Name of the contractor:
+
+
+
+ 1.13 Risk of retaliation: Yes: ☐ No: ☐
+
+
+
+
+                                                       32
+
+
+
+                                                                                                         Official Use Only
+1.14 Description of grievance:
+
+
+
+
+2. RESOLUTION FEEDBACK
+
+2.1 Complainant satisfied with process? Yes: ☐        Why not?
+No: ☐
+
+
+
+2.2 Complainant satisfied with outcome? Yes: ☐        Why not
+No: ☐
+
+
+
+2.3 Other relevant information:
+
+
+3. ACTION TAKEN TO RESOLVE THE GRIEVANCE
+
+Reported to                       Date Reported                  Action Taken
+
+
+Print name (complainant):
+
+
+Signed (complainant)                                  Date:
+
+
+Signed (Grievance Focal Point)                        Date:
+
+
+Copied to:
+
+
+
+
+                                                 33
+
+
+
+                                                                                Official Use Only
+Annex 3: Sample Table: Monitoring and Reporting on the SEP
+
+ Key evaluation questions               Specific Evaluation questions        Potential Indicators                    Data Collection Method
+ GM. To what extent have program-       • Are program affected parties       • Usage of GM and/or feedback           Records from the implementing
+ affected parties been provided with       raising issues and grievances?       mechanisms                           agency and other relevant agencies.
+ accessible and inclusive means to      • How quickly/effectively are the    • Requests for information from
+ raise issues and grievances? Has the      grievances resolved?                 relevant agencies.
+ implementing agency responded to                                            • Use of suggestion boxes placed
+ and managed such grievances?                                                   in the villages/program
+                                                                                communities.
+                                                                             • Number of grievances raised by
+                                                                                workers, disaggregated by
+                                                                                gender of workers and worksite,
+                                                                                resolved within a specified time
+                                                                                frame.
+                                                                             • Number of Sexual Exploitation,
+                                                                                and Abuse/Sexual Harassment
+                                                                                (SEA/SH) cases reported in the
+                                                                                program areas, which were
+                                                                                referred for health, social, legal
+                                                                                and security support according
+                                                                                to the referral process in place.
+                                                                                (if applicable)
+                                                                             • Number of grievances that have
+                                                                                been (i) opened, (ii) opened for
+                                                                                more than 30 days, (iii)
+                                                                                resolved, (iv) closed, and (v)
+                                                                                number of responses that
+                                                                                satisfied the complainants,
+                                                                                during the reporting period
+                                                                                disaggregated by category of
+                                                                                grievance, gender, age, and
+                                                                                location of complainant.
+
+                                                                            34
+
+
+
+                                                                                                                                                      Official Use Only
+Key evaluation questions           Specific Evaluation questions          Potential Indicators                  Data Collection Method
+Stakeholder engagement impact      • Was there interest and support       • Active participation of             • Stakeholder Consultation
+on program design and                 for the program?                       stakeholders in activities            Attendance Sheets/Minutes
+implementation. How have           • Were there any adjustments           • Number of actions taken in a        • Evaluation forms
+engagement activities made a          made during program design and         timely manner in response to       • Structured surveys
+difference in program design and      implementation based on the            feedback received during           • Social media/traditional media
+implementation?                       feedback received?                     consultation sessions with            entries on the program results
+                                   • Was priority information                program affected parties.
+                                      disclosed to relevant parties       • Number of consultation
+                                      throughout the program cycle?          meetings and public discussions
+                                                                             where the feedback and
+                                                                             recommendation received is
+                                                                             reflected in program design and
+                                                                             implementation.
+                                                                          • Number of disaggregated
+                                                                             engagement sessions held,
+                                                                             focused on at-risk groups in the
+                                                                             program.
+Implementation effectiveness.      •   Were the activities implemented    • Percentage of SEP activities        •   Communication Strategy
+Were stakeholder engagement            as planned? Why or why not?           implemented.                           (Consultation Schedule)
+activities effective in            •   Was the stakeholder engagement     • Key barriers to participation       •   Periodic Focus Group
+implementation?                        approach inclusive of                 identified with stakeholder            Discussions
+                                       disaggregated groups? Why or          representatives.                   •   Face-to-face meetings and/or
+                                       why not?                           • Number of adjustments made in           Focus Group discussions with
+                                                                             the stakeholder engagement             Vulnerable Groups or their
+                                                                             approach to improve programs’          representatives
+                                                                             outreach, inclusion and
+                                                                             effectiveness.
+
+
+
+
+                                                                         35
+
+
+
+                                                                                                                                                Official Use Only
+Annex 4: List of Participants in Program Preparation Consultations
+ Province       Date              Institution/Organization Represented
+                                Government Institutions
+ Cabo Delgado   24 February 2026 Pemba District Government
+                                  Metuge District Government
+                                  Ibo district government
+                                  Provincial Directorate of Industry and Commerce
+                                  Ibo District Service for Education, Youth and Technology
+                                  Ibo District Health, Women and Social Action Service
+                                  Ibo District Planning and Infrastructure Service
+                                  District Office for Health, Women and Social Action
+                                  Chiure
+                                  Ancuabe District Office for Economic Activities
+                                  Muidumbe Economic Activities District Office
+                                  Nangade District Health, Women and Social Action
+                                  Service
+                                  District Office for Economic Activities of Mecufi
+                                  Balama District Office for Economic Activities
+                                  District Office for Economic Activities of Chiúre
+                                  District Office for Economic Activities of Meluco
+                                  Ibo District Office for Economic Activities
+                                  Ancuabe District Office of Planning and Infrastructure
+                                  District Service of Planning and Infrastructure of Meluco
+                                  Nangade District Office for Economic Activities
+                                  District Service of Planning and Mecufi Infrastructures
+                                  District Planning and Infrastructure Service Macomia
+                                  ADIN
+                                  Mueda District Secretariat
+                                  Nangade District Secretariat
+                                  Director
+                                  Cabo Delgado Provincial Health Service
+                                  SPU Balama
+                                  Balama District Office of Education, Youth and
+                                  Technology
+                                  SPD Meluco
+                                  Provincial Secretariat of Economy and Finance
+                                  District Service for Health, Women and Social Action of
+                                  Palma
+                                  District Office for Education, Youth and Technology of
+                                  Palma
+                                  District Office for Education, Youth and Technology of
+                                  Mecufi
+                                  District Office for Education, Youth and Technology of
+                                  Mocímboa da Praia
+                                  Ancuabe District Office of Health, Women and Social
+                                  Action
+                                  District Office of Education, Youth and Technology of
+                                  Montepuez
+                                  Montepuez District Health, Women and Social Action
+                                  Service
+                                  Montepuez District Office for Economic Activities
+                                  Mueda District Office for Economic Activities
+                                            36
+
+
+
+                                                                                         Official Use Only
+Province   Date   Institution/Organization Represented
+                  Mueda District Office for Education, Youth and
+                  Technology
+                  Office of the Governor
+                  MPD
+                  ANOP - MOPHRH
+                  Provincial Directorate of Youth, Employment and Sports
+                  of Cabo Delgado
+                  Nangade District Office of Education, Youth and
+                  Technology
+                  District Service for Health, Women and Social Action of
+                  Meluco
+                  Cabo Delgado Provincial Directorate of Health
+                  District Office of Planning and Infrastructure of Pemba
+                  Namuno District Office for Health, Women and Social
+                  Action
+                  Namuno District Economic Activities Office
+                  District Service for Health, Women and Social Action of
+                  Balama
+                  Chiure District Planning and Infrastructure Service
+                  Balama District Office of Planning and Infrastructure
+                  Metuge District Office of Planning and Infrastructure
+                  District Office of Planning and Infrastructure of
+                  Montepuez
+                  Namuno District Office of Planning and Infrastructure
+                  Nangede District Planning and Infrastructure Service
+                  District Service of Planning and Infrastructures of Palma
+                  Metuge District Office for Education, Youth and
+                  Technology
+                  Pemba District Office for Education, Youth and
+                  Technology
+                  Muidumbe District Office for Education, Youth and
+                  Technology
+                  District Office of Education, Youth and Technology of
+                  Meluco
+                  Ancuabe District Office of Education, Youth and
+                  Technology
+                  Macomia District Office of Education, Youth and
+                  Technology
+                  Metuge District Office for Economic Activities
+                  Namuno District Secretariat
+                  District Service of Planning and Infrastructure of
+                  Quissanga
+                  Muidumbe District Office of Planning and Infrastructure
+                  Cabo Delgado Provincial Directorate of Territorial
+                  Development and Environment
+                  District Service of Health, Women and Social Action of
+                  Quissanga
+                  SPD Montepuez
+                  SPD Palma
+                  SPD Mocimboa da Praia
+                  District Office for Economic Activities of Quissanga
+                  GP de Cabo Delgado
+                            37
+
+
+
+                                                                          Official Use Only
+Province       Date              Institution/Organization Represented
+                                 Cabo Delgado Provincial Directorate of Planning and
+                                 Finance
+                                 Cabo Delgado Provincial Directorate of Public Works
+                                 Muidumbe District Office
+                                 Pemba District Office for Economic Activities
+                                 District Service of Education, Youth and Technology of
+                                 Quissanga
+                                 District Office for Education, Youth and Technology of
+                                 Chiúre
+                                 Cabo Delgado Provincial Directorate of Planning and
+                                 Finance
+                                 Muidumbe District Health, Women and Social Action
+                                 Service
+                                 District Office for Health, Women and Social Action of
+                                 Macomia
+                                 District Service of Planning and Infrastructure of Mueda
+                                 Cabo Delgado Provincial Directorate of Health
+                                 District Service of Health, Women and Social Action of
+                                 Mecufi
+                                 Macomia District Office for Economic Activities
+                                 Ancuabe District Secretariat
+                                 Chiúre District Office
+                                PRIVATE SECTOR
+Cabo Delgado   24 February 2026 Nutrivida Deokala
+                                 Mar e Sol Restaurant
+                                 Marisa and Events
+                                 CFM Pemba
+                                 Provincial Directorate of Industry and Commerce
+                                 Petromoc
+                                 Avibila Lda
+                                 Madopera Comercial
+                                 Lis, Lda
+                                 Red Point
+                                 MozCon, Lda
+                                 Sheiva Esplanade
+                                 Sanlo Mozambique
+                                 Exxonmobil
+                                 Nunisa Consultant
+                                 JJ Consultants
+                                 Cabo Front Farmácia
+                                 CPDE Cabo Delgado
+                                 Office of the Governor
+                                 ADIN
+                                 Ministry of Planning and Development
+                        CIVIL SOCIETY ORGANIZATIONS
+                                 Fruitcad
+                                 UNOPS
+                                 PIJU
+                                 F.Ariel
+                                 AMMC
+                                 Kutenda - GPCEM
+
+                                           38
+
+
+
+                                                                                            Official Use Only
+Province   Date              Institution/Organization Represented
+                             Doimongo Association
+                             Wiwanana Foundation
+                             ADEL - CD
+                             Cislamo-CD
+                             MASC Foundation
+                             Blue Foundation
+                             Access Women
+                             Monção, Lda
+                             Secure Accounts and Services
+                             Moz Facility
+                             Assoti
+                             Office of the Governor
+                             Rezz Lda
+                             ANOP, IP
+                             ADIN
+                             Promura
+                             Livaningo
+                             Technoserve
+                             FOCADE
+                             Africar Rental
+                             IDES
+                             Moz Facility
+                             Muepane Chicken
+                             Kuendeleya Association
+                             Reef Investment
+                             Salama Pemba
+                             Coop Mov
+                             ANJE
+                             The World Bank
+                             Ministry of Planning and Development
+                           Government Institutions
+Nampula    17 February 2026 ADIN
+                             Ministry of Planning and Development
+                             ANOP, IP
+                             The World Bank
+                             District Service of Education, Youth and Technology of
+                             Ribáuè
+                             Memba District Office for Economic Activities
+                             District Office of Health, Women and Social Action of
+                             Memba
+                             Ribaue District Office for Health, Women and Social
+                             Action
+                             Mecuburi District Office for Economic Activities
+                             Malema District Office for Education, Youth and
+                             Technology
+                             Malema District Secretariat
+                             District Office for Education, Youth and Technology of
+                             Memba
+                             District Service of Planning and Infrastructure of Muecate
+                             District Service of Planning and Infrastructure of Memba
+
+
+                                       39
+
+
+
+                                                                                     Official Use Only
+Province   Date              Institution/Organization Represented
+                             District Service of Planning and Infrastructure of
+                             Mecuburi
+                             Malema District Office of Planning and Infrastructure
+                             Malema District Office for Education, Youth and
+                             Technology
+                             Ribaue District Office for Economic Activities
+                             District Service of Health, Women and Social Action of
+                             Muecate
+                             Nampula Provincial Directorate of Public Works
+                             Ribáuè District Government
+                             Memba District Government
+                             Erati District Government
+                             Mecuburi District Government
+                             Malema District Government
+                             Muecate District Government
+                             District Office of Education, Youth and Technology of
+                             Erati
+                             District Office for Health, Women and Social Action Erati
+                             District Office for Education, Youth and Technology of
+                             Muecate
+                             Muecate District Secretariat
+                             Malema District Office for Economic Activities
+                            PRIVATE SECTOR
+Nampula    18 February 2026 ANOP, IP
+                             SAS, Lda
+                             Terminof Logistica
+                             Othuma
+                             Temzive
+                             NBS Investment
+                             Casa AAZ, SU, Lda
+                             Auto hez
+                             Kaku, Lda
+                             INCEP, Lda
+                             Nutrinatural
+                             JM Global
+                             AMC Constructions
+                             HB Eng. and Construction
+                             Korosho Mozambique
+                             ADVZ - FCID
+                             JD Multiservice
+                             Selectayash
+                             Actionaid
+                             Agi Mozambique
+                             Green Agro
+                             Mocooon Ltd
+                             Trajectus, Lda
+                             Che Soud
+                             Miniecto
+                             Mereca, SU, Lda
+                             Agro Rendimento
+                             ADIN
+                                       40
+
+
+
+                                                                                    Official Use Only
+Province   Date             Institution/Organization Represented
+                            Nutrivida
+                            Wissa
+                            Ouani
+                            CTA
+                            Zip code
+                            CCD Logistics
+                            AGT/CTA
+                            Miroky
+                            Ministry of Planning and Development
+                            The World Bank
+                            Sonasserus
+                            Moz shopping
+                            PSV, Lda
+                            Jacasanto
+                            InspCosSestood
+                            J.A.V, Lda
+                            Export Marketing
+                            Agro for Life
+                            Umblella Investment
+                            N&I Dream
+                            Tecmarc, Lda
+                            Kizamdu Commercial
+                            Prome Comercial
+                            T.F.L. Norte, Lda
+                            Jacaranda
+                            Mindelo Fumigações
+                            Quisold
+                            MN Logistic
+                            Omega 3
+                            Jobbe Moz, Lda
+                            E.S.C
+                            CENY Services
+                            EJ Transportation and Services
+                            Ouriversaria
+                            Libya agriculture
+                    CIVIL SOCIETY ORGANIZATIONS
+Nampula    18 February 2026 UNDE
+                            DPOP
+                            HRG
+                            Ekumi Association
+                            ADRA
+                            Ovarana Association
+                            Hooty
+                            Vamossa
+                            Ophavela
+                            IMC Association
+                            AVR Association
+                            Nroromelo
+                            Nivahane
+                            Okhaphelela
+                            Bolster
+                                     41
+
+
+
+                                                                   Official Use Only
+Province   Date                Institution/Organization Represented
+                               Nivenyee
+                               Widow
+                               Ossokhela
+                               Ouani, Lda
+                               AMDN
+                               ACN
+                               Forum Terra
+                               AMR
+                               Auto
+                               World Vision
+                               Wissa
+                               Awolcina
+                               Ajoval
+                               ADAD
+                               Agir Mozambique
+                               MMP
+                               HRG
+                               Sold Moz
+                               Success Moz
+                               Orila
+                               AAMozambique
+                               Olipa-ODES
+                               ANOP, IP
+                               Kulima
+                               Ministry of Planning and Development
+                               APSC
+                               Girl Motination
+                               The World Bank
+
+Niassa     February 19, 2026   DPOP
+                               Niassa District Office for Education, Youth and
+                               Technology
+                               District Planning and Infrastructure Service
+                               District Office for Economic Activities
+                               Nipepe District Health, Women and Social Action Service
+                               ADIN
+                               The World Bank
+                               Ministry of Planning and Development
+                               ANOP, P
+                               District Service of Planning and Infrastructure of Mecula
+                               Mecula District Office for Economic Activities
+                               District Office of Health, Women and Social Action of
+                               Mecula
+                               Mecula District Office for Education, Youth and
+                               Technology
+                               FNDS
+                               District Service of Health, Women and Social Action of
+                               Marrupa
+                               Marrupa District Office for Economic Activities
+                               District Service of Planning and Infrastructure of Marrupa
+                               Nipepe District Secretariat
+                                       42
+
+
+
+                                                                                       Official Use Only
+Province       Date           Institution/Organization Represented
+                              Mecula District Government
+                              Marrupa District Secretariat
+CIVIL SOCIETY ORGANIZATIONS
+Niassa       20 February 2026 Unops
+                              UNFPA
+                              Progress
+                              UN-Habitat
+                              UNDP
+                              FAO
+                              FOFEN
+                              Amathes
+                              CPS
+                              Poverty Alleviation
+                              Actionaid
+                              'Re
+                              Ark
+                              Ekweli
+                              Ark/Solid
+                              UPCN
+                              Fassod
+                              Amalipo
+                              Lambda
+                              UCA
+                              ICRA
+                              Ministry of Planning and Development
+                              Sancom
+                              MMMR
+                              Ark of Solidarity
+                              Plasoc-m
+                              Fonagni
+                              Imani
+                              Aru Mozambique
+                              OFEC
+                              Orera
+                              Parliament S
+                              Kupweshelama
+                              Assoti
+                              Amoprec
+                              Amodes
+                              CBS
+                              SOPESC
+                              ANIN
+                              Aro-Moz
+                              Rooas
+PRIVATE SECTOR
+Niassa       20 February 2026 FAI
+                              CROC C. Services
+                              Mahoze Services
+                              Yarlim M. Services
+                              GNY
+                              Imperial
+                                        43
+
+
+
+                                                                     Official Use Only
+Province   Date   Institution/Organization Represented
+                  Coop.Wannango
+                  ALVIDA
+                  CAESE
+                  GENIUL
+                  MM. Garda
+                  N'toqua Ecologe
+                  C.Qwane
+                  Quinta do Pinhal
+                  Lucy Fashion
+                  Eusébio Agrícola
+                  Casa D'Peixe
+                  Vulo Aviary
+                  Petromasses
+                  AV.J.P. Servic.
+                  FIS, Lda
+                  Dream Agribusiness
+                  Kwichinga
+                  Sublime Trading
+                  Amodren
+                  MP. services, and
+                  CEP-CTA
+                  Attis
+                  Transport
+                  NEA-CTA
+                  JP Compraction
+                  Atram
+                  Chaqui
+                  Lent.F
+                  Green Revolution
+                  A Redomadul
+                  MN. Service, El
+                  Bendiak
+
+
+
+
+                          44
+
+
+
+                                                         Official Use Only
+

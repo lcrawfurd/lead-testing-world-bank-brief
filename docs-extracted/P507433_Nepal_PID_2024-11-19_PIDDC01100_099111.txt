@@ -1,0 +1,468 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                  Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 19-Nov-2024 | Report No: PIDDC01100
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                    Operation Name
+Nepal                          P507433                         NP Modernization of Rani Jamara Kulariya Irrigation
+                                                               Project - Phase 3
+Region                         Estimated Appraisal Date        Estimated Approval Date        Practice Area (Lead)
+SOUTH ASIA                     03-Apr-2025                     30-May-2025                    Water
+Financing Instrument           Borrower(s)                     Implementing Agency
+Investment Project             Ministry of Finance             Ministry of Energy Water
+Financing (IPF)                                                Resources and Irrigation ,
+                                                               Department of Agriculture,
+                                                               Department of Water
+                                                               Resources and Irrigation
+
+Proposed Development Objective(s)
+To improve irrigation services, agricultural productivity, and climate resilience in the target areas.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      No
+Is this project Private Capital Enabling (PCE)?                No
+
+SUMMARY
+  Total Operation Cost                                                                                               150.00
+
+  Total Financing                                                                                                    150.00
+             of which IBRD/IDA                                                                                   150.00
+  Financing Gap                                                                                                        0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                   150.00
+
+
+                                                                                                                        Page 1
+         The World Bank
+         NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+          IDA Credit                                                                                                                                    150.00
+
+
+
+
+  @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                          Concept Review Decision
+Substantial
+
+
+
+
+ Other Decision (as needed)
+
+ B. Introduction and Context
+
+ Country Context
+
+    1. Nepal is a landlocked country along the Himalayan Mountain range, with a population of 29.2 million. The
+    country has seen immense socio-economic and political transformation in the last two decades. Real gross domestic
+    product (GDP) growth averaged 4.5 percent over the last decade despite stagnation in 2016 (due to the earthquakes)
+    and a recession in 2020 (due to the COVID-19 pandemic).1 Average headline inflation moderated to 5.4 percent in FY24,
+    down from 7.7 percent in FY23. However, public debt has risen to 42.7 percent of GDP in FY23, up from 25.6 percent
+    in 2015, caused by fiscal reforms post-federalization, rising expenditure on imports, and spending related to COVID-19
+    recovery and relief programs.2 The poverty rate has dropped largely due to remittances, with one-fifth of the
+    population living in poverty under a newly revised 2023 poverty line.3 Nepal's Multidimensional Poverty Index (MPI)
+    also shows a reduction from 30 percent to 17 percent between 2014 and 2019,4 signaling broader welfare
+    improvements beyond just income. Overall, Nepal’s growth outlook is positive, with growth expected to accelerate to
+    5.5 percent by FY26. The services sector is anticipated to remain the main driver of growth in the medium term.
+
+    2. Politically, Nepal's federal structure continues to evolve. Nepal’s political system is democratic with a coalition-
+    based government. Nepal has had four successive coalition governments that took office since the federal and
+    provincial elections held in November 2022. The current coalition took over on July 14, 2024 led by the two largest
+    parties in parliament. The change in government has impacted the provincial government set up as well. At the sub-
+    national level, funds, functions, and staff are managed by the seven provinces and 753 local governments for which
+    legislation, institutions, and administrative procedures have been formalized as constitutionally prescribed while the
+    task of enacting new laws and amending existing ones in line with the 2015 constitution is still in progress.
+
+    3. Nepal is highly vulnerable to the impacts of climate change. Every year, the country suffers substantial socio-
+    economic loss and damage because of natural and climate-induced hazards. The country ranks 139 out of 182 in terms
+
+1 Economic Survey Report 2023, Ministry of Finance, GoN
+2 Economic Survey Report 2023, Ministry of Finance, GoN
+3 Central Bureau of Statistics (CBS). 2023. Nepal Living Standard Survey IV - 2022/23. CBS of the Government of Nepal, Kathmandu.
+4 Central Bureau of Statistics (CBS) and Oxford Poverty and Human Development Initiative (OPHI). 2021.Nepal Multidimensional Poverty Index: analysis towards
+
+action. CBS of the Government of Nepal, Kathmandu
+
+
+                                                                                                                                                               Page 2
+          The World Bank
+          NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+    of exposure, sensitivity, and ability to adapt to the negative impacts of climate change 5. Disasters such as the 2017
+    floods, the 2021 Melamchi disaster, and the recent 2024 floods caused massive damage to infrastructure, including
+    hydropower facilities. They severely impacted the economy while also killing hundreds of people and displacing
+    thousands. Climate change is expected to increase the intensity and frequency of extreme events, with drier winters
+    and wetter monsoons. The number of people affected by such events is projected to rise to 350,000 by 2030, more
+    than double the number impacted in 2010.
+
+    4. Nepal faces significant structural constraints such as weak infrastructure, a weak labor market, and inadequate
+    public provision of essential services like electricity and water. Addressing these bottlenecks is crucial to achieving
+    inclusive growth and poverty reduction. Ensuring fiscal sustainability while promoting equitable growth, especially in
+    rural areas, remains a key priority. The country also faces significant risks from climate change, necessitating a focus
+    on resilient infrastructure and sustainable practices in sectors like water and agriculture. The Government of Nepal
+    (GoN) adopted the Green, Resilient, and Inclusive Development (GRID) approach in September 2021 to address the
+    interrelated challenges of achieving a durable economic recovery from COVID-19, climate risks, natural capital
+    depletion, and the exclusion of vulnerable people from economic opportunities. The government’s program centers
+    on mainstreaming ten priority transitions from the GRID Strategic Action Plan (SAP) into national development efforts,
+    which include investments in irrigation and agriculture support services.
+
+ Sectoral and Institutional Context
+
+    5. Agriculture is central to Nepal’s economy and integral to poverty reduction. It accounts for over 60 percent of
+    employment and nearly 24 percent of GDP in 2022.6 But the productivity and level of income from agriculture remain
+    below potential because of underinvestment in critical enablers, such as irrigation services, climate-smart agriculture,
+    value chains, and watershed services. The result is persistent food insecurity (3.8 million people as of 2022)7 and rising
+    food imports (2.5-fold increase since 2014)8. Climate change also threatens the very natural resources base on which
+    agriculture depends.
+
+    6. The sector is characterized by conventional farming practices, a large share of small-holder farming, and farmer-
+    managed irrigation systems. It primarily produces food grains, livestock, and cash crops, but the share of higher-value
+    crops has been rising gradually. Agricultural productivity growth requires crop diversification, high-yielding varieties,
+    improved fertilization, mechanization, reliable year-round irrigation, and the assurance among farmers that such
+    investments are profitable. The lack of year-round irrigation, climate-smart agricultural services, and post-harvest
+    value-chain services such as cold storage and market access are some key factors hindering agricultural productivity
+    growth.
+
+    7. Irrigation systems in Nepal fall under four distinct categories: (1) traditional farmer-managed irrigation systems
+    (FMIS) developed and managed by the communities; (2) a range of small to large-scale surface systems developed with
+    full or partial support from the government; (3) government-developed tube-well irrigation schemes; and (4)
+    individually-owned and operated tube wells and pumps, primarily utilizing shallow aquifers, streams, ponds, and dug
+    wells. About half of net irrigable land (about 1.56 million ha) is irrigated of which less than 40 percent has access to
+
+
+
+5 Amadio, M., Behrer, A.P., Bosch, L., Kaila, H.K., Krishnan, N. and Molinario, G., 2023. Climate Risks, Exposure, Vulnerability and Resilience in Nepal.
+6 -Ministry Of Finance- Economic Survey 2021/22
+7 Ministry of Health and Population, New ERA, and ICF. 2023. Nepal Demographic and Health Survey (DHS) 2022.
+8 Derived from countries’ reporting to the United Nations Statistical Division (COMTRADE) | https://atlas.cid.harvard.edu/explore
+
+
+
+
+                                                                                                                                                            Page 3
+           The World Bank
+           NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+      year-around irrigation.9 Thus, Nepal’s agriculture productivity remains highly vulnerable not only to climate shocks but
+      also to intra-annual climate variability.
+
+      8. Nepal is rich in water resources10 but only uses about 10 percent of its water resources due to inadequate
+      infrastructure. Climate change will worsen the spatial and temporal variability of precipitation in Nepal, increasing
+      vulnerability. The projected agricultural losses by 2050 under high-emission scenarios (RCP 8.5) could lower GDP by 2.2
+      percent, three times higher than in low-emission cases.11 Western provinces face severe drought risks, threatening
+      productivity. Often, farmers get unreliable rainfall, with both droughts and floods occurring in the same season. Thus,
+      transforming the agriculture sector requires expansion and upgrade of the irrigation systems to regulate supply. With
+      reliable and equitable irrigation systems, farmers could then focus on complementary inter-farm/farm-level
+      investments such as improving agricultural techniques, inputs, and cropping intensity.
+
+      9. GoN has recognized this challenge and developed a new irrigation policy and irrigation master plan 2019
+      (updated 2024). The Irrigation Policy 2023 aims for higher year-round irrigation and has introduced significant reforms
+      for managing Joint Management Irrigation Systems (JMIS). It assigns the federal Irrigation Agency (IA) to manage the
+      main system with Water User Associations (WUAs) handling the distribution. Moreover, the policy makes a new
+      provision for establishing an operational linkage with the respective local government for efficient management,
+      operation, and maintenance (MOM) of irrigation systems, especially enabling stronger enforcement of irrigation
+      service fee (ISF) by linking its collection to the local land tax collection system. Currently, there is significant variation
+      in WUA capacity for MOM. Traditionally, FMISs have outperformed agency managed systems in terms of irrigation
+      service delivery, fee collection rates, and overall system maintenance. However, with increasing labor migration, many
+      FMIS suffer from lower participation in management and rehabilitation, and need the additional support from local
+      governments and IAs that the new policy enables.
+
+      10. The Rani Jamara Kulariya Irrigation Project (RJKIP) is one of the GoN’s national pride projects in the western
+      region in Sudarpaschim province – a province with the highest rate of poverty in Nepal (34.2 percent). The Ministry
+      of Energy, Water Resources, and Irrigation (MoEWRI) oversees irrigation provision, and the Ministry of Agriculture and
+      Livestock Development (MoALD) undertakes on-farm interventions and agricultural support services. Both ministries
+      coordinated to implement the RJKIP project. The Bank supported both Phase 1 (2012-2017) and Phase 2 (2018-2025)
+      of RJKIP, modernizing the irrigation infrastructure on 14,000 hectares, enhancing flood and erosion control, improving
+      rural roads and bridges for better connectivity and market access, promoting watershed conservation, building capacity
+      of WUAs, and providing agricultural support services. The Bank’s support to RJKIP Phase 1 and 2 has benefited over
+      157,000 people. RJKIP Phase 3 will scale up the impact, expanding year-round irrigation to another 17,500 hectares
+      and reaching an additional 170000 people.
+
+ Relationship to CPF
+  11. The project aligns with the CPF FY 19-2312 (Focus Area 3: Improved adoption of sustainable natural resource
+  management) extended to FY24 by the Performance and Learning Review13 and outcome areas prioritized by the new
+
+
+9 Irrigation Master Plan 2019 (updated 2024)
+
+10
+     Average annual total renewable water resource is about 220 Km3,
+11 Nepal Country and Climate Development Report (CCDR, 2023)
+12
+     Report No. 83148-NP; July 10, 2018, discussed by the Board on August 7, 2018
+13
+     Report No. 168048-NP, January 17, 2022, discussed by the Board on February 22, 2022.
+
+                                                                                                                               Page 4
+         The World Bank
+         NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+   World Bank Group (WBG) scorecard, namely sustainable food systems and better jobs. It addresses two priority global
+   challenges: i) water security and climate change adaptation and (iii) food and nutrition security.
+
+ C. Proposed Development Objective(s)
+    12. To improve irrigation services and agricultural productivity in the target areas.
+
+
+  Key Results (From PCN)
+
+     •    Farmland benefiting from year-round irrigation services – 17,500 ha
+     •    People benefiting from increased agricultural production (90,000)14
+     •    People benefiting from enhanced climate resilience – 170,000 (CSC indicator)
+
+ D. Concept Description
+  13. RJKIP 3 (2025-2031) will expand access to irrigation services, increase farm productivity, enhance climate
+  resilience, and boost rural incomes in Kailali district, Sudurpaschim Province. The completion of the water intake and
+  the main canal has laid the groundwork for constructing the distribution network westward, along with complementary
+  investments in agriculture. The project scope will thus include the extension of the feeder canal and the development
+  of lower-order canals so that irrigation water can reach farmer fields equitably with optimal flows, the continuation of
+  the Water User Association (WUA) support program, and the implementation of a comprehensive agricultural
+  improvement program. It will also incorporate measures for resilience, such as building small storage ponds and
+  augmentation of existing small water bodies to capture monsoon precipitation. Phase 3 will be aligned with Nepal’s
+  GRID approach to ensure the sustainability and resilience of irrigation schemes and livelihoods.
+
+   The project will have following four components:
+
+   14. Component 1: Irrigation improvement and development (US$100 million): This component aims to build and
+   improve the irrigation distribution network in Pathariya area, west of the RJK to distribute part of the existing intake
+   volume of 80 m³/s drawn at Chisapani. The main canal bifurcates to supply 40 m³/s to the RJK area and 40 m³/s to
+   Lamki and Pathariya. From that point, the GoN has completed the construction of the Lamki feeder canal and is in the
+   process of developing distribution networks in the Lamki command area. However, the distribution networks in the
+   remaining Patharaiya area remain incomplete and this component aims to undertake this work to allow for equitable
+   access throughout the command area of Pathariya (17,500 ha) across four palikas.15 This component will also include
+   improvement and construction of rural roads and bridges, and canal operator's houses.
+
+   15. Component 2: Watershed management (US$20 million): This component will finance various watershed
+   management activities to prevent soil erosion, conserve watershed areas, and mitigate the impact of floods and
+   droughts on agricultural productivity. These will include riverbank protection, landslide and gully control, check dams,
+
+
+14 Increased agricultural production is defined as increased production resulting from project interventions including but not limited to agriculture
+
+assets, improved technologies and services, finance etc. Interventions are aimed at households. Total beneficiaries are calculated assuming average
+household size of 4.5.
+
+15 Palikas are the local governments (urban or rural municipalities). The four beneficiary-Palikas are Ghodaghodi, Bhajani, Bardgoriya and Joshipur.
+
+
+
+                                                                                                                                                  Page 5
+          The World Bank
+          NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+      and afforestation. The project area has several natural lakes and wetlands that community user groups have been using
+      for irrigation, tourism, and fisheries, which need to be improved and rehabilitated. The component will support the
+      rehabilitation and augmentation of these existing small--sized multipurpose water storage and the development of
+      new water storage ponds to capture monsoon precipitation where feasible. Given the seasonal variability in water
+      availability, it is crucial to develop sustainable water storage solutions that align with the principles of watershed
+      management and water conservation. Furthermore, effective watershed management is essential for the long-term
+      sustainability of irrigation systems and the protection of agricultural command areas.
+
+      16. Component 3: Agriculture support services (US$20 million): With enhanced year-round irrigation, RJKIP 2 has
+      improved cropping intensity by 130 percent16 and promoted crop diversification through horticulture and vegetable
+      farming especially in the dry seasons. For RJK 3, the planned irrigation expansion is expected to increase cropping
+      intensity to 226 percent, supported by targeted investments in agriculture. This component will serve all the existing
+      and new command areas covered by the RJK irrigation system including the RJK 1 & 2, Lamki and Pathariya. It will
+      finance investments for: i) enhancing productivity, efficiency, and resilience of the agriculture sector; ii) improving the
+      capacity of farmers to adapt to modern technologies and farming practices, especially those focused on improved
+      water resource management; and iii) promoting value addition of agriculture products. This component will invest in
+      agricultural modernization to be achieved through i) promotion of high-value agriculture and diversification; ii) use of
+      locally viable climate-smart technologies and improved varieties; iii) adoption of modern technologies for efficient
+      production and better water resource management; and iv) demand-based extension and outreach services. Where
+      feasible, the project will strengthen linkages with ongoing initiatives and help form producers-buyer alliances (PAs) to
+      promote access to finance and markets and promote adoption of digital technologies as applicable during production
+      and postproduction stages.
+
+17.      Component 4: Institutional Support and Project Management (US$10 million): This component will finance
+capacity building and institutional strengthening of WUAs in the project area, as well as project management support and
+capacity building of the Project Implementation Office (PIO). The component will have two sub-components:
+    • Subcomponent 4.1 Institutional Support and Capacity Building of WUA (US$3 million): This sub-component will
+    include capacity-building programs for WUAs to improve the MOM of the modernized system, equitable water
+    distribution, water use efficiency, record and account management, the adoption of modern technologies for
+    irrigation operation and performance assessment such as remote-sensing and water accounting and improved and
+    inclusive citizen participation. The respective block-level WUA will solely manage irrigation systems below the level
+    of management interface infrastructure. A federated WUA covering the whole of Pathariya will be formed and
+    strengthened to manage the higher levels of the irrigation system under a joint management model. A MOM plan will
+    be developed, and accordingly, the capacity of both the WUAs and Irrigation Agency will be enhanced to
+    institutionalize the MOM plan.
+ • Subcomponent 4.2 Project Management (US$7 million): including (i) consulting services for project survey,
+   engineering design, and construction supervision; (ii) institutional strengthening and sector capacity building on
+   Management Information System (MIS), Environment and Social (E&S) monitoring and management, and fiduciary
+   management; and (iii) development and preparation of future investment projects in the sector.
+
+
+
+
+16
+     Source: Own review of data maintained by ACIU
+
+                                                                                                                            Page 6
+      The World Bank
+      NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                      Triggered?
+ Projects on International Waterways OP 7.50                                           Yes
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+  18. The environmental risk is substantial because of the nature of activities involved and potential impacts identified
+      The project will be implemented in private lands and community forests, but away from protected areas. A
+      government-approved EIA for the Pathariya irrigation scheme indicates potential impacts on forest land,
+      biodiversity, water resources, privately owned land, assets, farmer livelihoods, and the removal of 3,900 trees from
+      14 community forests. The environmental risks include deforestation, habitat fragmentation, biodiversity loss,
+      pollution, occupational health and safety (OHS), and community concerns. Specifically, the project’s tree felling,
+      construction of irrigation canals and the augmentation of water storage reservoirs may disrupt migratory routes
+      and local biodiversity. Additionally, the construction and operation of irrigation systems and water storage facilities
+      may lead to issues such as siltation, flooding and overexploitation affecting water availability. Construction
+      activities are likely to generate air, noise, and water pollution, affecting the environment and communities. The
+      project poses risks to the health and safety of workers and nearby communities during both the construction and
+      operation phases. The upgrade and potential rehabilitation/construction of water storage reservoirs are also
+      associated with dam safety risks.
+  19. The social risks are considered high due to potential impacts from construction activities, including the extension
+      of the feeder canal and augmentation of water reservoirs (locations and sizes of ponds yet to be determined). A
+      government-approved EIA for component 1 highlights potential impacts on private, agricultural, and forest lands,
+      as well as affecting 63 households, electric poles, and other public infrastructure, potentially impacting the Tharus
+      community (48% of the population), who are indigenous (IP) to the project area, and other minorities. The project
+      will explore options in the final design of the main canal and a negative list in selecting the location for the water
+      reservoir to avoid or minimize adverse impacts on communities, especially on IP land and cultural heritage.
+      Additional social risks include labor influx, occupational and community health and safety risks, sexual exploitation
+      and abuse/sexual Harassment (SEA/SH), and gaps in community engagement. Phase 2 social assessments indicate
+      no differentiated adverse impact or exclusion of IP groups however, marginalization exists for farmers with small
+      landholdings, particularly those from minorities and households at the tail end of the command area who do not
+      receive adequate irrigation water.
+      To address these risks, a Stakeholder Engagement Plan (SEP) and Labor Management Procedure (LMP) will be
+      prepared before appraisal. A social assessment will be integrated into the EIA or added as an addendum. A RAP will
+
+
+                                                                                                                        Page 7
+     The World Bank
+     NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+     be prepared and disclosed before initiating bidding documents for the works contract but implemented before
+     works commence. The social assessment will inform the decision to address marginalization, either by updating
+     the existing Vulnerable Community Action Plan or preparing a new Indigenous Peoples Plan (IPP). A SEA/SH action
+     plan will be prepared post-appraisal, with the timeframe specified in the project ESCP.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Lixin Gu
+ Senior Water Supply and Sanitation Specialist
+
+ Maha Ahmed
+ Senior Agriculture Specialist
+
+ Rubika Shrestha
+ Water Supply and Sanitation Specialist
+
+Borrower/Client/Recipient
+ Ministry of Finance
+ The Secretary
+ Ministry of Finance
+ fso@mof.gov.np
+
+Implementing Agencies
+ Ministry of Energy Water Resources and Irrigation
+ The Secretary
+ Ministry of Energy, Water Resources and Irrigation
+ moewrai555@gmail.com
+
+ Department of Agriculture
+ Director General
+ Director General
+ doa.agri2014@gmail.com
+
+ Department of Water Resources and Irrigation
+ Director General
+ Director General
+ dg_pasection@dwri.gov.np
+
+FOR MORE INFORMATION CONTACT
+
+
+                                                                                                                Page 8
+     The World Bank
+     NP Rani Jamara Kulariya Irrigation Project - Phase III(P507433)
+
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Lixin Gu, Maha Ahmed, Rubika Shrestha
+
+Approved By
+
+Practice Manager/Manager:                Josses Mugabi                           25-Oct-2024
+
+Country Director:                        Preeti Arora                            19-Nov-2024
+
+
+
+
+                                                                                               Page 9
+

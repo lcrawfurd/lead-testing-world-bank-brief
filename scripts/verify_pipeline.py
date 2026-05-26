@@ -27,22 +27,27 @@ ROOT = Path(__file__).resolve().parent.parent
 # Update these when the underlying portfolio shifts materially.
 EXPECTED = {
     # Default universe = WWC only = projects with a Water Supply sector
-    # code. This is the strictest defensible filter for drinking-water
-    # work. Produces ~65 projects via the WW* query, +12 legacy-coded
-    # additions = ~77 total.
+    # code. Strictest defensible filter for drinking-water work. ~81
+    # projects (65 from API query + 12 legacy-coded manual additions).
     #
-    # NOTE: the WB's internal "water supply portfolio" figure of
-    # $8.7B / 105 projects uses sector_percent weighting (and includes
-    # sanitation alongside water supply). The API returns
-    # sector_percent = 0 for every project we've sampled, so we can't
-    # replicate that weighting from public data — we sum full
-    # commitments instead, producing a larger dollar total even at the
-    # narrower WWC-only filter. Headline findings (zero confirmed
-    # drinking-water lead testing) hold under any of these denominators.
+    # Two relevant dollar totals:
+    #   - Unweighted (full commitment per project, $17B): a ceiling.
+    #     Overcounts because most water-tagged projects are multi-sector.
+    #   - Hybrid-weighted ($3-4B): uses sector_percent where the API
+    #     populates it, falls back to project's water-codes / total-codes
+    #     where it doesn't. This is the figure used in the audit and blog
+    #     headline.
+    #
+    # WB's internal "water supply portfolio" figure of $8.7B / 105
+    # projects uses a slightly broader universe (WWC + WWA) and the
+    # Bank's own weighting. Headline findings (zero confirmed
+    # drinking-water lead testing) hold at any of these denominators.
     "min_projects":              55,
     "max_projects":              95,
-    "min_commitment_usd":     10_000_000_000,
+    "min_commitment_usd":     10_000_000_000,  # unweighted total
     "max_commitment_usd":     18_000_000_000,
+    "min_weighted_usd":        2_000_000_000,  # hybrid-weighted total
+    "max_weighted_usd":        6_000_000_000,
     "max_confirmed_drinking_lead": 0,    # the headline claim — zero confirmed
     "min_baseline_drinking":    1,       # Ghana GAMA at minimum
     "min_countries":           40,
@@ -94,12 +99,22 @@ def main() -> int:
     else:
         passed &= fail(f"Project count: {n} (expected {EXPECTED['min_projects']}-{EXPECTED['max_projects']})")
 
-    # Commitment
+    # Weighted commitment (audit headline figure)
+    weighted = sum(float(r.get("weighted_commitment_usd") or 0) for r in rows)
+    if EXPECTED["min_weighted_usd"] <= weighted <= EXPECTED["max_weighted_usd"]:
+        passed &= ok(f"Weighted commitment: ${weighted/1e9:.1f}B "
+                     f"(expected {EXPECTED['min_weighted_usd']/1e9:.0f}-"
+                     f"{EXPECTED['max_weighted_usd']/1e9:.0f}B)")
+    else:
+        passed &= fail(f"Weighted commitment: ${weighted/1e9:.1f}B "
+                       f"(out of expected range)")
+
+    # Unweighted commitment
     total = sum(float(r["commitment_usd"]) for r in rows)
     if EXPECTED["min_commitment_usd"] <= total <= EXPECTED["max_commitment_usd"]:
-        passed &= ok(f"Total commitment: ${total/1e9:.1f}B")
+        passed &= ok(f"Unweighted commitment: ${total/1e9:.1f}B (ceiling)")
     else:
-        passed &= fail(f"Total commitment: ${total/1e9:.1f}B (out of expected range)")
+        passed &= fail(f"Unweighted commitment: ${total/1e9:.1f}B (out of expected range)")
 
     # Headline claim — zero confirmed drinking-water lead testing
     confirmed = sum(1 for r in rows if r["verdict"] == "confirmed")

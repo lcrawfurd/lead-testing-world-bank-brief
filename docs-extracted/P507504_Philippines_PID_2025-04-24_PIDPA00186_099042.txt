@@ -1,0 +1,748 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                Program Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                Appraisal Stage | Date Prepared/Updated: 24-Apr-2025 | Report No: PIDPA00186
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                         Operation ID                   Operation Name
+Indonesia, Lao People's
+                                                                                             Philippines Sustainable
+Democratic Republic,
+                               EAST ASIA AND PACIFIC          P507504                        Agricultural
+Philippines, Philippines,
+                                                                                             Transformation Program
+Viet Nam, Viet Nam
+Financing Instrument           Estimated Appraisal Date       Estimated Approval Date        Practice Area (Lead)
+Program-for-Results
+                               24-Mar-2025                    24-Jun-2025                    Agriculture and Food
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+Department of Finance          Department of Agriculture
+
+Proposed Program Development Objective(s)
+To improve productivity, diversification, climate resilience and public resource use efficiency in the agrifood systems in
+the Philippines.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     Yes
+Is this project Private Capital Enabling (PCE)?               No
+
+SUMMARY
+  Government program Cost                                                                                       8,402.50
+
+  Total Operation Cost                                                                                          8,402.50
+    Total Program Cost                                                                                          8,400.00
+    Other Costs (Front-end fee,IBRD)                                                                                2.50
+  Total Financing                                                                                               8,402.50
+
+  Financing Gap                                                                                                      0.00
+
+FINANCING
+
+
+                                                                                                                      Page 1
+        The World Bank
+        Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+
+    Total World Bank Group Financing                                                                                 1,000.00
+      World Bank Lending                                                                                             1,000.00
+    Total Government Contribution                                                                                    7,402.50
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+ B. Introduction and Context
+
+
+  Country Context
+
+  1.    The Philippines has been among the most dynamic economies in the East Asia and Pacific (EAP) region. Between
+  2010-2019, the economy grew by an average of 6.4 percent per year surpassing that of its peers in the region, including
+  Vietnam (6.3 percent), Indonesia and Malaysia (5.4 percent), and Thailand (3.6 percent). Growth was driven by a robust
+  domestic economy, anchored on strong private consumption, increasing investment activity, and led mainly by services
+  and industry. However, in 2020, the Philippines’ economy saw its worst contraction, shrinking by 9.5 percent due to the
+  adverse impacts of the COVID-19 pandemic. The country has since rebounded strongly, growing by 5.7 percent in 2021,
+  7.6 percent in 2022 and 5.5 percent in 2023. This momentum has been sustained, with the economy growing by 5.6
+  percent in 2024, placing it among the top growth performers among peers in the region.
+
+  2.     While poverty levels have been dropping they remain relatively high. Poverty levels fell from 23.3 percent in
+  2015 to 16.6 percent in 2018. However, this trend was reversed by the effects of the pandemic, with poverty levels
+  rising to 23.7 percent in 2021. The poverty rate has since declined, and by 2023 stood at 15.5 percent (Philippines
+  Statistics Authority [PSA]). About 17.5 million Filipinos currently live below the poverty line. Despite the country’s overall
+  robust growth trajectory, income disparities persist. The top one percent of earners have benefitted from growth,
+  capturing 17 percent of the national income, while only 14 percent of national income is obtained by the lowest-earning
+  50 percent of the population (ADB). The urban-rural divide in the country is significant. While the incidence of poverty
+  in the urban areas stands at 10.2 percent, it is more than double in rural areas at 21.9 percent. Farmers remain the
+  poorest segment of society with poverty rates estimated at 30 percent among this segment of population.1
+
+  3.     Food and nutrition security are of significant concern, especially among poor and vulnerable households.
+  According to the Food and Agriculture Organization’s (FAO), about 51 million Filipinos (44.7 percent of the population)
+  experienced moderate or severe food insecurity between 2021-2023, the highest in Southeast Asia. Some 29 percent
+  of children are affected by stunted growth. Persistent levels of poverty and high food prices have contributed to the
+
+1 Philippines Institute of Development Studies
+
+
+
+                                                                                                                           Page 2
+        The World Bank
+        Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+  existing threats to food and nutrition security (FNS).
+
+  4.    The Government of the Philippines is committed to building on the current growth momentum and supporting
+  a program of economic and social transformation to steer the country on an inclusive high-growth path. As elaborated
+  in the Philippine Development Plan (PDP) 2023-2028, the goal is to address the need for job creation and to accelerate
+  the pace of poverty reduction. The Plan aims, inter alia, to maintain robust macroeconomic fundamentals to foster
+  consumer and investor confidence, fast-track investments in effective resilience-building strategies, promote
+  technology and innovation, particularly digital technology, and enhance partnerships with the private sector. It
+  emphasizes the transformation of production sectors, including agriculture, industry and services, to generate more
+  quality jobs and competitive products.
+
+  Sectoral and Institutional Context
+
+  5.    The agricultural sector in the Philippines has high potential for contributing to the country’s socio-economic
+  development agenda. The country’s fertile land, large workforce (of the 48.7 million employed Filipinos, some 22
+  percent are in agriculture), including the relatively young population (64 percent aged between 15 and 64 years)2 and
+  high adult literacy rate (97 percent in 2020) offer strong opportunities for transforming the sector. While rice cultivation
+  dominates the sector there is good potential for growing high-value crops, such as bananas, pineapples, mangoes,
+  coconuts, durian, cacao and coffee. Potential also exists for developing the livestock and aquaculture subsectors, and
+  from the associated economic opportunity for value addition. Women are extensively involved in the value-added
+  segment of all commodity value chains.
+
+  6.    Philippines provides one of the highest levels of support for agriculture (as a share of Gross Domestic Product
+  [GDP]). While the level of agricultural support provided by the government is high in international terms (2.3 percent of
+  GDP in 2020-22), its growth impact is blunted by the production- and trade-distorting effects of the policy instruments
+  used as well as the growing impact of climate hazards.3Ineffective and inefficient sector policies and spending decisions
+  have hindered agricultural growth. Public spending is heavily skewed towards input subsidies; over the period 2015-19,
+  subsidies consumed 32 percent of the Department of Agriculture (DA) ’s commodity “Banner” Program budgets, with
+  another 28 percent going to subsidize machinery. Only 15 percent was allocated for technology transfer (extension)
+  and 15 percent for other interventions, of which research and development was 8.6 percent and market development
+  0.8 percent. The over-sized allocation of budget resources to subsidies severely limits public investments in growth and
+  job creating agricultural programs. Scaling up support in these areas is key to harnessing the potential of Philippines’
+  agriculture towards broad-based rural job creation and income growth.
+
+  7.     Agricultural policy has focused mainly on pursuit of self-sufficiency in rice production and stable supplies of
+  other key staples. Overall, agricultural production in the Philippines increased by only 0.5 percent per annum (p.a.) on
+  average from 2011-20, well below the world average of nearly 2 percent p.a. A large part of this was due to low total
+  factor productivity growth (+0.4 percent p.a.) against global average of 1.12 percent p.a. Support for the rice sector
+  vividly illustrates the issue. Although around 25 percent of the DA annual budget for its Commodity “Banner” programs
+  is allocated for rice production, rice yields have risen only marginally, from an average of 3.4 ton/hectare (ha) in 2003
+  to 4.7 ton/ha in 20234. This is well below average yields in Vietnam (6.1 ton/ha)5 and well below the 8 to 10ton/ha
+
+2 Philippine Statistics Authority (PSA 2022-322)
+3 Market price support (mainly through tariff protection) and budgetary support (direct payments to producers for various inputs and investments)
+4 Based on the 2025 National Expenditure Program (NEP), the rice budget (National Rice Program, RCEP and PhilRice) accounts for about 24% of the
+
+DA Total Budget. But if the NIA budget is included, it goes up to 45% of total budget.
+5 https://ipad.fas.usda.gov/countrysummary/Default.aspx?id=VM&crop=Rice
+
+
+
+                                                                                                                                             Page 3
+        The World Bank
+        Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+  demonstrated to be achievable. Policy distortions and productivity constraints (small, fragmented land holdings; low
+  levels of mechanization; limited access to modern technologies; ineffective extension system, among others) have also
+  contributed to the low levels of productivity. Diversification of food production systems to higher-value products has
+  also been slow. The share of high-value crops in terms of overall value added has risen only slightly, from 19.6 to 22.9
+  percent in 2000 and 2019 respectively (World Bank 2020). Low returns from agriculture have also discouraged private
+  sector investments, which are critical for growth and job creation in the sector.
+
+  8.     Strategic shifts are, however, underway to reinvigorate the transformation of the of the agriculture sector.
+  Through the Rice Liberalization Act (RA 11203), extended and amended in 2024, import quotas on rice were abolished,
+  opening-up the importation of rice for private traders; an important step towards leveling the playing field for non-rice
+  agriculture. The RTL provides transitional support for rice farmers through the Rice Competitiveness Enhancement Fund
+  (RCEF). This is funded through tariffs collected from rice imports. While RCEF was initially established with a a PhP 10
+  billion (US$ 172 million) annual appropriation to 2028, this has recently been amended to extend support to 2031, with
+  an increased RCEF annual allocation of PhP 30 billion (US$ 515 million) annually. This is to be allocated annually for: (a)
+  Rice Farm Machineries and Equipment (PhP 9 billion or US$ 155 million); (b) Rice Seed Development Propagation, and
+  Promotion (PhP6 billion or US$ 103 million) and (c) PhP 15 billion (US$ 285 million) for projects promoting productivity,
+  resiliency, price shocks etc.
+
+  9.     The lack of well-developed and integrated food chains across the country is reflected in high levels of post-
+  harvest losses that have significant implications for food and nutrition security. Agrifood losses average 30 to 60
+  percent when accounting for all losses from harvesting, handling, storage and transportation – leading to significant
+  income loss and greenhouse gas (GHG) emissions. Post-harvest losses range from 9 to 37 percent for cereals, 27 to 42
+  percent for fruits and vegetables and 15 percent for rice.6 Such post-harvest losses are more than twice those recorded
+  in Vietnam for rice at 6.2 percent and for vegetables at 8.7 percent.7 Annual rice losses amount to some 343,000 metric
+  tons (mt), which is equivalent to around 10 percent of the volume of imported rice (3. 8 million mt in 2023; 3.6 million
+  mt in 2023). Some 151,000 mt of corn is lost each year. The country also has low milling efficiency of 50-57 percent
+  compared to 62.5 percent in Vietnam. There is also a lack of cold storage facilities, which is critical for diversification
+  into high value crops. Currently there is only 37 cubic meters (m3)/1000 residents of cold storage, or total capacity of
+  400,000 tons, compared with cold storage capacity of 116 m3/1000 residents in Vietnam.
+
+  10. A complex, fragmented institutional and regulatory system has further stymied sector development and
+  disincentivized private sector investments in the country’s agrifood systems. The organizational structure of the DA (8
+  bureaus, 10 attached agencies, 7 attached corporations, 15 regional field offices, many of which are commodity specific)
+  has resulted in competing strategic objectives and limited budget allocations that are spread thinly across the various
+  department entities. Inefficiency also stems from the lack of integration of data between DA agencies and bureaus. On
+  the regulatory side, logistical costs for shipping companies, traders, and importers arise from informal fees collected by
+  Local Government Units (LGUs), complex road and ship transport licensing requirements, and historical caps on foreign
+  equity investment (Organization for Economic Cooperation and Development [OECD] 2020). Coordination failures, such
+  as the non-standardization of produce, also hinder investment in large-scale processing and pricing based on quality. As
+  a result, farmers and traders have little incentive to improve product quality due to the small premium paid for higher-
+  quality products, especially in traditional markets. Such coordination failures account for the high numbers of market
+  players and multiple layers in trading, processing, and distribution which translates into lower profit margins.
+
+6 Mopera, Lotis E. (2016) Journal of Developments in Sustainable Agriculture: Food Loss in the Food Value Chain: The Philippine Agriculture
+
+Scenario. Last accessed September 23, 2024, Food loss and waste Study.pdf
+7 Hien, et.al. (2016) Conference Paper: Overview of Rice Post Harvest Situation in Vietnam. Last accessed September 23, 2024, PHarvest_Vietnam-
+
+FText-_PHHienNTNghi.pdf
+
+                                                                                                                                              Page 4
+        The World Bank
+        Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+
+  11. The Philippines is among the most vulnerable countries to climate-related weather events. Ranked 4th among
+  the countries most affected by extreme weather events over the past 20 years, the country is exposed to cyclones,
+  floods, landslides, severe droughts and heat waves. Up to 60 percent of the surface area and 74 percent of its inhabitants
+  will be affected. According to the 6th IPCC assessment report, released in 2021, extreme weather events will continue
+  to increase in frequency and intensity until the end of the century.8 For the agriculture sector these impacts frequently
+  lead to crop damage, yield losses, and disruptions to food security, particularly affecting smallholder farmers and
+  vulnerable communities across the country.9 This is causing economic losses, income instability, and food insecurity.
+
+  12. Recognizing the growing agricultural emissions and land degradation challenges, the Philippines is tackling
+  agriculture transformation through adoption of green technologies and sustainable farming practices.10 Two key
+  frameworks—the Philippine Action Plan for Sustainable Consumption and Production11 and the Philippine Development
+  Plan 2023-202812 – are guiding this sustainable transformation pathway. For the agriculture sector, this focus is on food
+  waste management and sustainable food redistribution, climate-driven green public procurement, and promoting
+  efficient input use. To reduce GHG emissions, above framework emphasis and focus includes reducing emissions
+  intensity of rice production, enhancing efficiency of fertilizer use, reducing on-farm crop spoilage and post-harvest, and
+  adoption of low-carbon technologies and practices.
+
+  13. Gender inequality remains pervasive in rural areas. While rural employment accounts for about 30 percent of
+  the country’s total employment, the work force is predominantly male, at 78 percent (PSA 2021). However, official data
+  may not accurately capture women’s work in agriculture, as it is normally considered an extension of their household
+  tasks and is, therefore, not reported as ‘work’. In the rice sector, women have been playing greater roles than men in
+  capital sourcing (51.11 percent more) and seeds sourcing (12.59 percent more), while being more involved in post-
+  production activities like palay drying (21.48 percent more), milling (27.4 percent more), and marketing (42.22 percent
+  more). Gender inequality has contributed to women’s limited access to financial services, technology, and other
+  productive resources. As illustrated by 2017 data of the DA, of those benefiting from technical services through regular
+  DA programs, only 27 percent were women; a constraint limiting participation in agricultural value chains activities.
+
+  14. Private sector financing remains limited in the agriculture sector. Private sector investments in the agriculture
+  sector have contracted by an average of 6 percent annually between 2017-2022 (Philippine Development Report 2023).
+  Constraints are multi-facetted and stem from: (a) the high costs of doing business due to taxes and tariffs on imported
+  raw materials, cumbersome regulations, permit and documentary requirements imposed at national, provincial and
+  even barangay (village) levels of government; (b) the country’s geography which comprises over 7,000 islands; creating
+  significant logistical issues, (c) under-investment in critical infrastructure i.e., port facilities, logistics, integrated cool
+  storage, etc.; (d) fragmentation of land as a result of the 1988 Philippine Comprehensive Agrarian Reform Program,
+  which imposed a ceiling of five hectares on land holdings and reallocated agricultural land to landless and smallholders
+  with restrictions on transferability for ten years; (e) the impact of legacy policies that enabled farmers to forego loan
+  repayments, resulting in the long-standing reluctance of banks to lend to the rural sector; and (f) difficulty in complying
+
+
+8 https://www.afd.fr/en/actualites/climate-finance-helping-philippines-cope-climate-
+
+change#:~:text=Ranked%204th%20among%20the%20countries,to%20fulfil%20its%20NDC%20objectives.
+9 https://www.wfp.org/news/wfp-study-provides-first-ever-look-links-between-climate-change-and-food-security-philippines
+
+ Philippines pledges commitment to sustainable agriculture at 17th Global Forum for Food and Agriculture
+11 https://faolex.fao.org/docs/pdf/phi228020.pdf
+12 https://pdp.neda.gov.ph/philippine-development-plan-2023-2028/
+
+
+
+                                                                                                                             Page 5
+       The World Bank
+       Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+ with international standards due to lack of accredited laboratories and process constraints which adversely affect the
+ competitiveness of the agrifood products in the international market.
+
+ 15. In recognition of the challenges facing the agrifood sector, the PDP 2023-2028 emphasizes the critical need for
+ transforming the sector. This includes: (i) ensuring food security and nutrition, (ii) accelerate climate action and
+ strengthen disaster resilience, (iii) modernization of agriculture and agribusiness and enhancing resilience of value chains.
+ These have been embodied in the National Agriculture and Fisheries Modernization and Industrialization Plan (NAFMIP)
+ 2021-2030 which calls for transformative shifts to deliver productive climate resilient agrifood systems through: (i)
+ diversifying incomes and employment of smallholder farmers and fisherfolk; (ii) defining the role of urban and peri-urban
+ areas in agriculture growth; (iii) optimizing synergistic impacts using a spatial framework to geographically focussed
+ investments; and (iv) matching the supply and demand for food.
+
+ 16. To operationalize the PDP and NAFMIP, the program PARA SA MASAGANANG BAGONG PILIPINAS 2024-2027
+ (MBP)13 has been prepared by the current DA administration- with specific goals and targets for reinvigorating the
+ agri-fishery sectors. The MBP is a 4-year, time-bound plan designed as a framework for operationalizing the broad goals
+ of NAFMIP, while focusing particularly on the issues that have constrained the desired paradigm shift and actions by
+ private and public stakeholders, as envisioned in NAFMIP. The program focuses on the specific actions to achieve the
+ food and nutritional needs of the country, and to develop the sectors as profitable industries for farmers, fisherfolk and
+ all stakeholders involved in the value chains. The program spans the duration of the current administration (2022-2028)
+ and has been designed to address the policy, regulatory, service and investment gaps that have constrained the agrifood
+ sectoral modernization efforts.
+
+ PforR Program Scope
+
+ 17. The proposed PforR boundary would be nested within the DA’s MBP and NAFMIP. Proposed RAs would be
+ limited to those where implementation is within the institutional mandate of the DA, with some exclusions, and would
+ be national in scope. The geographical scope excludes the Bangsamoro Autonomous Region in Muslim Mindanao
+ (BARMM) which has a different budgetary and decision-making process. The MBP strategies encompass 10 Action Areas
+ of which the proposed PSAT would support all, except action area 10 in Table 1 which aims to achieve “available and
+ accessible financial mechanisms that encourage investment and minimize risks”. That would be supported through a
+ separate World Bank operation, now under preparation. Likewise, the MBP plan to develop fish ports is also excluded
+ as this is being supported by the ADB. Also excluded will be investments supported through ongoing World Bank loans
+ and grants, including the PRDP, PRDP-Scale Up and Philippine Fisheries and Coastal Resiliency (FishCore). As the National
+ Irrigation Administration (NIA) has recently been transferred to the Office of the President (Executive Order No. 69 series
+ 2024)23, functions of NIA are not included in the Program as the DA no longer has control over that agency’s investment
+ decisions.
+
+                   Table 1. The Government Program- MBP and the PSAT Program Boundary Comparison
+
+ Objectives            Government programs                                        Program supported by PforR
+                       The Program Boundary would be the current DA             To promote climate resilient agrifood systems
+                       Administration’s Plan: MBP (i.e., For a prosperous New   for increased productivity, enhanced
+
+
+13 Para sa Masaganang Bagong Pilipinas or “For a Prosperous new Philippines”
+
+
+
+                                                                                                                           Page 6
+     The World Bank
+     Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+Objectives        Government programs                                               Program supported by PforR
+                  Philippines), with the objectives of:                           diversification and efficient use of public
+                  achieving food security for the Filipino people through         resources in the Philippines.
+                  boosting agricultural production to ensure accessibility to
+                  affordable and nutritious food, and
+                  developing the Agri-Fishery sector as a profitable industry
+                  for all stakeholders in the value chain.
+                  The MBP is derived from the longer-term NAFMIP, which, as
+                  a “whole-of-nation”, “directional plan”, seeks to guide a
+                  paradigm shift from the commodity-based approach of the
+                  past (primarily rice production), to that which would seek to
+                  achieve sustainable diversification, integration of value chain
+                  investments, more spatial and economic clustering to
+                  achieve economies of scale, and greater focus on
+                  digitalization, food and nutrition security.
+                  The MBP is a time -bound (4-year), strategic plan. It has
+                  been designed as a framework for operationalizing the
+                  broad goals of NAFMIP, while focusing particularly on the
+                  key issues that have constrained the desired paradigm shift
+                  and actions by private and public stakeholders, as envisioned
+                  in NAFMIP.
+Duration          2024 to 2027 – MBP                                                2025 to 2030
+                  2021 to 2030 – NAFMIP
+Coverage          Nationwide except BARMM which has a different budget              Nationwide except BARMM which has a
+                  source and decision-making process                                different budget source and decision-making
+                                                                                    process
+Financing         US$ 14.69 billion24                                               US$ 8.40 Billion (PSAT Expenditure
+                                                                                    Program)25
+
+                                                                                    Out of which USS 7.4 Billion is government
+                                                                                    financing and USS 1 Billion IBRD Financing
+Key MBP Actions/ 1.   Expand and improve available agri-fishery areas for           All MBP actions except item no. 10 (see
+Result Areas          increased production                                          exclusions below). MBP Actions have been
+                 2.   Mechanize and modernize agri-fishery production               grouped into three RAs for the PforR, i.e.,
+                      systems                                                       RA 1. Enhanced Production and Incomes in
+                 3.   Research for Development and Extension (R4D) to               diversified rice-based farming systems (MBP
+                      optimize sector potential                                     actions 1, 2 & 3)
+                 4.   Develop and improve postharvest systems and                   RA2. Enhanced efficiency and resilience of
+                      infrastructure                                                food value chains (MBP actions 4, 5, 6 & 7)
+                 5.   Develop efficient logistics systems for input and             RA3. Enhanced institutional delivery and
+                      production output                                             performance. (MBP actions 8 & 9)
+                 6.   Improve and expand local and international market             Excluded Actions would be those: (a)
+                      access                                                        outside the institutional mandate of DA, (b)
+                 7.   Strong partnership with farmers, fisherfolk, private          supported through ongoing World Bank
+                      sector and other stakeholders                                 financed projects, and (c) under review for
+                 8.   Proper balancing of both the developmental; and               World Bank support through other operations
+                      regulatory roles of the DA                                    viz: (a) credit and insurance, (b) development
+                 9.   Science and information driven decision making through        of fish ports and (c) NIA, given its recent
+
+
+                                                                                                                                Page 7
+     The World Bank
+     Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+Objectives         Government programs                                          Program supported by PforR
+                       digitalization                                           transfer to the Office of the President
+                   10. Available and accessible financial mechanisms that
+                       encourage investment and Minimize Risks
+
+
+
+18. Three Result Areas (RAs) gather the results of the support to be provided by the PforR, for the nine identified
+action areas of the MBP. These RAs are built on the following considerations: (i) potential to make a strong contribution
+to achieving the government’s own targets; (ii) linked to specific, measurable results; and (iii) allow for quick results and
+disbursements in early years of the PforR. Actions to be supported under each of the RAs are summarized below:
+
+19. RA 1: Enhanced production and incomes in rice-based farming systems. RA1 consolidates the results of the
+transformative support provided through the PforR in six inter-linked action areas relating to enhancing diverse and
+climate resilient production. These are to: (i) improve effectiveness of the rice seed program (mainly by revamping seed
+support programs to distribute only those approved and registered rice varieties that are suited to the local agro-climatic
+conditions); (ii) increase diversification of rice-based farming (mainly through collaboration between the government’s
+rice program and other commodity programs); (iii) incentivize and support the use of mechanical direct seeding to
+reduce labor costs, efficient use of improved seed, and to reduce GHG emissions; (iv) promote more resource-efficient
+production through better use of RCEF supported inputs and assistance by way of a digital Input Management Card
+(IMC) that provides legitimate farmer beneficiaries with seamless and transparent access to financial and input support;
+(v) enhance productivity and climate resilience through training and support for adoption of climate smart approaches
+and technologies; and (vi) improve efficiency of farm operations through incentivizing farmers to cluster into Farmer
+Cooperatives and Associations (FCAs) in order to avail of more efficient mechanized production technologies enabling
+increased productivity, while also reducing GHG emissions. The RA is aligned with Pillar 1 of the Multi-Phase
+Programmatic Approach for Sustainable Agriculture Transformation in East Asia. It is also indirectly aligned with Pillar 2
+of the MPA by improving water management and efficiency through CSA technologies.
+
+20. RA 2: Enhanced efficiency and resilience of food value chains. RA2 supports an increase in climate resilient, high
+value crop production (primarily vegetables), while also supporting post-harvest and logistics infrastructure to reduce
+food losses and increase the quality and quantity of marketable products for increased incomes and resilience for
+producers, agro-processors, exporters etc. It would: (i) increase volumes of vegetables produced using modern
+technologies that include demonstration of such technologies as tissue culture and use of climate resilient screen-
+houses, rain shelters etc.; (ii) increase volumes of perishable commodities being processed through modern, cool
+storage facilities, coupled with the promotion of green technology and modular cool-storage designs for wider private
+sector uptake; and (iii) provide for regulatory streamlining of key Philippine agricultural commodities, together with
+“bench-marking” of importing requirements to “ease costs of doing business” and promote export expansion. The
+promotion of CSA together with modern cultivation and on-farm post handling technologies would be supported
+through the significant increase in the number of extension agents and farmer training to be supported under RA1 and
+through collaboration between the ATI and HVC program. The RA is aligned with the activities under Pillar 1 of the MPA.
+It is also indirectly aligned with Pillar 2 of the MPA by promoting climate smart agriculture technologies to aim to
+improve water utilization. It is also indirectly aligned with Pillar 2 of the MPA by improving water management and
+efficiency through CSA technologies.
+
+21. RA 3: Enhanced institutional delivery and performance. RA3 brings together the results of PforR program support
+to overcome structural and institutional impediments, and to enhance systems and capacities to promote a more vibrant
+and competitive agri-food economy. The key areas include: (i) enhancement of DA’s institutional policies and
+
+                                                                                                                          Page 8
+     The World Bank
+     Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+approaches to align with and enable achievement of the MBP agri-fishery sectoral transformative outcomes, (ii)
+enhanced DA budgetary processes to improve the efficiency of public expenditure through more programmatic and
+results-based processes; (iii) establish and operationalize a data Command Center Platform for the integration, storage
+and analysis of multiple data sets across DA agencies, Bureaus and Units to enhance timely, evidence-based decision
+making including response to climate related disasters, and (iv) improve utilization efficiency of DA’s budget through
+enhanced procurement systems that inter alia would reduce bid evaluation and award times and support the purchase
+of goods and services that cause minimal adverse environmental impact, i.e., through “green procurement”. The
+enhanced institutional delivery and performance also deliver RA1 and RA 2 and the activities under them. This RA is
+aligned with Pillar 3 of the MPA.
+
+22. The Technical Assessment covered the eligible MBP activities under the PforR. The proposed Program Actions
+through the DLIs both reinforce as well as incentivize further expansion of the strategies and actions of the
+Government’s MBP, as summarized in Table 2.
+
+                                       Table 2. Key Outcomes of DLI supported Actions
+
+              DLI                                                          Key Outcomes
+ DLI 1: Rice production area     (a) Strengthen seed registration policies of the National Seed Industry Council (NSIC) and efficiency
+ planted with improved and       of DA’s seed distribution under RCEF, (b) Improve farmer incomes and climate resilience, and (c)
+ registered varieties adapted    contribute to reducing post-harvest losses of rice in milling processes.
+ to local conditions (ha)
+ DLI 2: Rice production area     (a) Provide farmers with higher value and more climate resilient sources of income, and (b)
+ being diversified through       contribute to the country’s food security through increased production of high value commodities
+ production of other             (lowland vegetables, livestock, aquaculture, native chicken etc.).
+ commodities (ha)
+
+ DLI 3: Rice production area     (a) Incentivize the uptake of a more efficient and climate smart mechanical seeding technology
+ under direct mechanical         not actively promoted in the Philippines, (b) Reduce labor costs, lower committed seeding labor
+ seeding (ha)                    time, and increase on-farm climate resilience, and (c) Increase incomes, including that of small-
+                                 scale farmers for whom the technology is well suited.
+ DLI 4: Farmers using IMCs (e-   (a) Increase transparency and efficiency in use of the substantial funding delivered through RCEF,
+ voucher) to access RCEF         (b) Support the shift from legacy policies that have supported input subsidies to support more
+ supported inputs and            sustainable productivity and climate resiliency outcomes, (c) Promote more integrated use of
+ services (No.)                  complementary inputs (seeds, nutrients, pesticides etc.), further unlocking productivity gains
+                                 through inputs/resource-use efficiency, (d) Promote private sector engagement in the provision
+                                 of inputs and services, and (e) Provide a pathway for moving away from the inefficiency issues
+                                 surrounding DA input procurement and distribution programs.
+ DLI 5. Farmers adopting at      (a) Re-establish a core of some 4,000 extension agents in the DA to complement the limited
+ least two categories of CSA     support being provided by LGUs, (b) Increase climate resilient production and incomes of farmers,
+ technologies and practices      and (c) Provide feedback on the merits of re-establishing a national extension service to help
+ (No.)                           resolve the impasse that has limited extension support in the Philippines for some 35 years.
+ DLI 6: Farmer Cooperative       (a) Achieve transformative economies of scale in productivity and incomes, (b) Reduce GHG
+ and Association production      emissions (though rice stubble incorporation and dry land cultivation), (b) Enhance crop
+ area under mechanized           intensification (shortened production cycles), (c) Incentivize farmers to form FCAs to avail
+ farming (ha)                    themselves of more efficient mechanized production, and (d) Expand rural commercial activities
+                                 and job creation (machinery, servicing, logistics etc.).
+
+
+
+
+                                                                                                                                 Page 9
+          The World Bank
+          Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+                   DLI                                                           Key Outcomes
+      DLI 7: Volume of vegetables      (a) Increase volumes of vegetables produced using modern technologies that include
+      produced (tons)                  demonstration for wider uptake of such technologies as propagation through tissue culture and
+                                       use of climate resilient screen-houses, rain shelters etc.
+      DLI 8: Volume of perishable      (a) Increase volumes of quality fresh vegetables reaching markets, (b) Improve incomes through
+      agrifood products being          reduced post-harvest losses and spoilage, (c) Increase rural commercial development associated
+      processed through new cold       with expansion of HVC production and exports (i.e., for storage, crating, marketing and logistics),
+      storage facilities (cubic        and (e) Expand opportunities for private sector uptake and investment through
+      meter)                           demonstration/promotion of innovative green technology for cool storage.
+      DLI 9: Number of operational     (a) Ensuring quality standards for agricultural exports through establishment of food safety and
+      and capacitated food safety      plant quarantine laboratories
+      and plant quarantine
+      laboratories providing
+      certification for agricultural
+      exports (no. of new and
+      upgraded laboratories)
+
+      DLI 10: Implementation of DA     (a) bring about the long sought-after budget strengthening in the DA to be programmatic and
+      Programs               through   results-based rather than commodity based; and (b) improve efficiency of public expenditure
+      expenditure efficient Muti-      which, inter alia would underpin actions under each of the PSAT Result Areas
+      year, Results Base Budgeting
+      DLI 11. Command Center for       (a) Improve planning and decision making, (b) Leverage analytics more effectively, (c) Provide the
+      integrated and                   basis for further digitalization towards the goal of establishing a National Information Network
+      comprehensive data               (NIN), or one-stop, publicly accessible platform for all agri-fishery sectoral linkages and data, and
+      management developed and         (d) Align climate hazard and risk mapping into wider planning and decision making.
+      operationalized (No. of data
+      sets integrated into the
+      platform)
+      DLI 12: Procurement system       (a) More efficient utilization/disbursement of DAs budget (by expediting procurement processes),
+      strengthened for improved        (b) Improve resource use efficiency (by enabling “qualitative economic value” not the
+      budget utilization efficiency    “quantitative value”); and (c) Include approaches for expanding “green procurement”.
+
+Program Expenditure Framework
+
+     23. The Expenditure Framework Assessment shows that the overall Government's MBP program for CY 2025-2029
+     is estimated at US$ 14.69 billion. Of this, it is expected that the proposed Program will spend about US$ 8.40 billion (of
+     which IBRD is financing US$1.00 billion) on all related expenditures of the DA. Expenditure framework assessment
+     indicates that the program has enough eligible expenditures. It will leverage earmarked capital outlays, personnel
+     services and other operating expenses of the DA agencies, bureaus and government owned and controlled corporations.
+     Table 3 presents the estimated government expenditures required to achieve the PforR DLIs per expenditure framework
+     by RA. The expenditure framework provides an adequate and sustainable budgetary basis for the desired activities to
+     achieve the PDO. However, the assessment also showed weaknesses in budget execution, with a 74 percent execution
+     rate in CY 202414. Improvement in budget execution is proposed as one of the DLIs under RA3. Additional fiduciary
+     mitigation measures are formulated as part of the Program Action Plan.
+
+
+14
+  DA has two categories for budget execution. Obligation rate which is equivalent to commitment rate stands at 84 % while
+disbursement rate which is equivalent to execution rate is 74 %.
+
+                                                                                                                                      Page 10
+      The World Bank
+      Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+            Table 3. Government program expenditure framework (CY2025–2029) by [approximated per RA]
+
+                                               Projected expenditures
+                                                                                        Share (%)
+                                                 (in thousand US$)
+               RA1                                                  5,851,088                         69.7
+               RA2                                                  2,394,559                         28.5
+               RA3                                                      154,285                        1.8
+               Total                                                8,399,932                         100
+
+
+Program Beneficiaries
+
+ 24. The direct project beneficiaries comprise FCAs and individual farmers along with other enterprises engaged
+ through joint ventures in providing agri-food service facilities, from input supply, thorough post-harvest handling
+ storage and logistics. This includes agri-food producers linked through market agreements with exporters and wide-
+ ranging stakeholders involved with various aspects of agrifood value- addition and marketing. The project will directly
+ benefit approximately 4 million farmers (mainly rice farmers) registered through the Registry System for Basic Sectors
+ in Agriculture (RSBSA), of whom 50 percent will be women.
+
+ C. Proposed Program Development Objective(s)
+
+
+
+ Program Development Objective(s)
+
+ To promote climate resilient agrifood systems for increased productivity, enhanced diversification and efficient use of
+ public resources in the Philippines.
+
+ PDO Level Results Indicators:
+  •       Increased rice yields (Percentage).
+  •       Increased area of diversified, rice-based farms in MRIDP-supported Provinces (Hectare(Ha)).
+  •       Farmers adopting at least 2 categories of CSA technologies and approaches according to commodity and
+          spatial climatic conditions (disaggregated by gender) (Number).
+  •       DA priority programs implemented through results-based multi-year budgeting (no. of programs)(DLI)
+
+
+ D. Environmental and Social Effects
+
+ 25. The Program's Environmental and Social (E&S) risk is substantial. The implementation of the Program, which
+ involves rice-based, livestock and inland aquaculture activities, will have significant and broadly positive E&S outcomes
+ in all regions, except BARMM. High-risk activities are excluded: namely, fish port development and those involving
+ significant conversion and degradation of critical habitats, legacy pollution, groundwater exploitation, large-scale land
+ acquisition and/or conversion; and land pooling or consolidation entailing the redistribution of land rights. Program
+ design is not expected to compromise the location’s natural landscape, biodiversity, habitats or ecosystem services.
+
+                                                                                                                     Page 11
+       The World Bank
+       Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+  Potential E&S adverse effects during construction include dust, noise, agricultural pollution; workers’ and community
+  health and safety risks; poor working conditions and exclusion of vulnerable workers (e.g., landless workers, rural
+  women and youth, indigenous peoples) as well as incidence of child labor and forced labor. Land requirements are
+  minimal, with field trials, new or improved farming practices, mechanization and facilities development occurring in
+  existing farmlands or government properties. New facilities will likely involve small civil works or prefabricated
+  machinery and equipment readily installed and requiring little space. Due diligence is necessary in case land acquisition
+  and/or land donations cause significant risks in the loss of land, structures and livelihoods. During operation, risks include
+  threats to biodiversity, contamination of aquatic systems, health hazards from pesticide use, occupational health and
+  safety, community health and safety, solid waste and wastewater pollution, and greenhouse gas and air emissions. Social
+  risks in the form of exclusion, child and forced labor and SEA/SH risks may worsen without culturally sensitive
+  approaches and effective grievance mechanisms. Stakeholder engagement can leverage on consultative approaches
+  used by DA and streamlining of grievance redress mechanisms (GRM) is proposed within DA and across RFOs, where no
+  standard system is reported. Adverse E&S effects can be identified and readily avoided, minimized, and mitigated
+  through meaningful consultations, enhanced designs and implementation of mature technologies, good management
+  practices, and a programmed approach to building knowledge on E&S permitting systems and E&S capacity among RFOs
+  and FCAs involved in Program implementation. Contextual and political/reputational risks are deemed moderate while
+  institutional risks are substantial. Program activities may face extreme and unusual weather events (e.g., successive
+  typhoons, drought) and political buy-in of E&S risk management systems and policies may take time. A major
+  institutional risk stems from DA whose E&S risk management systems is handled by a small division, the Special Projects
+  Coordination and Management Assistance Division (SPCMAD), with experience focused on donor-assisted projects. Its
+  E&S management systems are not institutionalized in the RFOs or streamlined in “Banner” programs and activities. As
+  of January 2025, the Bank has prepared the draft Environmental and Social Systems Assessment (ESSA) report. The draft
+  ESSA will be disclosed in February 2025 prior to a nationwide public consultation in March 2025.
+
+
+E. Financing
+
+   26. The PforR Program financing is estimated US$8.40 billion over FY2025/26 – FY2029/30 (linear interpolated
+   disbursements of US$ 1.68 billion per year). This would be financed at 88.1 percent by the government and at 11.9
+   percent by IBRD (Table 4). The DA budget allocation is heavily lodged under the Office of the Secretary (OSEC), which
+   from CY 2022 to CY 2029 captures an average of 86.4 percent of the DA budget.15 The OSEC directly supervises the
+   main components of the AFMA, while the DA agencies receive the remaining share in budget for supervising other
+   commodity-based services, including research and development, and regulatory and policy formulation. The OSEC
+   exercises both staff and line functions through the policy and regulatory bureaus while the regional offices deliver
+   front-line services, including coordination with the LGUs. The DA’s attached agencies exercise regulatory functions
+   over commodities such as machinery, fiber, coconut, meat, and carabao. The Bureau of Fisheries and Aquatic
+   Resources (BFAR) exercises both staff and line functions parallel with the functions of the OSEC.
+
+                                          Table 4. Program Financing: FY2025/26-2028/29
+
+
+
+
+ 15 Calculated from MBP and PSAT Expenditure Framework, 2025
+
+
+
+                                                                                                                          Page 12
+     The World Bank
+     Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+                             Source                            Amount (US$, Millions)   % of Total
+
+    Counterpart Funding                                                      7,400.00                88.1%
+
+      National Government                                                    7,400.00                88.1%
+
+    International Bank for Reconstruction and Development
+                                                                             1,000.00                11.9%
+    (IBRD)
+
+                   Total Program Financing                                   8,400.00
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Mio Takada
+ Senior Agriculture Economist
+
+ Meeta Sehgal
+ Senior Agriculture Specialist
+
+ IJsbrand Harko de Jong
+ Lead Water Resources Management Specialist
+
+Borrower/Client/Recipient
+ Department of Finance
+ Ralph Recto
+ Secretary
+ osec@dof.gov.ph
+
+Implementing Agencies
+ Department of Agriculture
+ Francisco Tiu Laurel
+ Secretary
+ osec.official@da.gov.ph
+
+FOR MORE INFORMATION CONTACT
+
+
+
+
+                                                                                                        Page 13
+     The World Bank
+     Philippine Sustainable Agriculture Transformation Project (P507504)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Mio Takada, Meeta Sehgal, IJsbrand Harko de Jong
+
+Approved By
+
+Practice Manager/Manager:               Paavo Eliste                          18-Feb-2025
+
+Country Director:                       Zafer Mustafaoglu                     24-Apr-2025
+
+
+
+
+                                                                                            Page 14
+

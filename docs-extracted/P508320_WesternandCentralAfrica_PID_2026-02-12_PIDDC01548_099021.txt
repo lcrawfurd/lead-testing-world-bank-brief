@@ -1,0 +1,481 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                 Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                Concept Stage | Date Prepared/Updated: 12-Feb-2026 | Report No: PIDDC01548
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)        Operation ID                    Operation Name
+Cameroon, Central African       P508320                         Central African Power Pool Regional Interconnection and
+Republic, Chad, Congo,                                          Access (CAPP-RIA) - Phase 1
+Republic of, Gabon
+Region                          Estimated Appraisal Date        Estimated Approval Date         Practice Area (Lead)
+WESTERN AND CENTRAL             21-Sep-2026                     07-Dec-2026                     Energy & Extractives
+AFRICA
+Financing Instrument            Borrower(s)                     Implementing Agency
+Investment Project              Ministère de l'Économie,        Ministry of Water and
+Financing (IPF)                 de la Planification et de       Energy, Ministère de
+                                l'Aménagement du                l'Acces Universel à l'Eau et
+                                territoire, Ministère de        à l'Energie, CAPP
+                                L'Economie, des Finances,       Secretariat, Ministre du
+                                de la Dette et des              Développement de
+                                Participations, Charge de la    I'Energie et des Ressources
+                                Lutte Contre La Vie Chère,      Hydrauliques
+                                Ministere des Finances, du
+                                Budget et du Portefeuille
+                                public, Ministere de
+                                l'Economie, du Plan et de la
+                                Coopération
+                                Internationale, CAPP
+                                Secretariat
+
+Proposed Development Objective(s)
+Proposed PrDO: (i) increase regional electricity trade in Central Africa, and (ii) increase access to electricity in
+participating countries.
+
+PrDo indicators
+PrDO indicator#1: Electricity traded among countries within the Central Africa region (MWh per year)
+PrDO indicator#2: People provided with direct access to electricity through new connections (number)
+
+Phase 1
+Proposed PDO: (i) increase access to electricity grid electricity and (ii) establish governance of the regional electricity
+market.
+PDO indicator #1: People provided with direct access to electricity through new connections (number)
+PDO indicator #2: Key governance instruments for the regional market adopted (number)
+
+
+
+                                                                                                                          Page 1
+      The World Bank
+      Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+ PROJECT FINANCING DATA (US$, Millions)
+
+ Maximizing Finance for Development
+
+ Is this an MFD-Enabling Project (MFD-EP)?                 To be decided
+ Is this project Private Capital Enabling (PCE)?           To be decided
+
+ SUMMARY
+   Total Operation Cost                                                                                     280.50
+
+   Total Financing                                                                                          280.50
+              of which IBRD/IDA                                                                            280.50
+   Financing Gap                                                                                              0.00
+
+ DETAILS
+   World Bank Group Financing
+     International Development Association (IDA)                                                            226.50
+       IDA Credit                                                                                           113.50
+       IDA Grant                                                                                            113.00
+     International Bank for Reconstruction and Development (IBRD)                                            54.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                Concept Review Decision
+Substantial                                                 The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+1.      Central Africa faces severe development challenges exacerbated by a complex geopolitical environment. The
+region is home to the Economic Community of Central African States (ECCAS) spanning 11 countries and a population of
+
+
+
+                                                                                                                   Page 2
+        The World Bank
+        Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+over 230 million people in 2023.1 Just over half reside in rural areas and are among the poorest in the world. 2 The region’s
+GDP amounted to US$281 billion in 2023, with Angola, Cameroon and the Democratic Republic of Congo representing
+more than 70 percent of the economic activity. 3 GDP per capita varies substantially between countries, ranging from
+US$193 in Burundi to nearly US$8,000 in Gabon.4 The region is characterized by widespread poverty, structural fragility,
+and significant gaps in infrastructure and energy access. Despite being endowed with vast reserves of oil, minerals, forests,
+and hydropower potential, many of these countries rank among the poorest globally, with approximately 55 percent of
+people in the ECCAS region living below the poverty line.5 Political instability and security concerns in the Central Africa
+region impede economic growth, good governance, and high living standards, with conflict, displacement, and weak
+institutions compounding vulnerability. Seven countries in ECCAS are classified as having fragile and conflict affected
+situations: Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of Congo, Republic of Congo and São
+Tomé and Príncipe.6
+2.       In recent years, several ECCAS countries have experienced periods of robust economic growth, particularly those
+benefitting from commodity exports and post-conflict recovery. However, this growth has often been volatile and uneven,
+heavily influenced by fluctuations in global commodity prices and domestic instability.7 The COVID-19 pandemic and
+ongoing climate-related shocks have further highlighted the vulnerability of the region’s economies, many of which remain
+highly dependent on oil, mining, and agriculture. Rising temperatures, shifting rainfall patterns, and more frequent floods
+and storms threaten livelihoods – especially for rural populations dependent on rain-fed agriculture – and place growing
+strain on critical infrastructure, including power generation and transmission assets. Hydropower, a key component of the
+regional electricity mix, is increasingly affected by hydrological variability. For example, recent low water levels in Gabon
+led to reductions in generation capacity and supply interruptions.8 Additionally, extreme weather events damage power
+lines, substations, and access roads, leading to service disruptions and higher maintenance costs. At the same time, high
+population growth has constrained GDP per capita gains, limiting improvements in living standards. In this context,
+strengthening regional integration—particularly through diversified, climate-resilient energy systems and enhanced
+regional power transmission— will be critical for unlocking the region’s economic potential and enabling more inclusive
+and sustainable growth.
+
+
+ Sectoral and Institutional Context
+
+ 3.      The region faces persistent challenges in achieving reliable and affordable electricity access. Electrification
+ rates vary widely across the region, from over 90 percent in Gabon to 12 percent in Chad, and rural areas across the
+ region remain significantly underserved.9 At the regional level, nearly 65 percent of the population – about 150 million
+ people – lacks access to electricity. Generation is dominated by hydropower in some countries and by thermal sources
+ in others, with limited regional integration preventing the efficient sharing of resources. Power utilities in most countries
+ are financially constrained, with tariffs set below cost-recovery levels, high technical and commercial losses – often
+ exceeding 30 percent – and low collection rates. These challenges reduce the ability of utilities to invest in grid
+ maintenance and expansion, contributing to frequent supply disruptions and inadequate service quality. Although the
+
+1 The eleven member countries include Angola, Burundi, Cameroon, Central African Republic, Chad, Democratic Republic of Congo, Equatorial
+
+Guinea, Gabon, Republic of Congo, Rwanda, and Sao Tome and Principe.
+2 World Bank, World Development Indicators (WDI).
+3 Ibid.
+4 Ibid.
+5 Ibid.
+6 World Bank FY26 Classification of Fragile and Conflict-Affected Situations.
+7 World Bank, World Development Indicators (WDI).
+8 World Bank Group, Gabon Country Climate and Development Report. 2025.
+9 Latest access numbers from 2023. https://databank.worldbank.org/source/world-development-indicators
+
+
+
+                                                                                                                                            Page 3
+        The World Bank
+        Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+ region possesses abundant renewable energy resources – including solar and vast untapped hydropower – deployment
+ remains limited due to financing constraints, weak regulatory frameworks, human capacity challenges, and
+ underdeveloped project pipelines. Many CAPP countries also lack updated least-cost power development plans and
+ coordinated strategies for rural electrification. Regional initiatives aimed at increasing trade and interconnection remain
+ key to improving system efficiency and leveraging untapped renewable resources across the region.
+ 4.        To promote regional energy integration and address power supply challenges, ECCAS established the Central
+ African Power Pool (CAPP) in 2003. CAPP’s mandate is to develop a unified electricity market in Central Africa by
+ integrating national power systems and establishing the necessary legal, commercial, and technical frameworks for
+ efficient power trade. In 2004, CAPP was designated a “Specialized Agency of ECCAS” with responsibilities that cover
+ energy policy implementation, infrastructure planning, and coordination of electricity exchanges among member states.
+ As part of broader governance reforms, CAPP was reclassified in 2021 to “Specialized Institution of ECCAS” 10, ensuring
+ its alignment with ECCAS administrative requirements and placing it under closer oversight by the ECCAS Commission.11
+ Over the years, the CAPP has made notable technical progress. The Electricity Market Code (2009) set out the principles
+ for regional electricity trade, followed by the Grid Code (2012), which provided operational rules for interconnected
+ systems. The Grid Code is currently being updated to reflect developments in renewable energy and energy storage.
+ Looking ahead, CAPP’s 2025–2028 strategic objectives12 focus on enhancing supply security through regional
+ integration, expanding access, improving reliability, and reducing operational costs. These goals are supported by
+ initiatives in infrastructure development, market design, policy harmonization, financing, and capacity building –
+ reflecting a continued regional commitment to sustainable energy and integration.
+ 5.       To operationalize CAPP’s strategic objectives, a series of coordinated initiatives are currently underway with
+ support from the World Bank Group and development partners. The World Bank Group – together with key
+ development partners such as the African Development Bank (AfDB) and the African Union Development Agency’s New
+ Partnership for Africa’s Development (AUDA-NEPAD) – is supporting the development of a Master Plan for the CAPP,
+ aligned with the broader CMP currently under preparation. The Master Plan anticipates that electricity demand
+ increases from 43TWh in 2021 to 134TWh in 2040, and peak demand increases from 6.8GW to 27GW over the same
+ period13. Regional integration, led by CAPP under the strategic guidance of ECCAS and in close consultation with the
+ Central African Economic and Monetary Community (CEMAC), will be essential to meeting these growing energy needs.
+ However, this can only be achieved through strengthened institutional capacity within CAPP, enabling it to plan,
+ implement, and operate cross-border infrastructure and establish a robust regional power trading framework. The first
+ cross-border interconnector in the CAPP region, linking Cameroon and Chad, is currently under implementation with
+ financing from the World Bank, AfDB, Islamic Development Bank, and the European Union (Cameroon – Chad Power
+ Interconnection Project; P168185). The CAPP Master Plan is expected to be finalized in Quarter 2 of 2026.
+ Complementing these efforts and with facilitation from the Energy Sector Management Assistance Program (ESMAP)
+ Multi-Donor Trust Fund (MDTF) (TF0CO442), the World Bank also supported the preparation of CAPP’s Strategic Business
+ Plan for 2025–2028, which was endorsed by ECCAS Ministers of Energy in October 2024. With support from Electrifying
+ Africa (TF0C2325) and ESMAP (TF0CO442), the World Bank is currently supporting an assessment of the feasibility of
+ medium-voltage (MV) cross-border interconnection points between Cameroon and CAR, Cameroon and Gabon, as well
+ as Cameroon and the Republic of Congo, with completion expected by June 2026.
+ 6.     Regional power integration offers substantial economic and reliability benefits for the CAPP region. Results
+ from the preliminary modeling conducted by the Energy Global Unit within the World Bank indicate that regional
+
+10 Decision No 13/CEEAC/CCEG/XIX/21 dated July 30, 2021, of the 19 th Ordinary Session of ECCAS Heads of State and Government
+11 Decision No 8/CEEAC/CCEG/XIX/21 dated July 30, 2021, of the 19th Ordinary Session of ECCAS Heads of State and Government
+12 2025 – 2028 CAPP Strategic Business Plan approved by the ECCAS Ministers in charge of energy in October 2024
+13 African Continental Power System Master Plan: Final Report, Integrated Continental Demand Forecasts Scenario Analysis, April 6, 2023
+
+
+
+                                                                                                                                          Page 4
+        The World Bank
+        Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+ transmission integration could reduce total system costs by about US$5 billion, equivalent to roughly 12 percent of the
+ net present system cost. Integration would also enhance system reliability, lower fuel costs, and reduce dependence on
+ external electricity trade by allowing the region to better utilize its hydropower resources. Overall, the regional
+ integration scenario achieves an average system cost of US$42/MWh, compared with US$54/MWh in the non-
+ integration case, underscoring the strong economic rationale for advancing cross-border transmission investments.
+ 7.       In response to the ongoing challenges facing Central Africa’s electricity sector, the CAPP-RIA MPA will adopt
+ a comprehensive and forward-thinking approach to develop a fully integrated regional power market. The approach
+ will be grounded in the key lessons learned from the West Africa Regional Electricity Market Program (WA-REMP) MPA
+ (505173), such as the need for strong sequencing and robust foundational institutional arrangements ahead of Day
+ Ahead Market (DAM) launch, and the importance of addressing payment discipline, least-cost planning, and
+ system-stability requirements. It will prioritize actions that reduce operational and market risks, promote cross-border
+ cooperation, and create favorable conditions for private sector engagement, particularly in transmission line
+ development. By aligning regional and national efforts, leveraging partnerships, and mobilizing climate and private
+ financing, the MPA aims to help participating countries move from fragmented investments toward a coordinated
+ strategy for transition and increased energy access. The program will focus on expanding access to electricity through
+ medium and low voltage network extensions, particularly in communities located along planned high voltage (HV)
+ corridors and near national borders to enhance the social acceptability of regional interconnections, strengthen cross-
+ border cooperation, and ensure local populations directly benefit from regional investments. Prioritizing access in these
+ areas also enables countries to capture economies of scale from shared transmission infrastructure. The MPA will
+ consider the potential for connecting industries and other productive users located along these corridors to stimulate
+ demand, support local economic development and job creation through enhanced productive use of electricity, and
+ reinforce the long-term viability of regional interconnections.
+ 8.     The design of the CAPP-RIA MPA, which is based on a three-pillar structure—institutional strengthening,
+ expanded access, and regional integration—will create a coordinated platform to address market barriers, aggregate
+ investments, and ensure that the benefits of interconnection and power trade reach communities across Cameroon,
+ the Central African Republic, Gabon, and the Republic of Congo.14
+
+
+ Relationship to CPF
+
+9.       The proposed MPA aligns closely with the strategic priorities outlined in the Country Partnership Frameworks
+(CPFs) of the five participating countries. In Cameroon (FY25-29, 190963-CM), the MPA supports Objective 3: Increasing
+Access to Renewable Energy, by strengthening national and cross-border transmission networks, scaling up access, and
+promoting regional power trade through the Central African Power Pool. In the Central African Republic (FY21-25, 150618-
+CF), it aligns with Objective 1.5: Build Resilient Infrastructure, by improving electricity access and enabling renewable
+energy expansion critical to connectivity and service delivery. In Gabon (FY23-27, 174105-GA), the MPA directly supports
+Objective 2: Increased Access to Basic Services, by supporting electricity access expansion and regional interconnections
+that will enhance reliability and support diversification in the non-oil economy. In the Republic of Congo (FY20-24, 126962-
+CG), the MPA contributes to Objective 1.5: Improved Infrastructure for Growth and Inclusion, under the strategic focus on
+strengthening economic management, through technical assistance and regional planning aligned with Congo’s vision of
+the sector as a growth driver. Through these targeted interventions, the MPA reinforces national priorities while advancing
+regional integration in Central Africa.
+
+
+14 Expressions of Interest were received from all five countries: Central African Republic (January 9, 2025), Cameroon (January 15, 2025), Republic of
+
+Congo (April 11, 2025), and Gabon (October 21, 2025).
+
+                                                                                                                                                 Page 5
+          The World Bank
+          Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+10.     The CAPP-RIA MPA is strategically designed to leverage public sector investments in regional transmission and
+distribution infrastructure as a catalyst for private capital mobilization. By focusing on HV interconnection projects,
+reinforcement of HV transmission networks, rehabilitation and extension of distribution grids, and cross-border MV
+interconnections, the program aims to address critical market barriers and create an enabling environment for private
+sector participation in the Central African power sector. While generation investments are not financed at this stage, the
+program’s investments in grid infrastructure will lay the foundation for future private sector-led generation projects by
+improving system reliability, expanding market access, and reducing operational risks. The phased approach will support
+the development of transparent commercial frameworks, harmonized regulatory standards, and regional market
+arrangements, thereby enhancing investor confidence and facilitating blended financing solutions. Close collaboration with
+IFC, MIGA, and other development partners will be pursued to mobilize private investment, particularly in subsequent
+phases, and to maximize the impact of public resources in advancing sustainable, inclusive electricity access across the
+region with associated benefits for local supply chains, service providers, and employment.
+ C. Proposed Development Objective(s)
+ 11.       The Program Development Objective (PrDO) is to (i) increase access to electricity in participating countries and
+ (ii) increase regional electricity trade in Central Africa.
+
+
+  Key Results (From PCN)
+12.      The proposed MPA will contribute to the creation and operationalization of a regional electricity market by
+supporting CAPP and the national utilities to put in place the core rules, systems, and infrastructure needed for cross-
+border trade. It will expand access by financing distribution systems that include medium and low voltage investments as
+well as cross-border infrastructure involving the participating countries. It will also strengthen the institutional capacity of
+CAPP and participating national utilities by providing targeted technical assistance and capacity building to improve
+planning, operational readiness, and the ability to manage regional power flows and market arrangements. Together, these
+efforts will promote regional cooperation, improve sector performance and enable more people to benefit from reliable
+and affordable electricity.
+13.       The following indicators will measure progress toward the PrDO:
+      •   PrDO Indicator 1: People provided with direct access to electricity through new connections (CRI, number)
+      •   PrDO Indicator 2: Electricity traded among countries within the Central Africa region (MWh per year)
+
+
+ D. Concept Description
+
+14.      The MPA provides a long-term framework to deepen regional electricity integration, expand access, and
+strengthen the institutions needed for a functional regional power market. Its three pillars focus on (1) building the
+institutional, technical, and regulatory capacity of CAPP and member utilities to operate a sustainable regional market, (2)
+expanding reliable, affordable electricity access through distribution improvements and MV interconnections, and (3)
+advancing priority cross-border interconnections and reinforcing national grids to enable greater regional power trade.
+15.      The first phase of the CAPP-RIA MPA supports the development of a regional electricity market in Central Africa,
+focusing on Cameroon, the Central African Republic, Gabon, and the Republic of Congo. It lays the technical, institutional,
+and infrastructure foundations for regional integration by strengthening the institutional capacity of the CAPP Secretariat
+and national utilities, advancing the governance and market frameworks for cross-border power trade, and financing
+priority transmission and distribution investments to expand reliable and affordable electricity access.
+
+
+
+                                                                                                                           Page 6
+      The World Bank
+      Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+16.   This first phase includes two (2) main components:
+      i. Component 1: Preparatory Studies and Institutional Capacity Building to Support Regional Integration (US$61
+         million equivalent). This component establishes the technical, commercial, and institutional foundations
+         required to operationalize a regional electricity market and prepare future investments under subsequent
+         phases of the MPA, and has two subcomponents:
+            •   Subcomponent 1.1: Preparatory Studies and Regional Market Frameworks (US$24.8 million
+                equivalent). This subcomponent finances the analytical and regulatory groundwork necessary for
+                regional power integration and for the preparation of next-in-line high-voltage interconnection
+                investments. It supports the development of pre-investment studies for the HV Cameroon–Central
+                African Republic and Gabon–Republic of Congo interconnections, including feasibility studies,
+                environmental and social assessments, and technical designs. A high-level assessment will also be
+                conducted on the viability of interconnecting the CAPP and the West African Power Pool (WAPP). The
+                subcomponent also supports the preparation of the commercial framework required to govern the
+                functioning of the regional electricity market.
+
+            •   Subcomponent 1.2: Institutional Strengthening of the CAPP Secretariat and Member Utilities (US$36.2
+                million equivalent). This subcomponent reinforces the institutional, human, and operational capacities
+                of the CAPP Secretariat and national counterparts to ensure effective coordination and future operation
+                of the regional electricity market. It also supports the preparation of the Market Coordination Center
+                and strengthens CAPP’s internal systems and those of member utilities by supporting the deployment
+                of a regional monitoring and evaluation mechanism, the harmonization of network planning tools,
+                strengthening of cybersecurity and IT infrastructure, and the preparation of a comprehensive capacity-
+                building strategy. This subcomponent also includes targeted training and embedded implementation
+                support to help CAPP and national agencies manage the technical, fiduciary, safeguards, and planning
+                requirements of the MPA. Finally, this subcomponent promotes gender and social inclusion within CAPP
+                and its member utilities.
+
+      ii. Component 2: Priority Investments in on-grid access (US$219.5 million equivalent). This component finances
+          priority investments that expand reliable electricity access in participating countries, allowing immediate
+          progress toward the Mission 300 targets and each country’s National Energy Compact, and strengthening the
+          regional MV backbone required for future power exchanges. This component has the two following
+          subcomponents:
+            •   Subcomponent 2.1: On-grid Access Expansion and Distribution Strengthening (US$200 million
+                equivalent). This subcomponent finances on-grid access projects and distribution-system reinforcement
+                in Cameroon, the Central African Republic, Gabon, and the Republic of Congo. Activities include network
+                densification, rehabilitation of MV-LV networks, construction of new MV–LV feeders, and the rollout of
+                household and enterprise connections in priority urban, peri-urban, and border areas. By 2030, about
+                2.655 million people are expected to benefit from new electricity access in the five participating
+                countries through this MPA.
+
+            •   Subcomponent 2.2: Medium-Voltage Cross-Border Interconnections (US$19.5 million equivalent). This
+                subcomponent supports the development and construction of priority MV cross-border interconnection
+                projects between Cameroon–CAR, Cameroon–Gabon, and Cameroon–Republic of Congo.
+
+
+
+                                                                                                                   Page 7
+      The World Bank
+      Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                     Policies                                                Triggered?
+ Projects on International Waterways OP 7.50                                     No
+ Projects in Disputed Area OP 7.60                                               No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Momodou A K Njie
+  Senior Energy Specialist
+
+  Anna Aghababyan
+  Senior Operations Officer
+
+  Monyl Toga
+  Senior Energy Specialist
+
+  Yang Liu
+  Senior Energy Economist
+
+  Daniel Camos Daurella
+  Senior Energy Specialist
+
+ Borrower/Client/Recipient
+
+
+
+
+                                                                                          Page 8
+     The World Bank
+     Central African Power Pool Regional Interconnection and Access (P508320)
+
+
+ Ministère de l'Économie, de la Planification et de l'Aménagement du territoire
+
+ Ministère de L'Economie, des Finances, de la Dette et des Participations, Charge de la Lutte Contre La Vie Chère
+
+ Ministere des Finances, du Budget et du Portefeuille public
+
+ Ministere de l'Economie, du Plan et de la Coopération Internationale
+
+ CAPP Secretariat
+
+Implementing Agencies
+ Ministry of Water and Energy
+
+ Ministère de l'Acces Universel à l'Eau et à l'Energie
+
+ CAPP Secretariat
+
+ Ministre du Développement de I'Energie et des Ressources Hydrauliques
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+                                          Momodou A K Njie, Anna Aghababyan, Monyl Toga, Yang Liu, Daniel Camos
+Task Team Leader(s):
+                                          Daurella
+
+Approved By
+
+Practice Manager/Manager:                 Jie Tang                                21-Jan-2026
+
+Country Director:                         Marina Wes                              12-Feb-2026
+
+
+
+
+                                                                                                                    Page 9
+

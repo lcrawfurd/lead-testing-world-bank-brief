@@ -1,0 +1,657 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   The Gambia Water and Sanitation Project(P513113)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Project Information Document (PID)
+
+                                               Concept Stage | Date Prepared/Updated: 01-Dec-2025 | Report No: PIDDC01429
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                            Official Use Only
+     The World Bank
+     The Gambia Water and Sanitation Project(P513113)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+Gambia, The                    P513113                     The Gambia Water and Sanitation Project
+Region                         Estimated Appraisal Date    Estimated Approval Date       Practice Area (Lead)
+WESTERN AND CENTRAL            01-Apr-2026                 15-Jul-2026                   Water
+AFRICA
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Ministry of Finance and     National Water and
+Financing (IPF)                Economic Affairs            Electricity Company
+                                                           (NAWEC)
+
+Proposed Development Objective(s)
+The development objective is to enhance access to water and sanitation services in selected regions of The Gambia
+and to support policy and institutional sector reforms.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  Yes
+Is this project Private Capital Enabling (PCE)?            No
+
+SUMMARY
+  Total Operation Cost                                                                                          30.00
+
+  Total Financing                                                                                               30.00
+              of which IBRD/IDA                                                                                 30.00
+  Financing Gap                                                                                                  0.00
+
+DETAILS
+  World Bank Group Financing
+   International Development Association (IDA)                                                                  30.00
+      IDA Grant                                                                                                 30.00
+
+
+                                                                                                                    Page 1
+
+
+
+                                                                                                         Official Use Only
+         The World Bank
+         The Gambia Water and Sanitation Project(P513113)
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                         Concept Review Decision
+Substantial                                                                          The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+1. The Gambia is a low-income country that has faced significant challenges to reduce poverty, mainly due to high
+population growth, rapid urbanization, and limited access to basic infrastructure. Approximately 21 percent of the
+population lives in extreme poverty, measured against the international threshold of US$2.15 per person per day.1 The
+gross domestic product (GDP) is projected to reach US$2.68 billion in 2024. With the anticipated population growth, this
+would result in an estimated GDP per capita of US$985 (US$ current).2
+2. Poverty in The Gambia is multi-dimensional and unequally distributed, reflecting limited education, poor access to
+basic services, and widespread vulnerability to climate risks. Poverty is more common in rural areas, particularly in the
+Northeast. However, a larger share of people living in poverty is found in the urbanized areas of the Southwest, which
+have a higher population density. The two districts with the largest numbers of residents living in poverty are Kanifing and
+Brikama, where informal settlements have outpaced the development of basic infrastructure and services, including
+housing, roads, electricity, water, and drainage.
+3. The Gambia is highly vulnerable to climate change—it is in the top third of most vulnerable countries according to
+the ND-GAIN Index on climate vulnerability. The country is facing an increase in climate hazards, which are expected to
+worsen due to climate change. Dry spells and heat extremes are becoming more frequent, with consecutive dry days
+projected to rise from 135 to 160 per year by 2025. Additionally, the number of days with temperatures exceeding 40°C
+is expected to increase from 60 to 100 by 20503. High-intensity rainfall events are anticipated to grow by up to 20%,
+particularly for 1-day rainfall in the Upper and Central River Regions by 20504.
+4. The rise in extreme heat days is likely to lead to a consistent increase in drought risk and a doubling of wildfire risks
+across the country. Recent droughts in 2012 and 2018 have already resulted in worsened food security due to decreased
+fodder availability and lower crop yields, negatively impacting both human health and the economy5. Additionally,
+approximately one-third of the country’s surface area is located at or below 10 meters above sea level, and between 10
+
+3
+  Global Center on Adaptation. 2025. Climate Hazard Assessment Integrated Adaptation Options for Transport, Energy and Water Sectors in The
+Gambia
+3
+  Global Center on Adaptation. 2025. Climate Hazard Assessment Integrated Adaptation Options for Transport, Energy and Water Sectors in The
+Gambia
+3
+  Global Center on Adaptation. 2025. Climate Hazard Assessment Integrated Adaptation Options for Transport, Energy and Water Sectors in The
+Gambia
+4 Ibid.
+5 United Nations Framework Convention on Climate Change (2022), The Gambia: A diagnostic exercise conducted by the climate resilient food systems alliance.
+
+
+
+
+                                                                                                                                                              Page 2
+
+
+
+                                                                                                                                                  Official Use Only
+          The World Bank
+          The Gambia Water and Sanitation Project(P513113)
+
+
+to 20 percent is susceptible to seasonal or daily flooding. The Intergovernmental Panel on Climate Change’s Representative
+Concentration Pathway 8.5 projects that by 2050, The Gambia may experience a sea level rise of 35 centimeters, with
+coastal flooding continuing to pose a significant threat to infrastructure.
+    Sectoral and Institutional Context
+5. The management of the water sector in The Gambia is fragmented with overlapping institutional responsibilities.
+The Ministry of Fisheries and Water Resources (MFWR) oversees the overall management of water resources as well as
+rural water supply. On-site sanitation-related responsibilities are managed under the Ministry of Health and Social
+Welfare. Meanwhile, the National Water and Electricity Company (NAWEC) is responsible for providing water supply and
+sanitation services (wastewater management) to urban centers and provincial growth centers with populations exceeding
+10,000 inhabitants, in addition to generating, transmitting, and distributing electricity. NAWEC reports to the Ministry of
+Petroleum and Energy, and there is no direct reporting line between NAWEC and MFWR. This lack of direct communication
+complicates coordination regarding sector policies and investments. Additionally, the government has recently decided
+to separate NAWEC's water and electricity operations. A committee has been established to create a roadmap for this
+separation. This roadmap is expected to suggest reform options to address the major shortcomings in the legal, regulatory,
+and governance frameworks, as well as the existing gaps in planning, financing, and maintenance of water and sanitation
+infrastructure.
+6. The Gambia has abundant water resources that are not fully utilized for economic gain. About 11.5 percent of the
+country's surface area is covered by water, and 20 percent is classified as wetlands. Despite the abundance of water
+resources estimated to 8.5 billion m3 per year, their economic utilization remains both limited and inefficient, with an
+overall water-use efficiency of $13.0/m³, compared to $24.4/m³ in peer countries across the region6.
+7. The Gambia shares the Senegal-Mauritanian Aquifer Basin (SMAB) with Guinea-Bissau, Mauritania, and Senegal.
+This significant transboundary groundwater resource, which could locally be high in fluoride, was explored in the early
+1980s but has since been largely neglected. Recently, the countries sharing the SMAB have expressed their willingness to
+cooperate in managing the transboundary aquifer, leading to increasing regional effort to identify common challenges
+and establish a formal cooperation mechanism. The dialogue initiated in 2019 resulted in the approval of a roadmap for
+creating a joint vision and a long-term cooperation program. Subsequently, a Regional Working Group (RWG) was formed,
+comprising official representatives from the four countries, as well as from the Organisation pour la Mise en Valeur du
+Fleuve Gambie (OMVG) and Organisation pour la Mise en Valeur du Fleuve Senegal (OMVS). Currently, a draft cooperation
+agreement is being developed, and The Gambia remains committed to these regional efforts, aiming to sign the
+cooperation agreement by the end of 2026.
+8. The transboundary Gambia River, which flows through the country, has a basin that spans much of the entire
+nation. However, the water is too saline for effective use. The basin is managed by the OMVG, established in 1978, which
+coordinates water resources management across its four member countries: Senegal, The Gambia, Guinea-Bissau, and
+Guinea.
+9. Water resources management in The Gambia is currently inadequate (weak legal and institutional frameworks,
+limited financing, enforcement, and monitoring capacity) which undermines the country's resilience to future climate
+change-related shocks. While surface water resources are well understood due to studies conducted by the OMVG, there
+has been limited research on groundwater resources, with no comprehensive understanding of coastal and deep aquifers.
+Advancing exploration in this area will be crucial to strengthening resilience and supporting adaptation to climate shocks,
+including droughts and declining groundwater levels.
+
+
+
+6
+    Data source: Water Security Diagnostic Dashboard 2.0
+
+                                                                                                                       Page 3
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       The Gambia Water and Sanitation Project(P513113)
+
+
+10. Groundwater pollution in The Gambia is a significant issue. The combined effects of sea level rise due to climate
+change and the lowering of the shallow groundwater table—caused by climate change-exacerbated changes in recharge
+patterns, droughts, soil sealing, and increased groundwater demand—have accelerated the inland intrusion of saline water
+into the shallow sand aquifer. Consequently, several of NAWEC’s coastal boreholes have been decommissioned, further
+reducing water availability. The Department of Water Resources within the MFWR monitors 38 boreholes, 20 percent of
+which are affected by saltwater intrusion, compromising water quality and availability for domestic and agricultural use.
+Additionally, inadequate sewerage infrastructure and leaking septic tanks, as well as urban contaminants such as direct
+wastewater discharge, hydrocarbon storage, waste dumping sites, and industrial activities and the presence of agricultural
+land within the Greater Banjul Area (GBA) have contributed to nitrate contamination of this shallow groundwater, resulting
+in the closure of even more boreholes. Over the past decade, 25 out of the 99 boreholes constructed to access the shallow
+sand aquifer for GBA’s water supply have been decommissioned. Industrial pollution is estimated to cost approximately
+US$41.8 million annually and agricultural pollution accounts for around US$7.5 million in annual costs.
+11. Water supply services are currently facing a significant crisis due to limited infrastructure and a growing population,
+hindering the country's ability to meet the SDGs. NAWEC currently has a water production capacity of 147,000 cubic
+meters (m³) per day, but the peak daily demand is approximately 252,000 m³. This creates a daily shortfall of 105,000 m³,
+a situation that could worsen due to droughts intensified by climate change and rising future demand. As a result, only 48
+percent of the population has access to safely managed drinking water services, with 68 percent in urban areas and just
+10 percent in rural areas. Furthermore, the quality of these services is often compromised by frequent outages, leading
+to neighborhoods experiencing water shortages that can last for days, weeks, or even months. NAWEC has been focused
+on emergency measures to address these water cuts, limiting its ability to expand services in urban areas, which
+experienced a growth rate ranging from 3.32 percent to 3.67 percent per year from 2019 to 2023. Many areas still lack
+access to potable water entirely. Additionally, water quality is a significant concern, with high levels of nitrates, iron, and
+salinity found in drinking water. Climate change is expected to exacerbate the issue, leading to further increases in drinking
+water salinity due to rising sea levels that impacts coastal aquifers and the Gambia river.
+12. Greater Banjul currently relies on boreholes that tap into a shallow sand aquifer; however, this water source is
+vulnerable to contamination and decreasing in quantity due to the combined effects of climate change and competition
+from domestic users. One potential solution is to exploit the deep Maastrichtian aquifer, which may represent a durable
+water source for future needs. Moreover, there is an urgent need to enhance NAWEC's storage capacity, which is currently
+estimated at only three hours a day. Out of 29 elevated tanks with an average water capacity of 630 m³, only eight are in
+good condition, and storage capacity is further constrained by frequent power outages and insufficient pressure to fill the
+tanks.
+13. The National Water and Electricity Company (NAWEC) is facing significant challenges that affect its operational
+efficiency and financial sustainability. Key issues include high non-revenue water levels, which range from 38 percent to
+42 percent, primarily due to aging infrastructure, inadequate maintenance practices, illegal connections, faulty meters,
+and outdated systems. NAWEC needs significant support in tools and resources to manage its water operations effectively,
+which account for approximately 10 percent of its revenue. Tools that are missing include a Geographic Information System
+(GIS) for asset management, a hydraulic model for monitoring water flow, and organized hydraulic zones to ensure
+systematic water delivery and to monitor water losses. Furthermore, the absence of sectorized networks and sufficient
+bulk water meters complicates accurate measurement of water production and distribution throughout the network,
+underscoring the need to establish district-metered areas (DMAs). In addition, the lack of GIS customer meter mapping
+further complicates NRW monitoring. The company's financial viability is further hindered by non-cost-reflective tariffs
+and limited access to funding, as well as capacity constraints in both technical and managerial areas.
+14. The financial situation of NAWEC presents significant challenges, marked by fluctuating revenues, rising costs—
+especially foreign exchange costs—and ongoing net losses. Although the utility's total revenue increased from GMD
+
+
+                                                                                                                          Page 4
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         The Gambia Water and Sanitation Project(P513113)
+
+
+3,296.3 million in 201453.1 million in 2023, production costs have remained high, accounting for approximately 60% of
+total supply costs. These production costs along with high Non-Revenue Water in GBA (around 42%), representing
+significant losses from leaks, theft, or billing inefficiencies, have become critical factors adversely affecting NAWEC's
+operational efficiency and financial sustainability.
+15. The deteriorating sewerage infrastructure and inadequate sanitation are creating a significant health and
+environmental crisis. Currently, only 28 percent of the population has access to safely managed sanitation facilities, while
+some individuals, particularly in rural areas, still practice open defecation. The country is facing challenges with
+wastewater treatment, as 80 percent of wastewater is improperly treated, leading to groundwater contamination and
+associated health risks. In Greater Banjul, there is only one wastewater treatment plant located in Kotu, which primarily
+serves the hotels installed between Bakau and Fajara areas. Although stabilization ponds are in place, they are overloaded,
+resulting in the regular release of inadequately treated sewage into natural water bodies. Additionally, the management
+of fecal sludge is poor. Many residents in Greater Banjul who are not connected to the sewer system depend on poorly
+constructed septic tanks or soak aways, which are often built in areas with high water tables. Upgrades to treatment
+facilities are essential for protecting public health and ecosystems. The collection and disposal of fecal sludge in these
+areas is infrequent and inadequate, leading to dumping in open spaces or into waterways adjacent to agricultural zones.
+This mismanagement is already compromising water quality and availability, particularly due to nitrate contamination.
+Furthermore, flooding events are expected to exacerbate the situation by increasing the volume of untreated sewage and
+fecal sludge that leaches into groundwater.
+16. Sanitation and Hygiene are lagging behind: Currently, only 28 percent of the population has safely managed
+sanitation, 40 percent use unimproved sanitation facilities and less than 1 percent practice open defecation, particularly
+in rural areas. There is an urgent need to develop a sector roadmap that identifies investment needs and reform
+recommendations to achieve universal access by 2040 or 2050.
+17. Water, Sanitation, and Hygiene (WASH) service quality is inadequate: The Institutional framework ensuring water
+quality standards are followed is robust but hampered by challenges such as inadequate enforcement mechanisms, limited
+funding and a lack of coordination among agencies. The Gambia Public Utilities Regulatory Authority (PURA) has
+established guidelines for minimum quality standards in water and sanitation services, which include requirements for
+potable water production, distribution, and sewage management. Key mandates include maintaining a water pressure of
+1.5 bars, limiting service interruptions to 12 hours monthly, and ensuring sewage discharge meets specific quality
+standards (BOD7 of 30 mg/L and TSS8 of 50 mg/L). However, challenges persist, including limited monitoring capacity and
+damage to infrastructure from extreme weather events such as floods. Additionally, droughts disrupt water availability and
+changing precipitation patterns exacerbate water scarcity and contamination, creating further challenges for WASH
+services. A 2019 survey indicates for instance that 73.2% of households had E. coli in their drinking water, highlighting
+significant issues in water quality management.
+18. The involvement of the private sector in water, sanitation, and electricity services in The Gambia has historically
+been limited and often unsuccessful. The country’s water and electricity sectors have primarily been dominated by state
+ownership, with little private sector participation. Efforts to establish public-private partnerships (PPPs) in these sectors
+have faced challenges due to weak institutions that find it difficult to monitor and enforce complex contracts. The 2006
+National Water Resources Policy provided a framework for integrated water management and aimed to encourage private
+sector involvement. Additionally, the Electricity Act of 2005 opened the electricity generation and distribution markets to
+private companies, which allowed Independent Power Producers (IPPs) to enter the sector, including a 25 MW plant that
+was commissioned in 2008. However, attempts to privatize wastewater management were unsuccessful, as private
+
+
+7
+    Biochemical Oxygen Demand
+8
+    Total Suspended Solids
+
+                                                                                                                         Page 5
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       The Gambia Water and Sanitation Project(P513113)
+
+
+investors did not fulfill their commitments, leading to caution regarding future private sector engagements. Ongoing
+reforms are aimed at restructuring the National Water and Electricity Company (NAWEC) into separate entities for water
+and electricity in order to improve governance and attract private investment. The Public Utilities Regulatory Authority
+(PURA), established in 2001, now oversees service quality, tariff setting, and regulatory compliance; however, concerns
+about its independence remain.
+19. The Gambia faces significant gender disparities. In the 2024 Gender Inequality Index, the country ranked 110th out
+of 146 nations, showing slight improvement from the previous year. Economically, women account for only 14.6% of paid
+employment and hold just 10.3% of parliamentary seats, highlighting a significant gap in both representation and income.
+In the water supply, sanitation, and hygiene (WASH) sector, women are disproportionately affected by inadequate
+infrastructure and service delivery. Only 31% of households have handwashing facilities, and 73% are at risk of fecal
+contamination. This situation exposes women and girls to increased health risks and GBV, especially when they are forced
+to travel long distances for water or sanitation.
+20. Recent initiatives to improve WASH services in the country are supported by projects funded by a variety of
+development partners, including the World Bank, the European Investment Bank (EIB), the French Development Agency
+(AFD), the Saudi Fund for Development (SFD), and the European Union (EU). These projects focus on increasing water
+production, upgrading infrastructure, and planning for urban water and sanitation through 2050. Key initiatives include
+IDA-funded projects such as the Gambia Electricity Restoration and Modernization Project (GERMP - P173161), which
+provides funding for short-term solutions to water shortages and infrastructure improvements. Another important
+initiative is the Gambia Inclusive and Resilient Agricultural Value Chain Development Project (GIRAV - P180656), which
+invests $23 million in WASH and irrigation to expand supply and enhance rural sanitation. It is projected that the combined
+effects of these ongoing operations will increase water production to 213,740 m³/day by 2027. However, the demand for
+water is expected to reach 300,000 m³/day by 2030, so the National Water and Electricity Company (NAWEC) must continue
+to improve its services to meet future needs, particularly in the face of drought risks. Current projects also support studies
+and capacity-building initiatives aimed at improving the groundwater and water sector, including energy efficiency,
+hydraulic modeling, wastewater management, and enhancing climate resilience.
+21. To effectively address the above long-standing and complex challenges in the Gambia WASH sector, a
+comprehensive, gradual, and multi-stakeholder approach is required. This approach should consider lessons learned
+from past and ongoing interventions and integrate reforms in institutional, legal, and regulatory frameworks, enhance
+infrastructure development, promote community engagement, prioritize climate resilience, and tackle current gaps in
+planning, financing, and assets maintenance. There is an urgent need for investments and reforms to improve integrated
+water resource management, protect water sources, and monitor water quality effectively. Additionally, it is essential to
+enhance water and sanitation infrastructure, including the rehabilitation of outdated infrastructure. Supporting sector
+reforms and financing is also crucial, including updating water legislation, resolving the institutional fragmentation issue,
+encouraging private service provision, improving cost recovery policies, and ensuring proper maintenance of existing
+infrastructure.
+22. Furthermore, it is important to support the unbundling process of NAWEC’s water and electricity businesses, build
+the capacity of the new water utility, and ensure its financial sustainability and operational efficiency. To facilitate these
+efforts, a tariff study and the development of a financial model for the water sector—along with a comprehensive sector
+roadmap and a financing platform—are necessary. The roadmap and findings from these studies will inform sector
+reforms, enhance donor interventions and coordination, boost private sector participation, and improve service delivery.
+23. This project aligns with the above approach and integrates targeted interventions to strengthen water resource
+monitoring and conservation and expand equitable access to water and sanitation services in both urban and rural
+communities. The design is guided by robust analytical work and lessons learned from previous Bank-funded initiatives
+and complementary donor-supported projects.
+
+                                                                                                                          Page 6
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       The Gambia Water and Sanitation Project(P513113)
+
+
+
+
+ Relationship to CPF
+
+24. The proposed project aligns closely with the World Bank Group’s objectives of ending extreme poverty and
+sustainably enhancing shared prosperity on a livable planet. The project's activities will contribute to poverty reduction
+through investments aimed at sustainably mobilizing and improving groundwater resources, enhancing access to water
+and sanitation services and climate resilience, and reducing exposure to public health crises and associated adverse
+impacts on economic and human needs. Special attention will be devoted to developing WASH (Water, Sanitation, and
+Hygiene) infrastructure in specific areas that are home to the poorest and most vulnerable populations, particularly in
+Greater Banjul Area (GBA) and surrounding towns, which are experiencing rapid urbanization and a shortage of WASH
+services.
+
+25. The project aligns with the Country Partnership Framework (CPF) objective 2.1, which seeks to increase access to
+sustainable energy and clean water as part of Focus Area 2: Enabling Inclusive and Resilient Private Sector-Driven Job
+Creation. The primary goal of the project is to provide reliable access to resilient water and sanitation services in selected
+strategic areas, thereby enhancing economic and human development outcomes. The implementation of the planned
+activities will not only stimulate job creation but also encourage private sector involvement in the water and sanitation
+sector. This will be partially achieved through a performance-based contract designed to address the issue of non-revenue
+water (NRW), which adversely affects NAWEC's financial sustainability. Additionally, the project has the potential to
+maximize financing for development in the management of urban wastewater and fecal sludge treatment infrastructure.
+
+26. The project is aligned with The Gambia National Development Plan 2023 - 2027 (NDP 2023 - 2027). The pillars of the
+NDP are: (i) building community resilience to address shocks and crisis; (ii) governance reform; (iii) macroeconomic
+stability and growth; (iv) human capital development; (v) agriculture, fisheries, natural resources, environment and
+climate change; (vi) empowerment, social inclusion and leaving no one behind; and (vii) energy, infrastructure and
+connectivity.
+
+27. Paris Alignment. The proposed project aligns with both The Gambia's and the World Bank's commitments to
+addressing climate change. The activities outlined in the project will support the implementation of several key documents,
+including The Gambia’s Second Nationally Determined Contribution (NDC), the National Adaptation Program of Action on
+Climate Change (2007), the National Climate Change Policy of The Gambia (2016), and The Gambia’s Long-Term Climate-
+Neutral Development Strategy (2022). The Long-Term Strategy aims to achieve net-zero carbon emissions by 2050 while
+enhancing adaptive capacities and resilience. A critical aspect of the Climate Change Policy is the promotion of climate-
+resilient water and sanitation services. Nature-based solutions, such as floating systems (with ultrasound technology to
+eliminate the majority of microalgae) for wastewater treatment in Kotu, will contribute to both mitigation and adaptation
+efforts. These systems will decrease energy consumption and operational costs, reduce environmental impact, and ensure
+compliance with discharge standards. Additionally, the use of solar-powered boreholes and energy-efficient pumps in
+planned water, sanitation, and hygiene (WASH) interventions will contribute to a reduction in greenhouse gas emissions.
+Conversely, diesel pumps will not be used as primary energy sources where viable alternatives exist, both technically and
+financially. Where practical, the water supply systems will consist of a single stage of pumping into storage tanks, with
+distribution managed by gravity. No specific risks regarding the adaptation and mitigation aspects of the Paris Alignment
+are flagged at this stage.
+
+ C. Proposed Development Objective(s)
+
+
+
+                                                                                                                          Page 7
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       The Gambia Water and Sanitation Project(P513113)
+
+
+ The development objective is to enhance access to water and sanitation services in selected regions of The Gambia and
+ to support policy and institutional sector reforms.
+
+  Key Results (From PCN)
+
+ A.   Key Results
+
+ 28. The achievement of the PDO will be measured through the following Results Indicators:
+
+         •   Increase access to improved sanitation services in rural areas. Indicator: Number of people provided with
+             access to improved sanitation facilities under the project.
+         •   Increase access to safely managed drinking water supply services in selected GBA and surrounding towns.
+             Indicator: Number of people provided with access to improved water sources under the project.
+         •   Support sector reforms. Indicator: Adoption of a Concession Agreement for the new National Water Company
+             along with a Contract Program.
+
+ D. Concept Description
+ 29. Building on the gains of GERMP and GIRAV (which have provided critical support for immediate responses to water
+ shortages and for WASH and irrigation services), this first standalone IPF with PBCs represents a strategic shift toward
+ a long-term engagement in the water sector. In coordination with other donors, the World Bank, through this project,
+ will help the Government lay the foundation for sustainable investments, institutional strengthening, and policy reforms
+ that will underpin the sector's future development. It will finance priority water and sanitation infrastructure to help
+ close the service deficit in the Greater Banjul Area, while anchoring broader reforms for improved governance. On the
+ investment side, the project will enhance water supply reliability through the construction of new boreholes, treatment
+ plants, and storage facilities, alongside the expansion of distribution networks and household connections, and the
+ reduction of non-revenue water. On the sanitation side, it will invest in essential infrastructure such as a fecal sludge
+ treatment plant and flood-resilient sanitation systems, complemented by stronger monitoring and management of
+ water resources. Through its performance-based approach, the project will help address long-standing institutional
+ fragmentation and strengthen NAWEC's efficiency. In doing so, it will lay the building blocks for a more resilient,
+ financially sustainable water and sanitation sector, paving the way for deeper, sustained engagement in the years
+ ahead.
+
+30. Project Components: The activities of the project are organized into four components, which are described below.
+Component 1: Improving Access to Urban Drinking Water Services (US$15M)
+
+31. The objective of this subcomponent is to enhance access to drought resilient, improved water sources in GBA and
+surrounding towns. Funded initiatives will involve constructing boreholes in both deep and shallow sand aquifers,
+establishing a water treatment plant, and installing transmission lines and storage tanks. Additionally, the projects will
+include expanding the distribution network, creating more water connections, and improving management of non-
+revenue water.
+Component 2: Improving Access to Sanitation Services (US$8M)
+32. This Component aims to improve the sanitation infrastructure of the Greater Banjul Area (GBA), contributing to
+improved living conditions, including better air and water quality, increased flood resilience as well as increased public
+
+
+                                                                                                                       Page 8
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       The Gambia Water and Sanitation Project(P513113)
+
+
+hygiene. Additionally, it seeks to tackle sanitation and hygiene challenges in vulnerable regions identified in the National
+Sanitation and Hygiene Policy (NSHP), which advocates for universal access to safely managed sanitation by 2030.
+33. Component 2.1: Urban sanitation (US$6.5M). This sub-component focuses on implementing the emergency and
+short-term measures recommended in the recent wastewater study conducted under the GERMP-AF. The activities of this
+sub-component include rehabilitating the sewer systems in Kotu and Banjul, as well as the wastewater treatment plant in
+Kotu and the sea outfall in Banjul. Additionally, the Project will support the construction of a dedicated fecal waste
+treatment plant in Kotu, located away from residential and tourism areas, benefiting approximately 153,000 households.
+34. Component 2.2: Rural Sanitation Development (US$ 1.5 M). This sub-component aims to address sanitation and
+hygiene challenges in vulnerable regions. This subcomponent will therefore finance the following activities: (i) construction
+of 1,000 flood resilient improved household sanitation facilities in last mile Open Defecation communities (about 12,600
+people); (ii) construction of 20 improved latrines in public places (selected health centers); (iii) conducting targeted
+Community-Led Total Sanitation (CLTS) Campaigns; (iv) strengthening handwashing facilities at household level; (v)
+conducting behavior change, menstrual health, and hygiene promotion; (vi) supporting coordination between the Ministry
+of Health, Department of Water Resources, and local councils; (vii) monitoring open defecation in communities using GIS
+Tools; (viii) establishing community-based monitoring teams to sustain ODF gains; (ix) conducting national ODF
+assessment; (x) conducting independent verification and certification; and (xi) preparing a National Declaration to end
+open defecation.
+35. Additionally, the project will support capacity-building, behavior change and hygiene promotion activities using a
+comprehensive approach that includes assessments to identify and prioritize specific training needs of stakeholders in
+WASH, such as health workers, community development assistants, NGOs, civil society organizations (CSOs), community
+leaders, and local government officials. Customized training materials will be developed to cover essential topics, including
+the importance of sanitation and hygiene, best practices, community engagement strategies, and techniques for
+monitoring sustainability.
+36. Lastly, this subcomponent will support the development of a Rural Water Supply and Onsite Sanitation Master Plan
+for the years 2030-2050. The plan will focus on achieving Sustainable Development Goals (SDG) 6.1 and 6.2 and outline
+the necessary reforms and investment options to ensure sustainable delivery of water, sanitation and hygiene services.
+Component 3: Water Resources Monitoring and Conservation (US$3M)
+
+37. This component supports three key government initiatives: (i) promoting cooperation on transboundary water
+management; (ii) improving the monitoring and conservation of water resources; and (iii) establishing a national laboratory
+for water quality assessment and monitoring.
+Component 4: Support to Sector Reform, Water Utility Capacity Building and Project Management (US$4M)
+
+1. The Government has decided to separate NAWEC's water and electricity businesses and has established a committee
+to create a roadmap for this separation. This component aims to facilitate this important reform process while also
+providing funding for project management operating costs.
+2. Component 4.1 – Institutional Reforms and Performance Based Conditions Monitoring (US$2M). This component
+will support the ongoing strategic policy and institutional reforms associated with institutional fragmentation of the sector
+and operational efficiency of NAWEC. It includes four performance-based conditions (PBCs) with an estimated value of
+USD 2 million, which is 6.6 percent of the total IDA financing:
+     • PBC 1: Development of a WSS sector roadmap that includes a coherent program for Sustainable Development
+        Goal 6 (SDG 6).
+
+
+
+                                                                                                                         Page 9
+
+
+
+                                                                                                                 Official Use Only
+        The World Bank
+        The Gambia Water and Sanitation Project(P513113)
+
+
+    •   PBC 2: Development of the sector financial model along with a tariff study for the urban water sector, which should
+        include affordability and efficiency analysis, and the adoption and implementation of a new water tariffs matrix
+        that will enable cost recovery for the water utility operations.
+    •   PBC 3: Signing a performance-based contract with a private operator to help manage NRW is aimed at improving
+        the new water company’s operational efficiency and financial sustainability, while also laying the groundwork for
+        increased future private sector involvement.
+    •   PBC 4: Recruitment of a private sector operator to manage the operations and maintenance of sewerage systems
+        and the new fecal sludge treatment plant to be constructed under this project.
+
+3. PBC1 and PBC4 are also intended to help address issues related to institutional fragmentation within the sector. The
+separation of water and electricity businesses and the adoption of the new Water Company’s contract program will allow
+the Ministry of Fisheries and Water Resources to oversee urban water and wastewater development, in addition to its
+current responsibilities in water resources management and rural water supply. On the other hand, transferring urban
+wastewater operations to the private sector will enable the new Water Company to concentrate on its core business of
+urban water supply services and assets management.
+
+4. Component 4.2 - Project management (US$2.0M). The new operation will not have a standalone, full-fledged project
+implementation unit (PIU); instead, it will be implemented by an existing PIU anchored to NAWEC and reporting to the
+Ministry of Petroleum and Energy (MoPE). This component will support: (i) project management activities, including
+coordination and supervision of implementation; financial management, procurement, and audits; (ii) staffing and training;
+day-to-day project activities; (iii) environmental and social (E&S) safeguard management, including supervision of
+implementation of an E&S commitment plan and relevant site-specific resettlement action plans as applicable, and
+operation of the Grievance Redress Mechanism (GRM); (iv) monitoring and evaluation (M&E); (v) citizen engagement
+activities such as regular beneficiary consultation and feedback mechanisms such as customer surveys, continuous
+awareness campaigns on Project activities; and (vi) operating costs of the Steering Committee.
+
+Component 5. Contingent Emergency Response Component (CERC), $0
+
+5. A CERC is included in the project in accordance with the Investment Project Financing (IPF) Policy, paragraphs 12
+and 13, for Situations of Urgent Need of Assistance and Capacity Constraints. This will allow for rapid reallocation of
+grant uncommitted funds in the event of an eligible emergency as defined in Operational Policy 8.00. A CERC Manual will
+guide the activation and implementation of the CERC, and an Emergency Action Plan will be prepared to confirm activities
+and financing for a specific event.
+
+6. Gender-sensitive design. The project will strive to actively promote women’s participation in WASH governance and
+employment, integrating gender-sensitive approaches such as targeted training, grievance redress mechanisms, and sex-
+disaggregated monitoring indicators. These efforts reflect a growing commitment to ensuring that women are not only
+beneficiaries but also decision-makers in shaping The Gambia’s development trajectory.
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                    Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+
+
+
+                                                                                                                      Page 10
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       The Gambia Water and Sanitation Project(P513113)
+
+
+
+ Projects in Disputed Area OP 7.60                                                      No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+7. Key environmental concerns associated with project activities during both construction and operational phases
+include: waste generation from construction and rehabilitation works will produce solid and liquid wastes, including
+hazardous materials (e.g., chemicals from water treatment, sludge from sanitation facilities), air and water pollution
+(effluent discharge, contamination of aquifers), and soil pollution are anticipated, particularly from construction runoff,
+improper waste disposal, and malfunctioning treatment systems as well as occupational health and safety (including injury
+and accidents during construction and installation of furniture and equipment), and community health and safety. Key
+social risks are associated with some project activities (fecal sludge plant) and include the potential loss of land and other
+assets or access to livelihood and communicable diseases, vulnerable and disadvantaged groups, and individuals. Before
+appraisal, the Borrower will engage with key stakeholders and publicly disclose all relevant environmental and social risk
+management documents to adequately address the E&S risks and impacts of subprojects.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Sylvestre Bea
+   Senior Water Specialist
+
+ Borrower/Client/Recipient
+  Ministry of Finance and Economic Affairs
+
+ Implementing Agencies
+  National Water and Electricity Company (NAWEC)
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+ @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+ APPROVAL
+
+
+ Task Team Leader(s):                        Sylvestre Bea
+
+
+                                                                                                                         Page 11
+
+
+
+                                                                                                                  Official Use Only
+     The World Bank
+     The Gambia Water and Sanitation Project(P513113)
+
+
+
+Approved By
+
+Practice Manager/Manager:             Fatouma Toure Ibrahima   23-Oct-2025
+
+Country Director:                     Keiko Miwa               01-Dec-2025
+
+
+
+
+                                                                                    Page 12
+
+
+
+                                                                             Official Use Only
+

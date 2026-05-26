@@ -1,0 +1,404 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 22-Oct-2025 | Report No: PIDPA00217
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                              Official Use Only
+     The World Bank
+     Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                       Operation ID                Operation Name
+                                                                                        Metro Dhaka Water
+Bangladesh                     SOUTH ASIA                   P506770                     Security and Resilience
+                                                                                        Program
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date
+Program-for-Results
+                               19-Oct-2025                  18-Dec-2025
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               Ministry of Local
+                               Government, Rural
+                               Development and
+People’s Republic of
+                               Cooperatives, Ministry of
+Bangladesh
+                               Water Resources, Ministry
+                               of Environment, Forest and
+                               Climate Change
+
+Proposed Program Development Objective(s)
+To provide safely managed sanitation and solid waste management services in selected areas, and strengthen
+institutional capacity of Metro Dhaka for water pollution reduction.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Government program Cost                                                                                 1,065.00
+
+  Total Operation Cost                                                                                       610.00
+    Total Program Cost                                                                                       560.00
+    IPF Component                                                                                             50.00
+
+
+
+                                                                                                                  Page 1
+
+
+
+                                                                                                        Official Use Only
+      The World Bank
+      Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+
+  Total Financing                                                                                                  610.00
+
+  Financing Gap                                                                                                       0.00
+
+FINANCING
+  Total World Bank Group Financing                                                                                 375.00
+    World Bank Lending                                                                                             375.00
+  Total Government Contribution                                                                                    225.00
+
+  Total Non-World Bank Group Financing                                                                               10.00
+    Private Capital and Commercial Financing Amount                                                                 10.00
+      of which Private Capital                                                                                      10.00
+
+@#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+Decision
+The review did authorize the team to appraise and negotiate
+
+
+
+B. Introduction and Context
+ Country Context
+1. Bangladesh experienced rapid economic and social progress in recent decades, reaching lower middle-income
+status in 2015. Stable macroeconomic conditions underpinned an average annual real GDP growth of 6.3 percent
+between 2011 and 2024, and the poverty rate declined. However, the pace of GDP growth and poverty reduction
+moderated over the past few years. An interim government was sworn in August 8, 2024, after the former Prime Minister
+resigned and left the country amid a mass uprising.
+2. Real GDP growth remained relatively resilient in FY25, declining marginally to 4.0 percent from 4.2 percent in FY24,
+despite a FY25 first-quarter slump due to the student-led mass uprising. External sector pressures eased. Export growth
+rebounded after a sharp contraction in FY24. Inflation averaged 10 percent in FY25. It moderated to average 8.4 percent
+in Q1 of FY26 but remains elevated. Monetary policy has remained tight to bring down inflation. Investment activities
+have remained subdued due to political uncertainty, elevated raw material and borrowing costs, and lending restrictions
+at some banks. The financial sector remains vulnerable to high nonperforming loans and weak governance, prompting
+corrective actions by the government.
+3. The current account balance has improved, while the fiscal deficit widened. The current account deficit turned into
+a surplus in FY25 and continued to remain in surplus in the first quarter of FY26, driven by a sharp increase in remittances
+and exports. The exchange rate has remained stable in recent months, and there has been a slow reversal of the depletion
+of foreign exchange (FX) reserves. FX reserves sttod at US$26.5 billion (3.5 months of prospective import coverage) as of
+September 2025 (compared to US$19.9 in September 2024). The fiscal deficit is estimated to have widened to 4.7 percent
+of GDP in FY25, up from 3.9 percent in FY24, reflecting moderate tax revenue growth and higher current expenditures.
+
+
+
+
+                                                                                                                        Page 2
+
+
+
+                                                                                                                Official Use Only
+          The World Bank
+          Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+    4. Real GDP growth is projected to rise to 4.8 percent in FY26, driven by an increase in private consumption which is
+    expected to be supported by moderating inflation. Investment is expected to improve relative to FY25 but remain
+    subdued, reflecting election-related political uncertainty and ongoing vulnerabilities in the banking sector. Export growth
+    is expected to stay robust despite global tariff uncertainty. From FY27, growth is projected to accelerate on the back of
+    an increase in investment activity. The current account balance is likely to revert to a deficit as imports normalize. The
+    fiscal deficit is anticipated to remain below 5 percent of GDP. Reform priorities include improving the business
+    environment leading to more and better jobs, increasing domestic resource mobilization, stabilizing and deepening the
+    financial sector, diversifying exports, and investing in human capital.
+
+     Sectoral and Institutional Context
+    5. Dhaka, the economic engine of Bangladesh, generates half of the country's formal employment, contributes 35
+    percent to national GDP, and is home to 80 percent of export-oriented garment factories that have been instrumental
+    to poverty reduction. But rapid urbanization and industrial growth have outpaced the city's capacity to manage water
+    demand, wastewater, and pollution. The result is a severe decline in water quality, with profound implications for public
+    health, environmental sustainability, and economic growth. The Dhaka metropolitan region1 (Metro Dhaka) now
+    produces approximately 1,800 million liters per day (MLD) of municipal sewage and 2,400 MLD of industrial effluent,
+    most of which is discharged untreated into the city's canals and rivers. Between 50 and 70 percent of the city’s 10,000
+    tons of daily municipal solid waste is dumped directly in rivers and canals or in adjacent dumpsites, exacerbating water
+    pollution. These discharges contain hazardous pathogens, chemicals, and heavy metals, causing a dramatic drop in
+    dissolved oxygen and rendering many waterways incapable of supporting aquatic life.2 Groundwater, a primary source
+    of domestic supply, is also contaminated by effluent infiltration, leaking sewers, and unsewered sanitation systems.3
+    Consequently, water-borne diseases remain prevalent, and the combined environmental, health, and economic costs of
+    river pollution in Dhaka are estimated at US$2.83 billion annually.4
+    6. The pollution crisis is compounded by poorly managed urban drainage and canal networks. Over half of Dhaka’s
+    natural drainage channels have disappeared or are clogged due to unplanned urban growth, encroachment and solid
+    waste dumping, and lack of maintenance. As a result, polluted water remains stagnant, with prolonged water logging in
+    mostly low-income settlements, creating significant public health risks.
+    7. Dhaka's water and sanitation governance is complex and fragmented. The Dhaka Water Supply and Sewerage
+    Authority (DWASA) is responsible for providing water supply and sanitation (WSS) services in Dhaka city (North and
+    South), while CCs manage these services in neighboring cities (Gazipur, Narayanganj, Savar). Drainage responsibilities
+    have shifted from DWASA to CCs, but the latter remain ill-equipped. The Bangladesh Water Development Board (BWDB)
+    oversees major river restoration and flood control, whereas the Water Resources Planning Organization (WARPO)
+    handles strategic planning. The Department of Environment (DoE) is the primary regulatory authority for water pollution.
+    This fragmented structure results in weak coordination, limited oversight and accountability.
+    8. Improving Dhaka’s water quality requires an integrated, multi-sectoral approach that combines policy, institutional
+    and regulatory reforms with sequenced set of priority infrastructure investments. Key actions include accelerating
+    access to safely managed sanitation and solid waste management, supporting policy reforms and regulatory capacity for
+    pollution control, enhancing revenue generation and financial sustainability, and strengthening institutional capacity and
+
+1
+  Dhaka metropolitan region includes Dhaka city (North and South), Gazipur, Narayanganj, Savar, Kiraniganj, and Purbachal. This region is home to
+22 million people- a third of the country’s urban population.
+2Biswas, B., and T. Hamada. 2012. “Relation between Hazaribagh Tannery Industry Development and Buriganga River Pollution in Bangladesh.”
+
+International Journal of Environment 2 (2): 117–27.
+3 Hoque, M. A., J. M. McArthur, P. K. Sikdar, J. D. Ball, and T. N. Molla. 2014. “Tracing Recharge to Aquifers beneath an Asian Megacity with Cl/Br
+
+and Stable Isotopes: The Example of Dhaka, Bangladesh.” Hydrogeology 22 (7): 1549–60.
+4 World Bank Country Environmental Analysis, 2018
+
+
+
+                                                                                                                                                Page 3
+
+
+
+                                                                                                                                      Official Use Only
+      The World Bank
+      Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+coordination. This program supports the Government of Bangladesh (GoB) to initiate these critical foundational
+interventions that can be scaled through subsequent phases. The rationale for public investment is clear: the scale of
+market failures, externalities, and public health risks associated with water and solid waste pollution far exceed what the
+private sector can address alone. Public investment is essential to de-risk and catalyze private capital, particularly through
+blended finance and enabling reforms that improve creditworthiness. The project will leverage public resources to crowd
+in private investment, support regulatory and institutional reforms, and lay the foundation for sustainable, scalable
+solutions to Dhaka's sanitation and pollution challenge.
+
+ PforR Program Scope
+9. The Program-for-Results (PforR) operation supports the first phase of the Blue Network program. The PforR
+operation will initially focus on Dhaka and Narayanganj, two cities identified as pollution hotspots and demonstration
+sites for scalable models. The program is designed to be demand-responsive, allowing CCs and DWASA to determine their
+own pathways and priorities within a consistent results framework. This approach ensures local ownership, efficient
+implementation, and real impact on the ground.
+10.    Results Area 1 (RA#1): Improved Financial, Institutional, and Technical Capacity. This RA will incentivize priority
+interventions to strengthen the governance at national level and financial, institutional, and technical capacity of CCs and
+DWASA for delivery of safely managed sanitation and SWM services for pollution reduction and water quality
+improvement. Based on findings from institutional assessments, a tailored Financial, Institutional, and Technical (FIT)
+scorecard has been developed with a set of actions that will enable agencies to show measurable improvement in their
+performance and access incentive grants. Key activities and expected results are summarized below.
+11.     Results Area 2 (RA#2): Urban water pollution reduction. This RA will support reduction of urban pollution loads
+and concentrations in selected water bodies –through incremental improvements in wastewater, fecal sludge and solid
+waste management services, including interception and diversion networks and cleaning up priority canals/ponds and
+drains. It will enhance resilience by increasing access to safely managed sanitation services, by improving service delivery
+systems, enhancing operational efficiency, and reducing pollution in rivers and canals, and will also thereby improve
+public health outcomes. It will also contribute to GHG emission reduction through improved wastewater and fecal sludge
+management. The RA will support long-term integrated planning and management, as well as the implementation of
+service delivery activities with visible results for demonstration effect on the ground.
+12.    An Investment Project Financing (IPF) component will finance goods, consulting services, and incremental
+operating and management costs to enable policy reforms, systems development, community engagement, capacity
+enhancement, program coordination, implementation and reporting, and investment project preparation for next phase.
+13.     Coordinated implementation approach for achieving demonstration impact. The investment activities in RA#2
+will be coordinated on an area-based approach to deliver tangible results. Joint implementation and monitoring plans
+will be prepared under the Program and overseen by a Joint Task Force (JTF, described in subsequent section on
+implementation arrangements). This integrated approach requires strong technical support to be financed under the IPF
+component and is critically important to foster credibility, trust, ownership and momentum to catalyze implementation
+at scale.
+C. Proposed Program Development Objective(s)
+Program Development Objective(s)
+To provide safely managed sanitation and solid waste management services in selected areas and strengthen
+institutional capacity of Metro Dhaka for water pollution reduction
+The PDO indicators are:
+
+
+                                                                                                                         Page 4
+
+
+
+                                                                                                                 Official Use Only
+           The World Bank
+           Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+      i.   People provided with safely managed sanitation services, of which percentage women/youthCRI
+     ii.   People provided with improved solid waste management services
+    iii.   Percent reduction in loads of key pollutants5 in targeted reaches of selected canals and a retention pond
+    iv.    Improved financial, institutional, and technical (FIT) capacity of DWASA and selected City Corporations to deliver
+           wastewater, fecal sludge, and solid waste management services (measured by the FIT score).
+    D. Environmental and Social Effects
+    14.     The E&S risks of the proposed PforR operation are rated as Substantial, primarily due to the nature of the
+    activities to be implemented by CCs and DWASA, and the weak institutional capacities and experience of the agencies
+    in managing E&S risks. The Environment and Social Systems Assessment (ESSA) for the program concluded that while
+    Bangladesh has a reasonably comprehensive E&S regulatory framework, the IAs currently lack the required policies,
+    systems, operational procedures and human and financial resources to effectively implement the relevant laws and
+    systematically monitor compliance. Furthermore, apart from DWASA which has some experience of implementing donor
+    funded projects that mandate compliance with internationally recognized E&S standards, DNCC and DSCC have very
+    limited experience of implementing such projects and NCC does not have such experience. The E&S rating of the IPF
+    component is rated as substantial considering the potential downstream risks related to the implementation of the
+    activities in the IPF component – specifically related to preparation of plans, studies and detailed reports for investments.
+    15.     The Program seeks to improve the ecological and environmental outcomes through improved water quality and
+    reduced pollution, but some of its activities pose environmental risks, particularly during construction. Key environment
+    risks include: (i) air and dust pollution; (ii) noise and vibration from heavy machinery and demolition works; (iii) surface
+    water pollution from uncontrolled runoff, and dredged materials; (iv) generation of and exposure to dredging and
+    construction-related solid and liquid waste which may contain heavy metals, hydrocarbons, and pathogens.; and (v)
+    localized drainage congestion from debris, temporary encroachments on water bodies, stockpiling of materials, and
+    temporary road diversions over canals. Improper handling, storage, or disposal of dredged materials and sludge could
+    cause soil contamination, foul odor, dust generation after drying, and health impacts on nearby communities.
+    16.      The Program also faces potential social risks. Key social risks include: (i) potential involuntary resettlement and
+    adverse livelihood impacts on people living along canals, drains, and other project sites; (ii) exclusion or inadequate
+    participation of vulnerable and disadvantaged groups in planning and decision-making; (iii) lack of meaningful
+    consultations with communities, and absence of robust grievance redressal mechanisms; (iv) potential risk linked to
+    migrant labor influx and the participation of women workers; (v) spread of communicable and vector-borne diseases at
+    congested work sites and in adjacent communities; (vi) temporary access restrictions to homes, businesses, and public
+    services during civil works; and (vii) broader community health and safety risks linked to construction traffic, accidental
+    spills, and excavation works. A strategic mix of incentive-linked activities and technical support activities have been
+    designed to address the identified E&S management capacity gaps and the Program’s E&S risks.
+    @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+
+
+
+
+5
+    Measured against baseline levels of Biochemical Oxygen Demand (BoD), Total Nitrogen (TN) and Total Phosphorus (TP)
+
+                                                                                                                                 Page 5
+
+
+
+                                                                                                                         Official Use Only
+      The World Bank
+      Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+ Legal Operational Policies                                                           Triggered?
+ Projects on International Waterways OP 7.50                                          Yes
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts of the IPF Component
+
+17.     The IPF component will provide technical assistance (TA) for policy reforms, systems development, community
+engagement, capacity enhancement, program coordination, implementation and reporting, and investment project
+preparation for subsequent phases. The outcomes of the IPF activities are likely to be plans, strategies, studies and other
+preparatory activities for future investments that are likely to have significant adverse environment and social impacts
+the nature and scale of which will only be known in greater detail during implementation phase. Therefore, the E&S risk
+rating of the IPF component of the project is aligned with the E&S rating of the larger PforR operation and are both rated
+as substantial.
+E. Financing
+                                         Program Financing (Template)
+
+
+                              Source                                Amount (US$, Millions)            % of Total
+
+      International Development Association (IDA)                                    375.00                     61.47%
+
+        IDA Credit                                                                   375.00                     61.47%
+
+      Counterpart Funding                                                            225.00                     36.88%
+
+        Borrower/Recipient                                                           225.00                     36.88%
+
+      Commercial Financing                                                             10.00                       1.64%
+
+        Unguaranteed Commercial Financing                                              10.00                       1.64%
+
+                     Total Program Financing                                         610.00
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Harsh Goyal
+   Senior Water Supply and Sanitation Specialist
+
+ Borrower/Client/Recipient
+
+
+
+
+                                                                                                                       Page 6
+
+
+
+                                                                                                               Official Use Only
+     The World Bank
+     Metro Dhaka Water Security and Resilience Program (P506770)
+
+
+ People’s Republic of Bangladesh
+
+Implementing Agencies
+ Ministry of Local Government, Rural Development and Cooperatives
+
+ Ministry of Water Resources
+
+ Ministry of Environment, Forest and Climate Change
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Harsh Goyal
+
+Approved By
+
+Practice Manager/Manager:              Josses Mugabi                27-Sep-2025
+
+Country Director:                      Gayle Martin                 22-Oct-2025
+
+
+
+
+                                                                                          Page 7
+
+
+
+                                                                                  Official Use Only
+

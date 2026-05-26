@@ -1,0 +1,521 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Water Secure Haryana Program (P512898)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+Public Disclosure Authorized
+                                              Appraisal Stage | Date Prepared/Updated: 31-Mar-2026 | Report No: PIDPA00234
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+        The World Bank
+        Water Secure Haryana Program (P512898)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                          Operation ID                    Operation Name
+                                                                                               Water Secure Haryana
+India                          SOUTH ASIA                      P512898
+                                                                                               Program
+Financing Instrument           Estimated Appraisal Date        Estimated Approval Date         Practice Area (Lead)
+Program-for-Results
+                               06-Apr-2026                     30-Jul-2026                     Water
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               Irrigation & Water
+                               Resources Department,
+                               Department of Agriculture
+                               and Farmers Welfare,
+India
+                               Micro Irrigation &
+                               Command Area
+                               Development Authority,
+                               Government of Haryana
+
+Proposed Program Development Objective(s)
+To improve the efficiency, reliability, and sustainability of agricultural water use in Haryana.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+Is this project Private Capital Enabling (PCE)?                Yes
+
+SUMMARY
+  Government program Cost                                                                                             749.00
+
+  Total Operation Cost                                                                                                749.00
+    Total Program Cost                                                                                            747.75
+    Other Costs (Front-end fee,IBRD)                                                                                   1.25
+  Total Financing                                                                                                     749.00
+
+
+                                                                                                                         Page 1
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       Water Secure Haryana Program (P512898)
+
+
+
+   Financing Gap                                                                                                     0.00
+
+ FINANCING
+   Total World Bank Group Financing                                                                               500.00
+     World Bank Lending                                                                                           500.00
+   Total Government Contribution                                                                                  214.00
+
+   Total Non-World Bank Group Financing                                                                             35.00
+     Private Capital and Commercial Financing Amount                                                               35.00
+       of which Private Capital                                                                                    35.00
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+ B. Introduction and Context
+  Sectoral and Institutional Context
+1.      The state of Haryana makes a significant contribution to India’s economy and food security. With per-capita
+income of about INR 319,000 (US$3,520), Haryana ranks well above the national average. Despite covering only 1.3
+percent of India’s land area, it produces over 6 percent of national food grains, supplies 11 percent of rice and wheat
+under the Public Distribution System, and accounts for 40 percent of basmati rice exports. This performance is supported
+by an extensive irrigation network, with 92 percent of its 3.69 million ha of cultivable land equipped for irrigation.
+2.       Haryana’s scarce, largely inter-state water resources are under growing water stress, threatening agricultural
+output and productivity. The state’s arid climate, extreme temperatures, and highly variable rainfall are compounded by
+rising water demand, aging infrastructure, and inefficient irrigation practices. Surface irrigation systems, including the
+Bhakra and Western Yamuna canal systems, do not consistently provide reliable supply across the state. As a result,
+farmers increasingly depend on groundwater, intensifying pressure on already declining aquifers. Haryana’s bowl-shaped
+topography further contributes to persistent waterlogging and salinity in central districts, limiting productivity and land
+quality. Addressing these escalating water-related challenges is critical for sustaining the state’s role in national food
+security.
+3.      Over the past few decades, the demand-supply gap for water has steadily widened with the expansion of
+irrigated agriculture, economic and urban growth, and declining rainfall reliability. In 2023, total gross water demand
+was estimated at 42 billion cubic metres (bcm), of which agriculture accounted for 89 percent. In contrast, total annual
+renewable water availability, drawn from surface sources, groundwater recharge, and effective rainfall, is only about 30
+bcm, leaving a gap of 12 bcm. Part of this reflects unmet demand, while a significant share is met through unsustainable
+groundwater extraction. With population growth, urbanization, and rising industrial needs, the deficit is expected to
+deepen unless technical, institutional, and climate-adaptive reforms improve water-use efficiency and service delivery.
+
+
+
+                                                                                                                       Page 2
+
+
+
+                                                                                                               Official Use Only
+       The World Bank
+       Water Secure Haryana Program (P512898)
+
+
+4.       Despite high productivity, Haryana’s agricultural strength is built on an unsustainable foundation of intensive
+water use. The wheat-rice rotation dominates nearly three-fifths of farmland. While yields exceed national averages,
+inefficient practices such as paddy pre-ponding and absence of irrigation charges have driven excessive water use.
+Groundwater levels in several districts are declining by up to 0.5 m annually. The state has introduced incentives to
+promote crop diversification toward less water-intensive crops. In parallel, it is promoting micro-irrigation (MI), but MI
+coverage remains limited at about 13 percent of the cultivable command area, indicating significant untapped potential
+for improving water-use efficiency.
+5.       Haryana’s unsustainable water use is driven in part by an ageing and inefficient irrigation system whose
+weaknesses have amplified losses and groundwater dependence. The state’s canal network spans over 14,000 km, much
+of it deteriorated, resulting in high conveyance losses and uneven service delivery. Operation and maintenance allocations
+remain constrained relative to system needs. Surface water supply is further affected by variability in inter-state river
+allocations, with actual receipts fluctuating below allocated shares in some years. As canal reliability has declined, tubewell
+irrigation has expanded significantly; groundwater now accounts for about 63 percent of irrigated area, while canal
+irrigation has declined. Pump and electricity subsidies have further incentivized groundwater extraction.
+6.       These structural and performance challenges are reinforced by how irrigation is financed, planned, and
+managed in Haryana. Public expenditure remains skewed toward capital-intensive expansion rather than sustained
+maintenance, contributing to asset deterioration and unreliable service. Planning and service delivery are fragmented
+across departments, limiting convergence between surface water, groundwater, agriculture, and reuse planning. The
+absence of interoperable data systems constrains basin-level / command-level water budgeting and performance
+monitoring. Haryana also lacks dedicated Participatory Irrigation Management (PIM) or Water User Association (WUA)
+legislation that clearly defines service delivery roles, financial responsibilities, and user contributions toward O&M.
+7.       Growing dependence on groundwater has resulted in severe and worsening aquifer stress across the state. Of
+143 assessment units, nearly two-thirds are classified as over-exploited or critical, and the number of over-exploited blocks
+has increased sharply over the past decade. Over 60 percent of the recharge-worthy area falls under over-exploited zones.
+Between 2000 and 2024, average depth to water table declined from 10.75 meters to 22.76 meters. In the short term,
+this increases farmer costs through deeper wells and higher pumping requirements; in the long term, it signals a serious
+sustainability risk for agriculture and water security.
+8.      Waterlogging and salinity in the central districts further constrain Haryana’s agricultural potential.
+Approximately 7 percent of the state’s geographical area is affected by waterlogging, with a water table within 3 meters
+of ground level, and about 7 percent is moderately or highly salt-affected. Poor drainage, canal seepage, and topographic
+conditions reduce soil fertility, impair aeration, and diminish crop yields, in some cases leading to land abandonment.
+Addressing these challenges requires improved drainage infrastructure and promotion of salinity-tolerant crops.
+9.     Climate change impacts are already amplifying Haryana’s complex water management challenges. Rising
+temperatures, more frequent heatwaves, erratic monsoons, and increasing rainfall variability are intensifying
+evapotranspiration, groundwater depletion, and waterlogging. Irrigated wheat and rice yields could decline by 15–17
+percent by mid-century without improvements in water-use efficiency and climate-resilient practices.
+10.     Recognizing the urgency of water challenges, the Government of Haryana (GoH) has elevated Integrated Water
+Resources Management (IWRM) and water security as strategic priorities across its planning and institutional reforms.
+The Haryana Water Resources Authority (HWRA) was established in 2020 to integrate surface and groundwater
+management. In 2023, the Integrated Water Resources Action Plan (IWRAP) was issued, providing block-level diagnostics
+and coordinated district planning through District Water Resources Plans for the period 2023-25. In 2025, an updated plan
+for 2025-27 was issued.
+
+
+                                                                                                                          Page 3
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         Water Secure Haryana Program (P512898)
+
+
+11.     The IWRAP provides an important platform for advancing IWRM in Haryana by translating technical diagnostics
+into coordinated action. It prioritizes investments in high-stress areas and supports canal rehabilitation, groundwater
+recharge, treated wastewater (TWW) reuse, MI expansion, and climate-resilient agriculture such as direct seeded rice and
+crop diversification. A state- and district-level monitoring framework tracks performance, laying the foundation for more
+integrated, data-driven water resources management.
+
+  PforR Program Scope
+12.      Summary of the Government Program. The GoH’s IWRAP constitutes the state’s medium-term strategy to reduce
+the water demand-availability gap and strengthen water security through successive two-year planning cycles led by the
+HWRA and implemented by 11 state agencies. Since 2023, the broader government program – estimated at about US$1.5
+billion – has addressed water stress across sectors through a combination of supply- and demand-side interventions,
+including canal and watercourse rehabilitation, groundwater recharge, drainage improvements, treated wastewater
+reuse, promotion of MI, and climate-resilient, water-efficient agricultural practices. The current IWRAP cycle (2025-27)
+continues implementation of these measures across the state.
+13.      Program Boundaries and Financing. The proposed PforR operation supports a focused subset of IWRAP aimed at
+improving the efficiency, reliability, and sustainability of agricultural water use. It will support implementation by three
+key agencies – Irrigation and Water Resources Department (IWRD), Micro Irrigation and Command Area Development
+Authority (MICADA), and Department of Agriculture and Farmers Welfare (DAFW) – and will concentrate on strengthening
+institutions and water governance (including WUAs), enhancing irrigation and drainage service delivery (both gravity and
+pressurized systems), mobilizing non-conventional water resources, expanding MI, and promoting reduced agricultural
+water demand. The Program will be implemented over six years (2026–2032) with total financing of US$749 million,
+comprising US$500 million from IBRD, US$214 million from the GoH, and US$35 million in commercial financing.
+14.       The Program will support the GoH through the following five Result Areas (RA):
+      a. RA1: Strengthen Institutions for Planning, Management, and Financing of Sustainable Water Resources
+         Management: RA1 will enhance Haryana’s institutional and financial capacity for integrated, data-driven, and
+         resilient water resources management. RA1 will lay the foundational blocks for demand-site management and
+         water allocation reforms by strengthening planning, monitoring and management under the State’s IWRM
+         framework. RA1 will incentivize:
+          (i)   statewide data and analytical systems for integrated planning, including sub-basin-level water resource
+                databases, improvements to the state’s irrigation system asset inventory, and preparation and public
+                disclosure of annual water budgets;
+          (ii) operationalized institutional arrangements for IWRM, including enforced inter-agency roles and coordination
+                mechanisms across HWRA, IWRD, and DAFW, and functioning multi-stakeholder participatory committees
+                within IWRD units;
+          (iii) improved planning instruments aligned with IWRM principles, including an IWRM 2047 Vision, and upgraded
+                IWRAP with basin-level planning and enhanced results monitoring and feedback protocols;
+          (iv) adoption of sectoral protocols and standard operating procedures (SOPs) for sustainable water management,
+                including conjunctive use, TWW reuse,1 vertical and sub-surface drainage, WUA-based MI co-management,
+                integration of environmental and social risk screening into project preparation and contracting, and water-
+                efficient and diversified cropping systems;
+          (v) development of draft bylaws for PIM through WUAs;
+
+
+1 Wastewater reuse will be pursued in line with EU Directive 2020/741, WHO guidelines, and Indian Central Pollution Control Board norms.
+
+
+
+
+                                                                                                                                                   Page 4
+
+
+
+                                                                                                                                           Official Use Only
+         The World Bank
+         Water Secure Haryana Program (P512898)
+
+
+          (vi) establishment and adoption of a framework for energy-efficient modernization of lift irrigation systems under
+                 the Lift Canals Unit, anchored in energy performance audits, establishment of baseline energy performance,
+                 adoption of an energy performance improvement plan, and implementation of efficiency measures resulting
+                 in measurable reductions in energy consumption.
+          (vii) operationalization of irrigation service performance benchmarking through an Irrigation Performance
+                 Assessment tool,2 including ET-based baseline establishment, annual benchmarking, and incentives for most
+                 improved canal commands; and
+          (viii) development of frameworks for public-private partnerships and private financing by identifying feasible
+                 opportunities and standardizing contract guidelines for irrigation service delivery, MI, and TWW reuse; and
+                 award of performance-based contracts to private irrigation service providers (ISPs) in selected command(s).
+           RA1 will also support the establishment of dedicated technical units within IWRD, reorganization of departmental
+           functions, and strengthening of the operational capacity of key water agencies through targeted training on
+           IWRM, PIM, and advanced monitoring methods. It will further support capacity building and institutional
+           strengthening of sub-basin committees and WUAs on basin planning, water budgeting, PIM, and O&M, and
+           integration of gender and social inclusion considerations in planning and decision-making processes.
+     b. RA2: Enhance Efficiency and Quality of Irrigation Services: RA2 will improve access to reliable, equitable, and
+        climate-resilient irrigation services in up to 15 irrigation commands, ensuring that water reaches farms when and
+        where it is needed. RA2 will incentivize: (i) modernization of canal systems through refurbishment of canal
+        networks and water courses; (ii) deployment of supervisory control and data acquisition systems, real-time data
+        acquisition systems, and digital dashboards for real-time monitoring and decision-making; (iii) operationalization
+        of performance-based irrigation service delivery by private ISP(s) in selected commands; and (iv) stabilization of
+        groundwater levels in selected groundwater assessment blocks through the implementation of conjunctive-use
+        management, aligned with RA4 and RA5 interventions to promote sustainable MI and less water-intensive
+        cropping systems.
+     c. RA3: Mobilize Non-conventional Water Resources for Irrigation: RA3 will increase irrigation water supply and
+        enhance drought resilience through the mobilization of non-conventional water sources. RA3 will incentivize: (i)
+        creation of additional offline water storage in low-lying areas to harness monsoon surplus, excess canal water,
+        and drainage water to supplement irrigation and groundwater recharge; (ii) recovery of drainage water through
+        sub-surface and vertical drainage measures, augmenting irrigation supply and reclaiming waterlogged and saline
+        land for productive cultivation, with the drainage systems subsequently transferred to drainage user groups for
+        continued maintenance; and (iii) development of TWW reuse systems – implemented in line with the reuse
+        protocols established under RA1 – by connecting sewage treatment plants, managed by Public Health Engineering
+        Department and Gurugram Metropolitan Development Authority, with irrigation command areas, and integrating
+        them into MICADA and district-level irrigation service delivery plans.
+     d. RA4: Expand Micro-Irrigation through Farmer-managed and Sustainable O&M: RA4 will enable farmers to adopt
+        efficient, solar powered, WUA-managed irrigation systems and assume greater technical and financial
+        responsibility for their O&M. RA4 will incentivize: (i) scale-up of co-management models that progressively
+        transfer O&M responsibility of sections of irrigation infrastructure up to farm outlets to WUAs, supported by
+        performance-based partnerships with contractors; and (ii) expansion of on-farm MI (including sprinkler and drip
+        systems and pilots with center pivots) through WUA clusters, supported by vendor engagement for equipment,
+        AI-enabled digital cluster initiatives, and clear arrangements for O&M. These measures will improve on-farm
+
+2 This will be developed in collaboration with the Haryana Space Applications Centre (HARSAC) using satellite imagery and field surveys to improve planning,
+
+ operation, and monitoring.
+
+
+                                                                                                                                                               Page 5
+
+
+
+                                                                                                                                                      Official Use Only
+          The World Bank
+          Water Secure Haryana Program (P512898)
+
+
+           irrigation efficiency, reduce water losses, and create a more sustainable and farmer-driven irrigation management
+           model.
+       e. RA5: Reduce Agricultural Water Demand: RA5 will support agricultural water demand management as a
+          complement to basin- and command-level water resources management. It will promote less water-intensive and
+          climate-resilient cropping systems as demand management instruments to reduce irrigation water use and relieve
+          pressure on groundwater. The Program will work directly with farmers to enable changes in crop choice, irrigation
+          intensity, and on-farm practices, coordinating with existing agricultural incentive schemes and extension services.
+          Specifically, RA5 will: (i) incentivize expansion of area under crop diversification, thereby reducing the area under
+          paddy; (ii) promote direct seeded rice (DSR) in paddy-prominent areas; (iii) scale-up improved, climate-resilient
+          agronomic practices and sustainable land management (such as bio-inputs and green manuring) through
+          demonstration farms, supported by extensive information, education, and communication (IEC) initiatives based
+          on the Farmer Field Schools approach; (iv) pilot and expand salinity- and drought-tolerant crop varieties with
+          tailored extension services; and (v) strengthen sustainable land and water management practices in reclaimed
+          areas through site-specific agronomic guidance, digital monitoring of water use, and climate advisory systems.
+15.      Program Beneficiaries and Coverage. The Program is expected to benefit approximately 4.5 million people
+through a combination of statewide institutional reforms and targeted investments in selected irrigation clusters.
+Statewide interventions will strengthen water governance, planning, and irrigation performance management, while
+cluster-level investments will improve irrigation service reliability, expand MI, promote water-efficient cropping practices
+such as direct seeded rice and crop diversification, and address drainage and waterlogging challenges. The integrated
+approach is designed to generate strong demonstration effects and enable scaling of water-efficient irrigation and
+agricultural practices across the state.
+
+ C. Proposed Program Development Objective(s)
+
+ Program Development Objective(s)
+
+16.        To improve the efficiency, reliability, and sustainability of agricultural water use in Haryana.
+17.        The PDO indicators for the Program are listed in Table 1 below.
+                                                                      Table 1: PDO Indicators
+
+ Outcome 1: Improved efficiency and reliability of irrigation service delivery
+  1.    People benefiting from climate resilient infrastructure (CRI, number, gender disaggregated)3
+  2.    Proportion of agricultural water demand supplied through canal irrigation (percentage)
+  3.    Share of outlets receiving water as per notified schedule (percentage)
+ Outcome 2: Improved sustainability of agricultural water use
+  4.    Area brought under water-efficient agricultural practices (hectares)
+  5.    Groundwater level decline arrested in selected assessment blocks (number)
+
+ D. Environmental and Social Effects
+
+
+
+3 This CRI will track the number of people benefiting from improved irrigation and drainage services. The Results Framework also includes the CRI “People fed as a
+
+result of increased agricultural/food production” as an intermediate indicator.
+
+
+                                                                                                                                                                 Page 6
+
+
+
+                                                                                                                                                      Official Use Only
+       The World Bank
+       Water Secure Haryana Program (P512898)
+
+
+18.     Environmental and Social Systems Assessment (ESSA). ESSA for the Program has been prepared, in accordance
+with World Bank’s PforR policy and directives. ESSA assesses the adequacy of Program’s environmental and social (E&S)
+management systems, identifies key gaps with respect to PforR core E&S principles, and recommends actions to
+strengthen E&S performance and impact during Program implementation. ESSA specifically examined Program’s legal and
+regulatory frameworks, institutional arrangements and capacity, systems and practices and past performance in mitigating
+and managing E&S risks/impacts associated with Program activities. The assessment relied on: (i) desk review of
+regulatory, institutional and operational documents; (ii) in-depth discussions with officials of IWRD, MICADA, DAFW,
+HWRA, and other related agencies; (iii) field visits to proposed Program areas; and (iv) stakeholder consultations with
+WUAs, farmers, elected representatives and contractors in Sonipat, Karnal, Kurukshetra, Rohtak, and Jhajjar districts.
+19.      Benefits. The Program is expected to deliver significant positive E&S benefits. Rehabilitating and modernizing
+canals and watercourses will reduce water losses and groundwater extraction and improve access and reliability of
+irrigation services. Reclaiming waterlogged/saline lands will reduce salinity impacts, restore soil productivity and bring
+back underutilized agriculture areas into cultivation. Expanding micro-irrigation will generate water and financial savings
+for farmers with lower labor and operating costs. Reuse of TWW, with suitable safeguards, will augment water availability
+and farm productivity in deficit areas and reduce dependence on freshwater sources. Demand-side measures such as crop
+diversification and DSR will reduce agricultural water demand and support broader adoption of climate-resilient farming
+practices. Strengthening the institutional capacity of IWRD, MICADA, and DAFW as well as empowering WUAs/drainage
+societies and farmers is expected to make water governance and agriculture service delivery more inclusive, participatory,
+and transparent with more stable farm incomes and resilient livelihoods.
+20.     Risks. The E&S risks of the Program are Substantial. Potential environmental risks and impacts primarily relate to
+canal rehabilitation/modernization and civil construction activities, covering: (i) occupational health and safety (OHS) risks
+such as accidents; (ii) localized pollution from noise and dust; (iii) improper disposal of waste and saline water; and (iv)
+potential contamination of water sources if TWW systems are not adequately managed. Given low adoption of Integrated
+Pest Management (IPM) in the state, Program interventions may lead to increased use of pesticides. While the Program
+does not involve land acquisition or physical and/or economic displacement, construction works may cause temporary
+impacts on adjoining private lands and access routes. A small number of canal segments may involve legacy
+disputes/claims. The use of Government or Panchayat land for storage structures and TWW-related tanks/pipelines will
+not cause any displacement but may cause temporary impacts on private lands and access routes. OHS risks may also arise
+from inadequate implementation of required provisions for labor practices, working conditions and health and safety
+measures. Community health and safety concerns, especially related to construction, traffic, waste handling, and reuse of
+treated wastewater, are also relevant. Low participation of women and vulnerable farmers (tenant/sharecroppers) in
+WUAs and Program benefits may increase risks of inequitable benefit sharing and elite capture. This could be further
+exacerbated by weak stakeholder engagement.
+21.     Gaps. Haryana’s E&S framework for IWRM and agriculture sectors is supported by comprehensive national and
+state laws, policies, and guidelines. However, these are not fully institutionalized, operationalized, or applied consistently
+across Program interventions. Program Implementation Units (PIUs) lack designated E&S officials with appropriate
+expertise, and structured training programs are limited. Standardized procedures/templates for E&S screening, chance
+find procedures, and site-specific environmental and social management plans (ESMPs) with adequate budgets and
+enforceable contractor obligations are not in place. Dedicated E&S focal points and regular training for staff and
+WUAs/drainage societies, especially for O&M activities including treated wastewater, are needed. While frameworks for
+habitats and cultural resources exist, the uptake of IPM and Integrated Nutrient Management (INM), as well as monitoring
+of other contaminants, remains limited. Worker and community health and safety requirements need stronger
+implementation. Systems for land-related due diligence, beneficiary inclusion, equitable water sharing, stakeholder
+engagement and grievance redressal also need strengthening. The state has taken proactive measures, such as adopting
+
+
+                                                                                                                          Page 7
+
+
+
+                                                                                                                  Official Use Only
+       The World Bank
+       Water Secure Haryana Program (P512898)
+
+
+a policy on the reuse of treated wastewater for agriculture, but water quality monitoring remains a concern, pointing to
+gaps in institutional coordination.
+22.      Recommendations. The ESSA’s priority recommendations link key E&S actions to DLIs/DLRs and time-bound
+measures under the Program Action Plan (PAP). E&S results are supported through DLRs that require: (i) establishing and
+applying TWW quality standards and safeguards, including monitoring arrangements, safety protocols, and disclosure at
+TWW sites in alignment with Central Pollution Control Board norms and TWW reuse protocols adopted under the
+Program; (ii) development of WUA bylaws that clarify roles and responsibilities, financial powers and accountability, and
+provisions for women’s participation in executive committees; (iii) development of SOPs for WUAs and drainage societies
+covering participatory water management, TWW reuse, and O&M; and (iv) embedding E&S clauses, screening
+requirements, and ESMP obligations into Detailed Project Reports, bidding documents, and construction contracts.
+Complementing these, the PAP commits to: (i) appointing/deputing/designating E&S focal points (Executive Engineer
+level) across IWRD, MICADA, and DAFW; (ii) institutionalizing citizen feedback and disclosure protocols; (iii) developing
+E&S training modules and rolling out training programs on PIM, O&M, TWW reuse, IPM/INM, natural resource
+management, including crop diversification, and DSR field implementation. Additional ESSA actions will be operationalized
+through the Program Operations Manual, including standardized screening checklists and ESMP templates, toll-free
+Grievance Redress Mechanism access and analytics, WUA capacity strengthening, IPM/INM targets and monitoring, IEC
+and demonstrations, and enhanced water quality monitoring and disclosure. Stakeholder consultations have been
+undertaken, and a multi-stakeholder workshop along with staged disclosure of the draft and final ESSA are planned.
+E. Financing
+
+                                        Program Financing (Template)
+                              Source                           Amount (US$, Millions)                % of Total
+      Counterpart Funding                                                    214.00                           28.57%
+         Borrower/Recipient                                                   214.00                          28.57%
+      International Bank for Reconstruction and Development
+                                                                             500.00                           66.76%
+      (IBRD)
+      Commercial Financing                                                      35.00                           4.67%
+         Unguaranteed Commercial Financing                                      35.00                           4.67%
+                     Total Program Financing                                 749.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+
+
+
+
+                                                                                                                     Page 8
+
+
+
+                                                                                                             Official Use Only
+     The World Bank
+     Water Secure Haryana Program (P512898)
+
+
+ Satya Priya LNU
+ Senior Water Resources Management Specialist
+
+ Saumya Srivastava
+ Agriculture Specialist
+
+ Bogachan Benli
+ Senior Water Specialist
+
+Borrower/Client/Recipient
+ India
+
+Implementing Agencies
+ Irrigation & Water Resources Department
+
+ Department of Agriculture and Farmers Welfare
+
+ Micro Irrigation & Command Area Development Authority, Government of Haryana
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Satya Priya LNU, Saumya Srivastava, Bogachan Benli
+
+Approved By
+
+Practice Manager/Manager:             Sumila Gulyani                        08-Mar-2026
+
+Country/Division Director:            Paul Procee                           31-Mar-2026
+
+
+
+
+                                                                                                   Page 9
+
+
+
+                                                                                           Official Use Only
+

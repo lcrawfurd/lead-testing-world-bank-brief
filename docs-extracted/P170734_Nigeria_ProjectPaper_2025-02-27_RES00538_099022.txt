@@ -1,0 +1,1474 @@
+Public Disclosure Authorized
+                                                                                                      Report No: RES00538
+
+                                                      INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+                                                                  RESTRUCTURING PAPER
+
+
+
+
+Public Disclosure Authorized
+                                                                          ON A
+                                                            PROPOSED PROGRAM RESTRUCTURING
+
+                                                                            OF
+
+                               Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results
+                                                                APPROVED ON 25-MAY-2021
+
+                                                                          TO THE
+
+
+
+
+Public Disclosure Authorized
+                                                                Federal Republic of Nigeria
+
+
+
+
+Public Disclosure Authorized
+
+
+                               Water
+                               Western And Central Africa
+   The World Bank
+   Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+The World Bank
+Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+                                   CURRENCY EQUIVALENTS
+
+                             Exchange Rate Effective Dec 31, 2024
+
+                                        Currency Unit = Nigeria Naira (NGN)
+                                                 US$ 1 = NGN 1534.20
+                                                 US$ 1 = SDR 0.770710
+
+                                         FISCAL YEAR
+                                   January 1 - December 31
+
+
+
+
+                   Regional Vice President: Ousmane Diagana
+
+                          Country Director: Ndiame Diop
+
+                         Regional Director: Chakib Jenane
+
+                           Global Director: Saroj Kumar Jha
+
+                         Practice Manager: Anna Cestari
+
+                      Task Team Leader(s): Ndeye Awa Diagne, Judith Ibiada Warmate
+        The World Bank
+        Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+APT                     Annual Performance Target
+DLI                     Disbursement-linked Indicator
+DLR                     Disbursement-linked Result
+FCT                     Federal Capital Territory
+FMWR&S                  Federal Ministry of Water Resources and Sanitation
+FPIU                    Federal Program Implementation Unit
+IA                      Implementing Agency
+IDA                     International Development Association
+IPF                     Investment Project Financing
+IVA                     Independent Verification Agent
+GDP                     Gross Domestic Product
+GoN                     Government of Nigeria
+LGA                     Local Government Area
+M&E                     Monitoring and Evaluation
+MDA                     Ministries, Departments and Agencies
+NAP                     National Action Plan for the Revitalization of Nigeria’s Water, Sanitation, and Hygiene Sector
+PCU                     Program Coordination Unit
+PDO                     Program Development Objective
+PEF                     Program Expenditure Framework
+PFMU                    Project Financial Management Unit
+PforR                   Program for Results
+PIAP                    Performance Improvement Action Plan
+PIR                     Policy, Institutional and Regulatory
+PIU                     Program Implementation Unit
+PMC                     Project Management Consultancy
+POM                     Program Operations Manual
+RA                      Results Area
+RC                      Reform Component
+SDG                     Sustainable Development Goal
+SWA                     State Water Authority
+WASH                    Water Supply, Sanitation, and Hygiene
+          The World Bank
+          Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@pfrrestrhybridbasicdata#doctemplate
+BASIC DATA
+
+Product Information
+
+Operation ID                                                Operation Name
+                                                            Nigeria Sustainable Urban and Rural Water Supply,
+P170734
+                                                            Sanitation and Hygiene Program-for-Results
+Product                                                     Operation Acronym
+
+Program-for-Results Financing (PforR)                       SURWASH
+
+Operation Status                                            Approval Date
+
+Active                                                      25-May-2021
+
+Does this operation have an IPF component?
+Yes
+
+Environmental and Social Risk Classification (ESRC)
+Moderate
+
+
+ACCOUNTABILITY
+
+
+Region/Country
+
+Who is the primary beneficiary of this operation?           Beneficiary country/countries (borrower, recipient)
+Country or Group of Countries                               Nigeria
+
+Geographical Identifier
+Nigeria
+
+Requesting Unit
+AWCW2 (6548)
+Will regional institutions act as the
+borrower/implementer?
+No
+
+
+Implementing Unit
+
+
+                                                                                                                   i
+         The World Bank
+         Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+Responsible Unit (e.g. EECG1)                               Practice Area (Lead)
+SAWW4 (10403)                                               Water
+Contributing Practice Areas
+Education, Health, Nutrition & Population, Urban,
+Resilience and Land
+
+@#&OPS~Doctype~OPS^dynamics@pfrrestrhybridoperationstatus#doctemplate
+OPERATION STATUS
+
+Development Objective (DO)
+
+Development Objective
+The Project Development Objectives (PDO) are to increase access to water, sanitation, and hygiene services and to
+strengthen sector institutions in participating states of Nigeria.
+
+Disbursement Summary (in USD million)
+
+      Source of Funds           Net Commitment            Disbursed                Undisbursed        % Disbursed
+
+IBRD                                             --                    --                        --                  0
+
+IDA                                         648.68                  93.59                  556.38               14.40
+
+Grants                                           --                    --                        --                  0
+
+Policy Waivers
+Does this restructuring trigger the need for any policy
+waiver(s)?                                                                                                          No
+
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+
+
+
+
+                                                                                                                     ii
+      The World Bank
+      Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+                                                                TABLE OF CONTENTS
+
+
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING ........................................................................................1
+II. DESCRIPTION OF PROPOSED CHANGES ....................................................................................................................4
+III. PROPOSED CHANGES..............................................................................................................................................10
+IV. DETAILED CHANGE(S) .............................................................................................................................................11
+ANNEX 1: RESULTS .......................................................................................................................................................13
+ANNEX 2: PROGRAM ACTION PLAN ............................................................................................................................23
+            The World Bank
+            Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+    I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+
+A. Program Background
+
+      1. Nigeria’s water, sanitation, and hygiene (WASH) Sector is in a state of emergency. Approximately 60 million Nigerians
+      lack access to basic drinking water services, with 38% of improved water points being non-functional and 30% failing after
+      the first year. Piped water access has declined significantly, from 32% in 1990 to just 7% in 2019. Poor sanitation and hygiene
+      practices are widespread, with 48 million Nigerians practicing open defecation. Only 11% of schools and 6% of healthcare
+      facilities have basic water supply and sanitation services1. Inadequate access to WASH services has severe implications for
+      public health, economic development, and overall quality of life. In Nigeria, inadequate WASH leads to 73% of the total
+      burden of enteric infections and over 255,000 preventable deaths each year. Nigeria invests an average of 0.32% of its gross
+      domestic product (GDP) annually in the WASH sector, which is much lower than the African average of 0.7%. To achieve the
+      Sustainable Development Goals (SDGs) by 2030, at least 1.30% of GDP investment is required. There is also a shortage of
+      skilled personnel to manage and maintain services, and environmental challenges such as water pollution and climate
+      change affect the quality and availability of services. Social and institutional barriers, such as limited community
+      participation and transparency, significantly impact the sustainability of WASH programs and projects.
+
+      2. In response to this critical situation, the Government of Nigeria (GoN) launched the National Action Plan (NAP) for the
+      Revitalization of Nigeria’s Water, Sanitation, and Hygiene Sector in 2018 to serve as a 13-year strategy aimed at ensuring
+      universal access to sustainable and safely managed WASH services by 2030. The Sustainable Urban and Rural Water Supply,
+      Sanitation, and Hygiene (SURWASH) Program (P170734) was designed and approved on May 25, 2021 to support the
+      implementation of the NAP. The Program became effective on January 14, 2022. With a total financing envelope of US$ 700
+      million (IDA Credit No. 6882-NG), the Program Development Objectives (PDO) are to increase access to water, sanitation,
+      and hygiene services and to strengthen sector institutions in participating states of Nigeria. The program focuses on two
+      results areas:
+
+            a. Results Area 1 (RA 1): Strengthened sector policies and institutions for improved services. This area focuses on
+               enacting necessary policy reforms and enhancing the capacity of institutions required for effective and sustainable
+               service delivery. It aims to improve the governance, management, and accountability mechanisms within the
+               WASH sector.
+
+            b. Results Area 2 (RA 2): Improved access to water supply, sanitation and hygiene services. This area supports an
+               integrated package of investments to expand access to and the use of WASH services in urban and rural areas and
+               small towns. It promotes a local government area (LGA)-wide approach to WASH service delivery, addressing
+               critical gaps simultaneously in WASH, and within communities, public institutions, and public places
+
+      3. The SURWASH Program is currently being implemented in seven states: Delta, Ekiti, Gombe, Imo, Kaduna, Katsina, and
+      Plateau. These states were selected by the Federal Ministry of Water Resources and Sanitation (FMWR&S) based on
+      eligibility and readiness criteria through a fair and transparent process. The program leverages financing from the World
+
+
+1Federal Ministry of Water Resources (FMWR), Government of Nigeria, National Bureau of Statistics (NBS), and UNICEF (2022). Water, Sanitation and Hygiene: National
+Outcome Routine Mapping (WASHNORM) 2021: A Report of Findings. FCT Abuja, Nigeria.
+
+                                                                                                                                                                 1
+         The World Bank
+         Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+   Bank using the Program-for-Results (PforR) instrument to support and incentivize infrastructure investment and the
+   strengthening of policies, institutions, and regulations (PIR). Additionally, a US$ 60 million Investment Project Financing
+   (IPF) component was included to provide technical assistance to address implementation gaps. Allocations under the PforR
+   and IPF components are notional, with final allocations determined based on performance. The program also allows for the
+   incorporation of additional states over time. Currently, assisted states such as Abia, Anambra, Bauchi, Edo, Jigawa, Kwara,
+   Niger, Oyo, Taraba, and the Federal Capital Territory (FCT) receive technical assistance from FMWR&S through the IPF to
+   address weaknesses and achieve readiness for investment under the PforR.
+
+   4. The program aims to benefit an estimated 6,100,000 people by providing basic drinking water services, 1,400,000
+   people with access to improved sanitation services, and 2,000 schools and healthcare facilities with improved WASH
+   services. Additionally, it targets 500 communities to become open defecation free and aims for seven states to achieve their
+   PIR targets. The Program is expected to close on June 30, 2027.
+
+B. Program Status
+
+   5. The Program has completed its third year of implementation in December 2024 with subpar performance. Substantial
+   acceleration in implementation is needed to achieve the PDO by program closing in 2027. While states have shown good
+   progress on reforms- and performance-related disbursement-linked indicators (DLIs), progress with access to services is
+   significantly lagging with the following results after Program Year 2:
+
+           a. basic drinking water to 58,585 people against a target of 610,000 people;
+           b. improved sanitation services to one (1) household against a target of 37,000 households;
+           c. improved water supply, sanitation and handwashing facilities to 22 schools and healthcare facilities against a
+              target of 200.
+
+   6. The Program midterm review (MTR), conducted between September 9 and October 4, 2024, was designed to gain a
+   deeper understanding of the implementation challenges and why the program is not able to meet its yearly targets. Several
+   critical issues were identified. First, the PforR instrument wasn’t sufficiently socialized among state-level decision-makers
+   which led to significant delays in budget allocations, fund releases and program execution, as many stakeholders continued
+   to operate under the assumption that the traditional IPF approach is still in use. Consequently, the benefits of the PforR
+   instrument, such as timely fund releases and the use of country systems, remain unrealized, hindering the program’s overall
+   progress and achievements. In a context where the WASH sector has been historically neglected and underfunded,
+   participating states didn’t fully grasp that ensuring a steady cash flow for capital-intensive infrastructure projects is crucial
+   for the SURWASH PforR to be effective. Without this steady cash flow, it is challenging to implement the necessary processes
+   to ultimately provide more people with WASH services. Table 1 summarizes the status of the program at midterm including
+   the associated cumulative disbursements. Disbursements currently stand at US$93.59 million (14%).
+
+   7. The PDO and Implementation Progress (IP) ratings remain Moderately Unsatisfactory, and SURWASH is currently a
+   problem project in the Portfolio due to significant delays.
+
+
+
+
+                                                                                                                                  2
+          The World Bank
+          Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+                                                        TABLE 1: PROGRAM PERFORMANCE AT MIDTERM (2024)
+
+                                                                                                           Associated Cumulative
+                                                                     Achievement at       Percentage                                Total Allocated
+                     DLI                        End Target (2027)                                        Disbursements at Midterm
+                                                                     Midterm (2024)      Achievement                                Amount (US$)
+                                                                                                                   (US$)
+
+DLI 1: Design of National WASH Fund to
+                                                       Yes                No                 0%                     0                  5,000,000
+enable its establishment
+
+DLI 2: Design, adoption and implementation
+of State PIR Plans and achievement of annual            7                  6                 86%                 6,500,000            35,000,000
+targets
+
+DLI 3: People provided with basic drinking
+                                                   6,100,000.00          58,585              1%                  3,604,150            233,500,000
+water service under the Program
+
+
+DLI 3.1: Performance improvement of state
+                                                       Yes                No                 90%                 8,500,000            52,500,000
+water supply implementing agencies
+
+DLI 4: People with access to a sustainably
+                                                    3,575,000              0                 0%                     0                 33,300,000
+functioning water service
+
+DLI 5: Households with improved sanitation
+facilities constructed or rehabilitated under        280,000               1               0.00036%                465                156,050,000
+the Program
+
+DLI 5.1: Performance improvement of state
+                                                       Yes                No                 90%                 6,833,333            52,500,000
+sanitation implementing agencies
+
+
+DLI 6: Communities having achieved
+community-wide sanitation status (ODF+) or
+                                                       500                 0                 0%                     0                 16,650,000
+number of ODF+ communities having
+maintained their status
+
+
+
+DLI 7: Schools and healthcare facilities with
+functional, improved water supply, sanitation
+                                                      2,000                22                1%                  610,500              55,500,000
+and handwashing facilities constructed or
+rehabilitated under the Program
+
+
+
+
+                                                                                                                                                    3
+         The World Bank
+         Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+A. Rationale for Restructuring
+
+   1. With two and a half years remaining in the Program, the current pace and ambitious targets necessitate restructuring
+   to address the challenges and improve the program's performance. The midterm review has recommended to expand the
+   Program to more states and to increase the verification cycles to at least two cycles per year. On November 20, 2024, the
+   Honorable Minister of Water Resources and Sanitation sent a call for expression of interest to all remaining states, inviting
+   them to express interest and share documentation by December 23, 2024 to assess their eligibility and readiness to be
+   onboarded. Given the time required to onboard new states and the urgency to address implementation bottlenecks, it was
+   recommended to proceed with two consecutive Level II restructurings.
+
+   2. The first restructuring was requested by the Federal Ministry of Finance (“The Borrower”) through an official letter
+   dated December 23, 2024. The objective of this first restructuring is to adjust the results and introduce scalability in order
+   to reward progress rather than perfection to facilitate achievement. These changes as detailed below, are intended to
+   enhance the overall effectiveness of the SURWASH Program. This restructuring is crucial to swiftly address the urgent
+   challenges related to achieving sectoral reform, performance outcomes, and sanitation targets, as well as improving overall
+   Program coordination and risk management. By implementing these adjustments, the program will be better positioned to
+   enhance the performance of the current seven participating states, achieve the intended outcomes, and deliver sustainable
+   benefits to the target communities. This first restructuring is expected to already positively impact the results for 2024 by
+   i) improving payments for results under DLIs 2, 3.1, and 5.1 through the introduction of a scalable performance framework;
+   and ii) aligning the sanitation DLIs 5 and 6 with the national sanitation strategy. DLIs 2, 3.1 and 5.1 are among the best
+   performing, and simplifying the reward framework based on realistic assessments will enhance feasibility and achievement,
+   thereby improving cash flow.
+
+   3. A second restructuring will be processed later this FY to onboard more states and adjust the Program accordingly. GoN
+   will send a detailed request once the ongoing assessments of eligibility and readiness are finalized, and an updated Program
+   Expenditure Framework (PEF) is available.
+
+   4. This constitutes the first restructuring of the SURWASH Program, and there are currently no outstanding audit or
+   financial reports.
+
+II. DESCRIPTION OF PROPOSED CHANGES
+
+   5. The following changes are proposed:
+       a. Adjustments of Results. The proposed restructuring will revise the description of DLIs 2, 3.1 and 5.1 to align with
+           the 2022 global PIR framework. Following the MTR, it was recommended to simplify the performance assessment
+           process for the PIR and Performance Improvement Action Plan (PIAPs). Rather than continuing to be based on
+           states achieving activity-level targets presented as annual performance targets (APTs), a performance framework
+           has been introduced for each of these three DLIs:
+               i. making it simpler by introducing performance thresholds based on a 0-5 progress scale to reward progress
+                  rather than perfection and hence facilitating achievement of PIR targets and ultimately improving cashflow
+                  with the payments for results; the current framework incentivizes the implementation of all annual reform
+
+
+
+                                                                                                                               4
+The World Bank
+Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+           or performance improvement targets rather than achievement of actual PIR reforms or performance
+           improvement outcomes;
+      ii. giving states more discretion and flexibility on setting priorities for reforms and performance improvement
+           actions; and
+     iii. focusing more on achievement of the actual performance improvement outcomes rather than on rewarding
+           the implementation of all activities.
+b. Under DLI 2, the six reform areas are maintained. However, their description has been aligned with the updated
+   global PIR framework. There will also be 17 reform components (RCs) to align with the proposed changes instead
+   of 11 (Table 2). The increase from 11 to 17 reform components is a strategic decision to ensure comprehensive
+   coverage of the reform areas. This expansion allows the Program to address the breadth of reform components
+   across urban and rural settings, water supply, sanitation, service provision, policies, institutional strengthening,
+   and regulations. Given the identified weaknesses at the subnational levels, it is crucial to cover the different
+   elements of the 2022 PIR framework thoroughly. This will strengthen the program's effectiveness and ensure that
+   all critical aspects of water supply and sanitation reforms are adequately addressed.
+c. No changes have been made to the list of Essential Elements under DLIs 3.1 and 5.1. Flexibility in the design and
+   implementation of the PIAPs is retained. However, it is imperative that each PIAP addresses the relevant Essential
+   Elements. These Essential Elements are critical for guaranteeing service quality and sustainability and are
+   categorized into two overarching categories: Accountability and Sustainability. The flexibility provided allows for
+   tailored approaches that best suit unique contexts and challenges of the implementing agencies. Nonetheless,
+   adherence to the Essential Elements ensures a standardized baseline of quality and sustainability across all PIAPs.
+   By focusing on Accountability, transparency, governance, and stakeholder engagement are enhanced. The
+   Sustainability category emphasizes the long-term viability of services, including technical, financial,
+   environmental, and operational aspects.
+
+
+
+
+                                                                                                                     5
+               The World Bank
+               Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+                                                      TABLE 2: REVISED DLI 2 REFORM AREAS AND REFORM COMPONENTS
+
+                         Reform Area 1* -                                                                                   Reform Area 4* - Ensure        Reform Area 5 -               Reform Area 6 -
+                                                          Reform Area 2* -                 Reform Area 3* -
+                         Consolidation and PIR                                                                              functioning and                Operationalize a WASH         Participation of
+                                                          Consolidation and PIR            Consolidation and PIR
+                         Strengthening of rural                                                                             accountable urban water        E&S screening and             women and youth in
+                                                          Strengthening of urban           Strengthening of urban
+                         water and sanitation                                                                               provider(s)                    assessment mechanism          the sector
+                                                          sanitation sector                water sector
+                         sector
+                                                                                                                                                                                                 RC-6a (P)
+                                                                     RC-2b (P)
+                                   RC-1b (P)                                                         RC-3a (P)                                                                           Gender mainstreaming
+                                                          Prepare urban sanitation
+                         Develop and adopt rural water                                     Develop legal, policy and                                                                     in human resources
+Policies (P)                                              policy in accordance with
+                         and     sanitation      policy                                    operational framework for                                                                     policies to address gaps
+                                                          city/LGA-wide        inclusive
+                         framework                                                         urban water supply                                                                            in     technical     and
+                                                          sanitation
+                                                                                                                                                                                         managerial positions
+
+                                                                                                                                                                    RC-5a (I)                   RC-6b (I)
+                                    RC-1c (I)
+                                                                                                    RC-3c (R/I)*                      RC-4b (I)            Establishment        and      Development        and
+                         Ensure     functioning  and                RC-2a (I)*
+                                                                                           Ensure functioning urban         Ensure     functioning and     implementation of E&S         implementation of a
+Institutions (I)         accountable rural water and      Ensure functioning      urban
+                                                                                           water regulator with a clear     accountable urban water        screening and assessment      young      professional
+                         sanitation department and/or     sanitation authority
+                                                                                           regulatory framework             provider(s)                    mechanism (guided by          program
+                         authority
+                                                                                                                                                           comprehensive manual)
+
+                                                                     RC-2c (R)                      RC-3b (P/R/F)
+                                                          Develop state-level standards    Prepare and implement poor-
+Regulations (R)
+                                                          and regulations for urban        inclusive tariff policy with
+                                                          sanitation                       sustainable cost recovery
+                                                                                                                                     RC-4a (P/I/F)
+                                                                                                                            Establish and operationalize
+                                                                    RC-2d (F)                         RC-3d (F)
+                                   RC-1d (F)                                                                                performance contract with
+                                                          Develop and implement            Develop     and      implement
+                         Develop     and    implement                                                                       financing and service
+Finance (F)                                               recurrent subsidy and capital    recurrent subsidy and capital
+                         recurrent and capital funding                                                                      agreements between state
+                                                          funding plan to improve          funding plan to improve urban
+                         plan to improve rural WASH                                                                         government and state water
+                                                          urban sanitation                 water
+                                                                                                                            authority (SWA) Board of
+                                                                                                                            Directors
+
+                                RC-1a (Intergov)
+Intergovernmental        Establish      LGA      WASH
+Context (Intergov)       Departments with adequate
+                         budget allocation and release
+
+Note: Yellow boxes indicate proposed additional reform components. Grey boxes indicate the unchanged reform components. Asterisks (*) indicate changed wording of reform areas/reform components.
+
+
+
+                                                                                                                                                                                               6
+       The World Bank
+       Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+       a. The proposed performance framework for DLIs 2, 3.1, and 5.1 will no longer follow an all-or-nothing approach to
+          trigger disbursements. Instead, thresholds of moderate and standard performance have been introduced to
+          generate a performance score, based on an aggregation of progress scales. This new framework allows for partial
+          disbursements of 50 percent based on performance thresholds, as outlined in Table 3. The details of what
+          constitutes moderate and standard performance under DLIs 2, 3.1, and 5.1 will be defined in the Program
+          Operations Manual (POM). This change aims to provide a more nuanced and flexible approach to disbursements,
+          ensuring that progress is recognized and rewarded. By introducing these performance thresholds, the framework
+          encourages continuous improvement and acknowledges varying levels of achievement, which can be particularly
+          important in addressing the diverse challenges faced by different states and implementation agencies.
+
+             TABLE 3: PROPOSED CHANGES IN THE DIRSBURSEMENT CALCULATIONS UNDER DLIS 2, 3.1 AND 5.1
+
+                                                         Disbursement Calculation          Disbursement Calculation
+                                                          Formula as approved in          Formula as proposed in the
+ Disbursement Linked        Disbursement Linked
+                                                                   2021                          restructuring
+    Indicator (DLI)             Result (DLR)
+                                                        (as applicable, expressed in      (as applicable, expressed in
+                                                                    US$)                              US$)
+                                 DLR 2.3-2.6:
+                                                                                          1,000,000 per Participating
+                           Achievement of annual
+  Design, adoption and                                                                  State for standard performance
+                           targets set out in State
+implementation of State                                                                        (full disbursement)
+                              PIR Plans for each        1,000,000 per Participating
+      PIR Plans and
+                            subsequent Program                    State
+ achievement of annual                                                                  500,000 per Participating State
+                             Year (from Program
+     targets (DLI 2)                                                                      for moderate performance
+                           Year 3 to Program Year
+                                                                                            (partial disbursement)
+                                      6)
+                               DLR 3.1.3-3.1.6                                            1,500,000 per Participating
+      Performance          Achievement of annual                                        State for standard performance
+ improvement of State       PIAP targets for each                                              (full disbursement)
+                                                        1,500,000 per Participating
+  water supply Sector       subsequent Program
+                                                                  State
+Institutions and service     Year (from Program                                         750,000 per Participating State
+   providers (DLI 3.1)     Year 3 to Program Year                                         for moderate performance
+                                      6)                                                     (partial disbursement)
+                                                                                          1,500,000 per Participating
+                              DLR 5.1.3-5.1.6                                           State for standard performance
+     Performance
+                           Achievement of annual                                               (full disbursement)
+   improvement of                                       1,500,000 per Participating
+                              PIAP targets for
+   sanitation Sector                                              State
+                             Program Years 3*                                           750,000 per Participating State
+ Institutions (DLI 5.1)
+                            through 6, inclusive.                                         for moderate performance
+                                                                                            (partial disbursement)
+
+       b. As part of the restructuring, it is proposed to make the wording of DLI 2 consistent across different documents.
+          Henceforth, DLI 2 will refer to ‘Design, adoption and implementation of State PIR Plans and achievement of annual
+          targets’ as per the Financing Agreement rather than ‘States achieving PIR plan targets’ as found in the results
+          framework.
+
+
+
+                                                                                                                          7
+The World Bank
+Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+c. Additionally, DLIs 5 and 6 will be revised to align with the definitions of improved sanitation and Open Defecation
+   Free (ODF+) in the updated national sanitation strategy and ODF protocol. This alignment aims to avoid confusion
+   at both the federal and state levels between the Program and sector activities. Implementing states have raised
+   concerns regarding the misalignment of different national programs. While some states are making entire LGAs
+   ODF, they are struggling to make communities of 500 households ODF under the Program. This gap in
+   understanding and the confusion with the requirements under the national ODF campaign and the SURWASH
+   program have been identified.
+d. Going forward, the definition of "ODF+" used under the Program is aligned with the updated protocol. To declare
+   a community open defecation free, it must meet the following criteria: (a) no exposed feces in the community or
+   surroundings; (b) households have and use toilets; (c) public places have separate toilets for males and females;
+   (d) pit toilets have fly-proof drop-hole covers (ventilated improved pit or VIP and pour flush toilets are exempt);
+   (e) handwashing facilities are present inside or near toilets; and (f) at least 50% of community toilets are improved.
+e. DLI 5 measures the number of households with improved sanitation facilities constructed or rehabilitated under
+   the Program. Household improved sanitation facilities include (i) flush toilets connected to a septic system in urban
+   areas or (ii) double pit pour-flush latrines in rural areas. Facilities must include a superstructure and a handwashing
+   station and adhere to technical standards and criteria as defined in the POM and aligned with the most up-to-date
+   national sanitation strategy.
+f. The results framework has been updated to incorporate these changes and to align with the new World Bank
+   scorecard.
+g. Risks. A reassessment of the program risks has been conducted at midterm based on current implementation
+   realities, including the identification and inclusion of mitigation measures to address these risks effectively. The
+   aim is to ensure that potential challenges are proactively managed, thereby minimizing their impact on the
+   program's progress. Table 4 provides an overview of the reassessed risks, their former and current ratings,
+   descriptions, and the proposed mitigation measures.
+
+                                    TABLE 4: REVISED RISK ASSESSMENT AT MIDTERM
+
+
+                       Rating at Approval       Proposed Rating             Rationale for Change and Proposed
+     Risk Category           (2021)                 (2025)                         Mitigation Measures
+
+                                                                       Since the 2023 elections, the political landscape
+                                                                       in Nigeria has undergone significant changes,
+                                                                       affecting the pace and overall buy-in on the
+                                                                       Program at both federal and state levels. The
+                                                                       commitment to WASH varies greatly across
+                                                                       states, and the poor program outcomes indicate
+Political and                                                          that this commitment is largely insufficient. The
+                      Substantial              High
+Governance                                                             initial strategy to mitigate political risks involved
+                                                                       ensuring that each participating state's
+                                                                       governor's      office    demonstrated         strong
+                                                                       commitment to the sector through eligibility and
+                                                                       readiness criteria. However, the current political
+                                                                       environment has introduced new challenges
+                                                                       that necessitate a reassessment of the political
+
+                                                                                                                          8
+The World Bank
+Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+                                                              risk to high. To address this, enhanced
+                                                              stakeholder engagement will be pursued to
+                                                              build broader support for the Program among
+                                                              key stakeholders, including local communities,
+                                                              civil society organizations, and the private
+                                                              sector. Targeted capacity-building initiatives will
+                                                              be provided to state implementation teams to
+                                                              improve their ability to manage and execute the
+                                                              Program and communicate about it effectively.
+                                                              A robust communication strategy will be
+                                                              developed and implemented to keep all
+                                                              stakeholders informed about the Program's
+                                                              progress, challenges, and successes, maintaining
+                                                              transparency and building trust. Additionally, a
+                                                              scorecard has been developed to track the
+                                                              Program's progress and identify potential risks
+                                                              early, and to ensure consistent political support
+                                                              and accountability at both federal and state
+                                                              levels.
+Macroeconomic        Substantial        Substantial
+
+Sector Strategies
+                     Moderate           Moderate
+and Policies
+Technical Design
+of Project or        Substantial        Substantial
+Program
+Institutional
+Capacity for
+                     Moderate           Moderate
+Implementation
+and Sustainability
+                                                              The Financial Management review at midterm
+                                                              revealed serious internal control issues, leading
+                                                              to a downgrade in the financial management risk
+                                                              rating to Moderately Unsatisfactory and an
+                                                              increase in the risk rating to High. The internal
+                                                              control systems are very weak in PIUs and
+                                                              characterized by monies paid into personal
+                                                              accounts of project staff, overpricing of
+Fiduciary            Substantial        High                  activities, high level of unretired advances. To
+                                                              address the issues, the Bank is to conduct prior
+                                                              review of all requests for payment for all PIUs
+                                                              until the situation improves. The state Project
+                                                              Financial Management Units (PFMUs) are to
+                                                              ensure strict adherence to the project financial
+                                                              implementation manual especially regarding
+                                                              retirement of advances. Any staff who has
+                                                              outstanding retirement will not be granted
+
+
+
+                                                                                                               9
+                  The World Bank
+                  Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+                                                                                        further advance. The project financial manual
+                                                                                        provides two weeks for retirement of advances.
+                  Environmental
+                                       Substantial              Substantial
+                  and Social
+                                                                                        Security has been a main concern in most of the
+                                                                                        states the Program is being implemented in.
+                                                                                        These challenges have disrupted program
+                                                                                        activities, posed risks to the safety of staff,
+                                                                                        contractors, and beneficiaries, and hinder the
+                                                                                        overall success of the program. To mitigate this
+                                                                                        risk, it is recommended to enhance the existing
+                                                                                        security management plan by addressing the
+                  Other                Substantial              Substantial
+                                                                                        identified gaps. This includes implementing
+                                                                                        stricter security protocols, collaborating with
+                                                                                        local authorities, leveraging technology,
+                                                                                        conducting regular risk assessments and
+                                                                                        monitoring, providing security training and
+                                                                                        awareness        programs,   and     developing
+                                                                                        contingency plans for different security
+                                                                                        scenarios.
+                  Overall              Substantial              Substantial
+
+
+                  h. Institutional and Implementation Arrangements. The restructuring will involve the assessment and incorporation
+                     of any relevant implementing agencies (IAs) responsible for WASH service delivery, policy setting, or regulatory
+                     oversight in the participating states. The Program Implementation structures will be revised to improve support
+                     to the IAs. To better reflect their role in coordination and technical assistance to IAs, the Program Implementation
+                     Units (PIUs) will now be referred to as Program Coordination Units (PCUs).
+                  i. Revised Implementation Schedule. The program schedule will be adjusted to align with the above revisions.
+                     Despite the delays, the aim is still to achieve all targets by 2027. Therefore, the implementation pace will be
+                     accelerated in 2025 and 2026. This acceleration will be supported by the recruitment of a large Project
+                     Management Consultancy (PMC) firm, which will assist with technical designs, procurement, Environmental and
+                     Social (E&S) safeguards, and Monitoring and Evaluation (M&E) as well as an additional IVA to support two
+                     verification cycles per year. These measures are necessary to ensure that all activities are completed within the
+                     revised Program timeline, thereby facilitating the achievement of the program's objectives.
+
+
+     @#&OPS~Doctype~OPS^dynamics@restrhybridsummarychanges#doctemplate
+Summary changes
+
+
+
+
+III. PROPOSED CHANGES
+
+      Operation Information                  Proposed Changes                 Operation Information              Proposed Changes
+
+      Results                                           Yes                Institutional Arrangement                      Yes
+      Risks                                             Yes                Implementation Schedule                        Yes
+
+
+                                                                                                                                      10
+          The World Bank
+          Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+Disbursements Estimates                       Yes             Loan Closing Date Extension              No
+Development Objective                         No              Loan Cancellations                       No
+Summary Description
+                                              No              Reallocations                            No
+(Operation Abstract)
+Legal Operational Policies                    No              Financial Management                     No
+MFD/PCE                                       No              Procurement                              No
+Legal Covenants                               No              Other Change(s)                          No
+Conditions                                    No
+Implementation Modalities                     No
+Disbursements Arrangements                    No
+Clients                                       No
+Program Action Plan                           No
+
+@#&OPS~Doctype~OPS^dynamics@pfrrestrhybriddetailedchanges-disclose#doctemplate
+IV. DETAILED CHANGE(S)
+
+
+COSTS & FINANCING
+
+ Is this an MFD-Enabling Project (MFD-EP)?
+
+
+
+ Is this project Private Capital Enabling (PCE)?
+
+
+
+
+DISBURSEMENTS
+Operation Dates & Projection Details
+Reasons to change the full Disbursement date and/or the projection
+Restructuring
+Implementation Start Date                                     Operation Closing Date
+25-May-2021                                                   30-Jun-2027
+Projected Date for Full Disbursement
+30-Jun-2027
+
+Expected Disbursements (in US $) (Absolute)
+
+
+
+                                                                                                                   11
+         The World Bank
+         Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+                            Original Estimation at Preparation                                         Actual
+Year                                                                   Revised Estimation
+                            (Approval Package – 25 May 2021)
+FY2021                                           32,000,000.00                          0.00                      0.00
+FY2022                                             3,000,000.00                58,750,074.00            58,750,074.00
+FY2023                                           50,000,000.00                 14,387,189.05            14,387,189.05
+FY2024                                           67,000,000.00                  7,217,681.25              7,217,681.25
+FY2025                                          118,000,000.00                 43,232,168.69            13,232,168.69
+FY2026                                          153,000,000.00                250,000,000.00                      0.00
+FY2027                                          229,000,000.00                326,412,887.01                      0.00
+
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+                                                      Last Approved
+  Risk Category                                                                                Proposed
+                                                (ISR Seq. 07) - 29 Oct 2024
+
+ Political and Governance                   High                                              High
+ Macroeconomic                              Substantial                                       Substantial
+ Sector Strategies and Policies             Moderate                                          Moderate
+ Technical Design of Project or             Substantial                                       Substantial
+ Program
+ Institutional Capacity for                 Moderate                                          Moderate
+ Implementation and Sustainability
+ Fiduciary                                  High                                              High
+ Environment and Social                     Substantial                                       Substantial
+ Stakeholders                               Moderate                                          Moderate
+ Other                                                                                        Substantial
+ Overall                                    Substantial                                       Substantial
+
+
+LEGAL
+
+
+
+
+                                                                                                                   12
+              The World Bank
+              Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+                                                                                    ANNEX 1: RESULTS
+                                                                            COUNTRY: Nigeria
+                                       Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results
+
+
+
+@#&OPS~Doctype~OPS^dynamics@pfrrestrannexpolicyandresult#doctemplate
+PDO Indicators by PDO Outcomes
+
+Increase access to water, sanitation, and hygiene services and strengthen sector institutions
+           Indicator Name                           Baseline                          Actual (Previous)                     Actual (Current)                        Closing Period
+                                          Result          Month/Year               Result              Date               Result              Date              Result         Month/Year
+Revise Design, adoption and                0.00            May/2021                 7.00           23-Aug-2024              6             16-Jan-2025              6             Jun/2027
+implementation of State PIR Plans      Comments on achieving targets         Six out of 7 states met this DLI in Program Year 2 (86% achievement). Verification for Program Year 3 (2024) is
+and achievement of annual targets                                            ongoing.
+(Number) DLI
+                                           0.00            May/2021                58,585            23-Aug-2024            58,585          17-Jan-2025       6,100,000.00         Jun/2027
+                                       Comments on achieving targets         The results for Program Year 2, as verified by the Independent Verification Agent (IVA), indicate that 58,585
+                                                                             people were reached by this indicator. The number initially reported by the states for verification was 83,580
+People provided with basic drinking
+                                                                             people. The shortfall in achieving the desired targets can be attributed to the delayed commencement of the
+water service under the Program
+                                                                             procurement process by the states. Currently, there are work activities underway in several states, including
+(Number) DLI
+                                                                             Kaduna, Ekiti, Katsina, and Plateau. In Year 2, only four states—Delta, Ekiti, Gombe, and Katsina—submitted
+                                                                             their results for verification. Notably, two contracts for Urban Water in Delta were terminated. The breakdown
+                                                                             of the verified results by state is as follows: Gombe – 11,750; Delta – 10,000; and Katsina – 36,835.
+       People provided with basic          0.00            May/2021                28,882            23-Aug-2024            28,882          17-Jan-2025       3,007,300.00         Jun/2027
+       drinking water service under    Comments on achieving targets         As per the demographic information, assuming at least 49.3% of the reported beneficiary are female.
+       the Program - female
+       (Number) DLI
+       People provided with basic            0.00            May/2021             23,500          23-Aug-2024           23,500           17-Jan-2025       4,473,333.00          Jun/2027
+       drinking water service under
+       the Program - rural
+       (Number) DLI
+
+
+                                                                                                                                                                                       13
+              The World Bank
+              Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+       People provided with basic             0.00           May/2021         35,085          23-Aug-2024            35,085           17-Jan-2025        1,626,667.00          Jun/2027
+       drinking water service under
+       the Program - urban and small
+       towns (Number) DLI
+       Revise Performance                    No                                Yes                                     No                                     Yes
+       improvement of state Water        Comments on achieving targets   Almost all IAs met the targets (90%) in Program Year 2 (2023). Verification for Program Year 3 (2024) is ongoing.
+       Supply implementing agencies
+       (Yes/No) DLI
+People provided with access to               0.00            May/2021              5            23-Aug-2024              5             17-Jan-2025         1,400,000.00        Jun/2027
+improved sanitation services             Comments on achieving targets   Katsina was the only state that submitted results under this DLI. However, out of the eighty-six (86) sanitation
+(Number)                                                                 facilities that were reported by the state, only one fully adhered to the stipulated standards and requirements.
+       People provided with access            0.00                                 2                                     2                                  690,200.00
+       to improved sanitation
+       services - Female (RMS
+       requirement) (Number)
+       People provided with access            0.00                               5                                      5                                1,150,000.00
+       to improved sanitation
+       services - rural (Number)
+       People provided with access            0.00                             0.00                                   0.00                                250,000.00
+       to improved sanitation
+       services - urban (Number)
+Schools and healthcare facilities with       0.00            May/2021            22           23-Aug-2024              22              17-Jan-2025          2,000.00            Jun/2027
+improved water supply, sanitation        Comments on achieving targets   The submitted number reported for verification was 43. However, as per the verification report, only 22
+and handwashing facilities                                               adhered to standards. The lag was due to the late start of the procurement process in some of the states and
+constructed or rehabilitated                                             the late understanding of the design specifications for institutional WASH facilities. Works activities are ongoing
+(Number) DLI                                                             in Kaduna. The breakdown of verified results as follows: Ekiti - 7; Gombe – 6; and Katsina - 9.
+       Schools and healthcare                 0.00           May/2021            4            23-Aug-2024               4              17-Jan-2025          1,500.00            Jun/2027
+       facilities with improved water
+       supply, sanitation and
+       handwashing facilities
+       constructed or rehabilitated -
+       rural (Number) DLI
+       Schools and healthcare                 0.00           May/2021           18            23-Aug-2024              18             17-Jan-2025           500.00             Jun/2027
+       facilities with improved water
+       supply, sanitation and
+       handwashing facilities
+
+                                                                                                                                                                                     14
+              The World Bank
+              Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+       constructed or rehabilitated -
+       urban and small towns
+       (Number) DLI
+Revise Communities having achieved           0.00            May/2021               0.00           23-Aug-2024             0.00           16-Jan-2025            500.00            Jun/2027
+and/or maintained community-wide         Comments on achieving targets        There has been a lot of confusion regarding this DLI and no state so far (even those declaring entire LGAs ODF)
+sanitation status (declared and                                               has achieved any results under it as of Program Year 2 (2023). Verification for Program Year 3 (2024) is ongoing.
+verified as ODF+) (Number) DLI
+        Communities having achieved           0.00               May/2021             0.00          23-Aug-2024            0.00           17-Jan-2025           375.00            Jun/2027
+        and/or maintained
+        community-wide sanitation
+        status (declared and verified
+        as ODF+) - rural
+        (Number) DLI
+        Communities having achieved           0.00               May/2021             0.00          23-Aug-2024            0.00           17-Jan-2025           125.00            Jun/2027
+        and/or maintained
+        community-wide sanitation
+        status (declared and verified
+        as ODF+) - urban and small
+        towns (Number) DLI
+
+
+Intermediate Results Indicators by Results Areas
+
+
+Results Area 1: Strengthened sector policies and institutions for improved services
+           Indicator Name                             Baseline                          Actual (Previous)                    Actual (Current)                        Closing Period
+                                             Result              Month/Year        Result               Date              Result                Date            Result           Month/Year
+Share of workers managing public              0.00               May/2021             0.00          23-Aug-2024            0.00           17-Jan-2025            10.00            Jun/2027
+sanitation facilities built under the    Comments on achieving targets        Public sanitation facilities have not yet been constructed under the Program.
+Program who are persons with
+disabilities/other group identified as
+excluded (Percentage)
+Proportion of WASHCOMs supported              0.00               May/2021             0.00          23-Aug-2024            0.00           17-Jan-2025            30.00            Jun/2027
+under the Program with at least one      Comments on achieving targets        Data regarding the number of women in leadership positions in WASHCOMs is limited. Anecdotal data suggests
+woman holding a leadership position                                           that women rarely hold leadership positions and instead hold the treasurer's position.
+(Percentage)
+
+                                                                                                                                                                                         15
+              The World Bank
+              Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+Share of newly created engineering            0.00               May/2021           0.00           23-Aug-2024            0.00           17-Jan-2025            40.00            Jun/2027
+or technical positions filled by         Comments on achieving targets        None have been reported at this time.
+women through internal promotion
+or external recruitment among
+service providers participating in the
+Program (Percentage)
+Grievances registered and addressed           0.00               May/2021          100.00          23-Aug-2024           100.00          17-Jan-2025            80.00            Jun/2027
+in a timely manner under the             Comments on achieving targets        One grievance was recorded by Katsina RUWASSA for the wrong siting of a borehole while two grievances were
+Program (Percentage)                                                          recorded by the Katsina Urban Water Board. The three were resolved in under two weeks.
+                                               No                May/2021            No            23-Aug-2024             No            17-Jan-2025             Yes             Jun/2027
+National WASH Fund established and
+operational (Yes/No) DLI                 Comments on achieving targets        The Ministry plans to review and select the option going forward after holding stakeholder consultative fora
+                                                                              across the country.
+Results Area 2: Improved access to water supply, sanitation and hygiene services
+           Indicator Name                             Baseline                        Actual (Previous)                      Actual (Current)                       Closing Period
+                                             Result              Month/Year        Result              Date              Result                 Date           Result          Month/Year
+People provided with water,                                                          0             23-Aug-2024           58,585          17-Jan-2025         6,100,000          May/2027
+sanitation, and hygiene (Number of
+people) CRI
+       People provided with water,                                                   0             23-Aug-2024           38,666          17-Jan-2025         4,026,000          May/2027
+       sanitation, and hygiene –
+       Youth (Number of people)
+       CRI
+       People provided with water,                                                   0             23-Aug-2024           28,882          17-Jan-2025         3,007,300          May/2027
+       sanitation, and hygiene –
+       Female (Number of people)
+       CRI
+People with enhanced resilience to                                                   0             23-Aug-2024           58,585          17-Jan-2025         6,100,000           Jun/2027
+climate risks (Number of people)
+CRI
+       People with enhanced                                                          0             23-Aug-2024           38,666          17-Jan-2025         4,026,000           Jun/2027
+       resilience to climate risks –
+       Youth (Number of people)
+       CRI
+
+
+                                                                                                                                                                                       16
+              The World Bank
+              Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+       People with enhanced                                                    0             23-Aug-2024            28,882           17-Jan-2025           3,007,300           Jun/2027
+       resilience to climate risks –
+       Female (Number of people)
+       CRI
+                                            75.20          May/2021         75.20            23-Aug-2024             75.20           17-Jan-2025             88.30             Jun/2027
+Population using basic water supply    Comments on achieving targets   The indicator measures the proportion of the population using basic water supply services for the 7 participating
+services (Percentage)                                                  states. These account for population growth of 2.6% per year and underlying coverage increases of 1% for basic
+                                                                       water using JMP trends [RF Coverage assumptions].
+                                            69.30          Apr/2021         69.30            23-Aug-2024             69.30           17-Jan-2025             72.30             Jun/2027
+Population using improved sanitation   Comments on achieving targets   The indicator measures the proportion of the population using improved sanitation for the 7 participating
+(Percentage)                                                           states. These account for population growth of 2.6% per year and underlying coverage increases of 0.5% for
+                                                                       improved sanitation using JMP trends [RF Coveragessumptions].
+Revise Households with improved             0.00           May/2021            1             23-Aug-2024               1             16-Jan-2025          280,000.00           Jun/2027
+sanitation facilities constructed or   Comments on achieving targets   Only Katsina reported a number of 86 households for the verification by IVA in Program Year 2 (2023). Only one
+rehabilitated under the Program                                        of the facilities adhered to standards as per the final verification report. Verification for Program Year 3 (2024) is
+(Number) DLI                                                           ongoing.
+       Households with improved             0.00           May/2021            1             23-Aug-2024               1             17-Jan-2025          230,000.00           Jun/2027
+       sanitation facilities           Comments on achieving targets   Only Katsina reported a number of 86 households for the verification by IVA. Only one of the facilities adhered
+       constructed or rehabilitated                                    to standards as per the verification report.
+       under the Program - rural
+       (Number) DLI
+       Households with improved             0.00           May/2021          0.00            23-Aug-2024             0.00            17-Jan-2025           50,000.00           Jun/2027
+       sanitation facilities
+       constructed or rehabilitated
+       under the Program - urban
+       and small towns
+       (Number) DLI
+       Revise Performance                    No                               No                                      No                                      Yes
+       improvement of state            Comments on achieving targets   Almost all IAs met the targets (90%) for Program Year 2 (2023). Verification for Program Year 3 (2024) is
+       sanitation implementing                                         ongoing.
+       agencies (Yes/No) DLI
+People with access to sustainably           0.00           May/2021          0.00            23-Aug-2024             0.00            17-Jan-2025         3,575,000.00          Jun/2027
+functioning water service              Comments on achieving targets   Tracking of the indicator will start in Program Year 3.
+(Number) DLI
+
+
+                                                                                                                                                                                      17
+              The World Bank
+              Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+                                                0.00           May/2021               0.00           23-Aug-2024              0.00           17-Jan-2025          400.00            Jun/2027
+Public places provided with WASH
+facilities (Number)                        Comments on achieving targets        No public places have been provided with WASH facilities yet under the Program.
+
+Utilities achieving at least 10 percent         0.00           May/2021               0.00           23-Aug-2024              0.00           17-Jan-2025            5.00            Jun/2027
+average increase in energy                 Comments on achieving targets        The indicator hasn't been tracked yet.
+efficiency/reduction in water loss
+(Number)
+Share of rural and small town water             0.00           May/2021               0.00           23-Aug-2024              0.00           17-Jan-2025           60.00            Jun/2027
+supply beneficiaries using systems         Comments on achieving targets        This indicator has not been tracked yet. However, all the schemes larger than handpump boreholes constructed
+relying on renewable energy                                                     under the program are solar-powered across all the states (Subject to tracking and further verification).
+(Percentage)
+Water supply systems with regular               0.00           May/2021               0.00           23-Aug-2024              0.00           17-Jan-2025           70.00            Jun/2027
+water quality and quantity                 Comments on achieving targets        This indicator has not yet been tracked specifically. The indicator tracks the proportion of water supply systems
+monitoring to improve resilience of                                             with regular water quality and quantity monitoring to improve resilience of populations in climate-vulnerable
+populations in climate-vulnerable                                               areas.
+areas within Program LGAs
+(Percentage)
+
+
+Disbursement Linked Indicators (DLI)
+
+
+                                                                                       Actual (Previous)                             Actual (Current)
+                    DLI Name                              Baseline                                                                                                          End Target
+                                                                                  Result                   Date                Result                   Date
+
+1 National WASH Fund               Value           No                                                                                                                Yes
+established and operational
+(Yes/No)                           Allocated                               No                     23-Aug-2024            No                      29-Jan-2025
+                                                   0.00                                                                                                              0.00
+Total Allocation:5,000,000.00      Amount
+
+Revise 2 Design, adoption and      Value           0.00                                                                                                              6
+implementation of State PIR
+Plans and achievement of                                                   7.00                   23-Aug-2024            6                       29-Jan-2025
+                                   Allocated
+annual targets (Number)                            0.00                                                                                                              7,000,000.00
+                                   Amount
+Total Allocation:35,000,000.00
+
+
+                                                                                                                                                                                           18
+            The World Bank
+            Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+3 People provided with basic    Value       0.00                                                                              6,100,000.00
+drinking water service under
+the Program (Number)                                       58,585           23-Aug-2024     58,585              29-Jan-2025
+                                Allocated
+Total                                       0.00                                                                              38,257,042.00
+                                Amount
+Allocation:233,500,000.00
+
+     People provided with       Value       0.00
+     basic drinking water
+     service under the
+     Program - female           Allocated                                                   28,882              29-Jan-2025
+                                            0.00
+     (Number)                   Amount
+     Total Allocation:0.00
+
+     People provided with       Value       0.00
+     basic drinking water
+     service under the
+     Program - rural            Allocated                                                   23,500              29-Jan-2025
+                                            0.00
+     (Number)                   Amount
+     Total Allocation:0.00
+
+     People provided with       Value       0.00
+     basic drinking water
+     service under the
+     Program - urban and        Allocated                                                   35,085              29-Jan-2025
+                                            0.00
+     small towns (Number)       Amount
+     Total Allocation:0.00
+     Revise 3.1 Performance     Value       No                                                                                Yes
+     improvement of state
+     Water Supply
+     implementing agencies                                 14.00            23-Aug-2024     No                  29-Jan-2025
+                                Allocated
+     (Yes/No)                               0.00                                                                              10,500,000.00
+                                Amount
+     Total
+     Allocation:52,500,000.00
+
+                                Value       0.00           0.00             23-Aug-2024     0.00                29-Jan-2025   3,575,000.00
+
+
+
+                                                                                                                                              19
+             The World Bank
+             Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+4 People with access to
+sustainably functioning water    Allocated
+service (Number)                             0.00                                                                              16,650,000.00
+                                 Amount
+Total Allocation:33,300,000.00
+Revise 5 Households with         Value       0.00                                                                              280,000.00
+improved sanitation facilities
+constructed or rehabilitated
+                                 Allocated                  1                23-Aug-2024     1                   29-Jan-2025
+under the Program (Number)
+                                             0.00                                                                              41,587,500.00
+Total                            Amount
+Allocation:156,050,000.00
+
+     Households with             Value       0.00
+     improved sanitation
+     facilities constructed or
+     rehabilitated under the                                                                 1                   29-Jan-2025
+                                 Allocated
+     Program - rural                         0.00
+                                 Amount
+     (Number)
+     Total Allocation:0.00
+
+     Households with             Value       0.00
+     improved sanitation
+     facilities constructed or
+     rehabilitated under the                                                                 0                   29-Jan-2025
+                                 Allocated
+     Program - urban and                     0.00
+                                 Amount
+     small towns (Number)
+     Total Allocation:0.00
+     Revise 5.1 Performance  Value           No                                                                                Yes
+     improvement of state
+     sanitation implementing
+                             Allocated                      14.00            23-Aug-2024     No                  29-Jan-2025
+     agencies (Yes/No)
+                                             0.00                                                                              10,500,000.00
+     Total                   Amount
+     Allocation:52,500,000.00
+
+                                 Value       0.00           0.00             23-Aug-2024     0.00                29-Jan-2025   500.00
+
+
+
+                                                                                                                                               20
+            The World Bank
+            Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+Revise 6 Communities having
+
+achieved community-wide
+sanitation status (ODF+) or
+                               Allocated
+number of ODF+ communities                   0.00                                                                             4,364,000.00
+                               Amount
+having maintained their status
+(Number)
+Total Allocation:16,650,000.00
+
+     Communities having        Value         0.00
+     achieved and/or
+     maintained community-
+     wide sanitation status                                                                 0                   29-Jan-2025
+                               Allocated
+     (declared and verified as               0.00
+                               Amount
+     ODF+) - rural (Number)
+     Total Allocation:0.00
+
+     Communities having        Value         0.00
+     achieved and/or
+     maintained community-
+     wide sanitation status
+     (declared and verified as Allocated                                                    0                   29-Jan-2025
+                                             0.00
+     ODF+) - urban and small Amount
+     towns (Number)
+     Total Allocation:0.00
+
+7 Schools and healthcare         Value       0.00                                                                             2,000.00
+facilities with functional,
+improved water supply,
+sanitation and handwashing
+facilities constructed or        Allocated                 22               23-Aug-2024     22                  29-Jan-2025
+                                             0.00                                                                             5,550,000.00
+rehabilitated under the          Amount
+program (Number)
+Total Allocation:55,500,000.00
+
+                                 Value       0.00
+     Schools and healthcare
+     facilities with improved    Allocated                                                  18                  29-Jan-2025
+     water supply, sanitation                0.00
+                                 Amount
+                                                                                                                                             21
+       The World Bank
+       Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+and handwashing
+facilities constructed or
+rehabilitated - urban and
+small towns (Number)
+Total Allocation:0.00
+
+Schools and healthcare      Value       0.00
+facilities with improved
+water supply, sanitation
+and handwashing
+facilities constructed or   Allocated                                                  4                   29-Jan-2025
+                                        0.00
+rehabilitated - rural       Amount
+(Number)
+Total Allocation:0.00
+
+
+
+
+                                                                                                                         22
+                               The World Bank
+                               Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+                                                                                      ANNEX 2: PROGRAM ACTION PLAN
+
+
+.
+
+      @#&OPS~Doctype~OPS^dynamics@pfrrestrannexprogramactionplan#doctemplate
+         PROGRAM ACTION PLAN
+
+
+
+
+    PAP_CHANGE_TBL
+
+
+
+
+                                                                                                                                         Completion
+                     Action Description             Source           DLI#        Responsibility                Timing                   Measurement                Action
+
+        Establishment of                       Technical                        State PIUs          Other                           SPIUs est. with
+        SPIUs, including at                                                                                                         required staff (w/ clear
+        least a coordinator                                                                                                         ToRs) by 3 mths after
+        and specialists in                                                                                                          effectiveness or prior
+        procurement,                                                                                               3 months after to disbmt for any state,
+        financial                                                                                                  effectiveness or whichever is earlier.
+        management,                                                                                                prior to         Staff maintained
+                                                                                                                                                               No change
+        environmental, social                                                                                      disbursement, through
+        and inclusion,                                                                                             whichever is     implementation.
+        planning, and M&E,                                                                                         earlier          Training module &
+        as well as technical                                                                                                        implementation
+        staff. Implementation                                                                                                       support supervision
+        of capacity building                                                                                                        report of WB team.
+        program.
+
+        Prepare Program                        Technical                        Federal/State       Other                           POM completed and
+        Operational Manual                                                      PIUs                                                disseminated to
+        (POM), with                                                                                                Prior to         stakeholders prior to      No change
+        comprehensive                                                                                              effectiveness    effectiveness. POM
+        guidelines for E&S                                                                                                          adopted by SPIUs prior
+        due diligence and                                                                                                           to disbursement.
+
+                                                                                                                                                                       23
+       The World Bank
+       Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+core inclusion                                                                                              Associated training
+activities, such as                                                                                         provided, guidelines
+gender, SEP, SEA/H,                                                                                         operationalized, and
+resettlement and                                                                                            relevant POM
+protection of                                                                                               requirements are
+vulnerable groups.                                                                                          applied to all Program
+Use POM for all                                                                                             activities.
+implementation.
+
+Hire the IVA to verify   Technical                      Federal/State       Other                         IVA hired with Bank-
+DLIs annually against                                   PIUs                                              accepted
+verification protocol                                                                                     contract/TORs no later
+and conduct quarterly                                                                                     than 90 days after
+monitoring of                                                                              90 days after  effectiveness. Submit
+progress on E&S risk                                                                       effectiveness; qtly reports to Bank
+management,                                                                                Every 3 months including progress of       No change
+particularly regarding                                                                     during Program implem. of actions &
+the compliance of                                                                          implementation compliance with E&S
+Program activities                                                                                        risk management &
+with the PAP & E&S                                                                                        anti-corruption
+due diligence, and                                                                                        guidelines. E&S due
+ACG.                                                                                                      diligence per POM.
+
+Ensure that a robust     Environmental                  Federal/State       Other                           Screening mechanism
+E&S screening            and Social                     PIUs                                                manual prepared and
+mechanism is in place    Systems                                                           Prior to         submitted to the Bank
+and guides E&S                                                                                              prior to effectiveness.   No change
+                                                                                           effectiveness
+management of                                                                                               IVA to submit quarterly
+proposed                                                                                                    reports to the Bank
+interventions
+
+                                                                                                                                              24
+       The World Bank
+       Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+throughout                                                                                                     throughout
+implementation,                                                                                                implementation.
+supported by a
+comprehensive
+manual which will
+include inter alia the
+Exclusion List (to be
+included in the POM).
+
+Establish a strong       Environmental                  SPIUs,              Other                              Appropriate GRM
+grievance redress        and Social                     Implementing                                           protocol and staffing
+mechanism (GRM)          Systems                        Agencies                                               are in place.
+                                                                                           Prior to start of
+system to ensure that
+                                                                                           activities in                                  No change
+the stakeholders are
+                                                                                           relevant state
+well sensitized ahead
+of any
+implementation.
+
+Establish a gender-      Environmental                  SPIUs,              Other                            First minutes of
+based violence (GBV)     and Social                     Implementing                                         committee meeting,
+response committee       Systems                        Agencies                           Prior to start of including committee
+at the state level to                                                                      activities in     composition,                 No change
+proactively create a                                                                       relevant state satisfactory to the
+safe place for all                                                                                           Bank.
+gender related issues.
+
+Preparation and          Fiduciary                      FPIU                Other                              SPIUs prepare and
+submission of            Systems                                                           45 days after       submit program
+consolidated calendar                                                                      the end of the      financial reports to the   No change
+                                                                                           relevant            FPIU, and the FPIU
+                                                                                                               consolidates the
+                                                                                                                                                  25
+            The World Bank
+            Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program-for-Results (P170734)
+
+
+
+
+     semester program                                                                           calendar         reports with its own
+     financial reports.                                                                         semester         and submits to the
+                                                                                                                 Bank.
+
+     Protocol adopted and      Fiduciary                     FPIU                Other                           Protocol adopted by
+     implemented for           Systems                                                                           FPIU prior to
+     reporting,                                                                                                  effectiveness. Report
+     management and                                                                                              on fraud and
+                                                                                                Prior to
+     investigation of fraud                                                                                      corruption allegations
+                                                                                                effectiveness;                            No change
+     and corruption                                                                                              submitted bi-annually
+                                                                                                Semi-annually
+     allegations                                                                                                 as part of Program
+     operationalized in                                                                                          implementation
+     MDAs implementing                                                                                           progress report.
+     SURWASH program.
+
+     Finalization and          Fiduciary                     Min. Budget and     Other                           Funds Release policy
+     adoption of a ‘Funds      Systems                       Planning; Min.                                      finalized and MDAs
+     Release policy’ for                                     Finance                                             BERs showing
+     improved                                                                                   By               cumulative budget
+                                                                                                                                          No change
+     predictability of funds                                                                    effectiveness    releases against
+     flow to MDAs                                                                                                appropriations.
+     implementing
+     SURWASH.
+
+       Proposed
+
+      Action Description            Source          DLI#            Responsibility                    Timing                  Completion Measurement
+
+..
+
+
+
+                                                                                                                                                  26
+
