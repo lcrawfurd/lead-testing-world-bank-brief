@@ -2,7 +2,7 @@
 
 Code, data, and analysis behind a [Center for Global Development blog
 post](https://www.cgdev.org/) auditing how the World Bank's active
-water supply and sanitation portfolio handles lead in drinking water.
+water supply portfolio handles lead in drinking water.
 
 **Headline finding:** across the Bank's active drinking-water-supply
 portfolio (81 projects tagged with the WWC sector code, ~\$3 billion
