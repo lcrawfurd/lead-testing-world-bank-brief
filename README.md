@@ -100,9 +100,6 @@ re-runs only redo what's stale.
 │   ├── tables/                 Parsed water-quality parameter tables
 │   ├── audit/                  Per-project verdicts + region/financing chart
 │   └── cea/                    Back-of-envelope cost-effectiveness analysis
-│
-└── Reviews/                    Code-quality review reports from each
-                                methodological tightening
 ```
 
 ## How the pipeline works
