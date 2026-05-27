@@ -84,7 +84,7 @@ def main() -> int:
                      reverse=True)
     labels = [SHORT.get(r, r) for r in regions]
 
-    fig, ax = plt.subplots(figsize=(7.5, 4.6))
+    fig, ax = plt.subplots(figsize=(6.5, 4.6))
 
     bottoms = [0.0] * len(regions)
     for kind in ["IBRD", "IDA", "Grant"]:
@@ -122,21 +122,23 @@ def main() -> int:
     leg.get_title().set_color(TEAL)
 
     # Title aligned top-left per CGD guide
-    ax.set_title("WB Active Water-Supply Portfolio: water-attributable "
-                 "share by region and financing type",
+    ax.set_title("WB Active Water-Supply Portfolio:\n"
+                 "water-attributable share by region and financing type",
                  loc="left", fontsize=13, fontweight="bold", color=TEAL,
                  pad=14)
     n_total = sum(by_region[r]["n"] for r in regions)
     audit_total = sum(by_region[r]["audit_total"] for r in regions) / 1e9
-    fig.text(0.5, 0.01,
+    fig.text(0.5, 0.04,
              f"{n_total} active projects (WWC sector code). Bars show the "
              f"water-attributable share of each project's commitment, "
-             f"summing to ${audit_total:.1f}B. "
-             "IBRD = market-rate loan; "
-             "IDA = concessional credit; "
+             f"summing to ${audit_total:.1f}B.",
+             ha="center", fontsize=8.5, style="italic", color=TEAL_BLACK)
+    fig.text(0.5, 0.005,
+             "IBRD = market-rate loan;  "
+             "IDA = concessional credit;  "
              "Grant = no repayment.",
              ha="center", fontsize=8.5, style="italic", color=TEAL_BLACK)
-    fig.tight_layout(rect=(0, 0.03, 1, 0.96))
+    fig.tight_layout(rect=(0, 0.06, 1, 0.96))
 
     fig.savefig(PNG, dpi=200, bbox_inches="tight")
     fig.savefig(SVG, bbox_inches="tight")
